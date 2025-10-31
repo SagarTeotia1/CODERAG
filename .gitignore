@@ -1,0 +1,50 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+*.egg-info/
+*.tox/
+
+# Java
+*.class
+*.log
+*.war
+*.ear
+
+# macOS
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Build directories
+build/
+dist/
+out/
