@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of Ebola virus disease cases resulted in death during the 2014 outbreak in Guinea?",
+  "response": [
+    "doc_12852.txt",
+    "doc_12845.txt",
+    "doc_12844.txt",
+    "doc_12853.txt",
+    "doc_12846.txt"
+  ]
+}

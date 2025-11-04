@@ -1,0 +1,10 @@
+{
+  "query": "According to Protocol 24, what specific article of the Treaty on European Union supports the inclusion of human rights?",
+  "response": [
+    "doc_12840.txt",
+    "doc_11590.txt",
+    "doc_11595.txt",
+    "doc_8798.txt",
+    "doc_15476.txt"
+  ]
+}
