@@ -106,14 +106,18 @@ def fetch_all_from_collection(collection) -> Tuple[List[str], List[str], List[Di
 
 
 def dense_search_variations(collection, model: str, query_variants: List[str], top_k: int) -> Tuple[Dict[str, Dict[str, int]], Dict[str, List[Tuple[Dict[str, Any], str]]]]:
+    """Vectorized dense search across variants to reduce RPC overhead."""
     rankings: Dict[str, Dict[str, int]] = {}
     best_snippets_by_variant: Dict[str, List[Tuple[Dict[str, Any], str]]] = {}
     v_embs = embed_queries_batch(query_variants, model)
-    for v, v_emb in zip(query_variants, v_embs):
-        res = collection.query(query_embeddings=[v_emb], n_results=top_k, include=["documents", "metadatas"])
+    # Single batched query for all variants
+    res = collection.query(query_embeddings=v_embs, n_results=top_k, include=["documents", "metadatas"])
+    res_docs = res.get("documents", []) or []
+    res_metas = res.get("metadatas", []) or []
+    for v, docs_list, metas_list in zip(query_variants, res_docs, res_metas):
         doc_to_rank: Dict[str, int] = {}
         pairs: List[Tuple[Dict[str, Any], str]] = []
-        for rank, (meta, doc) in enumerate(zip(res.get("metadatas", [[]])[0], res.get("documents", [[]])[0]), start=1):
+        for rank, (meta, doc) in enumerate(zip(metas_list or [], docs_list or []), start=1):
             doc_name = meta.get("doc_name") or meta.get("source") or meta.get("chunk_id")
             if doc_name:
                 if doc_name not in doc_to_rank:
@@ -163,27 +167,45 @@ def stage_rerank_and_mmr(model: str, query_text: str, candidate_docs: List[str],
 
 def _process_single_query(q: Dict[str, str], collection, bm25: BM25Retriever, cfg: Config) -> Dict[str, Any]:
     q_text = q["query"]
-    variants = multi_query_generate(q_text, num_variants=int(os.getenv("NUM_QUERY_VARIATIONS", "4")))
-    _ = classify_query(q_text)
-    _ = extract_query_signals(q_text)
+    fast_mode = os.getenv("FAST_MODE", "0") in ("1", "true", "True")
+    num_variants = 1 if fast_mode else int(os.getenv("NUM_QUERY_VARIATIONS", "3"))
+    variants = multi_query_generate(q_text, num_variants=num_variants)
+    
+    if not fast_mode:
+        _ = classify_query(q_text)
+        _ = extract_query_signals(q_text)
 
     dense_rankings, best_snippets_by_variant = dense_search_variations(collection, cfg.model, variants, top_k=cfg.dense_top_k_per_query)
-    sparse_rankings = sparse_search_bm25(bm25, variants, top_k=cfg.sparse_top_k)
+    use_bm25 = os.getenv("USE_BM25", "1") not in ("0", "false", "False")
+    sparse_rankings = sparse_search_bm25(bm25, variants, top_k=cfg.sparse_top_k) if (use_bm25 and not fast_mode) else {}
 
-    fused_scores = rrf_score({**dense_rankings, **sparse_rankings}, k=60)
-    top_docs_sorted = sorted(fused_scores.items(), key=lambda x: x[1], reverse=True)
-    top_doc_names = [d for d, _ in top_docs_sorted[:200]]
+    if fast_mode:
+        # Fast mode: just use top dense results, no fusion/reranking
+        top_docs = []
+        for v in variants:
+            doc_to_rank = dense_rankings.get(f"dense:{v}", {})
+            top_docs.extend(list(doc_to_rank.keys())[:cfg.final_top_k])
+        final_docs = list(dict.fromkeys(top_docs))[:cfg.final_top_k]  # Dedup and limit
+    else:
+        fused_scores = rrf_score({**dense_rankings, **sparse_rankings}, k=60)
+        top_docs_sorted = sorted(fused_scores.items(), key=lambda x: x[1], reverse=True)
+        top_doc_names = [d for d, _ in top_docs_sorted[:min(200, len(top_docs_sorted))]]
 
-    doc_best_snippet: Dict[str, str] = {}
-    for v in variants:
-        for meta, doc in best_snippets_by_variant.get(v, []):
-            name = meta.get("doc_name") or meta.get("source") or meta.get("chunk_id")
-            if name in top_doc_names and name not in doc_best_snippet:
-                doc_best_snippet[name] = doc
-        if len(doc_best_snippet) >= len(top_doc_names):
-            break
+        doc_best_snippet: Dict[str, str] = {}
+        for v in variants:
+            for meta, doc in best_snippets_by_variant.get(v, []):
+                name = meta.get("doc_name") or meta.get("source") or meta.get("chunk_id")
+                if name in top_doc_names and name not in doc_best_snippet:
+                    doc_best_snippet[name] = doc
+            if len(doc_best_snippet) >= len(top_doc_names):
+                break
 
-    final_docs = stage_rerank_and_mmr(cfg.model, q_text, top_doc_names, doc_best_snippet, cfg.final_top_k)
+        # Simplified reranking: skip expensive MMR if SKIP_RERANK is set
+        if os.getenv("SKIP_RERANK", "0") in ("1", "true", "True"):
+            final_docs = top_doc_names[:cfg.final_top_k]
+        else:
+            final_docs = stage_rerank_and_mmr(cfg.model, q_text, top_doc_names, doc_best_snippet, cfg.final_top_k)
+    
     return {"query_num": q["query_num"], "query": q_text, "response": final_docs}
 
 
@@ -200,13 +222,15 @@ def main():
     except Exception:
         pass
 
-    # Build BM25 index once
-    bm25 = BM25Retriever()
-    print("Fetching documents from collection for BM25...", flush=True)
-    ids, docs, metas = fetch_all_from_collection(collection)
-    if docs:
-        print(f"Building BM25 over {len(docs)} docs...", flush=True)
-        bm25.build(docs, ids, metas)
+    # Build BM25 index once (optional)
+    use_bm25 = os.getenv("USE_BM25", "1") not in ("0", "false", "False")
+    bm25 = BM25Retriever() if use_bm25 else None
+    if use_bm25:
+        print("Fetching documents from collection for BM25...", flush=True)
+        ids, docs, metas = fetch_all_from_collection(collection)
+        if docs:
+            print(f"Building BM25 over {len(docs)} docs...", flush=True)
+            bm25.build(docs, ids, metas)
 
     queries_path = os.getenv("QUERIES_PATH", "./Queries.json")
     if not os.path.exists(queries_path):
@@ -236,7 +260,10 @@ def main():
     t0 = time.time()
 
     all_results: List[Dict[str, Any]] = []
-    workers = int(os.getenv("QUERY_MAX_WORKERS", os.getenv("MAX_WORKERS", str(max(4, cfg.max_workers)))))
+    # Aggressive parallelism: increase workers significantly
+    workers = int(os.getenv("QUERY_MAX_WORKERS", os.getenv("MAX_WORKERS", str(max(32, cfg.max_workers * 4)))))
+    print(f"Using {workers} worker threads for parallel processing...", flush=True)
+    
     with ThreadPoolExecutor(max_workers=workers) as executor:
         futures = [executor.submit(_process_single_query, q, collection, bm25, cfg) for q in valid_queries]
         pbar = tqdm(total=len(futures), desc="Queries", unit="q")
