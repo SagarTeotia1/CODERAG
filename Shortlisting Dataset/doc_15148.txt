@@ -1,0 +1,1 @@
+\nRooms.", "related_links": null, "title": "March 2012 News Archive - WLOX.com - The News for South ..."}], "air_date": "2001-12-06", "question": "A news database search got 609 hits over 2 years with the words \"hurricane\" & this type of camp that provides utilities", "value": "$400", "id": 76946, "answer": "trailer park", "round": "Jeopardy!", "show_number": "3974"}

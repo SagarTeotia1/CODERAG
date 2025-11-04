@@ -1,0 +1,1 @@
+news is you do not need a \ncommon denominator when multiplying ... 2 x 10, 2 x 2, (divide 5 and 10 by 5)...", "related_links": null, "title": "Multiplying Fractions"}], "air_date": "2000-10-05", "question": "To divide a number by 3/4, multiply the number by this fraction", "value": "$800", "id": 147317, "answer": "4/3", "round": "Double Jeopardy!", "show_number": "3699"}

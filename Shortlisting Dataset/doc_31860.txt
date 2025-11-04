@@ -1,0 +1,1 @@
+roads leading ...... to be called a Frenchman.", "related_links": null, "title": "France in Sweden's Foreign Policy in the Era of Gustav III's Reign"}], "air_date": "2005-06-02", "question": "Born in Vienna in 1791, she became an empress by marrying a Frenchman in 1810", "value": "$2000", "id": 88461, "answer": "Marie Louise", "round": "Double Jeopardy!", "show_number": "4789"}

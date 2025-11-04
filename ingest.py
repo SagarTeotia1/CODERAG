@@ -31,6 +31,7 @@ class Config:
 	chunk_overlap: int
 	batch_size: int
 	zip_path: str
+	dataset_dir: str
 	cache_path: str
 	gemini_model: str = "text-embedding-004"
 	max_workers: int = 10
@@ -46,11 +47,12 @@ class Config:
 def load_config() -> Config:
 	load_dotenv(override=True)
 	persist_dir = os.getenv("CHROMA_PERSIST_DIR", "./chroma_store")
-	collection_name = os.getenv("COLLECTION_NAME", "mock_dataset_v1")
+	collection_name = os.getenv("COLLECTION_NAME", "shortlisting_dataset")
 	chunk_tokens = int(os.getenv("CHUNK_TOKENS", "800"))
 	chunk_overlap = int(os.getenv("CHUNK_OVERLAP", "100"))
 	batch_size = int(os.getenv("BATCH_SIZE", "64"))
-	zip_path = os.getenv("DATASET_ZIP", "./mock_dataset_v1.zip")
+	zip_path = os.getenv("DATASET_ZIP", "./shortlisting_dataset.zip")
+	dataset_dir = os.getenv("DATASET_DIR", "./Shortlisting Dataset")
 	cache_path = os.path.join(persist_dir, "emb_cache.sqlite")
 	max_workers = int(os.getenv("MAX_WORKERS", "10"))
 	embedding_batch_size = int(os.getenv("EMBEDDING_BATCH_SIZE", "100"))
@@ -65,6 +67,7 @@ def load_config() -> Config:
 		chunk_overlap=chunk_overlap,
 		batch_size=batch_size,
 		zip_path=zip_path,
+		dataset_dir=dataset_dir,
 		cache_path=cache_path,
 		max_workers=max_workers,
 		embedding_batch_size=embedding_batch_size,
@@ -344,35 +347,41 @@ def main():
 
 	cache = EmbeddingCache(cfg.cache_path)
 
-	if not os.path.exists(cfg.zip_path):
-		raise FileNotFoundError(f"Dataset zip not found at {cfg.zip_path}")
+	# Prefer directory of .txt files if provided; otherwise fall back to zip
+	use_dir = bool(cfg.dataset_dir and os.path.isdir(cfg.dataset_dir))
+	use_zip = bool(os.path.exists(cfg.zip_path))
 
-	with zipfile.ZipFile(cfg.zip_path, 'r') as zf:
-		# Collect .txt files
-		txt_members = [m for m in zf.infolist() if m.filename.lower().endswith('.txt')]
-		if not txt_members:
-			raise RuntimeError("No .txt files found in the zip archive.")
+	if not use_dir and not use_zip:
+		raise FileNotFoundError(
+			f"No dataset found. Set DATASET_DIR to a folder of .txt files (e.g., ./mockdataset) or DATASET_ZIP to a zip archive (e.g., ./mock_dataset_v1.zip)."
+		)
 
-		all_ids: List[str] = []
-		all_texts: List[str] = []
-		all_metadatas: List[dict] = []
-		all_embeddings: List[List[float]] = []
+	all_ids: List[str] = []
+	all_texts: List[str] = []
+	all_metadatas: List[dict] = []
+	all_embeddings: List[List[float]] = []
 
-		pbar = tqdm(txt_members, desc="Reading & chunking", unit="file")
-		for info in pbar:
-			with zf.open(info, 'r') as fh:
+	if use_dir:
+		file_paths: List[str] = []
+		for root, _dirs, files in os.walk(cfg.dataset_dir):
+			for name in files:
+				if name.lower().endswith('.txt'):
+					file_paths.append(os.path.join(root, name))
+		if not file_paths:
+			raise RuntimeError(f"No .txt files found under {cfg.dataset_dir}")
+		pbar = tqdm(file_paths, desc="Reading & chunking", unit="file")
+		for fpath in pbar:
+			with open(fpath, 'rb') as fh:
 				data = fh.read()
-				try:
-					text = data.decode('utf-8', errors='ignore')
-				except Exception:
-					text = data.decode('latin-1', errors='ignore')
+			try:
+				text = data.decode('utf-8', errors='ignore')
+			except Exception:
+				text = data.decode('latin-1', errors='ignore')
 			text = normalize_text(text)
-			doc_name = os.path.basename(info.filename)
-			# Document-level enrichments
+			doc_name = os.path.basename(fpath)
 			stats = compute_doc_stats(text)
 			entities = extract_simple_entities(text)
 			keywords = top_keywords(text)
-			# Multi-granularity chunking
 			mg = chunk_multi_granularity(text, cfg)
 			for suffix, chunk_type, ch, pos, parent_suffix in mg:
 				chunk_id = f"{doc_name}::{suffix}"
@@ -382,7 +391,7 @@ def main():
 				all_metadatas.append({
 					"chunk_id": chunk_id,
 					"doc_name": doc_name,
-					"source": info.filename,
+					"source": os.path.relpath(fpath, cfg.dataset_dir),
 					"chunk_type": chunk_type,
 					"parent_id": f"{doc_name}::{parent_suffix}",
 					"position": pos,
@@ -391,63 +400,102 @@ def main():
 					"doc_top_keywords": json.dumps(keywords, ensure_ascii=False),
 					"query_focused_text": qfocus,
 				})
+	else:
+		with zipfile.ZipFile(cfg.zip_path, 'r') as zf:
+			# Collect .txt files
+			txt_members = [m for m in zf.infolist() if m.filename.lower().endswith('.txt')]
+			if not txt_members:
+				raise RuntimeError("No .txt files found in the zip archive.")
+			pbar = tqdm(txt_members, desc="Reading & chunking", unit="file")
+			for info in pbar:
+				with zf.open(info, 'r') as fh:
+					data = fh.read()
+					try:
+						text = data.decode('utf-8', errors='ignore')
+					except Exception:
+						text = data.decode('latin-1', errors='ignore')
+				text = normalize_text(text)
+				doc_name = os.path.basename(info.filename)
+				# Document-level enrichments
+				stats = compute_doc_stats(text)
+				entities = extract_simple_entities(text)
+				keywords = top_keywords(text)
+				# Multi-granularity chunking
+				mg = chunk_multi_granularity(text, cfg)
+				for suffix, chunk_type, ch, pos, parent_suffix in mg:
+					chunk_id = f"{doc_name}::{suffix}"
+					all_ids.append(chunk_id)
+					all_texts.append(ch)
+					qfocus = f"This document discusses: {ch[:200]}"
+					all_metadatas.append({
+						"chunk_id": chunk_id,
+						"doc_name": doc_name,
+						"source": info.filename,
+						"chunk_type": chunk_type,
+						"parent_id": f"{doc_name}::{parent_suffix}",
+						"position": pos,
+						"doc_stats": json.dumps(stats, ensure_ascii=False),
+						"doc_entities": json.dumps(entities, ensure_ascii=False),
+						"doc_top_keywords": json.dumps(keywords, ensure_ascii=False),
+						"query_focused_text": qfocus,
+					})
 
-		# Resolve embeddings with cache - optimized version
-		print(f"Processing {len(all_texts)} texts with optimized embedding...")
-		start_time = time.time()
-		
-		# Process in larger batches for better efficiency
-		embedding_batch_size = cfg.embedding_batch_size
-		pbar = tqdm(range(0, len(all_texts), embedding_batch_size), desc="Embedding & caching", unit="batch")
-		
-		for start in pbar:
-			end = min(start + embedding_batch_size, len(all_texts))
-			batch_ids = all_ids[start:end]
-			batch_texts = all_texts[start:end]
+	# Resolve embeddings with cache - optimized version (runs for both dir and zip cases)
+	print(f"Processing {len(all_texts)} texts with optimized embedding...")
+	start_time = time.time()
 
-			model = cfg.gemini_model
-			cache_ids = [hash_text(t, model) for t in batch_texts]
-			cached = {k: v for k, v in cache.get_many(cache_ids)}
-			to_compute: List[Tuple[int, str, str]] = []  # (local_index, cache_id, text)
-			batch_embeddings: List[np.ndarray] = [None] * len(batch_texts)  # type: ignore
+	# Process in larger batches for better efficiency
+	embedding_batch_size = cfg.embedding_batch_size
+	pbar = tqdm(range(0, len(all_texts), embedding_batch_size), desc="Embedding & caching", unit="batch")
 
-			for i, (cid, txt) in enumerate(zip(cache_ids, batch_texts)):
-				if cid in cached:
-					batch_embeddings[i] = cached[cid]
-				else:
-					to_compute.append((i, cid, txt))
+	for start in pbar:
+		end = min(start + embedding_batch_size, len(all_texts))
+		batch_ids = all_ids[start:end]
+		batch_texts = all_texts[start:end]
 
-			if to_compute:
-				# Use optimized batch embedding
-				computed_vecs = embed_texts_gemini_batch([t for (_, _, t) in to_compute], model)
-				entries_to_store: List[Tuple[str, str, np.ndarray]] = []
-				for (i_local, cid, _), emb in zip(to_compute, computed_vecs):
-					vec = np.asarray(emb, dtype=np.float32)
-					batch_embeddings[i_local] = vec
-					entries_to_store.append((cid, model, vec))
-				cache.put_many(entries_to_store)
+		model = cfg.gemini_model
+		cache_ids = [hash_text(t, model) for t in batch_texts]
+		cached = {k: v for k, v in cache.get_many(cache_ids)}
+		to_compute: List[Tuple[int, str, str]] = []  # (local_index, cache_id, text)
+		batch_embeddings: List[np.ndarray] = [None] * len(batch_texts)  # type: ignore
 
-			# Append to full list
-			for vec in batch_embeddings:
-				assert vec is not None
-				all_embeddings.append(vec.tolist())
-			
-			# Update progress with speed info
-			elapsed = time.time() - start_time
-			processed = end
-			speed = processed / elapsed if elapsed > 0 else 0
-			pbar.set_postfix({"speed": f"{speed:.1f} texts/sec"})
+		for i, (cid, txt) in enumerate(zip(cache_ids, batch_texts)):
+			if cid in cached:
+				batch_embeddings[i] = cached[cid]
+			else:
+				to_compute.append((i, cid, txt))
 
-		# Upsert into Chroma in batches
-		pbar = tqdm(range(0, len(all_texts), cfg.batch_size), desc="Writing to Chroma", unit="batch")
-		for start in pbar:
-			end = min(start + cfg.batch_size, len(all_texts))
-			collection.upsert(
-				ids=all_ids[start:end],
-				embeddings=all_embeddings[start:end],
-				documents=all_texts[start:end],
-				metadatas=all_metadatas[start:end],
-			)
+		if to_compute:
+			# Use optimized batch embedding
+			computed_vecs = embed_texts_gemini_batch([t for (_, _, t) in to_compute], model)
+			entries_to_store: List[Tuple[str, str, np.ndarray]] = []
+			for (i_local, cid, _), emb in zip(to_compute, computed_vecs):
+				vec = np.asarray(emb, dtype=np.float32)
+				batch_embeddings[i_local] = vec
+				entries_to_store.append((cid, model, vec))
+			cache.put_many(entries_to_store)
+
+		# Append to full list
+		for vec in batch_embeddings:
+			assert vec is not None
+			all_embeddings.append(vec.tolist())
+
+		# Update progress with speed info
+		elapsed = time.time() - start_time
+		processed = end
+		speed = processed / elapsed if elapsed > 0 else 0
+		pbar.set_postfix({"speed": f"{speed:.1f} texts/sec"})
+
+	# Upsert into Chroma in batches
+	pbar = tqdm(range(0, len(all_texts), cfg.batch_size), desc="Writing to Chroma", unit="batch")
+	for start in pbar:
+		end = min(start + cfg.batch_size, len(all_texts))
+		collection.upsert(
+			ids=all_ids[start:end],
+			embeddings=all_embeddings[start:end],
+			documents=all_texts[start:end],
+			metadatas=all_metadatas[start:end],
+		)
 
 	# Cleanup
 	cache.close()

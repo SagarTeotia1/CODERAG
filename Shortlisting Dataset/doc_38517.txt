@@ -1,0 +1,1 @@
+[ "Mean Girls", [ "Mean Girls is a 2004 American teen comedy film directed by Mark Waters and written by Tina Fey.", " The movie is based in part on Rosalind Wiseman's non-fiction self-help book \"Queen Bees and Wannabes\", which describes female high school social cliques and the damaging effects they can have on girls." ] ] ] }

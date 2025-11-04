@@ -1,0 +1,1 @@
+the...", "related_links": null, "title": "World History Connected | Vol. 3 No. 3 | MICHAEL A. MARCUS: Big ..."}], "air_date": "1987-11-20", "question": "In 1667, in exchange for New York, Britain gave this colony to the Dutch, which they kept until 1975", "value": "$800", "id": 129698, "answer": "Suriname", "round": "Double Jeopardy!", "show_number": "740"}

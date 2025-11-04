@@ -10,7 +10,7 @@
 pip install -r requirements.txt
 ```
 
-4. Create a `.env` file with:
+4. Create a `.env` file (see `.env.example`) with:
 
 ```
 GEMINI_API_KEY=your_key_here
@@ -21,9 +21,16 @@ CHUNK_OVERLAP=100
 BATCH_SIZE=64
 MAX_WORKERS=10
 EMBEDDING_BATCH_SIZE=100
+# Preferred: point to a folder of .txt files (e.g., renamed to ./mockdataset)
+DATASET_DIR=./mockdataset
+# Fallback option: use a zip archive if no DATASET_DIR is present
+DATASET_ZIP=./mock_dataset_v1.zip
 ```
 
-5. Place `mock_dataset_v1.zip` and `Queries.json` in this directory.
+5. Provide data one of two ways:
+   - Preferred: Place your .txt files under `./mockdataset` (or set `DATASET_DIR` accordingly). For example, you can rename your `Shortlisting Dataset` folder to `mockdataset` and set `DATASET_DIR=./mockdataset`.
+   - Alternative: Place `mock_dataset_v1.zip` in this directory and set `DATASET_ZIP`.
+   - Ensure `Queries.json` is present (or set `QUERIES_PATH`).
 
 ## Indexing (run once)
 
