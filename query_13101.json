@@ -1,0 +1,10 @@
+{
+  "query": "What body is currently reviewing the proposal for a Council Regulation amending the Staff Regulations?",
+  "response": [
+    "doc_22922.txt",
+    "doc_8172.txt",
+    "doc_37029.txt",
+    "doc_4241.txt",
+    "doc_29628.txt"
+  ]
+}

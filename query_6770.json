@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Saul Bellow win the Nobel Prize for Literature?",
+  "response": [
+    "doc_7330.txt",
+    "doc_7331.txt",
+    "doc_7327.txt",
+    "doc_7329.txt",
+    "doc_7328.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What charges led to the imprisonment of Nguyen Van Ly, Le Thi Cong Nhan, and Nguyen Binh Thanh?",
+  "response": [
+    "doc_25535.txt",
+    "doc_25532.txt",
+    "doc_21494.txt",
+    "doc_25531.txt",
+    "doc_25529.txt"
+  ]
+}

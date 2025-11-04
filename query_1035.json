@@ -1,0 +1,10 @@
+{
+  "query": "What was the highest military award earned by a serviceman of WWII mentioned in the passage?",
+  "response": [
+    "doc_29858.txt",
+    "doc_29860.txt",
+    "doc_29857.txt",
+    "doc_29855.txt",
+    "doc_29609.txt"
+  ]
+}

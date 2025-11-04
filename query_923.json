@@ -1,0 +1,10 @@
+{
+  "query": "What is the population of Pekin, Illinois, according to the 2010 census?",
+  "response": [
+    "doc_15886.txt",
+    "doc_15890.txt",
+    "doc_36410.txt",
+    "doc_15887.txt",
+    "doc_36404.txt"
+  ]
+}

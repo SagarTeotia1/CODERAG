@@ -1,0 +1,10 @@
+{
+  "query": "What skin care focus does Allergan’s product line have, as mentioned in the text?",
+  "response": [
+    "doc_37277.txt",
+    "doc_18473.txt",
+    "doc_18472.txt",
+    "doc_23626.txt",
+    "doc_28587.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Is the Commission aware of the events surrounding the Pakistani actress Veena Malik?",
+  "response": [
+    "doc_40165.txt",
+    "doc_40190.txt",
+    "doc_15127.txt",
+    "doc_11603.txt",
+    "doc_15409.txt"
+  ]
+}

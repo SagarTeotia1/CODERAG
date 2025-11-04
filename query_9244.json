@@ -1,0 +1,10 @@
+{
+  "query": "When was Franklin & Marshall College founded, and in what city?",
+  "response": [
+    "doc_1331.txt",
+    "doc_1333.txt",
+    "doc_1330.txt",
+    "doc_1334.txt",
+    "doc_1336.txt"
+  ]
+}

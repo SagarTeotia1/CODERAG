@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what are some of the inspirations behind the song “Bring Me to Life”?",
+  "response": [
+    "doc_20512.txt",
+    "doc_25945.txt",
+    "doc_36381.txt",
+    "doc_7976.txt",
+    "doc_37167.txt"
+  ]
+}

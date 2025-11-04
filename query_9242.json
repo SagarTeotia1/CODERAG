@@ -1,0 +1,10 @@
+{
+  "query": "What two sports did Rainey cover in his columns?",
+  "response": [
+    "doc_33620.txt",
+    "doc_14705.txt",
+    "doc_14704.txt",
+    "doc_32304.txt",
+    "doc_4276.txt"
+  ]
+}

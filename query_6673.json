@@ -1,0 +1,10 @@
+{
+  "query": "If an EU citizen made a request for recognition of a diploma after October 20, 2007, which directive would generally apply?",
+  "response": [
+    "doc_37568.txt",
+    "doc_16798.txt",
+    "doc_7061.txt",
+    "doc_30977.txt",
+    "doc_12742.txt"
+  ]
+}

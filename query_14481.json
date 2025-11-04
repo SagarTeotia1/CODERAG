@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Shirley Temple appear in “The Little Colonel” and “The Littlest Rebel”?",
+  "response": [
+    "doc_26319.txt",
+    "doc_26326.txt",
+    "doc_26321.txt",
+    "doc_26325.txt",
+    "doc_26324.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When did Lear Radio sponsor the program?",
+  "response": [
+    "doc_5629.txt",
+    "doc_27868.txt",
+    "doc_11497.txt",
+    "doc_40274.txt",
+    "doc_40279.txt"
+  ]
+}

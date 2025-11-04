@@ -1,0 +1,10 @@
+{
+  "query": "What role did Roger Rabbit have in \"The Ink and Paint Club\"?",
+  "response": [
+    "doc_20061.txt",
+    "doc_20057.txt",
+    "doc_20055.txt",
+    "doc_20063.txt",
+    "doc_17038.txt"
+  ]
+}

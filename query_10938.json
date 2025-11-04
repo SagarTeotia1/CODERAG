@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of the Commission’s total staff are Portuguese officials?",
+  "response": [
+    "doc_17420.txt",
+    "doc_25103.txt",
+    "doc_2721.txt",
+    "doc_4242.txt",
+    "doc_28967.txt"
+  ]
+}

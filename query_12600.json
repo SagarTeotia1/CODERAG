@@ -1,0 +1,10 @@
+{
+  "query": "What was Lionel Beer’s address?",
+  "response": [
+    "doc_21694.txt",
+    "doc_21693.txt",
+    "doc_5096.txt",
+    "doc_32358.txt",
+    "doc_17711.txt"
+  ]
+}

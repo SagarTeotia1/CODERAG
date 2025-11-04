@@ -1,0 +1,10 @@
+{
+  "query": "What is the title of the Reference Manual being discussed in the passage?",
+  "response": [
+    "doc_23572.txt",
+    "doc_23580.txt",
+    "doc_23575.txt",
+    "doc_23576.txt",
+    "doc_23577.txt"
+  ]
+}

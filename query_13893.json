@@ -1,0 +1,10 @@
+{
+  "query": "What is one of Nike’s historic product innovations mentioned in the text?",
+  "response": [
+    "doc_24823.txt",
+    "doc_24826.txt",
+    "doc_24825.txt",
+    "doc_24827.txt",
+    "doc_24828.txt"
+  ]
+}

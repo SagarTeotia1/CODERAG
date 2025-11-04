@@ -1,0 +1,10 @@
+{
+  "query": "What year was the album “21st Century” by Groove Coverage released?",
+  "response": [
+    "doc_21177.txt",
+    "doc_3347.txt",
+    "doc_21172.txt",
+    "doc_36257.txt",
+    "doc_173.txt"
+  ]
+}

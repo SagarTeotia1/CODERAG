@@ -1,0 +1,10 @@
+{
+  "query": "What is the subject of the chorus of The Dickies song “If Stuart Could Talk”?",
+  "response": [
+    "doc_8140.txt",
+    "doc_19820.txt",
+    "doc_19818.txt",
+    "doc_39039.txt",
+    "doc_25944.txt"
+  ]
+}

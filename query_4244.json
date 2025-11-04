@@ -1,0 +1,10 @@
+{
+  "query": "In what year was NatWest established through a merger?",
+  "response": [
+    "doc_1127.txt",
+    "doc_969.txt",
+    "doc_983.txt",
+    "doc_984.txt",
+    "doc_1126.txt"
+  ]
+}

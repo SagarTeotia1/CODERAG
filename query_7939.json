@@ -1,0 +1,10 @@
+{
+  "query": "What was the estimated number of TB reactor animals slaughtered in the UK during 2010?",
+  "response": [
+    "doc_10206.txt",
+    "doc_30360.txt",
+    "doc_9767.txt",
+    "doc_4096.txt",
+    "doc_34254.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What awards did the first series of “Green Wing” receive?",
+  "response": [
+    "doc_9198.txt",
+    "doc_27329.txt",
+    "doc_37307.txt",
+    "doc_17861.txt",
+    "doc_27325.txt"
+  ]
+}

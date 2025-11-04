@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what role did Chris Espinosa hold at Apple?",
+  "response": [
+    "doc_11047.txt",
+    "doc_32376.txt",
+    "doc_8117.txt",
+    "doc_8118.txt",
+    "doc_8114.txt"
+  ]
+}

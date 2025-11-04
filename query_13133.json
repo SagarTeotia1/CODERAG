@@ -1,0 +1,10 @@
+{
+  "query": "Located on the Lehigh River, Bethlehem is 60 miles north of this larger city.",
+  "response": [
+    "doc_2216.txt",
+    "doc_2214.txt",
+    "doc_2215.txt",
+    "doc_12887.txt",
+    "doc_12890.txt"
+  ]
+}

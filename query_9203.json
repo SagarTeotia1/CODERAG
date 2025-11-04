@@ -1,0 +1,10 @@
+{
+  "query": "What is the draftsman’s suggested date for the annual report submission regarding the Fund’s situation, and what justification does he provide for this change?",
+  "response": [
+    "doc_13346.txt",
+    "doc_13345.txt",
+    "doc_28893.txt",
+    "doc_13342.txt",
+    "doc_13607.txt"
+  ]
+}

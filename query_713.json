@@ -1,0 +1,10 @@
+{
+  "query": "What is the breakdown by first language (Dutch/French) of Belgian nationals working as temporary staff?",
+  "response": [
+    "doc_28908.txt",
+    "doc_5078.txt",
+    "doc_6153.txt",
+    "doc_6147.txt",
+    "doc_6148.txt"
+  ]
+}

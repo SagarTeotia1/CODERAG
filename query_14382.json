@@ -1,0 +1,10 @@
+{
+  "query": "How many ratings does “The Star Wars Trilogy” have?",
+  "response": [
+    "doc_26041.txt",
+    "doc_26034.txt",
+    "doc_34819.txt",
+    "doc_26037.txt",
+    "doc_26040.txt"
+  ]
+}

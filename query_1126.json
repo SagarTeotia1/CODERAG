@@ -1,0 +1,10 @@
+{
+  "query": "What was the original title of the *Journal für praktische Chemie* when it was founded in 1828?",
+  "response": [
+    "doc_2952.txt",
+    "doc_16018.txt",
+    "doc_25781.txt",
+    "doc_34662.txt",
+    "doc_25779.txt"
+  ]
+}

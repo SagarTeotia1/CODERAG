@@ -1,0 +1,10 @@
+{
+  "query": "Which Puerto Rican basketball player was selected as the MOP (Most Outstanding Player) after the 2014 National Championship Game?",
+  "response": [
+    "doc_27644.txt",
+    "doc_27645.txt",
+    "doc_24326.txt",
+    "doc_27646.txt",
+    "doc_2740.txt"
+  ]
+}

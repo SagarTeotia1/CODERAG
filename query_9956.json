@@ -1,0 +1,10 @@
+{
+  "query": "What conference did the 2015 North Carolina Tar Heels football team compete in?",
+  "response": [
+    "doc_15073.txt",
+    "doc_15074.txt",
+    "doc_25632.txt",
+    "doc_7393.txt",
+    "doc_7394.txt"
+  ]
+}

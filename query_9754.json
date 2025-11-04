@@ -1,0 +1,10 @@
+{
+  "query": "What is the title of the children’s series that Mo Willems announced?",
+  "response": [
+    "doc_32853.txt",
+    "doc_32856.txt",
+    "doc_32855.txt",
+    "doc_32858.txt",
+    "doc_32849.txt"
+  ]
+}

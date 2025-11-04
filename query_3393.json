@@ -1,0 +1,10 @@
+{
+  "query": "What colors are the ELCA’s “Service Book and Hymnal,” “Lutheran Book of Worship,” and the newest hymnal?",
+  "response": [
+    "doc_33443.txt",
+    "doc_33446.txt",
+    "doc_33938.txt",
+    "doc_33937.txt",
+    "doc_7108.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the current situation with regard to the studies mentioned in the Commission’s previous answer concerning working conditions in the aviation sector?",
+  "response": [
+    "doc_28025.txt",
+    "doc_1148.txt",
+    "doc_2806.txt",
+    "doc_1506.txt",
+    "doc_7818.txt"
+  ]
+}

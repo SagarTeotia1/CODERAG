@@ -1,0 +1,10 @@
+{
+  "query": "In 2002, what was Denmark’s net balance vis-à-vis the EU budget, expressed as a percentage of GNP/GNI?",
+  "response": [
+    "doc_18025.txt",
+    "doc_18026.txt",
+    "doc_14172.txt",
+    "doc_27975.txt",
+    "doc_37968.txt"
+  ]
+}

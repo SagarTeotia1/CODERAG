@@ -1,0 +1,10 @@
+{
+  "query": "Which countries provided assistance to Russia in response to the fires?",
+  "response": [
+    "doc_8847.txt",
+    "doc_8846.txt",
+    "doc_3588.txt",
+    "doc_5775.txt",
+    "doc_13428.txt"
+  ]
+}

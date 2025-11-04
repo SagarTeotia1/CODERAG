@@ -1,0 +1,10 @@
+{
+  "query": "What significant junior achievement did Jack Sock accomplish?",
+  "response": [
+    "doc_35650.txt",
+    "doc_35648.txt",
+    "doc_35644.txt",
+    "doc_14702.txt",
+    "doc_35651.txt"
+  ]
+}

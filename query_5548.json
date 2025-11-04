@@ -1,0 +1,10 @@
+{
+  "query": "What was the outcome of the Wild Card Game for the Raiders?",
+  "response": [
+    "doc_4192.txt",
+    "doc_12460.txt",
+    "doc_12458.txt",
+    "doc_22162.txt",
+    "doc_12461.txt"
+  ]
+}

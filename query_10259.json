@@ -1,0 +1,10 @@
+{
+  "query": "What specific actions did the Indian Navy take following the 2004 tsunami?",
+  "response": [
+    "doc_15871.txt",
+    "doc_40185.txt",
+    "doc_10429.txt",
+    "doc_40186.txt",
+    "doc_15870.txt"
+  ]
+}

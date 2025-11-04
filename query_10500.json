@@ -1,0 +1,10 @@
+{
+  "query": "What specific abuses did Human Rights Watch identify as occurring within the Palestinian Authority’s civil police force?",
+  "response": [
+    "doc_1614.txt",
+    "doc_20208.txt",
+    "doc_1544.txt",
+    "doc_38711.txt",
+    "doc_31189.txt"
+  ]
+}

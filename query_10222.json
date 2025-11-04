@@ -1,0 +1,10 @@
+{
+  "query": "In what year was “Saladin the Victorious” released?",
+  "response": [
+    "doc_39907.txt",
+    "doc_9939.txt",
+    "doc_39906.txt",
+    "doc_9937.txt",
+    "doc_9938.txt"
+  ]
+}

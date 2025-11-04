@@ -1,0 +1,10 @@
+{
+  "query": "Which Indian states have a complete prohibition on alcohol?",
+  "response": [
+    "doc_36959.txt",
+    "doc_36960.txt",
+    "doc_20743.txt",
+    "doc_3192.txt",
+    "doc_3191.txt"
+  ]
+}

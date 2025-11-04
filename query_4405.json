@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the ‘Eurométropole Lille-Kortrijk-Tournai’ formally established?",
+  "response": [
+    "doc_6147.txt",
+    "doc_6150.txt",
+    "doc_6148.txt",
+    "doc_6149.txt",
+    "doc_6151.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what comic book did the character “The Black Cat” first appear?",
+  "response": [
+    "doc_37287.txt",
+    "doc_37288.txt",
+    "doc_32709.txt",
+    "doc_14658.txt",
+    "doc_40074.txt"
+  ]
+}

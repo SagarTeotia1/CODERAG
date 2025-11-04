@@ -1,0 +1,10 @@
+{
+  "query": "What did a recent BBC report expose regarding the monitoring and licensing of nurseries and nursery workers in the UK?",
+  "response": [
+    "doc_22722.txt",
+    "doc_946.txt",
+    "doc_20185.txt",
+    "doc_928.txt",
+    "doc_930.txt"
+  ]
+}

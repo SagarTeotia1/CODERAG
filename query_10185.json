@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of people in Italy suffering from HIV are unaware of their condition?",
+  "response": [
+    "doc_16483.txt",
+    "doc_15750.txt",
+    "doc_24190.txt",
+    "doc_25702.txt",
+    "doc_15971.txt"
+  ]
+}

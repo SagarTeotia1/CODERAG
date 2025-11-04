@@ -1,0 +1,10 @@
+{
+  "query": "When did the Nobel Prize in Physics begin to be awarded?",
+  "response": [
+    "doc_28229.txt",
+    "doc_38707.txt",
+    "doc_28227.txt",
+    "doc_21691.txt",
+    "doc_21813.txt"
+  ]
+}

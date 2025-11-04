@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, how old was Noah when he became the father of Shem, Ham, and Japheth?",
+  "response": [
+    "doc_7153.txt",
+    "doc_7155.txt",
+    "doc_7152.txt",
+    "doc_7156.txt",
+    "doc_7154.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What year did the Social Security Administration release its list of top 10 baby names?",
+  "response": [
+    "doc_22470.txt",
+    "doc_16102.txt",
+    "doc_16103.txt",
+    "doc_22472.txt",
+    "doc_12415.txt"
+  ]
+}

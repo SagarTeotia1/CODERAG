@@ -1,0 +1,10 @@
+{
+  "query": "In what year does the story of “Time After Time” primarily take place?",
+  "response": [
+    "doc_3069.txt",
+    "doc_3067.txt",
+    "doc_12819.txt",
+    "doc_12818.txt",
+    "doc_3074.txt"
+  ]
+}

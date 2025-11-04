@@ -1,0 +1,10 @@
+{
+  "query": "What is the title of a novel published in 1898 by Francis Hopkinson mentioned in the text?",
+  "response": [
+    "doc_38266.txt",
+    "doc_15204.txt",
+    "doc_15201.txt",
+    "doc_15202.txt",
+    "doc_15198.txt"
+  ]
+}

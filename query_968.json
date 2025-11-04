@@ -1,0 +1,10 @@
+{
+  "query": "What is the approximate length of the River Shannon?",
+  "response": [
+    "doc_29719.txt",
+    "doc_29721.txt",
+    "doc_29720.txt",
+    "doc_29725.txt",
+    "doc_29722.txt"
+  ]
+}

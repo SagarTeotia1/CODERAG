@@ -1,0 +1,10 @@
+{
+  "query": "According to the resolution, how many young people in the EU under 25 were unemployed in December 2009?",
+  "response": [
+    "doc_26836.txt",
+    "doc_11784.txt",
+    "doc_21524.txt",
+    "doc_20897.txt",
+    "doc_30978.txt"
+  ]
+}

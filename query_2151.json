@@ -1,0 +1,10 @@
+{
+  "query": "What is the title of Rabbi Harold Kushner’s bestselling meditation?",
+  "response": [
+    "doc_32579.txt",
+    "doc_32580.txt",
+    "doc_32581.txt",
+    "doc_32576.txt",
+    "doc_32578.txt"
+  ]
+}

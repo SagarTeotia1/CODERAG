@@ -1,0 +1,10 @@
+{
+  "query": "What book, published by Alcoholics Anonymous, also details the development of The Twelve Traditions?",
+  "response": [
+    "doc_9600.txt",
+    "doc_9601.txt",
+    "doc_9599.txt",
+    "doc_9597.txt",
+    "doc_9598.txt"
+  ]
+}

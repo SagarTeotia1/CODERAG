@@ -1,0 +1,9 @@
+{
+  "query": "How old was Bing Crosby when he acquired the nickname “Bing”?",
+  "response": [
+    "doc_3469.txt",
+    "doc_3470.txt",
+    "doc_3471.txt",
+    "doc_3472.txt"
+  ]
+}

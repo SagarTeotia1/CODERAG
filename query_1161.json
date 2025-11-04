@@ -1,0 +1,10 @@
+{
+  "query": "What types of candies are mentioned as being sold at Rocket Fizz?",
+  "response": [
+    "doc_30156.txt",
+    "doc_30157.txt",
+    "doc_30161.txt",
+    "doc_37821.txt",
+    "doc_5187.txt"
+  ]
+}

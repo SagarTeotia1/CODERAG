@@ -1,0 +1,10 @@
+{
+  "query": "On what date did the question \"The USA's E-Bomb...\" first air?",
+  "response": [
+    "doc_36164.txt",
+    "doc_22553.txt",
+    "doc_5746.txt",
+    "doc_2892.txt",
+    "doc_22550.txt"
+  ]
+}

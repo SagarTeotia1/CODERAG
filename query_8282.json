@@ -1,0 +1,10 @@
+{
+  "query": "What medals did the athlete win at the 1996 Summer Paralympics?",
+  "response": [
+    "doc_38511.txt",
+    "doc_40104.txt",
+    "doc_38510.txt",
+    "doc_35928.txt",
+    "doc_31481.txt"
+  ]
+}

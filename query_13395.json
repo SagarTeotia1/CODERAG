@@ -1,0 +1,10 @@
+{
+  "query": "What is the primary artistic group that “Wham City Comedy” consists of?",
+  "response": [
+    "doc_23545.txt",
+    "doc_37218.txt",
+    "doc_23544.txt",
+    "doc_37213.txt",
+    "doc_37216.txt"
+  ]
+}

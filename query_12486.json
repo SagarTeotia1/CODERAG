@@ -1,0 +1,10 @@
+{
+  "query": "When was Selena Gomez's *Stars Dance* music video premiered?",
+  "response": [
+    "doc_21423.txt",
+    "doc_21424.txt",
+    "doc_6895.txt",
+    "doc_6894.txt",
+    "doc_13764.txt"
+  ]
+}

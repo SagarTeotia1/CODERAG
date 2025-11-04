@@ -1,0 +1,10 @@
+{
+  "query": "Where was the Barents International School situated?",
+  "response": [
+    "doc_4115.txt",
+    "doc_21926.txt",
+    "doc_21917.txt",
+    "doc_21925.txt",
+    "doc_40091.txt"
+  ]
+}

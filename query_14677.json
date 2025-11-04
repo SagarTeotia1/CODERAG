@@ -1,0 +1,10 @@
+{
+  "query": "What is the area in Luxembourg where many of these relocated Italian financial institutions are based?",
+  "response": [
+    "doc_26791.txt",
+    "doc_17717.txt",
+    "doc_13979.txt",
+    "doc_18480.txt",
+    "doc_9080.txt"
+  ]
+}

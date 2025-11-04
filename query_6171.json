@@ -1,0 +1,10 @@
+{
+  "query": "What organization does Stefano Azzali represent?",
+  "response": [
+    "doc_20172.txt",
+    "doc_20796.txt",
+    "doc_16752.txt",
+    "doc_16737.txt",
+    "doc_34664.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was the primary reason for the Minnesota Muskies folding after their inaugural season?",
+  "response": [
+    "doc_20096.txt",
+    "doc_22163.txt",
+    "doc_20093.txt",
+    "doc_20094.txt",
+    "doc_20095.txt"
+  ]
+}

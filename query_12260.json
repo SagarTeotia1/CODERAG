@@ -1,0 +1,10 @@
+{
+  "query": "Which actor was known for portraying Davy Crockett on television?",
+  "response": [
+    "doc_8585.txt",
+    "doc_20757.txt",
+    "doc_20761.txt",
+    "doc_20756.txt",
+    "doc_20759.txt"
+  ]
+}

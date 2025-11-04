@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the football league the Houston Texans play in?",
+  "response": [
+    "doc_30026.txt",
+    "doc_20241.txt",
+    "doc_20242.txt",
+    "doc_20243.txt",
+    "doc_20244.txt"
+  ]
+}

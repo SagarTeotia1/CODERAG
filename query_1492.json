@@ -1,0 +1,10 @@
+{
+  "query": "Which countries are included in the Geneva Agreement on Trade in Bananas?",
+  "response": [
+    "doc_3015.txt",
+    "doc_3012.txt",
+    "doc_3016.txt",
+    "doc_3017.txt",
+    "doc_3013.txt"
+  ]
+}

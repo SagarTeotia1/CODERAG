@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how many Romanians are expected to become unemployed in Spain due to the economic crisis?",
+  "response": [
+    "doc_38121.txt",
+    "doc_26408.txt",
+    "doc_24576.txt",
+    "doc_363.txt",
+    "doc_28551.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When was the decision to close the financial accounts of the European Police College (CEPOL) for 2008 made?",
+  "response": [
+    "doc_550.txt",
+    "doc_25432.txt",
+    "doc_25433.txt",
+    "doc_22891.txt",
+    "doc_25434.txt"
+  ]
+}

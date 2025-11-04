@@ -1,0 +1,10 @@
+{
+  "query": "Which university does David W. Tank currently hold a professorship at?",
+  "response": [
+    "doc_34664.txt",
+    "doc_26513.txt",
+    "doc_39310.txt",
+    "doc_39311.txt",
+    "doc_25791.txt"
+  ]
+}

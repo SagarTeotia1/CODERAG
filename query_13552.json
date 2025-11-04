@@ -1,0 +1,10 @@
+{
+  "query": "Which South Korean film director listed \"Cure\" as one of the greatest films of all time?",
+  "response": [
+    "doc_24023.txt",
+    "doc_24022.txt",
+    "doc_28596.txt",
+    "doc_39186.txt",
+    "doc_39187.txt"
+  ]
+}

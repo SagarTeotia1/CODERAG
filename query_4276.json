@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided links, how many copies of Harry Browne’s books have been sold?",
+  "response": [
+    "doc_17737.txt",
+    "doc_38058.txt",
+    "doc_17738.txt",
+    "doc_3825.txt",
+    "doc_17739.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which actors starred in “Independence Day: Resurgence”?",
+  "response": [
+    "doc_12219.txt",
+    "doc_12221.txt",
+    "doc_12218.txt",
+    "doc_12220.txt",
+    "doc_12225.txt"
+  ]
+}

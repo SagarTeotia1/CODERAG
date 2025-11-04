@@ -1,0 +1,10 @@
+{
+  "query": "What is the approximate number of people directly protesting the land development law in the region of Valencia?",
+  "response": [
+    "doc_6981.txt",
+    "doc_1883.txt",
+    "doc_1882.txt",
+    "doc_1884.txt",
+    "doc_6983.txt"
+  ]
+}

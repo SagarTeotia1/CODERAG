@@ -1,0 +1,10 @@
+{
+  "query": "When was Jarran Reed arrested?",
+  "response": [
+    "doc_21540.txt",
+    "doc_21541.txt",
+    "doc_30801.txt",
+    "doc_20246.txt",
+    "doc_20244.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "By what year does the text aim for a 60% reduction in greenhouse gas emissions from transport within the EU, compared to 1990 levels?",
+  "response": [
+    "doc_21248.txt",
+    "doc_4839.txt",
+    "doc_25653.txt",
+    "doc_3163.txt",
+    "doc_21242.txt"
+  ]
+}

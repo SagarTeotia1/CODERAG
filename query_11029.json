@@ -1,0 +1,10 @@
+{
+  "query": "What are the wind speeds associated with an F5 tornado, according to the provided scale?",
+  "response": [
+    "doc_17692.txt",
+    "doc_17695.txt",
+    "doc_17693.txt",
+    "doc_17696.txt",
+    "doc_17694.txt"
+  ]
+}

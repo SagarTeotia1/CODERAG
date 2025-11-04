@@ -1,0 +1,10 @@
+{
+  "query": "Did this vessel enter any European port, and specifically, any Spanish port?",
+  "response": [
+    "doc_10430.txt",
+    "doc_23284.txt",
+    "doc_25870.txt",
+    "doc_12737.txt",
+    "doc_14229.txt"
+  ]
+}

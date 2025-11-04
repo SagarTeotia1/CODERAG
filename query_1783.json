@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission currently evaluating regarding funding for Maltese students?",
+  "response": [
+    "doc_31642.txt",
+    "doc_5423.txt",
+    "doc_24922.txt",
+    "doc_17492.txt",
+    "doc_630.txt"
+  ]
+}

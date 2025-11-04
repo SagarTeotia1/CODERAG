@@ -1,0 +1,10 @@
+{
+  "query": "Has Equatorial Guinea received aid from the European Union in the last four years?",
+  "response": [
+    "doc_16601.txt",
+    "doc_8149.txt",
+    "doc_13272.txt",
+    "doc_31164.txt",
+    "doc_25417.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the primary difference between the US Army’s time system and military clocks?",
+  "response": [
+    "doc_28062.txt",
+    "doc_21977.txt",
+    "doc_28063.txt",
+    "doc_36894.txt",
+    "doc_14063.txt"
+  ]
+}

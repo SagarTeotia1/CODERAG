@@ -1,0 +1,10 @@
+{
+  "query": "What was the purpose of the “Red Phone” and where was it located?",
+  "response": [
+    "doc_36175.txt",
+    "doc_36176.txt",
+    "doc_36183.txt",
+    "doc_36177.txt",
+    "doc_36180.txt"
+  ]
+}

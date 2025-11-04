@@ -1,0 +1,10 @@
+{
+  "query": "Which company owns and organizes the Dubai Tennis Championships?",
+  "response": [
+    "doc_11106.txt",
+    "doc_8357.txt",
+    "doc_8671.txt",
+    "doc_8356.txt",
+    "doc_8672.txt"
+  ]
+}

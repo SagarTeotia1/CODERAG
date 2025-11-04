@@ -1,0 +1,10 @@
+{
+  "query": "What type of attraction is Shangri La now?",
+  "response": [
+    "doc_3409.txt",
+    "doc_3407.txt",
+    "doc_3405.txt",
+    "doc_3406.txt",
+    "doc_3404.txt"
+  ]
+}

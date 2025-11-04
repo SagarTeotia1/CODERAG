@@ -1,0 +1,10 @@
+{
+  "query": "On what television series did Peter Tork play the bass guitar?",
+  "response": [
+    "doc_2981.txt",
+    "doc_38659.txt",
+    "doc_25330.txt",
+    "doc_38661.txt",
+    "doc_25328.txt"
+  ]
+}

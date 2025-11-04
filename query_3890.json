@@ -1,0 +1,10 @@
+{
+  "query": "What type of merchandise is available at the shop after riding Buzz Lightyear’s Space Ranger Spin?",
+  "response": [
+    "doc_36662.txt",
+    "doc_36660.txt",
+    "doc_36665.txt",
+    "doc_36663.txt",
+    "doc_36661.txt"
+  ]
+}

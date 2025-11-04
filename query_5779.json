@@ -1,0 +1,10 @@
+{
+  "query": "Who stars as Dr. Ben McKenna in the film “The Man Who Knew Too Much”?",
+  "response": [
+    "doc_36344.txt",
+    "doc_36345.txt",
+    "doc_36342.txt",
+    "doc_19040.txt",
+    "doc_19042.txt"
+  ]
+}

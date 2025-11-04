@@ -1,0 +1,10 @@
+{
+  "query": "How many civilians and soldiers have been lost in Pakistan since 2003 due to terrorism?",
+  "response": [
+    "doc_33787.txt",
+    "doc_856.txt",
+    "doc_10119.txt",
+    "doc_37221.txt",
+    "doc_25861.txt"
+  ]
+}

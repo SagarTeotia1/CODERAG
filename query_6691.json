@@ -1,0 +1,10 @@
+{
+  "query": "What company is Derek K. Smart the president of?",
+  "response": [
+    "doc_2161.txt",
+    "doc_17408.txt",
+    "doc_37673.txt",
+    "doc_26540.txt",
+    "doc_17410.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was Douglas Engelbart's primary contribution to the field of human-computer interaction?",
+  "response": [
+    "doc_21266.txt",
+    "doc_15190.txt",
+    "doc_31501.txt",
+    "doc_21262.txt",
+    "doc_11231.txt"
+  ]
+}

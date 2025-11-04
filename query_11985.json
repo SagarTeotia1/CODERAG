@@ -1,0 +1,10 @@
+{
+  "query": "Followers of this ancient philosopher from Samos spread the “hypotenuse” about reincarnation.",
+  "response": [
+    "doc_20181.txt",
+    "doc_20180.txt",
+    "doc_20177.txt",
+    "doc_20178.txt",
+    "doc_20176.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what series did the character Snake Eyes first appear?",
+  "response": [
+    "doc_40069.txt",
+    "doc_40063.txt",
+    "doc_16134.txt",
+    "doc_40071.txt",
+    "doc_40064.txt"
+  ]
+}

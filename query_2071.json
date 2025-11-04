@@ -1,0 +1,10 @@
+{
+  "query": "What phrase did the Lone Ranger frequently say?",
+  "response": [
+    "doc_32412.txt",
+    "doc_32416.txt",
+    "doc_32417.txt",
+    "doc_32411.txt",
+    "doc_32418.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What types of documents does the Conference of Delegation Chairs create?",
+  "response": [
+    "doc_16763.txt",
+    "doc_29308.txt",
+    "doc_29295.txt",
+    "doc_2595.txt",
+    "doc_2706.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "How many award ceremonies were organised by the Commission in 2006, 2007, and 2008?",
+  "response": [
+    "doc_26639.txt",
+    "doc_29854.txt",
+    "doc_25826.txt",
+    "doc_19868.txt",
+    "doc_25103.txt"
+  ]
+}

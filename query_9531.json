@@ -1,0 +1,10 @@
+{
+  "query": "Does the passage suggest German should be a working language of the European External Action Service?",
+  "response": [
+    "doc_14056.txt",
+    "doc_14204.txt",
+    "doc_3116.txt",
+    "doc_15081.txt",
+    "doc_25925.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was Annie Oakley’s original name?",
+  "response": [
+    "doc_3648.txt",
+    "doc_3649.txt",
+    "doc_1831.txt",
+    "doc_1828.txt",
+    "doc_1829.txt"
+  ]
+}

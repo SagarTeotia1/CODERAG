@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission’s stance on the situation of stateless residents in Slovenia who have been removed from the population register?",
+  "response": [
+    "doc_249.txt",
+    "doc_12073.txt",
+    "doc_39804.txt",
+    "doc_38120.txt",
+    "doc_1580.txt"
+  ]
+}

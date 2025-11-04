@@ -1,0 +1,10 @@
+{
+  "query": "According to Transparency International, what was the Palestinian Authority’s ranking in the international corruption perception index in 2005?",
+  "response": [
+    "doc_1544.txt",
+    "doc_31189.txt",
+    "doc_36361.txt",
+    "doc_15964.txt",
+    "doc_32033.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Where was Marcus Dupree born and raised, and what college did he attend before leaving?",
+  "response": [
+    "doc_32433.txt",
+    "doc_32432.txt",
+    "doc_32258.txt",
+    "doc_32257.txt",
+    "doc_32256.txt"
+  ]
+}

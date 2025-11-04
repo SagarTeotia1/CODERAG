@@ -1,0 +1,10 @@
+{
+  "query": "What type of products does Bioclone Australia export?",
+  "response": [
+    "doc_16866.txt",
+    "doc_25038.txt",
+    "doc_19416.txt",
+    "doc_17074.txt",
+    "doc_25041.txt"
+  ]
+}

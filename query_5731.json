@@ -1,0 +1,10 @@
+{
+  "query": "According to the routeplannermap.com link, what other cities are listed as destinations from Pretoria?",
+  "response": [
+    "doc_4711.txt",
+    "doc_4714.txt",
+    "doc_4718.txt",
+    "doc_4712.txt",
+    "doc_4717.txt"
+  ]
+}

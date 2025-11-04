@@ -1,0 +1,10 @@
+{
+  "query": "What were the charges against the two boys who were publicly hanged in Iran?",
+  "response": [
+    "doc_39898.txt",
+    "doc_17043.txt",
+    "doc_26587.txt",
+    "doc_17044.txt",
+    "doc_23845.txt"
+  ]
+}

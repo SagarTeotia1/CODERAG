@@ -1,0 +1,10 @@
+{
+  "query": "When was Ruben Studdard’s album, “Soulful,” released?",
+  "response": [
+    "doc_22154.txt",
+    "doc_22156.txt",
+    "doc_22155.txt",
+    "doc_22153.txt",
+    "doc_22158.txt"
+  ]
+}

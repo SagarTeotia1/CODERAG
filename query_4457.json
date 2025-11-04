@@ -1,0 +1,10 @@
+{
+  "query": "Which Belarusian university is receiving financial support from the Commission in exile?",
+  "response": [
+    "doc_38049.txt",
+    "doc_38048.txt",
+    "doc_23801.txt",
+    "doc_4990.txt",
+    "doc_24867.txt"
+  ]
+}

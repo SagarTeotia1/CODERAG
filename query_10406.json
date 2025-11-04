@@ -1,0 +1,10 @@
+{
+  "query": "What was the estimated total direct damage caused by the flooding disaster in Croatia?",
+  "response": [
+    "doc_16244.txt",
+    "doc_16243.txt",
+    "doc_16245.txt",
+    "doc_3163.txt",
+    "doc_18102.txt"
+  ]
+}

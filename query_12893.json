@@ -1,0 +1,10 @@
+{
+  "query": "Where was William Faulkner born, and what was his original family name?",
+  "response": [
+    "doc_22461.txt",
+    "doc_22463.txt",
+    "doc_22462.txt",
+    "doc_10067.txt",
+    "doc_33062.txt"
+  ]
+}

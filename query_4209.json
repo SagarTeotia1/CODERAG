@@ -1,0 +1,10 @@
+{
+  "query": "What is the second smallest state in the United States?",
+  "response": [
+    "doc_37445.txt",
+    "doc_37446.txt",
+    "doc_37442.txt",
+    "doc_37443.txt",
+    "doc_37441.txt"
+  ]
+}

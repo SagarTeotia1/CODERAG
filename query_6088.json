@@ -1,0 +1,10 @@
+{
+  "query": "According to the Commission’s assessment, what type of tax is the clawback-tax?",
+  "response": [
+    "doc_5577.txt",
+    "doc_26809.txt",
+    "doc_12594.txt",
+    "doc_31625.txt",
+    "doc_20030.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "How many complaints has the Commission received regarding wind farm developments?",
+  "response": [
+    "doc_15800.txt",
+    "doc_24791.txt",
+    "doc_15101.txt",
+    "doc_36062.txt",
+    "doc_18184.txt"
+  ]
+}

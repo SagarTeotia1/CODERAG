@@ -1,0 +1,10 @@
+{
+  "query": "How many teams participated in the 2013 FGLQ season?",
+  "response": [
+    "doc_7143.txt",
+    "doc_7144.txt",
+    "doc_22126.txt",
+    "doc_38743.txt",
+    "doc_38745.txt"
+  ]
+}

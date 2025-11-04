@@ -1,0 +1,10 @@
+{
+  "query": "When were proposals adopted to amend EU legislation on pharmacovigilance?",
+  "response": [
+    "doc_18.txt",
+    "doc_8101.txt",
+    "doc_14586.txt",
+    "doc_32552.txt",
+    "doc_16437.txt"
+  ]
+}

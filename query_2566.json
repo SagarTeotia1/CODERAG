@@ -1,0 +1,10 @@
+{
+  "query": "When was the census allegedly finished in Italy?",
+  "response": [
+    "doc_33017.txt",
+    "doc_33019.txt",
+    "doc_33016.txt",
+    "doc_19290.txt",
+    "doc_19291.txt"
+  ]
+}

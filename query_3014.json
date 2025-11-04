@@ -1,0 +1,10 @@
+{
+  "query": "Which South Park episode concluded a three-episode story arc beginning with “Black Friday”?",
+  "response": [
+    "doc_19164.txt",
+    "doc_3414.txt",
+    "doc_10383.txt",
+    "doc_34818.txt",
+    "doc_4102.txt"
+  ]
+}

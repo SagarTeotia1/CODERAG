@@ -1,0 +1,10 @@
+{
+  "query": "What is the approximate number of employees PIMCO has as of June 30, 2016?",
+  "response": [
+    "doc_20821.txt",
+    "doc_37674.txt",
+    "doc_21972.txt",
+    "doc_37670.txt",
+    "doc_26976.txt"
+  ]
+}

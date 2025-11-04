@@ -1,0 +1,10 @@
+{
+  "query": "What is the SX-6 supercomputer’s primary feature regarding processing power?",
+  "response": [
+    "doc_3731.txt",
+    "doc_3734.txt",
+    "doc_3730.txt",
+    "doc_3729.txt",
+    "doc_3728.txt"
+  ]
+}

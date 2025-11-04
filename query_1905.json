@@ -1,0 +1,10 @@
+{
+  "query": "What university in New York City housed the only professional theatre company mentioned in the passage?",
+  "response": [
+    "doc_31948.txt",
+    "doc_5547.txt",
+    "doc_35218.txt",
+    "doc_5552.txt",
+    "doc_29195.txt"
+  ]
+}

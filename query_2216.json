@@ -1,0 +1,10 @@
+{
+  "query": "When was the Studio 2B program introduced by the Girl Scouts of the USA?",
+  "response": [
+    "doc_32750.txt",
+    "doc_32751.txt",
+    "doc_32752.txt",
+    "doc_32755.txt",
+    "doc_24303.txt"
+  ]
+}

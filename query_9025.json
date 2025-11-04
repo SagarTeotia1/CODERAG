@@ -1,0 +1,10 @@
+{
+  "query": "What is another name for Pennsylvania mentioned in the passage?",
+  "response": [
+    "doc_12891.txt",
+    "doc_12889.txt",
+    "doc_12887.txt",
+    "doc_12884.txt",
+    "doc_12883.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was Isaac Singer’s profession, besides being an inventor?",
+  "response": [
+    "doc_4655.txt",
+    "doc_4652.txt",
+    "doc_4653.txt",
+    "doc_4651.txt",
+    "doc_4656.txt"
+  ]
+}

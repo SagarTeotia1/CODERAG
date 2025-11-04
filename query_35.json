@@ -1,0 +1,10 @@
+{
+  "query": "Which actor's likeness appears on Gambia stamps?",
+  "response": [
+    "doc_27414.txt",
+    "doc_23682.txt",
+    "doc_23683.txt",
+    "doc_36342.txt",
+    "doc_17866.txt"
+  ]
+}

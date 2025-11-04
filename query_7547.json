@@ -1,0 +1,10 @@
+{
+  "query": "How many names were included in Gaige’s “A Catalog of Chess Players and Problemists”?",
+  "response": [
+    "doc_28242.txt",
+    "doc_38270.txt",
+    "doc_30279.txt",
+    "doc_19489.txt",
+    "doc_1823.txt"
+  ]
+}

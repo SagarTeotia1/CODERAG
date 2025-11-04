@@ -1,0 +1,10 @@
+{
+  "query": "According to Scott’s last diary entry, what should people do?",
+  "response": [
+    "doc_30617.txt",
+    "doc_30618.txt",
+    "doc_30616.txt",
+    "doc_6446.txt",
+    "doc_6447.txt"
+  ]
+}

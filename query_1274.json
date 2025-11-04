@@ -1,0 +1,10 @@
+{
+  "query": "Which television programme did Alan Halsall appear in before becoming famous for his role as Tyrone Dobbs?",
+  "response": [
+    "doc_30440.txt",
+    "doc_30439.txt",
+    "doc_9327.txt",
+    "doc_9326.txt",
+    "doc_9325.txt"
+  ]
+}

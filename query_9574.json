@@ -1,0 +1,10 @@
+{
+  "query": "What award did the musical “Of Thee I Sing” receive?",
+  "response": [
+    "doc_39418.txt",
+    "doc_14157.txt",
+    "doc_22851.txt",
+    "doc_39415.txt",
+    "doc_22850.txt"
+  ]
+}

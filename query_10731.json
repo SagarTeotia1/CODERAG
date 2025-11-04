@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Jeon receive the “Best New Actress Award” at the MBC Drama Awards?",
+  "response": [
+    "doc_16920.txt",
+    "doc_26273.txt",
+    "doc_2035.txt",
+    "doc_17960.txt",
+    "doc_28595.txt"
+  ]
+}

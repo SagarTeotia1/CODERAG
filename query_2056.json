@@ -1,0 +1,10 @@
+{
+  "query": "What was a significant characteristic of the first concrete wall erected, as described in the ACI history book?",
+  "response": [
+    "doc_5010.txt",
+    "doc_5015.txt",
+    "doc_27593.txt",
+    "doc_31679.txt",
+    "doc_31119.txt"
+  ]
+}

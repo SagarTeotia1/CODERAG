@@ -1,0 +1,10 @@
+{
+  "query": "What year was “The Country of the Pointed Firs” published?",
+  "response": [
+    "doc_19621.txt",
+    "doc_19620.txt",
+    "doc_19618.txt",
+    "doc_19619.txt",
+    "doc_3980.txt"
+  ]
+}

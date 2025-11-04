@@ -1,0 +1,10 @@
+{
+  "query": "What is the date of Greenleaf Whittier’s death?",
+  "response": [
+    "doc_10639.txt",
+    "doc_10638.txt",
+    "doc_11932.txt",
+    "doc_9417.txt",
+    "doc_11933.txt"
+  ]
+}

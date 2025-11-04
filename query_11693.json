@@ -1,0 +1,10 @@
+{
+  "query": "What specific EU policy regarding Zimbabwe does not foresee economic sanctions preventing trade?",
+  "response": [
+    "doc_26112.txt",
+    "doc_14730.txt",
+    "doc_20304.txt",
+    "doc_16739.txt",
+    "doc_19389.txt"
+  ]
+}

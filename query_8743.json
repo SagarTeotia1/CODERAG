@@ -1,0 +1,10 @@
+{
+  "query": "What year did Thomas Wilson Dorr graduate from Brown University?",
+  "response": [
+    "doc_12170.txt",
+    "doc_12171.txt",
+    "doc_12507.txt",
+    "doc_12503.txt",
+    "doc_12505.txt"
+  ]
+}

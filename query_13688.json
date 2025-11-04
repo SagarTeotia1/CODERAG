@@ -1,0 +1,10 @@
+{
+  "query": "Which political party was associated with the slogan “Tippecanoe & Tyler Too”?",
+  "response": [
+    "doc_2342.txt",
+    "doc_2343.txt",
+    "doc_837.txt",
+    "doc_36907.txt",
+    "doc_36906.txt"
+  ]
+}

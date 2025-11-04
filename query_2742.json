@@ -1,0 +1,10 @@
+{
+  "query": "What TV show did Erik Estrada star in as Ponch?",
+  "response": [
+    "doc_34070.txt",
+    "doc_34071.txt",
+    "doc_34073.txt",
+    "doc_34069.txt",
+    "doc_34074.txt"
+  ]
+}

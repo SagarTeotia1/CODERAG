@@ -1,0 +1,10 @@
+{
+  "query": "What countries expressed public criticism regarding China’s launch of a ballistic missile?",
+  "response": [
+    "doc_4474.txt",
+    "doc_30880.txt",
+    "doc_11407.txt",
+    "doc_1972.txt",
+    "doc_26585.txt"
+  ]
+}

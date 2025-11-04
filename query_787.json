@@ -1,0 +1,10 @@
+{
+  "query": "Where did Protagoras read a controversial treatise about the existence of the gods?",
+  "response": [
+    "doc_29087.txt",
+    "doc_29088.txt",
+    "doc_29089.txt",
+    "doc_20180.txt",
+    "doc_20179.txt"
+  ]
+}

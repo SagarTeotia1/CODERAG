@@ -1,0 +1,10 @@
+{
+  "query": "What is Murray Jones’s current role?",
+  "response": [
+    "doc_977.txt",
+    "doc_865.txt",
+    "doc_958.txt",
+    "doc_951.txt",
+    "doc_952.txt"
+  ]
+}

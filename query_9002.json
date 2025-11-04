@@ -1,0 +1,10 @@
+{
+  "query": "Which brands does Bullitt Group partner with to market and sell consumer electronic devices?",
+  "response": [
+    "doc_12838.txt",
+    "doc_12839.txt",
+    "doc_20033.txt",
+    "doc_17175.txt",
+    "doc_38193.txt"
+  ]
+}

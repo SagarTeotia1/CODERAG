@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what rights does Mr. Michael Vasquez have the option to invoke?",
+  "response": [
+    "doc_10756.txt",
+    "doc_37315.txt",
+    "doc_10752.txt",
+    "doc_10754.txt",
+    "doc_10750.txt"
+  ]
+}

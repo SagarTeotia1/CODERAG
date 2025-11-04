@@ -1,0 +1,10 @@
+{
+  "query": "What journals has Dr. Gordon published articles in?",
+  "response": [
+    "doc_24135.txt",
+    "doc_24136.txt",
+    "doc_7116.txt",
+    "doc_7114.txt",
+    "doc_7118.txt"
+  ]
+}

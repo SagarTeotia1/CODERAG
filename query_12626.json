@@ -1,0 +1,10 @@
+{
+  "query": "Which river is mentioned in connection with the Gila Cliff Dwellings National Monument?",
+  "response": [
+    "doc_21734.txt",
+    "doc_21733.txt",
+    "doc_17538.txt",
+    "doc_21202.txt",
+    "doc_21737.txt"
+  ]
+}

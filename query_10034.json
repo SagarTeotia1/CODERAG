@@ -1,0 +1,10 @@
+{
+  "query": "What two organizations is the EU accused of maintaining contact with by Israel?",
+  "response": [
+    "doc_15236.txt",
+    "doc_35610.txt",
+    "doc_2824.txt",
+    "doc_15100.txt",
+    "doc_5940.txt"
+  ]
+}

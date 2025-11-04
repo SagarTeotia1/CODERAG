@@ -1,0 +1,10 @@
+{
+  "query": "Besides acting, what other profession did Mary Woronov pursue?",
+  "response": [
+    "doc_16495.txt",
+    "doc_11644.txt",
+    "doc_30051.txt",
+    "doc_30048.txt",
+    "doc_30049.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which city will host the 2024 Summer Olympics?",
+  "response": [
+    "doc_7253.txt",
+    "doc_7255.txt",
+    "doc_7254.txt",
+    "doc_7256.txt",
+    "doc_21593.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "With which group did Donald Malloy first gain prominence?",
+  "response": [
+    "doc_271.txt",
+    "doc_38112.txt",
+    "doc_36624.txt",
+    "doc_32068.txt",
+    "doc_2988.txt"
+  ]
+}

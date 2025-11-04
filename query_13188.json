@@ -1,0 +1,10 @@
+{
+  "query": "How many journalists are currently imprisoned in Burma, as reported in the passage?",
+  "response": [
+    "doc_2226.txt",
+    "doc_32967.txt",
+    "doc_2227.txt",
+    "doc_28397.txt",
+    "doc_36799.txt"
+  ]
+}

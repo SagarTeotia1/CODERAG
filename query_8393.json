@@ -1,0 +1,10 @@
+{
+  "query": "When is ‘European Maritime Day’ being celebrated?",
+  "response": [
+    "doc_11331.txt",
+    "doc_10136.txt",
+    "doc_6555.txt",
+    "doc_18925.txt",
+    "doc_10135.txt"
+  ]
+}

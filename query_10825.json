@@ -1,0 +1,10 @@
+{
+  "query": "What is the origin of the “ThinkPad” name?",
+  "response": [
+    "doc_17173.txt",
+    "doc_8118.txt",
+    "doc_17409.txt",
+    "doc_3731.txt",
+    "doc_36044.txt"
+  ]
+}

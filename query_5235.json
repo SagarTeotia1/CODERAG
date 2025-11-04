@@ -1,0 +1,10 @@
+{
+  "query": "What city was originally known as Saturnia?",
+  "response": [
+    "doc_25300.txt",
+    "doc_25303.txt",
+    "doc_32622.txt",
+    "doc_18067.txt",
+    "doc_18072.txt"
+  ]
+}

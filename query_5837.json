@@ -1,0 +1,10 @@
+{
+  "query": "How many merit badges must a Boy Scout earn to achieve Eagle status?",
+  "response": [
+    "doc_4982.txt",
+    "doc_4983.txt",
+    "doc_4981.txt",
+    "doc_36074.txt",
+    "doc_36073.txt"
+  ]
+}

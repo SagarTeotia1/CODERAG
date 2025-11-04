@@ -1,0 +1,10 @@
+{
+  "query": "How many people watch the event on Independence Day?",
+  "response": [
+    "doc_28760.txt",
+    "doc_1256.txt",
+    "doc_284.txt",
+    "doc_28765.txt",
+    "doc_277.txt"
+  ]
+}

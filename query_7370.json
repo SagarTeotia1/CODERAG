@@ -1,0 +1,10 @@
+{
+  "query": "What three codes of conduct does the passage mention regarding the Commission?",
+  "response": [
+    "doc_8779.txt",
+    "doc_8778.txt",
+    "doc_1351.txt",
+    "doc_15274.txt",
+    "doc_2669.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What EU energy policy priorities are focused on eastern and southern neighbours?",
+  "response": [
+    "doc_26913.txt",
+    "doc_17551.txt",
+    "doc_26896.txt",
+    "doc_18756.txt",
+    "doc_18749.txt"
+  ]
+}

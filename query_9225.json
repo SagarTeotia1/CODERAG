@@ -1,0 +1,10 @@
+{
+  "query": "What was the planned purpose of the friendly international match between the Catalan and Iraqi teams?",
+  "response": [
+    "doc_13404.txt",
+    "doc_11625.txt",
+    "doc_17462.txt",
+    "doc_12451.txt",
+    "doc_3159.txt"
+  ]
+}

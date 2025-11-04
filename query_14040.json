@@ -1,0 +1,10 @@
+{
+  "query": "When did the Spadina streetcar line operate in Toronto?",
+  "response": [
+    "doc_33357.txt",
+    "doc_33356.txt",
+    "doc_37582.txt",
+    "doc_9588.txt",
+    "doc_2855.txt"
+  ]
+}

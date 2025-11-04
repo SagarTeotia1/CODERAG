@@ -1,0 +1,10 @@
+{
+  "query": "In what movie is the song “Luck Be a Lady” featured?",
+  "response": [
+    "doc_36356.txt",
+    "doc_19641.txt",
+    "doc_19640.txt",
+    "doc_19647.txt",
+    "doc_4908.txt"
+  ]
+}

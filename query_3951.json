@@ -1,0 +1,10 @@
+{
+  "query": "What is the floor space of the Abu Dhabi National Exhibition Centre?",
+  "response": [
+    "doc_24346.txt",
+    "doc_28787.txt",
+    "doc_10660.txt",
+    "doc_24347.txt",
+    "doc_24345.txt"
+  ]
+}

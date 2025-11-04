@@ -1,0 +1,10 @@
+{
+  "query": "Which teams did Jim Riggleman manage during his managerial career?",
+  "response": [
+    "doc_37698.txt",
+    "doc_22163.txt",
+    "doc_14708.txt",
+    "doc_12465.txt",
+    "doc_14701.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What type of plug is used in the neck of a McCartney bottle to prevent contamination?",
+  "response": [
+    "doc_21099.txt",
+    "doc_21095.txt",
+    "doc_21101.txt",
+    "doc_39638.txt",
+    "doc_23339.txt"
+  ]
+}

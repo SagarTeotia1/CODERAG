@@ -1,0 +1,10 @@
+{
+  "query": "Which artist contributed lead vocals to the final track of “Ordinary Average Guy”?",
+  "response": [
+    "doc_19645.txt",
+    "doc_19646.txt",
+    "doc_21177.txt",
+    "doc_22158.txt",
+    "doc_19642.txt"
+  ]
+}

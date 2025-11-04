@@ -1,0 +1,10 @@
+{
+  "query": "Who won the 2006 Boston Film Festival “Best New Filmmaker” award for the film mentioned in the passage?",
+  "response": [
+    "doc_27031.txt",
+    "doc_27033.txt",
+    "doc_27034.txt",
+    "doc_2180.txt",
+    "doc_27029.txt"
+  ]
+}

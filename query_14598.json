@@ -1,0 +1,10 @@
+{
+  "query": "In what church is “The Burial of the Count of Orgaz” located, and what was it originally commissioned for?",
+  "response": [
+    "doc_26619.txt",
+    "doc_26616.txt",
+    "doc_26621.txt",
+    "doc_26629.txt",
+    "doc_26620.txt"
+  ]
+}

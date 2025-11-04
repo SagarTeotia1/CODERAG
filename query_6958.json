@@ -1,0 +1,10 @@
+{
+  "query": "On what theater is “The Tempest” sculpture installed?",
+  "response": [
+    "doc_20635.txt",
+    "doc_20630.txt",
+    "doc_20633.txt",
+    "doc_20632.txt",
+    "doc_20629.txt"
+  ]
+}

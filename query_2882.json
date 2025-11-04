@@ -1,0 +1,10 @@
+{
+  "query": "What colors are present in the *qantuta tricolor*, a variety of the national flower of Bolivia?",
+  "response": [
+    "doc_25043.txt",
+    "doc_25046.txt",
+    "doc_25044.txt",
+    "doc_33172.txt",
+    "doc_34793.txt"
+  ]
+}

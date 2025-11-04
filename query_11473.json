@@ -1,0 +1,10 @@
+{
+  "query": "How many vaccines against Flu A/H1N1 has the Commission authorized?",
+  "response": [
+    "doc_28168.txt",
+    "doc_12554.txt",
+    "doc_25278.txt",
+    "doc_18791.txt",
+    "doc_14586.txt"
+  ]
+}

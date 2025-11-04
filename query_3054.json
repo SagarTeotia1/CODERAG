@@ -1,0 +1,9 @@
+{
+  "query": "What type of knives were Joshua instructed to make?",
+  "response": [
+    "doc_34758.txt",
+    "doc_34757.txt",
+    "doc_34756.txt",
+    "doc_34759.txt"
+  ]
+}

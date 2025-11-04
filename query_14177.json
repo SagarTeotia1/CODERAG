@@ -1,0 +1,10 @@
+{
+  "query": "On what network did \"Home Alone: The Holiday Heist\" premiere?",
+  "response": [
+    "doc_5631.txt",
+    "doc_15036.txt",
+    "doc_15037.txt",
+    "doc_5630.txt",
+    "doc_5633.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of Seychelles' power is currently produced by the wind farm on Mahé Island?",
+  "response": [
+    "doc_20198.txt",
+    "doc_18048.txt",
+    "doc_27678.txt",
+    "doc_19116.txt",
+    "doc_26421.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Fred Wendt break the national collegiate rushing record?",
+  "response": [
+    "doc_10247.txt",
+    "doc_32259.txt",
+    "doc_32258.txt",
+    "doc_31484.txt",
+    "doc_25627.txt"
+  ]
+}

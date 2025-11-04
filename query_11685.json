@@ -1,0 +1,10 @@
+{
+  "query": "What was Bob Steele primarily known for during his film career?",
+  "response": [
+    "doc_30404.txt",
+    "doc_26012.txt",
+    "doc_1357.txt",
+    "doc_1361.txt",
+    "doc_26011.txt"
+  ]
+}

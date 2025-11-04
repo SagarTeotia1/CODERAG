@@ -1,0 +1,10 @@
+{
+  "query": "With a breakdown per year, per vehicle and per Commissioner, can the Commission provide a list of the traffic fines received in 2005, 2006 and 2007?",
+  "response": [
+    "doc_2822.txt",
+    "doc_3777.txt",
+    "doc_21435.txt",
+    "doc_25826.txt",
+    "doc_28910.txt"
+  ]
+}

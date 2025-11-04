@@ -1,0 +1,10 @@
+{
+  "query": "Where is the capital city of Qatar located?",
+  "response": [
+    "doc_24345.txt",
+    "doc_24346.txt",
+    "doc_24343.txt",
+    "doc_24347.txt",
+    "doc_24344.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What year was “The Big Sleep” released?",
+  "response": [
+    "doc_39230.txt",
+    "doc_39217.txt",
+    "doc_4344.txt",
+    "doc_39218.txt",
+    "doc_39222.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What specific accounting issues were alleged against the former directors and auditors of ELAS, according to the court documents?",
+  "response": [
+    "doc_911.txt",
+    "doc_1011.txt",
+    "doc_901.txt",
+    "doc_937.txt",
+    "doc_1044.txt"
+  ]
+}

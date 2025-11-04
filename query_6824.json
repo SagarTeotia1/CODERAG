@@ -1,0 +1,10 @@
+{
+  "query": "Where was Tookie Gilbert born?",
+  "response": [
+    "doc_37161.txt",
+    "doc_38474.txt",
+    "doc_5205.txt",
+    "doc_27299.txt",
+    "doc_32186.txt"
+  ]
+}

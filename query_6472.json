@@ -1,0 +1,10 @@
+{
+  "query": "What was the estimated gross debt accumulated by Parmalat?",
+  "response": [
+    "doc_31401.txt",
+    "doc_4354.txt",
+    "doc_16678.txt",
+    "doc_16677.txt",
+    "doc_31399.txt"
+  ]
+}

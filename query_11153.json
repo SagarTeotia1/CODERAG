@@ -1,0 +1,10 @@
+{
+  "query": "Who is Walter Cunningham in the provided text?",
+  "response": [
+    "doc_8330.txt",
+    "doc_3654.txt",
+    "doc_3020.txt",
+    "doc_36061.txt",
+    "doc_5114.txt"
+  ]
+}

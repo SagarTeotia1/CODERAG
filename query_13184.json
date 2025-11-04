@@ -1,0 +1,10 @@
+{
+  "query": "On what date did Aerosucre Flight 4544 crash?",
+  "response": [
+    "doc_23128.txt",
+    "doc_10194.txt",
+    "doc_31511.txt",
+    "doc_13013.txt",
+    "doc_31516.txt"
+  ]
+}

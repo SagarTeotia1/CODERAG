@@ -1,0 +1,10 @@
+{
+  "query": "Who was responsible for the backing band “Full Tilt Boogie” during the recording of Janis Joplin’s “Mercedes Benz”?",
+  "response": [
+    "doc_32070.txt",
+    "doc_2988.txt",
+    "doc_37167.txt",
+    "doc_34421.txt",
+    "doc_19767.txt"
+  ]
+}

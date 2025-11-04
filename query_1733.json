@@ -1,0 +1,10 @@
+{
+  "query": "How many MEPs were invited to attend the events marking the start of the 2007 European Truck Tour?",
+  "response": [
+    "doc_13011.txt",
+    "doc_10740.txt",
+    "doc_5786.txt",
+    "doc_10739.txt",
+    "doc_30481.txt"
+  ]
+}

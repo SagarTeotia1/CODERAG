@@ -1,0 +1,10 @@
+{
+  "query": "What specific artwork did Duchamp modify by adding a moustache and goatee?",
+  "response": [
+    "doc_27077.txt",
+    "doc_27084.txt",
+    "doc_27086.txt",
+    "doc_27081.txt",
+    "doc_27087.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year did he break the World Professional record in the 1000 metre time-trial?",
+  "response": [
+    "doc_21232.txt",
+    "doc_31478.txt",
+    "doc_23124.txt",
+    "doc_31480.txt",
+    "doc_21227.txt"
+  ]
+}

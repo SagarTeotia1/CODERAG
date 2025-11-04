@@ -1,0 +1,10 @@
+{
+  "query": "Which international organization released the \"Economic Report on Africa 2004\" entitled “Unlocking Africa’s Trade Potential”?",
+  "response": [
+    "doc_14811.txt",
+    "doc_17273.txt",
+    "doc_14829.txt",
+    "doc_14831.txt",
+    "doc_16924.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to Riemser, what was the original expiry date displayed on the Thiotepa batches in question?",
+  "response": [
+    "doc_21890.txt",
+    "doc_8002.txt",
+    "doc_19302.txt",
+    "doc_39410.txt",
+    "doc_39409.txt"
+  ]
+}

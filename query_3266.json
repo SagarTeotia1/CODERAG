@@ -1,0 +1,10 @@
+{
+  "query": "What type of opera is *Hansel and Gretel* described as by Engelbert Humperdinck?",
+  "response": [
+    "doc_35203.txt",
+    "doc_35204.txt",
+    "doc_35201.txt",
+    "doc_35202.txt",
+    "doc_35205.txt"
+  ]
+}

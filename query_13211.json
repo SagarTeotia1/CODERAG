@@ -1,0 +1,10 @@
+{
+  "query": "When was Paul Harold Westerberg born?",
+  "response": [
+    "doc_25328.txt",
+    "doc_5177.txt",
+    "doc_25329.txt",
+    "doc_25331.txt",
+    "doc_34416.txt"
+  ]
+}

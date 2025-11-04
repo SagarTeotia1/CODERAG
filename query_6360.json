@@ -1,0 +1,10 @@
+{
+  "query": "What did the EU condemn regarding the flotilla incident?",
+  "response": [
+    "doc_6205.txt",
+    "doc_37171.txt",
+    "doc_27683.txt",
+    "doc_37170.txt",
+    "doc_37226.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When did Hermann Hesse publish his novel *Siddhartha*?",
+  "response": [
+    "doc_5125.txt",
+    "doc_5127.txt",
+    "doc_5130.txt",
+    "doc_5131.txt",
+    "doc_5124.txt"
+  ]
+}

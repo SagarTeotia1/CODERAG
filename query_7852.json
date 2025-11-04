@@ -1,0 +1,10 @@
+{
+  "query": "What time period was the Medersa Bou Inania built between?",
+  "response": [
+    "doc_9939.txt",
+    "doc_9934.txt",
+    "doc_9938.txt",
+    "doc_9936.txt",
+    "doc_9933.txt"
+  ]
+}

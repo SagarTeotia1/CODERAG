@@ -1,0 +1,10 @@
+{
+  "query": "Which series did David Eddings author, alongside his wife Leigh?",
+  "response": [
+    "doc_9973.txt",
+    "doc_9967.txt",
+    "doc_9965.txt",
+    "doc_23586.txt",
+    "doc_19742.txt"
+  ]
+}

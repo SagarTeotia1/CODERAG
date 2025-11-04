@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of EU arms exports occurred outside of Europe between 1999 and 2003?",
+  "response": [
+    "doc_24254.txt",
+    "doc_24248.txt",
+    "doc_24252.txt",
+    "doc_16877.txt",
+    "doc_24247.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "How many countries supported the EU’s resolution condemning human rights violations in the DPRK in December 2011?",
+  "response": [
+    "doc_30144.txt",
+    "doc_8739.txt",
+    "doc_8737.txt",
+    "doc_3678.txt",
+    "doc_28927.txt"
+  ]
+}

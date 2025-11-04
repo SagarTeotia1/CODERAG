@@ -1,0 +1,10 @@
+{
+  "query": "When was Time magazine founded, and what were the ages of its founders at the time?",
+  "response": [
+    "doc_38378.txt",
+    "doc_38380.txt",
+    "doc_38382.txt",
+    "doc_38385.txt",
+    "doc_38377.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What novel did His father Emmet base Dr. Kennicott on?",
+  "response": [
+    "doc_1300.txt",
+    "doc_1305.txt",
+    "doc_1306.txt",
+    "doc_1303.txt",
+    "doc_39282.txt"
+  ]
+}

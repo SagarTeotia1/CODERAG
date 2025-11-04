@@ -1,0 +1,10 @@
+{
+  "query": "What is the purpose of the Cumberland Dam?",
+  "response": [
+    "doc_37991.txt",
+    "doc_18520.txt",
+    "doc_10000.txt",
+    "doc_18514.txt",
+    "doc_18521.txt"
+  ]
+}

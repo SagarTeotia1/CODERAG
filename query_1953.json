@@ -1,0 +1,10 @@
+{
+  "query": "What is Garibaldi known as, due to his military activities?",
+  "response": [
+    "doc_32094.txt",
+    "doc_32093.txt",
+    "doc_27410.txt",
+    "doc_34982.txt",
+    "doc_31904.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When was Coronation Street first broadcast?",
+  "response": [
+    "doc_9325.txt",
+    "doc_9326.txt",
+    "doc_30439.txt",
+    "doc_1358.txt",
+    "doc_1361.txt"
+  ]
+}

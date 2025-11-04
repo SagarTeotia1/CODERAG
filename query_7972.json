@@ -1,0 +1,10 @@
+{
+  "query": "What action has the Commission recently taken to limit the trade in illegal bush meat within the Union?",
+  "response": [
+    "doc_10333.txt",
+    "doc_17341.txt",
+    "doc_23135.txt",
+    "doc_17340.txt",
+    "doc_5384.txt"
+  ]
+}

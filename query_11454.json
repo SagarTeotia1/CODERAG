@@ -1,0 +1,10 @@
+{
+  "query": "Which television show did Niki Kanchev host in Bulgaria, and what was its original title?",
+  "response": [
+    "doc_14927.txt",
+    "doc_15036.txt",
+    "doc_3200.txt",
+    "doc_3204.txt",
+    "doc_15038.txt"
+  ]
+}

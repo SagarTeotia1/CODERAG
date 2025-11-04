@@ -1,0 +1,10 @@
+{
+  "query": "Which show featured performances by Colin Dunne and Jean Butler?",
+  "response": [
+    "doc_23681.txt",
+    "doc_23683.txt",
+    "doc_37308.txt",
+    "doc_23687.txt",
+    "doc_36823.txt"
+  ]
+}

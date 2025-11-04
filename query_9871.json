@@ -1,0 +1,10 @@
+{
+  "query": "For what award was Hsiao Ho nominated in 1982?",
+  "response": [
+    "doc_3235.txt",
+    "doc_11650.txt",
+    "doc_23683.txt",
+    "doc_7794.txt",
+    "doc_2199.txt"
+  ]
+}

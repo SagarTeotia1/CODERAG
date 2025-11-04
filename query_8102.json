@@ -1,0 +1,10 @@
+{
+  "query": "Who replaced Dave Bassett as manager?",
+  "response": [
+    "doc_10655.txt",
+    "doc_16759.txt",
+    "doc_14700.txt",
+    "doc_14708.txt",
+    "doc_33626.txt"
+  ]
+}

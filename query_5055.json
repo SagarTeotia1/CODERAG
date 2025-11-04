@@ -1,0 +1,10 @@
+{
+  "query": "When did Erica Kane first appear on “All My Children”?",
+  "response": [
+    "doc_39479.txt",
+    "doc_39477.txt",
+    "doc_6949.txt",
+    "doc_3925.txt",
+    "doc_39478.txt"
+  ]
+}

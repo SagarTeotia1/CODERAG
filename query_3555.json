@@ -1,0 +1,10 @@
+{
+  "query": "Who are the three hosts of “The Muppet Show”?",
+  "response": [
+    "doc_35866.txt",
+    "doc_35872.txt",
+    "doc_35870.txt",
+    "doc_35865.txt",
+    "doc_35871.txt"
+  ]
+}

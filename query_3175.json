@@ -1,0 +1,10 @@
+{
+  "query": "Where did the first Three Tenors concert occur – specifically, what Roman site was used?",
+  "response": [
+    "doc_35018.txt",
+    "doc_35020.txt",
+    "doc_35019.txt",
+    "doc_1492.txt",
+    "doc_16711.txt"
+  ]
+}

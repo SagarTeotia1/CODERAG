@@ -1,0 +1,10 @@
+{
+  "query": "What film featured Daniel Romer portraying a character inspired by John Bender from “The Breakfast Club”?",
+  "response": [
+    "doc_12433.txt",
+    "doc_23080.txt",
+    "doc_23079.txt",
+    "doc_23078.txt",
+    "doc_19040.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What type of geographical feature is Mount Ararat?",
+  "response": [
+    "doc_37109.txt",
+    "doc_37116.txt",
+    "doc_37115.txt",
+    "doc_37114.txt",
+    "doc_37111.txt"
+  ]
+}

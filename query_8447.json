@@ -1,0 +1,10 @@
+{
+  "query": "What was the title of Dolly Parton’s 1980 album?",
+  "response": [
+    "doc_16427.txt",
+    "doc_29934.txt",
+    "doc_16431.txt",
+    "doc_16428.txt",
+    "doc_16430.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Is the Commission aware of the situation affecting the river Guadalquivir?",
+  "response": [
+    "doc_10502.txt",
+    "doc_12173.txt",
+    "doc_23422.txt",
+    "doc_38978.txt",
+    "doc_27797.txt"
+  ]
+}

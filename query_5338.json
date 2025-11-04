@@ -1,0 +1,10 @@
+{
+  "query": "Where should the Honourable Member contact for further information regarding the airport of Cluj Napoca?",
+  "response": [
+    "doc_40093.txt",
+    "doc_14808.txt",
+    "doc_12603.txt",
+    "doc_27921.txt",
+    "doc_20801.txt"
+  ]
+}

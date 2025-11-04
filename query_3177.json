@@ -1,0 +1,10 @@
+{
+  "query": "Which country was the location of the Chernobyl disaster?",
+  "response": [
+    "doc_35027.txt",
+    "doc_35023.txt",
+    "doc_35025.txt",
+    "doc_17513.txt",
+    "doc_35024.txt"
+  ]
+}

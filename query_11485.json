@@ -1,0 +1,10 @@
+{
+  "query": "What fortified wine is produced in the Douro Valley of the Iberian Peninsula?",
+  "response": [
+    "doc_18807.txt",
+    "doc_18811.txt",
+    "doc_18812.txt",
+    "doc_18814.txt",
+    "doc_18813.txt"
+  ]
+}

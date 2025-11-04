@@ -1,0 +1,10 @@
+{
+  "query": "Which Hall of Fame did Lindsay Gaze get inducted into as a player and coach?",
+  "response": [
+    "doc_14700.txt",
+    "doc_35927.txt",
+    "doc_17828.txt",
+    "doc_25629.txt",
+    "doc_36007.txt"
+  ]
+}

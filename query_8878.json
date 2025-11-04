@@ -1,0 +1,10 @@
+{
+  "query": "What industry helped revive fictional Hadleyville?",
+  "response": [
+    "doc_5189.txt",
+    "doc_27494.txt",
+    "doc_4859.txt",
+    "doc_14490.txt",
+    "doc_27499.txt"
+  ]
+}

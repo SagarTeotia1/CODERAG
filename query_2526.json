@@ -1,0 +1,10 @@
+{
+  "query": "What was Mark Wilson’s profession, and where was he based?",
+  "response": [
+    "doc_12171.txt",
+    "doc_17714.txt",
+    "doc_28117.txt",
+    "doc_32970.txt",
+    "doc_7649.txt"
+  ]
+}

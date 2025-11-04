@@ -1,0 +1,10 @@
+{
+  "query": "Which program does the Prevention Institute house?",
+  "response": [
+    "doc_14268.txt",
+    "doc_14267.txt",
+    "doc_14448.txt",
+    "doc_17668.txt",
+    "doc_14288.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which committee oversees the control of the Union’s budget and the European Development Fund?",
+  "response": [
+    "doc_2657.txt",
+    "doc_29364.txt",
+    "doc_29363.txt",
+    "doc_2658.txt",
+    "doc_2656.txt"
+  ]
+}

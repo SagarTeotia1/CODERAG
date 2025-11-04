@@ -1,0 +1,10 @@
+{
+  "query": "What role did George Reeves initially play in the 1939 film *Gone With the Wind*?",
+  "response": [
+    "doc_33233.txt",
+    "doc_33236.txt",
+    "doc_33232.txt",
+    "doc_33235.txt",
+    "doc_33238.txt"
+  ]
+}

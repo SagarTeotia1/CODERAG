@@ -1,0 +1,10 @@
+{
+  "query": "How much money does each winner of the European Parliament Prize for Journalism receive?",
+  "response": [
+    "doc_5756.txt",
+    "doc_17547.txt",
+    "doc_39580.txt",
+    "doc_25739.txt",
+    "doc_10903.txt"
+  ]
+}

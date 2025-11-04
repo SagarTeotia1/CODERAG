@@ -1,0 +1,10 @@
+{
+  "query": "What is the only spider in Alberta that is poisonous to humans?",
+  "response": [
+    "doc_38541.txt",
+    "doc_38540.txt",
+    "doc_38538.txt",
+    "doc_38535.txt",
+    "doc_38533.txt"
+  ]
+}

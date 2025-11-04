@@ -1,0 +1,10 @@
+{
+  "query": "Who was the Member of Parliament for Wyre Forest at the 2010 general election?",
+  "response": [
+    "doc_33887.txt",
+    "doc_32548.txt",
+    "doc_33886.txt",
+    "doc_8724.txt",
+    "doc_22762.txt"
+  ]
+}

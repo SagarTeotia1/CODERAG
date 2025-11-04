@@ -1,0 +1,10 @@
+{
+  "query": "Who was the Grand Marshal of the 1960 Rose Parade?",
+  "response": [
+    "doc_9177.txt",
+    "doc_9179.txt",
+    "doc_9185.txt",
+    "doc_9178.txt",
+    "doc_9183.txt"
+  ]
+}

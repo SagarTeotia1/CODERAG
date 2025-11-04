@@ -1,0 +1,10 @@
+{
+  "query": "During which war did Peter Ustinov serve as a private soldier?",
+  "response": [
+    "doc_33198.txt",
+    "doc_33197.txt",
+    "doc_33199.txt",
+    "doc_20499.txt",
+    "doc_24018.txt"
+  ]
+}

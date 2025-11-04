@@ -1,0 +1,10 @@
+{
+  "query": "What play did Thomas Kyd write in 1592?",
+  "response": [
+    "doc_4131.txt",
+    "doc_4126.txt",
+    "doc_4130.txt",
+    "doc_4129.txt",
+    "doc_4127.txt"
+  ]
+}

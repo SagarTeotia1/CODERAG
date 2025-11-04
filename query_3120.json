@@ -1,0 +1,10 @@
+{
+  "query": "What is the approximate population of Southbank, Victoria, according to the 2011 Census?",
+  "response": [
+    "doc_20054.txt",
+    "doc_20051.txt",
+    "doc_39390.txt",
+    "doc_39385.txt",
+    "doc_39384.txt"
+  ]
+}

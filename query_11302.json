@@ -1,0 +1,10 @@
+{
+  "query": "Which publications ranked the song highly on their “Greatest Songs” lists?",
+  "response": [
+    "doc_29932.txt",
+    "doc_29935.txt",
+    "doc_29936.txt",
+    "doc_36259.txt",
+    "doc_29938.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What action did the Council take in 2009 to address the declining European eel stock?",
+  "response": [
+    "doc_29042.txt",
+    "doc_19746.txt",
+    "doc_35308.txt",
+    "doc_11931.txt",
+    "doc_21625.txt"
+  ]
+}

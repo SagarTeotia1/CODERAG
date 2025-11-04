@@ -1,0 +1,10 @@
+{
+  "query": "What did the European Council decide regarding its contribution to operations in Afghanistan?",
+  "response": [
+    "doc_38789.txt",
+    "doc_5757.txt",
+    "doc_12450.txt",
+    "doc_34817.txt",
+    "doc_40178.txt"
+  ]
+}

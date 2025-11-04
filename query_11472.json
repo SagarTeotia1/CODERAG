@@ -1,0 +1,10 @@
+{
+  "query": "What colors are present on the Blue-lined octopus when it is in its relaxed state?",
+  "response": [
+    "doc_18779.txt",
+    "doc_25938.txt",
+    "doc_25936.txt",
+    "doc_25937.txt",
+    "doc_38754.txt"
+  ]
+}

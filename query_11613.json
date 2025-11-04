@@ -1,0 +1,10 @@
+{
+  "query": "According to the text, what type of milk does Jennifer Love Hewitt prefer to consume with her meals?",
+  "response": [
+    "doc_19214.txt",
+    "doc_19215.txt",
+    "doc_28440.txt",
+    "doc_28441.txt",
+    "doc_1659.txt"
+  ]
+}

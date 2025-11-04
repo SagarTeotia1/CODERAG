@@ -1,0 +1,10 @@
+{
+  "query": "Which university was both the host and tournament host for UAAP Season 76 basketball tournaments?",
+  "response": [
+    "doc_29961.txt",
+    "doc_29960.txt",
+    "doc_19265.txt",
+    "doc_8404.txt",
+    "doc_28182.txt"
+  ]
+}

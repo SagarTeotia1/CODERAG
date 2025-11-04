@@ -1,0 +1,10 @@
+{
+  "query": "What is the specific epithet “lanigera” referring to in the description of *Salvia lanigera*?",
+  "response": [
+    "doc_6580.txt",
+    "doc_18643.txt",
+    "doc_18642.txt",
+    "doc_18638.txt",
+    "doc_35898.txt"
+  ]
+}

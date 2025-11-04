@@ -1,0 +1,10 @@
+{
+  "query": "What was the amount of total healthcare spending in North Carolina in the mid-20th century?",
+  "response": [
+    "doc_16231.txt",
+    "doc_16232.txt",
+    "doc_16229.txt",
+    "doc_15349.txt",
+    "doc_19089.txt"
+  ]
+}

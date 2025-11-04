@@ -1,0 +1,10 @@
+{
+  "query": "In what colony was Ned Kelly active as a bushranger?",
+  "response": [
+    "doc_9143.txt",
+    "doc_9144.txt",
+    "doc_9145.txt",
+    "doc_9147.txt",
+    "doc_3499.txt"
+  ]
+}

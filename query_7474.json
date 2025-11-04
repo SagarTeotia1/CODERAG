@@ -1,0 +1,10 @@
+{
+  "query": "What was the Minneapolis Lakers’ record in their first season (1947-48)?",
+  "response": [
+    "doc_9013.txt",
+    "doc_4992.txt",
+    "doc_9014.txt",
+    "doc_5004.txt",
+    "doc_9012.txt"
+  ]
+}

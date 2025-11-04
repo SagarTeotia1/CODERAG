@@ -1,0 +1,10 @@
+{
+  "query": "What is the Committee on Regional Development’s view regarding the implementation of EU legislation?",
+  "response": [
+    "doc_25854.txt",
+    "doc_2659.txt",
+    "doc_1110.txt",
+    "doc_2656.txt",
+    "doc_1109.txt"
+  ]
+}

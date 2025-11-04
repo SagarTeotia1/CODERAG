@@ -1,0 +1,10 @@
+{
+  "query": "What specific type of changes to the project specifications outlined in Annex III are permitted through the comitology procedure, as described in the passage?",
+  "response": [
+    "doc_31266.txt",
+    "doc_5537.txt",
+    "doc_17555.txt",
+    "doc_14583.txt",
+    "doc_31267.txt"
+  ]
+}

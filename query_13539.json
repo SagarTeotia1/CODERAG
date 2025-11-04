@@ -1,0 +1,10 @@
+{
+  "query": "What type of role did Gaby Sylvia typically play in her films?",
+  "response": [
+    "doc_5212.txt",
+    "doc_11980.txt",
+    "doc_30865.txt",
+    "doc_16426.txt",
+    "doc_39230.txt"
+  ]
+}

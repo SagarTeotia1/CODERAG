@@ -1,0 +1,10 @@
+{
+  "query": "In what year did the Jeep Liberty (KK) first enter production as a successor to the first generation Liberty?",
+  "response": [
+    "doc_36472.txt",
+    "doc_36473.txt",
+    "doc_26522.txt",
+    "doc_26517.txt",
+    "doc_26518.txt"
+  ]
+}

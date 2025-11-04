@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Sir Thomas Guldford entertain Elizabeth I?",
+  "response": [
+    "doc_24413.txt",
+    "doc_24412.txt",
+    "doc_5350.txt",
+    "doc_4247.txt",
+    "doc_31027.txt"
+  ]
+}

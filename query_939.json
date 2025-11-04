@@ -1,0 +1,10 @@
+{
+  "query": "According to Dr. Mae-Wan Ho, what is related to void?",
+  "response": [
+    "doc_39979.txt",
+    "doc_39981.txt",
+    "doc_39980.txt",
+    "doc_39987.txt",
+    "doc_39982.txt"
+  ]
+}

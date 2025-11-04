@@ -1,0 +1,10 @@
+{
+  "query": "What prize did Horace Benedict de Saussure offer in 1760?",
+  "response": [
+    "doc_30267.txt",
+    "doc_30266.txt",
+    "doc_30268.txt",
+    "doc_1900.txt",
+    "doc_31410.txt"
+  ]
+}

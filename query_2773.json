@@ -1,0 +1,10 @@
+{
+  "query": "Who threatened the life of the bishop of Karpasia?",
+  "response": [
+    "doc_34133.txt",
+    "doc_14407.txt",
+    "doc_38731.txt",
+    "doc_17688.txt",
+    "doc_2148.txt"
+  ]
+}

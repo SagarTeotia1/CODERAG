@@ -1,0 +1,10 @@
+{
+  "query": "In 1929, what novel did William Faulkner publish?",
+  "response": [
+    "doc_33062.txt",
+    "doc_33063.txt",
+    "doc_33073.txt",
+    "doc_33064.txt",
+    "doc_33071.txt"
+  ]
+}

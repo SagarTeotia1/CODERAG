@@ -1,0 +1,10 @@
+{
+  "query": "What rumor regarding David Bowie and Mick Jagger was denied by Bowie’s lawyers?",
+  "response": [
+    "doc_39958.txt",
+    "doc_39959.txt",
+    "doc_39962.txt",
+    "doc_39624.txt",
+    "doc_39961.txt"
+  ]
+}

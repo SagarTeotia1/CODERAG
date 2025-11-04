@@ -1,0 +1,10 @@
+{
+  "query": "What is the role of Jacqueline McGlade?",
+  "response": [
+    "doc_21574.txt",
+    "doc_11711.txt",
+    "doc_8250.txt",
+    "doc_8252.txt",
+    "doc_12607.txt"
+  ]
+}

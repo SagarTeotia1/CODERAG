@@ -1,0 +1,10 @@
+{
+  "query": "When was the last democratic referendum held in Greece?",
+  "response": [
+    "doc_39995.txt",
+    "doc_17706.txt",
+    "doc_16026.txt",
+    "doc_15025.txt",
+    "doc_31761.txt"
+  ]
+}

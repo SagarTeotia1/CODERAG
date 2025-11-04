@@ -1,0 +1,9 @@
+{
+  "query": "What is the traditional filling often found in Austrian chocolate cakes like the Sacher Torte?",
+  "response": [
+    "doc_22744.txt",
+    "doc_22746.txt",
+    "doc_22743.txt",
+    "doc_22745.txt"
+  ]
+}

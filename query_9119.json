@@ -1,0 +1,10 @@
+{
+  "query": "Who abolished the ‘turban’ in Turkey?",
+  "response": [
+    "doc_19723.txt",
+    "doc_19724.txt",
+    "doc_19727.txt",
+    "doc_19719.txt",
+    "doc_19726.txt"
+  ]
+}

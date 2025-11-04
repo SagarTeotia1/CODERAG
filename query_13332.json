@@ -1,0 +1,10 @@
+{
+  "query": "According to Mirsky’s theorem, what characteristic of a finite partially ordered set is defined by its height?",
+  "response": [
+    "doc_10853.txt",
+    "doc_26110.txt",
+    "doc_26107.txt",
+    "doc_10852.txt",
+    "doc_26109.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the location of the Seattle Reign FC’s home matches?",
+  "response": [
+    "doc_20706.txt",
+    "doc_34789.txt",
+    "doc_34786.txt",
+    "doc_34787.txt",
+    "doc_11133.txt"
+  ]
+}

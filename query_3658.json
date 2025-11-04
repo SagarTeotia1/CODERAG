@@ -1,0 +1,10 @@
+{
+  "query": "Which song featured Hollis Wong-Wear alongside Macklemore and Ryan Lewis?",
+  "response": [
+    "doc_3573.txt",
+    "doc_3985.txt",
+    "doc_3986.txt",
+    "doc_1582.txt",
+    "doc_3572.txt"
+  ]
+}

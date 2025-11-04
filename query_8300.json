@@ -1,0 +1,10 @@
+{
+  "query": "What is the estimated cost range for a lawsuit in the High Court concerning a financial services mis-sale, as noted by a law firm?",
+  "response": [
+    "doc_1035.txt",
+    "doc_1089.txt",
+    "doc_1041.txt",
+    "doc_1034.txt",
+    "doc_1036.txt"
+  ]
+}

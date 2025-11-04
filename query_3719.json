@@ -1,0 +1,10 @@
+{
+  "query": "How much financial assistance was initially approved for Hungary in 2008?",
+  "response": [
+    "doc_36260.txt",
+    "doc_22309.txt",
+    "doc_16243.txt",
+    "doc_16476.txt",
+    "doc_14243.txt"
+  ]
+}

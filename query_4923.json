@@ -1,0 +1,10 @@
+{
+  "query": "What imprint did Ted Geisel and his wife found for young children’s books?",
+  "response": [
+    "doc_32849.txt",
+    "doc_10712.txt",
+    "doc_32852.txt",
+    "doc_10713.txt",
+    "doc_32854.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When and where was Grace Brown murdered?",
+  "response": [
+    "doc_1734.txt",
+    "doc_1733.txt",
+    "doc_1735.txt",
+    "doc_1738.txt",
+    "doc_1739.txt"
+  ]
+}

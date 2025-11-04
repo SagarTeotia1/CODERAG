@@ -1,0 +1,10 @@
+{
+  "query": "What year is “mille neuf cent quatre-vingt-seize” in Parisian French?",
+  "response": [
+    "doc_16990.txt",
+    "doc_16993.txt",
+    "doc_16991.txt",
+    "doc_16988.txt",
+    "doc_16996.txt"
+  ]
+}

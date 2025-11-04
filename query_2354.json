@@ -1,0 +1,10 @@
+{
+  "query": "What is the primary concern regarding imports of active pharmaceutical ingredients into the EU?",
+  "response": [
+    "doc_33102.txt",
+    "doc_31867.txt",
+    "doc_9645.txt",
+    "doc_39812.txt",
+    "doc_5607.txt"
+  ]
+}

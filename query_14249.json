@@ -1,0 +1,10 @@
+{
+  "query": "How many young journalists are attending the European Youth Media Days?",
+  "response": [
+    "doc_25739.txt",
+    "doc_1633.txt",
+    "doc_38094.txt",
+    "doc_28313.txt",
+    "doc_5756.txt"
+  ]
+}

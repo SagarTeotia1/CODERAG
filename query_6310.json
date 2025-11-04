@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided links, what year was the film “Sweet Smell of Success” released?",
+  "response": [
+    "doc_37076.txt",
+    "doc_16822.txt",
+    "doc_3381.txt",
+    "doc_17865.txt",
+    "doc_3382.txt"
+  ]
+}

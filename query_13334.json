@@ -1,0 +1,10 @@
+{
+  "query": "On which island is Hawaii Route 240 located?",
+  "response": [
+    "doc_23399.txt",
+    "doc_23400.txt",
+    "doc_29835.txt",
+    "doc_25487.txt",
+    "doc_25485.txt"
+  ]
+}

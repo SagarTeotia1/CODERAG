@@ -1,0 +1,10 @@
+{
+  "query": "What materials are used to construct the Samuel Finley Breese Morse sculpture, and when was it dedicated?",
+  "response": [
+    "doc_35801.txt",
+    "doc_15249.txt",
+    "doc_35800.txt",
+    "doc_35799.txt",
+    "doc_15248.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What musical influences did David Bryson have early in his career?",
+  "response": [
+    "doc_31622.txt",
+    "doc_15746.txt",
+    "doc_15747.txt",
+    "doc_31618.txt",
+    "doc_31619.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Does Spain have restrictions and regulations that would prevent a British left-hand drive car from being successfully registered?",
+  "response": [
+    "doc_22879.txt",
+    "doc_39215.txt",
+    "doc_5842.txt",
+    "doc_25205.txt",
+    "doc_3777.txt"
+  ]
+}

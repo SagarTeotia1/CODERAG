@@ -1,0 +1,10 @@
+{
+  "query": "What was the color of the wallpaper used in Napoleon’s residence on St. Helena?",
+  "response": [
+    "doc_1395.txt",
+    "doc_1397.txt",
+    "doc_1396.txt",
+    "doc_1394.txt",
+    "doc_27474.txt"
+  ]
+}

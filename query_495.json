@@ -1,0 +1,10 @@
+{
+  "query": "What is the St. Petersburg Academic University’s original purpose?",
+  "response": [
+    "doc_22370.txt",
+    "doc_22367.txt",
+    "doc_22372.txt",
+    "doc_22373.txt",
+    "doc_22369.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which actors appeared in Dickens' 1843 novella?",
+  "response": [
+    "doc_1318.txt",
+    "doc_1323.txt",
+    "doc_1316.txt",
+    "doc_1327.txt",
+    "doc_1319.txt"
+  ]
+}

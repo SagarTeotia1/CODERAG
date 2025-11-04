@@ -1,0 +1,10 @@
+{
+  "query": "When was the 2010 Malaysian Census conducted?",
+  "response": [
+    "doc_15411.txt",
+    "doc_9538.txt",
+    "doc_15414.txt",
+    "doc_9537.txt",
+    "doc_17259.txt"
+  ]
+}

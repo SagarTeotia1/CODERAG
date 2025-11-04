@@ -1,0 +1,10 @@
+{
+  "query": "What is the year of the Rules of Procedure referenced in this document?",
+  "response": [
+    "doc_29414.txt",
+    "doc_24793.txt",
+    "doc_3099.txt",
+    "doc_29280.txt",
+    "doc_2634.txt"
+  ]
+}

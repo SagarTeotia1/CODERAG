@@ -1,0 +1,10 @@
+{
+  "query": "Which Marvel Cinematic Universe television series was created by Drew Goddard?",
+  "response": [
+    "doc_32859.txt",
+    "doc_40070.txt",
+    "doc_40069.txt",
+    "doc_40071.txt",
+    "doc_32860.txt"
+  ]
+}

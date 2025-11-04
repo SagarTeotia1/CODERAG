@@ -1,0 +1,10 @@
+{
+  "query": "What types of books does Full Court Press offer services for (e.g., poetry, memoirs)?",
+  "response": [
+    "doc_17619.txt",
+    "doc_17618.txt",
+    "doc_17622.txt",
+    "doc_17620.txt",
+    "doc_4547.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which wrestling ring name did Tony Rivera use after 1996?",
+  "response": [
+    "doc_17979.txt",
+    "doc_3061.txt",
+    "doc_36699.txt",
+    "doc_3060.txt",
+    "doc_3059.txt"
+  ]
+}

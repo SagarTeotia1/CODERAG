@@ -1,0 +1,10 @@
+{
+  "query": "What phrase is the first line of “The American Crisis, No. 1”?",
+  "response": [
+    "doc_15223.txt",
+    "doc_15225.txt",
+    "doc_15224.txt",
+    "doc_38670.txt",
+    "doc_33747.txt"
+  ]
+}

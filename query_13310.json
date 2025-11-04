@@ -1,0 +1,10 @@
+{
+  "query": "When was Shirley Jackson’s *The Haunting of Hill House* first published?",
+  "response": [
+    "doc_2252.txt",
+    "doc_2258.txt",
+    "doc_2251.txt",
+    "doc_2257.txt",
+    "doc_2253.txt"
+  ]
+}

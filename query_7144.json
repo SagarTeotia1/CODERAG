@@ -1,0 +1,10 @@
+{
+  "query": "How far is Dingzhou from Beijing?",
+  "response": [
+    "doc_20020.txt",
+    "doc_20022.txt",
+    "doc_20019.txt",
+    "doc_8745.txt",
+    "doc_7982.txt"
+  ]
+}

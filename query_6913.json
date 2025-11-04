@@ -1,0 +1,10 @@
+{
+  "query": "What was the basis for Benjamin Christensen’s film “Häxan”?",
+  "response": [
+    "doc_27234.txt",
+    "doc_27232.txt",
+    "doc_27231.txt",
+    "doc_27236.txt",
+    "doc_715.txt"
+  ]
+}

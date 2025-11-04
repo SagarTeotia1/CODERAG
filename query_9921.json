@@ -1,0 +1,10 @@
+{
+  "query": "Which web series was created by Joe Taylor, who also owns a winery?",
+  "response": [
+    "doc_37219.txt",
+    "doc_39265.txt",
+    "doc_37218.txt",
+    "doc_37217.txt",
+    "doc_12944.txt"
+  ]
+}

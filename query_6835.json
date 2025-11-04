@@ -1,0 +1,10 @@
+{
+  "query": "What type of hardware was described in the Danchuk Manufacturing, Inc. listing, and what era of Chevy vehicles did it fit?",
+  "response": [
+    "doc_4751.txt",
+    "doc_11620.txt",
+    "doc_4749.txt",
+    "doc_11621.txt",
+    "doc_4747.txt"
+  ]
+}

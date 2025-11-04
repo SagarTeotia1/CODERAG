@@ -1,0 +1,10 @@
+{
+  "query": "What was the tornado’s location relative to Ferndale?",
+  "response": [
+    "doc_17693.txt",
+    "doc_32437.txt",
+    "doc_17692.txt",
+    "doc_17696.txt",
+    "doc_17695.txt"
+  ]
+}

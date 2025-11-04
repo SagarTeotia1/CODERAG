@@ -1,0 +1,10 @@
+{
+  "query": "What is the full, formal title of the novel *The History of Tom Jones, a Foundling*?",
+  "response": [
+    "doc_22872.txt",
+    "doc_22870.txt",
+    "doc_22874.txt",
+    "doc_22876.txt",
+    "doc_22873.txt"
+  ]
+}

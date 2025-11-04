@@ -1,0 +1,10 @@
+{
+  "query": "Does the Commission intend to promote a debate on MS within the Council?",
+  "response": [
+    "doc_1996.txt",
+    "doc_33107.txt",
+    "doc_13823.txt",
+    "doc_33108.txt",
+    "doc_5122.txt"
+  ]
+}

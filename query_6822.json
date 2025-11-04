@@ -1,0 +1,10 @@
+{
+  "query": "When was the Goodyear Tire and Rubber Company founded?",
+  "response": [
+    "doc_710.txt",
+    "doc_711.txt",
+    "doc_706.txt",
+    "doc_707.txt",
+    "doc_709.txt"
+  ]
+}

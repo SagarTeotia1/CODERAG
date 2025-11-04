@@ -1,0 +1,10 @@
+{
+  "query": "Which countries currently recognize UNMIK travel documents, and which countries still require Kosovans to obtain a visa?",
+  "response": [
+    "doc_32233.txt",
+    "doc_13391.txt",
+    "doc_16876.txt",
+    "doc_16266.txt",
+    "doc_19744.txt"
+  ]
+}

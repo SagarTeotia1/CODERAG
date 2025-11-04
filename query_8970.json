@@ -1,0 +1,10 @@
+{
+  "query": "In what year did the centenary performance of Wagner's *Der Ring* take place?",
+  "response": [
+    "doc_12770.txt",
+    "doc_15959.txt",
+    "doc_35288.txt",
+    "doc_35289.txt",
+    "doc_35290.txt"
+  ]
+}

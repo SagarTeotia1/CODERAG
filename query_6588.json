@@ -1,0 +1,10 @@
+{
+  "query": "What is the relationship between the lack of pavements in Cyprus and Road Traffic Accident (RTA) deaths?",
+  "response": [
+    "doc_6890.txt",
+    "doc_34431.txt",
+    "doc_34433.txt",
+    "doc_34432.txt",
+    "doc_34429.txt"
+  ]
+}

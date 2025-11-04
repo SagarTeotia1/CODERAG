@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Amnesty International, Oxfam, and IANSA launch the ‘Control Arms Campaign’?",
+  "response": [
+    "doc_2572.txt",
+    "doc_24254.txt",
+    "doc_24247.txt",
+    "doc_24248.txt",
+    "doc_24246.txt"
+  ]
+}

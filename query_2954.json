@@ -1,0 +1,10 @@
+{
+  "query": "Who is Beowulf in relation to Hygelac?",
+  "response": [
+    "doc_34518.txt",
+    "doc_34522.txt",
+    "doc_34521.txt",
+    "doc_34516.txt",
+    "doc_34519.txt"
+  ]
+}

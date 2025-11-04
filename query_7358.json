@@ -1,0 +1,10 @@
+{
+  "query": "According to the National Council of the Maltese language, what should the name of the single European currency be?",
+  "response": [
+    "doc_8759.txt",
+    "doc_25964.txt",
+    "doc_13952.txt",
+    "doc_8637.txt",
+    "doc_34053.txt"
+  ]
+}

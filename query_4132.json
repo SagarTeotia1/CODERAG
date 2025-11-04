@@ -1,0 +1,10 @@
+{
+  "query": "What was Anthony Burgess's pen name?",
+  "response": [
+    "doc_30350.txt",
+    "doc_17735.txt",
+    "doc_30349.txt",
+    "doc_17737.txt",
+    "doc_17738.txt"
+  ]
+}

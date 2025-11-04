@@ -1,0 +1,10 @@
+{
+  "query": "What is the approximate number of Daur people living in China according to the 2010 census?",
+  "response": [
+    "doc_31954.txt",
+    "doc_12775.txt",
+    "doc_4584.txt",
+    "doc_12774.txt",
+    "doc_12773.txt"
+  ]
+}

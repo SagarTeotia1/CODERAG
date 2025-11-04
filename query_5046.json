@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the song featured in “Royal Wedding” that involves Tom Bowen dancing on walls and ceilings?",
+  "response": [
+    "doc_37856.txt",
+    "doc_4596.txt",
+    "doc_12407.txt",
+    "doc_37849.txt",
+    "doc_37851.txt"
+  ]
+}

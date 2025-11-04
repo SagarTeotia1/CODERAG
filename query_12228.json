@@ -1,0 +1,10 @@
+{
+  "query": "What kind of genius was John Forbes Nash Jr.?",
+  "response": [
+    "doc_34779.txt",
+    "doc_34778.txt",
+    "doc_33499.txt",
+    "doc_15797.txt",
+    "doc_33497.txt"
+  ]
+}

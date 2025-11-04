@@ -1,0 +1,10 @@
+{
+  "query": "When was Kingfisher Airlines suspended from flying operations?",
+  "response": [
+    "doc_31169.txt",
+    "doc_31170.txt",
+    "doc_22056.txt",
+    "doc_24037.txt",
+    "doc_10371.txt"
+  ]
+}

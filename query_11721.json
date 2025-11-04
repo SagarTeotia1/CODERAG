@@ -1,0 +1,10 @@
+{
+  "query": "What region currently has the largest number of AIDS virus carriers?",
+  "response": [
+    "doc_19460.txt",
+    "doc_15971.txt",
+    "doc_18156.txt",
+    "doc_2097.txt",
+    "doc_3560.txt"
+  ]
+}

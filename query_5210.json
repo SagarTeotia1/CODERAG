@@ -1,0 +1,10 @@
+{
+  "query": "Which teams contested the 1994 FA Cup Final?",
+  "response": [
+    "doc_39834.txt",
+    "doc_29620.txt",
+    "doc_16759.txt",
+    "doc_29789.txt",
+    "doc_23689.txt"
+  ]
+}

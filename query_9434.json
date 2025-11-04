@@ -1,0 +1,10 @@
+{
+  "query": "What is the subject of the ACCA report referenced in the question?",
+  "response": [
+    "doc_27745.txt",
+    "doc_24720.txt",
+    "doc_11395.txt",
+    "doc_18312.txt",
+    "doc_34870.txt"
+  ]
+}

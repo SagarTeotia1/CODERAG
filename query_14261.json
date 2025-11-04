@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the Foundation for Christian Living founded?",
+  "response": [
+    "doc_8432.txt",
+    "doc_8428.txt",
+    "doc_23138.txt",
+    "doc_23140.txt",
+    "doc_24205.txt"
+  ]
+}

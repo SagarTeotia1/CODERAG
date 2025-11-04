@@ -1,0 +1,10 @@
+{
+  "query": "In what city do Jane Austen’s novels *Northanger Abbey* and *Persuasion* feature prominently?",
+  "response": [
+    "doc_17290.txt",
+    "doc_17291.txt",
+    "doc_17300.txt",
+    "doc_17292.txt",
+    "doc_17294.txt"
+  ]
+}

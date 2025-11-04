@@ -1,0 +1,10 @@
+{
+  "query": "In what year did the Earl Woods Memorial Pro-Am take place?",
+  "response": [
+    "doc_35043.txt",
+    "doc_35046.txt",
+    "doc_35045.txt",
+    "doc_35641.txt",
+    "doc_35044.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was the purpose of the Financial Ombudsman Service (FOS) established under the Financial Services and Markets Act 2000 (FSMA)?",
+  "response": [
+    "doc_1022.txt",
+    "doc_1021.txt",
+    "doc_1029.txt",
+    "doc_1023.txt",
+    "doc_1038.txt"
+  ]
+}

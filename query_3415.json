@@ -1,0 +1,10 @@
+{
+  "query": "Which cartoon featured a female Armadillo in 1943?",
+  "response": [
+    "doc_35527.txt",
+    "doc_35528.txt",
+    "doc_17038.txt",
+    "doc_22398.txt",
+    "doc_35322.txt"
+  ]
+}

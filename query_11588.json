@@ -1,0 +1,10 @@
+{
+  "query": "What genre is the work described as by Jerry Bryant?",
+  "response": [
+    "doc_32341.txt",
+    "doc_32340.txt",
+    "doc_36031.txt",
+    "doc_32339.txt",
+    "doc_32338.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what city did the LIBE meeting on the Roma inclusion report take place?",
+  "response": [
+    "doc_17903.txt",
+    "doc_15919.txt",
+    "doc_26727.txt",
+    "doc_17123.txt",
+    "doc_28110.txt"
+  ]
+}

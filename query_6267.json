@@ -1,0 +1,10 @@
+{
+  "query": "What was the Bristol Proteus, and what type of vehicle did it power?",
+  "response": [
+    "doc_12279.txt",
+    "doc_26517.txt",
+    "doc_26521.txt",
+    "doc_26520.txt",
+    "doc_12282.txt"
+  ]
+}

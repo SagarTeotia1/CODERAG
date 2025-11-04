@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Edward Porter Alexander enter West Point?",
+  "response": [
+    "doc_31716.txt",
+    "doc_31717.txt",
+    "doc_31718.txt",
+    "doc_31714.txt",
+    "doc_31712.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "How many people can the Maryvale Baseball Park hold?",
+  "response": [
+    "doc_35261.txt",
+    "doc_5037.txt",
+    "doc_35257.txt",
+    "doc_35262.txt",
+    "doc_5038.txt"
+  ]
+}

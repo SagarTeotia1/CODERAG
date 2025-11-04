@@ -1,0 +1,10 @@
+{
+  "query": "What year was “Dil To Pagal Hai” released?",
+  "response": [
+    "doc_39243.txt",
+    "doc_39242.txt",
+    "doc_31682.txt",
+    "doc_27588.txt",
+    "doc_8089.txt"
+  ]
+}

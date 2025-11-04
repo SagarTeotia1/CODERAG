@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the race that follows a portion of the original Iditarod Trail?",
+  "response": [
+    "doc_17757.txt",
+    "doc_17760.txt",
+    "doc_24448.txt",
+    "doc_27208.txt",
+    "doc_17756.txt"
+  ]
+}

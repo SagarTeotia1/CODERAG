@@ -1,0 +1,10 @@
+{
+  "query": "What action must the President, Secretary-General, Directors-General, and Heads of Service of the European Parliament take regarding evidence of irregularities?",
+  "response": [
+    "doc_2682.txt",
+    "doc_29388.txt",
+    "doc_29285.txt",
+    "doc_2587.txt",
+    "doc_29353.txt"
+  ]
+}

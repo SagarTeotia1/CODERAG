@@ -1,0 +1,10 @@
+{
+  "query": "What was Gloriana St. Clair’s role at Carnegie Mellon University between 1998 and 2013?",
+  "response": [
+    "doc_32599.txt",
+    "doc_7633.txt",
+    "doc_34158.txt",
+    "doc_12167.txt",
+    "doc_4925.txt"
+  ]
+}

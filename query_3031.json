@@ -1,0 +1,10 @@
+{
+  "query": "Who received the Honorary Golden Bear at the 55th Berlin International Film Festival?",
+  "response": [
+    "doc_34718.txt",
+    "doc_34717.txt",
+    "doc_17862.txt",
+    "doc_18854.txt",
+    "doc_11649.txt"
+  ]
+}

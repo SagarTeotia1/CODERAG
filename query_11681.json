@@ -1,0 +1,10 @@
+{
+  "query": "Under what pen name is Daniel Handler best known for his work?",
+  "response": [
+    "doc_37811.txt",
+    "doc_19743.txt",
+    "doc_22771.txt",
+    "doc_4038.txt",
+    "doc_19739.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which languages are used on the Euromed Heritage IV program’s website?",
+  "response": [
+    "doc_7703.txt",
+    "doc_523.txt",
+    "doc_39023.txt",
+    "doc_10973.txt",
+    "doc_7284.txt"
+  ]
+}

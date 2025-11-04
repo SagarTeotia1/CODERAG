@@ -1,0 +1,10 @@
+{
+  "query": "What was the winning word in the 1982 Scripps National Spelling Bee?",
+  "response": [
+    "doc_22270.txt",
+    "doc_22275.txt",
+    "doc_22272.txt",
+    "doc_22274.txt",
+    "doc_37276.txt"
+  ]
+}

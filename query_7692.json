@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the initial Twelve Steps first published?",
+  "response": [
+    "doc_9600.txt",
+    "doc_9601.txt",
+    "doc_9597.txt",
+    "doc_9598.txt",
+    "doc_9599.txt"
+  ]
+}

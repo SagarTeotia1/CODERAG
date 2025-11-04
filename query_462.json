@@ -1,0 +1,10 @@
+{
+  "query": "What happened to the dog that originally played Tiger on *The Brady Bunch*?",
+  "response": [
+    "doc_28343.txt",
+    "doc_28342.txt",
+    "doc_28340.txt",
+    "doc_28339.txt",
+    "doc_28345.txt"
+  ]
+}

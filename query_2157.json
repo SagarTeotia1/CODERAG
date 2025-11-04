@@ -1,0 +1,10 @@
+{
+  "query": "Which MTV show featured Rob Dyrdek’s Fantasy Factory?",
+  "response": [
+    "doc_32592.txt",
+    "doc_32591.txt",
+    "doc_34066.txt",
+    "doc_34065.txt",
+    "doc_12253.txt"
+  ]
+}

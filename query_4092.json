@@ -1,0 +1,10 @@
+{
+  "query": "What is the average payment period for public administrations in Spain?",
+  "response": [
+    "doc_37205.txt",
+    "doc_22946.txt",
+    "doc_13752.txt",
+    "doc_13595.txt",
+    "doc_8780.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the school Yume Nijino attends in *Aikatsu Stars!*?",
+  "response": [
+    "doc_40091.txt",
+    "doc_16821.txt",
+    "doc_16822.txt",
+    "doc_2396.txt",
+    "doc_11088.txt"
+  ]
+}

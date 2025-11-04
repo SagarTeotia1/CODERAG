@@ -1,0 +1,10 @@
+{
+  "query": "How many copies of the \"Twilight\" novels have been sold worldwide?",
+  "response": [
+    "doc_30491.txt",
+    "doc_30490.txt",
+    "doc_30489.txt",
+    "doc_1922.txt",
+    "doc_40215.txt"
+  ]
+}

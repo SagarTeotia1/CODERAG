@@ -1,0 +1,10 @@
+{
+  "query": "Which teams competed in the semifinals of the 2011 French Open – Men’s Doubles?",
+  "response": [
+    "doc_34118.txt",
+    "doc_34119.txt",
+    "doc_33179.txt",
+    "doc_38343.txt",
+    "doc_4985.txt"
+  ]
+}

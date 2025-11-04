@@ -1,0 +1,10 @@
+{
+  "query": "In what year did M. Oudry isolate “thine” from tea?",
+  "response": [
+    "doc_6221.txt",
+    "doc_6219.txt",
+    "doc_6218.txt",
+    "doc_6217.txt",
+    "doc_6222.txt"
+  ]
+}

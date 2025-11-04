@@ -1,0 +1,10 @@
+{
+  "query": "What were the percentages of chickens contaminated with Campylobacter and Salmonella according to the 2008 tests?",
+  "response": [
+    "doc_15827.txt",
+    "doc_32587.txt",
+    "doc_15840.txt",
+    "doc_9767.txt",
+    "doc_10778.txt"
+  ]
+}

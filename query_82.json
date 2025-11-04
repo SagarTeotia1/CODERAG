@@ -1,0 +1,10 @@
+{
+  "query": "What was the initial share offering for the Edison Electric Light Co.?",
+  "response": [
+    "doc_861.txt",
+    "doc_983.txt",
+    "doc_1005.txt",
+    "doc_971.txt",
+    "doc_1047.txt"
+  ]
+}

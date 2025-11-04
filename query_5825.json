@@ -1,0 +1,10 @@
+{
+  "query": "Which Bulgarian consulate is specifically responsible for issuing visas to Turkish citizens residing in the Edirne, Tekirdag, and Kirklareli regions?",
+  "response": [
+    "doc_4946.txt",
+    "doc_38326.txt",
+    "doc_19744.txt",
+    "doc_11150.txt",
+    "doc_28918.txt"
+  ]
+}

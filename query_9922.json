@@ -1,0 +1,10 @@
+{
+  "query": "What award did Pearl S. Buck receive for *The Good Earth*?",
+  "response": [
+    "doc_1458.txt",
+    "doc_17139.txt",
+    "doc_17138.txt",
+    "doc_1455.txt",
+    "doc_17136.txt"
+  ]
+}

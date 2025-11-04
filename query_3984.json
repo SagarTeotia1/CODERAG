@@ -1,0 +1,10 @@
+{
+  "query": "Where did Gregor die?",
+  "response": [
+    "doc_27468.txt",
+    "doc_29446.txt",
+    "doc_39438.txt",
+    "doc_4130.txt",
+    "doc_39439.txt"
+  ]
+}

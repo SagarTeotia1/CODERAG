@@ -1,0 +1,10 @@
+{
+  "query": "What evidence found within Grasshopper Glacier provides information about extinct insect species?",
+  "response": [
+    "doc_4627.txt",
+    "doc_8480.txt",
+    "doc_7477.txt",
+    "doc_4623.txt",
+    "doc_4624.txt"
+  ]
+}

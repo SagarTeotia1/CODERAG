@@ -1,0 +1,10 @@
+{
+  "query": "Which genres of music did J:son Lindh compose for?",
+  "response": [
+    "doc_16600.txt",
+    "doc_16599.txt",
+    "doc_2798.txt",
+    "doc_2796.txt",
+    "doc_2792.txt"
+  ]
+}

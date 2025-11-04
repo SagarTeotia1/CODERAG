@@ -1,0 +1,10 @@
+{
+  "query": "What event is being held by the Southbridge Evening News?",
+  "response": [
+    "doc_283.txt",
+    "doc_278.txt",
+    "doc_282.txt",
+    "doc_277.txt",
+    "doc_14757.txt"
+  ]
+}

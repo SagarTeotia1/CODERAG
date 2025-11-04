@@ -1,0 +1,10 @@
+{
+  "query": "What television show did Tony Lucca begin his career on?",
+  "response": [
+    "doc_19497.txt",
+    "doc_19503.txt",
+    "doc_19498.txt",
+    "doc_32969.txt",
+    "doc_19500.txt"
+  ]
+}

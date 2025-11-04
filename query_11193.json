@@ -1,0 +1,10 @@
+{
+  "query": "What is the typical location of the Geisha Handicap race?",
+  "response": [
+    "doc_18085.txt",
+    "doc_30063.txt",
+    "doc_30067.txt",
+    "doc_30064.txt",
+    "doc_30669.txt"
+  ]
+}

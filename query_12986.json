@@ -1,0 +1,10 @@
+{
+  "query": "What action is the Commission seeking in relation to the suspension of EU acquis in Cyprus?",
+  "response": [
+    "doc_15174.txt",
+    "doc_26458.txt",
+    "doc_34693.txt",
+    "doc_32446.txt",
+    "doc_32298.txt"
+  ]
+}

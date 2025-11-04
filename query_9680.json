@@ -1,0 +1,10 @@
+{
+  "query": "What companies were involved in the development of *Hohokum*?",
+  "response": [
+    "doc_17543.txt",
+    "doc_17540.txt",
+    "doc_17414.txt",
+    "doc_17538.txt",
+    "doc_17544.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What does the Energy Star label aim to achieve for consumers?",
+  "response": [
+    "doc_6242.txt",
+    "doc_32516.txt",
+    "doc_32518.txt",
+    "doc_33446.txt",
+    "doc_26415.txt"
+  ]
+}

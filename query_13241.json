@@ -1,0 +1,10 @@
+{
+  "query": "What type of content did the discs bundled with “Official Xbox Magazine” provide?",
+  "response": [
+    "doc_23195.txt",
+    "doc_23196.txt",
+    "doc_14402.txt",
+    "doc_14403.txt",
+    "doc_14401.txt"
+  ]
+}

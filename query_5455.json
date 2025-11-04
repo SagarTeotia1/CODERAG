@@ -1,0 +1,10 @@
+{
+  "query": "What specific problems are users of suburban trains experiencing in the Greater Barcelona area, as highlighted in the passage?",
+  "response": [
+    "doc_40316.txt",
+    "doc_21598.txt",
+    "doc_16397.txt",
+    "doc_1440.txt",
+    "doc_24617.txt"
+  ]
+}

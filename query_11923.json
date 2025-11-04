@@ -1,0 +1,10 @@
+{
+  "query": "What phrase is famously associated with Jessica Rabbit, and what does it initially suggest?",
+  "response": [
+    "doc_20060.txt",
+    "doc_20058.txt",
+    "doc_20063.txt",
+    "doc_20055.txt",
+    "doc_20061.txt"
+  ]
+}

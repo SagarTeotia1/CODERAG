@@ -1,0 +1,10 @@
+{
+  "query": "In what year was David Greenglass convicted of spying?",
+  "response": [
+    "doc_7604.txt",
+    "doc_25321.txt",
+    "doc_18199.txt",
+    "doc_18207.txt",
+    "doc_21309.txt"
+  ]
+}

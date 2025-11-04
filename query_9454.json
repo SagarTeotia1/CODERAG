@@ -1,0 +1,10 @@
+{
+  "query": "Out of the total number of projects funded in Greece, how many are being implemented smoothly?",
+  "response": [
+    "doc_13911.txt",
+    "doc_26213.txt",
+    "doc_39916.txt",
+    "doc_28465.txt",
+    "doc_12898.txt"
+  ]
+}

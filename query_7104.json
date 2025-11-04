@@ -1,0 +1,10 @@
+{
+  "query": "How much did New York City’s entertainment industry contribute to the local economy in 2011, according to AM New York?",
+  "response": [
+    "doc_13940.txt",
+    "doc_1139.txt",
+    "doc_2220.txt",
+    "doc_35213.txt",
+    "doc_35221.txt"
+  ]
+}

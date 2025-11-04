@@ -1,0 +1,10 @@
+{
+  "query": "What did Stephen Sondheim call the song “Night and Day”?",
+  "response": [
+    "doc_3118.txt",
+    "doc_22848.txt",
+    "doc_22850.txt",
+    "doc_22849.txt",
+    "doc_22853.txt"
+  ]
+}

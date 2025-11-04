@@ -1,0 +1,10 @@
+{
+  "query": "Who is running ‘Spazio-Europa’?",
+  "response": [
+    "doc_30008.txt",
+    "doc_34916.txt",
+    "doc_16883.txt",
+    "doc_847.txt",
+    "doc_16884.txt"
+  ]
+}

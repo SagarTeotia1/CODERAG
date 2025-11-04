@@ -1,0 +1,10 @@
+{
+  "query": "Besides cocobichuela, what other seafood dish is mentioned at La Habichuela?",
+  "response": [
+    "doc_2898.txt",
+    "doc_2901.txt",
+    "doc_2900.txt",
+    "doc_2899.txt",
+    "doc_2902.txt"
+  ]
+}

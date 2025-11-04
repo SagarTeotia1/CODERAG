@@ -1,0 +1,10 @@
+{
+  "query": "When did the World Tour 250 series take place?",
+  "response": [
+    "doc_35043.txt",
+    "doc_35638.txt",
+    "doc_35038.txt",
+    "doc_16897.txt",
+    "doc_16902.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What action did the Portuguese Government recently take regarding companies relocating factories outside the EU?",
+  "response": [
+    "doc_30337.txt",
+    "doc_33813.txt",
+    "doc_19791.txt",
+    "doc_9080.txt",
+    "doc_15996.txt"
+  ]
+}

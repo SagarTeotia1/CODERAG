@@ -1,0 +1,10 @@
+{
+  "query": "What type of equipment was designated as “RAZ-1”?",
+  "response": [
+    "doc_5910.txt",
+    "doc_5906.txt",
+    "doc_5911.txt",
+    "doc_5905.txt",
+    "doc_27283.txt"
+  ]
+}

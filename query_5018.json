@@ -1,0 +1,10 @@
+{
+  "query": "When was Oscar Biscet imprisoned?",
+  "response": [
+    "doc_1390.txt",
+    "doc_23973.txt",
+    "doc_1654.txt",
+    "doc_1385.txt",
+    "doc_1383.txt"
+  ]
+}

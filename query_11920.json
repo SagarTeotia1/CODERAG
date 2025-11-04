@@ -1,0 +1,10 @@
+{
+  "query": "What film was Agnès Varda’s debut?",
+  "response": [
+    "doc_20044.txt",
+    "doc_7794.txt",
+    "doc_23956.txt",
+    "doc_20045.txt",
+    "doc_18325.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What dietary preferences are associated with Jack and his wife in the rhyme?",
+  "response": [
+    "doc_34695.txt",
+    "doc_34697.txt",
+    "doc_34699.txt",
+    "doc_34698.txt",
+    "doc_34701.txt"
+  ]
+}

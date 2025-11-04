@@ -1,0 +1,10 @@
+{
+  "query": "When was Anna Politkovskaya murdered?",
+  "response": [
+    "doc_20541.txt",
+    "doc_29905.txt",
+    "doc_20542.txt",
+    "doc_29818.txt",
+    "doc_29184.txt"
+  ]
+}

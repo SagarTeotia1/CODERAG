@@ -1,0 +1,10 @@
+{
+  "query": "According to the text, what initially causes the characters in *Pleasantville* to gain color?",
+  "response": [
+    "doc_11332.txt",
+    "doc_11335.txt",
+    "doc_11336.txt",
+    "doc_11333.txt",
+    "doc_11334.txt"
+  ]
+}

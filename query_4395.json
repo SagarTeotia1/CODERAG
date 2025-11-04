@@ -1,0 +1,10 @@
+{
+  "query": "What event was Robert Todd Lincoln present for?",
+  "response": [
+    "doc_37872.txt",
+    "doc_2860.txt",
+    "doc_2856.txt",
+    "doc_37876.txt",
+    "doc_37877.txt"
+  ]
+}

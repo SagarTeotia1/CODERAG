@@ -1,0 +1,10 @@
+{
+  "query": "What type of dinosaur was the Psittacosaurus, and what feature gave it its name?",
+  "response": [
+    "doc_38840.txt",
+    "doc_38838.txt",
+    "doc_38839.txt",
+    "doc_13861.txt",
+    "doc_14393.txt"
+  ]
+}

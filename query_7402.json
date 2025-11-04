@@ -1,0 +1,10 @@
+{
+  "query": "Which EU organizations were fully operational during the wildfire crisis?",
+  "response": [
+    "doc_8846.txt",
+    "doc_8847.txt",
+    "doc_7807.txt",
+    "doc_5775.txt",
+    "doc_13428.txt"
+  ]
+}

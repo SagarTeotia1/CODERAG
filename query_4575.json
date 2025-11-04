@@ -1,0 +1,10 @@
+{
+  "query": "What measures has the Commission taken to decrease energy and water consumption in its buildings?",
+  "response": [
+    "doc_38318.txt",
+    "doc_20732.txt",
+    "doc_32978.txt",
+    "doc_34809.txt",
+    "doc_4144.txt"
+  ]
+}

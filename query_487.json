@@ -1,0 +1,10 @@
+{
+  "query": "What was Edwards’ record as head coach?",
+  "response": [
+    "doc_21538.txt",
+    "doc_21540.txt",
+    "doc_21541.txt",
+    "doc_25623.txt",
+    "doc_12460.txt"
+  ]
+}

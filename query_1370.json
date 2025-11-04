@@ -1,0 +1,10 @@
+{
+  "query": "Besides guitar, what other instruments does Peter Tork play?",
+  "response": [
+    "doc_2981.txt",
+    "doc_25329.txt",
+    "doc_25331.txt",
+    "doc_2987.txt",
+    "doc_40121.txt"
+  ]
+}

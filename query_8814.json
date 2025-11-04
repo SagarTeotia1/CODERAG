@@ -1,0 +1,10 @@
+{
+  "query": "During which decade did Bridges coach at St. Mary’s University?",
+  "response": [
+    "doc_32597.txt",
+    "doc_32599.txt",
+    "doc_22163.txt",
+    "doc_35927.txt",
+    "doc_25640.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was the catalogue number for the initial release of “The Beatles’ Long Tall Sally”?",
+  "response": [
+    "doc_1745.txt",
+    "doc_1746.txt",
+    "doc_26680.txt",
+    "doc_38232.txt",
+    "doc_27006.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Who is the subject of \"The Education of a Woman\" by Carolyn G. Heilbrun?",
+  "response": [
+    "doc_5173.txt",
+    "doc_5172.txt",
+    "doc_5174.txt",
+    "doc_30737.txt",
+    "doc_30736.txt"
+  ]
+}

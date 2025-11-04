@@ -1,0 +1,10 @@
+{
+  "query": "Which international organizations are suggested to participate in a peace consolidation mission in Moldova?",
+  "response": [
+    "doc_6653.txt",
+    "doc_6652.txt",
+    "doc_9992.txt",
+    "doc_9595.txt",
+    "doc_30663.txt"
+  ]
+}

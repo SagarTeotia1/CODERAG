@@ -1,0 +1,10 @@
+{
+  "query": "Who wrote the song “I’ll Never Fall in Love Again”?",
+  "response": [
+    "doc_12509.txt",
+    "doc_12516.txt",
+    "doc_12518.txt",
+    "doc_12510.txt",
+    "doc_12517.txt"
+  ]
+}

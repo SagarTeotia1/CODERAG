@@ -1,0 +1,10 @@
+{
+  "query": "What award was John Tyler Caldwell recognized for in 2010?",
+  "response": [
+    "doc_25867.txt",
+    "doc_25868.txt",
+    "doc_40032.txt",
+    "doc_40027.txt",
+    "doc_25864.txt"
+  ]
+}

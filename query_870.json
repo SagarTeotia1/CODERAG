@@ -1,0 +1,10 @@
+{
+  "query": "What professions in Belgium are currently experiencing a disproportionate number of students from neighboring countries, according to the passage?",
+  "response": [
+    "doc_2176.txt",
+    "doc_6153.txt",
+    "doc_6151.txt",
+    "doc_6147.txt",
+    "doc_6146.txt"
+  ]
+}

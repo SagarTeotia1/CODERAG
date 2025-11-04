@@ -1,0 +1,10 @@
+{
+  "query": "Name at least two cities mentioned in the passage besides Gonder and Dire Dawa.",
+  "response": [
+    "doc_17180.txt",
+    "doc_17181.txt",
+    "doc_17182.txt",
+    "doc_17183.txt",
+    "doc_9314.txt"
+  ]
+}

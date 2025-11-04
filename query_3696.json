@@ -1,0 +1,10 @@
+{
+  "query": "What is the height of One Manhattan Square compared to the Manhattan Bridge?",
+  "response": [
+    "doc_36227.txt",
+    "doc_39656.txt",
+    "doc_5007.txt",
+    "doc_1136.txt",
+    "doc_32126.txt"
+  ]
+}

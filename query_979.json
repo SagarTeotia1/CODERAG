@@ -1,0 +1,10 @@
+{
+  "query": "Does the Commission currently have any regulations determining the content of sausages?",
+  "response": [
+    "doc_29748.txt",
+    "doc_5384.txt",
+    "doc_14127.txt",
+    "doc_43.txt",
+    "doc_38394.txt"
+  ]
+}

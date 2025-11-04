@@ -1,0 +1,10 @@
+{
+  "query": "Which minority groups in India does the Commission support?",
+  "response": [
+    "doc_6938.txt",
+    "doc_5422.txt",
+    "doc_2761.txt",
+    "doc_29955.txt",
+    "doc_11312.txt"
+  ]
+}

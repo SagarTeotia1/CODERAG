@@ -1,0 +1,10 @@
+{
+  "query": "How do the estimated costs of compliance in the UK compare to those in France?",
+  "response": [
+    "doc_37701.txt",
+    "doc_1849.txt",
+    "doc_21008.txt",
+    "doc_19960.txt",
+    "doc_32289.txt"
+  ]
+}

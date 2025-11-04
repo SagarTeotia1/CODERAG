@@ -1,0 +1,10 @@
+{
+  "query": "When did Mariner 4 successfully fly by Mars?",
+  "response": [
+    "doc_28372.txt",
+    "doc_28362.txt",
+    "doc_28361.txt",
+    "doc_28371.txt",
+    "doc_28365.txt"
+  ]
+}

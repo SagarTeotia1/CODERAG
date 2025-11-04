@@ -1,0 +1,10 @@
+{
+  "query": "When did the Penn State Field Hockey team win its AIAW national championships?",
+  "response": [
+    "doc_18829.txt",
+    "doc_18830.txt",
+    "doc_17828.txt",
+    "doc_18828.txt",
+    "doc_17831.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In 2008, what percentage of the bananas consumed in the EU were imported?",
+  "response": [
+    "doc_3013.txt",
+    "doc_3012.txt",
+    "doc_3014.txt",
+    "doc_16136.txt",
+    "doc_3016.txt"
+  ]
+}

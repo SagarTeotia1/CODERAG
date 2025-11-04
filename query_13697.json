@@ -1,0 +1,10 @@
+{
+  "query": "What action is the Commission taking to guarantee the safety and security of oil extraction operations in the EU?",
+  "response": [
+    "doc_24335.txt",
+    "doc_24556.txt",
+    "doc_27093.txt",
+    "doc_14203.txt",
+    "doc_4021.txt"
+  ]
+}

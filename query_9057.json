@@ -1,0 +1,10 @@
+{
+  "query": "What company produced “Sabrina Down Under”?",
+  "response": [
+    "doc_12939.txt",
+    "doc_12937.txt",
+    "doc_12944.txt",
+    "doc_12940.txt",
+    "doc_12936.txt"
+  ]
+}

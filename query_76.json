@@ -1,0 +1,10 @@
+{
+  "query": "What musical genres does Kathy Mattea often incorporate into her music?",
+  "response": [
+    "doc_27493.txt",
+    "doc_27492.txt",
+    "doc_13761.txt",
+    "doc_13762.txt",
+    "doc_13759.txt"
+  ]
+}

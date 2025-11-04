@@ -1,0 +1,10 @@
+{
+  "query": "Which actors reprised their roles as Santa Claus and Heat Miser in “A Miser Brothers’ Christmas,” and what were their ages at the time?",
+  "response": [
+    "doc_37302.txt",
+    "doc_13236.txt",
+    "doc_13238.txt",
+    "doc_37306.txt",
+    "doc_34141.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of women in the UK were treated in private clinics for PIP implants?",
+  "response": [
+    "doc_37275.txt",
+    "doc_21895.txt",
+    "doc_29546.txt",
+    "doc_21896.txt",
+    "doc_21898.txt"
+  ]
+}

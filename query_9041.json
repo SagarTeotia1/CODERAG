@@ -1,0 +1,10 @@
+{
+  "query": "In what location is Woolson carrying a “heavy home”?",
+  "response": [
+    "doc_12910.txt",
+    "doc_17597.txt",
+    "doc_37659.txt",
+    "doc_32701.txt",
+    "doc_32699.txt"
+  ]
+}

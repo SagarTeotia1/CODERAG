@@ -1,0 +1,10 @@
+{
+  "query": "What is Pete Dixon’s role at Walt Whitman High?",
+  "response": [
+    "doc_11083.txt",
+    "doc_11084.txt",
+    "doc_11085.txt",
+    "doc_11082.txt",
+    "doc_11081.txt"
+  ]
+}

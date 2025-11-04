@@ -1,0 +1,10 @@
+{
+  "query": "In what century was Judith Drake active?",
+  "response": [
+    "doc_14.txt",
+    "doc_18729.txt",
+    "doc_19077.txt",
+    "doc_18725.txt",
+    "doc_20102.txt"
+  ]
+}

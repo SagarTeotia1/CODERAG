@@ -1,0 +1,10 @@
+{
+  "query": "What style of music does \"Laika Come Home\" primarily feature?",
+  "response": [
+    "doc_23592.txt",
+    "doc_12878.txt",
+    "doc_1641.txt",
+    "doc_39165.txt",
+    "doc_8896.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is Ford Field, and who primarily uses it?",
+  "response": [
+    "doc_34202.txt",
+    "doc_35012.txt",
+    "doc_38738.txt",
+    "doc_3114.txt",
+    "doc_38742.txt"
+  ]
+}

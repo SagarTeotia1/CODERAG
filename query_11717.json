@@ -1,0 +1,10 @@
+{
+  "query": "Which Schubert quartet movement opens a concert featured by the Classical KDFC podcast?",
+  "response": [
+    "doc_19448.txt",
+    "doc_19447.txt",
+    "doc_19453.txt",
+    "doc_19451.txt",
+    "doc_19445.txt"
+  ]
+}

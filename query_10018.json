@@ -1,0 +1,10 @@
+{
+  "query": "What type of work did Henry James produce, according to the passage?",
+  "response": [
+    "doc_15197.txt",
+    "doc_15202.txt",
+    "doc_15201.txt",
+    "doc_6055.txt",
+    "doc_15204.txt"
+  ]
+}

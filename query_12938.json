@@ -1,0 +1,10 @@
+{
+  "query": "Which musical duo was formed by George Michael and Andrew Ridgeley?",
+  "response": [
+    "doc_22583.txt",
+    "doc_23545.txt",
+    "doc_22582.txt",
+    "doc_23544.txt",
+    "doc_8145.txt"
+  ]
+}

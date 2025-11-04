@@ -1,0 +1,10 @@
+{
+  "query": "In what sports did Faurot letter at Missouri?",
+  "response": [
+    "doc_37223.txt",
+    "doc_37222.txt",
+    "doc_21537.txt",
+    "doc_25627.txt",
+    "doc_32261.txt"
+  ]
+}

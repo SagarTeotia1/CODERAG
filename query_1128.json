@@ -1,0 +1,10 @@
+{
+  "query": "What film did Nischal Basnet direct in 2012 that received positive reviews?",
+  "response": [
+    "doc_5133.txt",
+    "doc_5638.txt",
+    "doc_36591.txt",
+    "doc_5631.txt",
+    "doc_7999.txt"
+  ]
+}

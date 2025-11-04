@@ -1,0 +1,10 @@
+{
+  "query": "What is the title of the book that contains Anne Frank’s diary?",
+  "response": [
+    "doc_11315.txt",
+    "doc_15152.txt",
+    "doc_11119.txt",
+    "doc_14184.txt",
+    "doc_15150.txt"
+  ]
+}

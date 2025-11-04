@@ -1,0 +1,10 @@
+{
+  "query": "Which actress starred alongside her father in *The Dead*?",
+  "response": [
+    "doc_6764.txt",
+    "doc_6765.txt",
+    "doc_6770.txt",
+    "doc_6767.txt",
+    "doc_12256.txt"
+  ]
+}

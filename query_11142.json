@@ -1,0 +1,10 @@
+{
+  "query": "In what city is the London Zoo located?",
+  "response": [
+    "doc_17994.txt",
+    "doc_17993.txt",
+    "doc_17995.txt",
+    "doc_17996.txt",
+    "doc_17992.txt"
+  ]
+}

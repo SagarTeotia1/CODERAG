@@ -1,0 +1,10 @@
+{
+  "query": "What year was the current version of the TIS-620 standard published?",
+  "response": [
+    "doc_31544.txt",
+    "doc_18271.txt",
+    "doc_36127.txt",
+    "doc_33449.txt",
+    "doc_33446.txt"
+  ]
+}

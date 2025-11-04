@@ -1,0 +1,10 @@
+{
+  "query": "Which Council Regulation details the current basic monthly salaries for each grade and step within the administrators’ function group (AD)?",
+  "response": [
+    "doc_14440.txt",
+    "doc_25271.txt",
+    "doc_15232.txt",
+    "doc_29627.txt",
+    "doc_22922.txt"
+  ]
+}

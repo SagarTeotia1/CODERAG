@@ -1,0 +1,10 @@
+{
+  "query": "In what films did Doug Jones portray the character Abe Sapien?",
+  "response": [
+    "doc_2048.txt",
+    "doc_13309.txt",
+    "doc_11073.txt",
+    "doc_2049.txt",
+    "doc_12225.txt"
+  ]
+}

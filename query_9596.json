@@ -1,0 +1,10 @@
+{
+  "query": "What types of contracts with the Commission were considered when the Commission referenced candidates having or having had contracts?",
+  "response": [
+    "doc_14213.txt",
+    "doc_13948.txt",
+    "doc_4241.txt",
+    "doc_4242.txt",
+    "doc_14104.txt"
+  ]
+}

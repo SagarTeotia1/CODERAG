@@ -1,0 +1,10 @@
+{
+  "query": "Which university, founded in 1477, is described as Scandinavia’s oldest school of clergy?",
+  "response": [
+    "doc_22369.txt",
+    "doc_22374.txt",
+    "doc_22370.txt",
+    "doc_22371.txt",
+    "doc_22377.txt"
+  ]
+}

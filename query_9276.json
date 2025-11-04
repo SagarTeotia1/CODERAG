@@ -1,0 +1,10 @@
+{
+  "query": "What was Garry Kasparov’s original birth name and where was he born?",
+  "response": [
+    "doc_13558.txt",
+    "doc_13555.txt",
+    "doc_13556.txt",
+    "doc_13565.txt",
+    "doc_13564.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What body of water does the route pass along as it leaves Bluff?",
+  "response": [
+    "doc_38100.txt",
+    "doc_38101.txt",
+    "doc_38099.txt",
+    "doc_24604.txt",
+    "doc_40297.txt"
+  ]
+}

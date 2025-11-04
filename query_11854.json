@@ -1,0 +1,10 @@
+{
+  "query": "Which Beatles song did Ringo Starr perform as the character “Billy Shears”?",
+  "response": [
+    "doc_21871.txt",
+    "doc_21869.txt",
+    "doc_21870.txt",
+    "doc_21872.txt",
+    "doc_19893.txt"
+  ]
+}

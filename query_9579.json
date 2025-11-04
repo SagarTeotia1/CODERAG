@@ -1,0 +1,10 @@
+{
+  "query": "When was the U.S. Constitution signed?",
+  "response": [
+    "doc_14162.txt",
+    "doc_14168.txt",
+    "doc_14164.txt",
+    "doc_14165.txt",
+    "doc_14169.txt"
+  ]
+}

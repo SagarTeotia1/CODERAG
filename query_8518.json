@@ -1,0 +1,10 @@
+{
+  "query": "What was invented by Dr. Edward Land in 1947?",
+  "response": [
+    "doc_7118.txt",
+    "doc_7113.txt",
+    "doc_7117.txt",
+    "doc_7123.txt",
+    "doc_7115.txt"
+  ]
+}

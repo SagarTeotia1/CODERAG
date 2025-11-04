@@ -1,0 +1,10 @@
+{
+  "query": "On what type of land does the Hassan II Mosque stand?",
+  "response": [
+    "doc_27334.txt",
+    "doc_27333.txt",
+    "doc_27335.txt",
+    "doc_27336.txt",
+    "doc_27337.txt"
+  ]
+}

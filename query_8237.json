@@ -1,0 +1,10 @@
+{
+  "query": "Could agricultural products originating from land contaminated with radiation from the Chernobyl disaster be exported to the European Union?",
+  "response": [
+    "doc_10996.txt",
+    "doc_16085.txt",
+    "doc_26825.txt",
+    "doc_28866.txt",
+    "doc_11390.txt"
+  ]
+}

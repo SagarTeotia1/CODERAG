@@ -1,0 +1,10 @@
+{
+  "query": "What type of paneling was added to the State Dining Room during the 1902 renovation?",
+  "response": [
+    "doc_12929.txt",
+    "doc_12926.txt",
+    "doc_12928.txt",
+    "doc_27908.txt",
+    "doc_12927.txt"
+  ]
+}

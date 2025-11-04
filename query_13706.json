@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what did Roger Bacon discuss in his *Opus Majus* regarding eyesight?",
+  "response": [
+    "doc_24349.txt",
+    "doc_24348.txt",
+    "doc_24352.txt",
+    "doc_24350.txt",
+    "doc_24351.txt"
+  ]
+}

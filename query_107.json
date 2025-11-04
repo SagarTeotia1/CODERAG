@@ -1,0 +1,10 @@
+{
+  "query": "Which 19th-century author is associated with “Dead Souls,” “The Nose,” and “The Inspector General”?",
+  "response": [
+    "doc_27581.txt",
+    "doc_27579.txt",
+    "doc_27580.txt",
+    "doc_1319.txt",
+    "doc_38270.txt"
+  ]
+}

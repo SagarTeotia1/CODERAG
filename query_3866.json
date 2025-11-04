@@ -1,0 +1,10 @@
+{
+  "query": "According to one article, what was a notable aspect of the Jaipur Literature Festival?",
+  "response": [
+    "doc_36589.txt",
+    "doc_36595.txt",
+    "doc_36590.txt",
+    "doc_36591.txt",
+    "doc_36592.txt"
+  ]
+}

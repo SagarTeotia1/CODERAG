@@ -1,0 +1,10 @@
+{
+  "query": "What was Ty Cobb's nickname?",
+  "response": [
+    "doc_39725.txt",
+    "doc_26257.txt",
+    "doc_17389.txt",
+    "doc_39727.txt",
+    "doc_33620.txt"
+  ]
+}

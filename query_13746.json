@@ -1,0 +1,10 @@
+{
+  "query": "What immediate action did the Commission take in response to the events following the Kerem Shalom raid?",
+  "response": [
+    "doc_24456.txt",
+    "doc_6205.txt",
+    "doc_28909.txt",
+    "doc_16669.txt",
+    "doc_17468.txt"
+  ]
+}

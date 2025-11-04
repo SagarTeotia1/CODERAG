@@ -1,0 +1,10 @@
+{
+  "query": "What potential causes for the increase in Greek public debt are suggested in the passage?",
+  "response": [
+    "doc_31761.txt",
+    "doc_8475.txt",
+    "doc_23283.txt",
+    "doc_16026.txt",
+    "doc_28265.txt"
+  ]
+}

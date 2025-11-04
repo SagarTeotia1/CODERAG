@@ -1,0 +1,10 @@
+{
+  "query": "Which two entities agreed to the Joint Understanding?",
+  "response": [
+    "doc_23782.txt",
+    "doc_9098.txt",
+    "doc_23772.txt",
+    "doc_39008.txt",
+    "doc_2686.txt"
+  ]
+}

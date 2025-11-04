@@ -1,0 +1,10 @@
+{
+  "query": "How many books has Naylor written?",
+  "response": [
+    "doc_22495.txt",
+    "doc_3825.txt",
+    "doc_30349.txt",
+    "doc_22496.txt",
+    "doc_3826.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "How many Grammy Awards have the Red Hot Chili Peppers won?",
+  "response": [
+    "doc_36257.txt",
+    "doc_33932.txt",
+    "doc_36258.txt",
+    "doc_12914.txt",
+    "doc_12916.txt"
+  ]
+}

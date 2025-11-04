@@ -1,0 +1,10 @@
+{
+  "query": "When did the military officers seize power in Guinea?",
+  "response": [
+    "doc_30162.txt",
+    "doc_26004.txt",
+    "doc_30163.txt",
+    "doc_18579.txt",
+    "doc_26005.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What occupation does Adam Dalgliesh hold, according to the provided text?",
+  "response": [
+    "doc_5082.txt",
+    "doc_5084.txt",
+    "doc_5079.txt",
+    "doc_5083.txt",
+    "doc_5085.txt"
+  ]
+}

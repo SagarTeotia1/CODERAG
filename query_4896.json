@@ -1,0 +1,10 @@
+{
+  "query": "When was the first Lincoln penny issued, and what was the reason for its release?",
+  "response": [
+    "doc_39109.txt",
+    "doc_39108.txt",
+    "doc_39112.txt",
+    "doc_39110.txt",
+    "doc_39111.txt"
+  ]
+}

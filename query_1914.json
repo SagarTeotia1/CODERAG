@@ -1,0 +1,10 @@
+{
+  "query": "In what year and against which conference did the Marshall Thundering Herd win the 2000 Motor City Bowl?",
+  "response": [
+    "doc_3114.txt",
+    "doc_34200.txt",
+    "doc_25631.txt",
+    "doc_27295.txt",
+    "doc_34201.txt"
+  ]
+}

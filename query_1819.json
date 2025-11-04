@@ -1,0 +1,10 @@
+{
+  "query": "What college football team did Scott Suber play for under head coach Darrell Royal?",
+  "response": [
+    "doc_32258.txt",
+    "doc_25622.txt",
+    "doc_21537.txt",
+    "doc_21538.txt",
+    "doc_15073.txt"
+  ]
+}

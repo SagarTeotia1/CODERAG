@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of the total EU market for passenger car tyres does Chinese imports represent?",
+  "response": [
+    "doc_36479.txt",
+    "doc_16351.txt",
+    "doc_23322.txt",
+    "doc_36373.txt",
+    "doc_15115.txt"
+  ]
+}

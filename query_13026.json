@@ -1,0 +1,10 @@
+{
+  "query": "What is Gil Mark's name?",
+  "response": [
+    "doc_26174.txt",
+    "doc_26173.txt",
+    "doc_26172.txt",
+    "doc_1360.txt",
+    "doc_11662.txt"
+  ]
+}

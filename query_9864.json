@@ -1,0 +1,10 @@
+{
+  "query": "What is Dr. Kay Scarpetta’s profession?",
+  "response": [
+    "doc_14857.txt",
+    "doc_14858.txt",
+    "doc_14861.txt",
+    "doc_14860.txt",
+    "doc_14862.txt"
+  ]
+}

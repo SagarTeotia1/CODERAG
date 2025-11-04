@@ -1,0 +1,10 @@
+{
+  "query": "What date and time did the Tonga earthquake occur in UTC+00:00?",
+  "response": [
+    "doc_2963.txt",
+    "doc_13014.txt",
+    "doc_2965.txt",
+    "doc_2966.txt",
+    "doc_35833.txt"
+  ]
+}

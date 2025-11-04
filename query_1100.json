@@ -1,0 +1,10 @@
+{
+  "query": "Which division did the Houston Texans win in 2011?",
+  "response": [
+    "doc_20241.txt",
+    "doc_30026.txt",
+    "doc_20242.txt",
+    "doc_20243.txt",
+    "doc_20244.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the contact information for the 24th Precinct of the NYPD?",
+  "response": [
+    "doc_11116.txt",
+    "doc_1140.txt",
+    "doc_2220.txt",
+    "doc_1139.txt",
+    "doc_31105.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the Stadio Olimpico and where is it located?",
+  "response": [
+    "doc_29619.txt",
+    "doc_27149.txt",
+    "doc_24188.txt",
+    "doc_27148.txt",
+    "doc_31535.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of the EU’s total gas imports originated from Russia in 2007?",
+  "response": [
+    "doc_26656.txt",
+    "doc_16084.txt",
+    "doc_34798.txt",
+    "doc_18028.txt",
+    "doc_29782.txt"
+  ]
+}

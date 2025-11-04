@@ -1,0 +1,10 @@
+{
+  "query": "Which film by Kim Ki-duk received the Golden Lion at the 69th Venice International Film Festival?",
+  "response": [
+    "doc_28596.txt",
+    "doc_28595.txt",
+    "doc_14914.txt",
+    "doc_39187.txt",
+    "doc_3234.txt"
+  ]
+}

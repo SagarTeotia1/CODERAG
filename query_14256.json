@@ -1,0 +1,10 @@
+{
+  "query": "What are the EU’s recommendations for addressing the humanitarian situation in Libya and surrounding border areas?",
+  "response": [
+    "doc_25753.txt",
+    "doc_22466.txt",
+    "doc_25752.txt",
+    "doc_25416.txt",
+    "doc_39832.txt"
+  ]
+}

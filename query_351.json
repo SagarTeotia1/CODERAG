@@ -1,0 +1,10 @@
+{
+  "query": "What area of India is the planned EU fact-finding visit scheduled to include?",
+  "response": [
+    "doc_10389.txt",
+    "doc_26884.txt",
+    "doc_15861.txt",
+    "doc_10387.txt",
+    "doc_32172.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "How much financial support did the European Commission provide to the SKA project through EU research programs?",
+  "response": [
+    "doc_13180.txt",
+    "doc_16435.txt",
+    "doc_2428.txt",
+    "doc_13944.txt",
+    "doc_10388.txt"
+  ]
+}

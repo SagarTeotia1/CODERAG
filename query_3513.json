@@ -1,0 +1,10 @@
+{
+  "query": "Which actress played Kitty Walker in the public-radio series?",
+  "response": [
+    "doc_34356.txt",
+    "doc_32012.txt",
+    "doc_13201.txt",
+    "doc_13200.txt",
+    "doc_32013.txt"
+  ]
+}

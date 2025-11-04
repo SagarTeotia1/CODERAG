@@ -1,0 +1,10 @@
+{
+  "query": "Does the Commission currently have legal instruments to address the situations outlined in the written question?",
+  "response": [
+    "doc_27193.txt",
+    "doc_7373.txt",
+    "doc_24571.txt",
+    "doc_35243.txt",
+    "doc_11395.txt"
+  ]
+}

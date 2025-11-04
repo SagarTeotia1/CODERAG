@@ -1,0 +1,10 @@
+{
+  "query": "What was the height of the original 1 World Trade Center and 2 World Trade Center?",
+  "response": [
+    "doc_32126.txt",
+    "doc_27120.txt",
+    "doc_27122.txt",
+    "doc_27121.txt",
+    "doc_32127.txt"
+  ]
+}

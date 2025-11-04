@@ -1,0 +1,10 @@
+{
+  "query": "Is the Commission satisfied that the Nitrates Directive is still up-to-date and relevant in light of the latest scientific knowledge?",
+  "response": [
+    "doc_8304.txt",
+    "doc_4699.txt",
+    "doc_34184.txt",
+    "doc_9163.txt",
+    "doc_38488.txt"
+  ]
+}

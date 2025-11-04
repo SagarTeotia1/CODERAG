@@ -1,0 +1,10 @@
+{
+  "query": "What type of events are regularly held as part of the Portland Rose Festival?",
+  "response": [
+    "doc_5237.txt",
+    "doc_5236.txt",
+    "doc_5239.txt",
+    "doc_5240.txt",
+    "doc_5238.txt"
+  ]
+}

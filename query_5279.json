@@ -1,0 +1,10 @@
+{
+  "query": "What type of power plant did the Dolphin submarine utilize, aside from its diesel power plant?",
+  "response": [
+    "doc_39966.txt",
+    "doc_39968.txt",
+    "doc_39970.txt",
+    "doc_39965.txt",
+    "doc_39967.txt"
+  ]
+}

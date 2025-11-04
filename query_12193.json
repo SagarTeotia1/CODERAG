@@ -1,0 +1,10 @@
+{
+  "query": "Which types of companies are particularly affected by the high cost of patent registration in the EU?",
+  "response": [
+    "doc_1976.txt",
+    "doc_25649.txt",
+    "doc_38260.txt",
+    "doc_19960.txt",
+    "doc_7805.txt"
+  ]
+}

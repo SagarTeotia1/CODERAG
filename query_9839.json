@@ -1,0 +1,10 @@
+{
+  "query": "How many seats will Ireland elect to the European Parliament?",
+  "response": [
+    "doc_14779.txt",
+    "doc_5730.txt",
+    "doc_7795.txt",
+    "doc_4197.txt",
+    "doc_32804.txt"
+  ]
+}

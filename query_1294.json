@@ -1,0 +1,10 @@
+{
+  "query": "What event took place in the Chamber on the third 'European Day of Commemoration for the Victims of Terrorism'?",
+  "response": [
+    "doc_4145.txt",
+    "doc_3156.txt",
+    "doc_30470.txt",
+    "doc_16923.txt",
+    "doc_37965.txt"
+  ]
+}

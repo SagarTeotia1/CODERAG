@@ -1,0 +1,10 @@
+{
+  "query": "What year was Slade’s “We’ll Bring the House Down” album released?",
+  "response": [
+    "doc_29938.txt",
+    "doc_37168.txt",
+    "doc_19879.txt",
+    "doc_29937.txt",
+    "doc_19875.txt"
+  ]
+}

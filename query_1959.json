@@ -1,0 +1,10 @@
+{
+  "query": "Has the Czech Republic raised the possibility of introducing the category ‘small wine-maker’, with specially adjusted conditions, as a specific type?",
+  "response": [
+    "doc_32102.txt",
+    "doc_35047.txt",
+    "doc_10538.txt",
+    "doc_16478.txt",
+    "doc_10537.txt"
+  ]
+}

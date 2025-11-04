@@ -1,0 +1,10 @@
+{
+  "query": "What instruments do the Muppet characters play as part of the Electric Mayhem band?",
+  "response": [
+    "doc_11984.txt",
+    "doc_11987.txt",
+    "doc_11993.txt",
+    "doc_11991.txt",
+    "doc_11994.txt"
+  ]
+}

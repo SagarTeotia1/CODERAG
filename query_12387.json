@@ -1,0 +1,10 @@
+{
+  "query": "What is the primary EU directive being prioritized regarding renewable energy?",
+  "response": [
+    "doc_21383.txt",
+    "doc_21093.txt",
+    "doc_21094.txt",
+    "doc_6391.txt",
+    "doc_37563.txt"
+  ]
+}

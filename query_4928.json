@@ -1,0 +1,10 @@
+{
+  "query": "For what award did Kim Ha-neul receive recognition for her performance in “Blind”?",
+  "response": [
+    "doc_9355.txt",
+    "doc_17862.txt",
+    "doc_27327.txt",
+    "doc_27323.txt",
+    "doc_33210.txt"
+  ]
+}

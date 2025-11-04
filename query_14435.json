@@ -1,0 +1,10 @@
+{
+  "query": "What is the highest elevation of the municipality of Santa Sofía?",
+  "response": [
+    "doc_2940.txt",
+    "doc_10327.txt",
+    "doc_26194.txt",
+    "doc_2941.txt",
+    "doc_10181.txt"
+  ]
+}

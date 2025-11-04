@@ -1,0 +1,10 @@
+{
+  "query": "Who created Taekwondo, and what was their title?",
+  "response": [
+    "doc_38281.txt",
+    "doc_38284.txt",
+    "doc_38283.txt",
+    "doc_38280.txt",
+    "doc_38275.txt"
+  ]
+}

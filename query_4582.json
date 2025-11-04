@@ -1,0 +1,10 @@
+{
+  "query": "Which religious monuments in Kosovo are currently at risk of destruction?",
+  "response": [
+    "doc_38344.txt",
+    "doc_8045.txt",
+    "doc_8240.txt",
+    "doc_13391.txt",
+    "doc_7703.txt"
+  ]
+}

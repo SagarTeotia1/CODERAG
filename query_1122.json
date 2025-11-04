@@ -1,0 +1,10 @@
+{
+  "query": "Who primarily bears the responsibility for ensuring products on the EU market are safe?",
+  "response": [
+    "doc_23322.txt",
+    "doc_26003.txt",
+    "doc_30068.txt",
+    "doc_5607.txt",
+    "doc_4325.txt"
+  ]
+}

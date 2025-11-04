@@ -1,0 +1,10 @@
+{
+  "query": "What is the Norwegian Sea connected to in the north, and through which body of water?",
+  "response": [
+    "doc_25262.txt",
+    "doc_25261.txt",
+    "doc_25264.txt",
+    "doc_25265.txt",
+    "doc_25263.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What two rivers run through the city of Wuhan?",
+  "response": [
+    "doc_8743.txt",
+    "doc_8744.txt",
+    "doc_8746.txt",
+    "doc_8745.txt",
+    "doc_8742.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the machinery industries' opinion regarding the EU-Japan FTA?",
+  "response": [
+    "doc_756.txt",
+    "doc_755.txt",
+    "doc_754.txt",
+    "doc_753.txt",
+    "doc_752.txt"
+  ]
+}

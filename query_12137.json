@@ -1,0 +1,10 @@
+{
+  "query": "What ingredients are commonly used to make the savory sauce for Mongolian beef?",
+  "response": [
+    "doc_20504.txt",
+    "doc_21295.txt",
+    "doc_21297.txt",
+    "doc_22931.txt",
+    "doc_26596.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What are the two distinct varieties of Akita dogs, and how do they differ in terms of color?",
+  "response": [
+    "doc_39504.txt",
+    "doc_22717.txt",
+    "doc_22718.txt",
+    "doc_16456.txt",
+    "doc_36143.txt"
+  ]
+}

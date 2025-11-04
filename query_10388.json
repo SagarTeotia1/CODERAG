@@ -1,0 +1,10 @@
+{
+  "query": "What is the catalog number for the De La Soul promo EP, “Clear Lake Audiotorium”?",
+  "response": [
+    "doc_1581.txt",
+    "doc_1582.txt",
+    "doc_11204.txt",
+    "doc_3349.txt",
+    "doc_11202.txt"
+  ]
+}

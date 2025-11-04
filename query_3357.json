@@ -1,0 +1,10 @@
+{
+  "query": "What action did V.L. take to challenge the Alabama court’s decision?",
+  "response": [
+    "doc_35425.txt",
+    "doc_6847.txt",
+    "doc_35424.txt",
+    "doc_30136.txt",
+    "doc_30132.txt"
+  ]
+}

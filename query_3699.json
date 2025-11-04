@@ -1,0 +1,10 @@
+{
+  "query": "What is the year the International Fund for Ireland was founded?",
+  "response": [
+    "doc_21445.txt",
+    "doc_9769.txt",
+    "doc_27541.txt",
+    "doc_9776.txt",
+    "doc_9771.txt"
+  ]
+}

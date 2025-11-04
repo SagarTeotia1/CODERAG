@@ -1,0 +1,10 @@
+{
+  "query": "Which journalists received the EP Journalism Prize in 2009, and what categories did they win in?",
+  "response": [
+    "doc_17547.txt",
+    "doc_5756.txt",
+    "doc_39580.txt",
+    "doc_25739.txt",
+    "doc_10904.txt"
+  ]
+}

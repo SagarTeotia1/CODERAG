@@ -1,0 +1,10 @@
+{
+  "query": "What is the free-base nicotine content of American Spirit cigarettes?",
+  "response": [
+    "doc_23616.txt",
+    "doc_21270.txt",
+    "doc_21269.txt",
+    "doc_21271.txt",
+    "doc_21273.txt"
+  ]
+}

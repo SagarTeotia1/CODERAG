@@ -1,0 +1,10 @@
+{
+  "query": "What dinosaurs are featured as life-size puppets at the Natural History Museum of Los Angeles?",
+  "response": [
+    "doc_7276.txt",
+    "doc_16731.txt",
+    "doc_16729.txt",
+    "doc_31085.txt",
+    "doc_16728.txt"
+  ]
+}

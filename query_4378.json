@@ -1,0 +1,10 @@
+{
+  "query": "Besides “Dancing with the Stars”, what other television show has he appeared on?",
+  "response": [
+    "doc_37836.txt",
+    "doc_26173.txt",
+    "doc_37835.txt",
+    "doc_26175.txt",
+    "doc_15139.txt"
+  ]
+}

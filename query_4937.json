@@ -1,0 +1,10 @@
+{
+  "query": "What was the name of William Beale’s ship?",
+  "response": [
+    "doc_9114.txt",
+    "doc_33339.txt",
+    "doc_17305.txt",
+    "doc_9116.txt",
+    "doc_9115.txt"
+  ]
+}

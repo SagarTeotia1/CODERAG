@@ -1,0 +1,10 @@
+{
+  "query": "Which club won the Irish League championship in the 1956-57 season?",
+  "response": [
+    "doc_1309.txt",
+    "doc_8046.txt",
+    "doc_1311.txt",
+    "doc_1315.txt",
+    "doc_1312.txt"
+  ]
+}

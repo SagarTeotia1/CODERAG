@@ -1,0 +1,10 @@
+{
+  "query": "Who created the original Orange Julius drink?",
+  "response": [
+    "doc_22986.txt",
+    "doc_22978.txt",
+    "doc_22982.txt",
+    "doc_22980.txt",
+    "doc_22983.txt"
+  ]
+}

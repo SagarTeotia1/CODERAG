@@ -1,0 +1,10 @@
+{
+  "query": "What European Parliament resolutions were adopted on December 13, 2007?",
+  "response": [
+    "doc_2278.txt",
+    "doc_11995.txt",
+    "doc_29753.txt",
+    "doc_26529.txt",
+    "doc_7894.txt"
+  ]
+}

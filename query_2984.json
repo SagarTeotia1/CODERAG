@@ -1,0 +1,10 @@
+{
+  "query": "When did Mr. Dalli provide the answer referenced in the passage?",
+  "response": [
+    "doc_25236.txt",
+    "doc_1979.txt",
+    "doc_21487.txt",
+    "doc_12240.txt",
+    "doc_12239.txt"
+  ]
+}

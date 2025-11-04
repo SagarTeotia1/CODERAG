@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, how is private insurance mediation typically divided in Spain?",
+  "response": [
+    "doc_21600.txt",
+    "doc_17583.txt",
+    "doc_24418.txt",
+    "doc_21594.txt",
+    "doc_12734.txt"
+  ]
+}

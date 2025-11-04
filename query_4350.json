@@ -1,0 +1,10 @@
+{
+  "query": "Which region of the United States contains the Youngstown–Warren–Boardman Metropolitan Statistical Area?",
+  "response": [
+    "doc_37766.txt",
+    "doc_34496.txt",
+    "doc_10381.txt",
+    "doc_34494.txt",
+    "doc_12887.txt"
+  ]
+}

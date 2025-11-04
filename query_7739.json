@@ -1,0 +1,10 @@
+{
+  "query": "When was Ricky Dillon's debut album, “Gold,” released?",
+  "response": [
+    "doc_9690.txt",
+    "doc_21177.txt",
+    "doc_21176.txt",
+    "doc_21172.txt",
+    "doc_23273.txt"
+  ]
+}

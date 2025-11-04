@@ -1,0 +1,10 @@
+{
+  "query": "What year did Tyler Summitt attend college?",
+  "response": [
+    "doc_32256.txt",
+    "doc_32255.txt",
+    "doc_30948.txt",
+    "doc_17829.txt",
+    "doc_32599.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which PBS KIDS shows are mentioned as being popular with children according to one of the linked articles?",
+  "response": [
+    "doc_26600.txt",
+    "doc_26601.txt",
+    "doc_26604.txt",
+    "doc_26603.txt",
+    "doc_26605.txt"
+  ]
+}

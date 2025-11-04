@@ -1,0 +1,10 @@
+{
+  "query": "What does the abbreviation WPA stand for?",
+  "response": [
+    "doc_34960.txt",
+    "doc_34961.txt",
+    "doc_27803.txt",
+    "doc_27802.txt",
+    "doc_27801.txt"
+  ]
+}

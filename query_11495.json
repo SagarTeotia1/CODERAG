@@ -1,0 +1,10 @@
+{
+  "query": "How many non-consecutive terms did Grover Cleveland serve as President?",
+  "response": [
+    "doc_18834.txt",
+    "doc_18833.txt",
+    "doc_18832.txt",
+    "doc_18831.txt",
+    "doc_18835.txt"
+  ]
+}

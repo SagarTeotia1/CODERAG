@@ -1,0 +1,10 @@
+{
+  "query": "How many European agencies are there and in which cities are they located?",
+  "response": [
+    "doc_14689.txt",
+    "doc_1156.txt",
+    "doc_16565.txt",
+    "doc_20267.txt",
+    "doc_26021.txt"
+  ]
+}

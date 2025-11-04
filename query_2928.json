@@ -1,0 +1,10 @@
+{
+  "query": "How many performances did “The Elephant Man” have in total?",
+  "response": [
+    "doc_34453.txt",
+    "doc_34450.txt",
+    "doc_34449.txt",
+    "doc_34452.txt",
+    "doc_34451.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the current market share of Belgacom in the Belgian retail broadband market?",
+  "response": [
+    "doc_39314.txt",
+    "doc_23166.txt",
+    "doc_6151.txt",
+    "doc_37169.txt",
+    "doc_6153.txt"
+  ]
+}

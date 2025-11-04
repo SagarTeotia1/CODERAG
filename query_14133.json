@@ -1,0 +1,10 @@
+{
+  "query": "From which programs does the Seventh Framework Programme draw its funding for the RSFF, and what are the specific funding amounts allocated to each?",
+  "response": [
+    "doc_2427.txt",
+    "doc_2428.txt",
+    "doc_15497.txt",
+    "doc_14635.txt",
+    "doc_25162.txt"
+  ]
+}

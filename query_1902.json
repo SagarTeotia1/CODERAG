@@ -1,0 +1,10 @@
+{
+  "query": "When and where did Tony Randall serve as the chairman of the National Actors Theatre?",
+  "response": [
+    "doc_23685.txt",
+    "doc_17868.txt",
+    "doc_25394.txt",
+    "doc_21460.txt",
+    "doc_11495.txt"
+  ]
+}

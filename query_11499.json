@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Francisco Franco die?",
+  "response": [
+    "doc_21594.txt",
+    "doc_1846.txt",
+    "doc_1843.txt",
+    "doc_21593.txt",
+    "doc_21597.txt"
+  ]
+}

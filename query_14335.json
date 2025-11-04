@@ -1,0 +1,10 @@
+{
+  "query": "What song did Cher perform over the closing credits of the 1990 film *Mermaids*?",
+  "response": [
+    "doc_25919.txt",
+    "doc_25918.txt",
+    "doc_25922.txt",
+    "doc_25917.txt",
+    "doc_25923.txt"
+  ]
+}

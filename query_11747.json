@@ -1,0 +1,10 @@
+{
+  "query": "What designer is associated with the Barbie doll brand and launched Calvin Klein Inc.?",
+  "response": [
+    "doc_19575.txt",
+    "doc_19571.txt",
+    "doc_19573.txt",
+    "doc_19577.txt",
+    "doc_19574.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What television series did Vanessa Stacey star in as Alice?",
+  "response": [
+    "doc_5591.txt",
+    "doc_20422.txt",
+    "doc_26960.txt",
+    "doc_40001.txt",
+    "doc_12713.txt"
+  ]
+}

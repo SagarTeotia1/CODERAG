@@ -1,0 +1,10 @@
+{
+  "query": "What is the purpose of the Gordon-Loeb Model, according to the passage?",
+  "response": [
+    "doc_24136.txt",
+    "doc_24135.txt",
+    "doc_11509.txt",
+    "doc_7120.txt",
+    "doc_11510.txt"
+  ]
+}

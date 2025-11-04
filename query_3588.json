@@ -1,0 +1,10 @@
+{
+  "query": "What potential vulnerability do zero-hours contracts pose for workers, as highlighted by the Commission?",
+  "response": [
+    "doc_35941.txt",
+    "doc_11997.txt",
+    "doc_39440.txt",
+    "doc_17393.txt",
+    "doc_17697.txt"
+  ]
+}

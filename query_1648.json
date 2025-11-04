@@ -1,0 +1,10 @@
+{
+  "query": "What was the Oxford Movement founded by, and what was its purpose according to the text?",
+  "response": [
+    "doc_32673.txt",
+    "doc_1900.txt",
+    "doc_20102.txt",
+    "doc_27938.txt",
+    "doc_20101.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was the tribute Jack Fisher created for the Hawaiian Bank?",
+  "response": [
+    "doc_26685.txt",
+    "doc_26684.txt",
+    "doc_10773.txt",
+    "doc_10769.txt",
+    "doc_10770.txt"
+  ]
+}

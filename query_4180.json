@@ -1,0 +1,10 @@
+{
+  "query": "What actions is the resolution calling for the Vietnamese government to cease?",
+  "response": [
+    "doc_3727.txt",
+    "doc_8833.txt",
+    "doc_3726.txt",
+    "doc_37356.txt",
+    "doc_8834.txt"
+  ]
+}

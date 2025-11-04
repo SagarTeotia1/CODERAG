@@ -1,0 +1,10 @@
+{
+  "query": "How many tournaments did Nancy Lopez win in 1978?",
+  "response": [
+    "doc_21582.txt",
+    "doc_21584.txt",
+    "doc_21583.txt",
+    "doc_21585.txt",
+    "doc_21586.txt"
+  ]
+}

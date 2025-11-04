@@ -1,0 +1,10 @@
+{
+  "query": "What was the budget for the film “Little Miss Sunshine”?",
+  "response": [
+    "doc_18854.txt",
+    "doc_18852.txt",
+    "doc_17862.txt",
+    "doc_18853.txt",
+    "doc_37631.txt"
+  ]
+}

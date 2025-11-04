@@ -1,0 +1,10 @@
+{
+  "query": "What seed did the Texas Rangers receive in the 2016 American League Division Series?",
+  "response": [
+    "doc_326.txt",
+    "doc_324.txt",
+    "doc_325.txt",
+    "doc_22162.txt",
+    "doc_22168.txt"
+  ]
+}

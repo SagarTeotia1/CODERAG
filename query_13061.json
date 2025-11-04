@@ -1,0 +1,10 @@
+{
+  "query": "What specific criteria are used by the Scientific Committee on Consumer Products (SCCP) to determine if a hair dye substance is safe for consumer use?",
+  "response": [
+    "doc_4019.txt",
+    "doc_28812.txt",
+    "doc_28809.txt",
+    "doc_7996.txt",
+    "doc_28816.txt"
+  ]
+}

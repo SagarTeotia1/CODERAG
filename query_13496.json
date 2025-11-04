@@ -1,0 +1,10 @@
+{
+  "query": "What action is being called for regarding peaceful protesters in Belarus?",
+  "response": [
+    "doc_31047.txt",
+    "doc_23802.txt",
+    "doc_4990.txt",
+    "doc_35462.txt",
+    "doc_809.txt"
+  ]
+}

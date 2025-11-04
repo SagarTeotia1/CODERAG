@@ -1,0 +1,10 @@
+{
+  "query": "How many home runs did Fred McGriff finish his career with, and with whom was he tied?",
+  "response": [
+    "doc_7455.txt",
+    "doc_7464.txt",
+    "doc_39727.txt",
+    "doc_9257.txt",
+    "doc_39728.txt"
+  ]
+}

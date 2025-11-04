@@ -1,0 +1,10 @@
+{
+  "query": "According to the text, what did consumers initially think Code Red “best captured”?",
+  "response": [
+    "doc_26951.txt",
+    "doc_17173.txt",
+    "doc_17172.txt",
+    "doc_17171.txt",
+    "doc_20828.txt"
+  ]
+}

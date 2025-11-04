@@ -1,0 +1,10 @@
+{
+  "query": "Which Commissioner chaired the Transatlantic Economic Council, and from which countries did they represent?",
+  "response": [
+    "doc_3338.txt",
+    "doc_2085.txt",
+    "doc_5993.txt",
+    "doc_678.txt",
+    "doc_39806.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What law schools did Betty graduate from?",
+  "response": [
+    "doc_39406.txt",
+    "doc_38157.txt",
+    "doc_39407.txt",
+    "doc_38160.txt",
+    "doc_34478.txt"
+  ]
+}

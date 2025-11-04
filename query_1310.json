@@ -1,0 +1,10 @@
+{
+  "query": "In what month was the Lisbon Treaty adopted by the EU Heads of State and Government?",
+  "response": [
+    "doc_30492.txt",
+    "doc_39803.txt",
+    "doc_4700.txt",
+    "doc_32805.txt",
+    "doc_25830.txt"
+  ]
+}

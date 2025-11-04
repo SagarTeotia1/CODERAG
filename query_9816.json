@@ -1,0 +1,10 @@
+{
+  "query": "What year was Shaquille O'Neal’s debut album, “Shaq Diesel,” released?",
+  "response": [
+    "doc_14732.txt",
+    "doc_8521.txt",
+    "doc_8518.txt",
+    "doc_8517.txt",
+    "doc_8525.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What color was the dress Marilyn Monroe wore in the film *The Seven Year Itch*?",
+  "response": [
+    "doc_15416.txt",
+    "doc_15417.txt",
+    "doc_15421.txt",
+    "doc_22391.txt",
+    "doc_15419.txt"
+  ]
+}

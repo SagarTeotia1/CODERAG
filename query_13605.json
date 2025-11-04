@@ -1,0 +1,10 @@
+{
+  "query": "Which Rapporteur was responsible for European Court of Auditors’ Special Report 4/2009?",
+  "response": [
+    "doc_24170.txt",
+    "doc_16472.txt",
+    "doc_24171.txt",
+    "doc_15774.txt",
+    "doc_16473.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Are telephone numbers starting with 0870 and 0845 in the UK being promoted as low-rate numbers while actually incurring premium charges?",
+  "response": [
+    "doc_25295.txt",
+    "doc_37840.txt",
+    "doc_6975.txt",
+    "doc_336.txt",
+    "doc_23759.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What agreement did the EU and China reach at the EU/China Summit in September 2005?",
+  "response": [
+    "doc_24572.txt",
+    "doc_24573.txt",
+    "doc_8655.txt",
+    "doc_13712.txt",
+    "doc_31391.txt"
+  ]
+}

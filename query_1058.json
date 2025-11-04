@@ -1,0 +1,10 @@
+{
+  "query": "Which European city is listed as one of the highest capitals, with an elevation over 2,100 feet above sea level?",
+  "response": [
+    "doc_2940.txt",
+    "doc_2941.txt",
+    "doc_2942.txt",
+    "doc_2948.txt",
+    "doc_2947.txt"
+  ]
+}

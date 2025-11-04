@@ -1,0 +1,10 @@
+{
+  "query": "What is unique about the guns seen on the streets of Derry?",
+  "response": [
+    "doc_27894.txt",
+    "doc_27891.txt",
+    "doc_36723.txt",
+    "doc_36717.txt",
+    "doc_36722.txt"
+  ]
+}

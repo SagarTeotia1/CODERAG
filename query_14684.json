@@ -1,0 +1,10 @@
+{
+  "query": "Which roller coaster at Kings Island is known as the world’s longest wooden roller coaster?",
+  "response": [
+    "doc_26796.txt",
+    "doc_24774.txt",
+    "doc_26797.txt",
+    "doc_26798.txt",
+    "doc_18409.txt"
+  ]
+}

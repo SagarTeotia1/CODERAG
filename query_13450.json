@@ -1,0 +1,10 @@
+{
+  "query": "When and where did the match between Liverpool and Flamengo take place?",
+  "response": [
+    "doc_23700.txt",
+    "doc_17084.txt",
+    "doc_22862.txt",
+    "doc_23699.txt",
+    "doc_16260.txt"
+  ]
+}

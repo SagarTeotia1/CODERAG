@@ -1,0 +1,10 @@
+{
+  "query": "When did the US Senate vote to reject the ratification of the Comprehensive Nuclear Test Ban Treaty?",
+  "response": [
+    "doc_20840.txt",
+    "doc_19560.txt",
+    "doc_31572.txt",
+    "doc_19557.txt",
+    "doc_36175.txt"
+  ]
+}

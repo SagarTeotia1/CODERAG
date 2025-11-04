@@ -1,0 +1,10 @@
+{
+  "query": "In 1991, what type of strategic relationship was forming between companies like Wipro and Intel, and Tata and IBM?",
+  "response": [
+    "doc_8118.txt",
+    "doc_8115.txt",
+    "doc_8116.txt",
+    "doc_8117.txt",
+    "doc_8114.txt"
+  ]
+}

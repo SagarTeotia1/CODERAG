@@ -1,0 +1,10 @@
+{
+  "query": "What award did Robert Towne receive a nomination for regarding “The Last Detail”?",
+  "response": [
+    "doc_37629.txt",
+    "doc_39826.txt",
+    "doc_36344.txt",
+    "doc_27329.txt",
+    "doc_39828.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which EU investor exercise voting rights in domestic companies?",
+  "response": [
+    "doc_316.txt",
+    "doc_315.txt",
+    "doc_38632.txt",
+    "doc_16412.txt",
+    "doc_6620.txt"
+  ]
+}

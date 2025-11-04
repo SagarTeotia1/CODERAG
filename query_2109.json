@@ -1,0 +1,10 @@
+{
+  "query": "What was the name of the ship on which Johann Adam Esch immigrated?",
+  "response": [
+    "doc_8701.txt",
+    "doc_35937.txt",
+    "doc_4605.txt",
+    "doc_36576.txt",
+    "doc_10933.txt"
+  ]
+}

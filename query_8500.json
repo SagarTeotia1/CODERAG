@@ -1,0 +1,10 @@
+{
+  "query": "Which Court was responsible for clarifying issues regarding the liability of supervisory authorities in the banking sector under EU harmonisation directives?",
+  "response": [
+    "doc_1080.txt",
+    "doc_953.txt",
+    "doc_1079.txt",
+    "doc_1528.txt",
+    "doc_1043.txt"
+  ]
+}

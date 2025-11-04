@@ -1,0 +1,10 @@
+{
+  "query": "Which television stations are owned by Venture Technologies Group?",
+  "response": [
+    "doc_20004.txt",
+    "doc_26099.txt",
+    "doc_20005.txt",
+    "doc_15036.txt",
+    "doc_40282.txt"
+  ]
+}

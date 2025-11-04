@@ -1,0 +1,10 @@
+{
+  "query": "Which artists contributed to the \"Laika Come Home\" album?",
+  "response": [
+    "doc_26284.txt",
+    "doc_15903.txt",
+    "doc_23592.txt",
+    "doc_18214.txt",
+    "doc_15908.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to the text, what type of orchestra did Pope Pius X want in the Holy Name Cathedral?",
+  "response": [
+    "doc_33017.txt",
+    "doc_33018.txt",
+    "doc_33020.txt",
+    "doc_33016.txt",
+    "doc_30498.txt"
+  ]
+}

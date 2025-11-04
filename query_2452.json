@@ -1,0 +1,10 @@
+{
+  "query": "For which film did Viswajith win the Kerala State Award for the best Music Director in 2009 (TV)?",
+  "response": [
+    "doc_33351.txt",
+    "doc_33350.txt",
+    "doc_22603.txt",
+    "doc_11372.txt",
+    "doc_11373.txt"
+  ]
+}

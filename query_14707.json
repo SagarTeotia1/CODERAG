@@ -1,0 +1,10 @@
+{
+  "query": "What is the approximate financial support allocated to the Innovative Medicines Initiative (IMI) from the FP7 budget?",
+  "response": [
+    "doc_15497.txt",
+    "doc_2428.txt",
+    "doc_4251.txt",
+    "doc_14630.txt",
+    "doc_14629.txt"
+  ]
+}

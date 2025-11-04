@@ -1,0 +1,10 @@
+{
+  "query": "What was the title of the guide published by Travel Lunenburg Ltd in 2016?",
+  "response": [
+    "doc_39152.txt",
+    "doc_39154.txt",
+    "doc_39147.txt",
+    "doc_39148.txt",
+    "doc_39153.txt"
+  ]
+}

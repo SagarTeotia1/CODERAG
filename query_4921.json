@@ -1,0 +1,10 @@
+{
+  "query": "What was Ted Geisel’s middle name that he used as part of his pen name?",
+  "response": [
+    "doc_10712.txt",
+    "doc_39175.txt",
+    "doc_10714.txt",
+    "doc_10722.txt",
+    "doc_10716.txt"
+  ]
+}

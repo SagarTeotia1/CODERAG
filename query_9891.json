@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the Orlando Magic awarded the All-Star Game?",
+  "response": [
+    "doc_14930.txt",
+    "doc_14929.txt",
+    "doc_9018.txt",
+    "doc_32595.txt",
+    "doc_2933.txt"
+  ]
+}

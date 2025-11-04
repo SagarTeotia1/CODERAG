@@ -1,0 +1,10 @@
+{
+  "query": "What type of tour is the \"Thunder Dragon Marathon\"?",
+  "response": [
+    "doc_34927.txt",
+    "doc_34925.txt",
+    "doc_22211.txt",
+    "doc_2205.txt",
+    "doc_21737.txt"
+  ]
+}

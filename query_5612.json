@@ -1,0 +1,10 @@
+{
+  "query": "When did the attacks on Coptic Orthodox churches in Alexandria, Egypt occur?",
+  "response": [
+    "doc_3530.txt",
+    "doc_37688.txt",
+    "doc_23473.txt",
+    "doc_24754.txt",
+    "doc_3538.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What specific genetically modified product is Commissioner David Byrne considering authorizing for use?",
+  "response": [
+    "doc_5259.txt",
+    "doc_31740.txt",
+    "doc_25767.txt",
+    "doc_7125.txt",
+    "doc_26825.txt"
+  ]
+}

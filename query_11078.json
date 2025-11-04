@@ -1,0 +1,10 @@
+{
+  "query": "Which committee is holding a hearing regarding the proposed head of the new European Food Safety Authority?",
+  "response": [
+    "doc_33708.txt",
+    "doc_23698.txt",
+    "doc_17783.txt",
+    "doc_33720.txt",
+    "doc_33709.txt"
+  ]
+}

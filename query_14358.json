@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the \"American Beauty\" rose cultivar bred?",
+  "response": [
+    "doc_25952.txt",
+    "doc_25953.txt",
+    "doc_25955.txt",
+    "doc_13488.txt",
+    "doc_13490.txt"
+  ]
+}

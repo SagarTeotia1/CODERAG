@@ -1,0 +1,10 @@
+{
+  "query": "Where did the 2012 India Super Series take place?",
+  "response": [
+    "doc_20150.txt",
+    "doc_20746.txt",
+    "doc_20752.txt",
+    "doc_20747.txt",
+    "doc_21829.txt"
+  ]
+}

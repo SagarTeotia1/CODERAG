@@ -1,0 +1,10 @@
+{
+  "query": "What television series did the radio play “Golden Age” originate from?",
+  "response": [
+    "doc_21571.txt",
+    "doc_5209.txt",
+    "doc_21579.txt",
+    "doc_5217.txt",
+    "doc_21570.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "How many countries are represented by the MPs involved in the ACP-EU Joint Parliamentary Assembly?",
+  "response": [
+    "doc_22232.txt",
+    "doc_24242.txt",
+    "doc_34224.txt",
+    "doc_34515.txt",
+    "doc_24243.txt"
+  ]
+}

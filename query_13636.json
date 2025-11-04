@@ -1,0 +1,10 @@
+{
+  "query": "How many of the cartel decisions adopted in 2009 and 2010 covered the entire European Economic Area (EEA) or almost the entire EEA?",
+  "response": [
+    "doc_24213.txt",
+    "doc_31877.txt",
+    "doc_7495.txt",
+    "doc_24214.txt",
+    "doc_19949.txt"
+  ]
+}

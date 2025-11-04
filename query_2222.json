@@ -1,0 +1,10 @@
+{
+  "query": "Approximately when does the story of *Dune* take place, according to the provided text?",
+  "response": [
+    "doc_32779.txt",
+    "doc_32770.txt",
+    "doc_32776.txt",
+    "doc_32774.txt",
+    "doc_32768.txt"
+  ]
+}

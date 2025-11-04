@@ -1,0 +1,10 @@
+{
+  "query": "What record did Joe Arlauckas hold in the FIBA European League?",
+  "response": [
+    "doc_20639.txt",
+    "doc_14699.txt",
+    "doc_14701.txt",
+    "doc_4992.txt",
+    "doc_14700.txt"
+  ]
+}

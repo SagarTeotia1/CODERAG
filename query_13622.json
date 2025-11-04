@@ -1,0 +1,10 @@
+{
+  "query": "Which actor played Jyn Erso in the 2016 film “Rogue One”?",
+  "response": [
+    "doc_40109.txt",
+    "doc_24197.txt",
+    "doc_9870.txt",
+    "doc_40108.txt",
+    "doc_26044.txt"
+  ]
+}

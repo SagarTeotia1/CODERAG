@@ -1,0 +1,10 @@
+{
+  "query": "Who expressed regret for the inconvenience caused to users of the EUR-Lex system?",
+  "response": [
+    "doc_15919.txt",
+    "doc_15916.txt",
+    "doc_15918.txt",
+    "doc_192.txt",
+    "doc_10158.txt"
+  ]
+}

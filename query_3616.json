@@ -1,0 +1,10 @@
+{
+  "query": "What types of dogs does the Shelillon breed combine?",
+  "response": [
+    "doc_25723.txt",
+    "doc_25724.txt",
+    "doc_25721.txt",
+    "doc_25722.txt",
+    "doc_25725.txt"
+  ]
+}

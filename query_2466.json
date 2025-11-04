@@ -1,0 +1,10 @@
+{
+  "query": "What was the estimated total number of EHICs in circulation in 2009?",
+  "response": [
+    "doc_33402.txt",
+    "doc_15894.txt",
+    "doc_16467.txt",
+    "doc_23326.txt",
+    "doc_16484.txt"
+  ]
+}

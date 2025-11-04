@@ -1,0 +1,10 @@
+{
+  "query": "Who invited Jerzy Buzek to Ireland, and where did he deliver a keynote speech?",
+  "response": [
+    "doc_32804.txt",
+    "doc_32805.txt",
+    "doc_7232.txt",
+    "doc_15964.txt",
+    "doc_7233.txt"
+  ]
+}

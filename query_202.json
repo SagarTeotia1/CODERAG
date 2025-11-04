@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission’s goal regarding hospital obligations?",
+  "response": [
+    "doc_18965.txt",
+    "doc_39290.txt",
+    "doc_39288.txt",
+    "doc_39291.txt",
+    "doc_39293.txt"
+  ]
+}

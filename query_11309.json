@@ -1,0 +1,10 @@
+{
+  "query": "What band did Jeff Mak form as a Judas Priest cover band?",
+  "response": [
+    "doc_18393.txt",
+    "doc_18392.txt",
+    "doc_18394.txt",
+    "doc_18604.txt",
+    "doc_40129.txt"
+  ]
+}

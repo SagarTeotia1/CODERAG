@@ -1,0 +1,10 @@
+{
+  "query": "What is Marcus Rashford's position as a professional footballer?",
+  "response": [
+    "doc_12143.txt",
+    "doc_23918.txt",
+    "doc_12142.txt",
+    "doc_29788.txt",
+    "doc_26136.txt"
+  ]
+}

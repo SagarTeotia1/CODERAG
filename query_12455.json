@@ -1,0 +1,10 @@
+{
+  "query": "What action did the Commission take regarding events in the Czech Republic in October 2008?",
+  "response": [
+    "doc_21316.txt",
+    "doc_12704.txt",
+    "doc_4138.txt",
+    "doc_8350.txt",
+    "doc_36834.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When did the killings of killer whales occur in the Straits of Gibraltar, according to the Commission?",
+  "response": [
+    "doc_35507.txt",
+    "doc_37206.txt",
+    "doc_37105.txt",
+    "doc_11930.txt",
+    "doc_19249.txt"
+  ]
+}

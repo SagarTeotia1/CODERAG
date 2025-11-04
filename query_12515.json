@@ -1,0 +1,10 @@
+{
+  "query": "When did General Dunford serve in the Marine Corps?",
+  "response": [
+    "doc_21490.txt",
+    "doc_37124.txt",
+    "doc_21491.txt",
+    "doc_27409.txt",
+    "doc_37122.txt"
+  ]
+}

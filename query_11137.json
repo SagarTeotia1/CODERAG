@@ -1,0 +1,10 @@
+{
+  "query": "Which station is Frances Rivera currently an anchor for?",
+  "response": [
+    "doc_9185.txt",
+    "doc_33184.txt",
+    "doc_9181.txt",
+    "doc_9178.txt",
+    "doc_9182.txt"
+  ]
+}

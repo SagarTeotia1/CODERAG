@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided links, what is Mount Hood’s elevation?",
+  "response": [
+    "doc_30905.txt",
+    "doc_30908.txt",
+    "doc_30904.txt",
+    "doc_30911.txt",
+    "doc_30912.txt"
+  ]
+}

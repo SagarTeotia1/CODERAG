@@ -1,0 +1,10 @@
+{
+  "query": "What company produced the Amflora ‘GM super-potato’?",
+  "response": [
+    "doc_25275.txt",
+    "doc_25274.txt",
+    "doc_25276.txt",
+    "doc_25277.txt",
+    "doc_28663.txt"
+  ]
+}

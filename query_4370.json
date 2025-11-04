@@ -1,0 +1,10 @@
+{
+  "query": "What is Judith Martin’s profession, as indicated in the passage?",
+  "response": [
+    "doc_37808.txt",
+    "doc_37811.txt",
+    "doc_37810.txt",
+    "doc_37812.txt",
+    "doc_37809.txt"
+  ]
+}

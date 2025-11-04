@@ -1,0 +1,10 @@
+{
+  "query": "What was the crime for which 23 Laotian Christians were convicted and imprisoned?",
+  "response": [
+    "doc_18565.txt",
+    "doc_27276.txt",
+    "doc_8832.txt",
+    "doc_8833.txt",
+    "doc_8834.txt"
+  ]
+}

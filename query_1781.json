@@ -1,0 +1,10 @@
+{
+  "query": "What specific change was agreed upon regarding the French word ‘devant’ in recital 3 of the proposal?",
+  "response": [
+    "doc_3088.txt",
+    "doc_29210.txt",
+    "doc_18054.txt",
+    "doc_4413.txt",
+    "doc_7894.txt"
+  ]
+}

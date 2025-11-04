@@ -1,0 +1,10 @@
+{
+  "query": "How many seasons did the Braves play at Atlanta–Fulton County Stadium?",
+  "response": [
+    "doc_20707.txt",
+    "doc_20002.txt",
+    "doc_20003.txt",
+    "doc_20000.txt",
+    "doc_20706.txt"
+  ]
+}

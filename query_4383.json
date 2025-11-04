@@ -1,0 +1,10 @@
+{
+  "query": "Which musicians were part of the David Lee Roth Band's original lineup?",
+  "response": [
+    "doc_40123.txt",
+    "doc_40129.txt",
+    "doc_25329.txt",
+    "doc_4204.txt",
+    "doc_40124.txt"
+  ]
+}

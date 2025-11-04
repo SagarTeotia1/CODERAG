@@ -1,0 +1,10 @@
+{
+  "query": "What is Richard Marx’s profession, and how many records has he sold?",
+  "response": [
+    "doc_1447.txt",
+    "doc_12182.txt",
+    "doc_12183.txt",
+    "doc_12517.txt",
+    "doc_19642.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What happened to Saint Patrick at the age of 16?",
+  "response": [
+    "doc_32875.txt",
+    "doc_32868.txt",
+    "doc_32871.txt",
+    "doc_32872.txt",
+    "doc_32869.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which UN bodies were specifically identified for reform by the European Council?",
+  "response": [
+    "doc_40302.txt",
+    "doc_26265.txt",
+    "doc_26266.txt",
+    "doc_17523.txt",
+    "doc_26264.txt"
+  ]
+}

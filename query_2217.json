@@ -1,0 +1,10 @@
+{
+  "query": "What weather is expected in Southern New England early Thursday?",
+  "response": [
+    "doc_29721.txt",
+    "doc_278.txt",
+    "doc_6329.txt",
+    "doc_6334.txt",
+    "doc_2973.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Besides *Leave it to Beaver*, in what other type of productions did Jerry Mathers appear (e.g., movies, commercials)?",
+  "response": [
+    "doc_12374.txt",
+    "doc_12373.txt",
+    "doc_12375.txt",
+    "doc_12376.txt",
+    "doc_12379.txt"
+  ]
+}

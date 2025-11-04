@@ -1,0 +1,10 @@
+{
+  "query": "On what date did John D. Hall die?",
+  "response": [
+    "doc_33316.txt",
+    "doc_36891.txt",
+    "doc_12168.txt",
+    "doc_36898.txt",
+    "doc_36893.txt"
+  ]
+}

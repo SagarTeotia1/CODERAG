@@ -1,0 +1,10 @@
+{
+  "query": "Which producers contributed to the production of Fat Joe’s album, “The Darkside Vol. 1”?",
+  "response": [
+    "doc_4942.txt",
+    "doc_23950.txt",
+    "doc_1582.txt",
+    "doc_23949.txt",
+    "doc_22522.txt"
+  ]
+}

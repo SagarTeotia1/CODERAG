@@ -1,0 +1,10 @@
+{
+  "query": "What specific information is the questioner requesting from the Commission regarding recent trends in political assassinations or kidnappings in Europe?",
+  "response": [
+    "doc_14223.txt",
+    "doc_7097.txt",
+    "doc_14885.txt",
+    "doc_23923.txt",
+    "doc_33878.txt"
+  ]
+}

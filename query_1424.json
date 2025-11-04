@@ -1,0 +1,10 @@
+{
+  "query": "How long did *Tobacco Road* (the play) run on Broadway?",
+  "response": [
+    "doc_13510.txt",
+    "doc_22796.txt",
+    "doc_22795.txt",
+    "doc_11819.txt",
+    "doc_22850.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which health authorities have recommended that women fitted with PIP implants have them removed?",
+  "response": [
+    "doc_37275.txt",
+    "doc_21897.txt",
+    "doc_21896.txt",
+    "doc_21899.txt",
+    "doc_21895.txt"
+  ]
+}

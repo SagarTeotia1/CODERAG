@@ -1,0 +1,10 @@
+{
+  "query": "What was the original purpose of Dartmouth Castle’s earliest construction?",
+  "response": [
+    "doc_25979.txt",
+    "doc_35752.txt",
+    "doc_25978.txt",
+    "doc_25976.txt",
+    "doc_25982.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the approximate size of Everglades National Park in square miles?",
+  "response": [
+    "doc_36835.txt",
+    "doc_40202.txt",
+    "doc_40196.txt",
+    "doc_40206.txt",
+    "doc_40204.txt"
+  ]
+}

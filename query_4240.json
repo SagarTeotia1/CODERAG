@@ -1,0 +1,10 @@
+{
+  "query": "What year did Emmanuel Lucenti compete at the 2008 Summer Olympics?",
+  "response": [
+    "doc_21232.txt",
+    "doc_22323.txt",
+    "doc_31477.txt",
+    "doc_31478.txt",
+    "doc_21229.txt"
+  ]
+}

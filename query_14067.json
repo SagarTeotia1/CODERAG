@@ -1,0 +1,10 @@
+{
+  "query": "What river watershed does the Cold Spring River belong to?",
+  "response": [
+    "doc_34490.txt",
+    "doc_13348.txt",
+    "doc_19102.txt",
+    "doc_25268.txt",
+    "doc_34489.txt"
+  ]
+}

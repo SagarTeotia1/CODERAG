@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the Hodag Country Festival founded?",
+  "response": [
+    "doc_22055.txt",
+    "doc_38861.txt",
+    "doc_38854.txt",
+    "doc_38859.txt",
+    "doc_38863.txt"
+  ]
+}

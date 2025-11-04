@@ -1,0 +1,10 @@
+{
+  "query": "Who signed the United Nations Charter on June 26, 1945?",
+  "response": [
+    "doc_17966.txt",
+    "doc_17963.txt",
+    "doc_17967.txt",
+    "doc_17965.txt",
+    "doc_17964.txt"
+  ]
+}

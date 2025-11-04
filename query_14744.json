@@ -1,0 +1,10 @@
+{
+  "query": "When was Larry Coker fired as UTSA coach?",
+  "response": [
+    "doc_26941.txt",
+    "doc_26942.txt",
+    "doc_3085.txt",
+    "doc_12462.txt",
+    "doc_14698.txt"
+  ]
+}

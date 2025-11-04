@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, when were the Petronas Towers the tallest buildings in the world?",
+  "response": [
+    "doc_30265.txt",
+    "doc_27120.txt",
+    "doc_7983.txt",
+    "doc_7982.txt",
+    "doc_37054.txt"
+  ]
+}

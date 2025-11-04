@@ -1,0 +1,10 @@
+{
+  "query": "What pollutants have been identified as accumulating in the Gulf of Corinth according to the Greek Marine Research Centre?",
+  "response": [
+    "doc_21703.txt",
+    "doc_28928.txt",
+    "doc_30626.txt",
+    "doc_34129.txt",
+    "doc_34250.txt"
+  ]
+}

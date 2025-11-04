@@ -1,0 +1,10 @@
+{
+  "query": "What substances does the Scientific Committee on Food identify as common food allergens?",
+  "response": [
+    "doc_28036.txt",
+    "doc_28035.txt",
+    "doc_37927.txt",
+    "doc_37928.txt",
+    "doc_37929.txt"
+  ]
+}

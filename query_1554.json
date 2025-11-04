@@ -1,0 +1,10 @@
+{
+  "query": "What is the bandleader’s connection to Lawrence Welk?",
+  "response": [
+    "doc_31091.txt",
+    "doc_31090.txt",
+    "doc_271.txt",
+    "doc_273.txt",
+    "doc_270.txt"
+  ]
+}

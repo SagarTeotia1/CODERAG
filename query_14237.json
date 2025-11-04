@@ -1,0 +1,10 @@
+{
+  "query": "What award did Eve Stewart receive in 1999?",
+  "response": [
+    "doc_27032.txt",
+    "doc_27028.txt",
+    "doc_38457.txt",
+    "doc_27027.txt",
+    "doc_38456.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which cups did Al-Mokhtalat SC win during the 1921-22 season?",
+  "response": [
+    "doc_24346.txt",
+    "doc_24343.txt",
+    "doc_21209.txt",
+    "doc_39911.txt",
+    "doc_24347.txt"
+  ]
+}

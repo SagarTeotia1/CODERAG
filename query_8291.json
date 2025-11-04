@@ -1,0 +1,10 @@
+{
+  "query": "In what country was Marta Lambertini born?",
+  "response": [
+    "doc_10221.txt",
+    "doc_19454.txt",
+    "doc_21104.txt",
+    "doc_21107.txt",
+    "doc_21108.txt"
+  ]
+}

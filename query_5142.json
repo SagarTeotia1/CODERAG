@@ -1,0 +1,10 @@
+{
+  "query": "What is the target capacity for solar energy generation under the Mediterranean Solar Plan (MSP)?",
+  "response": [
+    "doc_39700.txt",
+    "doc_3789.txt",
+    "doc_39694.txt",
+    "doc_39704.txt",
+    "doc_39701.txt"
+  ]
+}

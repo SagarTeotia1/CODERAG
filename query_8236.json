@@ -1,0 +1,10 @@
+{
+  "query": "Is the European Union and Ukraine currently engaged in bilateral talks regarding the use of Chernobyl-contaminated land for agriculture?",
+  "response": [
+    "doc_10996.txt",
+    "doc_32703.txt",
+    "doc_24792.txt",
+    "doc_34760.txt",
+    "doc_8846.txt"
+  ]
+}

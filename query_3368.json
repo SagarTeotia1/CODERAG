@@ -1,0 +1,10 @@
+{
+  "query": "When were the financing agreements signed for the two projects in the State of Vargas?",
+  "response": [
+    "doc_35441.txt",
+    "doc_36524.txt",
+    "doc_22708.txt",
+    "doc_12521.txt",
+    "doc_22706.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is Jack Sock’s current ranking in men’s singles?",
+  "response": [
+    "doc_30897.txt",
+    "doc_35648.txt",
+    "doc_1468.txt",
+    "doc_32299.txt",
+    "doc_32301.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what percentage of changes were adopted in the Lojban project?",
+  "response": [
+    "doc_2344.txt",
+    "doc_14535.txt",
+    "doc_16990.txt",
+    "doc_38732.txt",
+    "doc_16989.txt"
+  ]
+}

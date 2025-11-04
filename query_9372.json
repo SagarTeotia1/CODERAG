@@ -1,0 +1,10 @@
+{
+  "query": "What specific geographical feature is Emine coastal headland described as?",
+  "response": [
+    "doc_36827.txt",
+    "doc_36831.txt",
+    "doc_36832.txt",
+    "doc_9318.txt",
+    "doc_36829.txt"
+  ]
+}

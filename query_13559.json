@@ -1,0 +1,10 @@
+{
+  "query": "What types of electronic components, like PLCCs and SOICs, are mentioned in the Raytheon document, and how are serial numbers designated within those components?",
+  "response": [
+    "doc_18368.txt",
+    "doc_18367.txt",
+    "doc_18364.txt",
+    "doc_18366.txt",
+    "doc_18369.txt"
+  ]
+}

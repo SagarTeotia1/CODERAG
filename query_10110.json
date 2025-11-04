@@ -1,0 +1,10 @@
+{
+  "query": "Which actors appeared in multiple films within the “X-Men” film series, specifically mentioning Hugh Jackman’s role as Wolverine?",
+  "response": [
+    "doc_1503.txt",
+    "doc_30489.txt",
+    "doc_23484.txt",
+    "doc_35451.txt",
+    "doc_1504.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "For which film did Louise Barnes play Miranda Barlow, alongside Billy Zane and Natalie Mendoza?",
+  "response": [
+    "doc_30053.txt",
+    "doc_30052.txt",
+    "doc_30048.txt",
+    "doc_30049.txt",
+    "doc_30056.txt"
+  ]
+}

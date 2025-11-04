@@ -1,0 +1,10 @@
+{
+  "query": "What type of services did AC Nielsen offer, according to the provided information?",
+  "response": [
+    "doc_26535.txt",
+    "doc_26532.txt",
+    "doc_26534.txt",
+    "doc_26536.txt",
+    "doc_26533.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the Plaka bridge classified as?",
+  "response": [
+    "doc_12786.txt",
+    "doc_12784.txt",
+    "doc_5015.txt",
+    "doc_24063.txt",
+    "doc_24060.txt"
+  ]
+}

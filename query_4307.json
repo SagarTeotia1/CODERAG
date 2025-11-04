@@ -1,0 +1,10 @@
+{
+  "query": "In what city is the “City_of_Charlotte_Preliminary_Official_Statement” located?",
+  "response": [
+    "doc_19086.txt",
+    "doc_15207.txt",
+    "doc_16916.txt",
+    "doc_17476.txt",
+    "doc_6254.txt"
+  ]
+}

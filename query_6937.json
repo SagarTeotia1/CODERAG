@@ -1,0 +1,10 @@
+{
+  "query": "What action can a committee take if the Commission intends to explore voluntary agreements?",
+  "response": [
+    "doc_7692.txt",
+    "doc_3006.txt",
+    "doc_2703.txt",
+    "doc_28249.txt",
+    "doc_2597.txt"
+  ]
+}

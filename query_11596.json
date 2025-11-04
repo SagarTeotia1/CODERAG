@@ -1,0 +1,10 @@
+{
+  "query": "When was Fort Huachuca built?",
+  "response": [
+    "doc_19150.txt",
+    "doc_19153.txt",
+    "doc_19151.txt",
+    "doc_19152.txt",
+    "doc_19154.txt"
+  ]
+}

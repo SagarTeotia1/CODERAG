@@ -1,0 +1,10 @@
+{
+  "query": "What specific EU directive protects the area around the Kompsatos Dam and its associated wildlife?",
+  "response": [
+    "doc_37321.txt",
+    "doc_9286.txt",
+    "doc_9950.txt",
+    "doc_10599.txt",
+    "doc_35840.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the total distance of Mexican Federal Highway 30?",
+  "response": [
+    "doc_13742.txt",
+    "doc_13741.txt",
+    "doc_23489.txt",
+    "doc_24013.txt",
+    "doc_23492.txt"
+  ]
+}

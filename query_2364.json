@@ -1,0 +1,10 @@
+{
+  "query": "What song was written in 1963 by June Carter and Merle Kilgore?",
+  "response": [
+    "doc_13768.txt",
+    "doc_2864.txt",
+    "doc_19641.txt",
+    "doc_19647.txt",
+    "doc_13763.txt"
+  ]
+}

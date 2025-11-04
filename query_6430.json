@@ -1,0 +1,10 @@
+{
+  "query": "When was the *European Dialogue* magazine discontinued?",
+  "response": [
+    "doc_6419.txt",
+    "doc_8662.txt",
+    "doc_39617.txt",
+    "doc_13423.txt",
+    "doc_15573.txt"
+  ]
+}

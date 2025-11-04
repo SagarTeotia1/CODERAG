@@ -1,0 +1,10 @@
+{
+  "query": "What role did Mercedes Ruehl play on the TV show *Frasier*?",
+  "response": [
+    "doc_23792.txt",
+    "doc_28870.txt",
+    "doc_4072.txt",
+    "doc_4071.txt",
+    "doc_28877.txt"
+  ]
+}

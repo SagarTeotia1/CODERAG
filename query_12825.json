@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how much of the world’s high-speed rail tracks in commercial service were located in China as of 2016?",
+  "response": [
+    "doc_22283.txt",
+    "doc_22284.txt",
+    "doc_21014.txt",
+    "doc_7983.txt",
+    "doc_20024.txt"
+  ]
+}

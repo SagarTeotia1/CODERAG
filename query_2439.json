@@ -1,0 +1,10 @@
+{
+  "query": "What types of animals does the Great Blue Heron commonly eat, according to the provided information?",
+  "response": [
+    "doc_33329.txt",
+    "doc_33330.txt",
+    "doc_33332.txt",
+    "doc_33331.txt",
+    "doc_33333.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was the forecasted HICP inflation rate for 2004, and how did it compare to the inflation rate in 2003?",
+  "response": [
+    "doc_39232.txt",
+    "doc_38261.txt",
+    "doc_14375.txt",
+    "doc_10147.txt",
+    "doc_14291.txt"
+  ]
+}

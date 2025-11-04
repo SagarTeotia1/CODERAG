@@ -1,0 +1,10 @@
+{
+  "query": "When did the spree killings involving Charles Starkweather and Caril Ann Fugate take place?",
+  "response": [
+    "doc_39843.txt",
+    "doc_39840.txt",
+    "doc_39841.txt",
+    "doc_39844.txt",
+    "doc_39845.txt"
+  ]
+}

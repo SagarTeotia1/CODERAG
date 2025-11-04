@@ -1,0 +1,10 @@
+{
+  "query": "How many LED lights were on the 2011 Times Square Ball?",
+  "response": [
+    "doc_16706.txt",
+    "doc_16709.txt",
+    "doc_16708.txt",
+    "doc_16713.txt",
+    "doc_16711.txt"
+  ]
+}

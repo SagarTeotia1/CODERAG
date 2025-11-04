@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the Sino-Soviet airline mentioned in the passage?",
+  "response": [
+    "doc_35620.txt",
+    "doc_24040.txt",
+    "doc_24037.txt",
+    "doc_32168.txt",
+    "doc_35621.txt"
+  ]
+}

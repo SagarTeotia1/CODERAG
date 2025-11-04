@@ -1,0 +1,10 @@
+{
+  "query": "When was the ballet *Giselle* first performed?",
+  "response": [
+    "doc_31886.txt",
+    "doc_31890.txt",
+    "doc_31885.txt",
+    "doc_31887.txt",
+    "doc_31893.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of UK coastal bathing waters met the minimum quality criteria set out in the 1976 directive in 2005?",
+  "response": [
+    "doc_5303.txt",
+    "doc_5304.txt",
+    "doc_1174.txt",
+    "doc_17522.txt",
+    "doc_17461.txt"
+  ]
+}

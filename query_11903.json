@@ -1,0 +1,10 @@
+{
+  "query": "What is Tiananmen Square named after?",
+  "response": [
+    "doc_20024.txt",
+    "doc_20022.txt",
+    "doc_20020.txt",
+    "doc_20021.txt",
+    "doc_20025.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which comedy-variety series did Ruth Buzzi appear in every episode of?",
+  "response": [
+    "doc_37215.txt",
+    "doc_37217.txt",
+    "doc_37213.txt",
+    "doc_37211.txt",
+    "doc_37214.txt"
+  ]
+}

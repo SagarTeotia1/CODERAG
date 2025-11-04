@@ -1,0 +1,10 @@
+{
+  "query": "Which video game series was initially developed by Monolith Soft with the support of Masaya Nakamura?",
+  "response": [
+    "doc_2179.txt",
+    "doc_6599.txt",
+    "doc_6597.txt",
+    "doc_34371.txt",
+    "doc_6598.txt"
+  ]
+}

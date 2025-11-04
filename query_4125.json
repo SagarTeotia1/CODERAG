@@ -1,0 +1,10 @@
+{
+  "query": "What ingredients are listed for the Sausage McMuffin with Egg Whites according to McDonald's USA?",
+  "response": [
+    "doc_3714.txt",
+    "doc_3712.txt",
+    "doc_3718.txt",
+    "doc_3717.txt",
+    "doc_3713.txt"
+  ]
+}

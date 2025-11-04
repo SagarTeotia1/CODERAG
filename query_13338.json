@@ -1,0 +1,10 @@
+{
+  "query": "What birds are found in Nashville?",
+  "response": [
+    "doc_29774.txt",
+    "doc_29775.txt",
+    "doc_33329.txt",
+    "doc_22506.txt",
+    "doc_33331.txt"
+  ]
+}

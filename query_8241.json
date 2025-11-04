@@ -1,0 +1,10 @@
+{
+  "query": "What is Gustav Horn’s position?",
+  "response": [
+    "doc_31424.txt",
+    "doc_40161.txt",
+    "doc_40162.txt",
+    "doc_8203.txt",
+    "doc_17627.txt"
+  ]
+}

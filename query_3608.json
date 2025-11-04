@@ -1,0 +1,10 @@
+{
+  "query": "What types of musical works are represented in the Musica Sacra ensemble’s recordings?",
+  "response": [
+    "doc_27134.txt",
+    "doc_35986.txt",
+    "doc_10374.txt",
+    "doc_35990.txt",
+    "doc_36857.txt"
+  ]
+}

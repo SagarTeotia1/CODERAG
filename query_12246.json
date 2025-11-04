@@ -1,0 +1,10 @@
+{
+  "query": "What was Maya Deren’s birth name?",
+  "response": [
+    "doc_20721.txt",
+    "doc_20722.txt",
+    "doc_21106.txt",
+    "doc_21107.txt",
+    "doc_21105.txt"
+  ]
+}

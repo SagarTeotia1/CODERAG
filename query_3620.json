@@ -1,0 +1,10 @@
+{
+  "query": "When did Cuban Deputy Minister Eumelio Caballero make the referenced remarks?",
+  "response": [
+    "doc_8338.txt",
+    "doc_36029.txt",
+    "doc_32937.txt",
+    "doc_12585.txt",
+    "doc_39811.txt"
+  ]
+}

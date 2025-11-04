@@ -1,0 +1,10 @@
+{
+  "query": "What specific power station extension is highlighted by Greenpeace as a cause for concern regarding CO2 emissions?",
+  "response": [
+    "doc_31741.txt",
+    "doc_34168.txt",
+    "doc_35878.txt",
+    "doc_39657.txt",
+    "doc_21508.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what geographical area did the Battle of Nablus take place?",
+  "response": [
+    "doc_36503.txt",
+    "doc_36504.txt",
+    "doc_9275.txt",
+    "doc_9276.txt",
+    "doc_2455.txt"
+  ]
+}

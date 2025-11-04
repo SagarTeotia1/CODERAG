@@ -1,0 +1,10 @@
+{
+  "query": "What is the connection between Lake Managua and Lake Nicaragua, according to the provided text?",
+  "response": [
+    "doc_3512.txt",
+    "doc_3508.txt",
+    "doc_3511.txt",
+    "doc_3510.txt",
+    "doc_3513.txt"
+  ]
+}

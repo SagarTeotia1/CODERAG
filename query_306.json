@@ -1,0 +1,10 @@
+{
+  "query": "What was the combined balance on the two Spanish pay-as-you-go phones when they were last topped up?",
+  "response": [
+    "doc_28047.txt",
+    "doc_2784.txt",
+    "doc_21061.txt",
+    "doc_35155.txt",
+    "doc_32406.txt"
+  ]
+}

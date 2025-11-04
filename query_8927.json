@@ -1,0 +1,9 @@
+{
+  "query": "How were Gene Gene’s dance appearances on *The Gong Show* presented to the audience?",
+  "response": [
+    "doc_12626.txt",
+    "doc_12627.txt",
+    "doc_12629.txt",
+    "doc_12628.txt"
+  ]
+}

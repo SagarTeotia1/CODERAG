@@ -1,0 +1,10 @@
+{
+  "query": "In what district of Kashmir was Ahmadullah Affandi born and raised?",
+  "response": [
+    "doc_11096.txt",
+    "doc_11097.txt",
+    "doc_21738.txt",
+    "doc_25195.txt",
+    "doc_5471.txt"
+  ]
+}

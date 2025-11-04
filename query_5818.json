@@ -1,0 +1,10 @@
+{
+  "query": "How many times have M&M's flown in space?",
+  "response": [
+    "doc_20958.txt",
+    "doc_28372.txt",
+    "doc_28367.txt",
+    "doc_27286.txt",
+    "doc_20955.txt"
+  ]
+}

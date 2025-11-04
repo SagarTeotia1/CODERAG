@@ -1,0 +1,10 @@
+{
+  "query": "Who was promoted to flight director by Chris Kraft to support Eugene Kranz?",
+  "response": [
+    "doc_17415.txt",
+    "doc_17407.txt",
+    "doc_5205.txt",
+    "doc_3919.txt",
+    "doc_5179.txt"
+  ]
+}

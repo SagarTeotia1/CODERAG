@@ -1,0 +1,10 @@
+{
+  "query": "Against which team did the Brooklyn Dodgers play their final game at Ebbets Field, and what was the score?",
+  "response": [
+    "doc_32182.txt",
+    "doc_32179.txt",
+    "doc_32181.txt",
+    "doc_32178.txt",
+    "doc_32177.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "For what awards has Amos received nominations?",
+  "response": [
+    "doc_5343.txt",
+    "doc_16672.txt",
+    "doc_13988.txt",
+    "doc_27329.txt",
+    "doc_37212.txt"
+  ]
+}

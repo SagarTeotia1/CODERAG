@@ -1,0 +1,10 @@
+{
+  "query": "What specific data sources were utilized by the Greek national accountants to revise the national accounts between 1995 and 2006?",
+  "response": [
+    "doc_16839.txt",
+    "doc_17706.txt",
+    "doc_38391.txt",
+    "doc_12922.txt",
+    "doc_25181.txt"
+  ]
+}

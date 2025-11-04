@@ -1,0 +1,10 @@
+{
+  "query": "Which band did Daisuke Asakura previously produce, and is featured as a re-arrangement on “Indigo Algorithm”?",
+  "response": [
+    "doc_28914.txt",
+    "doc_13333.txt",
+    "doc_28915.txt",
+    "doc_13332.txt",
+    "doc_30961.txt"
+  ]
+}

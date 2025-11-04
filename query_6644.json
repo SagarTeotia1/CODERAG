@@ -1,0 +1,10 @@
+{
+  "query": "What sources were used to determine the initial casualty figures following the events in Maputo?",
+  "response": [
+    "doc_658.txt",
+    "doc_23743.txt",
+    "doc_21913.txt",
+    "doc_23741.txt",
+    "doc_23742.txt"
+  ]
+}

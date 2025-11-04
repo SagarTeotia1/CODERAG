@@ -1,0 +1,10 @@
+{
+  "query": "What animal is associated with the question “What’s Sumatra? Nothing, what’s Sumatra with you?”",
+  "response": [
+    "doc_25860.txt",
+    "doc_17257.txt",
+    "doc_4108.txt",
+    "doc_15414.txt",
+    "doc_17259.txt"
+  ]
+}

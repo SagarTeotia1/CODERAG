@@ -1,0 +1,10 @@
+{
+  "query": "During which war was Captain James Lawrence mortally wounded?",
+  "response": [
+    "doc_17303.txt",
+    "doc_17308.txt",
+    "doc_17302.txt",
+    "doc_17305.txt",
+    "doc_17306.txt"
+  ]
+}

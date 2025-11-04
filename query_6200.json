@@ -1,0 +1,10 @@
+{
+  "query": "What was Richard Pearse’s profession, and where is a monument dedicated to him situated?",
+  "response": [
+    "doc_20099.txt",
+    "doc_20098.txt",
+    "doc_20100.txt",
+    "doc_1906.txt",
+    "doc_36200.txt"
+  ]
+}

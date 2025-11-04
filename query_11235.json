@@ -1,0 +1,10 @@
+{
+  "query": "When was Gerald Ford sworn in as president?",
+  "response": [
+    "doc_18202.txt",
+    "doc_18201.txt",
+    "doc_18205.txt",
+    "doc_18207.txt",
+    "doc_18204.txt"
+  ]
+}

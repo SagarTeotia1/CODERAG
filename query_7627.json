@@ -1,0 +1,10 @@
+{
+  "query": "How many cases of malaria have been registered by KEELPNO since the beginning of the year?",
+  "response": [
+    "doc_9412.txt",
+    "doc_12845.txt",
+    "doc_12850.txt",
+    "doc_12849.txt",
+    "doc_12851.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Who wrote the song featured in Nash Icon’s first single?",
+  "response": [
+    "doc_22524.txt",
+    "doc_37851.txt",
+    "doc_25288.txt",
+    "doc_19645.txt",
+    "doc_19638.txt"
+  ]
+}

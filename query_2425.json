@@ -1,0 +1,10 @@
+{
+  "query": "What is the official publication of the Bay State African Violet Society?",
+  "response": [
+    "doc_25952.txt",
+    "doc_8641.txt",
+    "doc_19255.txt",
+    "doc_8081.txt",
+    "doc_8086.txt"
+  ]
+}

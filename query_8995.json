@@ -1,0 +1,10 @@
+{
+  "query": "What solution did Claude Chene propose for the overcrowding issue in the European Schools in Brussels?",
+  "response": [
+    "doc_12834.txt",
+    "doc_3217.txt",
+    "doc_2176.txt",
+    "doc_7397.txt",
+    "doc_6154.txt"
+  ]
+}

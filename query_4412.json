@@ -1,0 +1,10 @@
+{
+  "query": "How much fishing ground would be lost in Liguria if the 1.5 nautical mile rule were applied?",
+  "response": [
+    "doc_37924.txt",
+    "doc_36867.txt",
+    "doc_17788.txt",
+    "doc_13288.txt",
+    "doc_13623.txt"
+  ]
+}

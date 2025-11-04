@@ -1,0 +1,10 @@
+{
+  "query": "Has the Commission formed an opinion regarding the source of the E.coli outbreak?",
+  "response": [
+    "doc_7700.txt",
+    "doc_35943.txt",
+    "doc_5026.txt",
+    "doc_24839.txt",
+    "doc_3371.txt"
+  ]
+}

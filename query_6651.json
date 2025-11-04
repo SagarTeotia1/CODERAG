@@ -1,0 +1,10 @@
+{
+  "query": "Which film did Vinil Mathew direct that was a commercial and critical success?",
+  "response": [
+    "doc_27989.txt",
+    "doc_27991.txt",
+    "doc_27992.txt",
+    "doc_36340.txt",
+    "doc_37075.txt"
+  ]
+}

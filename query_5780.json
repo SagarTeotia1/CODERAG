@@ -1,0 +1,10 @@
+{
+  "query": "What song did Alfred Hitchcock seek out for the film “The Man Who Knew Too Much”?",
+  "response": [
+    "doc_4831.txt",
+    "doc_4828.txt",
+    "doc_4832.txt",
+    "doc_4826.txt",
+    "doc_4829.txt"
+  ]
+}

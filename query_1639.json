@@ -1,0 +1,10 @@
+{
+  "query": "What musical work by Prokofiev was first performed in Gotha in 1925?",
+  "response": [
+    "doc_31274.txt",
+    "doc_19511.txt",
+    "doc_19512.txt",
+    "doc_19513.txt",
+    "doc_19510.txt"
+  ]
+}

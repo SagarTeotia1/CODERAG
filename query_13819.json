@@ -1,0 +1,10 @@
+{
+  "query": "What provinces comprised the Negros Island Region?",
+  "response": [
+    "doc_24640.txt",
+    "doc_24641.txt",
+    "doc_19838.txt",
+    "doc_35718.txt",
+    "doc_19837.txt"
+  ]
+}

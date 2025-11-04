@@ -1,0 +1,10 @@
+{
+  "query": "What war is commemorated by the Dury Memorial?",
+  "response": [
+    "doc_2272.txt",
+    "doc_22610.txt",
+    "doc_23914.txt",
+    "doc_33997.txt",
+    "doc_23044.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What name does the Adidas brand derive from?",
+  "response": [
+    "doc_20712.txt",
+    "doc_20713.txt",
+    "doc_20710.txt",
+    "doc_20711.txt",
+    "doc_20714.txt"
+  ]
+}

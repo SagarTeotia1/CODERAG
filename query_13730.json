@@ -1,0 +1,10 @@
+{
+  "query": "What are some common names for plants in the *Symphytum* genus?",
+  "response": [
+    "doc_24409.txt",
+    "doc_8084.txt",
+    "doc_8081.txt",
+    "doc_39271.txt",
+    "doc_8086.txt"
+  ]
+}

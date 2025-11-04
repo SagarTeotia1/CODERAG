@@ -1,0 +1,10 @@
+{
+  "query": "Which translator is credited with producing a highly regarded translation of “The Water Margin”?",
+  "response": [
+    "doc_34646.txt",
+    "doc_34645.txt",
+    "doc_34647.txt",
+    "doc_30485.txt",
+    "doc_30487.txt"
+  ]
+}

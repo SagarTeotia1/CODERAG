@@ -1,0 +1,10 @@
+{
+  "query": "What type of music was associated with The Mothers of Invention?",
+  "response": [
+    "doc_36624.txt",
+    "doc_36628.txt",
+    "doc_36625.txt",
+    "doc_36626.txt",
+    "doc_36627.txt"
+  ]
+}

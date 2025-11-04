@@ -1,0 +1,10 @@
+{
+  "query": "In how many films did Ustinov play Hercule Poirot?",
+  "response": [
+    "doc_33198.txt",
+    "doc_33197.txt",
+    "doc_33199.txt",
+    "doc_23435.txt",
+    "doc_24129.txt"
+  ]
+}

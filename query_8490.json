@@ -1,0 +1,10 @@
+{
+  "query": "Who nominated John G. Roberts Jr. to become Chief Justice?",
+  "response": [
+    "doc_11575.txt",
+    "doc_11568.txt",
+    "doc_11574.txt",
+    "doc_11573.txt",
+    "doc_11569.txt"
+  ]
+}

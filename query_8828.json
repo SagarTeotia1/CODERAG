@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what is the primary purpose of UCL in relation to the JUICE mission?",
+  "response": [
+    "doc_34660.txt",
+    "doc_30392.txt",
+    "doc_24025.txt",
+    "doc_17924.txt",
+    "doc_17920.txt"
+  ]
+}

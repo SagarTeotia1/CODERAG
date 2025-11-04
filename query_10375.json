@@ -1,0 +1,10 @@
+{
+  "query": "Which actor plays Claire Fraser in the “Outlander” television series?",
+  "response": [
+    "doc_32016.txt",
+    "doc_32015.txt",
+    "doc_32012.txt",
+    "doc_35761.txt",
+    "doc_32017.txt"
+  ]
+}

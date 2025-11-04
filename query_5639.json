@@ -1,0 +1,10 @@
+{
+  "query": "Which journal is described as the first interdisciplinary academic journal in Canada focusing on family law issues?",
+  "response": [
+    "doc_5016.txt",
+    "doc_19045.txt",
+    "doc_19056.txt",
+    "doc_19060.txt",
+    "doc_19047.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what school year were the UAAP Season 76 tournaments held?",
+  "response": [
+    "doc_29961.txt",
+    "doc_29960.txt",
+    "doc_8404.txt",
+    "doc_14707.txt",
+    "doc_38743.txt"
+  ]
+}

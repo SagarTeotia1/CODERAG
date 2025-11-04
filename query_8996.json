@@ -1,0 +1,10 @@
+{
+  "query": "What specific costs related to the Laeken school are the Commission concerned about, according to the question?",
+  "response": [
+    "doc_12834.txt",
+    "doc_3217.txt",
+    "doc_22618.txt",
+    "doc_15525.txt",
+    "doc_7175.txt"
+  ]
+}

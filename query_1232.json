@@ -1,0 +1,10 @@
+{
+  "query": "What instrument was Karen Blixen known for writing under?",
+  "response": [
+    "doc_2798.txt",
+    "doc_23894.txt",
+    "doc_2788.txt",
+    "doc_15746.txt",
+    "doc_17062.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year was “The Greek Tycoon” released, and what type of film is it described as?",
+  "response": [
+    "doc_19505.txt",
+    "doc_19501.txt",
+    "doc_33198.txt",
+    "doc_3383.txt",
+    "doc_17976.txt"
+  ]
+}

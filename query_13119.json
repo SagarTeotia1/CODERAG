@@ -1,0 +1,10 @@
+{
+  "query": "What did Willy say?",
+  "response": [
+    "doc_22451.txt",
+    "doc_13639.txt",
+    "doc_36190.txt",
+    "doc_36189.txt",
+    "doc_36188.txt"
+  ]
+}

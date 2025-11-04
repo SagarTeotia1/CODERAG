@@ -1,0 +1,10 @@
+{
+  "query": "How many people have been infected by cholera in Zimbabwe, based on the information provided?",
+  "response": [
+    "doc_40088.txt",
+    "doc_39706.txt",
+    "doc_33390.txt",
+    "doc_26112.txt",
+    "doc_40089.txt"
+  ]
+}

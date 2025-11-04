@@ -1,0 +1,10 @@
+{
+  "query": "According to the Jorgensen Labs catalog, what type of forceps are designed to work with any brand of skin staple?",
+  "response": [
+    "doc_19135.txt",
+    "doc_19136.txt",
+    "doc_18263.txt",
+    "doc_37985.txt",
+    "doc_21935.txt"
+  ]
+}

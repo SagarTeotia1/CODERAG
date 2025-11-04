@@ -1,0 +1,10 @@
+{
+  "query": "In what year was “Night School” released?",
+  "response": [
+    "doc_39519.txt",
+    "doc_39520.txt",
+    "doc_23080.txt",
+    "doc_23081.txt",
+    "doc_23078.txt"
+  ]
+}

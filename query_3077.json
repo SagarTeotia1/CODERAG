@@ -1,0 +1,10 @@
+{
+  "query": "What specific Danish fortifications were mentioned as defending the harbor inlet?",
+  "response": [
+    "doc_15208.txt",
+    "doc_6175.txt",
+    "doc_6673.txt",
+    "doc_25520.txt",
+    "doc_25982.txt"
+  ]
+}

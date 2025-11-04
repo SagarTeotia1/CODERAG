@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, how did Angela give her daughter her name?",
+  "response": [
+    "doc_16102.txt",
+    "doc_16103.txt",
+    "doc_22472.txt",
+    "doc_40115.txt",
+    "doc_23880.txt"
+  ]
+}

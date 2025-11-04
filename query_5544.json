@@ -1,0 +1,10 @@
+{
+  "query": "What condition does Dory, the fish, experience that contributes to the film’s humor?",
+  "response": [
+    "doc_390.txt",
+    "doc_387.txt",
+    "doc_384.txt",
+    "doc_381.txt",
+    "doc_386.txt"
+  ]
+}

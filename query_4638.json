@@ -1,0 +1,10 @@
+{
+  "query": "What is the current champion of the Kenyan Premier League, and how many titles have they won?",
+  "response": [
+    "doc_38545.txt",
+    "doc_38546.txt",
+    "doc_18974.txt",
+    "doc_23690.txt",
+    "doc_19516.txt"
+  ]
+}

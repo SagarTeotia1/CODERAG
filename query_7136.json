@@ -1,0 +1,10 @@
+{
+  "query": "What is the logo associated with the Polish EU Presidency?",
+  "response": [
+    "doc_33886.txt",
+    "doc_5432.txt",
+    "doc_28584.txt",
+    "doc_28475.txt",
+    "doc_20791.txt"
+  ]
+}

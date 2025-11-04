@@ -1,0 +1,10 @@
+{
+  "query": "What was the lease term for the upstairs space leased by the M & K Telephone?",
+  "response": [
+    "doc_6068.txt",
+    "doc_37380.txt",
+    "doc_39886.txt",
+    "doc_25581.txt",
+    "doc_37382.txt"
+  ]
+}

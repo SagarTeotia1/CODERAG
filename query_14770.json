@@ -1,0 +1,10 @@
+{
+  "query": "Where was the 2016 Supercoppa Italiana match between Juventus and Milan played?",
+  "response": [
+    "doc_15881.txt",
+    "doc_27147.txt",
+    "doc_34221.txt",
+    "doc_10671.txt",
+    "doc_27146.txt"
+  ]
+}

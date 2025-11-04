@@ -1,0 +1,10 @@
+{
+  "query": "What is France’s recent announcement regarding the completion date of the Perpignan-Montpellier high-speed link?",
+  "response": [
+    "doc_8272.txt",
+    "doc_16397.txt",
+    "doc_34692.txt",
+    "doc_1440.txt",
+    "doc_17563.txt"
+  ]
+}

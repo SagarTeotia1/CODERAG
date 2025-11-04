@@ -1,0 +1,10 @@
+{
+  "query": "Has the Commission conducted the study into attacks on shops in the EU?",
+  "response": [
+    "doc_17440.txt",
+    "doc_514.txt",
+    "doc_5778.txt",
+    "doc_20035.txt",
+    "doc_33817.txt"
+  ]
+}

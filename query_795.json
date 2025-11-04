@@ -1,0 +1,10 @@
+{
+  "query": "What area in Peachtree City has two trails?",
+  "response": [
+    "doc_38612.txt",
+    "doc_17349.txt",
+    "doc_38611.txt",
+    "doc_36835.txt",
+    "doc_12147.txt"
+  ]
+}

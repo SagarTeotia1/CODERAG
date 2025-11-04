@@ -1,0 +1,10 @@
+{
+  "query": "According to the Cleveland Art article, what time period did Henri de Toulouse-Lautrec primarily work in?",
+  "response": [
+    "doc_6379.txt",
+    "doc_6381.txt",
+    "doc_6377.txt",
+    "doc_6378.txt",
+    "doc_38964.txt"
+  ]
+}

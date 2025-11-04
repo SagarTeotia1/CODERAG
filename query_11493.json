@@ -1,0 +1,10 @@
+{
+  "query": "Who is currently the coach of the Penn State Field Hockey team?",
+  "response": [
+    "doc_18829.txt",
+    "doc_17828.txt",
+    "doc_18830.txt",
+    "doc_17825.txt",
+    "doc_25624.txt"
+  ]
+}

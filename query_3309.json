@@ -1,0 +1,10 @@
+{
+  "query": "What economic forecasts did the European Parliament consider when drafting this report?",
+  "response": [
+    "doc_38255.txt",
+    "doc_35327.txt",
+    "doc_7335.txt",
+    "doc_24477.txt",
+    "doc_38261.txt"
+  ]
+}

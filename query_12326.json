@@ -1,0 +1,10 @@
+{
+  "query": "On what occasion did Homer Simpson make the statement, \"Don't worry... if I'm wrong, I'll recant on my\"?",
+  "response": [
+    "doc_32693.txt",
+    "doc_32694.txt",
+    "doc_27885.txt",
+    "doc_22451.txt",
+    "doc_22452.txt"
+  ]
+}

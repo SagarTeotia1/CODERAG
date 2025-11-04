@@ -1,0 +1,10 @@
+{
+  "query": "Which musicians are mentioned in the same search result as “Karen Carpenter”?",
+  "response": [
+    "doc_16968.txt",
+    "doc_16969.txt",
+    "doc_13763.txt",
+    "doc_24357.txt",
+    "doc_24.txt"
+  ]
+}

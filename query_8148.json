@@ -1,0 +1,10 @@
+{
+  "query": "Which musical did Nina Simone’s song “Ain’t Got No/I Got Life” originate from?",
+  "response": [
+    "doc_31194.txt",
+    "doc_31196.txt",
+    "doc_31192.txt",
+    "doc_31193.txt",
+    "doc_23968.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is one example of a painting from Picasso’s Blue Period mentioned in the passage?",
+  "response": [
+    "doc_11414.txt",
+    "doc_11415.txt",
+    "doc_11417.txt",
+    "doc_11412.txt",
+    "doc_11411.txt"
+  ]
+}

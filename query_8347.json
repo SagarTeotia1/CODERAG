@@ -1,0 +1,10 @@
+{
+  "query": "What were the machines initially called that UNIVAC produced?",
+  "response": [
+    "doc_3730.txt",
+    "doc_11231.txt",
+    "doc_3731.txt",
+    "doc_3737.txt",
+    "doc_3738.txt"
+  ]
+}

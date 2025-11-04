@@ -1,0 +1,10 @@
+{
+  "query": "Are forest fires in the Munzur National Park in the Tunceli region of Turkey occurring, and if so, what is the reported cause of these fires?",
+  "response": [
+    "doc_34527.txt",
+    "doc_34380.txt",
+    "doc_37118.txt",
+    "doc_37113.txt",
+    "doc_37116.txt"
+  ]
+}

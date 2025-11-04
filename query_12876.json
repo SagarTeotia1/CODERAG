@@ -1,0 +1,10 @@
+{
+  "query": "What is Benton King’s birth year?",
+  "response": [
+    "doc_6902.txt",
+    "doc_20607.txt",
+    "doc_19188.txt",
+    "doc_6903.txt",
+    "doc_6905.txt"
+  ]
+}

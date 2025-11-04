@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of the EBRD’s investment in the private sector requires an agreement?",
+  "response": [
+    "doc_9908.txt",
+    "doc_9909.txt",
+    "doc_9914.txt",
+    "doc_9910.txt",
+    "doc_9912.txt"
+  ]
+}

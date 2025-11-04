@@ -1,0 +1,10 @@
+{
+  "query": "What specific antibiotics were identified by the World Health Organization (WHO) as critically important antibacterial agents?",
+  "response": [
+    "doc_4989.txt",
+    "doc_19252.txt",
+    "doc_15840.txt",
+    "doc_35943.txt",
+    "doc_2105.txt"
+  ]
+}

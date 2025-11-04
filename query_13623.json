@@ -1,0 +1,10 @@
+{
+  "query": "What is Kelly Fu's family name?",
+  "response": [
+    "doc_24198.txt",
+    "doc_18527.txt",
+    "doc_18525.txt",
+    "doc_18526.txt",
+    "doc_18528.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what neighborhood did James Andrews grow up?",
+  "response": [
+    "doc_8105.txt",
+    "doc_38611.txt",
+    "doc_7632.txt",
+    "doc_37025.txt",
+    "doc_38621.txt"
+  ]
+}

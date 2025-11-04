@@ -1,0 +1,10 @@
+{
+  "query": "What is the primary objective regarding funding related to the Danube Region, as outlined in the passage?",
+  "response": [
+    "doc_36600.txt",
+    "doc_19337.txt",
+    "doc_19333.txt",
+    "doc_19336.txt",
+    "doc_34944.txt"
+  ]
+}

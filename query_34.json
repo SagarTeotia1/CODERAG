@@ -1,0 +1,10 @@
+{
+  "query": "Who sponsored the study at United States Air Forces Europe?",
+  "response": [
+    "doc_2806.txt",
+    "doc_39176.txt",
+    "doc_32451.txt",
+    "doc_15787.txt",
+    "doc_26058.txt"
+  ]
+}

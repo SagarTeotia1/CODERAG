@@ -1,0 +1,10 @@
+{
+  "query": "Who replaced Syd Barrett in the band, and when did this occur?",
+  "response": [
+    "doc_36628.txt",
+    "doc_1540.txt",
+    "doc_37162.txt",
+    "doc_2992.txt",
+    "doc_1534.txt"
+  ]
+}

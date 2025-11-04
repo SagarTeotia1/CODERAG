@@ -1,0 +1,10 @@
+{
+  "query": "What is considered important for tax policies within the EU framework?",
+  "response": [
+    "doc_20030.txt",
+    "doc_24471.txt",
+    "doc_25367.txt",
+    "doc_31625.txt",
+    "doc_40133.txt"
+  ]
+}

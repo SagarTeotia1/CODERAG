@@ -1,0 +1,10 @@
+{
+  "query": "Which nations received the most passengers from the UK in 2008?",
+  "response": [
+    "doc_24040.txt",
+    "doc_18635.txt",
+    "doc_37504.txt",
+    "doc_12688.txt",
+    "doc_39669.txt"
+  ]
+}

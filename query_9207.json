@@ -1,0 +1,10 @@
+{
+  "query": "How long had Van Winkle been asleep when he awoke?",
+  "response": [
+    "doc_13354.txt",
+    "doc_13358.txt",
+    "doc_13355.txt",
+    "doc_13357.txt",
+    "doc_13356.txt"
+  ]
+}

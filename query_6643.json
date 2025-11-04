@@ -1,0 +1,10 @@
+{
+  "query": "In what year was “The Electric Light Orchestra” (the eponymous debut album) released in the United Kingdom?",
+  "response": [
+    "doc_19878.txt",
+    "doc_22663.txt",
+    "doc_22662.txt",
+    "doc_39920.txt",
+    "doc_19875.txt"
+  ]
+}

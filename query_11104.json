@@ -1,0 +1,10 @@
+{
+  "query": "In what year was \"Laika Come Home\" released, and what was its primary purpose?",
+  "response": [
+    "doc_23537.txt",
+    "doc_25894.txt",
+    "doc_24018.txt",
+    "doc_24126.txt",
+    "doc_24017.txt"
+  ]
+}

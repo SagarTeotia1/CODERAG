@@ -1,0 +1,10 @@
+{
+  "query": "What types of rocks underlie the sedimentary fill of the Caldera Basin?",
+  "response": [
+    "doc_5229.txt",
+    "doc_5226.txt",
+    "doc_211.txt",
+    "doc_37177.txt",
+    "doc_209.txt"
+  ]
+}

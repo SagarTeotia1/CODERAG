@@ -1,0 +1,10 @@
+{
+  "query": "What catchphrase did the Festrunk Brothers frequently use?",
+  "response": [
+    "doc_11013.txt",
+    "doc_11014.txt",
+    "doc_11015.txt",
+    "doc_11019.txt",
+    "doc_11018.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Besides Adam Levine, who else is featured on the song “My Life”?",
+  "response": [
+    "doc_31778.txt",
+    "doc_4908.txt",
+    "doc_15911.txt",
+    "doc_31779.txt",
+    "doc_22520.txt"
+  ]
+}

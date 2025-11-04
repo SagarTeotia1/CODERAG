@@ -1,0 +1,10 @@
+{
+  "query": "What is the length of the Maroggia-Melano station?",
+  "response": [
+    "doc_10191.txt",
+    "doc_10190.txt",
+    "doc_16287.txt",
+    "doc_27339.txt",
+    "doc_16288.txt"
+  ]
+}

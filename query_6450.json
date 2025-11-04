@@ -1,0 +1,10 @@
+{
+  "query": "From which major Pacific Port do tours departing for La Fortuna and Costa Rica originate?",
+  "response": [
+    "doc_6465.txt",
+    "doc_24012.txt",
+    "doc_24013.txt",
+    "doc_6464.txt",
+    "doc_20149.txt"
+  ]
+}

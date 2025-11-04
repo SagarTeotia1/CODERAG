@@ -1,0 +1,10 @@
+{
+  "query": "What two gold medals did Bart Conner win?",
+  "response": [
+    "doc_31479.txt",
+    "doc_8612.txt",
+    "doc_18107.txt",
+    "doc_18106.txt",
+    "doc_18110.txt"
+  ]
+}

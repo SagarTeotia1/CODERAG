@@ -1,0 +1,10 @@
+{
+  "query": "What ballet program is tentatively planned for the Dallas-based ensemble?",
+  "response": [
+    "doc_6301.txt",
+    "doc_6300.txt",
+    "doc_32384.txt",
+    "doc_32382.txt",
+    "doc_32387.txt"
+  ]
+}

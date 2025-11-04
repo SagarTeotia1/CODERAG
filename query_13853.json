@@ -1,0 +1,10 @@
+{
+  "query": "How many domestic titles has Real Madrid C.F. won in total?",
+  "response": [
+    "doc_24725.txt",
+    "doc_24727.txt",
+    "doc_38604.txt",
+    "doc_38605.txt",
+    "doc_9014.txt"
+  ]
+}

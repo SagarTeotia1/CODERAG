@@ -1,0 +1,10 @@
+{
+  "query": "When were the three finalists for the Sakharov Prize 2009 selected?",
+  "response": [
+    "doc_10904.txt",
+    "doc_37103.txt",
+    "doc_21998.txt",
+    "doc_21999.txt",
+    "doc_10903.txt"
+  ]
+}

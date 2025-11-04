@@ -1,0 +1,10 @@
+{
+  "query": "When did the nickname “Windy City” first appear, and what was the context at the time?",
+  "response": [
+    "doc_16641.txt",
+    "doc_21664.txt",
+    "doc_21658.txt",
+    "doc_8376.txt",
+    "doc_21656.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which companies are identified as exerting “intense pressure” regarding GMOs in the EU?",
+  "response": [
+    "doc_17178.txt",
+    "doc_26825.txt",
+    "doc_5259.txt",
+    "doc_31412.txt",
+    "doc_595.txt"
+  ]
+}

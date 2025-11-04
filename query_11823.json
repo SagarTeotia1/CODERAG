@@ -1,0 +1,10 @@
+{
+  "query": "What regulation outlines the European Union’s common rules for assisting passengers during flight cancellations and delays?",
+  "response": [
+    "doc_2545.txt",
+    "doc_10370.txt",
+    "doc_2002.txt",
+    "doc_36346.txt",
+    "doc_35419.txt"
+  ]
+}

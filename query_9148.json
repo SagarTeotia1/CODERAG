@@ -1,0 +1,10 @@
+{
+  "query": "What slogan does Budweiser use?",
+  "response": [
+    "doc_29989.txt",
+    "doc_11678.txt",
+    "doc_17191.txt",
+    "doc_17196.txt",
+    "doc_17192.txt"
+  ]
+}

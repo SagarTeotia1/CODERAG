@@ -1,0 +1,10 @@
+{
+  "query": "What type of author was Isaac Bashevis Singer?",
+  "response": [
+    "doc_28961.txt",
+    "doc_28963.txt",
+    "doc_28962.txt",
+    "doc_28958.txt",
+    "doc_28959.txt"
+  ]
+}

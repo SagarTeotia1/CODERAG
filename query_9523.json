@@ -1,0 +1,10 @@
+{
+  "query": "What characteristic does the Miniature Shar Pei possess due to a recessive gene?",
+  "response": [
+    "doc_14045.txt",
+    "doc_14046.txt",
+    "doc_25723.txt",
+    "doc_25724.txt",
+    "doc_2576.txt"
+  ]
+}

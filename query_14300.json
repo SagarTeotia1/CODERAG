@@ -1,0 +1,10 @@
+{
+  "query": "From which album did the title “Heaven in a Wild Flower” originate?",
+  "response": [
+    "doc_3430.txt",
+    "doc_12913.txt",
+    "doc_38662.txt",
+    "doc_31614.txt",
+    "doc_3431.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What are the titles of the books and film adaptations featuring the character Anthony Masen?",
+  "response": [
+    "doc_11520.txt",
+    "doc_17735.txt",
+    "doc_15200.txt",
+    "doc_17738.txt",
+    "doc_27033.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What threats do wild tigers face in India?",
+  "response": [
+    "doc_36929.txt",
+    "doc_15867.txt",
+    "doc_17345.txt",
+    "doc_17347.txt",
+    "doc_17349.txt"
+  ]
+}

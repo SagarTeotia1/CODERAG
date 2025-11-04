@@ -1,0 +1,10 @@
+{
+  "query": "Where did Owen Wister seek good health in June of 1902?",
+  "response": [
+    "doc_31738.txt",
+    "doc_31737.txt",
+    "doc_31733.txt",
+    "doc_31739.txt",
+    "doc_31735.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Who was George Bass?",
+  "response": [
+    "doc_31553.txt",
+    "doc_31552.txt",
+    "doc_20042.txt",
+    "doc_30288.txt",
+    "doc_30292.txt"
+  ]
+}

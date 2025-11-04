@@ -1,0 +1,10 @@
+{
+  "query": "Which artists did Jean-Jacques Debout write songs for, besides Johnny Hallyday and Sylvie Vartan?",
+  "response": [
+    "doc_27492.txt",
+    "doc_22662.txt",
+    "doc_13766.txt",
+    "doc_9306.txt",
+    "doc_13767.txt"
+  ]
+}

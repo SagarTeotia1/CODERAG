@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission’s responsibility, as highlighted in the text, concerning the Agencies’ financial management?",
+  "response": [
+    "doc_6586.txt",
+    "doc_16565.txt",
+    "doc_8399.txt",
+    "doc_20448.txt",
+    "doc_8398.txt"
+  ]
+}

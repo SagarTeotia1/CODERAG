@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what percentage of the Union’s energy consumption currently comes from imported sources, and what is the projected percentage by 2030?",
+  "response": [
+    "doc_18750.txt",
+    "doc_25652.txt",
+    "doc_18751.txt",
+    "doc_15498.txt",
+    "doc_18065.txt"
+  ]
+}

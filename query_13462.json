@@ -1,0 +1,10 @@
+{
+  "query": "What was the date of the plane crash that resulted in the deaths of Buddy Holly, Ritchie Valens, and The Big Bopper?",
+  "response": [
+    "doc_23705.txt",
+    "doc_23706.txt",
+    "doc_23708.txt",
+    "doc_23704.txt",
+    "doc_23707.txt"
+  ]
+}

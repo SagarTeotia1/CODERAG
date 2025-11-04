@@ -1,0 +1,10 @@
+{
+  "query": "According to one episode, what animal does Grandpa transform into when angry?",
+  "response": [
+    "doc_34850.txt",
+    "doc_25310.txt",
+    "doc_25307.txt",
+    "doc_25313.txt",
+    "doc_8608.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which commune is currently requiring EU citizens to present Belgian ID cards?",
+  "response": [
+    "doc_18218.txt",
+    "doc_10093.txt",
+    "doc_28301.txt",
+    "doc_33535.txt",
+    "doc_5078.txt"
+  ]
+}

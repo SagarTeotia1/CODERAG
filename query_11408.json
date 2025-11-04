@@ -1,0 +1,10 @@
+{
+  "query": "Who posed the question regarding the Irish vote?",
+  "response": [
+    "doc_1723.txt",
+    "doc_32948.txt",
+    "doc_27548.txt",
+    "doc_27545.txt",
+    "doc_27551.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was China’s daily plastic bag consumption prior to 2008?",
+  "response": [
+    "doc_13533.txt",
+    "doc_32311.txt",
+    "doc_13535.txt",
+    "doc_21557.txt",
+    "doc_13530.txt"
+  ]
+}

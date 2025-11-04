@@ -1,0 +1,10 @@
+{
+  "query": "According to the text, what role did Lucia Chase primarily hold within Ballet Theatre?",
+  "response": [
+    "doc_17998.txt",
+    "doc_31889.txt",
+    "doc_20869.txt",
+    "doc_31890.txt",
+    "doc_31892.txt"
+  ]
+}

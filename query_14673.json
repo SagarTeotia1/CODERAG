@@ -1,0 +1,10 @@
+{
+  "query": "What political party did Kate Witek represent when she was elected Auditor?",
+  "response": [
+    "doc_26783.txt",
+    "doc_23509.txt",
+    "doc_23510.txt",
+    "doc_23514.txt",
+    "doc_26782.txt"
+  ]
+}

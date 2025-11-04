@@ -1,0 +1,10 @@
+{
+  "query": "When was Memorial Sloan Kettering Cancer Center founded, and what was it originally called?",
+  "response": [
+    "doc_6282.txt",
+    "doc_6275.txt",
+    "doc_6284.txt",
+    "doc_6283.txt",
+    "doc_6276.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to Jean-Paul Mingasson, what percentage of companies still face barriers when moving goods between EU states?",
+  "response": [
+    "doc_40256.txt",
+    "doc_34169.txt",
+    "doc_39802.txt",
+    "doc_31882.txt",
+    "doc_31878.txt"
+  ]
+}

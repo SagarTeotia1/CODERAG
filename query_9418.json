@@ -1,0 +1,10 @@
+{
+  "query": "What is the EU’s position in the field of supercomputers by comparison with the US and China?",
+  "response": [
+    "doc_5747.txt",
+    "doc_35331.txt",
+    "doc_31391.txt",
+    "doc_28793.txt",
+    "doc_8655.txt"
+  ]
+}

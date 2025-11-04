@@ -1,0 +1,10 @@
+{
+  "query": "Where was Elisha last seen according to the novel?",
+  "response": [
+    "doc_35063.txt",
+    "doc_37326.txt",
+    "doc_31145.txt",
+    "doc_19742.txt",
+    "doc_4304.txt"
+  ]
+}

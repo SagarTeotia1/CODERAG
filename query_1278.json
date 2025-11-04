@@ -1,0 +1,10 @@
+{
+  "query": "What types of traditional products are reportedly affected by European legislation?",
+  "response": [
+    "doc_30442.txt",
+    "doc_17344.txt",
+    "doc_35918.txt",
+    "doc_40256.txt",
+    "doc_27584.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which gymnastics coach recruited Bart Conner to the University of Oklahoma?",
+  "response": [
+    "doc_31483.txt",
+    "doc_38510.txt",
+    "doc_38511.txt",
+    "doc_35247.txt",
+    "doc_14702.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What agreement was concluded at COP17 in Durban regarding the Green Climate Fund?",
+  "response": [
+    "doc_32911.txt",
+    "doc_11806.txt",
+    "doc_2171.txt",
+    "doc_22748.txt",
+    "doc_20252.txt"
+  ]
+}

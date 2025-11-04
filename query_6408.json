@@ -1,0 +1,10 @@
+{
+  "query": "Prior to the break-in, how frequently did the term “Watergate” appear in *The Times*?",
+  "response": [
+    "doc_6352.txt",
+    "doc_6351.txt",
+    "doc_21298.txt",
+    "doc_6349.txt",
+    "doc_6353.txt"
+  ]
+}

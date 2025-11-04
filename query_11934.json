@@ -1,0 +1,10 @@
+{
+  "query": "What distinctive item was associated with the Green Giant’s frozen food packaging in the 1950s?",
+  "response": [
+    "doc_20077.txt",
+    "doc_20080.txt",
+    "doc_20083.txt",
+    "doc_37894.txt",
+    "doc_20079.txt"
+  ]
+}

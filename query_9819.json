@@ -1,0 +1,10 @@
+{
+  "query": "What is the minimum amount of training required for bus and lorry drivers in the EU Directive 2003/59/EC?",
+  "response": [
+    "doc_14735.txt",
+    "doc_6815.txt",
+    "doc_6824.txt",
+    "doc_6819.txt",
+    "doc_6823.txt"
+  ]
+}

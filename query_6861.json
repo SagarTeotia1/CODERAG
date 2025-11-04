@@ -1,0 +1,10 @@
+{
+  "query": "What was projected onto the dam’s wall at Grand Coulee Dam?",
+  "response": [
+    "doc_12659.txt",
+    "doc_38653.txt",
+    "doc_34788.txt",
+    "doc_21736.txt",
+    "doc_34785.txt"
+  ]
+}

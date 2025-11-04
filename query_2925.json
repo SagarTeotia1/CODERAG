@@ -1,0 +1,10 @@
+{
+  "query": "What series of children's books is Laura Ingalls Wilder known for?",
+  "response": [
+    "doc_3395.txt",
+    "doc_3400.txt",
+    "doc_3396.txt",
+    "doc_3397.txt",
+    "doc_3399.txt"
+  ]
+}

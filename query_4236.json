@@ -1,0 +1,10 @@
+{
+  "query": "What is the title of Chapter 11 of *The Three Musketeers*?",
+  "response": [
+    "doc_3748.txt",
+    "doc_31177.txt",
+    "doc_1207.txt",
+    "doc_21796.txt",
+    "doc_3822.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When did Buzz Aldrin set foot on the Moon?",
+  "response": [
+    "doc_3311.txt",
+    "doc_3312.txt",
+    "doc_3309.txt",
+    "doc_3310.txt",
+    "doc_14112.txt"
+  ]
+}

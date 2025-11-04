@@ -1,0 +1,10 @@
+{
+  "query": "Which television series does Don Johnson star in?",
+  "response": [
+    "doc_16130.txt",
+    "doc_16134.txt",
+    "doc_16131.txt",
+    "doc_3476.txt",
+    "doc_3478.txt"
+  ]
+}

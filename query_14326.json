@@ -1,0 +1,10 @@
+{
+  "query": "What was the vote count in the Polish Diet regarding the bill to reintroduce the death penalty?",
+  "response": [
+    "doc_16769.txt",
+    "doc_4333.txt",
+    "doc_22894.txt",
+    "doc_20805.txt",
+    "doc_32727.txt"
+  ]
+}

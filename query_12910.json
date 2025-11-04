@@ -1,0 +1,10 @@
+{
+  "query": "How many Olympic medals did Nikolai Andrianov win in total, and who held the record for the most Olympic medals before him?",
+  "response": [
+    "doc_175.txt",
+    "doc_21232.txt",
+    "doc_31478.txt",
+    "doc_21227.txt",
+    "doc_31477.txt"
+  ]
+}

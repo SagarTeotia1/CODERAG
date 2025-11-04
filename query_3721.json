@@ -1,0 +1,10 @@
+{
+  "query": "What types of beverages does Coca-Cola Australia offer, including examples like Coca-Cola, Diet Coke, and Sprite?",
+  "response": [
+    "doc_36264.txt",
+    "doc_36262.txt",
+    "doc_36267.txt",
+    "doc_36261.txt",
+    "doc_36269.txt"
+  ]
+}

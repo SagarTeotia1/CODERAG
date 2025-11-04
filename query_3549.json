@@ -1,0 +1,10 @@
+{
+  "query": "What is the subject of Evan Wright’s book, “Generation Kill”?",
+  "response": [
+    "doc_18543.txt",
+    "doc_28061.txt",
+    "doc_21972.txt",
+    "doc_22265.txt",
+    "doc_22264.txt"
+  ]
+}

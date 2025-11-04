@@ -1,0 +1,10 @@
+{
+  "query": "What was Magic Johnson promoting during his announcement?",
+  "response": [
+    "doc_2930.txt",
+    "doc_2928.txt",
+    "doc_2929.txt",
+    "doc_2932.txt",
+    "doc_2933.txt"
+  ]
+}

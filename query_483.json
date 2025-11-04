@@ -1,0 +1,10 @@
+{
+  "query": "Which actor played Gandalf in “The Lord of the Rings” and “The Hobbit” trilogies?",
+  "response": [
+    "doc_28395.txt",
+    "doc_31128.txt",
+    "doc_28394.txt",
+    "doc_18734.txt",
+    "doc_18733.txt"
+  ]
+}

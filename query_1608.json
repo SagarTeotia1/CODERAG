@@ -1,0 +1,10 @@
+{
+  "query": "According to the text, what was Sam Beer’s generation’s approach to personal expression?",
+  "response": [
+    "doc_21847.txt",
+    "doc_37202.txt",
+    "doc_37705.txt",
+    "doc_1900.txt",
+    "doc_38486.txt"
+  ]
+}

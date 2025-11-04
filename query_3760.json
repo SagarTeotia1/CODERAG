@@ -1,0 +1,10 @@
+{
+  "query": "When were the gates erected at 10 Downing Street?",
+  "response": [
+    "doc_36366.txt",
+    "doc_36363.txt",
+    "doc_36364.txt",
+    "doc_36365.txt",
+    "doc_36362.txt"
+  ]
+}

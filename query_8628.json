@@ -1,0 +1,10 @@
+{
+  "query": "Where was Johnny Gruelle born?",
+  "response": [
+    "doc_17670.txt",
+    "doc_3478.txt",
+    "doc_3476.txt",
+    "doc_3484.txt",
+    "doc_24003.txt"
+  ]
+}

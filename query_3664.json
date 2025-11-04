@@ -1,0 +1,10 @@
+{
+  "query": "When was “The Cats of Copenhagen” written and when was it finally published?",
+  "response": [
+    "doc_32851.txt",
+    "doc_32857.txt",
+    "doc_32853.txt",
+    "doc_32852.txt",
+    "doc_7161.txt"
+  ]
+}

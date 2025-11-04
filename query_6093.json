@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided information, what features are located on the grounds of Wayne Manor?",
+  "response": [
+    "doc_5598.txt",
+    "doc_32326.txt",
+    "doc_5600.txt",
+    "doc_18015.txt",
+    "doc_18014.txt"
+  ]
+}

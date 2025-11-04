@@ -1,0 +1,10 @@
+{
+  "query": "What record did Mia Hamm break regarding goals scored?",
+  "response": [
+    "doc_17822.txt",
+    "doc_17823.txt",
+    "doc_17825.txt",
+    "doc_36001.txt",
+    "doc_17831.txt"
+  ]
+}

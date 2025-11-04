@@ -1,0 +1,10 @@
+{
+  "query": "In what year was Federal Hall demolished?",
+  "response": [
+    "doc_17479.txt",
+    "doc_7626.txt",
+    "doc_7629.txt",
+    "doc_7625.txt",
+    "doc_17475.txt"
+  ]
+}

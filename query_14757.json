@@ -1,0 +1,10 @@
+{
+  "query": "Which actors starred in the mountain film directed by Arnold Fanck?",
+  "response": [
+    "doc_26979.txt",
+    "doc_26978.txt",
+    "doc_3464.txt",
+    "doc_3462.txt",
+    "doc_31756.txt"
+  ]
+}

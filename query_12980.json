@@ -1,0 +1,10 @@
+{
+  "query": "Which committee is voting on a report regarding the environmental impact of the \"Nordstream\" gas pipeline?",
+  "response": [
+    "doc_22677.txt",
+    "doc_28917.txt",
+    "doc_2085.txt",
+    "doc_14585.txt",
+    "doc_2658.txt"
+  ]
+}

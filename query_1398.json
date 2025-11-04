@@ -1,0 +1,10 @@
+{
+  "query": "What legislative resolution was adopted by the European Parliament on April 23, 2009, concerning patients' rights in cross-border healthcare?",
+  "response": [
+    "doc_30680.txt",
+    "doc_27969.txt",
+    "doc_23326.txt",
+    "doc_30682.txt",
+    "doc_30681.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to the text, what was Samuel Brewer’s role in the Provincial Army?",
+  "response": [
+    "doc_8077.txt",
+    "doc_8078.txt",
+    "doc_22324.txt",
+    "doc_22326.txt",
+    "doc_1411.txt"
+  ]
+}

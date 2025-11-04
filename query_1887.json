@@ -1,0 +1,10 @@
+{
+  "query": "According to the Commission, what types of anticompetitive behavior are covered by EU competition law?",
+  "response": [
+    "doc_13789.txt",
+    "doc_2719.txt",
+    "doc_195.txt",
+    "doc_2718.txt",
+    "doc_192.txt"
+  ]
+}

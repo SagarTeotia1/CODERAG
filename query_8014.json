@@ -1,0 +1,10 @@
+{
+  "query": "In 2004, why did Syracuse University decide to change its athletic team nickname?",
+  "response": [
+    "doc_10448.txt",
+    "doc_10451.txt",
+    "doc_10449.txt",
+    "doc_10454.txt",
+    "doc_10450.txt"
+  ]
+}

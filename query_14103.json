@@ -1,0 +1,10 @@
+{
+  "query": "On what radio station did Peter Wolf begin his career as a DJ?",
+  "response": [
+    "doc_25328.txt",
+    "doc_25327.txt",
+    "doc_25329.txt",
+    "doc_25326.txt",
+    "doc_25331.txt"
+  ]
+}

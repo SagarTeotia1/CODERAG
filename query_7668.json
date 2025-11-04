@@ -1,0 +1,10 @@
+{
+  "query": "On what date did Hurricane Hugo hit the island of St. Croix?",
+  "response": [
+    "doc_20664.txt",
+    "doc_38762.txt",
+    "doc_9544.txt",
+    "doc_38766.txt",
+    "doc_20666.txt"
+  ]
+}

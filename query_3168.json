@@ -1,0 +1,10 @@
+{
+  "query": "What demands did the Schengen Joint Supervisory Authority make regarding the SIS?",
+  "response": [
+    "doc_30073.txt",
+    "doc_5275.txt",
+    "doc_7357.txt",
+    "doc_5269.txt",
+    "doc_5276.txt"
+  ]
+}

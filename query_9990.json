@@ -1,0 +1,10 @@
+{
+  "query": "Which television shows did Chris Harrison host?",
+  "response": [
+    "doc_15139.txt",
+    "doc_15138.txt",
+    "doc_34066.txt",
+    "doc_4898.txt",
+    "doc_38352.txt"
+  ]
+}

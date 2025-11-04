@@ -1,0 +1,10 @@
+{
+  "query": "What sentence did Nathan Leopold and Richard Loeb receive for their crimes?",
+  "response": [
+    "doc_15390.txt",
+    "doc_15392.txt",
+    "doc_15393.txt",
+    "doc_15391.txt",
+    "doc_15389.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which artist produced the single “Muscles” on Diana Ross’s album, “Silk Electric”?",
+  "response": [
+    "doc_19638.txt",
+    "doc_19645.txt",
+    "doc_37853.txt",
+    "doc_19643.txt",
+    "doc_19642.txt"
+  ]
+}

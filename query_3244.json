@@ -1,0 +1,10 @@
+{
+  "query": "Where is the Institute for Industrial Technology located?",
+  "response": [
+    "doc_35162.txt",
+    "doc_35161.txt",
+    "doc_19857.txt",
+    "doc_19855.txt",
+    "doc_10803.txt"
+  ]
+}

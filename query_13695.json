@@ -1,0 +1,10 @@
+{
+  "query": "Which specific subparts of Annex III were included in the initial partial agreement?",
+  "response": [
+    "doc_39008.txt",
+    "doc_11863.txt",
+    "doc_2686.txt",
+    "doc_18100.txt",
+    "doc_29313.txt"
+  ]
+}

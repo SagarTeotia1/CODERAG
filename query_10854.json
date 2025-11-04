@@ -1,0 +1,10 @@
+{
+  "query": "According to the latest UN figures, what is the projected world population by 2050?",
+  "response": [
+    "doc_17223.txt",
+    "doc_27770.txt",
+    "doc_38068.txt",
+    "doc_27773.txt",
+    "doc_1473.txt"
+  ]
+}

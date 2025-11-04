@@ -1,0 +1,10 @@
+{
+  "query": "When did the US authorities state they had not received Dr Huber’s letter?",
+  "response": [
+    "doc_36942.txt",
+    "doc_27067.txt",
+    "doc_27071.txt",
+    "doc_20709.txt",
+    "doc_21309.txt"
+  ]
+}

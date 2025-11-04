@@ -1,0 +1,10 @@
+{
+  "query": "According to the FAO, what is expected to be the trend of food prices in 2011 and 2012?",
+  "response": [
+    "doc_20723.txt",
+    "doc_38493.txt",
+    "doc_38696.txt",
+    "doc_22936.txt",
+    "doc_14459.txt"
+  ]
+}

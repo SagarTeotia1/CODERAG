@@ -1,0 +1,10 @@
+{
+  "query": "What is the subject of the Venezuelan law referenced in the question?",
+  "response": [
+    "doc_3359.txt",
+    "doc_28247.txt",
+    "doc_38062.txt",
+    "doc_31159.txt",
+    "doc_31158.txt"
+  ]
+}

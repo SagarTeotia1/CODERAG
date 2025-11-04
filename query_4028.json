@@ -1,0 +1,10 @@
+{
+  "query": "Which artist created “Garcon a la Pipe”?",
+  "response": [
+    "doc_37001.txt",
+    "doc_37003.txt",
+    "doc_36999.txt",
+    "doc_37002.txt",
+    "doc_37004.txt"
+  ]
+}

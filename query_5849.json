@@ -1,0 +1,10 @@
+{
+  "query": "For which notable bridge project did Bethlehem Steel Corporation supply steel sections?",
+  "response": [
+    "doc_5013.txt",
+    "doc_5009.txt",
+    "doc_5014.txt",
+    "doc_5008.txt",
+    "doc_5007.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What amount was received by the European University Institute (EUI) from the European Union budget in 2010?",
+  "response": [
+    "doc_1497.txt",
+    "doc_11171.txt",
+    "doc_16435.txt",
+    "doc_3963.txt",
+    "doc_15567.txt"
+  ]
+}

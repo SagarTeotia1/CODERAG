@@ -1,0 +1,10 @@
+{
+  "query": "How many true crime books are based on Randy Roth's crimes?",
+  "response": [
+    "doc_14861.txt",
+    "doc_20071.txt",
+    "doc_34404.txt",
+    "doc_14863.txt",
+    "doc_4346.txt"
+  ]
+}

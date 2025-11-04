@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Bowman Racing win the 1989 Macau Grand Prix?",
+  "response": [
+    "doc_5057.txt",
+    "doc_9552.txt",
+    "doc_5061.txt",
+    "doc_9547.txt",
+    "doc_5056.txt"
+  ]
+}

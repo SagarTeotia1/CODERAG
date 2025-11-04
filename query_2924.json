@@ -1,0 +1,10 @@
+{
+  "query": "What types of food can be found in the Hamur district of Nicosia?",
+  "response": [
+    "doc_34437.txt",
+    "doc_34432.txt",
+    "doc_34435.txt",
+    "doc_34430.txt",
+    "doc_34434.txt"
+  ]
+}

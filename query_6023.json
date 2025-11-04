@@ -1,0 +1,10 @@
+{
+  "query": "When was the American Bar Association founded?",
+  "response": [
+    "doc_530.txt",
+    "doc_11570.txt",
+    "doc_3191.txt",
+    "doc_1258.txt",
+    "doc_12587.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Does it know what purposes Austria’s contribution to the EU’s agricultural budget is being used for?",
+  "response": [
+    "doc_9090.txt",
+    "doc_2378.txt",
+    "doc_6953.txt",
+    "doc_418.txt",
+    "doc_16810.txt"
+  ]
+}

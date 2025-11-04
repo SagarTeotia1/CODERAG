@@ -1,0 +1,10 @@
+{
+  "query": "What Council Decision outlines the rules regarding access to EU classified information?",
+  "response": [
+    "doc_26638.txt",
+    "doc_29369.txt",
+    "doc_35783.txt",
+    "doc_39011.txt",
+    "doc_2661.txt"
+  ]
+}

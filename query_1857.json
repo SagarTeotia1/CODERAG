@@ -1,0 +1,10 @@
+{
+  "query": "What degree was George H.W. Bush as a Mason?",
+  "response": [
+    "doc_31801.txt",
+    "doc_30289.txt",
+    "doc_30284.txt",
+    "doc_31793.txt",
+    "doc_30293.txt"
+  ]
+}

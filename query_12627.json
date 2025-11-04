@@ -1,0 +1,10 @@
+{
+  "query": "Which Belgian label released several of Martinsen’s early 12” EPs in the 1990s?",
+  "response": [
+    "doc_21739.txt",
+    "doc_34425.txt",
+    "doc_34426.txt",
+    "doc_17901.txt",
+    "doc_36258.txt"
+  ]
+}

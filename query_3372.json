@@ -1,0 +1,10 @@
+{
+  "query": "Which bowl game featured Boise State and East Carolina in 2007?",
+  "response": [
+    "doc_35444.txt",
+    "doc_35445.txt",
+    "doc_35443.txt",
+    "doc_15074.txt",
+    "doc_21538.txt"
+  ]
+}

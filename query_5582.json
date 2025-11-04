@@ -1,0 +1,10 @@
+{
+  "query": "For what types of performances did Vivien Leigh receive awards?",
+  "response": [
+    "doc_4239.txt",
+    "doc_4240.txt",
+    "doc_34355.txt",
+    "doc_36908.txt",
+    "doc_33209.txt"
+  ]
+}

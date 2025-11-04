@@ -1,0 +1,10 @@
+{
+  "query": "What award did Ray Martin win two years in a row while playing for Birmingham City?",
+  "response": [
+    "doc_16966.txt",
+    "doc_16759.txt",
+    "doc_1309.txt",
+    "doc_14700.txt",
+    "doc_40208.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which countries are generally considered part of the Global North according to the passage?",
+  "response": [
+    "doc_33279.txt",
+    "doc_24735.txt",
+    "doc_33278.txt",
+    "doc_33274.txt",
+    "doc_15365.txt"
+  ]
+}

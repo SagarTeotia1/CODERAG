@@ -1,0 +1,10 @@
+{
+  "query": "When was Hertz's book describing Hope's sapphire published?",
+  "response": [
+    "doc_7022.txt",
+    "doc_24321.txt",
+    "doc_7023.txt",
+    "doc_24325.txt",
+    "doc_24324.txt"
+  ]
+}

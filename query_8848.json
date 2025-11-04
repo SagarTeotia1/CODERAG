@@ -1,0 +1,10 @@
+{
+  "query": "What is the title of the book that Christopher Smart wrote?",
+  "response": [
+    "doc_12426.txt",
+    "doc_19742.txt",
+    "doc_6997.txt",
+    "doc_17739.txt",
+    "doc_35061.txt"
+  ]
+}

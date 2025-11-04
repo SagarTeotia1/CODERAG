@@ -1,0 +1,10 @@
+{
+  "query": "Which organizations have awarded Academic All-American recognition since 1957?",
+  "response": [
+    "doc_31419.txt",
+    "doc_30948.txt",
+    "doc_30944.txt",
+    "doc_27301.txt",
+    "doc_25631.txt"
+  ]
+}

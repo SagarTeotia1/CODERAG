@@ -1,0 +1,10 @@
+{
+  "query": "What song does Justin Guarini reference being similar to \"PYT\" in the provided text?",
+  "response": [
+    "doc_4896.txt",
+    "doc_4889.txt",
+    "doc_4898.txt",
+    "doc_4890.txt",
+    "doc_4897.txt"
+  ]
+}

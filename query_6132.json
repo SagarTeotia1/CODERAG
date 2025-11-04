@@ -1,0 +1,10 @@
+{
+  "query": "What year was “Franco, Ciccio e il pirata Barbanera” released?",
+  "response": [
+    "doc_24498.txt",
+    "doc_10222.txt",
+    "doc_10219.txt",
+    "doc_10220.txt",
+    "doc_1489.txt"
+  ]
+}

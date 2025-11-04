@@ -1,0 +1,10 @@
+{
+  "query": "What was the purpose of the “Alice films”?",
+  "response": [
+    "doc_5212.txt",
+    "doc_2180.txt",
+    "doc_5632.txt",
+    "doc_15835.txt",
+    "doc_15838.txt"
+  ]
+}

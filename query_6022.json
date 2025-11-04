@@ -1,0 +1,10 @@
+{
+  "query": "What is the primary function of the EU’s pharmacovigilance system?",
+  "response": [
+    "doc_18.txt",
+    "doc_14586.txt",
+    "doc_8101.txt",
+    "doc_39502.txt",
+    "doc_5900.txt"
+  ]
+}

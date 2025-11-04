@@ -1,0 +1,10 @@
+{
+  "query": "According to the Cogprints article on Complex Systems Theory, what can cause systems to exhibit erratic behavior?",
+  "response": [
+    "doc_8843.txt",
+    "doc_38244.txt",
+    "doc_38251.txt",
+    "doc_23669.txt",
+    "doc_8842.txt"
+  ]
+}

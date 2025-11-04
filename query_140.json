@@ -1,0 +1,10 @@
+{
+  "query": "What team did Napier make as a rookie?",
+  "response": [
+    "doc_35240.txt",
+    "doc_14699.txt",
+    "doc_14698.txt",
+    "doc_9013.txt",
+    "doc_9012.txt"
+  ]
+}

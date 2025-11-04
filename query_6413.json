@@ -1,0 +1,10 @@
+{
+  "query": "What year did Far Corporation release its first album, Division One?",
+  "response": [
+    "doc_38411.txt",
+    "doc_37148.txt",
+    "doc_33756.txt",
+    "doc_24294.txt",
+    "doc_22663.txt"
+  ]
+}

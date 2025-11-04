@@ -1,0 +1,10 @@
+{
+  "query": "In what country does the number of sudden cardiac deaths exceed that of Sweden?",
+  "response": [
+    "doc_11890.txt",
+    "doc_17239.txt",
+    "doc_36266.txt",
+    "doc_7612.txt",
+    "doc_15363.txt"
+  ]
+}

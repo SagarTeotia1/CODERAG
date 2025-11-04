@@ -1,0 +1,10 @@
+{
+  "query": "What type of committee was established by the European Parliament regarding foot-and-mouth disease?",
+  "response": [
+    "doc_10184.txt",
+    "doc_15752.txt",
+    "doc_12524.txt",
+    "doc_2294.txt",
+    "doc_3295.txt"
+  ]
+}

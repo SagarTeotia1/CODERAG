@@ -1,0 +1,10 @@
+{
+  "query": "What commission did Riggs hold?",
+  "response": [
+    "doc_11181.txt",
+    "doc_27069.txt",
+    "doc_12832.txt",
+    "doc_11572.txt",
+    "doc_27062.txt"
+  ]
+}

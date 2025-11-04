@@ -1,0 +1,10 @@
+{
+  "query": "In what year was Junior Tucker born?",
+  "response": [
+    "doc_34141.txt",
+    "doc_34140.txt",
+    "doc_38863.txt",
+    "doc_38474.txt",
+    "doc_23706.txt"
+  ]
+}

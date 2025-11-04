@@ -1,0 +1,10 @@
+{
+  "query": "Where did Franz Liszt die?",
+  "response": [
+    "doc_15957.txt",
+    "doc_15959.txt",
+    "doc_15961.txt",
+    "doc_15958.txt",
+    "doc_36647.txt"
+  ]
+}

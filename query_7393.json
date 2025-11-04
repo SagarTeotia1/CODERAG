@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how many Lao Hmong are currently being detained in the Huay Nam Khao camp?",
+  "response": [
+    "doc_8832.txt",
+    "doc_8834.txt",
+    "doc_8833.txt",
+    "doc_38133.txt",
+    "doc_27276.txt"
+  ]
+}

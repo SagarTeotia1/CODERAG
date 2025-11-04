@@ -1,0 +1,10 @@
+{
+  "query": "Which countries, besides the United States, have utilized the L1A1 Self-Loading Rifle?",
+  "response": [
+    "doc_23170.txt",
+    "doc_19896.txt",
+    "doc_23171.txt",
+    "doc_23172.txt",
+    "doc_33110.txt"
+  ]
+}

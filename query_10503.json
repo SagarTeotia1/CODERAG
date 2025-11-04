@@ -1,0 +1,10 @@
+{
+  "query": "What is the minimum income requirement for a Blue Card holder in the EU, and how does this compare to the average salary in the host country?",
+  "response": [
+    "doc_16481.txt",
+    "doc_16480.txt",
+    "doc_12748.txt",
+    "doc_12739.txt",
+    "doc_12746.txt"
+  ]
+}

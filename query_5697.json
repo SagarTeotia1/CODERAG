@@ -1,0 +1,10 @@
+{
+  "query": "Which sea does Malta lie within?",
+  "response": [
+    "doc_4578.txt",
+    "doc_4580.txt",
+    "doc_4574.txt",
+    "doc_4577.txt",
+    "doc_4582.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What family of languages does the Greenlandic language belong to, and what is another language within that family spoken in Alaska?",
+  "response": [
+    "doc_19155.txt",
+    "doc_19158.txt",
+    "doc_19159.txt",
+    "doc_19156.txt",
+    "doc_19160.txt"
+  ]
+}

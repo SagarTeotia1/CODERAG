@@ -1,0 +1,10 @@
+{
+  "query": "What type of play resulted in Francisco Lindor scoring in June 2016?",
+  "response": [
+    "doc_32761.txt",
+    "doc_32762.txt",
+    "doc_32760.txt",
+    "doc_31474.txt",
+    "doc_38340.txt"
+  ]
+}

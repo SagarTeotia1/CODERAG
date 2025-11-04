@@ -1,0 +1,10 @@
+{
+  "query": "What does the US Department of Agriculture consider important in the scientific process?",
+  "response": [
+    "doc_25728.txt",
+    "doc_33697.txt",
+    "doc_29492.txt",
+    "doc_29491.txt",
+    "doc_33694.txt"
+  ]
+}

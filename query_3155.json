@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Princess Grace die, and how did she die?",
+  "response": [
+    "doc_34945.txt",
+    "doc_14143.txt",
+    "doc_34946.txt",
+    "doc_34949.txt",
+    "doc_34947.txt"
+  ]
+}

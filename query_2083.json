@@ -1,0 +1,10 @@
+{
+  "query": "What types of species have been observed at the bottom of the Mariana Trench?",
+  "response": [
+    "doc_27438.txt",
+    "doc_38755.txt",
+    "doc_7473.txt",
+    "doc_32889.txt",
+    "doc_26101.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the Hult Prize and who established it?",
+  "response": [
+    "doc_11558.txt",
+    "doc_40030.txt",
+    "doc_40032.txt",
+    "doc_11564.txt",
+    "doc_15795.txt"
+  ]
+}

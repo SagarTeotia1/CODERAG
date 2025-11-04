@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided text, what is the origin of the phrase “Grinning like a Cheshire Cat”?",
+  "response": [
+    "doc_15424.txt",
+    "doc_15427.txt",
+    "doc_15425.txt",
+    "doc_15428.txt",
+    "doc_15426.txt"
+  ]
+}

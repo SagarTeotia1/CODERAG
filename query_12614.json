@@ -1,0 +1,10 @@
+{
+  "query": "Which film featured Claire Gordon in a leading role?",
+  "response": [
+    "doc_244.txt",
+    "doc_11647.txt",
+    "doc_27030.txt",
+    "doc_27032.txt",
+    "doc_39544.txt"
+  ]
+}

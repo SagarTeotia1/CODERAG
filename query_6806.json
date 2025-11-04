@@ -1,0 +1,10 @@
+{
+  "query": "What was the primary issue identified in the letter sent by a JRC union on March 3, 2008?",
+  "response": [
+    "doc_35025.txt",
+    "doc_9943.txt",
+    "doc_4856.txt",
+    "doc_9945.txt",
+    "doc_35026.txt"
+  ]
+}

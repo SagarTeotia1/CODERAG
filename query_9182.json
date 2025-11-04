@@ -1,0 +1,10 @@
+{
+  "query": "Which companies are accusing Samsung of patent infringement?",
+  "response": [
+    "doc_10579.txt",
+    "doc_10571.txt",
+    "doc_10574.txt",
+    "doc_10572.txt",
+    "doc_24338.txt"
+  ]
+}

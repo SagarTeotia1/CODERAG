@@ -1,0 +1,10 @@
+{
+  "query": "Who was Dom Perignon, and what was his role related to champagne production?",
+  "response": [
+    "doc_126.txt",
+    "doc_21095.txt",
+    "doc_1886.txt",
+    "doc_130.txt",
+    "doc_125.txt"
+  ]
+}

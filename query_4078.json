@@ -1,0 +1,10 @@
+{
+  "query": "When were Sarah Jones and Jennifer White selected?",
+  "response": [
+    "doc_11576.txt",
+    "doc_11573.txt",
+    "doc_11574.txt",
+    "doc_11570.txt",
+    "doc_11571.txt"
+  ]
+}

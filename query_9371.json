@@ -1,0 +1,10 @@
+{
+  "query": "Which mountain ranges are included in the areas dropped from the Natura 2000 list by the Bulgarian Ministry of Environment and Water?",
+  "response": [
+    "doc_13716.txt",
+    "doc_28647.txt",
+    "doc_15101.txt",
+    "doc_4055.txt",
+    "doc_35150.txt"
+  ]
+}

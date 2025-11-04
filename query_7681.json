@@ -1,0 +1,10 @@
+{
+  "query": "In what country was Shawn Budd born, and what notable titles has he won there?",
+  "response": [
+    "doc_14949.txt",
+    "doc_14948.txt",
+    "doc_14947.txt",
+    "doc_35928.txt",
+    "doc_35253.txt"
+  ]
+}

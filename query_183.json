@@ -1,0 +1,10 @@
+{
+  "query": "What did Sinclair announce after his defeat?",
+  "response": [
+    "doc_22762.txt",
+    "doc_2937.txt",
+    "doc_1310.txt",
+    "doc_32945.txt",
+    "doc_2343.txt"
+  ]
+}

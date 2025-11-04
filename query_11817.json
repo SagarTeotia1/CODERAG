@@ -1,0 +1,10 @@
+{
+  "query": "What is the Munster Express’s connection to the Azzurri Sport jerseys?",
+  "response": [
+    "doc_19790.txt",
+    "doc_19789.txt",
+    "doc_1313.txt",
+    "doc_1310.txt",
+    "doc_1309.txt"
+  ]
+}

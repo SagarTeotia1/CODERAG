@@ -1,0 +1,10 @@
+{
+  "query": "In what city did Henrik Ibsen move to in 1850?",
+  "response": [
+    "doc_7161.txt",
+    "doc_7160.txt",
+    "doc_2798.txt",
+    "doc_2796.txt",
+    "doc_2791.txt"
+  ]
+}

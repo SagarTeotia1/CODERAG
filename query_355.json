@@ -1,0 +1,10 @@
+{
+  "query": "When was the “Beethoven Gesamtausgabe” published?",
+  "response": [
+    "doc_20339.txt",
+    "doc_25022.txt",
+    "doc_39120.txt",
+    "doc_35288.txt",
+    "doc_24954.txt"
+  ]
+}

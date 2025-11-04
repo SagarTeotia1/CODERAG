@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of the world’s annual vodka production do Russians consume, based on information provided in the passage?",
+  "response": [
+    "doc_5066.txt",
+    "doc_5065.txt",
+    "doc_27772.txt",
+    "doc_17191.txt",
+    "doc_24565.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which African Footballer of the Year was Emmanuel Adebayor while playing at Arsenal?",
+  "response": [
+    "doc_33811.txt",
+    "doc_14726.txt",
+    "doc_40209.txt",
+    "doc_40210.txt",
+    "doc_40208.txt"
+  ]
+}

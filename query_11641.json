@@ -1,0 +1,10 @@
+{
+  "query": "What specific restriction in German law prevents mail-order pharmacies from establishing branches in other EU countries?",
+  "response": [
+    "doc_19266.txt",
+    "doc_24973.txt",
+    "doc_25787.txt",
+    "doc_26863.txt",
+    "doc_32247.txt"
+  ]
+}

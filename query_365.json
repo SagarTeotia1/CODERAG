@@ -1,0 +1,10 @@
+{
+  "query": "What is the approximate elevation of Charrúa Ridge?",
+  "response": [
+    "doc_30905.txt",
+    "doc_30911.txt",
+    "doc_30909.txt",
+    "doc_10181.txt",
+    "doc_10327.txt"
+  ]
+}

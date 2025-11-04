@@ -1,0 +1,10 @@
+{
+  "query": "In what year did the ValuJet Flight 592 crash occur?",
+  "response": [
+    "doc_23705.txt",
+    "doc_23706.txt",
+    "doc_23707.txt",
+    "doc_23702.txt",
+    "doc_27122.txt"
+  ]
+}

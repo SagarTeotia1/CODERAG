@@ -1,0 +1,10 @@
+{
+  "query": "What types of media are listed in the “Library - Patrick Lewis” link?",
+  "response": [
+    "doc_32340.txt",
+    "doc_13525.txt",
+    "doc_22106.txt",
+    "doc_22110.txt",
+    "doc_7278.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which film earned Vikram a Filmfare Best Actor Award?",
+  "response": [
+    "doc_11372.txt",
+    "doc_11373.txt",
+    "doc_30207.txt",
+    "doc_23210.txt",
+    "doc_23946.txt"
+  ]
+}

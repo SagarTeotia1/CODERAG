@@ -1,0 +1,10 @@
+{
+  "query": "What type of art has Ross Watson’s work been inspired by?",
+  "response": [
+    "doc_38967.txt",
+    "doc_3062.txt",
+    "doc_15306.txt",
+    "doc_26199.txt",
+    "doc_3064.txt"
+  ]
+}

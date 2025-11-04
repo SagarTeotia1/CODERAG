@@ -1,0 +1,10 @@
+{
+  "query": "In what literary style are Hans Fallada’s works predominantly classified?",
+  "response": [
+    "doc_23860.txt",
+    "doc_36032.txt",
+    "doc_11560.txt",
+    "doc_11553.txt",
+    "doc_11561.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Who travels to Brussels or Strasbourg to attend EU meetings?",
+  "response": [
+    "doc_22088.txt",
+    "doc_29174.txt",
+    "doc_4198.txt",
+    "doc_29159.txt",
+    "doc_32915.txt"
+  ]
+}

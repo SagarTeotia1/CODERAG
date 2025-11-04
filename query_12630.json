@@ -1,0 +1,10 @@
+{
+  "query": "For which water supply project in Granada, Andalucia, is the Commission being asked for execution figures?",
+  "response": [
+    "doc_21744.txt",
+    "doc_9985.txt",
+    "doc_2178.txt",
+    "doc_23422.txt",
+    "doc_35119.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What regulatory framework should the European and Developing Countries Clinical Trials Partnership (EDCTP) adhere to regarding clinical trials?",
+  "response": [
+    "doc_2109.txt",
+    "doc_2091.txt",
+    "doc_5901.txt",
+    "doc_2110.txt",
+    "doc_2111.txt"
+  ]
+}

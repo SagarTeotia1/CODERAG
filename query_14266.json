@@ -1,0 +1,10 @@
+{
+  "query": "Who was the chairman of the PLO executive committee in 1969, and what organization did he lead?",
+  "response": [
+    "doc_2453.txt",
+    "doc_23310.txt",
+    "doc_2462.txt",
+    "doc_23307.txt",
+    "doc_23308.txt"
+  ]
+}

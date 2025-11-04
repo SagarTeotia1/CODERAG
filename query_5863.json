@@ -1,0 +1,10 @@
+{
+  "query": "Established in what year is Cathay Pacific Airways?",
+  "response": [
+    "doc_5034.txt",
+    "doc_5035.txt",
+    "doc_3410.txt",
+    "doc_3405.txt",
+    "doc_3408.txt"
+  ]
+}

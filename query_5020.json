@@ -1,0 +1,10 @@
+{
+  "query": "What specific Council of Europe recommendations are referenced in this resolution regarding Chechnya?",
+  "response": [
+    "doc_39359.txt",
+    "doc_29940.txt",
+    "doc_29941.txt",
+    "doc_34774.txt",
+    "doc_33795.txt"
+  ]
+}

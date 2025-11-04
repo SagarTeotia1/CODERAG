@@ -1,0 +1,10 @@
+{
+  "query": "What radio show did Pearl Thusi host before her own weekday show on 5FM?",
+  "response": [
+    "doc_5629.txt",
+    "doc_26175.txt",
+    "doc_9726.txt",
+    "doc_27868.txt",
+    "doc_24382.txt"
+  ]
+}

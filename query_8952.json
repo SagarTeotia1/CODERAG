@@ -1,0 +1,10 @@
+{
+  "query": "What year did Alex Higgins win the World Championship?",
+  "response": [
+    "doc_12728.txt",
+    "doc_12457.txt",
+    "doc_35045.txt",
+    "doc_1311.txt",
+    "doc_35040.txt"
+  ]
+}

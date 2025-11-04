@@ -1,0 +1,10 @@
+{
+  "query": "Does the President of the Commission support Commissioner Verheugen?",
+  "response": [
+    "doc_16858.txt",
+    "doc_18719.txt",
+    "doc_37294.txt",
+    "doc_27277.txt",
+    "doc_37730.txt"
+  ]
+}

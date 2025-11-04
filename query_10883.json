@@ -1,0 +1,10 @@
+{
+  "query": "What is Emily Carter’s position at Princeton University?",
+  "response": [
+    "doc_182.txt",
+    "doc_6196.txt",
+    "doc_183.txt",
+    "doc_6195.txt",
+    "doc_184.txt"
+  ]
+}

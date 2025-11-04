@@ -1,0 +1,10 @@
+{
+  "query": "In what city and arena was the 2011 NBA All-Star Game held?",
+  "response": [
+    "doc_14929.txt",
+    "doc_14930.txt",
+    "doc_12346.txt",
+    "doc_19265.txt",
+    "doc_9012.txt"
+  ]
+}

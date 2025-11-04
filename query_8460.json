@@ -1,0 +1,10 @@
+{
+  "query": "What year was \"The Night Club\" released?",
+  "response": [
+    "doc_19043.txt",
+    "doc_8222.txt",
+    "doc_31623.txt",
+    "doc_15001.txt",
+    "doc_31970.txt"
+  ]
+}

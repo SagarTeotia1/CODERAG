@@ -1,0 +1,10 @@
+{
+  "query": "Which countries were recently declared to have deficient veterinary schools by the Joint Education Committee?",
+  "response": [
+    "doc_33408.txt",
+    "doc_38524.txt",
+    "doc_2176.txt",
+    "doc_8541.txt",
+    "doc_13747.txt"
+  ]
+}

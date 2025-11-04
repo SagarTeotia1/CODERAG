@@ -1,0 +1,10 @@
+{
+  "query": "Is the Turkish Prime Minister Erdogan committed to bringing back the ‘turban’?",
+  "response": [
+    "doc_24940.txt",
+    "doc_19723.txt",
+    "doc_19726.txt",
+    "doc_19724.txt",
+    "doc_19722.txt"
+  ]
+}

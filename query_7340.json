@@ -1,0 +1,10 @@
+{
+  "query": "What was the price of the lapel watch sold to James Ryan?",
+  "response": [
+    "doc_30281.txt",
+    "doc_28741.txt",
+    "doc_28740.txt",
+    "doc_35147.txt",
+    "doc_30280.txt"
+  ]
+}

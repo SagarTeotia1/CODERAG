@@ -1,0 +1,10 @@
+{
+  "query": "Which film featured scenes shot at Cook County Hospital?",
+  "response": [
+    "doc_6393.txt",
+    "doc_6394.txt",
+    "doc_3479.txt",
+    "doc_3476.txt",
+    "doc_3480.txt"
+  ]
+}

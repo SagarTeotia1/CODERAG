@@ -1,0 +1,10 @@
+{
+  "query": "What was the conclusion of the CHMP regarding the benefit-risk profile of centrally-approved medicines based on further information from Servier?",
+  "response": [
+    "doc_8101.txt",
+    "doc_5121.txt",
+    "doc_3355.txt",
+    "doc_33293.txt",
+    "doc_19848.txt"
+  ]
+}

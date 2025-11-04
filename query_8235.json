@@ -1,0 +1,10 @@
+{
+  "query": "What color baseball cap did Spike Lee request instead of the traditional one?",
+  "response": [
+    "doc_10994.txt",
+    "doc_10993.txt",
+    "doc_10995.txt",
+    "doc_17673.txt",
+    "doc_17666.txt"
+  ]
+}

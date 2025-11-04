@@ -1,0 +1,10 @@
+{
+  "query": "According to the report by Amnesty International, how many people were sentenced to death and executed in Iraq during 2006, 2007, and 2008?",
+  "response": [
+    "doc_5938.txt",
+    "doc_14102.txt",
+    "doc_14100.txt",
+    "doc_14101.txt",
+    "doc_30302.txt"
+  ]
+}

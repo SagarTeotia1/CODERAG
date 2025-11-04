@@ -1,0 +1,10 @@
+{
+  "query": "Which university bought the Robert Morris University branch campus?",
+  "response": [
+    "doc_10803.txt",
+    "doc_10804.txt",
+    "doc_24636.txt",
+    "doc_17909.txt",
+    "doc_1331.txt"
+  ]
+}

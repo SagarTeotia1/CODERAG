@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of household waste does the UK send to landfills?",
+  "response": [
+    "doc_9304.txt",
+    "doc_2821.txt",
+    "doc_5494.txt",
+    "doc_23560.txt",
+    "doc_9633.txt"
+  ]
+}

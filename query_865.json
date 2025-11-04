@@ -1,0 +1,10 @@
+{
+  "query": "What type of motor did the Wright brothers’ 1903 aircraft use?",
+  "response": [
+    "doc_29420.txt",
+    "doc_29418.txt",
+    "doc_29422.txt",
+    "doc_29421.txt",
+    "doc_29426.txt"
+  ]
+}

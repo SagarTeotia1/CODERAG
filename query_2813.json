@@ -1,0 +1,10 @@
+{
+  "query": "What was the final score of the City Bowl game?",
+  "response": [
+    "doc_27295.txt",
+    "doc_27296.txt",
+    "doc_12459.txt",
+    "doc_12466.txt",
+    "doc_12460.txt"
+  ]
+}

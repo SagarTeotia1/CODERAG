@@ -1,0 +1,10 @@
+{
+  "query": "What type of process is Morocco’s autonomy plan described as, according to the document?",
+  "response": [
+    "doc_6937.txt",
+    "doc_9067.txt",
+    "doc_28347.txt",
+    "doc_25462.txt",
+    "doc_4082.txt"
+  ]
+}

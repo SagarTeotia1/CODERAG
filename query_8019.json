@@ -1,0 +1,10 @@
+{
+  "query": "How many current Hockey Hall of Fame members were on the Blues during the season?",
+  "response": [
+    "doc_10461.txt",
+    "doc_10462.txt",
+    "doc_10459.txt",
+    "doc_30111.txt",
+    "doc_20187.txt"
+  ]
+}

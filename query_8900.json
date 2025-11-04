@@ -1,0 +1,10 @@
+{
+  "query": "What was the initial purpose of Kleenex when it was first introduced?",
+  "response": [
+    "doc_12568.txt",
+    "doc_12566.txt",
+    "doc_12569.txt",
+    "doc_12567.txt",
+    "doc_12570.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was Sue Enquist's career batting average while playing for UCLA?",
+  "response": [
+    "doc_7465.txt",
+    "doc_35260.txt",
+    "doc_32184.txt",
+    "doc_8294.txt",
+    "doc_14708.txt"
+  ]
+}

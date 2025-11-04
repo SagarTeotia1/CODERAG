@@ -1,0 +1,10 @@
+{
+  "query": "What is the maximum sulphur content of petrol, as prescribed by the Fuel Quality Directive?",
+  "response": [
+    "doc_9471.txt",
+    "doc_22082.txt",
+    "doc_12193.txt",
+    "doc_22081.txt",
+    "doc_5388.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "How many number one hits did Kathy Mattea achieve on the country chart?",
+  "response": [
+    "doc_27493.txt",
+    "doc_27492.txt",
+    "doc_13762.txt",
+    "doc_38859.txt",
+    "doc_13761.txt"
+  ]
+}

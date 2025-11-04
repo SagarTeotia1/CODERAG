@@ -1,0 +1,10 @@
+{
+  "query": "According to the notes, what was Willie Moore’s age when he composed “Man of Constant Sorrow”?",
+  "response": [
+    "doc_3117.txt",
+    "doc_3123.txt",
+    "doc_10685.txt",
+    "doc_10689.txt",
+    "doc_3118.txt"
+  ]
+}

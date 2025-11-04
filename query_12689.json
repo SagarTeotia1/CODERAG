@@ -1,0 +1,10 @@
+{
+  "query": "Which countries are participating in the EDCTP programme?",
+  "response": [
+    "doc_2104.txt",
+    "doc_2090.txt",
+    "doc_2114.txt",
+    "doc_2100.txt",
+    "doc_2108.txt"
+  ]
+}

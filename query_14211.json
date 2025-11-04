@@ -1,0 +1,10 @@
+{
+  "query": "How many wins does Akron have this season when scoring 70 or more points?",
+  "response": [
+    "doc_25626.txt",
+    "doc_25625.txt",
+    "doc_9021.txt",
+    "doc_25627.txt",
+    "doc_25628.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Who wrote the poem “A Visit from St. Nicholas,” often referred to as “'Twas the Night Before Christmas”?",
+  "response": [
+    "doc_34462.txt",
+    "doc_34465.txt",
+    "doc_34466.txt",
+    "doc_34461.txt",
+    "doc_34463.txt"
+  ]
+}

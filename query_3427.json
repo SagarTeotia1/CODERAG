@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the poem “Wherever I wander, wherever I rove, The hills of the Highlands for ever I love” written?",
+  "response": [
+    "doc_35567.txt",
+    "doc_35569.txt",
+    "doc_35570.txt",
+    "doc_35568.txt",
+    "doc_23909.txt"
+  ]
+}

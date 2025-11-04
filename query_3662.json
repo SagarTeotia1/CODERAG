@@ -1,0 +1,10 @@
+{
+  "query": "What is the location of the original copy of the Gilbert schema for “Ulysses”?",
+  "response": [
+    "doc_21449.txt",
+    "doc_21447.txt",
+    "doc_21443.txt",
+    "doc_21441.txt",
+    "doc_21442.txt"
+  ]
+}

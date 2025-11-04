@@ -1,0 +1,10 @@
+{
+  "query": "What specific action did the EU Delegation in Cairo take to investigate the situation?",
+  "response": [
+    "doc_1342.txt",
+    "doc_31314.txt",
+    "doc_35389.txt",
+    "doc_9822.txt",
+    "doc_15057.txt"
+  ]
+}

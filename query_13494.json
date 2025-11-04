@@ -1,0 +1,10 @@
+{
+  "query": "Who consecrated Bishop Montini in St. Peter’s Basilica?",
+  "response": [
+    "doc_23798.txt",
+    "doc_23795.txt",
+    "doc_23796.txt",
+    "doc_23797.txt",
+    "doc_33017.txt"
+  ]
+}

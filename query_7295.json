@@ -1,0 +1,10 @@
+{
+  "query": "How many times a minute can Alberto Hidalgo tap his feet?",
+  "response": [
+    "doc_8565.txt",
+    "doc_8562.txt",
+    "doc_32975.txt",
+    "doc_26280.txt",
+    "doc_26285.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what is the estimated number of victims associated with Luis Alfredo Garavito?",
+  "response": [
+    "doc_27608.txt",
+    "doc_2066.txt",
+    "doc_27604.txt",
+    "doc_13016.txt",
+    "doc_12214.txt"
+  ]
+}

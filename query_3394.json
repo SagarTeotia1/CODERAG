@@ -1,0 +1,10 @@
+{
+  "query": "Which municipalities did not submit any projects for co-financing under the LIFE III programme from 2004?",
+  "response": [
+    "doc_35477.txt",
+    "doc_23420.txt",
+    "doc_13249.txt",
+    "doc_32575.txt",
+    "doc_8955.txt"
+  ]
+}

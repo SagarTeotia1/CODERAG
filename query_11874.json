@@ -1,0 +1,10 @@
+{
+  "query": "What is the original proposed implementation deadline according to the Commission?",
+  "response": [
+    "doc_19959.txt",
+    "doc_29246.txt",
+    "doc_11827.txt",
+    "doc_228.txt",
+    "doc_5272.txt"
+  ]
+}

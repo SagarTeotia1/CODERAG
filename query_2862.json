@@ -1,0 +1,10 @@
+{
+  "query": "What does the passage state Artemis represents?",
+  "response": [
+    "doc_34303.txt",
+    "doc_34302.txt",
+    "doc_34307.txt",
+    "doc_34300.txt",
+    "doc_34306.txt"
+  ]
+}

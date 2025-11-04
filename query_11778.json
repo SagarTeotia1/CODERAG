@@ -1,0 +1,10 @@
+{
+  "query": "What was the date of the EU-US Summit held in Washington?",
+  "response": [
+    "doc_12676.txt",
+    "doc_12675.txt",
+    "doc_19656.txt",
+    "doc_12677.txt",
+    "doc_19657.txt"
+  ]
+}

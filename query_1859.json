@@ -1,0 +1,10 @@
+{
+  "query": "What aircraft did Cooke unveil besides the Black Diamond?",
+  "response": [
+    "doc_31804.txt",
+    "doc_10018.txt",
+    "doc_10019.txt",
+    "doc_17407.txt",
+    "doc_10014.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What tire sizes are featured on the Porsche Panamera?",
+  "response": [
+    "doc_18445.txt",
+    "doc_35905.txt",
+    "doc_35904.txt",
+    "doc_35902.txt",
+    "doc_35903.txt"
+  ]
+}

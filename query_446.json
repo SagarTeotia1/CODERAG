@@ -1,0 +1,10 @@
+{
+  "query": "What is the EU legislature’s primary concern regarding consumer protection?",
+  "response": [
+    "doc_13626.txt",
+    "doc_15423.txt",
+    "doc_5788.txt",
+    "doc_10125.txt",
+    "doc_10124.txt"
+  ]
+}

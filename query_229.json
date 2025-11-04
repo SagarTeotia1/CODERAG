@@ -1,0 +1,10 @@
+{
+  "query": "What was the percentage decrease in chestnut production in the Veneto region last year?",
+  "response": [
+    "doc_34956.txt",
+    "doc_39249.txt",
+    "doc_28028.txt",
+    "doc_2776.txt",
+    "doc_33852.txt"
+  ]
+}

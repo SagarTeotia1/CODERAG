@@ -1,0 +1,10 @@
+{
+  "query": "What specific requirements must beef imports from Brazil meet to be allowed into the EU?",
+  "response": [
+    "doc_14599.txt",
+    "doc_23947.txt",
+    "doc_7478.txt",
+    "doc_6418.txt",
+    "doc_13745.txt"
+  ]
+}

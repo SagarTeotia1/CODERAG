@@ -1,0 +1,10 @@
+{
+  "query": "What is Bobby Byrne known for developing?",
+  "response": [
+    "doc_36708.txt",
+    "doc_21175.txt",
+    "doc_36712.txt",
+    "doc_36711.txt",
+    "doc_21174.txt"
+  ]
+}

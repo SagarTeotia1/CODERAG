@@ -1,0 +1,10 @@
+{
+  "query": "Which directive is the Irish National Development Plan 2007-13 allegedly in breach of?",
+  "response": [
+    "doc_28756.txt",
+    "doc_26272.txt",
+    "doc_35211.txt",
+    "doc_39535.txt",
+    "doc_14460.txt"
+  ]
+}

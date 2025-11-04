@@ -1,0 +1,10 @@
+{
+  "query": "What modal split did the Commission estimate for EU15 freight traffic in 2002?",
+  "response": [
+    "doc_16542.txt",
+    "doc_15125.txt",
+    "doc_3878.txt",
+    "doc_17518.txt",
+    "doc_10133.txt"
+  ]
+}

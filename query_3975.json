@@ -1,0 +1,10 @@
+{
+  "query": "What color was a dominant feature in Theo Constanté’s artwork?",
+  "response": [
+    "doc_7173.txt",
+    "doc_2841.txt",
+    "doc_38970.txt",
+    "doc_11421.txt",
+    "doc_26619.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of the UK’s total coal use came from Russia in 2007?",
+  "response": [
+    "doc_22597.txt",
+    "doc_26656.txt",
+    "doc_21508.txt",
+    "doc_16084.txt",
+    "doc_21509.txt"
+  ]
+}

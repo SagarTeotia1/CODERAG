@@ -1,0 +1,10 @@
+{
+  "query": "For which director was Sven Nykvist most notably known for his cinematography work?",
+  "response": [
+    "doc_24861.txt",
+    "doc_16090.txt",
+    "doc_16091.txt",
+    "doc_24860.txt",
+    "doc_19042.txt"
+  ]
+}

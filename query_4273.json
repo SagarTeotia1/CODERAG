@@ -1,0 +1,10 @@
+{
+  "query": "Which European Court of Justice ruling is being used to block tax reclaims in the UK?",
+  "response": [
+    "doc_37585.txt",
+    "doc_39896.txt",
+    "doc_5706.txt",
+    "doc_5577.txt",
+    "doc_32289.txt"
+  ]
+}

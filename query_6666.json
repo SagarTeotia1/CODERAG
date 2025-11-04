@@ -1,0 +1,10 @@
+{
+  "query": "What company initially provided the night shipping service between Palau and La Maddalena in 2004?",
+  "response": [
+    "doc_660.txt",
+    "doc_27152.txt",
+    "doc_20219.txt",
+    "doc_34985.txt",
+    "doc_6207.txt"
+  ]
+}

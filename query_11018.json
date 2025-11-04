@@ -1,0 +1,10 @@
+{
+  "query": "When was Mr. Barroso’s answer given on behalf of the Commission?",
+  "response": [
+    "doc_17665.txt",
+    "doc_36834.txt",
+    "doc_7373.txt",
+    "doc_21544.txt",
+    "doc_39809.txt"
+  ]
+}

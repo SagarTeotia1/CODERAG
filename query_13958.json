@@ -1,0 +1,10 @@
+{
+  "query": "What event is the Jewish section of Warsaw named for?",
+  "response": [
+    "doc_830.txt",
+    "doc_831.txt",
+    "doc_24967.txt",
+    "doc_24966.txt",
+    "doc_829.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What specific information did the committee request from the Financial Ombudsman Service regarding the complaints received from German and Irish policyholders?",
+  "response": [
+    "doc_1046.txt",
+    "doc_1059.txt",
+    "doc_1067.txt",
+    "doc_1063.txt",
+    "doc_966.txt"
+  ]
+}

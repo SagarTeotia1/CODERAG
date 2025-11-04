@@ -1,0 +1,10 @@
+{
+  "query": "What journal did Daly launch?",
+  "response": [
+    "doc_13776.txt",
+    "doc_13775.txt",
+    "doc_13777.txt",
+    "doc_38384.txt",
+    "doc_13774.txt"
+  ]
+}

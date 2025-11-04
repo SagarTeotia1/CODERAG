@@ -1,0 +1,10 @@
+{
+  "query": "Which song is described as a popular Christmas tune and a Julie Andrews favorite?",
+  "response": [
+    "doc_18212.txt",
+    "doc_18356.txt",
+    "doc_36302.txt",
+    "doc_5625.txt",
+    "doc_3436.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "At what age did John Hovick become a newspaperman?",
+  "response": [
+    "doc_13776.txt",
+    "doc_38385.txt",
+    "doc_13773.txt",
+    "doc_38381.txt",
+    "doc_7936.txt"
+  ]
+}

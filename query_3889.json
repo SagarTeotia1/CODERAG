@@ -1,0 +1,10 @@
+{
+  "query": "Where is Buzz Lightyear’s Space Ranger Spin located within Walt Disney World?",
+  "response": [
+    "doc_36665.txt",
+    "doc_36662.txt",
+    "doc_36664.txt",
+    "doc_36659.txt",
+    "doc_36661.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What radio program, hosted by Bob Kingsley, counts down the top 40 country songs each week?",
+  "response": [
+    "doc_34744.txt",
+    "doc_34745.txt",
+    "doc_29934.txt",
+    "doc_19180.txt",
+    "doc_36259.txt"
+  ]
+}

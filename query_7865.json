@@ -1,0 +1,10 @@
+{
+  "query": "Who is James H. Provost?",
+  "response": [
+    "doc_9961.txt",
+    "doc_8108.txt",
+    "doc_38620.txt",
+    "doc_38618.txt",
+    "doc_38613.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In 1804, this city became the seat of government of the Louisiana Territory.",
+  "response": [
+    "doc_20191.txt",
+    "doc_20193.txt",
+    "doc_20190.txt",
+    "doc_20189.txt",
+    "doc_20192.txt"
+  ]
+}

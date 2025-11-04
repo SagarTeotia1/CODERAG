@@ -1,0 +1,10 @@
+{
+  "query": "What was Bart Andrus’s win-loss record across all of his coaching positions?",
+  "response": [
+    "doc_14701.txt",
+    "doc_14696.txt",
+    "doc_25623.txt",
+    "doc_25633.txt",
+    "doc_14708.txt"
+  ]
+}

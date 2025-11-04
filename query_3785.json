@@ -1,0 +1,10 @@
+{
+  "query": "In what century was Thomas Aquinas born?",
+  "response": [
+    "doc_36428.txt",
+    "doc_36417.txt",
+    "doc_36419.txt",
+    "doc_36416.txt",
+    "doc_36421.txt"
+  ]
+}

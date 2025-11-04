@@ -1,0 +1,10 @@
+{
+  "query": "What is the title track of SpeXial’s album?",
+  "response": [
+    "doc_11205.txt",
+    "doc_11209.txt",
+    "doc_169.txt",
+    "doc_173.txt",
+    "doc_11207.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was the subject of the negotiations discussed at the Spring Summit?",
+  "response": [
+    "doc_3153.txt",
+    "doc_7337.txt",
+    "doc_19659.txt",
+    "doc_16260.txt",
+    "doc_5723.txt"
+  ]
+}

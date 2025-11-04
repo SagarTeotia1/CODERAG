@@ -1,0 +1,10 @@
+{
+  "query": "According to Article 2 of the PCA with Uzbekistan, what principles underpin the agreement’s internal and external policies?",
+  "response": [
+    "doc_30818.txt",
+    "doc_20812.txt",
+    "doc_30814.txt",
+    "doc_24158.txt",
+    "doc_30809.txt"
+  ]
+}

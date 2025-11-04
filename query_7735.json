@@ -1,0 +1,10 @@
+{
+  "query": "In what year was “The Bridges of Madison County” released?",
+  "response": [
+    "doc_9688.txt",
+    "doc_16426.txt",
+    "doc_16427.txt",
+    "doc_12498.txt",
+    "doc_12499.txt"
+  ]
+}

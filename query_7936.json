@@ -1,0 +1,10 @@
+{
+  "query": "Besides cargo, what other types of passengers did the Douglas C-54 Skymaster carry?",
+  "response": [
+    "doc_10192.txt",
+    "doc_20287.txt",
+    "doc_16692.txt",
+    "doc_20288.txt",
+    "doc_20289.txt"
+  ]
+}

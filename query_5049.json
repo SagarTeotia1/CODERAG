@@ -1,0 +1,10 @@
+{
+  "query": "What position did Salford play in rugby league?",
+  "response": [
+    "doc_39468.txt",
+    "doc_18656.txt",
+    "doc_18655.txt",
+    "doc_39466.txt",
+    "doc_1310.txt"
+  ]
+}

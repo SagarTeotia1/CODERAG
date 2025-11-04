@@ -1,0 +1,10 @@
+{
+  "query": "Which states are included in the drainage basin of the Bay described in the passage?",
+  "response": [
+    "doc_34753.txt",
+    "doc_36837.txt",
+    "doc_34754.txt",
+    "doc_23494.txt",
+    "doc_7771.txt"
+  ]
+}

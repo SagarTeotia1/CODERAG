@@ -1,0 +1,10 @@
+{
+  "query": "What television series did Carl Betz play Dr. Alex Stone in?",
+  "response": [
+    "doc_32969.txt",
+    "doc_3476.txt",
+    "doc_32968.txt",
+    "doc_32972.txt",
+    "doc_3485.txt"
+  ]
+}

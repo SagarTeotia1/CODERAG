@@ -1,0 +1,10 @@
+{
+  "query": "Which undergraduate chapter of Zeta Phi Beta Sorority, Inc. was chartered at Auburn University?",
+  "response": [
+    "doc_30949.txt",
+    "doc_30947.txt",
+    "doc_30946.txt",
+    "doc_30948.txt",
+    "doc_30944.txt"
+  ]
+}

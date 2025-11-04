@@ -1,0 +1,10 @@
+{
+  "query": "In what year did the Taormina Film Fest begin?",
+  "response": [
+    "doc_1161.txt",
+    "doc_4512.txt",
+    "doc_21809.txt",
+    "doc_7794.txt",
+    "doc_35022.txt"
+  ]
+}

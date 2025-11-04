@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of China’s rice crop is grown in a specific river basin?",
+  "response": [
+    "doc_13532.txt",
+    "doc_13536.txt",
+    "doc_13528.txt",
+    "doc_13535.txt",
+    "doc_13533.txt"
+  ]
+}

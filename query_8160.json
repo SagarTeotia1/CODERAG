@@ -1,0 +1,10 @@
+{
+  "query": "What is Lucy Lawless’s birthdate and place of birth?",
+  "response": [
+    "doc_10816.txt",
+    "doc_10815.txt",
+    "doc_10813.txt",
+    "doc_719.txt",
+    "doc_12255.txt"
+  ]
+}

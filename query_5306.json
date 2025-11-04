@@ -1,0 +1,10 @@
+{
+  "query": "What was the population of Highlands Ranch, Colorado, according to the 2010 census?",
+  "response": [
+    "doc_17333.txt",
+    "doc_6250.txt",
+    "doc_17332.txt",
+    "doc_794.txt",
+    "doc_15238.txt"
+  ]
+}

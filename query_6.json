@@ -1,0 +1,10 @@
+{
+  "query": "In the context of Article 10c of Directive 2009/29/EC, did the European Commission propose excluding combined heat and power installations?",
+  "response": [
+    "doc_27340.txt",
+    "doc_8080.txt",
+    "doc_20220.txt",
+    "doc_4838.txt",
+    "doc_7349.txt"
+  ]
+}

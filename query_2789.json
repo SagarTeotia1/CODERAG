@@ -1,0 +1,10 @@
+{
+  "query": "Which album by Jewel included the singles “Standing Still” and “Break Me”?",
+  "response": [
+    "doc_8234.txt",
+    "doc_33753.txt",
+    "doc_38900.txt",
+    "doc_22680.txt",
+    "doc_38901.txt"
+  ]
+}

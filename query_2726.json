@@ -1,0 +1,10 @@
+{
+  "query": "What type of mustard is used on a New York City Style hot dog?",
+  "response": [
+    "doc_34025.txt",
+    "doc_34028.txt",
+    "doc_34029.txt",
+    "doc_34027.txt",
+    "doc_34026.txt"
+  ]
+}

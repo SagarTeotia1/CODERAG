@@ -1,0 +1,10 @@
+{
+  "query": "What is the flagship beer produced by the Spoetzl Brewery?",
+  "response": [
+    "doc_29139.txt",
+    "doc_17194.txt",
+    "doc_29134.txt",
+    "doc_17192.txt",
+    "doc_29138.txt"
+  ]
+}

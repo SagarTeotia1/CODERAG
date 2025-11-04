@@ -1,0 +1,10 @@
+{
+  "query": "In what year did FDR first deliver the phrase “the only thing we have to fear is fear itself”?",
+  "response": [
+    "doc_33747.txt",
+    "doc_33750.txt",
+    "doc_33745.txt",
+    "doc_33748.txt",
+    "doc_33746.txt"
+  ]
+}

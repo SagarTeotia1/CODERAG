@@ -1,0 +1,10 @@
+{
+  "query": "How does the United States compare to Europe in terms of research and development spending as a percentage of GDP?",
+  "response": [
+    "doc_35331.txt",
+    "doc_15496.txt",
+    "doc_23250.txt",
+    "doc_31045.txt",
+    "doc_3570.txt"
+  ]
+}

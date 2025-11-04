@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how many deaths are caused by road traffic accidents in the EU each year?",
+  "response": [
+    "doc_4799.txt",
+    "doc_11276.txt",
+    "doc_22634.txt",
+    "doc_22635.txt",
+    "doc_20864.txt"
+  ]
+}

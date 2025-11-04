@@ -1,0 +1,10 @@
+{
+  "query": "When did Bobby Seale speak at Berkeley City College?",
+  "response": [
+    "doc_15326.txt",
+    "doc_15328.txt",
+    "doc_15329.txt",
+    "doc_15325.txt",
+    "doc_4921.txt"
+  ]
+}

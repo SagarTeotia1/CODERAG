@@ -1,0 +1,10 @@
+{
+  "query": "What apartment did Janet Wood, Chrissy Snow, and Jack Tripper share?",
+  "response": [
+    "doc_28512.txt",
+    "doc_28513.txt",
+    "doc_28514.txt",
+    "doc_28511.txt",
+    "doc_28515.txt"
+  ]
+}

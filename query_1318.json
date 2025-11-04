@@ -1,0 +1,10 @@
+{
+  "query": "What is the stance of the US Food and Drug Administration (FDA) regarding the potential dangers of cell phone use?",
+  "response": [
+    "doc_30521.txt",
+    "doc_39014.txt",
+    "doc_3124.txt",
+    "doc_12122.txt",
+    "doc_33666.txt"
+  ]
+}

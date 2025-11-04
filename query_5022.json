@@ -1,0 +1,10 @@
+{
+  "query": "When did Admiral Dewey enter Manila Bay?",
+  "response": [
+    "doc_39371.txt",
+    "doc_39367.txt",
+    "doc_39372.txt",
+    "doc_39361.txt",
+    "doc_39363.txt"
+  ]
+}

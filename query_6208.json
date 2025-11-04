@@ -1,0 +1,10 @@
+{
+  "query": "What are the names of the four characters that made up the Banana Splits?",
+  "response": [
+    "doc_5855.txt",
+    "doc_5854.txt",
+    "doc_5852.txt",
+    "doc_5853.txt",
+    "doc_5851.txt"
+  ]
+}

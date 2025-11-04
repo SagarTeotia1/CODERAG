@@ -1,0 +1,10 @@
+{
+  "query": "What type of industry is Duliajan primarily known for?",
+  "response": [
+    "doc_31413.txt",
+    "doc_31415.txt",
+    "doc_17762.txt",
+    "doc_5726.txt",
+    "doc_31414.txt"
+  ]
+}

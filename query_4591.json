@@ -1,0 +1,10 @@
+{
+  "query": "In 1801, what action did the Judiciary Act take?",
+  "response": [
+    "doc_38404.txt",
+    "doc_8469.txt",
+    "doc_38405.txt",
+    "doc_8971.txt",
+    "doc_8465.txt"
+  ]
+}

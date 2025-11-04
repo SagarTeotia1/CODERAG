@@ -1,0 +1,10 @@
+{
+  "query": "What is the nationality of Eugenio Calvarese?",
+  "response": [
+    "doc_9217.txt",
+    "doc_9216.txt",
+    "doc_9218.txt",
+    "doc_9219.txt",
+    "doc_34912.txt"
+  ]
+}

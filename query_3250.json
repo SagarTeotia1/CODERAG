@@ -1,0 +1,10 @@
+{
+  "query": "What type of trees are associated with the enormous trunks seen at the Science Museum?",
+  "response": [
+    "doc_663.txt",
+    "doc_29909.txt",
+    "doc_28027.txt",
+    "doc_35725.txt",
+    "doc_29914.txt"
+  ]
+}

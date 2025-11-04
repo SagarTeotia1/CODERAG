@@ -1,0 +1,10 @@
+{
+  "query": "What articles of the Ecodesign Directive are cited in relation to the boiler consultations?",
+  "response": [
+    "doc_20220.txt",
+    "doc_1445.txt",
+    "doc_20784.txt",
+    "doc_13711.txt",
+    "doc_22079.txt"
+  ]
+}

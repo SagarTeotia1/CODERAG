@@ -1,0 +1,10 @@
+{
+  "query": "Which ten Greek wetlands are specifically mentioned as presenting a concerning situation?",
+  "response": [
+    "doc_33867.txt",
+    "doc_38820.txt",
+    "doc_35717.txt",
+    "doc_17226.txt",
+    "doc_28180.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When was the League of Nations officially established?",
+  "response": [
+    "doc_21207.txt",
+    "doc_21208.txt",
+    "doc_21212.txt",
+    "doc_21211.txt",
+    "doc_21214.txt"
+  ]
+}

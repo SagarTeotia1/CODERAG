@@ -1,0 +1,10 @@
+{
+  "query": "What church did Yolanda King’s father, MLK Jr., join her grandfather as co-pastor of?",
+  "response": [
+    "doc_6903.txt",
+    "doc_6902.txt",
+    "doc_6904.txt",
+    "doc_6905.txt",
+    "doc_6906.txt"
+  ]
+}

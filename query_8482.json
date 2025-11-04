@@ -1,0 +1,10 @@
+{
+  "query": "What television series featured James Van Der Beek as Dawson Leery?",
+  "response": [
+    "doc_11552.txt",
+    "doc_3412.txt",
+    "doc_7366.txt",
+    "doc_11551.txt",
+    "doc_12634.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the NBC Symphony Orchestra created for Arturo Toscanini?",
+  "response": [
+    "doc_36970.txt",
+    "doc_36968.txt",
+    "doc_36969.txt",
+    "doc_36967.txt",
+    "doc_36965.txt"
+  ]
+}

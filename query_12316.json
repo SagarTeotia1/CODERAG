@@ -1,0 +1,10 @@
+{
+  "query": "What specific location within *The Pilgrim’s Progress* does the text describe as a “boggy mire-like swamp”?",
+  "response": [
+    "doc_20876.txt",
+    "doc_20872.txt",
+    "doc_20882.txt",
+    "doc_20871.txt",
+    "doc_20873.txt"
+  ]
+}

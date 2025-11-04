@@ -1,0 +1,10 @@
+{
+  "query": "From where should recruitment occur according to the Staff Regulations?",
+  "response": [
+    "doc_4141.txt",
+    "doc_17104.txt",
+    "doc_4241.txt",
+    "doc_8043.txt",
+    "doc_17420.txt"
+  ]
+}

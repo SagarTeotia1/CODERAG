@@ -1,0 +1,10 @@
+{
+  "query": "In the opinion of the Commission, what are the possible consequences of Greece exiting the Monetary Union?",
+  "response": [
+    "doc_8741.txt",
+    "doc_19410.txt",
+    "doc_28525.txt",
+    "doc_20720.txt",
+    "doc_16026.txt"
+  ]
+}

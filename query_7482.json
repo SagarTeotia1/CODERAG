@@ -1,0 +1,10 @@
+{
+  "query": "Besides football, what other sports can be played at Commonwealth Stadium in Edmonton?",
+  "response": [
+    "doc_38744.txt",
+    "doc_35015.txt",
+    "doc_38742.txt",
+    "doc_35007.txt",
+    "doc_4064.txt"
+  ]
+}

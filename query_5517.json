@@ -1,0 +1,10 @@
+{
+  "query": "What two publications reported on a new OLAF report regarding EU aid to the Palestinian autonomous areas?",
+  "response": [
+    "doc_32033.txt",
+    "doc_4112.txt",
+    "doc_23709.txt",
+    "doc_32101.txt",
+    "doc_1544.txt"
+  ]
+}

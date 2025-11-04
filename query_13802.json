@@ -1,0 +1,10 @@
+{
+  "query": "How many children’s DNA records are currently held on the UK Government’s database?",
+  "response": [
+    "doc_24592.txt",
+    "doc_31388.txt",
+    "doc_32091.txt",
+    "doc_25973.txt",
+    "doc_18095.txt"
+  ]
+}

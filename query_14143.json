@@ -1,0 +1,10 @@
+{
+  "query": "What is the intended purpose of the Navy foot race?",
+  "response": [
+    "doc_25415.txt",
+    "doc_25410.txt",
+    "doc_25413.txt",
+    "doc_25414.txt",
+    "doc_25408.txt"
+  ]
+}

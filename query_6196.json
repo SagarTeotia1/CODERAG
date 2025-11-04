@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Jamie Luner attend the Emerald Gala?",
+  "response": [
+    "doc_15420.txt",
+    "doc_8917.txt",
+    "doc_32019.txt",
+    "doc_1165.txt",
+    "doc_1573.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Who guest starred as Todd Packer in “The Carpet”?",
+  "response": [
+    "doc_23154.txt",
+    "doc_26969.txt",
+    "doc_31636.txt",
+    "doc_31639.txt",
+    "doc_36819.txt"
+  ]
+}

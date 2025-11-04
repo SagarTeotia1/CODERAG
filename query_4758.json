@@ -1,0 +1,10 @@
+{
+  "query": "When was the first Miss American Beauty pageant held?",
+  "response": [
+    "doc_27300.txt",
+    "doc_38508.txt",
+    "doc_15440.txt",
+    "doc_15441.txt",
+    "doc_2201.txt"
+  ]
+}

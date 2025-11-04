@@ -1,0 +1,10 @@
+{
+  "query": "On which television series did Grant Show play the character Jake Hanson?",
+  "response": [
+    "doc_36357.txt",
+    "doc_3479.txt",
+    "doc_7365.txt",
+    "doc_3480.txt",
+    "doc_7366.txt"
+  ]
+}

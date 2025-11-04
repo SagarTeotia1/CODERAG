@@ -1,0 +1,10 @@
+{
+  "query": "Which actor starred in the film “The Berlin File”?",
+  "response": [
+    "doc_39547.txt",
+    "doc_11749.txt",
+    "doc_19040.txt",
+    "doc_4071.txt",
+    "doc_27326.txt"
+  ]
+}

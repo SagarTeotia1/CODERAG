@@ -1,0 +1,10 @@
+{
+  "query": "Is the Commission aware of the problematic area of public transport in Cyprus?",
+  "response": [
+    "doc_17179.txt",
+    "doc_26458.txt",
+    "doc_5499.txt",
+    "doc_30519.txt",
+    "doc_27479.txt"
+  ]
+}

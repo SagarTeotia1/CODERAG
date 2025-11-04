@@ -1,0 +1,10 @@
+{
+  "query": "How much did the ENIAC weigh?",
+  "response": [
+    "doc_3733.txt",
+    "doc_3738.txt",
+    "doc_3730.txt",
+    "doc_3731.txt",
+    "doc_3734.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What age is Jenna Rink described as in the movie?",
+  "response": [
+    "doc_22303.txt",
+    "doc_22305.txt",
+    "doc_22301.txt",
+    "doc_22307.txt",
+    "doc_22302.txt"
+  ]
+}

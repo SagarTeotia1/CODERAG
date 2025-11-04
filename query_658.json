@@ -1,0 +1,10 @@
+{
+  "query": "What newspaper published T. Love’s “I Accuse” letter on January 13, 1898?",
+  "response": [
+    "doc_2833.txt",
+    "doc_2836.txt",
+    "doc_2835.txt",
+    "doc_2832.txt",
+    "doc_2834.txt"
+  ]
+}

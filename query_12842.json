@@ -1,0 +1,10 @@
+{
+  "query": "What are the five disciplines contested at the FINA championships?",
+  "response": [
+    "doc_18466.txt",
+    "doc_31478.txt",
+    "doc_18104.txt",
+    "doc_31483.txt",
+    "doc_40104.txt"
+  ]
+}

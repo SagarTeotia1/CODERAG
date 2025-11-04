@@ -1,0 +1,10 @@
+{
+  "query": "How many segments typically make up a \"Treehouse of Horror\" episode?",
+  "response": [
+    "doc_5209.txt",
+    "doc_36822.txt",
+    "doc_25554.txt",
+    "doc_36818.txt",
+    "doc_5854.txt"
+  ]
+}

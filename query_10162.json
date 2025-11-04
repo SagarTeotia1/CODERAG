@@ -1,0 +1,10 @@
+{
+  "query": "According to the 2007 PDB, what percentage increase is planned for DG Trade’s operational budget?",
+  "response": [
+    "doc_15541.txt",
+    "doc_15500.txt",
+    "doc_15452.txt",
+    "doc_15538.txt",
+    "doc_15503.txt"
+  ]
+}

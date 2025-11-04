@@ -1,0 +1,10 @@
+{
+  "query": "How many songs did Robert Johnson record?",
+  "response": [
+    "doc_4729.txt",
+    "doc_4730.txt",
+    "doc_4734.txt",
+    "doc_4727.txt",
+    "doc_4731.txt"
+  ]
+}

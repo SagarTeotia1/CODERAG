@@ -1,0 +1,10 @@
+{
+  "query": "What route was thoroughly investigated by the Commission regarding potential competition concerns after the Lufthansa/SN Brussels Airlines merger?",
+  "response": [
+    "doc_26467.txt",
+    "doc_21536.txt",
+    "doc_12015.txt",
+    "doc_17664.txt",
+    "doc_14404.txt"
+  ]
+}

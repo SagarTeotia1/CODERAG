@@ -1,0 +1,10 @@
+{
+  "query": "What year was “My Breakfast with Blassie” released, and who starred in it?",
+  "response": [
+    "doc_1575.txt",
+    "doc_30053.txt",
+    "doc_30055.txt",
+    "doc_30051.txt",
+    "doc_37308.txt"
+  ]
+}

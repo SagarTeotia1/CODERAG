@@ -1,0 +1,10 @@
+{
+  "query": "Who was elected as the new President of the European Parliament, and when will their term end?",
+  "response": [
+    "doc_4787.txt",
+    "doc_4784.txt",
+    "doc_4781.txt",
+    "doc_29287.txt",
+    "doc_4785.txt"
+  ]
+}

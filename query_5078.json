@@ -1,0 +1,10 @@
+{
+  "query": "Which producers collaborated on the song “Warrior” by B.A.P?",
+  "response": [
+    "doc_39531.txt",
+    "doc_35267.txt",
+    "doc_15905.txt",
+    "doc_15906.txt",
+    "doc_39532.txt"
+  ]
+}

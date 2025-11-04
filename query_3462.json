@@ -1,0 +1,10 @@
+{
+  "query": "What was the primary operating airport for SN Brussels Airlines?",
+  "response": [
+    "doc_35621.txt",
+    "doc_35620.txt",
+    "doc_26467.txt",
+    "doc_21536.txt",
+    "doc_17185.txt"
+  ]
+}

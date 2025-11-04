@@ -1,0 +1,10 @@
+{
+  "query": "What was the percentage decrease in gas production in Russia during January 2009 compared to January 2008?",
+  "response": [
+    "doc_18028.txt",
+    "doc_29782.txt",
+    "doc_26656.txt",
+    "doc_32810.txt",
+    "doc_13794.txt"
+  ]
+}

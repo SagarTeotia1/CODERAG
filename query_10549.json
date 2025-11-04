@@ -1,0 +1,10 @@
+{
+  "query": "Is there a threat that youth hostel closures across Europe may deny Europeans affordable access to some of the most beautiful areas in the EU?",
+  "response": [
+    "doc_1984.txt",
+    "doc_11840.txt",
+    "doc_37500.txt",
+    "doc_14590.txt",
+    "doc_5897.txt"
+  ]
+}

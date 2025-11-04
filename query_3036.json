@@ -1,0 +1,10 @@
+{
+  "query": "When was the Golden Globe Award for Best Animated Feature Film first awarded?",
+  "response": [
+    "doc_3235.txt",
+    "doc_9561.txt",
+    "doc_27329.txt",
+    "doc_2552.txt",
+    "doc_35528.txt"
+  ]
+}

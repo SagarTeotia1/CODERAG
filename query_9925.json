@@ -1,0 +1,10 @@
+{
+  "query": "What awards did Rich Keeble win in 2016?",
+  "response": [
+    "doc_4880.txt",
+    "doc_19742.txt",
+    "doc_39829.txt",
+    "doc_37217.txt",
+    "doc_14580.txt"
+  ]
+}

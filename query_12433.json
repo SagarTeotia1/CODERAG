@@ -1,0 +1,10 @@
+{
+  "query": "By 2050, what percentage reduction in non-CO2 emissions is the agricultural sector expected to achieve compared to 1990 levels?",
+  "response": [
+    "doc_21257.txt",
+    "doc_10183.txt",
+    "doc_21249.txt",
+    "doc_21250.txt",
+    "doc_21259.txt"
+  ]
+}

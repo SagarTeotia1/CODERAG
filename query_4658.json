@@ -1,0 +1,10 @@
+{
+  "query": "What type of wine does Danzinger Vineyards specialize in, and what award did it receive?",
+  "response": [
+    "doc_7674.txt",
+    "doc_28652.txt",
+    "doc_28653.txt",
+    "doc_28648.txt",
+    "doc_28655.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When was the supplementary answer provided by Mr. Figel?",
+  "response": [
+    "doc_989.txt",
+    "doc_1065.txt",
+    "doc_1015.txt",
+    "doc_997.txt",
+    "doc_1009.txt"
+  ]
+}

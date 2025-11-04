@@ -1,0 +1,10 @@
+{
+  "query": "What was Marlin Perkins’s role at the St. Louis Zoo?",
+  "response": [
+    "doc_37946.txt",
+    "doc_37944.txt",
+    "doc_37945.txt",
+    "doc_37947.txt",
+    "doc_37948.txt"
+  ]
+}

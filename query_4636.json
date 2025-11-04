@@ -1,0 +1,10 @@
+{
+  "query": "What type of book is “Betty Zane”?",
+  "response": [
+    "doc_3825.txt",
+    "doc_3829.txt",
+    "doc_3824.txt",
+    "doc_3830.txt",
+    "doc_3828.txt"
+  ]
+}

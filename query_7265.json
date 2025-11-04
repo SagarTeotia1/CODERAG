@@ -1,0 +1,10 @@
+{
+  "query": "What type of sailing yacht competed in the 44th Transpacific Yacht Race?",
+  "response": [
+    "doc_30885.txt",
+    "doc_28503.txt",
+    "doc_28502.txt",
+    "doc_9115.txt",
+    "doc_12360.txt"
+  ]
+}

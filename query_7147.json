@@ -1,0 +1,10 @@
+{
+  "query": "What is the basis for the film “Hachiko Monogatari”?",
+  "response": [
+    "doc_27026.txt",
+    "doc_27031.txt",
+    "doc_27024.txt",
+    "doc_27034.txt",
+    "doc_9561.txt"
+  ]
+}

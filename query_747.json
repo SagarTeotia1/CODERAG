@@ -1,0 +1,10 @@
+{
+  "query": "What position did Robert Todd Lincoln hold with the Pullman Palace Car Company between 1897 and 1911?",
+  "response": [
+    "doc_2849.txt",
+    "doc_2861.txt",
+    "doc_2850.txt",
+    "doc_2851.txt",
+    "doc_2853.txt"
+  ]
+}

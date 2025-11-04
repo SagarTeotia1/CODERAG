@@ -1,0 +1,10 @@
+{
+  "query": "Which Welsh Anglican bishop served as the Archbishop of Wales for the longest period?",
+  "response": [
+    "doc_31767.txt",
+    "doc_36198.txt",
+    "doc_31774.txt",
+    "doc_5403.txt",
+    "doc_31770.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is Brad known for from “The Rocky Horror Picture Show”?",
+  "response": [
+    "doc_29527.txt",
+    "doc_29529.txt",
+    "doc_29528.txt",
+    "doc_29526.txt",
+    "doc_29525.txt"
+  ]
+}

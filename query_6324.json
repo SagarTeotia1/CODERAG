@@ -1,0 +1,10 @@
+{
+  "query": "How much financial compensation will be provided to Guinea-Bissau over the five-year period?",
+  "response": [
+    "doc_6111.txt",
+    "doc_6112.txt",
+    "doc_6106.txt",
+    "doc_6104.txt",
+    "doc_3168.txt"
+  ]
+}

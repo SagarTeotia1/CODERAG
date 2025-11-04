@@ -1,0 +1,10 @@
+{
+  "query": "Which actors voiced the characters Moe Szyslak, Apu Nahasapeemapetilon, and Chief Wiggum on “The Simpsons”?",
+  "response": [
+    "doc_39143.txt",
+    "doc_39144.txt",
+    "doc_32695.txt",
+    "doc_17090.txt",
+    "doc_29175.txt"
+  ]
+}

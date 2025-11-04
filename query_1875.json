@@ -1,0 +1,10 @@
+{
+  "query": "In what year was William Keith Ball born?",
+  "response": [
+    "doc_34143.txt",
+    "doc_23516.txt",
+    "doc_34140.txt",
+    "doc_12168.txt",
+    "doc_8333.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What led Abraham Touro to build a tunnel?",
+  "response": [
+    "doc_34001.txt",
+    "doc_34002.txt",
+    "doc_14010.txt",
+    "doc_14684.txt",
+    "doc_1824.txt"
+  ]
+}

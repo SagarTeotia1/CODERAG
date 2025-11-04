@@ -1,0 +1,10 @@
+{
+  "query": "What war led to the construction of the forts named “Fort Lauderdale”?",
+  "response": [
+    "doc_9371.txt",
+    "doc_9372.txt",
+    "doc_9370.txt",
+    "doc_9369.txt",
+    "doc_39361.txt"
+  ]
+}

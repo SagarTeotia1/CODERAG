@@ -1,0 +1,10 @@
+{
+  "query": "When and where was Lester Brain born?",
+  "response": [
+    "doc_24404.txt",
+    "doc_6912.txt",
+    "doc_30416.txt",
+    "doc_7899.txt",
+    "doc_6914.txt"
+  ]
+}

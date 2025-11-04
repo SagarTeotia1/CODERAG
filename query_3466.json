@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what percentage of Europe’s water is currently wasted due to inefficient management?",
+  "response": [
+    "doc_35630.txt",
+    "doc_5264.txt",
+    "doc_23422.txt",
+    "doc_12303.txt",
+    "doc_22715.txt"
+  ]
+}

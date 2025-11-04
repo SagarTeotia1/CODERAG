@@ -1,0 +1,10 @@
+{
+  "query": "What is Ashland, Virginia, named after?",
+  "response": [
+    "doc_13373.txt",
+    "doc_35711.txt",
+    "doc_3655.txt",
+    "doc_11182.txt",
+    "doc_11184.txt"
+  ]
+}

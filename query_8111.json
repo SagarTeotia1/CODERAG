@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the Bridge of Sighs built?",
+  "response": [
+    "doc_10666.txt",
+    "doc_10671.txt",
+    "doc_10669.txt",
+    "doc_10667.txt",
+    "doc_10668.txt"
+  ]
+}

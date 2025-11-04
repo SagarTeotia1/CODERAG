@@ -1,0 +1,10 @@
+{
+  "query": "What year was the Lincoln Memorial dedicated?",
+  "response": [
+    "doc_35800.txt",
+    "doc_35799.txt",
+    "doc_35801.txt",
+    "doc_39110.txt",
+    "doc_39108.txt"
+  ]
+}

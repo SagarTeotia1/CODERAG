@@ -1,0 +1,10 @@
+{
+  "query": "Which player appeared on the cover of both NHL 11 and NHL 16?",
+  "response": [
+    "doc_5826.txt",
+    "doc_5828.txt",
+    "doc_5827.txt",
+    "doc_17243.txt",
+    "doc_7064.txt"
+  ]
+}

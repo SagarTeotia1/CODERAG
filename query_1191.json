@@ -1,0 +1,10 @@
+{
+  "query": "What is the approximate length of silence between “Fly On” and “O” in the standard edition of Coldplay’s “Ghost Stories” album?",
+  "response": [
+    "doc_25944.txt",
+    "doc_31302.txt",
+    "doc_7975.txt",
+    "doc_12206.txt",
+    "doc_31303.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When was Galileo appointed to a professorship at the University of Pisa?",
+  "response": [
+    "doc_33767.txt",
+    "doc_14464.txt",
+    "doc_14466.txt",
+    "doc_14468.txt",
+    "doc_14465.txt"
+  ]
+}

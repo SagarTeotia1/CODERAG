@@ -1,0 +1,10 @@
+{
+  "query": "When did Paul Newman and Joanne Woodward first meet?",
+  "response": [
+    "doc_12497.txt",
+    "doc_12496.txt",
+    "doc_12498.txt",
+    "doc_12499.txt",
+    "doc_12500.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Where did Abner live for over 50 years, as described in the passage?",
+  "response": [
+    "doc_33519.txt",
+    "doc_14490.txt",
+    "doc_101.txt",
+    "doc_3651.txt",
+    "doc_11046.txt"
+  ]
+}

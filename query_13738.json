@@ -1,0 +1,10 @@
+{
+  "query": "What is Stephen Gionta’s jersey number?",
+  "response": [
+    "doc_9513.txt",
+    "doc_3126.txt",
+    "doc_3129.txt",
+    "doc_9516.txt",
+    "doc_3131.txt"
+  ]
+}

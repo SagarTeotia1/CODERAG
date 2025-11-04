@@ -1,0 +1,10 @@
+{
+  "query": "Which film featured Sheryl Crow’s cover of “Sweet Child o’ Mine”?",
+  "response": [
+    "doc_4905.txt",
+    "doc_4907.txt",
+    "doc_4906.txt",
+    "doc_4908.txt",
+    "doc_29937.txt"
+  ]
+}

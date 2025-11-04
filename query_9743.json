@@ -1,0 +1,10 @@
+{
+  "query": "Can you provide an example of an EU-funded research project focused on women’s health?",
+  "response": [
+    "doc_14545.txt",
+    "doc_34528.txt",
+    "doc_24549.txt",
+    "doc_28355.txt",
+    "doc_29847.txt"
+  ]
+}

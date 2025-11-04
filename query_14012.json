@@ -1,0 +1,10 @@
+{
+  "query": "What event was held in the Chicago Symphony Center in 2008?",
+  "response": [
+    "doc_35289.txt",
+    "doc_26646.txt",
+    "doc_15956.txt",
+    "doc_26654.txt",
+    "doc_27133.txt"
+  ]
+}

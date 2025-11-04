@@ -1,0 +1,10 @@
+{
+  "query": "What is the meaning of Pranayama, according to the text?",
+  "response": [
+    "doc_5500.txt",
+    "doc_5505.txt",
+    "doc_5502.txt",
+    "doc_5506.txt",
+    "doc_5501.txt"
+  ]
+}

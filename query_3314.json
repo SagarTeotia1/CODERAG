@@ -1,0 +1,10 @@
+{
+  "query": "How many Palestinian children are estimated to be arrested and imprisoned each month?",
+  "response": [
+    "doc_35334.txt",
+    "doc_38711.txt",
+    "doc_3505.txt",
+    "doc_14723.txt",
+    "doc_11593.txt"
+  ]
+}

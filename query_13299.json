@@ -1,0 +1,10 @@
+{
+  "query": "Which comic book series was created by Mark Millar and John Romita, Jr.?",
+  "response": [
+    "doc_40064.txt",
+    "doc_32708.txt",
+    "doc_40069.txt",
+    "doc_40068.txt",
+    "doc_40071.txt"
+  ]
+}

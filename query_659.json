@@ -1,0 +1,10 @@
+{
+  "query": "What legal principle did *Chaplinsky v. New Hampshire* establish regarding the First Amendment?",
+  "response": [
+    "doc_28729.txt",
+    "doc_10751.txt",
+    "doc_9814.txt",
+    "doc_31993.txt",
+    "doc_10754.txt"
+  ]
+}

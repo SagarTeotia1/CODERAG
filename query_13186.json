@@ -1,0 +1,10 @@
+{
+  "query": "What study was the Commission aware of regarding childhood cancer near nuclear power plants?",
+  "response": [
+    "doc_23130.txt",
+    "doc_39176.txt",
+    "doc_38544.txt",
+    "doc_39014.txt",
+    "doc_28715.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When was the Cambridge, Minnesota county courthouse built?",
+  "response": [
+    "doc_35756.txt",
+    "doc_35752.txt",
+    "doc_35757.txt",
+    "doc_35750.txt",
+    "doc_29438.txt"
+  ]
+}

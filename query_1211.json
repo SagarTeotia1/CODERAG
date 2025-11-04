@@ -1,0 +1,10 @@
+{
+  "query": "Which regions has the Commission initially focused its efforts on regarding FLEGT partnership agreements?",
+  "response": [
+    "doc_30311.txt",
+    "doc_38136.txt",
+    "doc_31280.txt",
+    "doc_23285.txt",
+    "doc_17340.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "How many needlestick injuries are estimated to be suffered by health-care workers in Europe each year?",
+  "response": [
+    "doc_15785.txt",
+    "doc_36930.txt",
+    "doc_3548.txt",
+    "doc_32398.txt",
+    "doc_16606.txt"
+  ]
+}

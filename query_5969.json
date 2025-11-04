@@ -1,0 +1,10 @@
+{
+  "query": "What did General Pershing do upon arriving in Paris?",
+  "response": [
+    "doc_5282.txt",
+    "doc_5281.txt",
+    "doc_5284.txt",
+    "doc_5285.txt",
+    "doc_5286.txt"
+  ]
+}

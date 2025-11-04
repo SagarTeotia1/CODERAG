@@ -1,0 +1,10 @@
+{
+  "query": "What does Aristotle state about the value of money in his *Politics*?",
+  "response": [
+    "doc_24713.txt",
+    "doc_24711.txt",
+    "doc_24714.txt",
+    "doc_24712.txt",
+    "doc_35472.txt"
+  ]
+}

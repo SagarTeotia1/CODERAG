@@ -1,0 +1,10 @@
+{
+  "query": "What was the central ruling of the Garner case regarding the use of deadly force by police officers?",
+  "response": [
+    "doc_698.txt",
+    "doc_697.txt",
+    "doc_699.txt",
+    "doc_703.txt",
+    "doc_701.txt"
+  ]
+}

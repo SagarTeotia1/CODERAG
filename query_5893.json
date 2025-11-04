@@ -1,0 +1,10 @@
+{
+  "query": "Where was the Provincial Bank of Ireland located?",
+  "response": [
+    "doc_21445.txt",
+    "doc_21444.txt",
+    "doc_21442.txt",
+    "doc_21443.txt",
+    "doc_33074.txt"
+  ]
+}

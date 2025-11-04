@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Dexter Very play right end for the Penn State Nittany Lions football team?",
+  "response": [
+    "doc_18829.txt",
+    "doc_19110.txt",
+    "doc_26185.txt",
+    "doc_18828.txt",
+    "doc_21540.txt"
+  ]
+}

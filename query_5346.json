@@ -1,0 +1,10 @@
+{
+  "query": "Which cyclist was awarded an MBE for services to cycling in 1992?",
+  "response": [
+    "doc_21232.txt",
+    "doc_35928.txt",
+    "doc_31481.txt",
+    "doc_18110.txt",
+    "doc_23124.txt"
+  ]
+}

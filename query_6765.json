@@ -1,0 +1,10 @@
+{
+  "query": "What video game was released on the PlayStation 3 and Wii, and featured Shaun Alexander on the cover?",
+  "response": [
+    "doc_26363.txt",
+    "doc_16673.txt",
+    "doc_25552.txt",
+    "doc_26364.txt",
+    "doc_26361.txt"
+  ]
+}

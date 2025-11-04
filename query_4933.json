@@ -1,0 +1,10 @@
+{
+  "query": "What was Charles Foster Kane’s last word?",
+  "response": [
+    "doc_39197.txt",
+    "doc_39196.txt",
+    "doc_39198.txt",
+    "doc_39199.txt",
+    "doc_39201.txt"
+  ]
+}

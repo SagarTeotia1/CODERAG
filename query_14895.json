@@ -1,0 +1,10 @@
+{
+  "query": "In which provinces were the 23 Laotian Christians arrested between 1998 and 2001?",
+  "response": [
+    "doc_18565.txt",
+    "doc_27276.txt",
+    "doc_8833.txt",
+    "doc_8832.txt",
+    "doc_8834.txt"
+  ]
+}

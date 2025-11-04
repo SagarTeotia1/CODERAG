@@ -1,0 +1,10 @@
+{
+  "query": "Where is the LIA’s headquarters currently located?",
+  "response": [
+    "doc_15250.txt",
+    "doc_24039.txt",
+    "doc_17479.txt",
+    "doc_24040.txt",
+    "doc_24037.txt"
+  ]
+}

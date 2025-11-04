@@ -1,0 +1,10 @@
+{
+  "query": "Which political party, established in 1929, maintained control over Mexico for 71 years?",
+  "response": [
+    "doc_6124.txt",
+    "doc_6125.txt",
+    "doc_6127.txt",
+    "doc_6128.txt",
+    "doc_6129.txt"
+  ]
+}

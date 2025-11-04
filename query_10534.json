@@ -1,0 +1,10 @@
+{
+  "query": "What techniques did Jan van Eyck utilize to achieve a new level of virtuosity in his paintings?",
+  "response": [
+    "doc_16533.txt",
+    "doc_16532.txt",
+    "doc_16537.txt",
+    "doc_16539.txt",
+    "doc_16536.txt"
+  ]
+}

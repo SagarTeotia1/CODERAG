@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Yogi Berra achieve the milestone of hitting 30 home runs in a single season?",
+  "response": [
+    "doc_5519.txt",
+    "doc_5520.txt",
+    "doc_8627.txt",
+    "doc_39727.txt",
+    "doc_39721.txt"
+  ]
+}

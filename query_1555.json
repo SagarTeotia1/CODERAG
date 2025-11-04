@@ -1,0 +1,10 @@
+{
+  "query": "Who did Samuel Colt hire to build his initial revolver?",
+  "response": [
+    "doc_31093.txt",
+    "doc_31092.txt",
+    "doc_36715.txt",
+    "doc_31094.txt",
+    "doc_36721.txt"
+  ]
+}

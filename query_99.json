@@ -1,0 +1,10 @@
+{
+  "query": "Where is the Pentagon located?",
+  "response": [
+    "doc_24887.txt",
+    "doc_27908.txt",
+    "doc_32814.txt",
+    "doc_17751.txt",
+    "doc_6200.txt"
+  ]
+}

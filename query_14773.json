@@ -1,0 +1,10 @@
+{
+  "query": "Which ethnic group in Indonesia originated Rendang, and what occasions is it traditionally served at?",
+  "response": [
+    "doc_15411.txt",
+    "doc_15413.txt",
+    "doc_15414.txt",
+    "doc_15412.txt",
+    "doc_17259.txt"
+  ]
+}

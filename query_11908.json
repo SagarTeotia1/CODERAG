@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission’s opinion regarding the impact of differing corporate tax rates on investment location within the EU?",
+  "response": [
+    "doc_20030.txt",
+    "doc_9840.txt",
+    "doc_25484.txt",
+    "doc_12593.txt",
+    "doc_26809.txt"
+  ]
+}

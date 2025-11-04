@@ -1,0 +1,10 @@
+{
+  "query": "Where was the city of Amphipolis located, and what was its significance?",
+  "response": [
+    "doc_19770.txt",
+    "doc_19773.txt",
+    "doc_19775.txt",
+    "doc_25300.txt",
+    "doc_19776.txt"
+  ]
+}

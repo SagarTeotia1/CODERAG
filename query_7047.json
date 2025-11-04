@@ -1,0 +1,10 @@
+{
+  "query": "What musical instrument does Rebecca Foon play, and what award did her ensemble, Esmerine, receive?",
+  "response": [
+    "doc_19449.txt",
+    "doc_19443.txt",
+    "doc_18383.txt",
+    "doc_1639.txt",
+    "doc_19445.txt"
+  ]
+}

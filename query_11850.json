@@ -1,0 +1,10 @@
+{
+  "query": "What is the most serious complication of deep vein thrombosis (DVT)?",
+  "response": [
+    "doc_19885.txt",
+    "doc_19884.txt",
+    "doc_19883.txt",
+    "doc_27373.txt",
+    "doc_6343.txt"
+  ]
+}

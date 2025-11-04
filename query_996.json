@@ -1,0 +1,10 @@
+{
+  "query": "What is the National League currently known as due to a sponsorship deal?",
+  "response": [
+    "doc_20003.txt",
+    "doc_31915.txt",
+    "doc_20091.txt",
+    "doc_31918.txt",
+    "doc_20094.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year were Papa Aldo's Pizza and Murphy's Pizza founded?",
+  "response": [
+    "doc_3899.txt",
+    "doc_3898.txt",
+    "doc_31861.txt",
+    "doc_4936.txt",
+    "doc_38563.txt"
+  ]
+}

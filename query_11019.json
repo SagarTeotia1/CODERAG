@@ -1,0 +1,10 @@
+{
+  "query": "What year was the highly acclaimed documentary *Hoop Dreams* released?",
+  "response": [
+    "doc_17666.txt",
+    "doc_17667.txt",
+    "doc_17675.txt",
+    "doc_17670.txt",
+    "doc_17669.txt"
+  ]
+}

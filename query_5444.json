@@ -1,0 +1,10 @@
+{
+  "query": "In the last twenty years, how many Christian religious buildings have been demolished on ‘Highway No 1’?",
+  "response": [
+    "doc_40287.txt",
+    "doc_15124.txt",
+    "doc_17356.txt",
+    "doc_20889.txt",
+    "doc_25301.txt"
+  ]
+}

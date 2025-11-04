@@ -1,0 +1,10 @@
+{
+  "query": "What does the term “Black Moon” refer to, and how often does it occur?",
+  "response": [
+    "doc_611.txt",
+    "doc_610.txt",
+    "doc_612.txt",
+    "doc_609.txt",
+    "doc_613.txt"
+  ]
+}

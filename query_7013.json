@@ -1,0 +1,10 @@
+{
+  "query": "In 1957, what was the number of stars on the U.S. flag?",
+  "response": [
+    "doc_7895.txt",
+    "doc_7896.txt",
+    "doc_7899.txt",
+    "doc_7898.txt",
+    "doc_7897.txt"
+  ]
+}

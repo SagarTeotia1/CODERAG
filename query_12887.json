@@ -1,0 +1,10 @@
+{
+  "query": "On what channel was “Vera” first broadcast?",
+  "response": [
+    "doc_8250.txt",
+    "doc_3483.txt",
+    "doc_3140.txt",
+    "doc_26960.txt",
+    "doc_9721.txt"
+  ]
+}

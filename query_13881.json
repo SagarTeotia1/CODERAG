@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the Lincoln Highway formally dedicated?",
+  "response": [
+    "doc_35800.txt",
+    "doc_2856.txt",
+    "doc_2855.txt",
+    "doc_2851.txt",
+    "doc_2861.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Where did the Floyd Mayweather Jr. vs. Ricky Hatton fight take place?",
+  "response": [
+    "doc_25590.txt",
+    "doc_38475.txt",
+    "doc_30178.txt",
+    "doc_30170.txt",
+    "doc_32457.txt"
+  ]
+}

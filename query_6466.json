@@ -1,0 +1,10 @@
+{
+  "query": "What was the title of the Everly Brothers’ first hit for Warner Brothers?",
+  "response": [
+    "doc_33.txt",
+    "doc_34.txt",
+    "doc_31.txt",
+    "doc_25.txt",
+    "doc_27.txt"
+  ]
+}

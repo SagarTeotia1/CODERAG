@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Peter Sergeant die, and where was he buried?",
+  "response": [
+    "doc_20102.txt",
+    "doc_20099.txt",
+    "doc_20098.txt",
+    "doc_4130.txt",
+    "doc_20097.txt"
+  ]
+}

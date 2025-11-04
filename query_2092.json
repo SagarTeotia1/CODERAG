@@ -1,0 +1,10 @@
+{
+  "query": "According to the Commission, how much have all the US subsidies to Boeing totaled over the past two decades?",
+  "response": [
+    "doc_32451.txt",
+    "doc_26448.txt",
+    "doc_16596.txt",
+    "doc_28976.txt",
+    "doc_20292.txt"
+  ]
+}

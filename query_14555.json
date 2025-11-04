@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the first Land Rover officially launched?",
+  "response": [
+    "doc_26519.txt",
+    "doc_26517.txt",
+    "doc_26518.txt",
+    "doc_26521.txt",
+    "doc_26523.txt"
+  ]
+}

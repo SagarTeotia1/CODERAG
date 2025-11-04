@@ -1,0 +1,10 @@
+{
+  "query": "What river divides the Comarca del Ebro from northwest to southeast?",
+  "response": [
+    "doc_10326.txt",
+    "doc_10328.txt",
+    "doc_10327.txt",
+    "doc_12097.txt",
+    "doc_36037.txt"
+  ]
+}

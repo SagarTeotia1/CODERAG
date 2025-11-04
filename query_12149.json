@@ -1,0 +1,10 @@
+{
+  "query": "What is the capital and port of the island of Menorca?",
+  "response": [
+    "doc_20531.txt",
+    "doc_20530.txt",
+    "doc_20536.txt",
+    "doc_20532.txt",
+    "doc_20533.txt"
+  ]
+}

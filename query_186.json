@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission’s requirement regarding instructions for use for TV sets?",
+  "response": [
+    "doc_27465.txt",
+    "doc_1677.txt",
+    "doc_1679.txt",
+    "doc_25371.txt",
+    "doc_17175.txt"
+  ]
+}

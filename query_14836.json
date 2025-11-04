@@ -1,0 +1,10 @@
+{
+  "query": "How far was the cycling trip from Verona to Turin?",
+  "response": [
+    "doc_27150.txt",
+    "doc_27151.txt",
+    "doc_27148.txt",
+    "doc_10671.txt",
+    "doc_34987.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When was the *Gospel Advocate* first published?",
+  "response": [
+    "doc_25759.txt",
+    "doc_25764.txt",
+    "doc_25760.txt",
+    "doc_25762.txt",
+    "doc_25761.txt"
+  ]
+}

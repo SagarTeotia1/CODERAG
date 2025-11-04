@@ -1,0 +1,10 @@
+{
+  "query": "What action did First Officer Murdoch take after seeing the iceberg?",
+  "response": [
+    "doc_5076.txt",
+    "doc_5072.txt",
+    "doc_5075.txt",
+    "doc_5073.txt",
+    "doc_5071.txt"
+  ]
+}

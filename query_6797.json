@@ -1,0 +1,10 @@
+{
+  "query": "How many games did Yao Ming play in the 2010-11 NBA season?",
+  "response": [
+    "doc_7363.txt",
+    "doc_14929.txt",
+    "doc_17674.txt",
+    "doc_4999.txt",
+    "doc_4992.txt"
+  ]
+}

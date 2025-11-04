@@ -1,0 +1,10 @@
+{
+  "query": "What is the primary method used by an EEG to measure brain activity?",
+  "response": [
+    "doc_36118.txt",
+    "doc_36116.txt",
+    "doc_36119.txt",
+    "doc_36124.txt",
+    "doc_36122.txt"
+  ]
+}

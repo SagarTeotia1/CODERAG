@@ -1,0 +1,10 @@
+{
+  "query": "What was John Babarovic’s role at American Airlines?",
+  "response": [
+    "doc_17408.txt",
+    "doc_17409.txt",
+    "doc_17412.txt",
+    "doc_9779.txt",
+    "doc_17413.txt"
+  ]
+}

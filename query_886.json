@@ -1,0 +1,10 @@
+{
+  "query": "Who collaborated with 21 Savage on the project referenced in the passage?",
+  "response": [
+    "doc_29502.txt",
+    "doc_29503.txt",
+    "doc_9987.txt",
+    "doc_35267.txt",
+    "doc_8505.txt"
+  ]
+}

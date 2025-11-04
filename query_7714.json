@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided links, approximately how long ago was the quote “A snake lurks in the grass” written by Virgil?",
+  "response": [
+    "doc_9646.txt",
+    "doc_30331.txt",
+    "doc_13032.txt",
+    "doc_30336.txt",
+    "doc_14080.txt"
+  ]
+}

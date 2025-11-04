@@ -1,0 +1,10 @@
+{
+  "query": "Which EC card type currently has built-in security features to prevent data copying?",
+  "response": [
+    "doc_6042.txt",
+    "doc_6041.txt",
+    "doc_17174.txt",
+    "doc_11922.txt",
+    "doc_18367.txt"
+  ]
+}

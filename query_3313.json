@@ -1,0 +1,10 @@
+{
+  "query": "What is the term “Code Black” referring to in the context of the hospital?",
+  "response": [
+    "doc_3483.txt",
+    "doc_3484.txt",
+    "doc_3480.txt",
+    "doc_3479.txt",
+    "doc_3478.txt"
+  ]
+}

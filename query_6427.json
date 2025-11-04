@@ -1,0 +1,10 @@
+{
+  "query": "What song did Tony Orlando and Dawn sing about \"Sweet Gypsy Rose\"?",
+  "response": [
+    "doc_6407.txt",
+    "doc_6408.txt",
+    "doc_6406.txt",
+    "doc_6405.txt",
+    "doc_6409.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Where did Richard Adams initially tell the story of *Watership Down* to his daughters?",
+  "response": [
+    "doc_14572.txt",
+    "doc_14573.txt",
+    "doc_14574.txt",
+    "doc_14575.txt",
+    "doc_14576.txt"
+  ]
+}

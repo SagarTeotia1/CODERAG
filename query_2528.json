@@ -1,0 +1,10 @@
+{
+  "query": "What NFL team drafted Nick Martin, and in what round did he get selected?",
+  "response": [
+    "doc_33565.txt",
+    "doc_4274.txt",
+    "doc_9442.txt",
+    "doc_9447.txt",
+    "doc_9449.txt"
+  ]
+}

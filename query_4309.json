@@ -1,0 +1,10 @@
+{
+  "query": "How much bacon does Fred routinely eat?",
+  "response": [
+    "doc_3717.txt",
+    "doc_37683.txt",
+    "doc_37680.txt",
+    "doc_3715.txt",
+    "doc_38009.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which countries have already addressed the issue of the Kaesong industrial zone in their free trade agreements?",
+  "response": [
+    "doc_40305.txt",
+    "doc_28927.txt",
+    "doc_8739.txt",
+    "doc_22617.txt",
+    "doc_30144.txt"
+  ]
+}

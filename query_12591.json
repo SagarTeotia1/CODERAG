@@ -1,0 +1,10 @@
+{
+  "query": "Where is the Detroit Institute of Arts located, and what is the approximate size of the building?",
+  "response": [
+    "doc_21675.txt",
+    "doc_13212.txt",
+    "doc_29438.txt",
+    "doc_15251.txt",
+    "doc_15248.txt"
+  ]
+}

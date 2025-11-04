@@ -1,0 +1,10 @@
+{
+  "query": "What specific figure pursues Ichabod Crane in the story?",
+  "response": [
+    "doc_14940.txt",
+    "doc_14941.txt",
+    "doc_14946.txt",
+    "doc_14944.txt",
+    "doc_14943.txt"
+  ]
+}

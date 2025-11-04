@@ -1,0 +1,10 @@
+{
+  "query": "Who holds the record for the most wins for Most Popular Actor?",
+  "response": [
+    "doc_17866.txt",
+    "doc_27321.txt",
+    "doc_36343.txt",
+    "doc_36342.txt",
+    "doc_27318.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was Art Fleming's age?",
+  "response": [
+    "doc_24381.txt",
+    "doc_24382.txt",
+    "doc_24385.txt",
+    "doc_24383.txt",
+    "doc_24384.txt"
+  ]
+}

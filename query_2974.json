@@ -1,0 +1,10 @@
+{
+  "query": "On what day of the week is Canadian Thanksgiving typically observed?",
+  "response": [
+    "doc_34581.txt",
+    "doc_12653.txt",
+    "doc_12650.txt",
+    "doc_33486.txt",
+    "doc_33488.txt"
+  ]
+}

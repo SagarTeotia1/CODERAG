@@ -1,0 +1,10 @@
+{
+  "query": "Who was Mordechai Anielewicz, and what was his role?",
+  "response": [
+    "doc_831.txt",
+    "doc_829.txt",
+    "doc_23648.txt",
+    "doc_832.txt",
+    "doc_830.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What year was “The Album” by Jesse Weaver released?",
+  "response": [
+    "doc_12916.txt",
+    "doc_19894.txt",
+    "doc_12917.txt",
+    "doc_19069.txt",
+    "doc_4098.txt"
+  ]
+}

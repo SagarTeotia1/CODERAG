@@ -1,0 +1,10 @@
+{
+  "query": "What CBC show featured Ève Landry as the character Jeanne Biron?",
+  "response": [
+    "doc_23150.txt",
+    "doc_32013.txt",
+    "doc_32015.txt",
+    "doc_32014.txt",
+    "doc_32017.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Where was Seamus Heaney born, and what was his father’s occupation?",
+  "response": [
+    "doc_36484.txt",
+    "doc_36486.txt",
+    "doc_36487.txt",
+    "doc_36489.txt",
+    "doc_36485.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What types of cakes are mentioned in the provided texts (e.g., Angel Food, Creme Cake)?",
+  "response": [
+    "doc_12899.txt",
+    "doc_12900.txt",
+    "doc_4645.txt",
+    "doc_18996.txt",
+    "doc_18999.txt"
+  ]
+}

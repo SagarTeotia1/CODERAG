@@ -1,0 +1,10 @@
+{
+  "query": "What was the title of Ernie Pyle’s collection of articles released in 1943?",
+  "response": [
+    "doc_18542.txt",
+    "doc_18543.txt",
+    "doc_13439.txt",
+    "doc_9637.txt",
+    "doc_22263.txt"
+  ]
+}

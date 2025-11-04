@@ -1,0 +1,10 @@
+{
+  "query": "What type of art did Alice Brown Chittenden specialize in, and where did she teach?",
+  "response": [
+    "doc_21552.txt",
+    "doc_25688.txt",
+    "doc_18537.txt",
+    "doc_18540.txt",
+    "doc_18539.txt"
+  ]
+}

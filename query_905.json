@@ -1,0 +1,10 @@
+{
+  "query": "Who was the first chief of state of the Fifth Republic, according to the passage?",
+  "response": [
+    "doc_29563.txt",
+    "doc_29562.txt",
+    "doc_29564.txt",
+    "doc_29566.txt",
+    "doc_29565.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Through which country are the “non-quota” mushrooms from China primarily entering the EU?",
+  "response": [
+    "doc_522.txt",
+    "doc_35920.txt",
+    "doc_37512.txt",
+    "doc_24573.txt",
+    "doc_24572.txt"
+  ]
+}

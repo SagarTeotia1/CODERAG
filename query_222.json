@@ -1,0 +1,10 @@
+{
+  "query": "What was Dwight D. Eisenhower’s childhood home location?",
+  "response": [
+    "doc_27838.txt",
+    "doc_27837.txt",
+    "doc_27831.txt",
+    "doc_27832.txt",
+    "doc_27840.txt"
+  ]
+}

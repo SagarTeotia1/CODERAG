@@ -1,0 +1,10 @@
+{
+  "query": "Who voted against Jean-Claude Trichet’s nomination as ECB President, and what political groups did they belong to?",
+  "response": [
+    "doc_13513.txt",
+    "doc_8637.txt",
+    "doc_2712.txt",
+    "doc_17207.txt",
+    "doc_8938.txt"
+  ]
+}

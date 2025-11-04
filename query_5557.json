@@ -1,0 +1,10 @@
+{
+  "query": "Who will be attending the meeting between the EU and the US, including President Bush?",
+  "response": [
+    "doc_4198.txt",
+    "doc_2727.txt",
+    "doc_9096.txt",
+    "doc_12675.txt",
+    "doc_32095.txt"
+  ]
+}

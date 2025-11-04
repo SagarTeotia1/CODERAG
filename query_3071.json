@@ -1,0 +1,10 @@
+{
+  "query": "What information did the FYROM Ministry of the Interior provide regarding drugs-related crimes in FYROM in 2004?",
+  "response": [
+    "doc_34810.txt",
+    "doc_15333.txt",
+    "doc_27142.txt",
+    "doc_10825.txt",
+    "doc_15331.txt"
+  ]
+}

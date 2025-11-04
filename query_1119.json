@@ -1,0 +1,10 @@
+{
+  "query": "Which countries are included in the West Asian region according to the IKRAB institute?",
+  "response": [
+    "doc_30061.txt",
+    "doc_30060.txt",
+    "doc_24346.txt",
+    "doc_37114.txt",
+    "doc_19225.txt"
+  ]
+}

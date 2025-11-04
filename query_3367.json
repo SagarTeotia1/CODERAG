@@ -1,0 +1,10 @@
+{
+  "query": "According to the question, what is the approximate number of Greek Cypriot students who will need to travel to Cyprus for the upcoming presidential elections?",
+  "response": [
+    "doc_34436.txt",
+    "doc_34434.txt",
+    "doc_34432.txt",
+    "doc_34435.txt",
+    "doc_34433.txt"
+  ]
+}

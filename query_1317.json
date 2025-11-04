@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the first edition of *Animal Farm* published?",
+  "response": [
+    "doc_30511.txt",
+    "doc_30513.txt",
+    "doc_30509.txt",
+    "doc_30512.txt",
+    "doc_30517.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which Swedish band is Martin Abrahamsson the lead singer of?",
+  "response": [
+    "doc_21739.txt",
+    "doc_8994.txt",
+    "doc_12406.txt",
+    "doc_33756.txt",
+    "doc_37168.txt"
+  ]
+}

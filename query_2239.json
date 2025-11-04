@@ -1,0 +1,10 @@
+{
+  "query": "How many consecutive Big Ten Conference football championships did the player achieve while at Michigan?",
+  "response": [
+    "doc_26940.txt",
+    "doc_34201.txt",
+    "doc_26188.txt",
+    "doc_30025.txt",
+    "doc_10247.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year did St. Jerome complete the Vulgate?",
+  "response": [
+    "doc_28833.txt",
+    "doc_28832.txt",
+    "doc_28828.txt",
+    "doc_28829.txt",
+    "doc_28827.txt"
+  ]
+}

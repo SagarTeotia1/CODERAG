@@ -1,0 +1,10 @@
+{
+  "query": "According to the passages, what role did the angel play in the origin of the Hail Mary prayer?",
+  "response": [
+    "doc_33043.txt",
+    "doc_33039.txt",
+    "doc_33038.txt",
+    "doc_33044.txt",
+    "doc_33047.txt"
+  ]
+}

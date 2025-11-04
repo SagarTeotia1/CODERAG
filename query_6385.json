@@ -1,0 +1,10 @@
+{
+  "query": "What company was established in 2001 as a wholly owned subsidiary of Porsche AG, and where are its headquarters located?",
+  "response": [
+    "doc_21059.txt",
+    "doc_6256.txt",
+    "doc_20654.txt",
+    "doc_26519.txt",
+    "doc_31254.txt"
+  ]
+}

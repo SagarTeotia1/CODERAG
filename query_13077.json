@@ -1,0 +1,10 @@
+{
+  "query": "When was the Miss Universe Slovenia 2009 pageant held?",
+  "response": [
+    "doc_2203.txt",
+    "doc_2202.txt",
+    "doc_16254.txt",
+    "doc_16253.txt",
+    "doc_2201.txt"
+  ]
+}

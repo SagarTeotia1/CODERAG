@@ -1,0 +1,10 @@
+{
+  "query": "Which artist released the song \"Forever Your Girl\"?",
+  "response": [
+    "doc_34135.txt",
+    "doc_34134.txt",
+    "doc_24358.txt",
+    "doc_25923.txt",
+    "doc_173.txt"
+  ]
+}

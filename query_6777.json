@@ -1,0 +1,10 @@
+{
+  "query": "What alcoholic beverages, besides sake, have been produced in northern Korea?",
+  "response": [
+    "doc_688.txt",
+    "doc_687.txt",
+    "doc_690.txt",
+    "doc_14852.txt",
+    "doc_11678.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In 1901, what territory was Oklahoma formed from?",
+  "response": [
+    "doc_3023.txt",
+    "doc_3022.txt",
+    "doc_3024.txt",
+    "doc_789.txt",
+    "doc_3026.txt"
+  ]
+}

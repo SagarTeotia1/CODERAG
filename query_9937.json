@@ -1,0 +1,10 @@
+{
+  "query": "What is the current level of water reserves for the Greek capital, and how does it compare to the level recorded in 2002?",
+  "response": [
+    "doc_19667.txt",
+    "doc_34428.txt",
+    "doc_34431.txt",
+    "doc_2946.txt",
+    "doc_19669.txt"
+  ]
+}

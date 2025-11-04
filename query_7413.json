@@ -1,0 +1,10 @@
+{
+  "query": "When did Elvis Presley’s divorce from Priscilla become final?",
+  "response": [
+    "doc_8878.txt",
+    "doc_8879.txt",
+    "doc_8876.txt",
+    "doc_8875.txt",
+    "doc_8880.txt"
+  ]
+}

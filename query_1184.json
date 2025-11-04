@@ -1,0 +1,10 @@
+{
+  "query": "For which promotions did Ryan Healy compete?",
+  "response": [
+    "doc_30252.txt",
+    "doc_3061.txt",
+    "doc_37486.txt",
+    "doc_3056.txt",
+    "doc_30253.txt"
+  ]
+}

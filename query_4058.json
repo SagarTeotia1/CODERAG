@@ -1,0 +1,10 @@
+{
+  "query": "When was the first edition of *The New Yorker* magazine published?",
+  "response": [
+    "doc_3692.txt",
+    "doc_38378.txt",
+    "doc_3693.txt",
+    "doc_13776.txt",
+    "doc_38380.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "How many protesters were present at City Hall?",
+  "response": [
+    "doc_3177.txt",
+    "doc_17189.txt",
+    "doc_23818.txt",
+    "doc_29547.txt",
+    "doc_37973.txt"
+  ]
+}

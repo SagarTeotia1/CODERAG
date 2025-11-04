@@ -1,0 +1,10 @@
+{
+  "query": "What is the duration of the Danish Government’s planned testing period for modular trucks?",
+  "response": [
+    "doc_17343.txt",
+    "doc_3240.txt",
+    "doc_14848.txt",
+    "doc_39778.txt",
+    "doc_14838.txt"
+  ]
+}

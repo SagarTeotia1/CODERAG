@@ -1,0 +1,10 @@
+{
+  "query": "What are the five specific toppings traditionally included in a “Five-way” Cincinnati chili?",
+  "response": [
+    "doc_30581.txt",
+    "doc_30578.txt",
+    "doc_30580.txt",
+    "doc_30579.txt",
+    "doc_30577.txt"
+  ]
+}

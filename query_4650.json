@@ -1,0 +1,10 @@
+{
+  "query": "In what style was the church of the University of Salzburg built?",
+  "response": [
+    "doc_33775.txt",
+    "doc_33769.txt",
+    "doc_22373.txt",
+    "doc_33772.txt",
+    "doc_34967.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "From what region does Arab civilization extend?",
+  "response": [
+    "doc_3857.txt",
+    "doc_3854.txt",
+    "doc_3855.txt",
+    "doc_3853.txt",
+    "doc_18845.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "For what role did Cooper win his second Best Actor Academy Award?",
+  "response": [
+    "doc_36343.txt",
+    "doc_27322.txt",
+    "doc_27325.txt",
+    "doc_27329.txt",
+    "doc_24707.txt"
+  ]
+}

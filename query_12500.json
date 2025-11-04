@@ -1,0 +1,10 @@
+{
+  "query": "What are some songs written by Joey de Leon?",
+  "response": [
+    "doc_21454.txt",
+    "doc_19638.txt",
+    "doc_12181.txt",
+    "doc_19643.txt",
+    "doc_19647.txt"
+  ]
+}

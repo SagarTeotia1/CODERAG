@@ -1,0 +1,10 @@
+{
+  "query": "Which artistic movement influenced Evelyn De Morgan’s paintings?",
+  "response": [
+    "doc_38967.txt",
+    "doc_38964.txt",
+    "doc_4680.txt",
+    "doc_2306.txt",
+    "doc_38965.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which university does Paolo Manasse teach at?",
+  "response": [
+    "doc_34664.txt",
+    "doc_22369.txt",
+    "doc_36416.txt",
+    "doc_33769.txt",
+    "doc_22368.txt"
+  ]
+}

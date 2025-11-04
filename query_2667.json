@@ -1,0 +1,10 @@
+{
+  "query": "How many Irish citizens have died in Spain, Italy, France, Germany, Greece, and Portugal over the past five years, according to Labour Party statistics?",
+  "response": [
+    "doc_33878.txt",
+    "doc_8112.txt",
+    "doc_7796.txt",
+    "doc_13112.txt",
+    "doc_13292.txt"
+  ]
+}

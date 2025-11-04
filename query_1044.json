@@ -1,0 +1,10 @@
+{
+  "query": "What was the location of the Stanford Invitational race?",
+  "response": [
+    "doc_30067.txt",
+    "doc_33007.txt",
+    "doc_30064.txt",
+    "doc_11353.txt",
+    "doc_30065.txt"
+  ]
+}

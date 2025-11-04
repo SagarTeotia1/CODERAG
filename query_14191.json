@@ -1,0 +1,10 @@
+{
+  "query": "In the 2002 miniseries Rose Red, what is the central premise involving the characters?",
+  "response": [
+    "doc_25548.txt",
+    "doc_25555.txt",
+    "doc_25556.txt",
+    "doc_25552.txt",
+    "doc_19738.txt"
+  ]
+}

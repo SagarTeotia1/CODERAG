@@ -1,0 +1,10 @@
+{
+  "query": "How much money was raised in the first United Way fundraising campaign benefiting 22 agencies?",
+  "response": [
+    "doc_24204.txt",
+    "doc_13147.txt",
+    "doc_24205.txt",
+    "doc_13150.txt",
+    "doc_13148.txt"
+  ]
+}

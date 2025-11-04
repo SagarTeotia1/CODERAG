@@ -1,0 +1,10 @@
+{
+  "query": "Which song earned Tennessee Ernie Ford a number one hit?",
+  "response": [
+    "doc_2864.txt",
+    "doc_2867.txt",
+    "doc_2868.txt",
+    "doc_2865.txt",
+    "doc_2863.txt"
+  ]
+}

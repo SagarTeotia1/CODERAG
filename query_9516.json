@@ -1,0 +1,10 @@
+{
+  "query": "Which Baltic coastal states are recognized as having pilotage authorities that license deep-sea pilots?",
+  "response": [
+    "doc_14023.txt",
+    "doc_28822.txt",
+    "doc_26346.txt",
+    "doc_26353.txt",
+    "doc_26347.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Does the passage suggest that Tokuda hospital’s pricing policy violates EU principles of equal treatment for patients?",
+  "response": [
+    "doc_3881.txt",
+    "doc_30680.txt",
+    "doc_12340.txt",
+    "doc_14198.txt",
+    "doc_30697.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what context did Hillary Clinton initially use the term “vast right-wing conspiracy”?",
+  "response": [
+    "doc_17066.txt",
+    "doc_17065.txt",
+    "doc_4358.txt",
+    "doc_35500.txt",
+    "doc_35498.txt"
+  ]
+}

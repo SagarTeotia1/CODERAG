@@ -1,0 +1,10 @@
+{
+  "query": "When was Sheffield Wednesday’s last major trophy win before this event?",
+  "response": [
+    "doc_15784.txt",
+    "doc_15783.txt",
+    "doc_15782.txt",
+    "doc_16759.txt",
+    "doc_16760.txt"
+  ]
+}

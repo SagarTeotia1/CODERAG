@@ -1,0 +1,10 @@
+{
+  "query": "What claim has the Royal British Legion made regarding post-war care for soldiers in Britain?",
+  "response": [
+    "doc_8993.txt",
+    "doc_1040.txt",
+    "doc_1039.txt",
+    "doc_1091.txt",
+    "doc_1074.txt"
+  ]
+}

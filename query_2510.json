@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided text, who is Manfred de Spain?",
+  "response": [
+    "doc_8653.txt",
+    "doc_1861.txt",
+    "doc_11061.txt",
+    "doc_3711.txt",
+    "doc_14883.txt"
+  ]
+}

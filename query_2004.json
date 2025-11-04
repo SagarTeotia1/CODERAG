@@ -1,0 +1,10 @@
+{
+  "query": "What monument did Huey Long order constructed as a building in the capitol?",
+  "response": [
+    "doc_32215.txt",
+    "doc_32218.txt",
+    "doc_32219.txt",
+    "doc_32214.txt",
+    "doc_32217.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What conference did the 2012 Kansas State Wildcats football team compete in?",
+  "response": [
+    "doc_38292.txt",
+    "doc_38293.txt",
+    "doc_38294.txt",
+    "doc_21842.txt",
+    "doc_37222.txt"
+  ]
+}

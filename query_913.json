@@ -1,0 +1,10 @@
+{
+  "query": "What is Dick Grayson’s role?",
+  "response": [
+    "doc_20555.txt",
+    "doc_20560.txt",
+    "doc_20549.txt",
+    "doc_20559.txt",
+    "doc_20557.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "From where did the Xenon-133 gas detected in the Azores originate?",
+  "response": [
+    "doc_9335.txt",
+    "doc_9333.txt",
+    "doc_27725.txt",
+    "doc_37065.txt",
+    "doc_34239.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the estimated cost for the purchase of 150 official, armour-plated cars for the EEAS?",
+  "response": [
+    "doc_11006.txt",
+    "doc_7429.txt",
+    "doc_17524.txt",
+    "doc_8043.txt",
+    "doc_9413.txt"
+  ]
+}

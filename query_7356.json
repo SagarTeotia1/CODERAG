@@ -1,0 +1,10 @@
+{
+  "query": "To whom did Mr. Lincoln write in July 1859 regarding the...?",
+  "response": [
+    "doc_26398.txt",
+    "doc_19472.txt",
+    "doc_33962.txt",
+    "doc_14423.txt",
+    "doc_9616.txt"
+  ]
+}

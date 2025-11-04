@@ -1,0 +1,10 @@
+{
+  "query": "Did the Finnish seamen’s union attempt to prevent the reflagging of the Viking Line ferry ‘Rosella’?",
+  "response": [
+    "doc_28923.txt",
+    "doc_8202.txt",
+    "doc_27152.txt",
+    "doc_10243.txt",
+    "doc_22311.txt"
+  ]
+}

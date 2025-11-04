@@ -1,0 +1,10 @@
+{
+  "query": "During what year did Tchaikovsky begin reading Dante?",
+  "response": [
+    "doc_4156.txt",
+    "doc_4157.txt",
+    "doc_10685.txt",
+    "doc_1642.txt",
+    "doc_2388.txt"
+  ]
+}

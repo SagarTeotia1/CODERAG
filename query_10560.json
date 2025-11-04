@@ -1,0 +1,10 @@
+{
+  "query": "What type of power plant is the Belle River Power Plant, and who owns it?",
+  "response": [
+    "doc_27496.txt",
+    "doc_17478.txt",
+    "doc_1718.txt",
+    "doc_1719.txt",
+    "doc_27504.txt"
+  ]
+}

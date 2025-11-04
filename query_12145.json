@@ -1,0 +1,10 @@
+{
+  "query": "How often did Ian Kennedy throw his curveball in 2014?",
+  "response": [
+    "doc_20521.txt",
+    "doc_20522.txt",
+    "doc_20520.txt",
+    "doc_20519.txt",
+    "doc_20518.txt"
+  ]
+}

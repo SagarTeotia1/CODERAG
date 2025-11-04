@@ -1,0 +1,10 @@
+{
+  "query": "What year was the album \"Simple Soul\" released?",
+  "response": [
+    "doc_12872.txt",
+    "doc_22154.txt",
+    "doc_22155.txt",
+    "doc_22158.txt",
+    "doc_11206.txt"
+  ]
+}

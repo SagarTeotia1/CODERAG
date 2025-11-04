@@ -1,0 +1,10 @@
+{
+  "query": "What is the title of the play based on Chapter 8 of Catch-22?",
+  "response": [
+    "doc_17245.txt",
+    "doc_17246.txt",
+    "doc_17247.txt",
+    "doc_37499.txt",
+    "doc_37491.txt"
+  ]
+}

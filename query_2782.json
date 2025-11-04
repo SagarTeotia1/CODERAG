@@ -1,0 +1,10 @@
+{
+  "query": "What awards have been given by the American Society of Pharmacognosy (ASP)?",
+  "response": [
+    "doc_34157.txt",
+    "doc_34159.txt",
+    "doc_34156.txt",
+    "doc_38707.txt",
+    "doc_34155.txt"
+  ]
+}

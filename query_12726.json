@@ -1,0 +1,10 @@
+{
+  "query": "Who was the first leader of Memorial, and what organization was he associated with?",
+  "response": [
+    "doc_36888.txt",
+    "doc_36896.txt",
+    "doc_36893.txt",
+    "doc_36895.txt",
+    "doc_36894.txt"
+  ]
+}

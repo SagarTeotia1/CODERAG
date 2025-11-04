@@ -1,0 +1,10 @@
+{
+  "query": "What is the Potala Palace primarily known as?",
+  "response": [
+    "doc_31441.txt",
+    "doc_31442.txt",
+    "doc_31445.txt",
+    "doc_31443.txt",
+    "doc_31444.txt"
+  ]
+}

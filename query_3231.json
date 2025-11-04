@@ -1,0 +1,10 @@
+{
+  "query": "Which specific customs locations in Sweden are being discontinued, according to the Swedish Government proposal?",
+  "response": [
+    "doc_35136.txt",
+    "doc_16475.txt",
+    "doc_6806.txt",
+    "doc_18713.txt",
+    "doc_10127.txt"
+  ]
+}

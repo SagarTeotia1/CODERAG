@@ -1,0 +1,10 @@
+{
+  "query": "What is the VAT status of financial services exempt under Article 135(1)(d) of Directive 2006/112/CE when provided by a service provider established outside the EU?",
+  "response": [
+    "doc_8201.txt",
+    "doc_30939.txt",
+    "doc_25091.txt",
+    "doc_35896.txt",
+    "doc_2007.txt"
+  ]
+}

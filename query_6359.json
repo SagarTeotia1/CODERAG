@@ -1,0 +1,10 @@
+{
+  "query": "What year was the American Bible Society Building on Nassau Street constructed?",
+  "response": [
+    "doc_6200.txt",
+    "doc_6199.txt",
+    "doc_6192.txt",
+    "doc_17479.txt",
+    "doc_6197.txt"
+  ]
+}

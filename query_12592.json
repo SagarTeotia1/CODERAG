@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what is Banquo predicted to be the father of?",
+  "response": [
+    "doc_21683.txt",
+    "doc_19350.txt",
+    "doc_21684.txt",
+    "doc_21681.txt",
+    "doc_21680.txt"
+  ]
+}

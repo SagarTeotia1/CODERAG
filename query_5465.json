@@ -1,0 +1,10 @@
+{
+  "query": "According to the report, what percentage of fuel efficiency improvement could be achieved through improvements in air traffic management, as suggested by the IPCC?",
+  "response": [
+    "doc_4018.txt",
+    "doc_3163.txt",
+    "doc_27585.txt",
+    "doc_3558.txt",
+    "doc_4839.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Who wrote “Independent Women Part I,” the song featured in the “Charlie’s Angels” soundtrack?",
+  "response": [
+    "doc_171.txt",
+    "doc_174.txt",
+    "doc_169.txt",
+    "doc_170.txt",
+    "doc_173.txt"
+  ]
+}

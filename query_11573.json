@@ -1,0 +1,10 @@
+{
+  "query": "Which university hosted the 1949 NCAA Swimming and Diving Championships?",
+  "response": [
+    "doc_31422.txt",
+    "doc_38472.txt",
+    "doc_31419.txt",
+    "doc_17797.txt",
+    "doc_12590.txt"
+  ]
+}

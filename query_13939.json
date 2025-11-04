@@ -1,0 +1,10 @@
+{
+  "query": "What type of game is Jumanji described as being?",
+  "response": [
+    "doc_24911.txt",
+    "doc_24915.txt",
+    "doc_24912.txt",
+    "doc_24919.txt",
+    "doc_24914.txt"
+  ]
+}

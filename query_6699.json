@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, how long does it typically take for an Atlantic salmon to reach a weight suitable for sale, compared to the modified salmon?",
+  "response": [
+    "doc_12338.txt",
+    "doc_29723.txt",
+    "doc_29664.txt",
+    "doc_24740.txt",
+    "doc_7967.txt"
+  ]
+}

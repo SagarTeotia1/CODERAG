@@ -1,0 +1,10 @@
+{
+  "query": "What projects (dams, desalination plants, etc.) has the EU co-financed in Greece in the past six years?",
+  "response": [
+    "doc_15025.txt",
+    "doc_26213.txt",
+    "doc_2293.txt",
+    "doc_21711.txt",
+    "doc_14886.txt"
+  ]
+}

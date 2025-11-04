@@ -1,0 +1,10 @@
+{
+  "query": "Where can one find more details about the situation in Mexican waters related to the oil spill?",
+  "response": [
+    "doc_3098.txt",
+    "doc_19987.txt",
+    "doc_16273.txt",
+    "doc_6091.txt",
+    "doc_24335.txt"
+  ]
+}

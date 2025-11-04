@@ -1,0 +1,10 @@
+{
+  "query": "What loan was provided to Olympic Airways in February 2002, and what was its value?",
+  "response": [
+    "doc_40166.txt",
+    "doc_5218.txt",
+    "doc_5425.txt",
+    "doc_13340.txt",
+    "doc_37210.txt"
+  ]
+}

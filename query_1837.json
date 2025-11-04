@@ -1,0 +1,10 @@
+{
+  "query": "Does the Commission believe the Spanish government’s nuclear power plans align with the Kyoto Protocol’s targets?",
+  "response": [
+    "doc_31741.txt",
+    "doc_4572.txt",
+    "doc_14595.txt",
+    "doc_2289.txt",
+    "doc_14633.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "For what award was Express Live! nominated in 2001?",
+  "response": [
+    "doc_26175.txt",
+    "doc_35929.txt",
+    "doc_26174.txt",
+    "doc_7368.txt",
+    "doc_27329.txt"
+  ]
+}

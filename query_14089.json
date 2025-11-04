@@ -1,0 +1,10 @@
+{
+  "query": "Is a person who has been declared bankrupt in the UK free to live anywhere they wish in the UK?",
+  "response": [
+    "doc_25297.txt",
+    "doc_4189.txt",
+    "doc_908.txt",
+    "doc_19055.txt",
+    "doc_892.txt"
+  ]
+}

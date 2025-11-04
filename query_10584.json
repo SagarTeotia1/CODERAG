@@ -1,0 +1,10 @@
+{
+  "query": "Which committee was appointed Werner Langen as rapporteur?",
+  "response": [
+    "doc_5385.txt",
+    "doc_16622.txt",
+    "doc_26433.txt",
+    "doc_2085.txt",
+    "doc_7761.txt"
+  ]
+}

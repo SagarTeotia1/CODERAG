@@ -1,0 +1,10 @@
+{
+  "query": "What role does the European Union play in the disputed territory of Kashmir?",
+  "response": [
+    "doc_23033.txt",
+    "doc_5758.txt",
+    "doc_15859.txt",
+    "doc_10390.txt",
+    "doc_34199.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "On which radio station did Richard Mercer previously host “Love Songs and Dedications”?",
+  "response": [
+    "doc_3349.txt",
+    "doc_26175.txt",
+    "doc_37853.txt",
+    "doc_26174.txt",
+    "doc_19640.txt"
+  ]
+}

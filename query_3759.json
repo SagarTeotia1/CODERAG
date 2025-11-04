@@ -1,0 +1,10 @@
+{
+  "query": "In 1989, what security measure did Margaret Thatcher implement at the Whitehall end of London Bridge?",
+  "response": [
+    "doc_36363.txt",
+    "doc_36366.txt",
+    "doc_36369.txt",
+    "doc_36362.txt",
+    "doc_36371.txt"
+  ]
+}

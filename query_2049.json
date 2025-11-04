@@ -1,0 +1,10 @@
+{
+  "query": "Where was Marcus Garvey born?",
+  "response": [
+    "doc_32332.txt",
+    "doc_32330.txt",
+    "doc_32335.txt",
+    "doc_20691.txt",
+    "doc_32329.txt"
+  ]
+}

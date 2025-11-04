@@ -1,0 +1,10 @@
+{
+  "query": "What was the consequence for tennis players in Belgium who failed to correctly complete their whereabouts reporting forms?",
+  "response": [
+    "doc_11716.txt",
+    "doc_1116.txt",
+    "doc_28301.txt",
+    "doc_34204.txt",
+    "doc_18218.txt"
+  ]
+}

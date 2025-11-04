@@ -1,0 +1,10 @@
+{
+  "query": "What is the distance of the 1973 Belmont Stakes?",
+  "response": [
+    "doc_32637.txt",
+    "doc_5733.txt",
+    "doc_32639.txt",
+    "doc_30111.txt",
+    "doc_32631.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the primary goal of compiling European accounts by institutional sector, as outlined in the text?",
+  "response": [
+    "doc_6012.txt",
+    "doc_6011.txt",
+    "doc_6013.txt",
+    "doc_13604.txt",
+    "doc_13601.txt"
+  ]
+}

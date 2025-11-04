@@ -1,0 +1,10 @@
+{
+  "query": "In what state did Norman Kunst run for the House of Representatives?",
+  "response": [
+    "doc_28237.txt",
+    "doc_27737.txt",
+    "doc_26785.txt",
+    "doc_28238.txt",
+    "doc_28244.txt"
+  ]
+}

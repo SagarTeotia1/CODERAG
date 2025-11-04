@@ -1,0 +1,10 @@
+{
+  "query": "What is the title of a book by Jerry Pinkney featured in the passage?",
+  "response": [
+    "doc_1236.txt",
+    "doc_1235.txt",
+    "doc_1234.txt",
+    "doc_1230.txt",
+    "doc_1233.txt"
+  ]
+}

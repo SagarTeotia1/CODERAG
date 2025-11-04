@@ -1,0 +1,10 @@
+{
+  "query": "Did Thomas Jefferson free his children with Sally Hemings?",
+  "response": [
+    "doc_26503.txt",
+    "doc_26501.txt",
+    "doc_32231.txt",
+    "doc_26500.txt",
+    "doc_26502.txt"
+  ]
+}

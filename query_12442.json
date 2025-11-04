@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the first novel in the Dr. Fu Manchu series?",
+  "response": [
+    "doc_11521.txt",
+    "doc_39770.txt",
+    "doc_11523.txt",
+    "doc_34645.txt",
+    "doc_11524.txt"
+  ]
+}

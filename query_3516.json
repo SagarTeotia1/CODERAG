@@ -1,0 +1,10 @@
+{
+  "query": "In what year did James John Miles graduate with a first-class honours degree in Physics?",
+  "response": [
+    "doc_3031.txt",
+    "doc_3029.txt",
+    "doc_3032.txt",
+    "doc_3030.txt",
+    "doc_3034.txt"
+  ]
+}

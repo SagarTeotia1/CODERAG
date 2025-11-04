@@ -1,0 +1,10 @@
+{
+  "query": "When will the President of Ukraine address the House?",
+  "response": [
+    "doc_4199.txt",
+    "doc_19564.txt",
+    "doc_4333.txt",
+    "doc_19562.txt",
+    "doc_13970.txt"
+  ]
+}

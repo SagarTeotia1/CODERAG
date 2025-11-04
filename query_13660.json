@@ -1,0 +1,10 @@
+{
+  "query": "When was Rut Tellefsen born?",
+  "response": [
+    "doc_16358.txt",
+    "doc_16793.txt",
+    "doc_16361.txt",
+    "doc_37974.txt",
+    "doc_10051.txt"
+  ]
+}

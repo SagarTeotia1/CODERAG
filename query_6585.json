@@ -1,0 +1,10 @@
+{
+  "query": "What was the retired Czech football defender’s role in 2012?",
+  "response": [
+    "doc_3203.txt",
+    "doc_21362.txt",
+    "doc_15920.txt",
+    "doc_22827.txt",
+    "doc_18545.txt"
+  ]
+}

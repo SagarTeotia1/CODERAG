@@ -1,0 +1,10 @@
+{
+  "query": "What was Susan O’Malley’s role before becoming president of the Washington Wizards?",
+  "response": [
+    "doc_32595.txt",
+    "doc_32597.txt",
+    "doc_32596.txt",
+    "doc_32601.txt",
+    "doc_32599.txt"
+  ]
+}

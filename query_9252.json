@@ -1,0 +1,10 @@
+{
+  "query": "When were the advance and balance payments made to Portugal related to this project?",
+  "response": [
+    "doc_10867.txt",
+    "doc_13474.txt",
+    "doc_12521.txt",
+    "doc_33816.txt",
+    "doc_7293.txt"
+  ]
+}

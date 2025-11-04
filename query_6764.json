@@ -1,0 +1,10 @@
+{
+  "query": "What is the outstanding amount owed by third parties to all EU institutions (including the agencies) from each year from 1995 to 2004 inclusive?",
+  "response": [
+    "doc_7312.txt",
+    "doc_37968.txt",
+    "doc_28326.txt",
+    "doc_39128.txt",
+    "doc_10121.txt"
+  ]
+}

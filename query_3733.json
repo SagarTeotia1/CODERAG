@@ -1,0 +1,10 @@
+{
+  "query": "What perfume was Elizabeth Taylor promoting during her honeymoon?",
+  "response": [
+    "doc_36319.txt",
+    "doc_36318.txt",
+    "doc_36322.txt",
+    "doc_36323.txt",
+    "doc_36320.txt"
+  ]
+}

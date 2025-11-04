@@ -1,0 +1,10 @@
+{
+  "query": "When did Tiger Woods first win at the Masters Tournament?",
+  "response": [
+    "doc_35649.txt",
+    "doc_35636.txt",
+    "doc_35641.txt",
+    "doc_35643.txt",
+    "doc_35645.txt"
+  ]
+}

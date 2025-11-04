@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the Porcher ship launched?",
+  "response": [
+    "doc_18670.txt",
+    "doc_20415.txt",
+    "doc_20414.txt",
+    "doc_25884.txt",
+    "doc_25882.txt"
+  ]
+}

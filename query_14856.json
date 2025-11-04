@@ -1,0 +1,10 @@
+{
+  "query": "When was “The Lonely” by Christina Perri first released?",
+  "response": [
+    "doc_12185.txt",
+    "doc_12184.txt",
+    "doc_22154.txt",
+    "doc_38901.txt",
+    "doc_173.txt"
+  ]
+}

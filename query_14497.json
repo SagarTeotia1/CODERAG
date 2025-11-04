@@ -1,0 +1,10 @@
+{
+  "query": "In which stadium did the Kentucky Wildcats play their home games?",
+  "response": [
+    "doc_19110.txt",
+    "doc_26395.txt",
+    "doc_26394.txt",
+    "doc_27296.txt",
+    "doc_27295.txt"
+  ]
+}

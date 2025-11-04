@@ -1,0 +1,10 @@
+{
+  "query": "From what meaning does the name “Hong Kong” originate?",
+  "response": [
+    "doc_5052.txt",
+    "doc_5053.txt",
+    "doc_5060.txt",
+    "doc_5054.txt",
+    "doc_5055.txt"
+  ]
+}

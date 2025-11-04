@@ -1,0 +1,10 @@
+{
+  "query": "What did the individual described in one of the articles do using the computer language Python?",
+  "response": [
+    "doc_780.txt",
+    "doc_31321.txt",
+    "doc_781.txt",
+    "doc_31331.txt",
+    "doc_31324.txt"
+  ]
+}

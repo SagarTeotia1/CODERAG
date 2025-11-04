@@ -1,0 +1,10 @@
+{
+  "query": "What two books did Bunyan primarily study while in prison?",
+  "response": [
+    "doc_27516.txt",
+    "doc_27515.txt",
+    "doc_27523.txt",
+    "doc_27522.txt",
+    "doc_27517.txt"
+  ]
+}

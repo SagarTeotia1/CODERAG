@@ -1,0 +1,10 @@
+{
+  "query": "What weight class did the Floyd Mayweather Jr. vs. Conor McGregor boxing match take place in?",
+  "response": [
+    "doc_18271.txt",
+    "doc_26224.txt",
+    "doc_24322.txt",
+    "doc_3245.txt",
+    "doc_18270.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the A&W root beer first sold?",
+  "response": [
+    "doc_12065.txt",
+    "doc_12068.txt",
+    "doc_12069.txt",
+    "doc_12066.txt",
+    "doc_12067.txt"
+  ]
+}

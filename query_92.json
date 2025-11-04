@@ -1,0 +1,10 @@
+{
+  "query": "Which types of reports are automatically authorized by the Conference of Committee Chairs?",
+  "response": [
+    "doc_2706.txt",
+    "doc_2705.txt",
+    "doc_2707.txt",
+    "doc_29301.txt",
+    "doc_2599.txt"
+  ]
+}

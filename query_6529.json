@@ -1,0 +1,10 @@
+{
+  "query": "What is the title of the song Donovan performed live in 1968, as referenced in one of the links?",
+  "response": [
+    "doc_6708.txt",
+    "doc_6714.txt",
+    "doc_6713.txt",
+    "doc_6715.txt",
+    "doc_6707.txt"
+  ]
+}

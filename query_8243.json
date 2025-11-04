@@ -1,0 +1,10 @@
+{
+  "query": "Which political party did Jessica Sanchez support during the presidential election?",
+  "response": [
+    "doc_7.txt",
+    "doc_25145.txt",
+    "doc_6.txt",
+    "doc_35498.txt",
+    "doc_17489.txt"
+  ]
+}

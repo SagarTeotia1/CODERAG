@@ -1,0 +1,10 @@
+{
+  "query": "How are comments submitted to the Commission regarding EFSA’s opinions made publicly available?",
+  "response": [
+    "doc_32021.txt",
+    "doc_32022.txt",
+    "doc_30752.txt",
+    "doc_29469.txt",
+    "doc_33714.txt"
+  ]
+}

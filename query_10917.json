@@ -1,0 +1,10 @@
+{
+  "query": "In which film did Gina Manès portray Joséphine de Beauharnais?",
+  "response": [
+    "doc_23956.txt",
+    "doc_20499.txt",
+    "doc_11073.txt",
+    "doc_17372.txt",
+    "doc_23958.txt"
+  ]
+}

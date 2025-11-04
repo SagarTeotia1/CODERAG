@@ -1,0 +1,10 @@
+{
+  "query": "What was the official probable cause of EgyptAir Flight 990’s crash?",
+  "response": [
+    "doc_32189.txt",
+    "doc_3536.txt",
+    "doc_3530.txt",
+    "doc_3529.txt",
+    "doc_3533.txt"
+  ]
+}

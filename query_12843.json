@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the 2010 FINA Diving World Cup held, and in which city and country did it take place?",
+  "response": [
+    "doc_22323.txt",
+    "doc_19105.txt",
+    "doc_19106.txt",
+    "doc_33680.txt",
+    "doc_17818.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What age group is the animated TV series “Everything’s Rosie” designed for?",
+  "response": [
+    "doc_19893.txt",
+    "doc_19894.txt",
+    "doc_9722.txt",
+    "doc_12354.txt",
+    "doc_26966.txt"
+  ]
+}

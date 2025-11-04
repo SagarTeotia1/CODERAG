@@ -1,0 +1,10 @@
+{
+  "query": "What was the name of the baby born in the Baby M case at the time of her birth?",
+  "response": [
+    "doc_22991.txt",
+    "doc_31232.txt",
+    "doc_36549.txt",
+    "doc_37902.txt",
+    "doc_36804.txt"
+  ]
+}

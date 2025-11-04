@@ -1,0 +1,10 @@
+{
+  "query": "What awards did Glen Ballard receive for his work on Alanis Morissette’s “Jagged Little Pill”?",
+  "response": [
+    "doc_15904.txt",
+    "doc_15900.txt",
+    "doc_15901.txt",
+    "doc_15902.txt",
+    "doc_15912.txt"
+  ]
+}

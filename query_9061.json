@@ -1,0 +1,10 @@
+{
+  "query": "Which magazines published reviews by Dorothy Parker?",
+  "response": [
+    "doc_12953.txt",
+    "doc_12952.txt",
+    "doc_12950.txt",
+    "doc_12948.txt",
+    "doc_8661.txt"
+  ]
+}

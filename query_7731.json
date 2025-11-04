@@ -1,0 +1,10 @@
+{
+  "query": "In which region of France is the Château de Hierges located?",
+  "response": [
+    "doc_34954.txt",
+    "doc_34957.txt",
+    "doc_34953.txt",
+    "doc_28650.txt",
+    "doc_29108.txt"
+  ]
+}

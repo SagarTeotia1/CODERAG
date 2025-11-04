@@ -1,0 +1,10 @@
+{
+  "query": "What specific actions is the sender of the question requesting the Commission to take regarding China and Sri Lanka?",
+  "response": [
+    "doc_12245.txt",
+    "doc_5510.txt",
+    "doc_19306.txt",
+    "doc_28125.txt",
+    "doc_32914.txt"
+  ]
+}

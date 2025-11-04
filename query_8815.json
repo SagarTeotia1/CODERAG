@@ -1,0 +1,10 @@
+{
+  "query": "How many college basketball wins did Bridges accumulate throughout his career?",
+  "response": [
+    "doc_17453.txt",
+    "doc_9020.txt",
+    "doc_17459.txt",
+    "doc_17448.txt",
+    "doc_17451.txt"
+  ]
+}

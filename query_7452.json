@@ -1,0 +1,10 @@
+{
+  "query": "What countries, besides Europe, are identified as potentially benefiting from the new ETS III directive regarding fertiliser production?",
+  "response": [
+    "doc_8977.txt",
+    "doc_35465.txt",
+    "doc_19312.txt",
+    "doc_12193.txt",
+    "doc_35968.txt"
+  ]
+}

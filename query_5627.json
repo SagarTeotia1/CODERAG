@@ -1,0 +1,10 @@
+{
+  "query": "What time was Time Inc.'s Annual Meeting of Stockholders scheduled to begin?",
+  "response": [
+    "doc_38380.txt",
+    "doc_38377.txt",
+    "doc_38389.txt",
+    "doc_38379.txt",
+    "doc_38378.txt"
+  ]
+}

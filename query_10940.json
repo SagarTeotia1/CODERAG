@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of the EU budget does cohesion policy account for?",
+  "response": [
+    "doc_8383.txt",
+    "doc_19211.txt",
+    "doc_15484.txt",
+    "doc_9499.txt",
+    "doc_35269.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What role does the ‘Defensor del cliente’ play in handling complaints related to the ECG?",
+  "response": [
+    "doc_33578.txt",
+    "doc_5489.txt",
+    "doc_1058.txt",
+    "doc_5490.txt",
+    "doc_33579.txt"
+  ]
+}

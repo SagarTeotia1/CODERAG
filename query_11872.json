@@ -1,0 +1,10 @@
+{
+  "query": "Which specific mushroom prints are available, and what are their dimensions (e.g., Coral-Like Hydnum, Horse Mushroom)?",
+  "response": [
+    "doc_19943.txt",
+    "doc_19942.txt",
+    "doc_19937.txt",
+    "doc_19944.txt",
+    "doc_19940.txt"
+  ]
+}

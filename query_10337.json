@@ -1,0 +1,10 @@
+{
+  "query": "In what year was “Land of Dreams” released, and who directed it?",
+  "response": [
+    "doc_26752.txt",
+    "doc_26753.txt",
+    "doc_26756.txt",
+    "doc_26755.txt",
+    "doc_26754.txt"
+  ]
+}

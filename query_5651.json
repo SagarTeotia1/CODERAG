@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of the Coal and Steel Research Fund’s revenue is allocated to the coal sector?",
+  "response": [
+    "doc_38368.txt",
+    "doc_40177.txt",
+    "doc_16232.txt",
+    "doc_38371.txt",
+    "doc_38372.txt"
+  ]
+}

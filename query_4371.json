@@ -1,0 +1,10 @@
+{
+  "query": "What types of treats were included in the “Oh Henry!” candy bar?",
+  "response": [
+    "doc_37821.txt",
+    "doc_37822.txt",
+    "doc_30158.txt",
+    "doc_30156.txt",
+    "doc_30160.txt"
+  ]
+}

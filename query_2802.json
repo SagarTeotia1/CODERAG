@@ -1,0 +1,10 @@
+{
+  "query": "Who gained custody of Lucy after Daniel gave up his parental rights?",
+  "response": [
+    "doc_34139.txt",
+    "doc_34144.txt",
+    "doc_26960.txt",
+    "doc_23273.txt",
+    "doc_30146.txt"
+  ]
+}

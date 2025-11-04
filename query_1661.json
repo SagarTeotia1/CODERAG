@@ -1,0 +1,10 @@
+{
+  "query": "What is the estimated feasible amount of biomass (in Mtoe) that Europe could produce by 2020, according to the European Environment Agency’s report?",
+  "response": [
+    "doc_31320.txt",
+    "doc_26822.txt",
+    "doc_21257.txt",
+    "doc_6391.txt",
+    "doc_21258.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what shape is capelli d’angelo pasta often sold?",
+  "response": [
+    "doc_30220.txt",
+    "doc_30219.txt",
+    "doc_30216.txt",
+    "doc_30217.txt",
+    "doc_30218.txt"
+  ]
+}

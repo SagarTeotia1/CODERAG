@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of Toyota’s automobile unit sales occurred during fiscal 2004?",
+  "response": [
+    "doc_20656.txt",
+    "doc_20657.txt",
+    "doc_20660.txt",
+    "doc_20659.txt",
+    "doc_20655.txt"
+  ]
+}

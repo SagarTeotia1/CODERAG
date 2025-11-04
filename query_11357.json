@@ -1,0 +1,10 @@
+{
+  "query": "What was the primary subject of the 1999 film “Being John Malkovich”?",
+  "response": [
+    "doc_18483.txt",
+    "doc_27967.txt",
+    "doc_16072.txt",
+    "doc_4079.txt",
+    "doc_4075.txt"
+  ]
+}

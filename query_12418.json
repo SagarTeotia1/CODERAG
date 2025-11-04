@@ -1,0 +1,10 @@
+{
+  "query": "What type of plain is characteristic of the Arctic and Antarctic regions?",
+  "response": [
+    "doc_34762.txt",
+    "doc_21196.txt",
+    "doc_15896.txt",
+    "doc_21195.txt",
+    "doc_21198.txt"
+  ]
+}

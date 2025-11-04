@@ -1,0 +1,10 @@
+{
+  "query": "Who choreographed the ballet “Fall River Legend”?",
+  "response": [
+    "doc_25736.txt",
+    "doc_25737.txt",
+    "doc_25732.txt",
+    "doc_25730.txt",
+    "doc_25731.txt"
+  ]
+}

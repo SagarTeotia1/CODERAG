@@ -1,0 +1,10 @@
+{
+  "query": "What type of game is “Jurassic Park: Operation Genesis,” and what is its primary objective?",
+  "response": [
+    "doc_21022.txt",
+    "doc_21021.txt",
+    "doc_38353.txt",
+    "doc_38361.txt",
+    "doc_38351.txt"
+  ]
+}

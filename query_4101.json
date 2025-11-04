@@ -1,0 +1,10 @@
+{
+  "query": "In which room will the JURI Next Legal Affairs Committee meeting take place?",
+  "response": [
+    "doc_37220.txt",
+    "doc_34761.txt",
+    "doc_29713.txt",
+    "doc_38132.txt",
+    "doc_15998.txt"
+  ]
+}

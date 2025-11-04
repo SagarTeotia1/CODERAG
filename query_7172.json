@@ -1,0 +1,10 @@
+{
+  "query": "Which organizations are members of the Galatasaray Community Cooperation Committee?",
+  "response": [
+    "doc_9962.txt",
+    "doc_11051.txt",
+    "doc_7851.txt",
+    "doc_27258.txt",
+    "doc_36139.txt"
+  ]
+}

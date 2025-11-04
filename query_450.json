@@ -1,0 +1,10 @@
+{
+  "query": "What prestigious venues have hosted performances of López’s music?",
+  "response": [
+    "doc_35290.txt",
+    "doc_14954.txt",
+    "doc_30502.txt",
+    "doc_2798.txt",
+    "doc_3110.txt"
+  ]
+}

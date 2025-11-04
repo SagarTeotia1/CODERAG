@@ -1,0 +1,10 @@
+{
+  "query": "In what Olympic field hockey tournaments did Denmark participate?",
+  "response": [
+    "doc_18916.txt",
+    "doc_6672.txt",
+    "doc_18913.txt",
+    "doc_18912.txt",
+    "doc_18914.txt"
+  ]
+}

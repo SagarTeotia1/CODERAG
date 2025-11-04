@@ -1,0 +1,10 @@
+{
+  "query": "What military campaign involved Marlborough and resulted in an inscription on the Column of Victory at Blenheim Palace?",
+  "response": [
+    "doc_30725.txt",
+    "doc_40135.txt",
+    "doc_30728.txt",
+    "doc_30723.txt",
+    "doc_27487.txt"
+  ]
+}

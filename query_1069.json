@@ -1,0 +1,10 @@
+{
+  "query": "What is the highest point of the Maldives above sea level?",
+  "response": [
+    "doc_2941.txt",
+    "doc_2942.txt",
+    "doc_4581.txt",
+    "doc_6330.txt",
+    "doc_19520.txt"
+  ]
+}

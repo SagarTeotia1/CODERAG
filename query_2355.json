@@ -1,0 +1,10 @@
+{
+  "query": "What was the percentage of Romania’s total cultivated area that was certified for organic farming in 2009?",
+  "response": [
+    "doc_33103.txt",
+    "doc_18032.txt",
+    "doc_29749.txt",
+    "doc_24070.txt",
+    "doc_29752.txt"
+  ]
+}

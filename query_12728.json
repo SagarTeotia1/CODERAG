@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of children between 3 years old and the mandatory school age were the EU aiming to have access to childcare by 2010?",
+  "response": [
+    "doc_20185.txt",
+    "doc_22001.txt",
+    "doc_7705.txt",
+    "doc_29155.txt",
+    "doc_34846.txt"
+  ]
+}

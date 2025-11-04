@@ -1,0 +1,10 @@
+{
+  "query": "When was WestAir Commuter Airlines formed?",
+  "response": [
+    "doc_12896.txt",
+    "doc_10611.txt",
+    "doc_24034.txt",
+    "doc_27107.txt",
+    "doc_10610.txt"
+  ]
+}

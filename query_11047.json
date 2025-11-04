@@ -1,0 +1,10 @@
+{
+  "query": "Name three museums located in Juneau, Alaska, according to the provided text.",
+  "response": [
+    "doc_17724.txt",
+    "doc_17726.txt",
+    "doc_17729.txt",
+    "doc_17725.txt",
+    "doc_17728.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to the EPA study, what is the difference in energy consumption between white background CRT screens and dark background CRT screens?",
+  "response": [
+    "doc_37756.txt",
+    "doc_4837.txt",
+    "doc_8558.txt",
+    "doc_5648.txt",
+    "doc_38392.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Where is Hans Christian Andersen’s childhood home located?",
+  "response": [
+    "doc_715.txt",
+    "doc_7160.txt",
+    "doc_35203.txt",
+    "doc_35204.txt",
+    "doc_716.txt"
+  ]
+}

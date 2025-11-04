@@ -1,0 +1,10 @@
+{
+  "query": "What state is Western Washington University located in?",
+  "response": [
+    "doc_5620.txt",
+    "doc_5622.txt",
+    "doc_5623.txt",
+    "doc_4636.txt",
+    "doc_4633.txt"
+  ]
+}

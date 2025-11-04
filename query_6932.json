@@ -1,0 +1,10 @@
+{
+  "query": "What was the cause of death for Vladimir Nabokov, the author of *Lolita*?",
+  "response": [
+    "doc_20122.txt",
+    "doc_20121.txt",
+    "doc_20125.txt",
+    "doc_20126.txt",
+    "doc_20127.txt"
+  ]
+}

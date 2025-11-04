@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what inspired Taylor Swift to write “Picture to Burn”?",
+  "response": [
+    "doc_21647.txt",
+    "doc_22212.txt",
+    "doc_11964.txt",
+    "doc_22213.txt",
+    "doc_21646.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What findings did the Stiftung Warentest reveal in their November 2011 tests?",
+  "response": [
+    "doc_24217.txt",
+    "doc_23562.txt",
+    "doc_25373.txt",
+    "doc_17171.txt",
+    "doc_18444.txt"
+  ]
+}

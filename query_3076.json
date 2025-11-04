@@ -1,0 +1,10 @@
+{
+  "query": "What was the primary purpose of the Danish fleet’s blockade in Copenhagen harbor?",
+  "response": [
+    "doc_34814.txt",
+    "doc_34815.txt",
+    "doc_7419.txt",
+    "doc_8974.txt",
+    "doc_7421.txt"
+  ]
+}

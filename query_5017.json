@@ -1,0 +1,10 @@
+{
+  "query": "What was the total amount of funding allocated by the Commission to pilot projects aimed at combating doping between 2000 and 2002?",
+  "response": [
+    "doc_39344.txt",
+    "doc_39345.txt",
+    "doc_16024.txt",
+    "doc_37968.txt",
+    "doc_17755.txt"
+  ]
+}

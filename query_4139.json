@@ -1,0 +1,10 @@
+{
+  "query": "What holiday is celebrated with “creepy crawly Oreo cups”?",
+  "response": [
+    "doc_11242.txt",
+    "doc_11244.txt",
+    "doc_11237.txt",
+    "doc_11234.txt",
+    "doc_11238.txt"
+  ]
+}

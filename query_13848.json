@@ -1,0 +1,10 @@
+{
+  "query": "Who initially accepted Penny Marshall’s offer to direct “Big” before ultimately declining?",
+  "response": [
+    "doc_32058.txt",
+    "doc_32057.txt",
+    "doc_24703.txt",
+    "doc_32059.txt",
+    "doc_32054.txt"
+  ]
+}

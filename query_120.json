@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Lee Min-ho star in his first film?",
+  "response": [
+    "doc_27589.txt",
+    "doc_27588.txt",
+    "doc_16920.txt",
+    "doc_27587.txt",
+    "doc_2210.txt"
+  ]
+}

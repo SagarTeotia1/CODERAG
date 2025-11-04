@@ -1,0 +1,10 @@
+{
+  "query": "What does the acronym IACOCCA stand for, as mentioned in the 2008 archive?",
+  "response": [
+    "doc_6796.txt",
+    "doc_27745.txt",
+    "doc_19004.txt",
+    "doc_12684.txt",
+    "doc_18312.txt"
+  ]
+}

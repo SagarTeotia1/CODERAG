@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what is Sheldon Cooper going to state about the universe?",
+  "response": [
+    "doc_9699.txt",
+    "doc_9700.txt",
+    "doc_9701.txt",
+    "doc_9704.txt",
+    "doc_9706.txt"
+  ]
+}

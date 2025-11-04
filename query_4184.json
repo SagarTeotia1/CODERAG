@@ -1,0 +1,10 @@
+{
+  "query": "For what event was Ehud Barak accused of war crimes?",
+  "response": [
+    "doc_37399.txt",
+    "doc_37398.txt",
+    "doc_37395.txt",
+    "doc_37396.txt",
+    "doc_37397.txt"
+  ]
+}

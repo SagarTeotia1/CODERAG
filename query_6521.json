@@ -1,0 +1,10 @@
+{
+  "query": "Which ESPN hosts call Big East games, and at what times are they typically broadcast?",
+  "response": [
+    "doc_20552.txt",
+    "doc_20553.txt",
+    "doc_10453.txt",
+    "doc_20555.txt",
+    "doc_20556.txt"
+  ]
+}

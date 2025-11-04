@@ -1,0 +1,10 @@
+{
+  "query": "What significant discovery is attributed to Dr. Philip Levine?",
+  "response": [
+    "doc_34512.txt",
+    "doc_38708.txt",
+    "doc_34514.txt",
+    "doc_8032.txt",
+    "doc_8029.txt"
+  ]
+}

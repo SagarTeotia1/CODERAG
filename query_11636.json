@@ -1,0 +1,10 @@
+{
+  "query": "When did Billy Joel perform “Miami 2017” at the BB&T Center in Sunrise, Florida?",
+  "response": [
+    "doc_19261.txt",
+    "doc_19262.txt",
+    "doc_7752.txt",
+    "doc_38646.txt",
+    "doc_38647.txt"
+  ]
+}

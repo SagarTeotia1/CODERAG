@@ -1,0 +1,10 @@
+{
+  "query": "Which actress is known for her roles as Dr. Allison Cameron in “House” and Emma Swan in “Once Upon a Time”?",
+  "response": [
+    "doc_17154.txt",
+    "doc_25933.txt",
+    "doc_16171.txt",
+    "doc_27828.txt",
+    "doc_32781.txt"
+  ]
+}

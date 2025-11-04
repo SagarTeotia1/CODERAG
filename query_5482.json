@@ -1,0 +1,10 @@
+{
+  "query": "What was Jason Reich’s undergraduate degree?",
+  "response": [
+    "doc_32261.txt",
+    "doc_32262.txt",
+    "doc_25789.txt",
+    "doc_32256.txt",
+    "doc_33562.txt"
+  ]
+}

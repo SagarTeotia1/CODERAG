@@ -1,0 +1,10 @@
+{
+  "query": "In 2008, how many Islamist terrorists attempted to gain access to laboratories in Great Britain, as reported in the Telegraph?",
+  "response": [
+    "doc_3402.txt",
+    "doc_7800.txt",
+    "doc_7801.txt",
+    "doc_5781.txt",
+    "doc_22720.txt"
+  ]
+}

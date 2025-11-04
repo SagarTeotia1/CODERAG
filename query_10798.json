@@ -1,0 +1,10 @@
+{
+  "query": "What amount of funding did Greece request from the External Borders Fund (EBF) for a fence construction project?",
+  "response": [
+    "doc_17102.txt",
+    "doc_32723.txt",
+    "doc_13106.txt",
+    "doc_14965.txt",
+    "doc_17431.txt"
+  ]
+}

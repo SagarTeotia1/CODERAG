@@ -1,0 +1,10 @@
+{
+  "query": "What events led to the violent attack on Bat Nha Monastery in September 2009, as described in the passage?",
+  "response": [
+    "doc_18415.txt",
+    "doc_25532.txt",
+    "doc_23645.txt",
+    "doc_39669.txt",
+    "doc_25533.txt"
+  ]
+}

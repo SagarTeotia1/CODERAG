@@ -1,0 +1,10 @@
+{
+  "query": "What war are Maddy Smith and Maggie Rede involved in?",
+  "response": [
+    "doc_21190.txt",
+    "doc_20498.txt",
+    "doc_17647.txt",
+    "doc_13546.txt",
+    "doc_36379.txt"
+  ]
+}

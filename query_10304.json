@@ -1,0 +1,10 @@
+{
+  "query": "Which film franchise does Bruce Campbell portray the character Ash Williams in?",
+  "response": [
+    "doc_3331.txt",
+    "doc_16668.txt",
+    "doc_20075.txt",
+    "doc_33316.txt",
+    "doc_32709.txt"
+  ]
+}

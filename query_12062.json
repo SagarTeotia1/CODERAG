@@ -1,0 +1,10 @@
+{
+  "query": "What is a MacGuffin, according to Alfred Hitchcock?",
+  "response": [
+    "doc_20329.txt",
+    "doc_20328.txt",
+    "doc_20330.txt",
+    "doc_15834.txt",
+    "doc_15838.txt"
+  ]
+}

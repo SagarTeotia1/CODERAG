@@ -1,0 +1,10 @@
+{
+  "query": "What is the price range for Judo uniforms?",
+  "response": [
+    "doc_8812.txt",
+    "doc_8811.txt",
+    "doc_8818.txt",
+    "doc_8816.txt",
+    "doc_8817.txt"
+  ]
+}

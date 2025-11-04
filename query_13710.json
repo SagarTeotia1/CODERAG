@@ -1,0 +1,10 @@
+{
+  "query": "What is the sixteenth letter of the English alphabet?",
+  "response": [
+    "doc_1691.txt",
+    "doc_1692.txt",
+    "doc_10322.txt",
+    "doc_1690.txt",
+    "doc_14541.txt"
+  ]
+}

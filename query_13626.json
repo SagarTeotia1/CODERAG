@@ -1,0 +1,10 @@
+{
+  "query": "Which song earned Christopher Cross his second and last number one hit in the United States?",
+  "response": [
+    "doc_29935.txt",
+    "doc_19641.txt",
+    "doc_24298.txt",
+    "doc_24359.txt",
+    "doc_4596.txt"
+  ]
+}

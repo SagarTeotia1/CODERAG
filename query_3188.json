@@ -1,0 +1,10 @@
+{
+  "query": "What does the phrase \"Republic. I like the sound of the word\" appear in, according to multiple references?",
+  "response": [
+    "doc_35049.txt",
+    "doc_35052.txt",
+    "doc_35048.txt",
+    "doc_35050.txt",
+    "doc_35051.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What specific trade instruments could be used in response to ILO decisions regarding sanctions?",
+  "response": [
+    "doc_14822.txt",
+    "doc_14823.txt",
+    "doc_19948.txt",
+    "doc_5934.txt",
+    "doc_30817.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what article of the Council’s Rules of Procedure was used to establish the agenda for the Ecofin Council meeting?",
+  "response": [
+    "doc_9644.txt",
+    "doc_2586.txt",
+    "doc_11094.txt",
+    "doc_29282.txt",
+    "doc_2584.txt"
+  ]
+}

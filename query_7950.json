@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, which player holds the record for the most rushing yards in a single 14-game NFL season?",
+  "response": [
+    "doc_10246.txt",
+    "doc_9437.txt",
+    "doc_9443.txt",
+    "doc_10247.txt",
+    "doc_9441.txt"
+  ]
+}

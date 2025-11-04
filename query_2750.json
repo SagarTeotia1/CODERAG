@@ -1,0 +1,10 @@
+{
+  "query": "What action is Germany being asked to take regarding the repayment decisions?",
+  "response": [
+    "doc_16193.txt",
+    "doc_14173.txt",
+    "doc_16319.txt",
+    "doc_22.txt",
+    "doc_22443.txt"
+  ]
+}

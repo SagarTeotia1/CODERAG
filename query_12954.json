@@ -1,0 +1,10 @@
+{
+  "query": "What is the approximate length of Mississippi Highway 35?",
+  "response": [
+    "doc_22623.txt",
+    "doc_20603.txt",
+    "doc_20604.txt",
+    "doc_20608.txt",
+    "doc_24788.txt"
+  ]
+}

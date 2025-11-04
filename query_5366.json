@@ -1,0 +1,10 @@
+{
+  "query": "What type of singer was Marian Anderson?",
+  "response": [
+    "doc_40139.txt",
+    "doc_40140.txt",
+    "doc_40144.txt",
+    "doc_40145.txt",
+    "doc_40146.txt"
+  ]
+}

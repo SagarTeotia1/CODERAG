@@ -1,0 +1,10 @@
+{
+  "query": "What was the initial estimated death toll following the earthquake in Haiti, and how did this number change one month later?",
+  "response": [
+    "doc_21285.txt",
+    "doc_16887.txt",
+    "doc_13380.txt",
+    "doc_21284.txt",
+    "doc_9552.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the description of Tommy Roe's head in the song?",
+  "response": [
+    "doc_33121.txt",
+    "doc_10392.txt",
+    "doc_35562.txt",
+    "doc_4731.txt",
+    "doc_1238.txt"
+  ]
+}

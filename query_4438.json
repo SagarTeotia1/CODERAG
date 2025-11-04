@@ -1,0 +1,10 @@
+{
+  "query": "In the film *Old Yeller*, how does Old Yeller ultimately die?",
+  "response": [
+    "doc_39197.txt",
+    "doc_8333.txt",
+    "doc_33311.txt",
+    "doc_28149.txt",
+    "doc_29972.txt"
+  ]
+}

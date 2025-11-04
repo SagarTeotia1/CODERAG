@@ -1,0 +1,10 @@
+{
+  "query": "What specific regions does the document identify as potential areas for cooperation with the US?",
+  "response": [
+    "doc_19613.txt",
+    "doc_21127.txt",
+    "doc_12677.txt",
+    "doc_35448.txt",
+    "doc_22863.txt"
+  ]
+}

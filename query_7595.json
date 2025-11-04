@@ -1,0 +1,10 @@
+{
+  "query": "What is Arla Foods’ annual turnover?",
+  "response": [
+    "doc_29661.txt",
+    "doc_11675.txt",
+    "doc_11676.txt",
+    "doc_20077.txt",
+    "doc_29660.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the title of Albert Lee’s official website?",
+  "response": [
+    "doc_19762.txt",
+    "doc_12582.txt",
+    "doc_37167.txt",
+    "doc_19766.txt",
+    "doc_19761.txt"
+  ]
+}

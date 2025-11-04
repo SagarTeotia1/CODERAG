@@ -1,0 +1,10 @@
+{
+  "query": "For what performances did Dele Alli win the award?",
+  "response": [
+    "doc_40208.txt",
+    "doc_40209.txt",
+    "doc_40210.txt",
+    "doc_12142.txt",
+    "doc_26136.txt"
+  ]
+}

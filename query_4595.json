@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of departures at European airports are experiencing delays, and what is the average duration of those delays?",
+  "response": [
+    "doc_38427.txt",
+    "doc_10370.txt",
+    "doc_10371.txt",
+    "doc_3161.txt",
+    "doc_224.txt"
+  ]
+}

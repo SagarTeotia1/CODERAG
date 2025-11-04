@@ -1,0 +1,10 @@
+{
+  "query": "According to the International Energy Agency (IEA), what was the trend in Russian natural gas production from 2003 to 2007?",
+  "response": [
+    "doc_18028.txt",
+    "doc_26656.txt",
+    "doc_34798.txt",
+    "doc_16084.txt",
+    "doc_33061.txt"
+  ]
+}

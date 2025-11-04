@@ -1,0 +1,10 @@
+{
+  "query": "What efforts is Deutsche Bahn making to provide timetable information to passengers?",
+  "response": [
+    "doc_18302.txt",
+    "doc_17664.txt",
+    "doc_36995.txt",
+    "doc_16044.txt",
+    "doc_4799.txt"
+  ]
+}

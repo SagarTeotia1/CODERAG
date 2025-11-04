@@ -1,0 +1,10 @@
+{
+  "query": "In what year did *The Duchess of Malfi* premiere in New York?",
+  "response": [
+    "doc_18905.txt",
+    "doc_35290.txt",
+    "doc_23957.txt",
+    "doc_18906.txt",
+    "doc_12478.txt"
+  ]
+}

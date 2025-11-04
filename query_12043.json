@@ -1,0 +1,10 @@
+{
+  "query": "Which airlines are members of the Value Alliance?",
+  "response": [
+    "doc_20278.txt",
+    "doc_24032.txt",
+    "doc_24038.txt",
+    "doc_24033.txt",
+    "doc_24036.txt"
+  ]
+}

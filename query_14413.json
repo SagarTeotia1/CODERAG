@@ -1,0 +1,10 @@
+{
+  "query": "What does the first verse of the letter to the Ephesians state about the recipients of the message?",
+  "response": [
+    "doc_26143.txt",
+    "doc_26144.txt",
+    "doc_26141.txt",
+    "doc_26139.txt",
+    "doc_26140.txt"
+  ]
+}

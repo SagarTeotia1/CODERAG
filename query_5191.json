@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the Chamber Arts Series born?",
+  "response": [
+    "doc_19447.txt",
+    "doc_19449.txt",
+    "doc_218.txt",
+    "doc_30503.txt",
+    "doc_19453.txt"
+  ]
+}

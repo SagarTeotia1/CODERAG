@@ -1,0 +1,10 @@
+{
+  "query": "What type of service did the Post Office celebrate in 1968?",
+  "response": [
+    "doc_37381.txt",
+    "doc_37378.txt",
+    "doc_37383.txt",
+    "doc_37384.txt",
+    "doc_37382.txt"
+  ]
+}

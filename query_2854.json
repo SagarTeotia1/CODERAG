@@ -1,0 +1,10 @@
+{
+  "query": "What type of fabric was used for the embroidered waistcoat in a photograph of Charles Darwin?",
+  "response": [
+    "doc_34292.txt",
+    "doc_16346.txt",
+    "doc_16348.txt",
+    "doc_29166.txt",
+    "doc_7091.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was the approximate amount of funding allocated to the IT Infrastructure program?",
+  "response": [
+    "doc_15602.txt",
+    "doc_13351.txt",
+    "doc_15603.txt",
+    "doc_15604.txt",
+    "doc_18691.txt"
+  ]
+}

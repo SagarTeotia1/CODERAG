@@ -1,0 +1,10 @@
+{
+  "query": "Which professional wrestling championship was introduced on February 6, 1986, by New Japan Pro-Wrestling (NJPW)?",
+  "response": [
+    "doc_35697.txt",
+    "doc_35695.txt",
+    "doc_35696.txt",
+    "doc_18348.txt",
+    "doc_143.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In the Farnsworth House, what material was used for the windows set in metal frames?",
+  "response": [
+    "doc_15271.txt",
+    "doc_24260.txt",
+    "doc_24267.txt",
+    "doc_28004.txt",
+    "doc_16792.txt"
+  ]
+}

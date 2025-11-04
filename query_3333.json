@@ -1,0 +1,10 @@
+{
+  "query": "What did the Court of Justice rule in 2006 regarding the use of nuclear energy?",
+  "response": [
+    "doc_35387.txt",
+    "doc_37427.txt",
+    "doc_14633.txt",
+    "doc_13346.txt",
+    "doc_2289.txt"
+  ]
+}

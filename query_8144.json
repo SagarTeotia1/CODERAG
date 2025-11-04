@@ -1,0 +1,10 @@
+{
+  "query": "What three considerations did the FSA take into account when reviewing the Compromise Scheme proposals?",
+  "response": [
+    "doc_1016.txt",
+    "doc_987.txt",
+    "doc_989.txt",
+    "doc_990.txt",
+    "doc_1012.txt"
+  ]
+}

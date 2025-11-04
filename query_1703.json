@@ -1,0 +1,10 @@
+{
+  "query": "Mark Twain attributed the quote, “A book which people praise and don’t read,” to whom?",
+  "response": [
+    "doc_3078.txt",
+    "doc_3080.txt",
+    "doc_3079.txt",
+    "doc_3083.txt",
+    "doc_3081.txt"
+  ]
+}

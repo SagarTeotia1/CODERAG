@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Mr. Phileas Fogg reside at the address mentioned?",
+  "response": [
+    "doc_24334.txt",
+    "doc_38846.txt",
+    "doc_38844.txt",
+    "doc_38845.txt",
+    "doc_38848.txt"
+  ]
+}

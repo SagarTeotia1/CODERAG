@@ -1,0 +1,10 @@
+{
+  "query": "What was the controversy surrounding Reed Smoot’s seating in the Senate?",
+  "response": [
+    "doc_1874.txt",
+    "doc_1876.txt",
+    "doc_1875.txt",
+    "doc_20855.txt",
+    "doc_1988.txt"
+  ]
+}

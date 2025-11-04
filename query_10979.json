@@ -1,0 +1,10 @@
+{
+  "query": "What vehicle does the Sony Entertainment Center in Berlin offer a virtual reality “fun ride” on?",
+  "response": [
+    "doc_17536.txt",
+    "doc_24776.txt",
+    "doc_33614.txt",
+    "doc_17034.txt",
+    "doc_36666.txt"
+  ]
+}

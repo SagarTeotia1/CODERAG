@@ -1,0 +1,10 @@
+{
+  "query": "Who produced the film “Renigunta,” in which Johnny Chakravarthy debuted?",
+  "response": [
+    "doc_17670.txt",
+    "doc_19765.txt",
+    "doc_5638.txt",
+    "doc_19764.txt",
+    "doc_11648.txt"
+  ]
+}

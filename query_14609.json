@@ -1,0 +1,10 @@
+{
+  "query": "How long did the final match between Djokovic and Nadal last?",
+  "response": [
+    "doc_26635.txt",
+    "doc_26634.txt",
+    "doc_1464.txt",
+    "doc_8359.txt",
+    "doc_30900.txt"
+  ]
+}

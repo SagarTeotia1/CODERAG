@@ -1,0 +1,10 @@
+{
+  "query": "What airport was the main hub for America West Airlines?",
+  "response": [
+    "doc_12894.txt",
+    "doc_10610.txt",
+    "doc_27107.txt",
+    "doc_27108.txt",
+    "doc_10611.txt"
+  ]
+}

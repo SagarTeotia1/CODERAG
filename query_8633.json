@@ -1,0 +1,10 @@
+{
+  "query": "According to the timeline, when was the Product Investigation Team (PIT) established?",
+  "response": [
+    "doc_28806.txt",
+    "doc_1125.txt",
+    "doc_40257.txt",
+    "doc_30068.txt",
+    "doc_870.txt"
+  ]
+}

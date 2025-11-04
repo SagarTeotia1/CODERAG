@@ -1,0 +1,10 @@
+{
+  "query": "What organization was founded in 1859 by Henry Dunant?",
+  "response": [
+    "doc_1126.txt",
+    "doc_1127.txt",
+    "doc_1128.txt",
+    "doc_857.txt",
+    "doc_962.txt"
+  ]
+}

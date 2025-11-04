@@ -1,0 +1,10 @@
+{
+  "query": "When did the team experience relegation from the Football League?",
+  "response": [
+    "doc_16759.txt",
+    "doc_16760.txt",
+    "doc_29788.txt",
+    "doc_10655.txt",
+    "doc_31200.txt"
+  ]
+}

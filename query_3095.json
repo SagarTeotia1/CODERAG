@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission’s position regarding the greenhouse gas impact of recycling processes?",
+  "response": [
+    "doc_34843.txt",
+    "doc_8299.txt",
+    "doc_37228.txt",
+    "doc_33272.txt",
+    "doc_31575.txt"
+  ]
+}

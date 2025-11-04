@@ -1,0 +1,10 @@
+{
+  "query": "What is Brigitte Bardot’s common nickname?",
+  "response": [
+    "doc_6170.txt",
+    "doc_6168.txt",
+    "doc_6169.txt",
+    "doc_6167.txt",
+    "doc_6172.txt"
+  ]
+}

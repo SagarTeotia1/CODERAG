@@ -1,0 +1,10 @@
+{
+  "query": "When did the shooting occur that led to the Pig War?",
+  "response": [
+    "doc_23097.txt",
+    "doc_23096.txt",
+    "doc_23095.txt",
+    "doc_23098.txt",
+    "doc_23094.txt"
+  ]
+}

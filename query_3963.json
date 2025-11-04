@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of Italy’s fishing fleet is comprised of small-scale fishing?",
+  "response": [
+    "doc_36867.txt",
+    "doc_10171.txt",
+    "doc_26938.txt",
+    "doc_11370.txt",
+    "doc_6782.txt"
+  ]
+}

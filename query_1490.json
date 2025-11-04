@@ -1,0 +1,10 @@
+{
+  "query": "What is Vin Diesel’s birth name?",
+  "response": [
+    "doc_30914.txt",
+    "doc_10411.txt",
+    "doc_30916.txt",
+    "doc_10410.txt",
+    "doc_30919.txt"
+  ]
+}

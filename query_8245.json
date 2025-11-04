@@ -1,0 +1,10 @@
+{
+  "query": "What specific report details the criticism of the FOS’s performance, and who authored it?",
+  "response": [
+    "doc_12827.txt",
+    "doc_27066.txt",
+    "doc_1986.txt",
+    "doc_27062.txt",
+    "doc_27072.txt"
+  ]
+}

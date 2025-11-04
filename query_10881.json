@@ -1,0 +1,10 @@
+{
+  "query": "Which terrorist attack did Mr. Schulz specifically mention and condemn in his address?",
+  "response": [
+    "doc_17283.txt",
+    "doc_3156.txt",
+    "doc_30470.txt",
+    "doc_7799.txt",
+    "doc_30469.txt"
+  ]
+}

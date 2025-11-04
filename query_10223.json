@@ -1,0 +1,10 @@
+{
+  "query": "What specific report concluded Parliament’s initial consideration of the Eurostat case?",
+  "response": [
+    "doc_27366.txt",
+    "doc_10123.txt",
+    "doc_15804.txt",
+    "doc_28999.txt",
+    "doc_2085.txt"
+  ]
+}

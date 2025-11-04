@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what was a key feature of the “Editdroid” release created by an editor?",
+  "response": [
+    "doc_23578.txt",
+    "doc_23571.txt",
+    "doc_23581.txt",
+    "doc_23575.txt",
+    "doc_23574.txt"
+  ]
+}

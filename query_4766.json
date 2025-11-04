@@ -1,0 +1,10 @@
+{
+  "query": "Besides Rain Parade, which other band did Gil Ray play with during his time as a drummer?",
+  "response": [
+    "doc_2989.txt",
+    "doc_4209.txt",
+    "doc_4210.txt",
+    "doc_2988.txt",
+    "doc_2987.txt"
+  ]
+}

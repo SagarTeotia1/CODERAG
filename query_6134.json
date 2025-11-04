@@ -1,0 +1,10 @@
+{
+  "query": "Who wrote *The Little Prince*, and when was he born?",
+  "response": [
+    "doc_573.txt",
+    "doc_572.txt",
+    "doc_571.txt",
+    "doc_574.txt",
+    "doc_5804.txt"
+  ]
+}

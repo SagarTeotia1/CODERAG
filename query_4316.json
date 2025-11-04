@@ -1,0 +1,10 @@
+{
+  "query": "During which seasons did Mark McGwire appear in six consecutive All-Star Games?",
+  "response": [
+    "doc_9258.txt",
+    "doc_9257.txt",
+    "doc_7460.txt",
+    "doc_9265.txt",
+    "doc_37699.txt"
+  ]
+}

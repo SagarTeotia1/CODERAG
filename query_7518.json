@@ -1,0 +1,10 @@
+{
+  "query": "In what year were Middlesbrough F.C. placed in the Fourth Division?",
+  "response": [
+    "doc_16759.txt",
+    "doc_9124.txt",
+    "doc_16760.txt",
+    "doc_29788.txt",
+    "doc_10653.txt"
+  ]
+}

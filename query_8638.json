@@ -1,0 +1,10 @@
+{
+  "query": "Which EU funds provide support to fishing ports, and what types of investments do each fund typically cover?",
+  "response": [
+    "doc_11915.txt",
+    "doc_21803.txt",
+    "doc_15487.txt",
+    "doc_28549.txt",
+    "doc_1454.txt"
+  ]
+}

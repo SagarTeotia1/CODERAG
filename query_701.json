@@ -1,0 +1,10 @@
+{
+  "query": "What did the French Institut de radioprotection et de sureté nucléaire (IRSN) determine about the accuracy of maps indicating radioactive deposits in France following the Chernobyl accident?",
+  "response": [
+    "doc_28866.txt",
+    "doc_5898.txt",
+    "doc_8846.txt",
+    "doc_1451.txt",
+    "doc_28715.txt"
+  ]
+}

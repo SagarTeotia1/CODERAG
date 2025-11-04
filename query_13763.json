@@ -1,0 +1,10 @@
+{
+  "query": "What was Robert Bork’s previous role before his Supreme Court nomination?",
+  "response": [
+    "doc_24494.txt",
+    "doc_24495.txt",
+    "doc_24493.txt",
+    "doc_24492.txt",
+    "doc_24491.txt"
+  ]
+}

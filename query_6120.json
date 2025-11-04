@@ -1,0 +1,10 @@
+{
+  "query": "Which divisions did Townsend serve with during his military career?",
+  "response": [
+    "doc_3262.txt",
+    "doc_5283.txt",
+    "doc_3261.txt",
+    "doc_3252.txt",
+    "doc_3259.txt"
+  ]
+}

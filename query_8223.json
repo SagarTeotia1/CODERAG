@@ -1,0 +1,10 @@
+{
+  "query": "When was Harriet Tubman featured on a U.S. postage stamp?",
+  "response": [
+    "doc_10956.txt",
+    "doc_10958.txt",
+    "doc_10957.txt",
+    "doc_10960.txt",
+    "doc_10962.txt"
+  ]
+}

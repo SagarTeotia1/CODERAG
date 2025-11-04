@@ -1,0 +1,10 @@
+{
+  "query": "Which route overlaps with U.S. Route 50 into Jefferson City?",
+  "response": [
+    "doc_31123.txt",
+    "doc_24606.txt",
+    "doc_16056.txt",
+    "doc_39755.txt",
+    "doc_40300.txt"
+  ]
+}

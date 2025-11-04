@@ -1,0 +1,10 @@
+{
+  "query": "What action has the secretariat of the Interinstitutional Data-processing Committee recently taken?",
+  "response": [
+    "doc_1952.txt",
+    "doc_3009.txt",
+    "doc_3007.txt",
+    "doc_29372.txt",
+    "doc_3006.txt"
+  ]
+}

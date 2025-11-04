@@ -1,0 +1,10 @@
+{
+  "query": "Which two countries have submitted applications to the Commission for the ‘Gruyère’ PDO?",
+  "response": [
+    "doc_27795.txt",
+    "doc_16965.txt",
+    "doc_5659.txt",
+    "doc_35916.txt",
+    "doc_12563.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year was James Thurber’s short story, “The Secret Life of Walter Mitty,” published?",
+  "response": [
+    "doc_16071.txt",
+    "doc_16070.txt",
+    "doc_16069.txt",
+    "doc_16075.txt",
+    "doc_16072.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What ingredients are recommended to avoid when following a Paleo diet?",
+  "response": [
+    "doc_35394.txt",
+    "doc_35392.txt",
+    "doc_404.txt",
+    "doc_35393.txt",
+    "doc_27754.txt"
+  ]
+}

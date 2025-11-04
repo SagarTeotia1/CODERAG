@@ -1,0 +1,10 @@
+{
+  "query": "How many art stations are there on the Detroit People Mover?",
+  "response": [
+    "doc_13213.txt",
+    "doc_13216.txt",
+    "doc_13217.txt",
+    "doc_13212.txt",
+    "doc_13215.txt"
+  ]
+}

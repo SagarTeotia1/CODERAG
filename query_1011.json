@@ -1,0 +1,10 @@
+{
+  "query": "Which prominent Liberian figure, alongside Joseph Boakai, attended the College of West Africa?",
+  "response": [
+    "doc_17796.txt",
+    "doc_37124.txt",
+    "doc_1337.txt",
+    "doc_40031.txt",
+    "doc_4925.txt"
+  ]
+}

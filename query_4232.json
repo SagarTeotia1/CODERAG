@@ -1,0 +1,10 @@
+{
+  "query": "When was the opera “Thaïs” first performed at the Opéra Garnier in Paris?",
+  "response": [
+    "doc_35292.txt",
+    "doc_10685.txt",
+    "doc_1491.txt",
+    "doc_35288.txt",
+    "doc_35289.txt"
+  ]
+}

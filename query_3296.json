@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, when was the National Security Strategy issued?",
+  "response": [
+    "doc_35274.txt",
+    "doc_35273.txt",
+    "doc_35271.txt",
+    "doc_27070.txt",
+    "doc_36635.txt"
+  ]
+}

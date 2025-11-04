@@ -1,0 +1,10 @@
+{
+  "query": "According to the text, what is the consequence of Faustus making a deal with Lucifer?",
+  "response": [
+    "doc_27229.txt",
+    "doc_27235.txt",
+    "doc_27236.txt",
+    "doc_27230.txt",
+    "doc_27239.txt"
+  ]
+}

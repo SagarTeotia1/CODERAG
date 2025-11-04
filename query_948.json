@@ -1,0 +1,10 @@
+{
+  "query": "What is the length of Advent Productions’ experience?",
+  "response": [
+    "doc_23150.txt",
+    "doc_37217.txt",
+    "doc_29902.txt",
+    "doc_37213.txt",
+    "doc_2028.txt"
+  ]
+}

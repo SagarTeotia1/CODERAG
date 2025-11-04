@@ -1,0 +1,10 @@
+{
+  "query": "Which of the following names appears in the list of substitutes: Rafał Trzaskowski?",
+  "response": [
+    "doc_5279.txt",
+    "doc_20807.txt",
+    "doc_29279.txt",
+    "doc_15925.txt",
+    "doc_5378.txt"
+  ]
+}

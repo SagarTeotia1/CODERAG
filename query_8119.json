@@ -1,0 +1,10 @@
+{
+  "query": "What is the approximate number of records Culture Club sold worldwide?",
+  "response": [
+    "doc_39059.txt",
+    "doc_39058.txt",
+    "doc_39062.txt",
+    "doc_39056.txt",
+    "doc_31843.txt"
+  ]
+}

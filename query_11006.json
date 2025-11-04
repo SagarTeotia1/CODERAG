@@ -1,0 +1,10 @@
+{
+  "query": "What color is the stain Mrs. Otis notices on the floor?",
+  "response": [
+    "doc_17594.txt",
+    "doc_20399.txt",
+    "doc_39781.txt",
+    "doc_37461.txt",
+    "doc_20402.txt"
+  ]
+}

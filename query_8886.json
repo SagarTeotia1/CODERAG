@@ -1,0 +1,10 @@
+{
+  "query": "Did the Danish authorities pursue proceedings against Mr. Jung Olsen?",
+  "response": [
+    "doc_12557.txt",
+    "doc_15354.txt",
+    "doc_13874.txt",
+    "doc_7750.txt",
+    "doc_16474.txt"
+  ]
+}

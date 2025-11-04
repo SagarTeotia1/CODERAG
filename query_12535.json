@@ -1,0 +1,10 @@
+{
+  "query": "What cocktail ingredient, “sweet” or “dry”, is found in a Manhattan?",
+  "response": [
+    "doc_21528.txt",
+    "doc_21526.txt",
+    "doc_21527.txt",
+    "doc_21525.txt",
+    "doc_10634.txt"
+  ]
+}

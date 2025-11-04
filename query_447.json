@@ -1,0 +1,10 @@
+{
+  "query": "What was Elizabeth Blackburn’s area of research, and for what accomplishment did she receive the Nobel Prize?",
+  "response": [
+    "doc_2019.txt",
+    "doc_38708.txt",
+    "doc_38704.txt",
+    "doc_3695.txt",
+    "doc_38707.txt"
+  ]
+}

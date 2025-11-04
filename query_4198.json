@@ -1,0 +1,10 @@
+{
+  "query": "Where do Fairlife milk products come from, according to the provided text?",
+  "response": [
+    "doc_37420.txt",
+    "doc_10287.txt",
+    "doc_34154.txt",
+    "doc_30829.txt",
+    "doc_28440.txt"
+  ]
+}

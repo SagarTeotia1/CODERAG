@@ -1,0 +1,10 @@
+{
+  "query": "Is the question within the scope of the European Union’s institutions?",
+  "response": [
+    "doc_28448.txt",
+    "doc_27731.txt",
+    "doc_21845.txt",
+    "doc_31333.txt",
+    "doc_27193.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Who played the title role in the 1995 Richard III film?",
+  "response": [
+    "doc_23456.txt",
+    "doc_23454.txt",
+    "doc_23450.txt",
+    "doc_23453.txt",
+    "doc_23452.txt"
+  ]
+}

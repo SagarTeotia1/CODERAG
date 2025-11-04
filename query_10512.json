@@ -1,0 +1,10 @@
+{
+  "query": "Besides film, in which other medium did Marki Bey work during the 1970s?",
+  "response": [
+    "doc_16497.txt",
+    "doc_16496.txt",
+    "doc_3349.txt",
+    "doc_3347.txt",
+    "doc_18212.txt"
+  ]
+}

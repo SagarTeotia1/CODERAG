@@ -1,0 +1,10 @@
+{
+  "query": "Is the Commission aware of the increased use of palm oil as a fuel?",
+  "response": [
+    "doc_23165.txt",
+    "doc_23135.txt",
+    "doc_19712.txt",
+    "doc_22941.txt",
+    "doc_5737.txt"
+  ]
+}

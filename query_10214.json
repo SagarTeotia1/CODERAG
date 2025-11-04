@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Dennis DeConcini leave to run AIPAC?",
+  "response": [
+    "doc_15791.txt",
+    "doc_15792.txt",
+    "doc_22142.txt",
+    "doc_29978.txt",
+    "doc_9959.txt"
+  ]
+}

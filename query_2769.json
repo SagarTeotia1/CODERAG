@@ -1,0 +1,10 @@
+{
+  "query": "What is George Kollias best known for, and on which band did he primarily perform?",
+  "response": [
+    "doc_39748.txt",
+    "doc_12965.txt",
+    "doc_40124.txt",
+    "doc_37167.txt",
+    "doc_33023.txt"
+  ]
+}

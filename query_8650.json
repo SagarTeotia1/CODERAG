@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the album “Celebration!” released?",
+  "response": [
+    "doc_21172.txt",
+    "doc_22158.txt",
+    "doc_21177.txt",
+    "doc_21178.txt",
+    "doc_22154.txt"
+  ]
+}

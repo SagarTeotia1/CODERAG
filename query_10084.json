@@ -1,0 +1,10 @@
+{
+  "query": "What is the approximate area (in square miles) of the Wildlife Refuge within the NSB?",
+  "response": [
+    "doc_40201.txt",
+    "doc_40202.txt",
+    "doc_36837.txt",
+    "doc_36835.txt",
+    "doc_28787.txt"
+  ]
+}

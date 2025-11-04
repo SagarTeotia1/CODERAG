@@ -1,0 +1,10 @@
+{
+  "query": "Which producers contributed to the making of *Magna Carta Holy Grail*?",
+  "response": [
+    "doc_15905.txt",
+    "doc_15907.txt",
+    "doc_15906.txt",
+    "doc_15909.txt",
+    "doc_15908.txt"
+  ]
+}

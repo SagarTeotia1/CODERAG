@@ -1,0 +1,10 @@
+{
+  "query": "Who was shadowing Ethan Hunt and his wife?",
+  "response": [
+    "doc_8578.txt",
+    "doc_8575.txt",
+    "doc_8574.txt",
+    "doc_8576.txt",
+    "doc_8577.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which producer oversaw the creation of Buffalo Killers’ second album, “Let It Ride”?",
+  "response": [
+    "doc_15909.txt",
+    "doc_13767.txt",
+    "doc_13766.txt",
+    "doc_15906.txt",
+    "doc_15908.txt"
+  ]
+}

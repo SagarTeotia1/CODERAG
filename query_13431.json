@@ -1,0 +1,10 @@
+{
+  "query": "Which company developed NBA 2K18?",
+  "response": [
+    "doc_37043.txt",
+    "doc_18697.txt",
+    "doc_6296.txt",
+    "doc_15500.txt",
+    "doc_10117.txt"
+  ]
+}

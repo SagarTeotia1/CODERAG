@@ -1,0 +1,10 @@
+{
+  "query": "What is the cable arrangement system used in the Normandy Bridge?",
+  "response": [
+    "doc_12784.txt",
+    "doc_12786.txt",
+    "doc_5015.txt",
+    "doc_12788.txt",
+    "doc_12785.txt"
+  ]
+}

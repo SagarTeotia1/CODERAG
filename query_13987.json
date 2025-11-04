@@ -1,0 +1,10 @@
+{
+  "query": "What title was Camilla given?",
+  "response": [
+    "doc_25061.txt",
+    "doc_25060.txt",
+    "doc_11055.txt",
+    "doc_25056.txt",
+    "doc_11056.txt"
+  ]
+}

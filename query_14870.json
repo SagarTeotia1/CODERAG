@@ -1,0 +1,10 @@
+{
+  "query": "What year did the Ottawa Senators begin play in the NHL?",
+  "response": [
+    "doc_32638.txt",
+    "doc_32637.txt",
+    "doc_30111.txt",
+    "doc_32633.txt",
+    "doc_32639.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to the 2016 Larimer County Fair INDEX, what type of animal is featured in the “Market Beef Belt Buckle” category?",
+  "response": [
+    "doc_18624.txt",
+    "doc_21145.txt",
+    "doc_30827.txt",
+    "doc_30829.txt",
+    "doc_2579.txt"
+  ]
+}

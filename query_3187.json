@@ -1,0 +1,10 @@
+{
+  "query": "What phrase does Crockett repeat, stating he “likes the sound of”?",
+  "response": [
+    "doc_35048.txt",
+    "doc_35050.txt",
+    "doc_35049.txt",
+    "doc_35052.txt",
+    "doc_35053.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "On what date was Joe 'Guitar' Hughes born?",
+  "response": [
+    "doc_38113.txt",
+    "doc_38114.txt",
+    "doc_37167.txt",
+    "doc_19758.txt",
+    "doc_19760.txt"
+  ]
+}

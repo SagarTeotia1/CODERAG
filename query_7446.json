@@ -1,0 +1,10 @@
+{
+  "query": "What city did Governor Haskell return to after casting his vote?",
+  "response": [
+    "doc_8957.txt",
+    "doc_8960.txt",
+    "doc_8956.txt",
+    "doc_8961.txt",
+    "doc_8958.txt"
+  ]
+}

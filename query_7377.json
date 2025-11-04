@@ -1,0 +1,10 @@
+{
+  "query": "In what year was Nancy Reagan's last film, \"Crash Landing,\" released?",
+  "response": [
+    "doc_8797.txt",
+    "doc_17153.txt",
+    "doc_17149.txt",
+    "doc_34355.txt",
+    "doc_17146.txt"
+  ]
+}

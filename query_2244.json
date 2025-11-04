@@ -1,0 +1,10 @@
+{
+  "query": "If the Commission is aware of increased repression, what action has it taken?",
+  "response": [
+    "doc_14885.txt",
+    "doc_36138.txt",
+    "doc_7512.txt",
+    "doc_15127.txt",
+    "doc_12562.txt"
+  ]
+}

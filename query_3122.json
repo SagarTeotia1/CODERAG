@@ -1,0 +1,10 @@
+{
+  "query": "In which city and district is the Phu My Hung Urban Area located?",
+  "response": [
+    "doc_25535.txt",
+    "doc_25536.txt",
+    "doc_25531.txt",
+    "doc_25529.txt",
+    "doc_25530.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What specific legal provision in Switzerland prohibits other committees from investigating events already under investigation by a commission of inquiry?",
+  "response": [
+    "doc_1115.txt",
+    "doc_1118.txt",
+    "doc_2667.txt",
+    "doc_29375.txt",
+    "doc_1112.txt"
+  ]
+}

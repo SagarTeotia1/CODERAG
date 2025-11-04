@@ -1,0 +1,10 @@
+{
+  "query": "Which actor played Pete Dixon, the black history teacher in *Room 222*?",
+  "response": [
+    "doc_11081.txt",
+    "doc_11082.txt",
+    "doc_11083.txt",
+    "doc_11084.txt",
+    "doc_17667.txt"
+  ]
+}

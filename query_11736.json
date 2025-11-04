@@ -1,0 +1,10 @@
+{
+  "query": "According to the website abandomoviez.net, what actors appear in the movie “Rocky 2 (1979)”?",
+  "response": [
+    "doc_19500.txt",
+    "doc_19497.txt",
+    "doc_19498.txt",
+    "doc_19503.txt",
+    "doc_19502.txt"
+  ]
+}

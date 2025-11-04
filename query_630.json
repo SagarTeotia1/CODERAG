@@ -1,0 +1,10 @@
+{
+  "query": "Which nationality is particularly affected by this change in French healthcare rules?",
+  "response": [
+    "doc_36865.txt",
+    "doc_17236.txt",
+    "doc_20240.txt",
+    "doc_19340.txt",
+    "doc_26091.txt"
+  ]
+}

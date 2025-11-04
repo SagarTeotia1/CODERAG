@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how many miles long is the Los Angeles River, as mentioned in one of the provided texts?",
+  "response": [
+    "doc_5919.txt",
+    "doc_5921.txt",
+    "doc_5922.txt",
+    "doc_5920.txt",
+    "doc_23491.txt"
+  ]
+}

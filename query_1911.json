@@ -1,0 +1,10 @@
+{
+  "query": "Which organization is responsible for regulating the secure transport of ‘sensitive categories’ of nuclear material in the United Kingdom?",
+  "response": [
+    "doc_31986.txt",
+    "doc_27951.txt",
+    "doc_3680.txt",
+    "doc_39455.txt",
+    "doc_20048.txt"
+  ]
+}

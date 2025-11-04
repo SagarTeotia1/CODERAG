@@ -1,0 +1,10 @@
+{
+  "query": "In what city is Ellisville, Mississippi located?",
+  "response": [
+    "doc_2396.txt",
+    "doc_40298.txt",
+    "doc_20603.txt",
+    "doc_20604.txt",
+    "doc_20609.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "A museum in Rutland, Vermont displays many of his illustrations, including covers of The Saturday Evening Post.",
+  "response": [
+    "doc_14750.txt",
+    "doc_14754.txt",
+    "doc_14749.txt",
+    "doc_14752.txt",
+    "doc_14751.txt"
+  ]
+}

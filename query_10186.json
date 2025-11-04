@@ -1,0 +1,10 @@
+{
+  "query": "What is the primary reason cited for the need to extend the UMTS/3G network throughout the EU internal market?",
+  "response": [
+    "doc_15751.txt",
+    "doc_12163.txt",
+    "doc_30298.txt",
+    "doc_37169.txt",
+    "doc_37840.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Of what country (Azeri or Russian) is Azerbaijani the official language?",
+  "response": [
+    "doc_3611.txt",
+    "doc_3612.txt",
+    "doc_3613.txt",
+    "doc_3614.txt",
+    "doc_3615.txt"
+  ]
+}

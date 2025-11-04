@@ -1,0 +1,10 @@
+{
+  "query": "How many categories are currently used for inducting artists into the Country Music Hall of Fame?",
+  "response": [
+    "doc_38854.txt",
+    "doc_38859.txt",
+    "doc_38855.txt",
+    "doc_38862.txt",
+    "doc_38856.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What types of documents must be provided to the Court of Auditors to facilitate their audit?",
+  "response": [
+    "doc_13606.txt",
+    "doc_13607.txt",
+    "doc_13605.txt",
+    "doc_13603.txt",
+    "doc_13608.txt"
+  ]
+}

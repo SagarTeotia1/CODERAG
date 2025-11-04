@@ -1,0 +1,10 @@
+{
+  "query": "What is the number of signatures on the petition submitted by the Committee for Ecoprotection?",
+  "response": [
+    "doc_8729.txt",
+    "doc_32550.txt",
+    "doc_29252.txt",
+    "doc_31931.txt",
+    "doc_20793.txt"
+  ]
+}

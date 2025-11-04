@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how many years after “Return of the Jedi” is “Star Wars: The Force Awakens” set?",
+  "response": [
+    "doc_34822.txt",
+    "doc_26044.txt",
+    "doc_34821.txt",
+    "doc_34819.txt",
+    "doc_34820.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What languages does the Commission provide translations for?",
+  "response": [
+    "doc_5430.txt",
+    "doc_12912.txt",
+    "doc_1099.txt",
+    "doc_34342.txt",
+    "doc_32716.txt"
+  ]
+}

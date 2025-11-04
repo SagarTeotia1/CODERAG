@@ -1,0 +1,10 @@
+{
+  "query": "In what year was “Glinda of Oz” published?",
+  "response": [
+    "doc_8765.txt",
+    "doc_8766.txt",
+    "doc_8769.txt",
+    "doc_8772.txt",
+    "doc_8770.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the administrative center of the Pima County described in the passage?",
+  "response": [
+    "doc_17543.txt",
+    "doc_17541.txt",
+    "doc_19152.txt",
+    "doc_17542.txt",
+    "doc_17539.txt"
+  ]
+}

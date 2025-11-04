@@ -1,0 +1,10 @@
+{
+  "query": "Who plays Nick McKussic in “Tequila Sunrise”?",
+  "response": [
+    "doc_37634.txt",
+    "doc_37628.txt",
+    "doc_37629.txt",
+    "doc_37633.txt",
+    "doc_37627.txt"
+  ]
+}

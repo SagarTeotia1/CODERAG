@@ -1,0 +1,10 @@
+{
+  "query": "What was Norman Thomas’s political affiliation during his presidential campaigns?",
+  "response": [
+    "doc_28235.txt",
+    "doc_28236.txt",
+    "doc_28237.txt",
+    "doc_28238.txt",
+    "doc_28239.txt"
+  ]
+}

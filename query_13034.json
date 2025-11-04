@@ -1,0 +1,10 @@
+{
+  "query": "According to one source, what was Henri Poincar’s role in the development of Bayes’ Theorem?",
+  "response": [
+    "doc_2874.txt",
+    "doc_1823.txt",
+    "doc_30268.txt",
+    "doc_14467.txt",
+    "doc_2877.txt"
+  ]
+}

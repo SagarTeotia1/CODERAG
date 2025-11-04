@@ -1,0 +1,10 @@
+{
+  "query": "Where was the 2001 Motor City Bowl played?",
+  "response": [
+    "doc_3114.txt",
+    "doc_34202.txt",
+    "doc_38738.txt",
+    "doc_3115.txt",
+    "doc_38742.txt"
+  ]
+}

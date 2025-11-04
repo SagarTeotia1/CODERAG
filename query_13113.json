@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what percentage of Europeans are considered seriously obese?",
+  "response": [
+    "doc_17235.txt",
+    "doc_7612.txt",
+    "doc_1931.txt",
+    "doc_17236.txt",
+    "doc_1934.txt"
+  ]
+}

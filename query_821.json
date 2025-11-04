@@ -1,0 +1,10 @@
+{
+  "query": "In “Pilot” (The Cleveland Show), where do Cleveland and Cleveland, Jr. initially plan to travel to?",
+  "response": [
+    "doc_20609.txt",
+    "doc_7499.txt",
+    "doc_14797.txt",
+    "doc_10381.txt",
+    "doc_14790.txt"
+  ]
+}

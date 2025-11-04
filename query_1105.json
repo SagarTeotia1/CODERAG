@@ -1,0 +1,10 @@
+{
+  "query": "What article of the Euratom Treaty did the Commission provide a favourable opinion for the project in question?",
+  "response": [
+    "doc_30029.txt",
+    "doc_12880.txt",
+    "doc_25871.txt",
+    "doc_28043.txt",
+    "doc_20820.txt"
+  ]
+}

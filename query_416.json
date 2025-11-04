@@ -1,0 +1,10 @@
+{
+  "query": "What specific action did the Council recommend Greece take to address the budget deficit?",
+  "response": [
+    "doc_28265.txt",
+    "doc_16026.txt",
+    "doc_14375.txt",
+    "doc_20720.txt",
+    "doc_668.txt"
+  ]
+}

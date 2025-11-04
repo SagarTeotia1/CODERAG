@@ -1,0 +1,10 @@
+{
+  "query": "On what date did Parliament adopt resolutions related to Bangladesh, and what was the outcome of that vote?",
+  "response": [
+    "doc_22085.txt",
+    "doc_5792.txt",
+    "doc_22086.txt",
+    "doc_5793.txt",
+    "doc_5768.txt"
+  ]
+}

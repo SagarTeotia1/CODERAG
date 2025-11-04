@@ -1,0 +1,10 @@
+{
+  "query": "What event is being presented by the Lodi Youth Ballet?",
+  "response": [
+    "doc_6301.txt",
+    "doc_11659.txt",
+    "doc_37200.txt",
+    "doc_17999.txt",
+    "doc_17998.txt"
+  ]
+}

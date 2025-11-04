@@ -1,0 +1,10 @@
+{
+  "query": "What year did George H.W. Bush complete pilot training?",
+  "response": [
+    "doc_30288.txt",
+    "doc_30284.txt",
+    "doc_30285.txt",
+    "doc_30289.txt",
+    "doc_30286.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In Norway, what is the current policy regarding adoption by gay couples?",
+  "response": [
+    "doc_15444.txt",
+    "doc_14509.txt",
+    "doc_8800.txt",
+    "doc_22594.txt",
+    "doc_8801.txt"
+  ]
+}

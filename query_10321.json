@@ -1,0 +1,10 @@
+{
+  "query": "How did the city formerly known as Bombay change its name, and when did this change occur?",
+  "response": [
+    "doc_1566.txt",
+    "doc_1567.txt",
+    "doc_1568.txt",
+    "doc_39662.txt",
+    "doc_39663.txt"
+  ]
+}

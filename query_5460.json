@@ -1,0 +1,10 @@
+{
+  "query": "Who is the spiritual leader of Congregation Beth Am Israel?",
+  "response": [
+    "doc_4000.txt",
+    "doc_4001.txt",
+    "doc_3999.txt",
+    "doc_3997.txt",
+    "doc_3998.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which network continued the series after Lear Radio?",
+  "response": [
+    "doc_21579.txt",
+    "doc_5067.txt",
+    "doc_21571.txt",
+    "doc_5629.txt",
+    "doc_27868.txt"
+  ]
+}

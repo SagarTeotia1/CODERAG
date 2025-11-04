@@ -1,0 +1,10 @@
+{
+  "query": "Which European governments were specifically criticized in the report for potential involvement in illegal activities related to extraordinary rendition?",
+  "response": [
+    "doc_7058.txt",
+    "doc_3550.txt",
+    "doc_7059.txt",
+    "doc_27653.txt",
+    "doc_24103.txt"
+  ]
+}

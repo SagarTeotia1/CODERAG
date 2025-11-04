@@ -1,0 +1,10 @@
+{
+  "query": "In what year did the band Big Self perform as a four-piece at Self Aid, and with which other artists did they share the stage?",
+  "response": [
+    "doc_27196.txt",
+    "doc_27199.txt",
+    "doc_27197.txt",
+    "doc_27198.txt",
+    "doc_39060.txt"
+  ]
+}

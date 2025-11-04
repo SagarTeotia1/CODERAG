@@ -1,0 +1,10 @@
+{
+  "query": "What specific number is required of all foreigners residing in Spain to obtain?",
+  "response": [
+    "doc_39215.txt",
+    "doc_2784.txt",
+    "doc_35155.txt",
+    "doc_18358.txt",
+    "doc_6825.txt"
+  ]
+}

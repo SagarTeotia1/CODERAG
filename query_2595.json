@@ -1,0 +1,10 @@
+{
+  "query": "According to the passages, what was the core message of FDR’s first inaugural address?",
+  "response": [
+    "doc_33745.txt",
+    "doc_33744.txt",
+    "doc_33747.txt",
+    "doc_33750.txt",
+    "doc_33746.txt"
+  ]
+}

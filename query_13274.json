@@ -1,0 +1,10 @@
+{
+  "query": "What are the three new team colors adopted by the Tampa Bay Rays?",
+  "response": [
+    "doc_23275.txt",
+    "doc_7764.txt",
+    "doc_23274.txt",
+    "doc_33935.txt",
+    "doc_14703.txt"
+  ]
+}

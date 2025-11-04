@@ -1,0 +1,10 @@
+{
+  "query": "Who intends to kill James Bond and Lotte Lenya?",
+  "response": [
+    "doc_24129.txt",
+    "doc_24128.txt",
+    "doc_24130.txt",
+    "doc_24127.txt",
+    "doc_24131.txt"
+  ]
+}

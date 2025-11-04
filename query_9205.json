@@ -1,0 +1,10 @@
+{
+  "query": "What type of technology is the European Parliament suggesting be utilized to limit staff missions?",
+  "response": [
+    "doc_23101.txt",
+    "doc_13352.txt",
+    "doc_18297.txt",
+    "doc_18296.txt",
+    "doc_3475.txt"
+  ]
+}

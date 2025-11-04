@@ -1,0 +1,10 @@
+{
+  "query": "According to the article, what percentage of the Toyota Avalon's components were domestically produced?",
+  "response": [
+    "doc_31255.txt",
+    "doc_31254.txt",
+    "doc_31258.txt",
+    "doc_31257.txt",
+    "doc_31256.txt"
+  ]
+}

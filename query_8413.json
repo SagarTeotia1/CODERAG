@@ -1,0 +1,10 @@
+{
+  "query": "Who designed Dalmeny House, and in what year was it completed?",
+  "response": [
+    "doc_11392.txt",
+    "doc_10052.txt",
+    "doc_7626.txt",
+    "doc_12267.txt",
+    "doc_17714.txt"
+  ]
+}

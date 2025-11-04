@@ -1,0 +1,10 @@
+{
+  "query": "Since 1899, what natural disasters occurred in Vicksburg and Lafayette County?",
+  "response": [
+    "doc_38765.txt",
+    "doc_38766.txt",
+    "doc_20608.txt",
+    "doc_33181.txt",
+    "doc_33182.txt"
+  ]
+}

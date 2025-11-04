@@ -1,0 +1,10 @@
+{
+  "query": "According to the text, what type of kiss was considered a winning “Best Kiss” award at the MTV Movie Awards since 1992?",
+  "response": [
+    "doc_1515.txt",
+    "doc_1516.txt",
+    "doc_1524.txt",
+    "doc_1517.txt",
+    "doc_5863.txt"
+  ]
+}

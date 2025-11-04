@@ -1,0 +1,10 @@
+{
+  "query": "What genre of fiction did “I Am Legend” help popularize?",
+  "response": [
+    "doc_13522.txt",
+    "doc_11564.txt",
+    "doc_32340.txt",
+    "doc_32338.txt",
+    "doc_32341.txt"
+  ]
+}

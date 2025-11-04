@@ -1,0 +1,10 @@
+{
+  "query": "What significant speech did Winston Churchill deliver in 1946, and what was its primary focus?",
+  "response": [
+    "doc_19780.txt",
+    "doc_19291.txt",
+    "doc_37644.txt",
+    "doc_26703.txt",
+    "doc_33747.txt"
+  ]
+}

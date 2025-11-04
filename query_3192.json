@@ -1,0 +1,10 @@
+{
+  "query": "For which movie was the song “The Great Beyond” written?",
+  "response": [
+    "doc_19842.txt",
+    "doc_2351.txt",
+    "doc_6732.txt",
+    "doc_33117.txt",
+    "doc_11256.txt"
+  ]
+}

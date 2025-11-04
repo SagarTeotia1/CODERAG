@@ -1,0 +1,10 @@
+{
+  "query": "The director referenced in the passage used non-linear editing, specifically drawing inspiration from Luis De La Madrid's work on “Apes’ (1968) and “Mutual of Omaha’s Wild Kingdom”. What films did he cite as examples?",
+  "response": [
+    "doc_11518.txt",
+    "doc_5207.txt",
+    "doc_5214.txt",
+    "doc_11515.txt",
+    "doc_11519.txt"
+  ]
+}

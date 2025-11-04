@@ -1,0 +1,10 @@
+{
+  "query": "According to Entertainment Weekly, what was Woodstock (film) described as?",
+  "response": [
+    "doc_23835.txt",
+    "doc_12434.txt",
+    "doc_8683.txt",
+    "doc_8674.txt",
+    "doc_8673.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When will the vote on the new European Commission take place?",
+  "response": [
+    "doc_2354.txt",
+    "doc_21076.txt",
+    "doc_13967.txt",
+    "doc_14779.txt",
+    "doc_25833.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What themes are addressed in the lyrics of the song “True Love Waits”?",
+  "response": [
+    "doc_23829.txt",
+    "doc_37085.txt",
+    "doc_23836.txt",
+    "doc_13034.txt",
+    "doc_23828.txt"
+  ]
+}

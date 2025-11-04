@@ -1,0 +1,10 @@
+{
+  "query": "What is the current status of the medicinal product Aimspro, and what process is required before it can be legally marketed?",
+  "response": [
+    "doc_5121.txt",
+    "doc_5122.txt",
+    "doc_3355.txt",
+    "doc_16437.txt",
+    "doc_8101.txt"
+  ]
+}

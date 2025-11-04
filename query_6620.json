@@ -1,0 +1,10 @@
+{
+  "query": "Which university did Ryah Nixon graduate from?",
+  "response": [
+    "doc_6948.txt",
+    "doc_30946.txt",
+    "doc_17794.txt",
+    "doc_2395.txt",
+    "doc_30945.txt"
+  ]
+}

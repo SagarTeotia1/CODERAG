@@ -1,0 +1,10 @@
+{
+  "query": "What film featured Kevin Smith as the writer and Joe Quesada as the illustrator?",
+  "response": [
+    "doc_12223.txt",
+    "doc_12221.txt",
+    "doc_12222.txt",
+    "doc_12224.txt",
+    "doc_12225.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is Northern Ontario’s most popular tourist attraction?",
+  "response": [
+    "doc_8852.txt",
+    "doc_8849.txt",
+    "doc_8854.txt",
+    "doc_8857.txt",
+    "doc_8853.txt"
+  ]
+}

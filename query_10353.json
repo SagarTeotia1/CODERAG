@@ -1,0 +1,10 @@
+{
+  "query": "Who wrote “The Ascension Factor”?",
+  "response": [
+    "doc_14904.txt",
+    "doc_14902.txt",
+    "doc_14903.txt",
+    "doc_14899.txt",
+    "doc_14905.txt"
+  ]
+}

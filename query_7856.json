@@ -1,0 +1,10 @@
+{
+  "query": "What architectural style is associated with the Alhambra?",
+  "response": [
+    "doc_9939.txt",
+    "doc_9934.txt",
+    "doc_9938.txt",
+    "doc_9935.txt",
+    "doc_9937.txt"
+  ]
+}

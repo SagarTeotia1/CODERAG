@@ -1,0 +1,10 @@
+{
+  "query": "Which cities did “Hidden America with Jonah Ray” explore?",
+  "response": [
+    "doc_6066.txt",
+    "doc_24606.txt",
+    "doc_24888.txt",
+    "doc_25257.txt",
+    "doc_33076.txt"
+  ]
+}

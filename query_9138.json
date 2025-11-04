@@ -1,0 +1,10 @@
+{
+  "query": "Did former US President Jimmy Carter recently criticize the Middle East Quartet’s continued embargo on Gaza?",
+  "response": [
+    "doc_1384.txt",
+    "doc_1382.txt",
+    "doc_3534.txt",
+    "doc_1393.txt",
+    "doc_1387.txt"
+  ]
+}

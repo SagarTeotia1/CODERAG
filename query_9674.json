@@ -1,0 +1,10 @@
+{
+  "query": "What was Clorox’s ranking on the 2016 Fortune 500 list?",
+  "response": [
+    "doc_37668.txt",
+    "doc_37666.txt",
+    "doc_14376.txt",
+    "doc_37672.txt",
+    "doc_26973.txt"
+  ]
+}

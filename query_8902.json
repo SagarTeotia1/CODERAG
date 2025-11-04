@@ -1,0 +1,10 @@
+{
+  "query": "Which producer worked on both “Vienna” and Ultravox’s previous album, “Systems of Romance”?",
+  "response": [
+    "doc_38649.txt",
+    "doc_38651.txt",
+    "doc_38650.txt",
+    "doc_15907.txt",
+    "doc_38412.txt"
+  ]
+}

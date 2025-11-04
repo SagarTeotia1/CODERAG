@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of Targi Kielce is owned by the Kielce town council?",
+  "response": [
+    "doc_31176.txt",
+    "doc_17166.txt",
+    "doc_12704.txt",
+    "doc_7353.txt",
+    "doc_25350.txt"
+  ]
+}

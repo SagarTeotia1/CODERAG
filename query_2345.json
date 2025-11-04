@@ -1,0 +1,10 @@
+{
+  "query": "Does the Commission believe a high tax on refined sugar could reduce sugar intake and prevent type 2 diabetes?",
+  "response": [
+    "doc_33083.txt",
+    "doc_14519.txt",
+    "doc_24104.txt",
+    "doc_266.txt",
+    "doc_37773.txt"
+  ]
+}

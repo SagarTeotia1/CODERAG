@@ -1,0 +1,10 @@
+{
+  "query": "What was Larry Walker's birthdate, as stated in one of the provided links?",
+  "response": [
+    "doc_8292.txt",
+    "doc_8295.txt",
+    "doc_32454.txt",
+    "doc_39491.txt",
+    "doc_39487.txt"
+  ]
+}

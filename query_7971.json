@@ -1,0 +1,10 @@
+{
+  "query": "What is the release date of the film \"Gringo\"?",
+  "response": [
+    "doc_18856.txt",
+    "doc_39546.txt",
+    "doc_19040.txt",
+    "doc_19042.txt",
+    "doc_3387.txt"
+  ]
+}

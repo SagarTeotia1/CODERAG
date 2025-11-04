@@ -1,0 +1,10 @@
+{
+  "query": "What year was a postage stamp issued honoring Maya Angelou as part of the Black Heritage Series?",
+  "response": [
+    "doc_10964.txt",
+    "doc_10958.txt",
+    "doc_10961.txt",
+    "doc_10965.txt",
+    "doc_37378.txt"
+  ]
+}

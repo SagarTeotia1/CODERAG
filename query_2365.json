@@ -1,0 +1,10 @@
+{
+  "query": "What item is worn to avoid being trapped in a “ring of fire” in *The Legend of Zelda: Majora’s Mask*?",
+  "response": [
+    "doc_3314.txt",
+    "doc_3323.txt",
+    "doc_3321.txt",
+    "doc_3317.txt",
+    "doc_3319.txt"
+  ]
+}

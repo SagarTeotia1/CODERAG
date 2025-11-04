@@ -1,0 +1,10 @@
+{
+  "query": "What type of music is Charles Amirkhanian known for?",
+  "response": [
+    "doc_35842.txt",
+    "doc_30502.txt",
+    "doc_30501.txt",
+    "doc_28389.txt",
+    "doc_35294.txt"
+  ]
+}

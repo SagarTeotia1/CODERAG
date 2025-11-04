@@ -1,0 +1,10 @@
+{
+  "query": "What was Brutus’s role in the debate surrounding the proposed Constitution?",
+  "response": [
+    "doc_4230.txt",
+    "doc_4223.txt",
+    "doc_4225.txt",
+    "doc_4231.txt",
+    "doc_4232.txt"
+  ]
+}

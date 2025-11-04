@@ -1,0 +1,10 @@
+{
+  "query": "What types of artwork are displayed at the Norman Rockwell Museum in Rutland, Vermont?",
+  "response": [
+    "doc_14753.txt",
+    "doc_14750.txt",
+    "doc_14754.txt",
+    "doc_14752.txt",
+    "doc_14757.txt"
+  ]
+}

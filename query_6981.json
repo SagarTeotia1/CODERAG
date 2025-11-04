@@ -1,0 +1,10 @@
+{
+  "query": "What specific European Commission initiative was established to support the development of photovoltaic solar energy?",
+  "response": [
+    "doc_7819.txt",
+    "doc_3789.txt",
+    "doc_17434.txt",
+    "doc_30933.txt",
+    "doc_21094.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which countries expressed a willingness to contribute to reinforcing IMF resources?",
+  "response": [
+    "doc_33392.txt",
+    "doc_34225.txt",
+    "doc_33289.txt",
+    "doc_13342.txt",
+    "doc_16476.txt"
+  ]
+}

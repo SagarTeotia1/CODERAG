@@ -1,0 +1,10 @@
+{
+  "query": "What type of study is specifically required for each vaccine by the Committee on Human Medicinal Products?",
+  "response": [
+    "doc_14587.txt",
+    "doc_14586.txt",
+    "doc_5901.txt",
+    "doc_12554.txt",
+    "doc_5899.txt"
+  ]
+}

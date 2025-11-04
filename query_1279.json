@@ -1,0 +1,10 @@
+{
+  "query": "How many times have Scottish Executive Ministers spoken at formal and informal meetings of the Council since 1999?",
+  "response": [
+    "doc_36369.txt",
+    "doc_36368.txt",
+    "doc_14207.txt",
+    "doc_14210.txt",
+    "doc_35553.txt"
+  ]
+}

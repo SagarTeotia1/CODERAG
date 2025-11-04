@@ -1,0 +1,10 @@
+{
+  "query": "Which New Zealand-born individual received a papal knighthood for their work in art history?",
+  "response": [
+    "doc_30193.txt",
+    "doc_33019.txt",
+    "doc_33020.txt",
+    "doc_23556.txt",
+    "doc_23554.txt"
+  ]
+}

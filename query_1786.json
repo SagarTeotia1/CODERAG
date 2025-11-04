@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of Al Bundy’s favorite TV show?",
+  "response": [
+    "doc_31647.txt",
+    "doc_31652.txt",
+    "doc_31648.txt",
+    "doc_31653.txt",
+    "doc_31649.txt"
+  ]
+}

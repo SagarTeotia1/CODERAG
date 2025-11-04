@@ -1,0 +1,10 @@
+{
+  "query": "What type of legal action was dismissed at Suffolk Law School?",
+  "response": [
+    "doc_10579.txt",
+    "doc_10575.txt",
+    "doc_39407.txt",
+    "doc_73.txt",
+    "doc_10576.txt"
+  ]
+}

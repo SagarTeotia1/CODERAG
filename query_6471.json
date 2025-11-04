@@ -1,0 +1,10 @@
+{
+  "query": "What is the contact information for Ralph Pine, the press enquiry contact listed in the passage?",
+  "response": [
+    "doc_10117.txt",
+    "doc_22086.txt",
+    "doc_22087.txt",
+    "doc_6553.txt",
+    "doc_865.txt"
+  ]
+}

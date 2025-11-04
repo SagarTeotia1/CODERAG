@@ -1,0 +1,10 @@
+{
+  "query": "Which European Councils adopted the Sustainable Development Strategy (SDS) and the Johannesburg Action Programme?",
+  "response": [
+    "doc_1527.txt",
+    "doc_26277.txt",
+    "doc_26275.txt",
+    "doc_19612.txt",
+    "doc_38255.txt"
+  ]
+}

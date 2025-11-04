@@ -1,0 +1,10 @@
+{
+  "query": "In what year did the player make his White Sox debut?",
+  "response": [
+    "doc_7462.txt",
+    "doc_7461.txt",
+    "doc_7457.txt",
+    "doc_8294.txt",
+    "doc_31474.txt"
+  ]
+}

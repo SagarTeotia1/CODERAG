@@ -1,0 +1,10 @@
+{
+  "query": "Which actor played Kato in the 2011 Green Hornet film?",
+  "response": [
+    "doc_16672.txt",
+    "doc_2483.txt",
+    "doc_8354.txt",
+    "doc_14867.txt",
+    "doc_16673.txt"
+  ]
+}

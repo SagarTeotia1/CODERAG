@@ -1,0 +1,10 @@
+{
+  "query": "What was the date of the Darfur Peace Agreement (DPA) signing?",
+  "response": [
+    "doc_26947.txt",
+    "doc_24373.txt",
+    "doc_26948.txt",
+    "doc_21566.txt",
+    "doc_3503.txt"
+  ]
+}

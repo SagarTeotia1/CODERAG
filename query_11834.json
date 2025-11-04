@@ -1,0 +1,10 @@
+{
+  "query": "What picture did Mr. Badri create?",
+  "response": [
+    "doc_28846.txt",
+    "doc_21607.txt",
+    "doc_7505.txt",
+    "doc_21610.txt",
+    "doc_21606.txt"
+  ]
+}

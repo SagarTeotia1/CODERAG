@@ -1,0 +1,10 @@
+{
+  "query": "Which national seashores are included within the Outer Banks?",
+  "response": [
+    "doc_34755.txt",
+    "doc_38101.txt",
+    "doc_38100.txt",
+    "doc_38096.txt",
+    "doc_34754.txt"
+  ]
+}

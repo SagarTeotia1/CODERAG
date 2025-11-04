@@ -1,0 +1,10 @@
+{
+  "query": "Where are United States naval reactors developed and tested?",
+  "response": [
+    "doc_14634.txt",
+    "doc_14623.txt",
+    "doc_14625.txt",
+    "doc_14640.txt",
+    "doc_14619.txt"
+  ]
+}

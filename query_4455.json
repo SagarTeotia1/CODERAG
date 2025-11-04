@@ -1,0 +1,10 @@
+{
+  "query": "What role do the European Parliament and its bodies play in processing citizens’ complaints?",
+  "response": [
+    "doc_1076.txt",
+    "doc_38045.txt",
+    "doc_38043.txt",
+    "doc_2672.txt",
+    "doc_1075.txt"
+  ]
+}

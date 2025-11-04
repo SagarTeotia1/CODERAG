@@ -1,0 +1,10 @@
+{
+  "query": "What is the resolution’s stance on the Nairobi Agreement?",
+  "response": [
+    "doc_2622.txt",
+    "doc_2621.txt",
+    "doc_36457.txt",
+    "doc_18677.txt",
+    "doc_40090.txt"
+  ]
+}

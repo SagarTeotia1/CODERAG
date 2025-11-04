@@ -1,0 +1,10 @@
+{
+  "query": "Which song did Simon perform?",
+  "response": [
+    "doc_4898.txt",
+    "doc_4893.txt",
+    "doc_8234.txt",
+    "doc_4894.txt",
+    "doc_4900.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What specific temperature and duration must fishery products be frozen to meet the requirements outlined in Regulation (EC) No 853/2004?",
+  "response": [
+    "doc_4821.txt",
+    "doc_34231.txt",
+    "doc_6226.txt",
+    "doc_28566.txt",
+    "doc_4822.txt"
+  ]
+}

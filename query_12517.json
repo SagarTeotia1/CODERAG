@@ -1,0 +1,10 @@
+{
+  "query": "What was the focus of the film “BookWars,” and in what city was it produced?",
+  "response": [
+    "doc_17671.txt",
+    "doc_17668.txt",
+    "doc_11337.txt",
+    "doc_39519.txt",
+    "doc_25398.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which football club is Erwin van de Looi currently managing?",
+  "response": [
+    "doc_37732.txt",
+    "doc_10570.txt",
+    "doc_8198.txt",
+    "doc_36101.txt",
+    "doc_32594.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What specific allegation did EMAG make concerning the FSA’s handling of investor compensation, and how did the FSA respond to this allegation?",
+  "response": [
+    "doc_1008.txt",
+    "doc_1009.txt",
+    "doc_1037.txt",
+    "doc_1038.txt",
+    "doc_990.txt"
+  ]
+}

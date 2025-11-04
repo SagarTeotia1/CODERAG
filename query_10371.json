@@ -1,0 +1,10 @@
+{
+  "query": "What poem is described as “affecting” by Ted Hughes?",
+  "response": [
+    "doc_19925.txt",
+    "doc_23910.txt",
+    "doc_19924.txt",
+    "doc_12288.txt",
+    "doc_23916.txt"
+  ]
+}

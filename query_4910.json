@@ -1,0 +1,10 @@
+{
+  "query": "What body of water borders Prince Edward Island to the south?",
+  "response": [
+    "doc_39147.txt",
+    "doc_39150.txt",
+    "doc_39148.txt",
+    "doc_39149.txt",
+    "doc_39146.txt"
+  ]
+}

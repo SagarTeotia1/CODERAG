@@ -1,0 +1,10 @@
+{
+  "query": "How many species did Reichenbach recognize in the *Epidendrum subsect. Tuberculata* in 1861?",
+  "response": [
+    "doc_2808.txt",
+    "doc_2807.txt",
+    "doc_8081.txt",
+    "doc_8084.txt",
+    "doc_8086.txt"
+  ]
+}

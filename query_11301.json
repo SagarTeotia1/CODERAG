@@ -1,0 +1,10 @@
+{
+  "query": "What musical element did George Martin contribute to the song?",
+  "response": [
+    "doc_18362.txt",
+    "doc_19566.txt",
+    "doc_38233.txt",
+    "doc_3426.txt",
+    "doc_37523.txt"
+  ]
+}

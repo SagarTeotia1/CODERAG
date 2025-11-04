@@ -1,0 +1,10 @@
+{
+  "query": "What was Thelonious Monk's role in Charlie Parker's music arrangements?",
+  "response": [
+    "doc_22480.txt",
+    "doc_31863.txt",
+    "doc_11481.txt",
+    "doc_19566.txt",
+    "doc_268.txt"
+  ]
+}

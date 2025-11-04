@@ -1,0 +1,10 @@
+{
+  "query": "How did German legislation, as described in the passage, treat contributions to pension funds located in other Member States?",
+  "response": [
+    "doc_31625.txt",
+    "doc_24583.txt",
+    "doc_24582.txt",
+    "doc_17068.txt",
+    "doc_5924.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is Roger Blue’s professional title?",
+  "response": [
+    "doc_37167.txt",
+    "doc_26179.txt",
+    "doc_19499.txt",
+    "doc_26680.txt",
+    "doc_7645.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When was Lee Min-ho born?",
+  "response": [
+    "doc_27589.txt",
+    "doc_27588.txt",
+    "doc_16920.txt",
+    "doc_2210.txt",
+    "doc_16919.txt"
+  ]
+}

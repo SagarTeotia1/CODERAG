@@ -1,0 +1,10 @@
+{
+  "query": "What year did the Battle of Marathon take place?",
+  "response": [
+    "doc_279.txt",
+    "doc_7077.txt",
+    "doc_277.txt",
+    "doc_7072.txt",
+    "doc_7078.txt"
+  ]
+}

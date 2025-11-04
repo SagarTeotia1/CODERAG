@@ -1,0 +1,10 @@
+{
+  "query": "Which stadium in Armenia is primarily used for football games?",
+  "response": [
+    "doc_9036.txt",
+    "doc_19264.txt",
+    "doc_15842.txt",
+    "doc_9037.txt",
+    "doc_28357.txt"
+  ]
+}

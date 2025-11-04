@@ -1,0 +1,10 @@
+{
+  "query": "What teams played in the 2017 NHL Winter Classic, and where did the game take place?",
+  "response": [
+    "doc_10459.txt",
+    "doc_17332.txt",
+    "doc_17335.txt",
+    "doc_30114.txt",
+    "doc_17333.txt"
+  ]
+}

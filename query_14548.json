@@ -1,0 +1,10 @@
+{
+  "query": "Which actors appeared in the film *12 Years a Slave*?",
+  "response": [
+    "doc_12946.txt",
+    "doc_16672.txt",
+    "doc_26507.txt",
+    "doc_27320.txt",
+    "doc_27329.txt"
+  ]
+}

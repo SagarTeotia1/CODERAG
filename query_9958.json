@@ -1,0 +1,10 @@
+{
+  "query": "In what city and state was Gerald Ford’s Boy Scout Troop 15 located?",
+  "response": [
+    "doc_15085.txt",
+    "doc_31988.txt",
+    "doc_31800.txt",
+    "doc_31793.txt",
+    "doc_18202.txt"
+  ]
+}

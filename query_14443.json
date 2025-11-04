@@ -1,0 +1,10 @@
+{
+  "query": "Where were puffins nesting in Maine before the restoration project began?",
+  "response": [
+    "doc_25982.txt",
+    "doc_39152.txt",
+    "doc_25977.txt",
+    "doc_39151.txt",
+    "doc_39154.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Where is the Rose City Park Presbyterian Church located?",
+  "response": [
+    "doc_5243.txt",
+    "doc_5242.txt",
+    "doc_5241.txt",
+    "doc_29143.txt",
+    "doc_5237.txt"
+  ]
+}

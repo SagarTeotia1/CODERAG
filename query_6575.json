@@ -1,0 +1,10 @@
+{
+  "query": "What constitutional clauses were cited in *Obergefell v. Hodges* to justify the ruling on same-sex marriage?",
+  "response": [
+    "doc_6846.txt",
+    "doc_6845.txt",
+    "doc_9810.txt",
+    "doc_10751.txt",
+    "doc_9811.txt"
+  ]
+}

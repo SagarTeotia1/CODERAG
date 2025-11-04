@@ -1,0 +1,10 @@
+{
+  "query": "What does Bond buy for Tracy in the film?",
+  "response": [
+    "doc_15093.txt",
+    "doc_15086.txt",
+    "doc_15090.txt",
+    "doc_15096.txt",
+    "doc_15092.txt"
+  ]
+}

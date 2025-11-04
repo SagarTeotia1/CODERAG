@@ -1,0 +1,10 @@
+{
+  "query": "How many first-round NFL draft selections did Ohio State have as of 2016?",
+  "response": [
+    "doc_7393.txt",
+    "doc_7716.txt",
+    "doc_10517.txt",
+    "doc_33560.txt",
+    "doc_3085.txt"
+  ]
+}

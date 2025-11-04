@@ -1,0 +1,10 @@
+{
+  "query": "Which projects are concerned with the Church of Greece’s participation under the third CSF?",
+  "response": [
+    "doc_28863.txt",
+    "doc_21711.txt",
+    "doc_12898.txt",
+    "doc_13072.txt",
+    "doc_17042.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Who built the first incarnation of the Garden City Hotel, and when was it constructed?",
+  "response": [
+    "doc_6073.txt",
+    "doc_6068.txt",
+    "doc_12394.txt",
+    "doc_5240.txt",
+    "doc_6071.txt"
+  ]
+}

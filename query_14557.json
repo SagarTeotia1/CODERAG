@@ -1,0 +1,10 @@
+{
+  "query": "What was the last Land Rover Defender produced, and when did it roll off the production line?",
+  "response": [
+    "doc_26520.txt",
+    "doc_26519.txt",
+    "doc_26517.txt",
+    "doc_26522.txt",
+    "doc_26518.txt"
+  ]
+}

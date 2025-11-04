@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission’s policy regarding comments on public statements made by politicians?",
+  "response": [
+    "doc_21544.txt",
+    "doc_28910.txt",
+    "doc_38685.txt",
+    "doc_29322.txt",
+    "doc_28249.txt"
+  ]
+}

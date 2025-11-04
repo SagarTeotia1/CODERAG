@@ -1,0 +1,10 @@
+{
+  "query": "What specific criminal code sections are the charges against Dr. Zelezný based on?",
+  "response": [
+    "doc_18545.txt",
+    "doc_18544.txt",
+    "doc_18550.txt",
+    "doc_18548.txt",
+    "doc_18546.txt"
+  ]
+}

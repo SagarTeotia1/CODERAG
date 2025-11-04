@@ -1,0 +1,10 @@
+{
+  "query": "What is Boris Akunin’s pen name, as mentioned in one of the linked articles?",
+  "response": [
+    "doc_14011.txt",
+    "doc_36592.txt",
+    "doc_13561.txt",
+    "doc_25962.txt",
+    "doc_25963.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the title of the opera that was partially recorded on the observation deck of the Empire State Building?",
+  "response": [
+    "doc_35292.txt",
+    "doc_35291.txt",
+    "doc_35289.txt",
+    "doc_35290.txt",
+    "doc_35295.txt"
+  ]
+}

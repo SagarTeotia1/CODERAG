@@ -1,0 +1,10 @@
+{
+  "query": "For which national team does Juan Manuel Mata García play?",
+  "response": [
+    "doc_5721.txt",
+    "doc_5722.txt",
+    "doc_24725.txt",
+    "doc_26374.txt",
+    "doc_18342.txt"
+  ]
+}

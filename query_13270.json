@@ -1,0 +1,10 @@
+{
+  "query": "How many players have the Tampa Bay Rays selected in the first round of the draft since 1995?",
+  "response": [
+    "doc_38761.txt",
+    "doc_38758.txt",
+    "doc_11890.txt",
+    "doc_11574.txt",
+    "doc_11893.txt"
+  ]
+}

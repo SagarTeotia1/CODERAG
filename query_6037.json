@@ -1,0 +1,10 @@
+{
+  "query": "What did the European Food Safety Authority (EFSA) conclude regarding the safety of LLRICE601?",
+  "response": [
+    "doc_5442.txt",
+    "doc_20620.txt",
+    "doc_31740.txt",
+    "doc_17272.txt",
+    "doc_23058.txt"
+  ]
+}

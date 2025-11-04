@@ -1,0 +1,10 @@
+{
+  "query": "In what location is *The Merry Wives of Windsor* primarily set?",
+  "response": [
+    "doc_35318.txt",
+    "doc_35317.txt",
+    "doc_35316.txt",
+    "doc_35315.txt",
+    "doc_37374.txt"
+  ]
+}

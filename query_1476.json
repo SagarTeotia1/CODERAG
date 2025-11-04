@@ -1,0 +1,10 @@
+{
+  "query": "Which director is credited with directing *The Lodger: A Story of the London Fog*, and how many films had he directed by that time?",
+  "response": [
+    "doc_30876.txt",
+    "doc_30870.txt",
+    "doc_30875.txt",
+    "doc_30877.txt",
+    "doc_30871.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which website identifies Marilyn Monroe’s dress from *The Seven Year Itch* as one of history’s most famous?",
+  "response": [
+    "doc_15416.txt",
+    "doc_15417.txt",
+    "doc_22391.txt",
+    "doc_22387.txt",
+    "doc_22389.txt"
+  ]
+}

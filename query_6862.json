@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what was Athanasius Kircher credited with developing?",
+  "response": [
+    "doc_7505.txt",
+    "doc_7507.txt",
+    "doc_7504.txt",
+    "doc_7506.txt",
+    "doc_7508.txt"
+  ]
+}

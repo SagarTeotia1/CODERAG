@@ -1,0 +1,10 @@
+{
+  "query": "What is the primary international airport serving New York City?",
+  "response": [
+    "doc_8906.txt",
+    "doc_8907.txt",
+    "doc_1139.txt",
+    "doc_32127.txt",
+    "doc_8908.txt"
+  ]
+}

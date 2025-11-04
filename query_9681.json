@@ -1,0 +1,10 @@
+{
+  "query": "What was the subject of the legal proceedings between Hannover-Langenhagen Airport and Lufthansa?",
+  "response": [
+    "doc_14404.txt",
+    "doc_26467.txt",
+    "doc_21536.txt",
+    "doc_10512.txt",
+    "doc_23567.txt"
+  ]
+}

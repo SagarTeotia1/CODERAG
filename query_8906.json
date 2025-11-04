@@ -1,0 +1,10 @@
+{
+  "query": "What hits did Johnny Burnette perform?",
+  "response": [
+    "doc_12583.txt",
+    "doc_12582.txt",
+    "doc_19645.txt",
+    "doc_19646.txt",
+    "doc_19638.txt"
+  ]
+}

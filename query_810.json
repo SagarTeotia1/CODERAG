@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of single parents in Europe were mothers aged 25 to 64 in 2001?",
+  "response": [
+    "doc_29154.txt",
+    "doc_29155.txt",
+    "doc_29153.txt",
+    "doc_29158.txt",
+    "doc_29156.txt"
+  ]
+}

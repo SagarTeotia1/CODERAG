@@ -1,0 +1,9 @@
+{
+  "query": "Garry Kasparov recently beat a computer program, Deep Thought, in a game of this?",
+  "response": [
+    "doc_30496.txt",
+    "doc_30497.txt",
+    "doc_30495.txt",
+    "doc_30494.txt"
+  ]
+}

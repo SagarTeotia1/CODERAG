@@ -1,0 +1,10 @@
+{
+  "query": "What is Nancy Lopez’s current role with the EWGA?",
+  "response": [
+    "doc_16122.txt",
+    "doc_16118.txt",
+    "doc_26968.txt",
+    "doc_2907.txt",
+    "doc_37217.txt"
+  ]
+}

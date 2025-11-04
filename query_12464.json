@@ -1,0 +1,10 @@
+{
+  "query": "What are the three tectonic units that make up the Huangling Complex, from core to rim?",
+  "response": [
+    "doc_21380.txt",
+    "doc_8745.txt",
+    "doc_8743.txt",
+    "doc_5055.txt",
+    "doc_8744.txt"
+  ]
+}

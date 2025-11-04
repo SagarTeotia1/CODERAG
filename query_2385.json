@@ -1,0 +1,10 @@
+{
+  "query": "When and where was Stephen Nicholas murdered?",
+  "response": [
+    "doc_33204.txt",
+    "doc_4873.txt",
+    "doc_39284.txt",
+    "doc_15391.txt",
+    "doc_15393.txt"
+  ]
+}

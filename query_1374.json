@@ -1,0 +1,10 @@
+{
+  "query": "From what historical figure does the phrase “Hobson’s choice” derive its meaning?",
+  "response": [
+    "doc_22187.txt",
+    "doc_22195.txt",
+    "doc_22196.txt",
+    "doc_22190.txt",
+    "doc_22189.txt"
+  ]
+}

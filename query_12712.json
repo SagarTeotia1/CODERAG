@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission’s motivation for considering a School Fruit Scheme, as indicated by a Council declaration?",
+  "response": [
+    "doc_21953.txt",
+    "doc_19305.txt",
+    "doc_35908.txt",
+    "doc_16479.txt",
+    "doc_7620.txt"
+  ]
+}

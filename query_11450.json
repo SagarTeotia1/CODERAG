@@ -1,0 +1,10 @@
+{
+  "query": "What subject matter was popular in art during the 17th century, as exemplified by Judith Slaying Holofernes?",
+  "response": [
+    "doc_18725.txt",
+    "doc_27995.txt",
+    "doc_27996.txt",
+    "doc_18729.txt",
+    "doc_18724.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was Dr. Gladys L. Baker’s position related to agriculture?",
+  "response": [
+    "doc_14282.txt",
+    "doc_32273.txt",
+    "doc_38223.txt",
+    "doc_21820.txt",
+    "doc_21821.txt"
+  ]
+}

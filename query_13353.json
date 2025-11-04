@@ -1,0 +1,10 @@
+{
+  "query": "What subjects were offered at Beloit College in the early 20th century, beyond traditional liberal arts, such as gas engines or machine shop work?",
+  "response": [
+    "doc_23430.txt",
+    "doc_19591.txt",
+    "doc_5253.txt",
+    "doc_23428.txt",
+    "doc_19592.txt"
+  ]
+}

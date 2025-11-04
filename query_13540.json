@@ -1,0 +1,10 @@
+{
+  "query": "What title did Emperor Franz Joseph I hold according to one of the linked articles?",
+  "response": [
+    "doc_23960.txt",
+    "doc_23962.txt",
+    "doc_23963.txt",
+    "doc_23961.txt",
+    "doc_23964.txt"
+  ]
+}

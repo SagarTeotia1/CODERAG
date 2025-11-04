@@ -1,0 +1,10 @@
+{
+  "query": "Prior to 2004, what was the status of German medicinal products in relation to quality control systems?",
+  "response": [
+    "doc_19266.txt",
+    "doc_25787.txt",
+    "doc_33000.txt",
+    "doc_33102.txt",
+    "doc_5900.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which film, directed by Paul Fejos, featured Conrad Veidt and Mary Philbin and was released by the Criterion Collection in 2012?",
+  "response": [
+    "doc_30404.txt",
+    "doc_31750.txt",
+    "doc_7794.txt",
+    "doc_20499.txt",
+    "doc_17974.txt"
+  ]
+}

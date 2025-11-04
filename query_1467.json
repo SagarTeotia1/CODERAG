@@ -1,0 +1,10 @@
+{
+  "query": "Which operetta by Franz Lehár was inspired by “Dorf und Stadt” by Charlotte Birch-Pfeiffer?",
+  "response": [
+    "doc_11384.txt",
+    "doc_2798.txt",
+    "doc_11381.txt",
+    "doc_11385.txt",
+    "doc_35205.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is Kenosha’s Potawatomi name?",
+  "response": [
+    "doc_15883.txt",
+    "doc_15882.txt",
+    "doc_15889.txt",
+    "doc_15890.txt",
+    "doc_15887.txt"
+  ]
+}

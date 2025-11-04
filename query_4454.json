@@ -1,0 +1,10 @@
+{
+  "query": "What specific institutional channels does the passage identify as recognized by European citizens?",
+  "response": [
+    "doc_38034.txt",
+    "doc_23935.txt",
+    "doc_38039.txt",
+    "doc_15573.txt",
+    "doc_11590.txt"
+  ]
+}

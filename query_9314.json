@@ -1,0 +1,10 @@
+{
+  "query": "What was Chandler Bing's relationship with Ross Geller during college?",
+  "response": [
+    "doc_15805.txt",
+    "doc_13633.txt",
+    "doc_15806.txt",
+    "doc_31611.txt",
+    "doc_15807.txt"
+  ]
+}

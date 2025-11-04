@@ -1,0 +1,10 @@
+{
+  "query": "During which time period did William Shatner perform as Usumcasane in “Tamburlaine the Great”?",
+  "response": [
+    "doc_21469.txt",
+    "doc_16610.txt",
+    "doc_35191.txt",
+    "doc_13202.txt",
+    "doc_13204.txt"
+  ]
+}

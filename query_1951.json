@@ -1,0 +1,10 @@
+{
+  "query": "What is Giuseppe Garibaldi commonly referred to as?",
+  "response": [
+    "doc_32094.txt",
+    "doc_32093.txt",
+    "doc_27410.txt",
+    "doc_34982.txt",
+    "doc_29109.txt"
+  ]
+}

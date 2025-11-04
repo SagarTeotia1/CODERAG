@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the Egyptian Museum first moved to Giza Palace of “Ismail Pasha”?",
+  "response": [
+    "doc_24746.txt",
+    "doc_24749.txt",
+    "doc_24750.txt",
+    "doc_24752.txt",
+    "doc_24754.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Who were the four knights involved in the events surrounding Thomas Becket’s death, as mentioned in several of the linked documents?",
+  "response": [
+    "doc_29597.txt",
+    "doc_29598.txt",
+    "doc_29594.txt",
+    "doc_29595.txt",
+    "doc_29596.txt"
+  ]
+}

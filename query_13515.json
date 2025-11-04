@@ -1,0 +1,10 @@
+{
+  "query": "Which groups submitted motions regarding the updating of certain legal aspects concerning intra-EU investment?",
+  "response": [
+    "doc_23884.txt",
+    "doc_23885.txt",
+    "doc_21143.txt",
+    "doc_10729.txt",
+    "doc_13009.txt"
+  ]
+}

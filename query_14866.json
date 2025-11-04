@@ -1,0 +1,10 @@
+{
+  "query": "What is the current situation with regard to African swine fever in countries bordering on the European Union?",
+  "response": [
+    "doc_27218.txt",
+    "doc_6729.txt",
+    "doc_2845.txt",
+    "doc_2295.txt",
+    "doc_28464.txt"
+  ]
+}

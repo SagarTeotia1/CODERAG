@@ -1,0 +1,10 @@
+{
+  "query": "What title does Benjamin Netanyahu hold?",
+  "response": [
+    "doc_15320.txt",
+    "doc_15321.txt",
+    "doc_15322.txt",
+    "doc_15323.txt",
+    "doc_15324.txt"
+  ]
+}

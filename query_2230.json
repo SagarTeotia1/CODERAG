@@ -1,0 +1,10 @@
+{
+  "query": "What are “uszka,” a traditional Polish Christmas treat, typically made of?",
+  "response": [
+    "doc_32792.txt",
+    "doc_32790.txt",
+    "doc_32789.txt",
+    "doc_32788.txt",
+    "doc_32787.txt"
+  ]
+}

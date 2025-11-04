@@ -1,0 +1,10 @@
+{
+  "query": "What kind of vision is present throughout the Iliad?",
+  "response": [
+    "doc_28217.txt",
+    "doc_28223.txt",
+    "doc_10568.txt",
+    "doc_28221.txt",
+    "doc_28222.txt"
+  ]
+}

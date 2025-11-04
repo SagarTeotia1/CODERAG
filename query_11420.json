@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, where was George Eldon Ladd born and raised?",
+  "response": [
+    "doc_15834.txt",
+    "doc_24404.txt",
+    "doc_27834.txt",
+    "doc_12508.txt",
+    "doc_12503.txt"
+  ]
+}

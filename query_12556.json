@@ -1,0 +1,9 @@
+{
+  "query": "What year did Nancy Lopez join the Ladies’ Professional Golf Association tour?",
+  "response": [
+    "doc_21582.txt",
+    "doc_21584.txt",
+    "doc_21583.txt",
+    "doc_21585.txt"
+  ]
+}

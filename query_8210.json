@@ -1,0 +1,10 @@
+{
+  "query": "What was the total number of complaints related to Penrose that were not investigated?",
+  "response": [
+    "doc_1032.txt",
+    "doc_1024.txt",
+    "doc_1077.txt",
+    "doc_1028.txt",
+    "doc_1009.txt"
+  ]
+}

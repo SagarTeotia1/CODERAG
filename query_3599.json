@@ -1,0 +1,10 @@
+{
+  "query": "What was the initial promise Samantha made to Darrin in the pilot episode of *Bewitched*?",
+  "response": [
+    "doc_12516.txt",
+    "doc_12509.txt",
+    "doc_12519.txt",
+    "doc_12518.txt",
+    "doc_38792.txt"
+  ]
+}

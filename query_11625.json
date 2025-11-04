@@ -1,0 +1,10 @@
+{
+  "query": "What is the primary governing body responsible for administering the BBL Championship?",
+  "response": [
+    "doc_20091.txt",
+    "doc_20095.txt",
+    "doc_14699.txt",
+    "doc_20092.txt",
+    "doc_20094.txt"
+  ]
+}

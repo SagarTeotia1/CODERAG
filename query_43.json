@@ -1,0 +1,10 @@
+{
+  "query": "Who is Sergey Karaganov?",
+  "response": [
+    "doc_28174.txt",
+    "doc_34096.txt",
+    "doc_33409.txt",
+    "doc_34099.txt",
+    "doc_7310.txt"
+  ]
+}

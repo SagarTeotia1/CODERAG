@@ -1,0 +1,10 @@
+{
+  "query": "Who plays Jamie Fraser in the “Outlander” television series?",
+  "response": [
+    "doc_16172.txt",
+    "doc_16171.txt",
+    "doc_27828.txt",
+    "doc_27829.txt",
+    "doc_35554.txt"
+  ]
+}

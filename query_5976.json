@@ -1,0 +1,10 @@
+{
+  "query": "Who is texting Jay Z and holding private meetings?",
+  "response": [
+    "doc_39809.txt",
+    "doc_19228.txt",
+    "doc_39010.txt",
+    "doc_2665.txt",
+    "doc_39011.txt"
+  ]
+}

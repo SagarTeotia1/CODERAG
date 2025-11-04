@@ -1,0 +1,10 @@
+{
+  "query": "Which organizations listed received funding from the European Commission since 2005?",
+  "response": [
+    "doc_16737.txt",
+    "doc_12494.txt",
+    "doc_19093.txt",
+    "doc_37584.txt",
+    "doc_35781.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In 2010, how much did European exporters export to China?",
+  "response": [
+    "doc_16351.txt",
+    "doc_8655.txt",
+    "doc_24572.txt",
+    "doc_23322.txt",
+    "doc_32914.txt"
+  ]
+}

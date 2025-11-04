@@ -1,0 +1,10 @@
+{
+  "query": "In what year was Rodney Monroe drafted into the NBA, and which team selected him?",
+  "response": [
+    "doc_20640.txt",
+    "doc_2740.txt",
+    "doc_8521.txt",
+    "doc_6899.txt",
+    "doc_9012.txt"
+  ]
+}

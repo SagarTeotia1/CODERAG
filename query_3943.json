@@ -1,0 +1,10 @@
+{
+  "query": "Who served as president of the Economic History Society from 1980 to 1983?",
+  "response": [
+    "doc_36813.txt",
+    "doc_36814.txt",
+    "doc_34779.txt",
+    "doc_23048.txt",
+    "doc_34781.txt"
+  ]
+}

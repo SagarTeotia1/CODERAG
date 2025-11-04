@@ -1,0 +1,10 @@
+{
+  "query": "What was the initial chart position of Aldo Nova’s song “Fantasy”?",
+  "response": [
+    "doc_38904.txt",
+    "doc_36258.txt",
+    "doc_24298.txt",
+    "doc_36259.txt",
+    "doc_12180.txt"
+  ]
+}

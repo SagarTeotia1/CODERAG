@@ -1,0 +1,10 @@
+{
+  "query": "What was Don Vito Corleone’s role in Johnny Fontane’s career?",
+  "response": [
+    "doc_21805.txt",
+    "doc_21807.txt",
+    "doc_21808.txt",
+    "doc_21806.txt",
+    "doc_21809.txt"
+  ]
+}

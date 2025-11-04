@@ -1,0 +1,10 @@
+{
+  "query": "What is the size of Wrangell-St. Elias National Park and Preserve, and how does this compare to other national parks?",
+  "response": [
+    "doc_40195.txt",
+    "doc_40205.txt",
+    "doc_40206.txt",
+    "doc_40203.txt",
+    "doc_40196.txt"
+  ]
+}

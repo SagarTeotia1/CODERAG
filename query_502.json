@@ -1,0 +1,10 @@
+{
+  "query": "Do Professor Dunnill, Professor Felson, and Susan Chu suggest that statins can counter virulent forms of pandemic flu by damping down the cytokine storm?",
+  "response": [
+    "doc_28420.txt",
+    "doc_28168.txt",
+    "doc_32511.txt",
+    "doc_13658.txt",
+    "doc_15142.txt"
+  ]
+}

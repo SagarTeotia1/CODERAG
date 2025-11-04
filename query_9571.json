@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission’s estimate of the number of children in each Member State that are living in poverty?",
+  "response": [
+    "doc_14149.txt",
+    "doc_34846.txt",
+    "doc_363.txt",
+    "doc_27866.txt",
+    "doc_22279.txt"
+  ]
+}

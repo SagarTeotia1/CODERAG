@@ -1,0 +1,10 @@
+{
+  "query": "Which areas are included within the Parliament and the Council of Ministers?",
+  "response": [
+    "doc_12430.txt",
+    "doc_2660.txt",
+    "doc_1109.txt",
+    "doc_16440.txt",
+    "doc_2658.txt"
+  ]
+}

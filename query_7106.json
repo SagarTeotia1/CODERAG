@@ -1,0 +1,10 @@
+{
+  "query": "What articles of the Staff Regulations outline the ethical principles that former officials and servants must adhere to?",
+  "response": [
+    "doc_8172.txt",
+    "doc_1351.txt",
+    "doc_2669.txt",
+    "doc_29387.txt",
+    "doc_29388.txt"
+  ]
+}

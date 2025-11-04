@@ -1,0 +1,10 @@
+{
+  "query": "What was the original date of the Rey de Reyes wrestling event, and when was it postponed?",
+  "response": [
+    "doc_19165.txt",
+    "doc_30468.txt",
+    "doc_35008.txt",
+    "doc_19163.txt",
+    "doc_35011.txt"
+  ]
+}

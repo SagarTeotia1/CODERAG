@@ -1,0 +1,10 @@
+{
+  "query": "Who was the President of the European Investment Bank discussed in the exchange of views?",
+  "response": [
+    "doc_8948.txt",
+    "doc_10149.txt",
+    "doc_25949.txt",
+    "doc_14370.txt",
+    "doc_8947.txt"
+  ]
+}

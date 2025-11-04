@@ -1,0 +1,10 @@
+{
+  "query": "What political party did Harry Browne represent in the 1996 and 2000 presidential elections?",
+  "response": [
+    "doc_37594.txt",
+    "doc_37590.txt",
+    "doc_37595.txt",
+    "doc_37591.txt",
+    "doc_37593.txt"
+  ]
+}

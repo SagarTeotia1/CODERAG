@@ -1,0 +1,10 @@
+{
+  "query": "Which organization is responsible for organizing the College Basketball Experience Classic?",
+  "response": [
+    "doc_17722.txt",
+    "doc_17721.txt",
+    "doc_6686.txt",
+    "doc_39490.txt",
+    "doc_19265.txt"
+  ]
+}

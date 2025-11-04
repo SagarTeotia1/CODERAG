@@ -1,0 +1,10 @@
+{
+  "query": "What is the nickname given to a group of dorms at Geneseo?",
+  "response": [
+    "doc_10448.txt",
+    "doc_10450.txt",
+    "doc_10452.txt",
+    "doc_10454.txt",
+    "doc_10451.txt"
+  ]
+}

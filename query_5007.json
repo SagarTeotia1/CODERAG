@@ -1,0 +1,10 @@
+{
+  "query": "In which city was Princess Alix of Hesse and by Rhine born?",
+  "response": [
+    "doc_39331.txt",
+    "doc_39325.txt",
+    "doc_39327.txt",
+    "doc_39328.txt",
+    "doc_39326.txt"
+  ]
+}

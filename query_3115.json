@@ -1,0 +1,10 @@
+{
+  "query": "What two reports did DEVE significantly contribute to?",
+  "response": [
+    "doc_3148.txt",
+    "doc_3180.txt",
+    "doc_16945.txt",
+    "doc_40236.txt",
+    "doc_33144.txt"
+  ]
+}

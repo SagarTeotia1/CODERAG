@@ -1,0 +1,10 @@
+{
+  "query": "In what year was “The Autobiography of Malcolm X” published?",
+  "response": [
+    "doc_27399.txt",
+    "doc_27395.txt",
+    "doc_27398.txt",
+    "doc_27394.txt",
+    "doc_27396.txt"
+  ]
+}

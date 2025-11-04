@@ -1,0 +1,10 @@
+{
+  "query": "Which actors starred in “The Cherokee Kid”?",
+  "response": [
+    "doc_38005.txt",
+    "doc_38004.txt",
+    "doc_20352.txt",
+    "doc_38006.txt",
+    "doc_23272.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Where are the initial two rounds of the College Basketball Experience Classic played?",
+  "response": [
+    "doc_17722.txt",
+    "doc_19265.txt",
+    "doc_6686.txt",
+    "doc_17721.txt",
+    "doc_38743.txt"
+  ]
+}

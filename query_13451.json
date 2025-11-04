@@ -1,0 +1,10 @@
+{
+  "query": "What competition was the match between Liverpool and Flamengo part of?",
+  "response": [
+    "doc_17084.txt",
+    "doc_16439.txt",
+    "doc_16549.txt",
+    "doc_22862.txt",
+    "doc_16.txt"
+  ]
+}

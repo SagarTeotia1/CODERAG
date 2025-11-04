@@ -1,0 +1,10 @@
+{
+  "query": "When was the reference to the Framework Directive mentioned in the passage?",
+  "response": [
+    "doc_29498.txt",
+    "doc_18745.txt",
+    "doc_8379.txt",
+    "doc_12303.txt",
+    "doc_30704.txt"
+  ]
+}

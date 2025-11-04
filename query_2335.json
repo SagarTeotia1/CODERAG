@@ -1,0 +1,10 @@
+{
+  "query": "When did William Faulkner publish *The Sound and the Fury*?",
+  "response": [
+    "doc_33062.txt",
+    "doc_33063.txt",
+    "doc_22464.txt",
+    "doc_33071.txt",
+    "doc_33065.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "On what date and time is the meeting with Jonathan Hunt, Speaker of New Zealand House of Representatives scheduled?",
+  "response": [
+    "doc_23698.txt",
+    "doc_18684.txt",
+    "doc_17785.txt",
+    "doc_31706.txt",
+    "doc_23700.txt"
+  ]
+}

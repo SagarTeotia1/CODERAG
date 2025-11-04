@@ -1,0 +1,10 @@
+{
+  "query": "Which Greek islands are being referred to in this question regarding ferry services?",
+  "response": [
+    "doc_20832.txt",
+    "doc_20834.txt",
+    "doc_20835.txt",
+    "doc_20833.txt",
+    "doc_4577.txt"
+  ]
+}

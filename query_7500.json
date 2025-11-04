@@ -1,0 +1,10 @@
+{
+  "query": "What evidence did Mr. Brian Chase Grey submit?",
+  "response": [
+    "doc_3958.txt",
+    "doc_27745.txt",
+    "doc_31928.txt",
+    "doc_22761.txt",
+    "doc_192.txt"
+  ]
+}

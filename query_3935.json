@@ -1,0 +1,10 @@
+{
+  "query": "What is the latest figure for the total number of regulations, directives, decisions, and other rules in force in the EU for each of the last five years?",
+  "response": [
+    "doc_36803.txt",
+    "doc_34694.txt",
+    "doc_17461.txt",
+    "doc_37588.txt",
+    "doc_20195.txt"
+  ]
+}

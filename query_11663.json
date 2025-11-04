@@ -1,0 +1,10 @@
+{
+  "query": "What was the Hanford Site’s primary purpose during its operation?",
+  "response": [
+    "doc_19329.txt",
+    "doc_27190.txt",
+    "doc_22548.txt",
+    "doc_27189.txt",
+    "doc_22551.txt"
+  ]
+}

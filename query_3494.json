@@ -1,0 +1,10 @@
+{
+  "query": "What instruction has the Federal Republic of Germany given to its consular authorities regarding visitors’ visas?",
+  "response": [
+    "doc_39584.txt",
+    "doc_20985.txt",
+    "doc_37503.txt",
+    "doc_39587.txt",
+    "doc_39583.txt"
+  ]
+}

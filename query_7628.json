@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Michigan abolish the death penalty?",
+  "response": [
+    "doc_9425.txt",
+    "doc_9421.txt",
+    "doc_9422.txt",
+    "doc_9426.txt",
+    "doc_9423.txt"
+  ]
+}

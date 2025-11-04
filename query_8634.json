@@ -1,0 +1,10 @@
+{
+  "query": "What is the Ulster Grand Prix and where does it take place?",
+  "response": [
+    "doc_11903.txt",
+    "doc_11902.txt",
+    "doc_22287.txt",
+    "doc_22288.txt",
+    "doc_10425.txt"
+  ]
+}

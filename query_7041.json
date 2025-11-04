@@ -1,0 +1,10 @@
+{
+  "query": "What is “WildSnake” inspired by?",
+  "response": [
+    "doc_19318.txt",
+    "doc_33548.txt",
+    "doc_33543.txt",
+    "doc_33546.txt",
+    "doc_33549.txt"
+  ]
+}

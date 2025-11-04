@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided sources, what tribe of Athenian citizens were recorded in an inscription related to a battle?",
+  "response": [
+    "doc_19770.txt",
+    "doc_19772.txt",
+    "doc_19774.txt",
+    "doc_19773.txt",
+    "doc_19769.txt"
+  ]
+}

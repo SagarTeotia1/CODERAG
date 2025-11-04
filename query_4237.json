@@ -1,0 +1,10 @@
+{
+  "query": "Does this legislation apply to puppies transported on passenger ferries within the EU?",
+  "response": [
+    "doc_37543.txt",
+    "doc_33979.txt",
+    "doc_36759.txt",
+    "doc_33762.txt",
+    "doc_8541.txt"
+  ]
+}

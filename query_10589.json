@@ -1,0 +1,10 @@
+{
+  "query": "What specific articles of the Europol Convention were subject to amendments in this protocol?",
+  "response": [
+    "doc_1632.txt",
+    "doc_1631.txt",
+    "doc_14764.txt",
+    "doc_30963.txt",
+    "doc_27720.txt"
+  ]
+}

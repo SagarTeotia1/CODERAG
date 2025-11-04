@@ -1,0 +1,10 @@
+{
+  "query": "What is the approximate distance between the island of Seychelles and Victoria, Seychelles?",
+  "response": [
+    "doc_20198.txt",
+    "doc_39387.txt",
+    "doc_39385.txt",
+    "doc_19116.txt",
+    "doc_11101.txt"
+  ]
+}

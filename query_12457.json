@@ -1,0 +1,10 @@
+{
+  "query": "Which romantic comedy stars David Adkins and Corinna May?",
+  "response": [
+    "doc_7999.txt",
+    "doc_8002.txt",
+    "doc_37364.txt",
+    "doc_22298.txt",
+    "doc_22301.txt"
+  ]
+}

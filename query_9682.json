@@ -1,0 +1,10 @@
+{
+  "query": "Which Legal Affairs Committee members drafted the report on 'Reporting and documentation requirements in the case of merger and divisions'?",
+  "response": [
+    "doc_38033.txt",
+    "doc_2660.txt",
+    "doc_2708.txt",
+    "doc_29297.txt",
+    "doc_5993.txt"
+  ]
+}

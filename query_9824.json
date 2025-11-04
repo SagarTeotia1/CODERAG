@@ -1,0 +1,10 @@
+{
+  "query": "When did the musical “Holiday Inn” open on Broadway?",
+  "response": [
+    "doc_14740.txt",
+    "doc_14741.txt",
+    "doc_13847.txt",
+    "doc_26857.txt",
+    "doc_7695.txt"
+  ]
+}

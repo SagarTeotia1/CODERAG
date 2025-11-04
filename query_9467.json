@@ -1,0 +1,10 @@
+{
+  "query": "Who commuted Patty Hearst’s prison sentence?",
+  "response": [
+    "doc_1382.txt",
+    "doc_1393.txt",
+    "doc_1384.txt",
+    "doc_1389.txt",
+    "doc_1383.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was Joshua Lawrence Chamberlain’s first name?",
+  "response": [
+    "doc_32240.txt",
+    "doc_32239.txt",
+    "doc_32241.txt",
+    "doc_32236.txt",
+    "doc_17305.txt"
+  ]
+}

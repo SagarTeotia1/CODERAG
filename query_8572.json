@@ -1,0 +1,10 @@
+{
+  "query": "According to Saudi authorities, what is the current status of Ms. Nafeek’s case?",
+  "response": [
+    "doc_11782.txt",
+    "doc_1954.txt",
+    "doc_2174.txt",
+    "doc_26821.txt",
+    "doc_40190.txt"
+  ]
+}

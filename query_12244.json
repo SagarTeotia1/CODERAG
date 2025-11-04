@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the ghost said to haunt the Theatre Royal Drury Lane?",
+  "response": [
+    "doc_2017.txt",
+    "doc_2016.txt",
+    "doc_17601.txt",
+    "doc_22389.txt",
+    "doc_26738.txt"
+  ]
+}

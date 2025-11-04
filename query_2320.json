@@ -1,0 +1,10 @@
+{
+  "query": "At which film festival did “A Town Called Panic” premiere?",
+  "response": [
+    "doc_18328.txt",
+    "doc_11649.txt",
+    "doc_27035.txt",
+    "doc_27027.txt",
+    "doc_27034.txt"
+  ]
+}

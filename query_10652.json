@@ -1,0 +1,10 @@
+{
+  "query": "Which American soap opera did Benedict Wall portray the character Owen Sutherland in?",
+  "response": [
+    "doc_16756.txt",
+    "doc_33311.txt",
+    "doc_3480.txt",
+    "doc_36357.txt",
+    "doc_3476.txt"
+  ]
+}

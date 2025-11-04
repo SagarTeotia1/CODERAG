@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission’s current stance on the project’s compliance with environmental law?",
+  "response": [
+    "doc_20820.txt",
+    "doc_14495.txt",
+    "doc_25871.txt",
+    "doc_24791.txt",
+    "doc_39657.txt"
+  ]
+}

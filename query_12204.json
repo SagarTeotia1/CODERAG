@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what are the four entities traditionally associated with the Four Horsemen of the Apocalypse?",
+  "response": [
+    "doc_19792.txt",
+    "doc_24590.txt",
+    "doc_24591.txt",
+    "doc_27982.txt",
+    "doc_27981.txt"
+  ]
+}

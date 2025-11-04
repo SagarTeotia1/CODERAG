@@ -1,0 +1,10 @@
+{
+  "query": "What type of music is featured on the 2015 jazz album mentioned in The Telegraph article?",
+  "response": [
+    "doc_39571.txt",
+    "doc_39572.txt",
+    "doc_39568.txt",
+    "doc_39567.txt",
+    "doc_39569.txt"
+  ]
+}

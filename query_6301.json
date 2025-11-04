@@ -1,0 +1,10 @@
+{
+  "query": "Where did Jim Michaels attend high school?",
+  "response": [
+    "doc_38740.txt",
+    "doc_5203.txt",
+    "doc_12460.txt",
+    "doc_27302.txt",
+    "doc_32255.txt"
+  ]
+}

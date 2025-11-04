@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the Friends Club established?",
+  "response": [
+    "doc_8965.txt",
+    "doc_8963.txt",
+    "doc_24205.txt",
+    "doc_8910.txt",
+    "doc_7449.txt"
+  ]
+}

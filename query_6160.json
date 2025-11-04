@@ -1,0 +1,10 @@
+{
+  "query": "When was Hiroshima destroyed by the first atomic bomb?",
+  "response": [
+    "doc_5743.txt",
+    "doc_5739.txt",
+    "doc_5740.txt",
+    "doc_22551.txt",
+    "doc_5742.txt"
+  ]
+}

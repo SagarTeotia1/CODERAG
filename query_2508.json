@@ -1,0 +1,10 @@
+{
+  "query": "In which three novels does the character Manfred de Spain appear?",
+  "response": [
+    "doc_33522.txt",
+    "doc_33517.txt",
+    "doc_33521.txt",
+    "doc_33520.txt",
+    "doc_33523.txt"
+  ]
+}

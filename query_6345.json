@@ -1,0 +1,10 @@
+{
+  "query": "According to one source, in what magazine was Brigitte Bardot named one of the 100 Sexiest Stars in film history?",
+  "response": [
+    "doc_6170.txt",
+    "doc_6172.txt",
+    "doc_6168.txt",
+    "doc_6167.txt",
+    "doc_6169.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "How much money has the European Commission financed for projects promoting the rights of indigenous peoples in Peru over the last few years?",
+  "response": [
+    "doc_2927.txt",
+    "doc_31164.txt",
+    "doc_11107.txt",
+    "doc_10207.txt",
+    "doc_20344.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how many tonnes of automotive batteries are sold annually throughout Europe?",
+  "response": [
+    "doc_10143.txt",
+    "doc_10142.txt",
+    "doc_27554.txt",
+    "doc_3555.txt",
+    "doc_40169.txt"
+  ]
+}

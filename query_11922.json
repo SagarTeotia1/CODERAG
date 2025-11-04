@@ -1,0 +1,10 @@
+{
+  "query": "In what television series did David Krumholtz play Charlie Eppes?",
+  "response": [
+    "doc_23154.txt",
+    "doc_3477.txt",
+    "doc_23152.txt",
+    "doc_3483.txt",
+    "doc_16131.txt"
+  ]
+}

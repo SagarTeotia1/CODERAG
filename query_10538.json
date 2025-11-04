@@ -1,0 +1,10 @@
+{
+  "query": "What specific feat did Lord Byron attempt that involved swimming?",
+  "response": [
+    "doc_16544.txt",
+    "doc_20735.txt",
+    "doc_20734.txt",
+    "doc_16545.txt",
+    "doc_14007.txt"
+  ]
+}

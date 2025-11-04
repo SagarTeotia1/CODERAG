@@ -1,0 +1,10 @@
+{
+  "query": "According to the European Commission, what was the DEI’s revenue source during a specific period, and what obligation did it undertake instead of paying contributions?",
+  "response": [
+    "doc_33400.txt",
+    "doc_8317.txt",
+    "doc_20074.txt",
+    "doc_40229.txt",
+    "doc_226.txt"
+  ]
+}

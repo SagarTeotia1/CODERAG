@@ -1,0 +1,10 @@
+{
+  "query": "What types of events and spaces are mentioned as being located throughout Boston Common and the Public Garden?",
+  "response": [
+    "doc_12391.txt",
+    "doc_12395.txt",
+    "doc_12388.txt",
+    "doc_12396.txt",
+    "doc_18967.txt"
+  ]
+}

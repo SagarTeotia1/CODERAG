@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how many World War II veterans utilized the educational benefits provided by the G.I. Bill between 1944 and 1952?",
+  "response": [
+    "doc_4083.txt",
+    "doc_4085.txt",
+    "doc_4088.txt",
+    "doc_4084.txt",
+    "doc_4087.txt"
+  ]
+}

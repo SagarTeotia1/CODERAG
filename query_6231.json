@@ -1,0 +1,10 @@
+{
+  "query": "On what date was Francis Gary Powers’ U-2 spy plane shot down over Soviet airspace?",
+  "response": [
+    "doc_5910.txt",
+    "doc_5908.txt",
+    "doc_5911.txt",
+    "doc_5909.txt",
+    "doc_5903.txt"
+  ]
+}

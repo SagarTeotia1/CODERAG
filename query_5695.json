@@ -1,0 +1,10 @@
+{
+  "query": "What is the expected increase in global temperature and sea level by the end of the century, according to the AIMS meeting?",
+  "response": [
+    "doc_2941.txt",
+    "doc_4576.txt",
+    "doc_2943.txt",
+    "doc_17610.txt",
+    "doc_2945.txt"
+  ]
+}

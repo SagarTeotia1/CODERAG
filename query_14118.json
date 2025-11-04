@@ -1,0 +1,10 @@
+{
+  "query": "What is the acceptance rate for admission to HEC Paris?",
+  "response": [
+    "doc_25365.txt",
+    "doc_39311.txt",
+    "doc_25364.txt",
+    "doc_6146.txt",
+    "doc_6154.txt"
+  ]
+}

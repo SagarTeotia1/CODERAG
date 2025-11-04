@@ -1,0 +1,10 @@
+{
+  "query": "What is the estimated amount of electricity savings expected from the implementation of Commission Regulation (EC) No 244/2009?",
+  "response": [
+    "doc_12722.txt",
+    "doc_28839.txt",
+    "doc_35529.txt",
+    "doc_7441.txt",
+    "doc_7349.txt"
+  ]
+}

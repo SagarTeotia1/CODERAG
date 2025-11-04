@@ -1,0 +1,10 @@
+{
+  "query": "What is the Institute for Prospective Technological Studies in Seville’s annual budget?",
+  "response": [
+    "doc_20731.txt",
+    "doc_15609.txt",
+    "doc_15573.txt",
+    "doc_15483.txt",
+    "doc_15552.txt"
+  ]
+}

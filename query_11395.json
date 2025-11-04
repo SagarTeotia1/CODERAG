@@ -1,0 +1,10 @@
+{
+  "query": "How many registered participants were expected to line the marathon route in 2014, according to the “Boston Globe”?",
+  "response": [
+    "doc_32348.txt",
+    "doc_3231.txt",
+    "doc_18966.txt",
+    "doc_3232.txt",
+    "doc_3230.txt"
+  ]
+}

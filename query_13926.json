@@ -1,0 +1,10 @@
+{
+  "query": "What specific article of the Euratom Treaty does the French Government’s actions relate to, concerning the disposal of radioactive waste?",
+  "response": [
+    "doc_24868.txt",
+    "doc_39455.txt",
+    "doc_28042.txt",
+    "doc_28043.txt",
+    "doc_1849.txt"
+  ]
+}

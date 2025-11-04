@@ -1,0 +1,10 @@
+{
+  "query": "What three broad areas were outlined on the agenda for the upcoming European Council summit?",
+  "response": [
+    "doc_3153.txt",
+    "doc_17517.txt",
+    "doc_20838.txt",
+    "doc_30006.txt",
+    "doc_24840.txt"
+  ]
+}

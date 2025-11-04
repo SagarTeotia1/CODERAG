@@ -1,0 +1,10 @@
+{
+  "query": "Which airline operates charter flights and has its main base at Valencia Airport?",
+  "response": [
+    "doc_16281.txt",
+    "doc_36962.txt",
+    "doc_16282.txt",
+    "doc_15009.txt",
+    "doc_22216.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the approximate age of Budvar’s brewing tradition?",
+  "response": [
+    "doc_17191.txt",
+    "doc_17192.txt",
+    "doc_17196.txt",
+    "doc_29133.txt",
+    "doc_29138.txt"
+  ]
+}

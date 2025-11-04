@@ -1,0 +1,10 @@
+{
+  "query": "Which football club did Garry Moss play for, and where did he attend college?",
+  "response": [
+    "doc_14700.txt",
+    "doc_31421.txt",
+    "doc_31424.txt",
+    "doc_5198.txt",
+    "doc_14707.txt"
+  ]
+}

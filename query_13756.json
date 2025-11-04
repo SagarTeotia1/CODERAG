@@ -1,0 +1,10 @@
+{
+  "query": "For which Israeli production did Dennis Courtney win the national theatre prize?",
+  "response": [
+    "doc_14006.txt",
+    "doc_18258.txt",
+    "doc_14010.txt",
+    "doc_14005.txt",
+    "doc_14011.txt"
+  ]
+}

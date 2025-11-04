@@ -1,0 +1,10 @@
+{
+  "query": "When was the German submarine U-269 commissioned?",
+  "response": [
+    "doc_39534.txt",
+    "doc_39533.txt",
+    "doc_22752.txt",
+    "doc_39966.txt",
+    "doc_39968.txt"
+  ]
+}

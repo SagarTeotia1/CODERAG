@@ -1,0 +1,10 @@
+{
+  "query": "Which real estate investment trust currently owns the Elmvale Acres Shopping Centre?",
+  "response": [
+    "doc_4236.txt",
+    "doc_33857.txt",
+    "doc_615.txt",
+    "doc_19174.txt",
+    "doc_36557.txt"
+  ]
+}

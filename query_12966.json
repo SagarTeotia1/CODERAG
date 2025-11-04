@@ -1,0 +1,10 @@
+{
+  "query": "What number of Polaroid photographs were taken for the music video “Dimmer”?",
+  "response": [
+    "doc_12207.txt",
+    "doc_17655.txt",
+    "doc_2180.txt",
+    "doc_17651.txt",
+    "doc_17652.txt"
+  ]
+}

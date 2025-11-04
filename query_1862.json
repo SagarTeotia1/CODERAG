@@ -1,0 +1,10 @@
+{
+  "query": "In which film did Karin Konoval play Maurice the Orangutan?",
+  "response": [
+    "doc_11521.txt",
+    "doc_11516.txt",
+    "doc_11518.txt",
+    "doc_11522.txt",
+    "doc_11515.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Through which sea is the North Atlantic Current connected to the Nordic Seas?",
+  "response": [
+    "doc_25262.txt",
+    "doc_25261.txt",
+    "doc_25265.txt",
+    "doc_25263.txt",
+    "doc_25264.txt"
+  ]
+}

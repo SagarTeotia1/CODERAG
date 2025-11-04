@@ -1,0 +1,10 @@
+{
+  "query": "Besides acting, what other accomplishment is Bobby Fox known for?",
+  "response": [
+    "doc_23272.txt",
+    "doc_23079.txt",
+    "doc_23078.txt",
+    "doc_23080.txt",
+    "doc_36707.txt"
+  ]
+}

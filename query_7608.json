@@ -1,0 +1,10 @@
+{
+  "query": "When is the Innsbruck-Brenner railway line scheduled to be partially closed, and what specific period will it be completely closed?",
+  "response": [
+    "doc_9340.txt",
+    "doc_32729.txt",
+    "doc_38730.txt",
+    "doc_32731.txt",
+    "doc_32732.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the European Commission responsible for regarding the EU Emission Trading System (EU ETS)?",
+  "response": [
+    "doc_39099.txt",
+    "doc_21384.txt",
+    "doc_40117.txt",
+    "doc_5280.txt",
+    "doc_35465.txt"
+  ]
+}

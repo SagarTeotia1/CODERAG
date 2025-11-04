@@ -1,0 +1,10 @@
+{
+  "query": "What types of ICT solutions are being suggested to improve traffic management and reduce energy consumption?",
+  "response": [
+    "doc_84.txt",
+    "doc_83.txt",
+    "doc_82.txt",
+    "doc_81.txt",
+    "doc_3162.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What caused the aborted Moon landing on Apollo 13?",
+  "response": [
+    "doc_20954.txt",
+    "doc_21636.txt",
+    "doc_20956.txt",
+    "doc_20953.txt",
+    "doc_21632.txt"
+  ]
+}

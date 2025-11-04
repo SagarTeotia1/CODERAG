@@ -1,0 +1,10 @@
+{
+  "query": "Which governmental body oversees the higher education system in Pakistan, including accreditation and quality control?",
+  "response": [
+    "doc_28181.txt",
+    "doc_35843.txt",
+    "doc_2037.txt",
+    "doc_22377.txt",
+    "doc_35844.txt"
+  ]
+}

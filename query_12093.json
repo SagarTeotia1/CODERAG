@@ -1,0 +1,10 @@
+{
+  "query": "What was Lorraine Hansberry’s profession?",
+  "response": [
+    "doc_20404.txt",
+    "doc_20401.txt",
+    "doc_20403.txt",
+    "doc_20402.txt",
+    "doc_28537.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What are some of the regions where *Hoodia gordonii* naturally grows?",
+  "response": [
+    "doc_28030.txt",
+    "doc_28028.txt",
+    "doc_28029.txt",
+    "doc_28033.txt",
+    "doc_24741.txt"
+  ]
+}

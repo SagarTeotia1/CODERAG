@@ -1,0 +1,10 @@
+{
+  "query": "Who was Edith Bunker’s cousin?",
+  "response": [
+    "doc_18769.txt",
+    "doc_25308.txt",
+    "doc_8881.txt",
+    "doc_25311.txt",
+    "doc_25307.txt"
+  ]
+}

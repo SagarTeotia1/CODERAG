@@ -1,0 +1,10 @@
+{
+  "query": "What field of study did Dan Large (Media) pursue at the University of Wisconsin?",
+  "response": [
+    "doc_6725.txt",
+    "doc_11837.txt",
+    "doc_2583.txt",
+    "doc_5338.txt",
+    "doc_4924.txt"
+  ]
+}

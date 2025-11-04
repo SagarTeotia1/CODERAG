@@ -1,0 +1,10 @@
+{
+  "query": "What was Ted Williams’s role alongside John Glenn during the Korean War?",
+  "response": [
+    "doc_17377.txt",
+    "doc_17383.txt",
+    "doc_17379.txt",
+    "doc_17381.txt",
+    "doc_17385.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What average specific costs (EUR/MWh) are forecast for Europe as a whole, and broken down by Member State, for support for renewable energy sources? Do these costs reflect regional differences and the availability of individual renewable energy sources?",
+  "response": [
+    "doc_20284.txt",
+    "doc_34045.txt",
+    "doc_33969.txt",
+    "doc_27288.txt",
+    "doc_16597.txt"
+  ]
+}

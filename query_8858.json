@@ -1,0 +1,10 @@
+{
+  "query": "What score did the Washington Redskins achieve in Super Bowl XVII?",
+  "response": [
+    "doc_12459.txt",
+    "doc_12458.txt",
+    "doc_12463.txt",
+    "doc_12461.txt",
+    "doc_12466.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In 1983, who won the Women’s Doubles tournament at the French Open?",
+  "response": [
+    "doc_1466.txt",
+    "doc_1465.txt",
+    "doc_8671.txt",
+    "doc_1471.txt",
+    "doc_1463.txt"
+  ]
+}

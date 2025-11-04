@@ -1,0 +1,10 @@
+{
+  "query": "Under which president did Mozambique remain independent from 1975 to at least 1986?",
+  "response": [
+    "doc_17278.txt",
+    "doc_17276.txt",
+    "doc_17277.txt",
+    "doc_17281.txt",
+    "doc_19276.txt"
+  ]
+}

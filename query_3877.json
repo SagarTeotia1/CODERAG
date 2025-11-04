@@ -1,0 +1,10 @@
+{
+  "query": "What was Ramsey’s 40-yard dash time?",
+  "response": [
+    "doc_36615.txt",
+    "doc_36614.txt",
+    "doc_36610.txt",
+    "doc_36611.txt",
+    "doc_36612.txt"
+  ]
+}

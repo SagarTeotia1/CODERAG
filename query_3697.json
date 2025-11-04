@@ -1,0 +1,10 @@
+{
+  "query": "When were the renderings for the building adjacent to One Manhattan Square first released?",
+  "response": [
+    "doc_36227.txt",
+    "doc_36228.txt",
+    "doc_39656.txt",
+    "doc_32126.txt",
+    "doc_6071.txt"
+  ]
+}

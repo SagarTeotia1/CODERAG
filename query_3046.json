@@ -1,0 +1,10 @@
+{
+  "query": "How many horses have won the English Triple Crown since World War II?",
+  "response": [
+    "doc_34748.txt",
+    "doc_34750.txt",
+    "doc_34752.txt",
+    "doc_34751.txt",
+    "doc_34749.txt"
+  ]
+}

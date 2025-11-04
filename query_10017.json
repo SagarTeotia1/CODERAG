@@ -1,0 +1,10 @@
+{
+  "query": "In what year was *The Turn of the Screw* published as a novella?",
+  "response": [
+    "doc_15203.txt",
+    "doc_15202.txt",
+    "doc_15198.txt",
+    "doc_15196.txt",
+    "doc_15197.txt"
+  ]
+}

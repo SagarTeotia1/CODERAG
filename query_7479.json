@@ -1,0 +1,10 @@
+{
+  "query": "Is the film *Young Man with a Horn* loosely based on the life of a real jazz musician?",
+  "response": [
+    "doc_9029.txt",
+    "doc_9028.txt",
+    "doc_9027.txt",
+    "doc_9031.txt",
+    "doc_9033.txt"
+  ]
+}

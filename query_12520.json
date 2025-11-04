@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of Europe’s total CO2 emissions from power generation originated from coal in 2005?",
+  "response": [
+    "doc_21508.txt",
+    "doc_5280.txt",
+    "doc_22597.txt",
+    "doc_1281.txt",
+    "doc_21509.txt"
+  ]
+}

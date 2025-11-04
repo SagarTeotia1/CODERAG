@@ -1,0 +1,10 @@
+{
+  "query": "What was the final score of Super Bowl LI, and which teams competed?",
+  "response": [
+    "doc_32929.txt",
+    "doc_32935.txt",
+    "doc_32932.txt",
+    "doc_32921.txt",
+    "doc_32936.txt"
+  ]
+}

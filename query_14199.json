@@ -1,0 +1,10 @@
+{
+  "query": "When did the first season of *Rick and Morty* premiere?",
+  "response": [
+    "doc_2438.txt",
+    "doc_11528.txt",
+    "doc_35866.txt",
+    "doc_11529.txt",
+    "doc_35867.txt"
+  ]
+}

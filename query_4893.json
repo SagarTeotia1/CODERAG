@@ -1,0 +1,10 @@
+{
+  "query": "When is Angela Bassett making her directorial debut?",
+  "response": [
+    "doc_39104.txt",
+    "doc_39103.txt",
+    "doc_39105.txt",
+    "doc_24723.txt",
+    "doc_11640.txt"
+  ]
+}

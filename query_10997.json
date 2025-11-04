@@ -1,0 +1,10 @@
+{
+  "query": "Which Canadian provinces have single-word anagrams, according to the provided text?",
+  "response": [
+    "doc_17577.txt",
+    "doc_17578.txt",
+    "doc_39147.txt",
+    "doc_39146.txt",
+    "doc_26026.txt"
+  ]
+}

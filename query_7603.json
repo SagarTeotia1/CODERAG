@@ -1,0 +1,10 @@
+{
+  "query": "What range of sizes was the explosion reported at Nellis Air Force Base?",
+  "response": [
+    "doc_9330.txt",
+    "doc_9329.txt",
+    "doc_27122.txt",
+    "doc_22551.txt",
+    "doc_22550.txt"
+  ]
+}

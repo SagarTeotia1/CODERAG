@@ -1,0 +1,10 @@
+{
+  "query": "Which universities highlighted in the passages offer strong Classics programs, and what types of courses are commonly included in those programs?",
+  "response": [
+    "doc_36285.txt",
+    "doc_37568.txt",
+    "doc_771.txt",
+    "doc_25634.txt",
+    "doc_17527.txt"
+  ]
+}

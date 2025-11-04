@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, how did Belinda typically wear her hair?",
+  "response": [
+    "doc_19541.txt",
+    "doc_19539.txt",
+    "doc_12445.txt",
+    "doc_9637.txt",
+    "doc_22131.txt"
+  ]
+}

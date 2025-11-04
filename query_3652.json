@@ -1,0 +1,10 @@
+{
+  "query": "What stance does the European Union take regarding discrimination based on religion or belief?",
+  "response": [
+    "doc_14472.txt",
+    "doc_36236.txt",
+    "doc_14473.txt",
+    "doc_36105.txt",
+    "doc_15058.txt"
+  ]
+}

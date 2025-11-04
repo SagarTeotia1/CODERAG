@@ -1,0 +1,10 @@
+{
+  "query": "What was the total amount of assistance applied for by Romania following the 2008 floods?",
+  "response": [
+    "doc_2013.txt",
+    "doc_2012.txt",
+    "doc_24554.txt",
+    "doc_16244.txt",
+    "doc_37562.txt"
+  ]
+}

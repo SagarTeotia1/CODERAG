@@ -1,0 +1,10 @@
+{
+  "query": "What is the title of the Kefauver Committee’s final report from 1951?",
+  "response": [
+    "doc_12826.txt",
+    "doc_12824.txt",
+    "doc_12827.txt",
+    "doc_12828.txt",
+    "doc_12830.txt"
+  ]
+}

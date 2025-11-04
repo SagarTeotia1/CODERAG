@@ -1,0 +1,10 @@
+{
+  "query": "What role did Melissa Joan Hart play in the series *Sabrina, the Teenage Witch*?",
+  "response": [
+    "doc_12934.txt",
+    "doc_12935.txt",
+    "doc_12940.txt",
+    "doc_12936.txt",
+    "doc_12938.txt"
+  ]
+}

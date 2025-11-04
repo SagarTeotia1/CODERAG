@@ -1,0 +1,10 @@
+{
+  "query": "According to the Aljazeera article, where is Turkey concentrating its troops?",
+  "response": [
+    "doc_5168.txt",
+    "doc_37113.txt",
+    "doc_37114.txt",
+    "doc_37111.txt",
+    "doc_9698.txt"
+  ]
+}

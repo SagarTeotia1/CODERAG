@@ -1,0 +1,10 @@
+{
+  "query": "In which state is Tylersburg, Pennsylvania, located?",
+  "response": [
+    "doc_2214.txt",
+    "doc_12887.txt",
+    "doc_12886.txt",
+    "doc_12882.txt",
+    "doc_12888.txt"
+  ]
+}

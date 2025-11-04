@@ -1,0 +1,10 @@
+{
+  "query": "Which country applied for assistance from the Solidarity Fund after record heavy rainfall in May and June 2010, and what was the nature of the damage experienced?",
+  "response": [
+    "doc_16243.txt",
+    "doc_16242.txt",
+    "doc_16244.txt",
+    "doc_16245.txt",
+    "doc_18102.txt"
+  ]
+}

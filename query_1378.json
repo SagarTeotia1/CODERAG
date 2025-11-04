@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission’s stance on confiscating assets linked to criminal activities?",
+  "response": [
+    "doc_30633.txt",
+    "doc_27259.txt",
+    "doc_11108.txt",
+    "doc_18054.txt",
+    "doc_1352.txt"
+  ]
+}

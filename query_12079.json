@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the Treaty of New Echota signed, and which tribe was it primarily negotiated with?",
+  "response": [
+    "doc_20369.txt",
+    "doc_20364.txt",
+    "doc_20367.txt",
+    "doc_20368.txt",
+    "doc_20365.txt"
+  ]
+}

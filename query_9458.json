@@ -1,0 +1,10 @@
+{
+  "query": "In what counties is the Seneca River Crossing Canals Historic District located?",
+  "response": [
+    "doc_13350.txt",
+    "doc_13348.txt",
+    "doc_13349.txt",
+    "doc_13347.txt",
+    "doc_28529.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What hill is now one of the seven hills of Rome, and where did Nero and Augustus live?",
+  "response": [
+    "doc_32624.txt",
+    "doc_32622.txt",
+    "doc_32621.txt",
+    "doc_32620.txt",
+    "doc_32623.txt"
+  ]
+}

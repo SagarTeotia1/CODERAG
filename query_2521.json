@@ -1,0 +1,10 @@
+{
+  "query": "What is the Serpentine’s shape described as?",
+  "response": [
+    "doc_33545.txt",
+    "doc_33542.txt",
+    "doc_33551.txt",
+    "doc_33543.txt",
+    "doc_33541.txt"
+  ]
+}

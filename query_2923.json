@@ -1,0 +1,10 @@
+{
+  "query": "Which film was based on a short story by Franz Grillparzer?",
+  "response": [
+    "doc_17626.txt",
+    "doc_17630.txt",
+    "doc_17628.txt",
+    "doc_17627.txt",
+    "doc_17624.txt"
+  ]
+}

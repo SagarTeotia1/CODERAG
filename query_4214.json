@@ -1,0 +1,10 @@
+{
+  "query": "Why did a delegation of the Dutch Parliament cancel a planned visit to Turkey?",
+  "response": [
+    "doc_37465.txt",
+    "doc_29701.txt",
+    "doc_8709.txt",
+    "doc_8710.txt",
+    "doc_16214.txt"
+  ]
+}

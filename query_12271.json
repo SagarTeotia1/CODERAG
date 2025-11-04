@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, which film is described as “more ambitious” than *Dirty Mary, Crazy Larry*?",
+  "response": [
+    "doc_3331.txt",
+    "doc_34721.txt",
+    "doc_30864.txt",
+    "doc_31969.txt",
+    "doc_21010.txt"
+  ]
+}

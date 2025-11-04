@@ -1,0 +1,10 @@
+{
+  "query": "Which dancer, Rudolf Nureyev, partnered with Margot Fonteyn in a notable performance?",
+  "response": [
+    "doc_20869.txt",
+    "doc_20867.txt",
+    "doc_20868.txt",
+    "doc_3111.txt",
+    "doc_31889.txt"
+  ]
+}

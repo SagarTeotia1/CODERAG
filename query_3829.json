@@ -1,0 +1,10 @@
+{
+  "query": "What are some of the colors of the roots of Red radishes?",
+  "response": [
+    "doc_36513.txt",
+    "doc_36508.txt",
+    "doc_36510.txt",
+    "doc_36512.txt",
+    "doc_36509.txt"
+  ]
+}

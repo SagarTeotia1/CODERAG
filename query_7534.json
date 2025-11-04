@@ -1,0 +1,10 @@
+{
+  "query": "Where can the three reports (Davies, Doyle, Hassi) be found?",
+  "response": [
+    "doc_13773.txt",
+    "doc_10492.txt",
+    "doc_13777.txt",
+    "doc_10485.txt",
+    "doc_26538.txt"
+  ]
+}

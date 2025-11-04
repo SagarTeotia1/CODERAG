@@ -1,0 +1,10 @@
+{
+  "query": "Who is Pablo Hidalgo and what is his current role?",
+  "response": [
+    "doc_8940.txt",
+    "doc_8562.txt",
+    "doc_8942.txt",
+    "doc_8939.txt",
+    "doc_8941.txt"
+  ]
+}

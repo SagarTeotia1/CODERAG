@@ -1,0 +1,10 @@
+{
+  "query": "What action is the Commission taking regarding the Murat Kanatli case?",
+  "response": [
+    "doc_19035.txt",
+    "doc_27258.txt",
+    "doc_7512.txt",
+    "doc_22971.txt",
+    "doc_24569.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the highest peak on the rim of Crater Lake?",
+  "response": [
+    "doc_30907.txt",
+    "doc_30906.txt",
+    "doc_30912.txt",
+    "doc_30905.txt",
+    "doc_30910.txt"
+  ]
+}

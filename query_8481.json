@@ -1,0 +1,10 @@
+{
+  "query": "Who illustrated the Noddy series of jigsaws?",
+  "response": [
+    "doc_28404.txt",
+    "doc_1851.txt",
+    "doc_1852.txt",
+    "doc_23881.txt",
+    "doc_5852.txt"
+  ]
+}

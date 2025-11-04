@@ -1,0 +1,10 @@
+{
+  "query": "What did Chris Blackwell found?",
+  "response": [
+    "doc_20282.txt",
+    "doc_21563.txt",
+    "doc_32948.txt",
+    "doc_23206.txt",
+    "doc_39047.txt"
+  ]
+}

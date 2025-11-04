@@ -1,0 +1,10 @@
+{
+  "query": "According to the article in El País, what did the archbishop of Tarragona, Mr. Jaume Pujol Balcells, state about homosexuals?",
+  "response": [
+    "doc_25132.txt",
+    "doc_39439.txt",
+    "doc_14880.txt",
+    "doc_1862.txt",
+    "doc_25544.txt"
+  ]
+}

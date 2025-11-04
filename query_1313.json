@@ -1,0 +1,10 @@
+{
+  "query": "According to one of the linked documents, what was a significant role of the Czech National Symphony Orchestra?",
+  "response": [
+    "doc_30506.txt",
+    "doc_30505.txt",
+    "doc_30499.txt",
+    "doc_30498.txt",
+    "doc_30501.txt"
+  ]
+}

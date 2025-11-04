@@ -1,0 +1,10 @@
+{
+  "query": "In what County was Daniel O'Connell born?",
+  "response": [
+    "doc_21450.txt",
+    "doc_21451.txt",
+    "doc_32427.txt",
+    "doc_25613.txt",
+    "doc_25609.txt"
+  ]
+}

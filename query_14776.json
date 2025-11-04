@@ -1,0 +1,10 @@
+{
+  "query": "In what languages are Members of the European Parliament referred to by their official titles?",
+  "response": [
+    "doc_29284.txt",
+    "doc_2587.txt",
+    "doc_4787.txt",
+    "doc_29343.txt",
+    "doc_2586.txt"
+  ]
+}

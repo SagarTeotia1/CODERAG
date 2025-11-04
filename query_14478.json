@@ -1,0 +1,10 @@
+{
+  "query": "What is the Member for Dunkley’s current position regarding age within the Australian House of Representatives?",
+  "response": [
+    "doc_29292.txt",
+    "doc_20431.txt",
+    "doc_2592.txt",
+    "doc_2625.txt",
+    "doc_2593.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Who illustrated the Grimm Tales, and when did he live?",
+  "response": [
+    "doc_14302.txt",
+    "doc_14301.txt",
+    "doc_14303.txt",
+    "doc_14304.txt",
+    "doc_301.txt"
+  ]
+}

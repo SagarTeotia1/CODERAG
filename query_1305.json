@@ -1,0 +1,10 @@
+{
+  "query": "Stephenie Meyer is best known for writing what type of series?",
+  "response": [
+    "doc_19739.txt",
+    "doc_13771.txt",
+    "doc_19742.txt",
+    "doc_9973.txt",
+    "doc_19740.txt"
+  ]
+}

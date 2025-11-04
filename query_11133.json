@@ -1,0 +1,10 @@
+{
+  "query": "Which university won the 2006 NCAA Wrestling Team Championship?",
+  "response": [
+    "doc_10454.txt",
+    "doc_25628.txt",
+    "doc_25627.txt",
+    "doc_22163.txt",
+    "doc_25624.txt"
+  ]
+}

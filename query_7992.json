@@ -1,0 +1,10 @@
+{
+  "query": "What location is described as being near Westminster Station?",
+  "response": [
+    "doc_17994.txt",
+    "doc_28296.txt",
+    "doc_28297.txt",
+    "doc_36224.txt",
+    "doc_28298.txt"
+  ]
+}

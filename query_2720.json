@@ -1,0 +1,10 @@
+{
+  "query": "What was the Archbishop of Munich’s tenure period?",
+  "response": [
+    "doc_34008.txt",
+    "doc_34977.txt",
+    "doc_35586.txt",
+    "doc_35590.txt",
+    "doc_34975.txt"
+  ]
+}

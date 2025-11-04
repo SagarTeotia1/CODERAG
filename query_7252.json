@@ -1,0 +1,10 @@
+{
+  "query": "In what year was Tom Draper drafted by the Winnipeg Jets?",
+  "response": [
+    "doc_8474.txt",
+    "doc_8473.txt",
+    "doc_17244.txt",
+    "doc_32637.txt",
+    "doc_32636.txt"
+  ]
+}

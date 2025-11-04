@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided sources, where was Lydia located?",
+  "response": [
+    "doc_21851.txt",
+    "doc_21854.txt",
+    "doc_21852.txt",
+    "doc_21850.txt",
+    "doc_21855.txt"
+  ]
+}

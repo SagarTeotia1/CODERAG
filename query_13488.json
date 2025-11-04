@@ -1,0 +1,10 @@
+{
+  "query": "Which song is Erica Campbell featured on, and what genre is it considered to be?",
+  "response": [
+    "doc_12874.txt",
+    "doc_31779.txt",
+    "doc_12868.txt",
+    "doc_12870.txt",
+    "doc_169.txt"
+  ]
+}

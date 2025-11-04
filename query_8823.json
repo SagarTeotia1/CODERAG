@@ -1,0 +1,10 @@
+{
+  "query": "What was the name of Cape Canaveral between 1963 and 1973?",
+  "response": [
+    "doc_12369.txt",
+    "doc_12368.txt",
+    "doc_12370.txt",
+    "doc_12371.txt",
+    "doc_12372.txt"
+  ]
+}

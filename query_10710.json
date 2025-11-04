@@ -1,0 +1,10 @@
+{
+  "query": "Besides winning the PGA Championship, how many top-10 finishes did Vijay Singh have?",
+  "response": [
+    "doc_16899.txt",
+    "doc_16904.txt",
+    "doc_16900.txt",
+    "doc_16903.txt",
+    "doc_16902.txt"
+  ]
+}

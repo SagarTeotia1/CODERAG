@@ -1,0 +1,10 @@
+{
+  "query": "What happened to Lucy Beale in *EastEnders*?",
+  "response": [
+    "doc_719.txt",
+    "doc_11978.txt",
+    "doc_721.txt",
+    "doc_37307.txt",
+    "doc_717.txt"
+  ]
+}

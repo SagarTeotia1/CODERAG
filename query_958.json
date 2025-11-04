@@ -1,0 +1,10 @@
+{
+  "query": "What is Lemon Canary Bakery, and where is it located, based on the TripAdvisor review?",
+  "response": [
+    "doc_2919.txt",
+    "doc_2920.txt",
+    "doc_2918.txt",
+    "doc_2923.txt",
+    "doc_20530.txt"
+  ]
+}

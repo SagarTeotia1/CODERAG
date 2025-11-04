@@ -1,0 +1,10 @@
+{
+  "query": "What event led to the initial settlement of Pitcairn Island in 1790?",
+  "response": [
+    "doc_10932.txt",
+    "doc_9113.txt",
+    "doc_9114.txt",
+    "doc_9118.txt",
+    "doc_9119.txt"
+  ]
+}

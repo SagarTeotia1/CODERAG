@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided documents, how did business losses in the impacted regions from the storms change in the Gulf Region?",
+  "response": [
+    "doc_33181.txt",
+    "doc_33182.txt",
+    "doc_30032.txt",
+    "doc_30030.txt",
+    "doc_312.txt"
+  ]
+}

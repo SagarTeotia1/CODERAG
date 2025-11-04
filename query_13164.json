@@ -1,0 +1,10 @@
+{
+  "query": "What was Craig L. Thomas’s previous role before becoming involved in the events described in the passage?",
+  "response": [
+    "doc_23083.txt",
+    "doc_5095.txt",
+    "doc_8881.txt",
+    "doc_6415.txt",
+    "doc_28237.txt"
+  ]
+}

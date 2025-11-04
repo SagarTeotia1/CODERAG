@@ -1,0 +1,10 @@
+{
+  "query": "What is the subject of the protests occurring in French cities?",
+  "response": [
+    "doc_30108.txt",
+    "doc_2837.txt",
+    "doc_30099.txt",
+    "doc_30102.txt",
+    "doc_30104.txt"
+  ]
+}

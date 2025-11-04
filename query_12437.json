@@ -1,0 +1,10 @@
+{
+  "query": "When was Emperor Jacques I assassinated?",
+  "response": [
+    "doc_21281.txt",
+    "doc_1208.txt",
+    "doc_1206.txt",
+    "doc_13386.txt",
+    "doc_1209.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "How many islands in Greece are inhabited?",
+  "response": [
+    "doc_14886.txt",
+    "doc_23622.txt",
+    "doc_10633.txt",
+    "doc_36928.txt",
+    "doc_26481.txt"
+  ]
+}

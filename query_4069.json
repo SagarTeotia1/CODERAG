@@ -1,0 +1,10 @@
+{
+  "query": "What year was Louise Brown, the world’s first test-tube baby, born?",
+  "response": [
+    "doc_3696.txt",
+    "doc_3694.txt",
+    "doc_3698.txt",
+    "doc_3699.txt",
+    "doc_3697.txt"
+  ]
+}

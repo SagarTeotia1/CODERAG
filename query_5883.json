@@ -1,0 +1,10 @@
+{
+  "query": "Which song from Common’s “Like Water for Chocolate” features a chorus with scratched samples from The Intruders and Mobb Deep?",
+  "response": [
+    "doc_30568.txt",
+    "doc_30569.txt",
+    "doc_12874.txt",
+    "doc_12868.txt",
+    "doc_12876.txt"
+  ]
+}

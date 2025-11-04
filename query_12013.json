@@ -1,0 +1,10 @@
+{
+  "query": "In 1993, who was the MTV News correspondent known for riding a “psychedelic bus” and covering presidential campaigns?",
+  "response": [
+    "doc_20210.txt",
+    "doc_20212.txt",
+    "doc_20211.txt",
+    "doc_19919.txt",
+    "doc_19914.txt"
+  ]
+}

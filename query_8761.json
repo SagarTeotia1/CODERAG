@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what was the total amount of money raised at a Chicago Federation of Musicians membership meeting?",
+  "response": [
+    "doc_1600.txt",
+    "doc_1765.txt",
+    "doc_21658.txt",
+    "doc_16642.txt",
+    "doc_40084.txt"
+  ]
+}

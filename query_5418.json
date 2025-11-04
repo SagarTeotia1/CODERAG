@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the Royal Academy of Dramatic Art founded?",
+  "response": [
+    "doc_25394.txt",
+    "doc_25398.txt",
+    "doc_25397.txt",
+    "doc_25396.txt",
+    "doc_26552.txt"
+  ]
+}

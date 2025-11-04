@@ -1,0 +1,10 @@
+{
+  "query": "What is the reported percentage of repeat asylum applications submitted by people in detention pending expulsion in Vienna?",
+  "response": [
+    "doc_8894.txt",
+    "doc_38120.txt",
+    "doc_32154.txt",
+    "doc_18146.txt",
+    "doc_30921.txt"
+  ]
+}

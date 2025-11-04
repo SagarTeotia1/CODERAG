@@ -1,0 +1,10 @@
+{
+  "query": "When did the Dodgers play at Chavez Ravine?",
+  "response": [
+    "doc_35260.txt",
+    "doc_35262.txt",
+    "doc_35261.txt",
+    "doc_35257.txt",
+    "doc_35259.txt"
+  ]
+}

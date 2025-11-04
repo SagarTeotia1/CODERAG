@@ -1,0 +1,10 @@
+{
+  "query": "What traditions are mentioned as being important to the UNLV football team?",
+  "response": [
+    "doc_21537.txt",
+    "doc_21538.txt",
+    "doc_21539.txt",
+    "doc_32261.txt",
+    "doc_26191.txt"
+  ]
+}

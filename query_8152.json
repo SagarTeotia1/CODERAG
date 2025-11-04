@@ -1,0 +1,10 @@
+{
+  "query": "What type of stories does Katrin Hanson write to remember her family member?",
+  "response": [
+    "doc_10806.txt",
+    "doc_10807.txt",
+    "doc_10808.txt",
+    "doc_3395.txt",
+    "doc_23370.txt"
+  ]
+}

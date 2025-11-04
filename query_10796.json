@@ -1,0 +1,10 @@
+{
+  "query": "What are the most common methods for detecting symptoms of male breast cancer, as stated by the Commission?",
+  "response": [
+    "doc_17096.txt",
+    "doc_24241.txt",
+    "doc_21047.txt",
+    "doc_21898.txt",
+    "doc_21900.txt"
+  ]
+}

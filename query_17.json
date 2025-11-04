@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Daft Punk meet while studying?",
+  "response": [
+    "doc_37141.txt",
+    "doc_37150.txt",
+    "doc_37148.txt",
+    "doc_37144.txt",
+    "doc_37147.txt"
+  ]
+}

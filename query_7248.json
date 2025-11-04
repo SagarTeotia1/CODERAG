@@ -1,0 +1,10 @@
+{
+  "query": "Who presided over the trial of Aaron Burr?",
+  "response": [
+    "doc_8465.txt",
+    "doc_8468.txt",
+    "doc_8469.txt",
+    "doc_8466.txt",
+    "doc_8464.txt"
+  ]
+}

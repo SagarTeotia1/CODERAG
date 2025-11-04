@@ -1,0 +1,10 @@
+{
+  "query": "What are the three phases of the SESAR project, according to the passage?",
+  "response": [
+    "doc_27282.txt",
+    "doc_27281.txt",
+    "doc_27285.txt",
+    "doc_21630.txt",
+    "doc_32029.txt"
+  ]
+}

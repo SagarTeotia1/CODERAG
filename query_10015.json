@@ -1,0 +1,10 @@
+{
+  "query": "Where are the ruins of S. Pedro de la Mata located?",
+  "response": [
+    "doc_9934.txt",
+    "doc_9938.txt",
+    "doc_9936.txt",
+    "doc_9935.txt",
+    "doc_37709.txt"
+  ]
+}

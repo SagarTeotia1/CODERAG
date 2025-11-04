@@ -1,0 +1,10 @@
+{
+  "query": "What action did Jean-Jacques Dessalines order after being proclaimed Emperor?",
+  "response": [
+    "doc_21281.txt",
+    "doc_21280.txt",
+    "doc_21282.txt",
+    "doc_21284.txt",
+    "doc_21285.txt"
+  ]
+}

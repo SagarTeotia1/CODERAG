@@ -1,0 +1,10 @@
+{
+  "query": "What television series featured Vince Edwards as Ben Casey?",
+  "response": [
+    "doc_32969.txt",
+    "doc_32968.txt",
+    "doc_32972.txt",
+    "doc_32970.txt",
+    "doc_23154.txt"
+  ]
+}

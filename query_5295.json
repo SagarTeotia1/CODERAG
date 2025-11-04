@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, who initially won the role of Buffy in *Buffy the Vampire Slayer*, and how many weeks of auditions did this occur?",
+  "response": [
+    "doc_39999.txt",
+    "doc_40002.txt",
+    "doc_39998.txt",
+    "doc_40006.txt",
+    "doc_40003.txt"
+  ]
+}

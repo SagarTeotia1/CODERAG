@@ -1,0 +1,10 @@
+{
+  "query": "According to the US Social Security Administration, how many babies were named in the passage?",
+  "response": [
+    "doc_22472.txt",
+    "doc_22470.txt",
+    "doc_16102.txt",
+    "doc_22473.txt",
+    "doc_16103.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Tom Fleming win the New York City Marathon?",
+  "response": [
+    "doc_31480.txt",
+    "doc_31481.txt",
+    "doc_11352.txt",
+    "doc_31478.txt",
+    "doc_35928.txt"
+  ]
+}

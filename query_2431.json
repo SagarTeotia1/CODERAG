@@ -1,0 +1,10 @@
+{
+  "query": "In which Indian state is Bhopal located?",
+  "response": [
+    "doc_33321.txt",
+    "doc_20386.txt",
+    "doc_20390.txt",
+    "doc_20393.txt",
+    "doc_20395.txt"
+  ]
+}

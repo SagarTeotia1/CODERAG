@@ -1,0 +1,10 @@
+{
+  "query": "What was Theodore Roosevelt, Jr.’s age when he landed on the beaches during the D-Day invasion?",
+  "response": [
+    "doc_3261.txt",
+    "doc_3251.txt",
+    "doc_3257.txt",
+    "doc_3252.txt",
+    "doc_3255.txt"
+  ]
+}

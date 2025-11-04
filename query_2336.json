@@ -1,0 +1,10 @@
+{
+  "query": "When was one of the first printed books with illustrations containing a collection of Aesop’s fables?",
+  "response": [
+    "doc_306.txt",
+    "doc_299.txt",
+    "doc_308.txt",
+    "doc_298.txt",
+    "doc_302.txt"
+  ]
+}

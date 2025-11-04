@@ -1,0 +1,10 @@
+{
+  "query": "What role does the European Commission have within the body that made the restrictive enrolment policy decision?",
+  "response": [
+    "doc_3217.txt",
+    "doc_2176.txt",
+    "doc_32445.txt",
+    "doc_20437.txt",
+    "doc_14506.txt"
+  ]
+}

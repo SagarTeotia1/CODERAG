@@ -1,0 +1,10 @@
+{
+  "query": "Which films prominently featured the Mini Cooper/Cooper S, as mentioned in several sources?",
+  "response": [
+    "doc_33010.txt",
+    "doc_5214.txt",
+    "doc_7958.txt",
+    "doc_7954.txt",
+    "doc_33011.txt"
+  ]
+}

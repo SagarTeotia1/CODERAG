@@ -1,0 +1,10 @@
+{
+  "query": "What news outlet reported on a flood situation in Bihar, citing the deployment of NDRF teams?",
+  "response": [
+    "doc_18038.txt",
+    "doc_18033.txt",
+    "doc_18035.txt",
+    "doc_18034.txt",
+    "doc_18036.txt"
+  ]
+}

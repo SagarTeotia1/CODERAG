@@ -1,0 +1,10 @@
+{
+  "query": "Which prestigious scholarship did Francesca Massey receive, and where was she educated on it?",
+  "response": [
+    "doc_5296.txt",
+    "doc_31855.txt",
+    "doc_16516.txt",
+    "doc_5548.txt",
+    "doc_20869.txt"
+  ]
+}

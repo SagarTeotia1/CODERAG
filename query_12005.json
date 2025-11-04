@@ -1,0 +1,10 @@
+{
+  "query": "What agreement did the Commission and the Chinese Government reach regarding textile and clothing imports in 2008?",
+  "response": [
+    "doc_20201.txt",
+    "doc_24572.txt",
+    "doc_31727.txt",
+    "doc_7807.txt",
+    "doc_7808.txt"
+  ]
+}

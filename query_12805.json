@@ -1,0 +1,10 @@
+{
+  "query": "What was John White’s profession?",
+  "response": [
+    "doc_22250.txt",
+    "doc_35062.txt",
+    "doc_27593.txt",
+    "doc_32944.txt",
+    "doc_27594.txt"
+  ]
+}

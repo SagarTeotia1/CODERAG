@@ -1,0 +1,10 @@
+{
+  "query": "What specific EU regulation is being called for to be repealed, and what is the vote count for that amendment?",
+  "response": [
+    "doc_25170.txt",
+    "doc_25176.txt",
+    "doc_5301.txt",
+    "doc_4435.txt",
+    "doc_40018.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What type of assessment was conducted regarding the potential environmental impact on the Ebro delta?",
+  "response": [
+    "doc_12097.txt",
+    "doc_25127.txt",
+    "doc_10189.txt",
+    "doc_20819.txt",
+    "doc_35005.txt"
+  ]
+}

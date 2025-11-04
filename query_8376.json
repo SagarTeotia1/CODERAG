@@ -1,0 +1,10 @@
+{
+  "query": "According to the British study cited, what percentage of accidents on long journeys are attributed to driver fatigue?",
+  "response": [
+    "doc_11280.txt",
+    "doc_4799.txt",
+    "doc_4800.txt",
+    "doc_11281.txt",
+    "doc_3558.txt"
+  ]
+}

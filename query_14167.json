@@ -1,0 +1,10 @@
+{
+  "query": "Who is great in this biopic of country singer Patsy Cline?",
+  "response": [
+    "doc_25469.txt",
+    "doc_25470.txt",
+    "doc_25471.txt",
+    "doc_25472.txt",
+    "doc_16428.txt"
+  ]
+}

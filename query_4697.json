@@ -1,0 +1,10 @@
+{
+  "query": "What is the approximate BPM (beats per minute) range associated with the tempo marking “Adagio”?",
+  "response": [
+    "doc_38672.txt",
+    "doc_38673.txt",
+    "doc_8448.txt",
+    "doc_8447.txt",
+    "doc_1642.txt"
+  ]
+}

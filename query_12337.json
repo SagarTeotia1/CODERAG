@@ -1,0 +1,10 @@
+{
+  "query": "What movie featured Renée Moniz as Katherine Heigl’s co-worker?",
+  "response": [
+    "doc_12941.txt",
+    "doc_22297.txt",
+    "doc_22300.txt",
+    "doc_22305.txt",
+    "doc_22296.txt"
+  ]
+}

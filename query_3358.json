@@ -1,0 +1,10 @@
+{
+  "query": "In Florida, what percentage of the prison population was over the age of 50?",
+  "response": [
+    "doc_35431.txt",
+    "doc_11890.txt",
+    "doc_35430.txt",
+    "doc_35428.txt",
+    "doc_30804.txt"
+  ]
+}

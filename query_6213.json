@@ -1,0 +1,10 @@
+{
+  "query": "In what city was Michelangelo born?",
+  "response": [
+    "doc_5859.txt",
+    "doc_5861.txt",
+    "doc_5858.txt",
+    "doc_22225.txt",
+    "doc_23556.txt"
+  ]
+}

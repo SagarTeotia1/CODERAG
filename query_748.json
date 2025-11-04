@@ -1,0 +1,10 @@
+{
+  "query": "According to Goldman Sachs and Gazprom, what price range could crude oil reach due to speculation?",
+  "response": [
+    "doc_4364.txt",
+    "doc_31399.txt",
+    "doc_39410.txt",
+    "doc_24176.txt",
+    "doc_1719.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was Charles Doyle’s profession?",
+  "response": [
+    "doc_1324.txt",
+    "doc_13773.txt",
+    "doc_1323.txt",
+    "doc_16148.txt",
+    "doc_10085.txt"
+  ]
+}

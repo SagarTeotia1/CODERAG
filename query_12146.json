@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission’s current position regarding the case involving the producer and principal director of a documentary?",
+  "response": [
+    "doc_20527.txt",
+    "doc_19035.txt",
+    "doc_8350.txt",
+    "doc_24720.txt",
+    "doc_11817.txt"
+  ]
+}

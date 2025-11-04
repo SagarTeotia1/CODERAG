@@ -1,0 +1,10 @@
+{
+  "query": "In which city and state is Clarkson University's main campus located?",
+  "response": [
+    "doc_24889.txt",
+    "doc_17797.txt",
+    "doc_26974.txt",
+    "doc_1950.txt",
+    "doc_24888.txt"
+  ]
+}

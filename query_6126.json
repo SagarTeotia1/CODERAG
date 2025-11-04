@@ -1,0 +1,10 @@
+{
+  "query": "In what year did “Sassy” singer Cheryl of the Clue Crew win an amateur contest?",
+  "response": [
+    "doc_25923.txt",
+    "doc_13767.txt",
+    "doc_8234.txt",
+    "doc_8233.txt",
+    "doc_25918.txt"
+  ]
+}

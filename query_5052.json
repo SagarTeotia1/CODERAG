@@ -1,0 +1,10 @@
+{
+  "query": "What was the name of Emmett Kelly’s signature clown character?",
+  "response": [
+    "doc_39470.txt",
+    "doc_39469.txt",
+    "doc_39471.txt",
+    "doc_39472.txt",
+    "doc_39474.txt"
+  ]
+}

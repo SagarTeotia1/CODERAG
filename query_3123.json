@@ -1,0 +1,10 @@
+{
+  "query": "When was the first version of the documents related to REACH and the ECHA website made available?",
+  "response": [
+    "doc_34880.txt",
+    "doc_16835.txt",
+    "doc_11775.txt",
+    "doc_23417.txt",
+    "doc_27987.txt"
+  ]
+}

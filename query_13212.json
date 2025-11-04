@@ -1,0 +1,10 @@
+{
+  "query": "What was Paul Westerberg’s primary role in The Replacements?",
+  "response": [
+    "doc_24208.txt",
+    "doc_34420.txt",
+    "doc_5177.txt",
+    "doc_8678.txt",
+    "doc_5183.txt"
+  ]
+}

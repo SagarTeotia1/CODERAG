@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the first British National Hill Climb Championship held?",
+  "response": [
+    "doc_8963.txt",
+    "doc_12277.txt",
+    "doc_12282.txt",
+    "doc_8966.txt",
+    "doc_12276.txt"
+  ]
+}

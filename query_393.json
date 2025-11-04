@@ -1,0 +1,10 @@
+{
+  "query": "In “Ferris Bueller’s Day Off,” who played Cameron Frye, Ferris Bueller’s best friend?",
+  "response": [
+    "doc_20776.txt",
+    "doc_20773.txt",
+    "doc_20774.txt",
+    "doc_28230.txt",
+    "doc_20777.txt"
+  ]
+}

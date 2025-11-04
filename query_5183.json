@@ -1,0 +1,10 @@
+{
+  "query": "What directive was cited as being violated by Al-Manar’s content?",
+  "response": [
+    "doc_39795.txt",
+    "doc_39609.txt",
+    "doc_4430.txt",
+    "doc_8156.txt",
+    "doc_38881.txt"
+  ]
+}

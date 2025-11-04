@@ -1,0 +1,10 @@
+{
+  "query": "What year was the album “Breaking Point” released, and where was it recorded?",
+  "response": [
+    "doc_15906.txt",
+    "doc_15910.txt",
+    "doc_37164.txt",
+    "doc_37167.txt",
+    "doc_15902.txt"
+  ]
+}

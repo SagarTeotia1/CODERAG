@@ -1,0 +1,10 @@
+{
+  "query": "When did the Council last respond to statements made by Turkish Foreign Minister Gül?",
+  "response": [
+    "doc_1443.txt",
+    "doc_1921.txt",
+    "doc_21204.txt",
+    "doc_8351.txt",
+    "doc_17198.txt"
+  ]
+}

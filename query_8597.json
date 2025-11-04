@@ -1,0 +1,10 @@
+{
+  "query": "Who were the three defendants involved in the ABC trial, and what were their respective roles?",
+  "response": [
+    "doc_5962.txt",
+    "doc_12325.txt",
+    "doc_5963.txt",
+    "doc_36701.txt",
+    "doc_21298.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Who signed the Economic Recovery Act?",
+  "response": [
+    "doc_4087.txt",
+    "doc_19680.txt",
+    "doc_37339.txt",
+    "doc_4088.txt",
+    "doc_4354.txt"
+  ]
+}

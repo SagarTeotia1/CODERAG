@@ -1,0 +1,10 @@
+{
+  "query": "What did the European Court of Justice rule in December 2001 regarding British beef imports into France?",
+  "response": [
+    "doc_26446.txt",
+    "doc_6418.txt",
+    "doc_29927.txt",
+    "doc_16965.txt",
+    "doc_14599.txt"
+  ]
+}

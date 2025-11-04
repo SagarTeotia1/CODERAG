@@ -1,0 +1,10 @@
+{
+  "query": "On what dates will the EP delegation hold press conferences during the Poznan Conference?",
+  "response": [
+    "doc_13676.txt",
+    "doc_13674.txt",
+    "doc_13673.txt",
+    "doc_13672.txt",
+    "doc_13675.txt"
+  ]
+}

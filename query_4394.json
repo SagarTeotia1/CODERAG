@@ -1,0 +1,10 @@
+{
+  "query": "Which actors starred in the 2010 film *Robin Hood*?",
+  "response": [
+    "doc_37870.txt",
+    "doc_37871.txt",
+    "doc_32282.txt",
+    "doc_32283.txt",
+    "doc_32281.txt"
+  ]
+}

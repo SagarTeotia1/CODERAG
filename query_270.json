@@ -1,0 +1,10 @@
+{
+  "query": "Which EU member states are not participating in the 24/7 emergency contact network for cyber-crime?",
+  "response": [
+    "doc_2735.txt",
+    "doc_35542.txt",
+    "doc_7601.txt",
+    "doc_23062.txt",
+    "doc_32091.txt"
+  ]
+}

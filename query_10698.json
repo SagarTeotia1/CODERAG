@@ -1,0 +1,10 @@
+{
+  "query": "Does Commissioner Verheugen allege that officials are obstructing his attempt to cut red tape?",
+  "response": [
+    "doc_22843.txt",
+    "doc_1992.txt",
+    "doc_1991.txt",
+    "doc_1989.txt",
+    "doc_20587.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what city and country is the Movistar Arena located?",
+  "response": [
+    "doc_15924.txt",
+    "doc_17190.txt",
+    "doc_22830.txt",
+    "doc_31935.txt",
+    "doc_33898.txt"
+  ]
+}

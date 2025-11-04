@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how far is Chartres Cathedral from Paris?",
+  "response": [
+    "doc_25177.txt",
+    "doc_12787.txt",
+    "doc_13264.txt",
+    "doc_13265.txt",
+    "doc_16204.txt"
+  ]
+}

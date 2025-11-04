@@ -1,0 +1,10 @@
+{
+  "query": "What was the primary cause of the E.coli outbreak according to the German disease control centre?",
+  "response": [
+    "doc_7700.txt",
+    "doc_35943.txt",
+    "doc_5026.txt",
+    "doc_2382.txt",
+    "doc_15827.txt"
+  ]
+}

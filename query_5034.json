@@ -1,0 +1,10 @@
+{
+  "query": "In what year was “The Beach Boys Medley” released, and what was its highest US chart position?",
+  "response": [
+    "doc_39443.txt",
+    "doc_39442.txt",
+    "doc_36278.txt",
+    "doc_36259.txt",
+    "doc_19814.txt"
+  ]
+}

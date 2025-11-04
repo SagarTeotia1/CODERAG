@@ -1,0 +1,10 @@
+{
+  "query": "How much did Brian Rast win at the inaugural Super High Roller Bowl tournament?",
+  "response": [
+    "doc_32567.txt",
+    "doc_32566.txt",
+    "doc_38739.txt",
+    "doc_10276.txt",
+    "doc_23601.txt"
+  ]
+}

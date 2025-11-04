@@ -1,0 +1,10 @@
+{
+  "query": "According to independent studies, is there sufficient wind force in zone 15 of the Serra Mariola to guarantee the profitability of the wind farm installations?",
+  "response": [
+    "doc_36062.txt",
+    "doc_18184.txt",
+    "doc_13637.txt",
+    "doc_15101.txt",
+    "doc_30345.txt"
+  ]
+}

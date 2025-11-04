@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the International GTSprint Series founded?",
+  "response": [
+    "doc_17224.txt",
+    "doc_10424.txt",
+    "doc_10426.txt",
+    "doc_10427.txt",
+    "doc_10425.txt"
+  ]
+}

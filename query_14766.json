@@ -1,0 +1,10 @@
+{
+  "query": "What was Antoni Łyko’s profession before his arrest?",
+  "response": [
+    "doc_809.txt",
+    "doc_20379.txt",
+    "doc_1145.txt",
+    "doc_20378.txt",
+    "doc_35461.txt"
+  ]
+}

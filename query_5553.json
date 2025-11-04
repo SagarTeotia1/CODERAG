@@ -1,0 +1,10 @@
+{
+  "query": "In what city did Erica Arana perform in the theatrical play “It’s Just Sex”?",
+  "response": [
+    "doc_37826.txt",
+    "doc_35285.txt",
+    "doc_12940.txt",
+    "doc_29529.txt",
+    "doc_7696.txt"
+  ]
+}

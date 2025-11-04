@@ -1,0 +1,10 @@
+{
+  "query": "What color is the head and neck of an immature California Condor?",
+  "response": [
+    "doc_152.txt",
+    "doc_153.txt",
+    "doc_157.txt",
+    "doc_151.txt",
+    "doc_160.txt"
+  ]
+}

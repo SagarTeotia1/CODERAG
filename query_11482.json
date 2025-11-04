@@ -1,0 +1,10 @@
+{
+  "query": "Are there reports suggesting the Galileo satellite navigation system is vulnerable to interference by the American military?",
+  "response": [
+    "doc_18804.txt",
+    "doc_16264.txt",
+    "doc_14135.txt",
+    "doc_16262.txt",
+    "doc_16263.txt"
+  ]
+}

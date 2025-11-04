@@ -1,0 +1,10 @@
+{
+  "query": "If Bangladesh is excluded from the pipeline project, what potential transportation route is suggested for connecting Sittwe to Mizoram?",
+  "response": [
+    "doc_27207.txt",
+    "doc_19225.txt",
+    "doc_32027.txt",
+    "doc_37807.txt",
+    "doc_24733.txt"
+  ]
+}

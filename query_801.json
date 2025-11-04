@@ -1,0 +1,10 @@
+{
+  "query": "When was Pilsner beer first brewed?",
+  "response": [
+    "doc_29139.txt",
+    "doc_29134.txt",
+    "doc_29135.txt",
+    "doc_29138.txt",
+    "doc_29136.txt"
+  ]
+}

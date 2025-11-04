@@ -1,0 +1,10 @@
+{
+  "query": "How much has the Turkish authorities spent on archaeological excavations related to the Bosphorus/Marmara Project to date?",
+  "response": [
+    "doc_20130.txt",
+    "doc_23874.txt",
+    "doc_5425.txt",
+    "doc_6054.txt",
+    "doc_9698.txt"
+  ]
+}

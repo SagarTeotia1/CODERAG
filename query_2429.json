@@ -1,0 +1,10 @@
+{
+  "query": "What is Indore considered to be in relation to Madhya Pradesh?",
+  "response": [
+    "doc_33319.txt",
+    "doc_33321.txt",
+    "doc_20390.txt",
+    "doc_33320.txt",
+    "doc_20384.txt"
+  ]
+}

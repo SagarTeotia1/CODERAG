@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what is Anne Frank famous for after her death?",
+  "response": [
+    "doc_15149.txt",
+    "doc_11315.txt",
+    "doc_15150.txt",
+    "doc_15155.txt",
+    "doc_15153.txt"
+  ]
+}

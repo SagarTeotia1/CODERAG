@@ -1,0 +1,10 @@
+{
+  "query": "At what age does Tony Manero first arrive on the dancefloor?",
+  "response": [
+    "doc_749.txt",
+    "doc_16822.txt",
+    "doc_31194.txt",
+    "doc_31195.txt",
+    "doc_7695.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which actor portrayed Colonel Steve Austin in “The Six Million Dollar Man”?",
+  "response": [
+    "doc_20075.txt",
+    "doc_2046.txt",
+    "doc_19036.txt",
+    "doc_27119.txt",
+    "doc_19040.txt"
+  ]
+}

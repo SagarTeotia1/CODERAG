@@ -1,0 +1,10 @@
+{
+  "query": "What types of projects does the EIB primarily fund, according to the passage?",
+  "response": [
+    "doc_19980.txt",
+    "doc_14367.txt",
+    "doc_14369.txt",
+    "doc_14368.txt",
+    "doc_19981.txt"
+  ]
+}

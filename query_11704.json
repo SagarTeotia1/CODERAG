@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the film “The Atomic Kid” released, and by which production company?",
+  "response": [
+    "doc_12941.txt",
+    "doc_11707.txt",
+    "doc_18327.txt",
+    "doc_17868.txt",
+    "doc_17865.txt"
+  ]
+}

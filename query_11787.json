@@ -1,0 +1,10 @@
+{
+  "query": "In what year was “The Greatest Show on Earth” released?",
+  "response": [
+    "doc_19716.txt",
+    "doc_19715.txt",
+    "doc_19713.txt",
+    "doc_19714.txt",
+    "doc_19718.txt"
+  ]
+}

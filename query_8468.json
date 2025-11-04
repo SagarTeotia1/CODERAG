@@ -1,0 +1,10 @@
+{
+  "query": "Which groups submitted motions regarding voting rights for women in Kuwait?",
+  "response": [
+    "doc_11504.txt",
+    "doc_16764.txt",
+    "doc_32833.txt",
+    "doc_7204.txt",
+    "doc_16766.txt"
+  ]
+}

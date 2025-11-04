@@ -1,0 +1,10 @@
+{
+  "query": "Which singer collaborated with Roberta Flack on the song “Killing Me Softly”?",
+  "response": [
+    "doc_12868.txt",
+    "doc_12874.txt",
+    "doc_12876.txt",
+    "doc_12873.txt",
+    "doc_12875.txt"
+  ]
+}

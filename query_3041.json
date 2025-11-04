@@ -1,0 +1,10 @@
+{
+  "query": "Jason Eady is described as an important figure in what specific subgenre of country music?",
+  "response": [
+    "doc_34743.txt",
+    "doc_34745.txt",
+    "doc_38855.txt",
+    "doc_38859.txt",
+    "doc_38856.txt"
+  ]
+}

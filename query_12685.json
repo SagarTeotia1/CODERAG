@@ -1,0 +1,10 @@
+{
+  "query": "What type of material is Mars’ core believed to be, based on the research findings?",
+  "response": [
+    "doc_21881.txt",
+    "doc_5225.txt",
+    "doc_5227.txt",
+    "doc_5230.txt",
+    "doc_5228.txt"
+  ]
+}

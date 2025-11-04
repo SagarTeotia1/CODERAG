@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Timothy Olyphant win the Theatre World Award?",
+  "response": [
+    "doc_27322.txt",
+    "doc_27321.txt",
+    "doc_26966.txt",
+    "doc_26959.txt",
+    "doc_22851.txt"
+  ]
+}

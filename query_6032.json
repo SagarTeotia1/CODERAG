@@ -1,0 +1,10 @@
+{
+  "query": "What is the primary genre of the song “Man! I Feel Like a Woman!”?",
+  "response": [
+    "doc_19639.txt",
+    "doc_19640.txt",
+    "doc_1530.txt",
+    "doc_19644.txt",
+    "doc_39566.txt"
+  ]
+}

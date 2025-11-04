@@ -1,0 +1,10 @@
+{
+  "query": "Which agency is the Committee on Herbal Medicinal Products (HMPC) associated with?",
+  "response": [
+    "doc_18479.txt",
+    "doc_38317.txt",
+    "doc_23821.txt",
+    "doc_27584.txt",
+    "doc_22897.txt"
+  ]
+}

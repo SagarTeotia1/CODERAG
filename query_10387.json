@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission’s stance on violence and threats?",
+  "response": [
+    "doc_39880.txt",
+    "doc_12562.txt",
+    "doc_7851.txt",
+    "doc_15127.txt",
+    "doc_14373.txt"
+  ]
+}

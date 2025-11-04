@@ -1,0 +1,10 @@
+{
+  "query": "What traditional dish from Tajikistan involves rice, carrots, onions, and meat?",
+  "response": [
+    "doc_21297.txt",
+    "doc_21294.txt",
+    "doc_22667.txt",
+    "doc_16960.txt",
+    "doc_21291.txt"
+  ]
+}

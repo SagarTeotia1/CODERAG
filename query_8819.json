@@ -1,0 +1,10 @@
+{
+  "query": "Which shorts were ultimately uploaded to Cartoon Network’s website?",
+  "response": [
+    "doc_12355.txt",
+    "doc_12354.txt",
+    "doc_2440.txt",
+    "doc_11528.txt",
+    "doc_2438.txt"
+  ]
+}

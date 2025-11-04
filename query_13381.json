@@ -1,0 +1,10 @@
+{
+  "query": "What musical styles are associated with the band P.K. 14?",
+  "response": [
+    "doc_23529.txt",
+    "doc_17896.txt",
+    "doc_23950.txt",
+    "doc_17897.txt",
+    "doc_8178.txt"
+  ]
+}

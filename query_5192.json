@@ -1,0 +1,10 @@
+{
+  "query": "Did the President of the Commission attend the meeting?",
+  "response": [
+    "doc_39809.txt",
+    "doc_2703.txt",
+    "doc_20806.txt",
+    "doc_2354.txt",
+    "doc_29319.txt"
+  ]
+}

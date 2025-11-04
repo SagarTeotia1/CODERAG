@@ -1,0 +1,10 @@
+{
+  "query": "What is the typical arrangement of needles found on trees in the Upper Klamath Basin?",
+  "response": [
+    "doc_8070.txt",
+    "doc_8069.txt",
+    "doc_8072.txt",
+    "doc_8067.txt",
+    "doc_8068.txt"
+  ]
+}

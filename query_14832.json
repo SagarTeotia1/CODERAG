@@ -1,0 +1,10 @@
+{
+  "query": "What information must be included in an act adopted jointly by Parliament and the Council, as outlined in section 2?",
+  "response": [
+    "doc_2606.txt",
+    "doc_16440.txt",
+    "doc_29307.txt",
+    "doc_29309.txt",
+    "doc_29310.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what biblical tale does *East of Eden* draw parallels with?",
+  "response": [
+    "doc_11870.txt",
+    "doc_11871.txt",
+    "doc_11872.txt",
+    "doc_11873.txt",
+    "doc_14236.txt"
+  ]
+}

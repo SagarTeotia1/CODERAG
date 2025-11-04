@@ -1,0 +1,10 @@
+{
+  "query": "What are three principles that guide the EBRD’s investment policy?",
+  "response": [
+    "doc_9908.txt",
+    "doc_9910.txt",
+    "doc_9909.txt",
+    "doc_9914.txt",
+    "doc_9913.txt"
+  ]
+}

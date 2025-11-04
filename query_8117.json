@@ -1,0 +1,10 @@
+{
+  "query": "Which author originally wrote the novel *Ben-Hur: A Tale of the Christ*?",
+  "response": [
+    "doc_10679.txt",
+    "doc_10680.txt",
+    "doc_10678.txt",
+    "doc_10681.txt",
+    "doc_10682.txt"
+  ]
+}

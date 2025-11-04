@@ -1,0 +1,10 @@
+{
+  "query": "What county does Milwaukee serve as the county seat for?",
+  "response": [
+    "doc_20679.txt",
+    "doc_20673.txt",
+    "doc_20678.txt",
+    "doc_20672.txt",
+    "doc_20677.txt"
+  ]
+}

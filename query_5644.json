@@ -1,0 +1,10 @@
+{
+  "query": "How long was Jamie Jones’s longest DJ set?",
+  "response": [
+    "doc_32073.txt",
+    "doc_37162.txt",
+    "doc_39262.txt",
+    "doc_26175.txt",
+    "doc_39067.txt"
+  ]
+}

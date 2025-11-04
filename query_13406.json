@@ -1,0 +1,10 @@
+{
+  "query": "According to the Randolph College Editorial Style Guide, what style guide does it primarily base its rules on?",
+  "response": [
+    "doc_23573.txt",
+    "doc_23577.txt",
+    "doc_23578.txt",
+    "doc_23572.txt",
+    "doc_23574.txt"
+  ]
+}

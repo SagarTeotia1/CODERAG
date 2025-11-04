@@ -1,0 +1,10 @@
+{
+  "query": "What event led Matthew Scott to lose his hand?",
+  "response": [
+    "doc_17039.txt",
+    "doc_39552.txt",
+    "doc_17041.txt",
+    "doc_39553.txt",
+    "doc_25592.txt"
+  ]
+}

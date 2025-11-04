@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Martti Katajisto pass away?",
+  "response": [
+    "doc_10236.txt",
+    "doc_10234.txt",
+    "doc_5980.txt",
+    "doc_5981.txt",
+    "doc_27529.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What conference does the Texas Tech Red Raiders football program compete in?",
+  "response": [
+    "doc_7486.txt",
+    "doc_7487.txt",
+    "doc_7485.txt",
+    "doc_20242.txt",
+    "doc_4193.txt"
+  ]
+}

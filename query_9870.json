@@ -1,0 +1,10 @@
+{
+  "query": "Which actor portrayed Fong Sai-yuk in the film “Fong Sai-yuk II”?",
+  "response": [
+    "doc_14867.txt",
+    "doc_8354.txt",
+    "doc_14866.txt",
+    "doc_16279.txt",
+    "doc_8353.txt"
+  ]
+}

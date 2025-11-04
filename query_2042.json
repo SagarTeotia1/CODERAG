@@ -1,0 +1,10 @@
+{
+  "query": "How many consecutive championships did Hawaii’s Outrigger Canoe Club win?",
+  "response": [
+    "doc_32302.txt",
+    "doc_32303.txt",
+    "doc_4913.txt",
+    "doc_4912.txt",
+    "doc_4916.txt"
+  ]
+}

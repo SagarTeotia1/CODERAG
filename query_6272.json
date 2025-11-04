@@ -1,0 +1,10 @@
+{
+  "query": "What method was used to kill Georgi Markov in 1978?",
+  "response": [
+    "doc_5979.txt",
+    "doc_5980.txt",
+    "doc_5981.txt",
+    "doc_32362.txt",
+    "doc_32368.txt"
+  ]
+}

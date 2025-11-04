@@ -1,0 +1,10 @@
+{
+  "query": "Which political group includes the British Conservatives?",
+  "response": [
+    "doc_7795.txt",
+    "doc_22066.txt",
+    "doc_17532.txt",
+    "doc_4197.txt",
+    "doc_21356.txt"
+  ]
+}

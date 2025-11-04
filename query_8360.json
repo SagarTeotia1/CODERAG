@@ -1,0 +1,10 @@
+{
+  "query": "Which South Indian state is Anuradha Sriram from?",
+  "response": [
+    "doc_31682.txt",
+    "doc_11266.txt",
+    "doc_11373.txt",
+    "doc_2291.txt",
+    "doc_10814.txt"
+  ]
+}

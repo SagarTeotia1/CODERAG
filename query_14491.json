@@ -1,0 +1,10 @@
+{
+  "query": "What was the table given to Socrates as a wedding gift?",
+  "response": [
+    "doc_26386.txt",
+    "doc_26385.txt",
+    "doc_26384.txt",
+    "doc_26387.txt",
+    "doc_6140.txt"
+  ]
+}

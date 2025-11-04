@@ -1,0 +1,10 @@
+{
+  "query": "Where can the documents cited by the Piratenpartei Deutschland be found?",
+  "response": [
+    "doc_40161.txt",
+    "doc_23051.txt",
+    "doc_12696.txt",
+    "doc_8651.txt",
+    "doc_4533.txt"
+  ]
+}

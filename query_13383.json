@@ -1,0 +1,10 @@
+{
+  "query": "Who designed the cover for “Endless Wire” by The Who?",
+  "response": [
+    "doc_37162.txt",
+    "doc_37167.txt",
+    "doc_17896.txt",
+    "doc_37164.txt",
+    "doc_19760.txt"
+  ]
+}

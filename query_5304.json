@@ -1,0 +1,10 @@
+{
+  "query": "How many times did Bryan Watson win the Professional World Latin Dance Championship?",
+  "response": [
+    "doc_40011.txt",
+    "doc_40010.txt",
+    "doc_14949.txt",
+    "doc_14948.txt",
+    "doc_35248.txt"
+  ]
+}

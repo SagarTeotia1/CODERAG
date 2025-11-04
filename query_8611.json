@@ -1,0 +1,10 @@
+{
+  "query": "What is the potential consequence of ambiguities in EU law when translated into national law?",
+  "response": [
+    "doc_1107.txt",
+    "doc_1106.txt",
+    "doc_1097.txt",
+    "doc_1095.txt",
+    "doc_1099.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which sports teams utilize the Prudential Center arena?",
+  "response": [
+    "doc_19263.txt",
+    "doc_19265.txt",
+    "doc_19264.txt",
+    "doc_30112.txt",
+    "doc_17332.txt"
+  ]
+}

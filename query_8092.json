@@ -1,0 +1,10 @@
+{
+  "query": "What date was abandoned as the date of the New Year in the civil calendar before 1752?",
+  "response": [
+    "doc_10625.txt",
+    "doc_10622.txt",
+    "doc_10631.txt",
+    "doc_10623.txt",
+    "doc_10621.txt"
+  ]
+}

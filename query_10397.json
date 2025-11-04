@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what was the value of the U.S. broadband/ICT sector in 2014?",
+  "response": [
+    "doc_16230.txt",
+    "doc_16231.txt",
+    "doc_21266.txt",
+    "doc_31398.txt",
+    "doc_21264.txt"
+  ]
+}

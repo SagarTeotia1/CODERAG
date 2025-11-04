@@ -1,0 +1,10 @@
+{
+  "query": "What did Pat Nixon wear instead of a mink coat?",
+  "response": [
+    "doc_34734.txt",
+    "doc_34733.txt",
+    "doc_34736.txt",
+    "doc_34738.txt",
+    "doc_34731.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When was the album “Forget the Night Ahead” released?",
+  "response": [
+    "doc_38411.txt",
+    "doc_31614.txt",
+    "doc_22663.txt",
+    "doc_15001.txt",
+    "doc_37448.txt"
+  ]
+}

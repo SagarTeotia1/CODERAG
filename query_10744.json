@@ -1,0 +1,10 @@
+{
+  "query": "What is the length of the existing cycle track in the prefecture of Attiki?",
+  "response": [
+    "doc_1686.txt",
+    "doc_24617.txt",
+    "doc_25815.txt",
+    "doc_28274.txt",
+    "doc_17179.txt"
+  ]
+}

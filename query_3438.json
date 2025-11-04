@@ -1,0 +1,10 @@
+{
+  "query": "Which company licensed \"Tea\" for publication in the United States?",
+  "response": [
+    "doc_1434.txt",
+    "doc_40219.txt",
+    "doc_40218.txt",
+    "doc_40216.txt",
+    "doc_40215.txt"
+  ]
+}

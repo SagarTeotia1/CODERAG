@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided links, what kind of cured meats are offered at the Atlanta Food & Wine Festival?",
+  "response": [
+    "doc_28656.txt",
+    "doc_33396.txt",
+    "doc_36566.txt",
+    "doc_26209.txt",
+    "doc_26207.txt"
+  ]
+}

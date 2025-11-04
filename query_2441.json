@@ -1,0 +1,10 @@
+{
+  "query": "According to the Eurobarometer survey, what percentage of Europeans prefer to protect their privacy by sharing as little information online as possible?",
+  "response": [
+    "doc_33334.txt",
+    "doc_21360.txt",
+    "doc_15178.txt",
+    "doc_35453.txt",
+    "doc_15813.txt"
+  ]
+}

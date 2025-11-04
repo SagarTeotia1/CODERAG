@@ -1,0 +1,10 @@
+{
+  "query": "In which county is the Anna Ranch Heritage Center located, and what is it named after?",
+  "response": [
+    "doc_28349.txt",
+    "doc_28350.txt",
+    "doc_37024.txt",
+    "doc_37017.txt",
+    "doc_28352.txt"
+  ]
+}

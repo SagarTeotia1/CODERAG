@@ -1,0 +1,10 @@
+{
+  "query": "Under what other pen name did Ted Geisel write children’s books before becoming Dr. Seuss?",
+  "response": [
+    "doc_10712.txt",
+    "doc_32852.txt",
+    "doc_32854.txt",
+    "doc_32853.txt",
+    "doc_32857.txt"
+  ]
+}

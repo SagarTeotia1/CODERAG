@@ -1,0 +1,10 @@
+{
+  "query": "In what year and location was the Tennessee Volunteers versus Florida State Seminoles game played, and what was the final score?",
+  "response": [
+    "doc_19109.txt",
+    "doc_32259.txt",
+    "doc_19110.txt",
+    "doc_5462.txt",
+    "doc_32258.txt"
+  ]
+}

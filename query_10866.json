@@ -1,0 +1,10 @@
+{
+  "query": "What is the meaning of the term “avatar” according to Hinduism?",
+  "response": [
+    "doc_36731.txt",
+    "doc_1707.txt",
+    "doc_36726.txt",
+    "doc_36727.txt",
+    "doc_1711.txt"
+  ]
+}

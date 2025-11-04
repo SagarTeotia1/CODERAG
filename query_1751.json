@@ -1,0 +1,10 @@
+{
+  "query": "When was Captain John Smith elected president of the local council?",
+  "response": [
+    "doc_31526.txt",
+    "doc_31527.txt",
+    "doc_31529.txt",
+    "doc_31528.txt",
+    "doc_31530.txt"
+  ]
+}

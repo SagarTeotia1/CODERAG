@@ -1,0 +1,10 @@
+{
+  "query": "What did Fabio Capello write about Cassanata?",
+  "response": [
+    "doc_35019.txt",
+    "doc_35020.txt",
+    "doc_31896.txt",
+    "doc_17999.txt",
+    "doc_31891.txt"
+  ]
+}

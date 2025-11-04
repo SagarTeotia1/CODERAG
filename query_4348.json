@@ -1,0 +1,10 @@
+{
+  "query": "In what state did most of the Red Hot Chili Peppers 1983 Tour take place?",
+  "response": [
+    "doc_33932.txt",
+    "doc_1767.txt",
+    "doc_5922.txt",
+    "doc_2909.txt",
+    "doc_36258.txt"
+  ]
+}

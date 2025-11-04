@@ -1,0 +1,10 @@
+{
+  "query": "Who are the main characters featured in “The story features Víctor Laplace, Pablo Rago, Virginia Innocenti, and others.”?",
+  "response": [
+    "doc_18135.txt",
+    "doc_33662.txt",
+    "doc_1586.txt",
+    "doc_23035.txt",
+    "doc_33659.txt"
+  ]
+}

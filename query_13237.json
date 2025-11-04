@@ -1,0 +1,10 @@
+{
+  "query": "When was the foiled assassination plot against the Ambassador of Saudi Arabia to the United States publicly announced?",
+  "response": [
+    "doc_27121.txt",
+    "doc_27062.txt",
+    "doc_25836.txt",
+    "doc_18207.txt",
+    "doc_11374.txt"
+  ]
+}

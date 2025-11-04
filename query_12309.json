@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the film *Kaliyugaya* directed by Lester James Peries?",
+  "response": [
+    "doc_20865.txt",
+    "doc_20866.txt",
+    "doc_24482.txt",
+    "doc_24483.txt",
+    "doc_24777.txt"
+  ]
+}

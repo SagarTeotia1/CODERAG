@@ -1,0 +1,10 @@
+{
+  "query": "Which newspaper published President Wilson’s inaugural address on March 4, 1913, according to the documents?",
+  "response": [
+    "doc_39299.txt",
+    "doc_39298.txt",
+    "doc_39297.txt",
+    "doc_19379.txt",
+    "doc_33747.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In which films did James Franco voice characters?",
+  "response": [
+    "doc_9352.txt",
+    "doc_22397.txt",
+    "doc_7984.txt",
+    "doc_19042.txt",
+    "doc_21460.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was the budget for EU missions by 2001?",
+  "response": [
+    "doc_3963.txt",
+    "doc_21648.txt",
+    "doc_31164.txt",
+    "doc_15472.txt",
+    "doc_15473.txt"
+  ]
+}

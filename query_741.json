@@ -1,0 +1,10 @@
+{
+  "query": "What year was Nellie Tayloe Ross born?",
+  "response": [
+    "doc_14086.txt",
+    "doc_14090.txt",
+    "doc_14094.txt",
+    "doc_14089.txt",
+    "doc_14084.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In the 2016-17 season, what was a notable record for the Brooklyn Nets?",
+  "response": [
+    "doc_4992.txt",
+    "doc_4997.txt",
+    "doc_9018.txt",
+    "doc_5004.txt",
+    "doc_5001.txt"
+  ]
+}

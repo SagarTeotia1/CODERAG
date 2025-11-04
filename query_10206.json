@@ -1,0 +1,10 @@
+{
+  "query": "Where did Sheffield Wednesday play their home matches during the 1867-68 season?",
+  "response": [
+    "doc_13451.txt",
+    "doc_36776.txt",
+    "doc_13454.txt",
+    "doc_13453.txt",
+    "doc_13449.txt"
+  ]
+}

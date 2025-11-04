@@ -1,0 +1,10 @@
+{
+  "query": "What is the relationship between Appendix A of the Convention and Annex 2 of the Directive?",
+  "response": [
+    "doc_5538.txt",
+    "doc_3880.txt",
+    "doc_17122.txt",
+    "doc_11395.txt",
+    "doc_16808.txt"
+  ]
+}

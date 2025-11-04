@@ -1,0 +1,9 @@
+{
+  "query": "What was the initial message broadcast during VOA’s first broadcast in 1942?",
+  "response": [
+    "doc_24090.txt",
+    "doc_24089.txt",
+    "doc_24092.txt",
+    "doc_24091.txt"
+  ]
+}

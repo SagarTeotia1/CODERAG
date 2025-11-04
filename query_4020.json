@@ -1,0 +1,10 @@
+{
+  "query": "In what geographic regions were Sea Lampreys originally found before their invasion?",
+  "response": [
+    "doc_36982.txt",
+    "doc_36983.txt",
+    "doc_39742.txt",
+    "doc_31491.txt",
+    "doc_25977.txt"
+  ]
+}

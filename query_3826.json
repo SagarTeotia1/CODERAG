@@ -1,0 +1,10 @@
+{
+  "query": "Who led the Polish Legion during the Hungarian army’s campaigns?",
+  "response": [
+    "doc_36503.txt",
+    "doc_35585.txt",
+    "doc_10542.txt",
+    "doc_23963.txt",
+    "doc_3201.txt"
+  ]
+}

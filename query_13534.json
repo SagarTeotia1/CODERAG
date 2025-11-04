@@ -1,0 +1,10 @@
+{
+  "query": "What finding did the EU make regarding Brazilian beef?",
+  "response": [
+    "doc_14599.txt",
+    "doc_23947.txt",
+    "doc_6418.txt",
+    "doc_7478.txt",
+    "doc_40159.txt"
+  ]
+}

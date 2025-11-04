@@ -1,0 +1,10 @@
+{
+  "query": "What is the estimated turnover of the European space industry, and how many highly skilled people does it employ?",
+  "response": [
+    "doc_30008.txt",
+    "doc_34916.txt",
+    "doc_27283.txt",
+    "doc_27284.txt",
+    "doc_32167.txt"
+  ]
+}

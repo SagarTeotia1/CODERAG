@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided text, what is a common characteristic of caddies at a PGA Tour event?",
+  "response": [
+    "doc_8912.txt",
+    "doc_35043.txt",
+    "doc_16418.txt",
+    "doc_35042.txt",
+    "doc_8914.txt"
+  ]
+}

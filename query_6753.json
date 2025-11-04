@@ -1,0 +1,10 @@
+{
+  "query": "Is the Commission aware of the existence of Iberdrola’s electricity sub-station in Patraix (Valencia, Spain)?",
+  "response": [
+    "doc_7280.txt",
+    "doc_38050.txt",
+    "doc_21339.txt",
+    "doc_1884.txt",
+    "doc_38210.txt"
+  ]
+}

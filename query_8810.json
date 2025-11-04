@@ -1,0 +1,10 @@
+{
+  "query": "How long has Jack Nicholson been attending Lakers games as a courtside fan?",
+  "response": [
+    "doc_6769.txt",
+    "doc_24707.txt",
+    "doc_37088.txt",
+    "doc_28152.txt",
+    "doc_22348.txt"
+  ]
+}

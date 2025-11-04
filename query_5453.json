@@ -1,0 +1,10 @@
+{
+  "query": "What is the contact information for the Portuguese authority responsible for managing the ‘Regional do Norte’ programme?",
+  "response": [
+    "doc_40306.txt",
+    "doc_34197.txt",
+    "doc_10614.txt",
+    "doc_7260.txt",
+    "doc_33816.txt"
+  ]
+}

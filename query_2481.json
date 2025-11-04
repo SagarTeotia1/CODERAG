@@ -1,0 +1,10 @@
+{
+  "query": "In what century did William Harvey dissect Sir Froggie?",
+  "response": [
+    "doc_4551.txt",
+    "doc_20357.txt",
+    "doc_1983.txt",
+    "doc_1981.txt",
+    "doc_1980.txt"
+  ]
+}

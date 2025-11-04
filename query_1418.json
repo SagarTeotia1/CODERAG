@@ -1,0 +1,10 @@
+{
+  "query": "What types of stops were excluded from the Dutch test when determining driving time?",
+  "response": [
+    "doc_30750.txt",
+    "doc_22077.txt",
+    "doc_6818.txt",
+    "doc_6817.txt",
+    "doc_28544.txt"
+  ]
+}

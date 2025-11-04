@@ -1,0 +1,10 @@
+{
+  "query": "What specific legal basis is being questioned regarding the exchange of letters between the Commission and the US Department of Commerce?",
+  "response": [
+    "doc_26448.txt",
+    "doc_30409.txt",
+    "doc_10128.txt",
+    "doc_4457.txt",
+    "doc_7373.txt"
+  ]
+}

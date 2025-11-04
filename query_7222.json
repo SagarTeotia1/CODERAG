@@ -1,0 +1,10 @@
+{
+  "query": "In what year did the Little Rock Rangers Soccer Club begin playing its inaugural season?",
+  "response": [
+    "doc_14700.txt",
+    "doc_810.txt",
+    "doc_22164.txt",
+    "doc_14705.txt",
+    "doc_17830.txt"
+  ]
+}

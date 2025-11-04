@@ -1,0 +1,10 @@
+{
+  "query": "What is the trend in the quantity of sulphuryl fluoride being used in the EU?",
+  "response": [
+    "doc_29568.txt",
+    "doc_7600.txt",
+    "doc_4989.txt",
+    "doc_37286.txt",
+    "doc_4019.txt"
+  ]
+}

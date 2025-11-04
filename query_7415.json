@@ -1,0 +1,10 @@
+{
+  "query": "Who did Linda Thompson meet while serving in the army?",
+  "response": [
+    "doc_8875.txt",
+    "doc_8880.txt",
+    "doc_8878.txt",
+    "doc_8877.txt",
+    "doc_8876.txt"
+  ]
+}

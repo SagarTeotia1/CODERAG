@@ -1,0 +1,10 @@
+{
+  "query": "During which period did the uprising in the Warsaw Ghetto take place?",
+  "response": [
+    "doc_830.txt",
+    "doc_829.txt",
+    "doc_24967.txt",
+    "doc_24966.txt",
+    "doc_831.txt"
+  ]
+}

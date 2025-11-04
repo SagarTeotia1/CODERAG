@@ -1,0 +1,10 @@
+{
+  "query": "What is the maximum admissible value for cash according to the UK legislation?",
+  "response": [
+    "doc_913.txt",
+    "doc_912.txt",
+    "doc_897.txt",
+    "doc_910.txt",
+    "doc_891.txt"
+  ]
+}

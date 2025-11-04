@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Nicollier's final spaceflight (STS-103) occur?",
+  "response": [
+    "doc_23167.txt",
+    "doc_23168.txt",
+    "doc_20957.txt",
+    "doc_16694.txt",
+    "doc_20955.txt"
+  ]
+}

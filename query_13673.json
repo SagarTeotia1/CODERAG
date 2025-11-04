@@ -1,0 +1,10 @@
+{
+  "query": "When did Daisy Gordon join the organization?",
+  "response": [
+    "doc_24301.txt",
+    "doc_24302.txt",
+    "doc_24303.txt",
+    "doc_24305.txt",
+    "doc_24300.txt"
+  ]
+}

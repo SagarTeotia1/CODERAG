@@ -1,0 +1,10 @@
+{
+  "query": "What was A.A. Milne’s birth year?",
+  "response": [
+    "doc_28407.txt",
+    "doc_28408.txt",
+    "doc_28410.txt",
+    "doc_28405.txt",
+    "doc_28403.txt"
+  ]
+}

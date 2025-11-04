@@ -1,0 +1,10 @@
+{
+  "query": "What type of company is Philips Consumer Lifestyle?",
+  "response": [
+    "doc_32907.txt",
+    "doc_32905.txt",
+    "doc_32896.txt",
+    "doc_32902.txt",
+    "doc_32906.txt"
+  ]
+}

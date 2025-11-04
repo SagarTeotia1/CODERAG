@@ -1,0 +1,10 @@
+{
+  "query": "Which organization is responsible for implementing and managing the Scottish ESF Operational Programmes, including payments to beneficiaries?",
+  "response": [
+    "doc_32588.txt",
+    "doc_25162.txt",
+    "doc_35270.txt",
+    "doc_25161.txt",
+    "doc_18628.txt"
+  ]
+}

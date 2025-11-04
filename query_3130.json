@@ -1,0 +1,10 @@
+{
+  "query": "How many rings of Uranus were discovered?",
+  "response": [
+    "doc_34898.txt",
+    "doc_34903.txt",
+    "doc_34896.txt",
+    "doc_34900.txt",
+    "doc_34897.txt"
+  ]
+}

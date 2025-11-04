@@ -1,0 +1,10 @@
+{
+  "query": "To whom is the President of the European Court of Human Rights instructed to forward the resolution?",
+  "response": [
+    "doc_11598.txt",
+    "doc_26531.txt",
+    "doc_26266.txt",
+    "doc_10359.txt",
+    "doc_26529.txt"
+  ]
+}

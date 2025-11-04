@@ -1,0 +1,10 @@
+{
+  "query": "What is the relationship between The Tetris Company and The Tetris Company, LLC?",
+  "response": [
+    "doc_9789.txt",
+    "doc_10578.txt",
+    "doc_17414.txt",
+    "doc_10579.txt",
+    "doc_10573.txt"
+  ]
+}

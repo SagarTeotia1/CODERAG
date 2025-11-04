@@ -1,0 +1,10 @@
+{
+  "query": "How many health claims has the European Food Safety Authority (EFSA) evaluated and published opinions on?",
+  "response": [
+    "doc_32021.txt",
+    "doc_32022.txt",
+    "doc_30752.txt",
+    "doc_4068.txt",
+    "doc_17733.txt"
+  ]
+}

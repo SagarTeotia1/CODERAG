@@ -1,0 +1,10 @@
+{
+  "query": "In what year did “Roman Holiday” and “Sabrina” premiere?",
+  "response": [
+    "doc_12939.txt",
+    "doc_32284.txt",
+    "doc_12944.txt",
+    "doc_12937.txt",
+    "doc_32287.txt"
+  ]
+}

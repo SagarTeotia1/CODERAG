@@ -1,0 +1,10 @@
+{
+  "query": "What types of materials have been reported to be used as fuel in the bread production process in Romania?",
+  "response": [
+    "doc_24952.txt",
+    "doc_18760.txt",
+    "doc_2846.txt",
+    "doc_6391.txt",
+    "doc_40086.txt"
+  ]
+}

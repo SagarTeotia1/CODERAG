@@ -1,0 +1,10 @@
+{
+  "query": "Has BYU won the Mountain West Conference tournament since 1999?",
+  "response": [
+    "doc_22169.txt",
+    "doc_6897.txt",
+    "doc_6898.txt",
+    "doc_6901.txt",
+    "doc_9019.txt"
+  ]
+}

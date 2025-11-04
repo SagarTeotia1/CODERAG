@@ -1,0 +1,10 @@
+{
+  "query": "What types of accommodations are available in Bimini, and what are they like?",
+  "response": [
+    "doc_14610.txt",
+    "doc_14611.txt",
+    "doc_17773.txt",
+    "doc_312.txt",
+    "doc_313.txt"
+  ]
+}

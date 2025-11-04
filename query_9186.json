@@ -1,0 +1,10 @@
+{
+  "query": "In what television series did Shaun Scott play the role of DI Chris Deakin?",
+  "response": [
+    "doc_5085.txt",
+    "doc_5084.txt",
+    "doc_5083.txt",
+    "doc_5086.txt",
+    "doc_32018.txt"
+  ]
+}

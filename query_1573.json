@@ -1,0 +1,10 @@
+{
+  "query": "What year was Oswald born?",
+  "response": [
+    "doc_31135.txt",
+    "doc_31133.txt",
+    "doc_31139.txt",
+    "doc_31132.txt",
+    "doc_31136.txt"
+  ]
+}

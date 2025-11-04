@@ -1,0 +1,10 @@
+{
+  "query": "What was the increase in New York City’s entertainment industry’s annual direct spend since 2002, as reported by an economic impact study?",
+  "response": [
+    "doc_39625.txt",
+    "doc_1139.txt",
+    "doc_35218.txt",
+    "doc_27503.txt",
+    "doc_13941.txt"
+  ]
+}

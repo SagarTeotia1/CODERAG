@@ -1,0 +1,10 @@
+{
+  "query": "What criteria must be met for aid to be provided to airports, according to the Commission?",
+  "response": [
+    "doc_14069.txt",
+    "doc_40093.txt",
+    "doc_22216.txt",
+    "doc_31498.txt",
+    "doc_36962.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When was maize MON810 first cultivated in the European Union?",
+  "response": [
+    "doc_23058.txt",
+    "doc_2720.txt",
+    "doc_5259.txt",
+    "doc_17400.txt",
+    "doc_26825.txt"
+  ]
+}

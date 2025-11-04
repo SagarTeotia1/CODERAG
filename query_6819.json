@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of EU production does caught bluefin tuna represent?",
+  "response": [
+    "doc_7428.txt",
+    "doc_7427.txt",
+    "doc_28594.txt",
+    "doc_37452.txt",
+    "doc_17579.txt"
+  ]
+}

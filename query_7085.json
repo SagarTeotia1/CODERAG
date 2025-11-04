@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how many irregular migrants cross the Mediterranean each year?",
+  "response": [
+    "doc_8112.txt",
+    "doc_4542.txt",
+    "doc_37485.txt",
+    "doc_8113.txt",
+    "doc_19372.txt"
+  ]
+}

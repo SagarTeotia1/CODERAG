@@ -1,0 +1,10 @@
+{
+  "query": "In what city and country is Samuel Smith’s Old Brewery located?",
+  "response": [
+    "doc_10396.txt",
+    "doc_13454.txt",
+    "doc_13451.txt",
+    "doc_12267.txt",
+    "doc_13453.txt"
+  ]
+}

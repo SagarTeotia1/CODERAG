@@ -1,0 +1,10 @@
+{
+  "query": "What types of recipes are featured in Mrs. Hill’s New Family Receipt Book?",
+  "response": [
+    "doc_22034.txt",
+    "doc_19229.txt",
+    "doc_22033.txt",
+    "doc_12719.txt",
+    "doc_32788.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year was Sheridan Snyder ranked No. 1 in the world?",
+  "response": [
+    "doc_31012.txt",
+    "doc_1468.txt",
+    "doc_24647.txt",
+    "doc_24645.txt",
+    "doc_32301.txt"
+  ]
+}

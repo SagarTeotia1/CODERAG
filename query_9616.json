@@ -1,0 +1,10 @@
+{
+  "query": "What book tells the story of Dick Beardsley and Alberto Salazar following their experiences in the 1982 Boston Marathon?",
+  "response": [
+    "doc_35067.txt",
+    "doc_11431.txt",
+    "doc_11433.txt",
+    "doc_11432.txt",
+    "doc_35065.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission’s current position regarding payments to Romania?",
+  "response": [
+    "doc_37562.txt",
+    "doc_2013.txt",
+    "doc_18032.txt",
+    "doc_6964.txt",
+    "doc_28418.txt"
+  ]
+}

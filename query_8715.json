@@ -1,0 +1,10 @@
+{
+  "query": "Which gold mine in Lumpkin County, Georgia, was known for contributing gold to the Georgia State Capitol’s dome?",
+  "response": [
+    "doc_19086.txt",
+    "doc_19087.txt",
+    "doc_38610.txt",
+    "doc_39884.txt",
+    "doc_19091.txt"
+  ]
+}

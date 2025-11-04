@@ -1,0 +1,10 @@
+{
+  "query": "What is James Ballard’s profession as described in the passage?",
+  "response": [
+    "doc_8705.txt",
+    "doc_1963.txt",
+    "doc_8108.txt",
+    "doc_3038.txt",
+    "doc_30045.txt"
+  ]
+}

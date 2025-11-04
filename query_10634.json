@@ -1,0 +1,10 @@
+{
+  "query": "When did The Beatles first appear on American television?",
+  "response": [
+    "doc_39920.txt",
+    "doc_38661.txt",
+    "doc_38659.txt",
+    "doc_39922.txt",
+    "doc_21867.txt"
+  ]
+}

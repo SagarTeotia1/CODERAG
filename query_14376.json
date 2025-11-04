@@ -1,0 +1,10 @@
+{
+  "query": "What type of music does Rebecca Lawman’s band provide?",
+  "response": [
+    "doc_8176.txt",
+    "doc_2993.txt",
+    "doc_31844.txt",
+    "doc_22335.txt",
+    "doc_32068.txt"
+  ]
+}

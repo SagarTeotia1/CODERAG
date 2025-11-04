@@ -1,0 +1,10 @@
+{
+  "query": "Which minerals, according to the OECD, have the potential to exacerbate regional conflict in the Democratic Republic of Congo?",
+  "response": [
+    "doc_22688.txt",
+    "doc_12191.txt",
+    "doc_35234.txt",
+    "doc_35231.txt",
+    "doc_26599.txt"
+  ]
+}

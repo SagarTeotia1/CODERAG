@@ -1,0 +1,10 @@
+{
+  "query": "When and where was John Russell born?",
+  "response": [
+    "doc_32943.txt",
+    "doc_25864.txt",
+    "doc_12168.txt",
+    "doc_20510.txt",
+    "doc_32944.txt"
+  ]
+}

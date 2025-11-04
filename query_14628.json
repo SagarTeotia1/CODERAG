@@ -1,0 +1,10 @@
+{
+  "query": "Through which channels does the EMEA receive reports of adverse reactions related to the vaccines?",
+  "response": [
+    "doc_14586.txt",
+    "doc_26676.txt",
+    "doc_18.txt",
+    "doc_14587.txt",
+    "doc_5900.txt"
+  ]
+}

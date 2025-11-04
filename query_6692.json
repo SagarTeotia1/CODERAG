@@ -1,0 +1,10 @@
+{
+  "query": "Who was Senior Vice President of Software Development at Square Enix?",
+  "response": [
+    "doc_6599.txt",
+    "doc_6597.txt",
+    "doc_32988.txt",
+    "doc_2179.txt",
+    "doc_6598.txt"
+  ]
+}

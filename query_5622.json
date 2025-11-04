@@ -1,0 +1,10 @@
+{
+  "query": "In what country was Schweitzer working when he received the Nobel Prize for Peace?",
+  "response": [
+    "doc_437.txt",
+    "doc_440.txt",
+    "doc_438.txt",
+    "doc_435.txt",
+    "doc_436.txt"
+  ]
+}

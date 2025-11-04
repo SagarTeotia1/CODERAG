@@ -1,0 +1,10 @@
+{
+  "query": "What characteristic is attributed to Jerry Seinfeld in the provided text, differentiating him from other characters?",
+  "response": [
+    "doc_4032.txt",
+    "doc_22484.txt",
+    "doc_4037.txt",
+    "doc_4031.txt",
+    "doc_22488.txt"
+  ]
+}

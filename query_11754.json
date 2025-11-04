@@ -1,0 +1,10 @@
+{
+  "query": "What is Scarlet’s color?",
+  "response": [
+    "doc_21005.txt",
+    "doc_33936.txt",
+    "doc_33935.txt",
+    "doc_10454.txt",
+    "doc_21001.txt"
+  ]
+}

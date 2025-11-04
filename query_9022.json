@@ -1,0 +1,10 @@
+{
+  "query": "From Cree words “win nipee” meaning muddy water, what is the capital of Manitoba?",
+  "response": [
+    "doc_1240.txt",
+    "doc_33355.txt",
+    "doc_33356.txt",
+    "doc_33357.txt",
+    "doc_33359.txt"
+  ]
+}

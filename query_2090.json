@@ -1,0 +1,10 @@
+{
+  "query": "What types of subsidies does the US Department of Defense provide to Boeing related to dual-use technologies?",
+  "response": [
+    "doc_32451.txt",
+    "doc_20291.txt",
+    "doc_20292.txt",
+    "doc_5910.txt",
+    "doc_26448.txt"
+  ]
+}

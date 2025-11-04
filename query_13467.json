@@ -1,0 +1,10 @@
+{
+  "query": "Which actors appear in the film \"White Fang\"?",
+  "response": [
+    "doc_31748.txt",
+    "doc_24019.txt",
+    "doc_19040.txt",
+    "doc_34457.txt",
+    "doc_13232.txt"
+  ]
+}

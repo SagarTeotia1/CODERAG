@@ -1,0 +1,10 @@
+{
+  "query": "What is the Basilica di Santa Maria Maggiore’s significance in Rome, Italy?",
+  "response": [
+    "doc_30015.txt",
+    "doc_30014.txt",
+    "doc_33016.txt",
+    "doc_30012.txt",
+    "doc_3585.txt"
+  ]
+}

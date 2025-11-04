@@ -1,0 +1,10 @@
+{
+  "query": "Which Member State received the largest amount in Cohesion Fund payments according to the table?",
+  "response": [
+    "doc_35269.txt",
+    "doc_19211.txt",
+    "doc_15485.txt",
+    "doc_3552.txt",
+    "doc_2514.txt"
+  ]
+}

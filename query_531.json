@@ -1,0 +1,10 @@
+{
+  "query": "What publication produced the Four Color series featuring Donald Duck?",
+  "response": [
+    "doc_5211.txt",
+    "doc_22397.txt",
+    "doc_5209.txt",
+    "doc_22398.txt",
+    "doc_5217.txt"
+  ]
+}

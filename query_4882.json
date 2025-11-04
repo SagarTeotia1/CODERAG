@@ -1,0 +1,10 @@
+{
+  "query": "What language(s) do airport officials at CDG airport primarily speak?",
+  "response": [
+    "doc_39095.txt",
+    "doc_5078.txt",
+    "doc_22217.txt",
+    "doc_28908.txt",
+    "doc_39839.txt"
+  ]
+}

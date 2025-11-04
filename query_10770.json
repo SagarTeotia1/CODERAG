@@ -1,0 +1,10 @@
+{
+  "query": "What is the Little Caesars mascot’s appearance described in the text?",
+  "response": [
+    "doc_17012.txt",
+    "doc_13708.txt",
+    "doc_13704.txt",
+    "doc_13710.txt",
+    "doc_13707.txt"
+  ]
+}

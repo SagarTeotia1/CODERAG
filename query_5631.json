@@ -1,0 +1,10 @@
+{
+  "query": "How many Americans fought for the Republicans in the Spanish Civil War?",
+  "response": [
+    "doc_4369.txt",
+    "doc_4368.txt",
+    "doc_4370.txt",
+    "doc_4376.txt",
+    "doc_4375.txt"
+  ]
+}

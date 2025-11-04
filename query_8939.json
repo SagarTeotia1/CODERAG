@@ -1,0 +1,10 @@
+{
+  "query": "What is the Gateway Arch's height in feet?",
+  "response": [
+    "doc_12656.txt",
+    "doc_12661.txt",
+    "doc_12660.txt",
+    "doc_12662.txt",
+    "doc_12659.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the novel that Thomas Wolfe wrote before his last two major novels were published?",
+  "response": [
+    "doc_4302.txt",
+    "doc_4298.txt",
+    "doc_4303.txt",
+    "doc_4301.txt",
+    "doc_4306.txt"
+  ]
+}

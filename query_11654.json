@@ -1,0 +1,10 @@
+{
+  "query": "How are stocks traded that are not listed on a recognized stock exchange (like OTC stocks)?",
+  "response": [
+    "doc_19298.txt",
+    "doc_19302.txt",
+    "doc_19300.txt",
+    "doc_19299.txt",
+    "doc_19301.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Where did Muharrem Erbey make speeches criticizing the Turkish State?",
+  "response": [
+    "doc_23872.txt",
+    "doc_10661.txt",
+    "doc_23873.txt",
+    "doc_10663.txt",
+    "doc_37114.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What style of drama was “Beggar on Horseback” influenced by?",
+  "response": [
+    "doc_18257.txt",
+    "doc_9758.txt",
+    "doc_9756.txt",
+    "doc_9762.txt",
+    "doc_36735.txt"
+  ]
+}

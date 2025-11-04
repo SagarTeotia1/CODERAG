@@ -1,0 +1,10 @@
+{
+  "query": "What year was the film *The Cannonball Run* released?",
+  "response": [
+    "doc_33008.txt",
+    "doc_33004.txt",
+    "doc_33007.txt",
+    "doc_33006.txt",
+    "doc_33011.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Who was initially responsible for handling the situation following Dr. Wykes’s arrest?",
+  "response": [
+    "doc_27553.txt",
+    "doc_27547.txt",
+    "doc_27545.txt",
+    "doc_27546.txt",
+    "doc_27543.txt"
+  ]
+}

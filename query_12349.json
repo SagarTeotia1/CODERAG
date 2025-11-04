@@ -1,0 +1,10 @@
+{
+  "query": "What album did the song “Sun” by Two Door Cinema Club appear on?",
+  "response": [
+    "doc_20987.txt",
+    "doc_19373.txt",
+    "doc_12124.txt",
+    "doc_4663.txt",
+    "doc_4664.txt"
+  ]
+}

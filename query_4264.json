@@ -1,0 +1,10 @@
+{
+  "query": "What was the final score of the Borussia Mönchengladbach vs. Borussia Dortmund match in 1978?",
+  "response": [
+    "doc_12466.txt",
+    "doc_30896.txt",
+    "doc_12458.txt",
+    "doc_30900.txt",
+    "doc_26184.txt"
+  ]
+}

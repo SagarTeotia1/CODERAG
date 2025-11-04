@@ -1,0 +1,10 @@
+{
+  "query": "According to the texts, what animals are traditionally associated with the Gospels of Mark and Matthew?",
+  "response": [
+    "doc_27984.txt",
+    "doc_27982.txt",
+    "doc_27983.txt",
+    "doc_27981.txt",
+    "doc_27985.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the primary goal of the funding sought by the municipality of Terni?",
+  "response": [
+    "doc_6779.txt",
+    "doc_3964.txt",
+    "doc_13650.txt",
+    "doc_16926.txt",
+    "doc_31270.txt"
+  ]
+}

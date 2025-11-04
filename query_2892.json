@@ -1,0 +1,10 @@
+{
+  "query": "Which actress, known for her role in *Jia Zhang-ke* films, starred in a film described as “internationally acclaimed”?",
+  "response": [
+    "doc_24198.txt",
+    "doc_11942.txt",
+    "doc_31750.txt",
+    "doc_9362.txt",
+    "doc_11944.txt"
+  ]
+}

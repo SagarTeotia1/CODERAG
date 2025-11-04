@@ -1,0 +1,10 @@
+{
+  "query": "What is the duration of the Cheyenne Frontier Days festival?",
+  "response": [
+    "doc_6186.txt",
+    "doc_6182.txt",
+    "doc_6180.txt",
+    "doc_6181.txt",
+    "doc_6183.txt"
+  ]
+}

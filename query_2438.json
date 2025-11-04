@@ -1,0 +1,10 @@
+{
+  "query": "What dynasty dominated Inner Asia during the 13th and 14th centuries?",
+  "response": [
+    "doc_1799.txt",
+    "doc_1797.txt",
+    "doc_1794.txt",
+    "doc_1796.txt",
+    "doc_1798.txt"
+  ]
+}

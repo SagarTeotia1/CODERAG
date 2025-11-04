@@ -1,0 +1,10 @@
+{
+  "query": "When did the EU Foreign Ministers meet to discuss the Middle East situation?",
+  "response": [
+    "doc_20817.txt",
+    "doc_36674.txt",
+    "doc_3935.txt",
+    "doc_17517.txt",
+    "doc_20670.txt"
+  ]
+}

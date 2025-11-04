@@ -1,0 +1,10 @@
+{
+  "query": "What position did Brian Ernst play in baseball?",
+  "response": [
+    "doc_8294.txt",
+    "doc_31474.txt",
+    "doc_17390.txt",
+    "doc_9260.txt",
+    "doc_32184.txt"
+  ]
+}

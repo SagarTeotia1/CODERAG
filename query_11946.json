@@ -1,0 +1,10 @@
+{
+  "query": "What is the age of Dolores Haze when Humbert Humbert first meets her?",
+  "response": [
+    "doc_20125.txt",
+    "doc_20128.txt",
+    "doc_20123.txt",
+    "doc_20127.txt",
+    "doc_20121.txt"
+  ]
+}

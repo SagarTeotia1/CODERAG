@@ -1,0 +1,10 @@
+{
+  "query": "What has been the inflation rate in Greece since 2001, and what is the projected inflation rate for 2007 and 2008?",
+  "response": [
+    "doc_39232.txt",
+    "doc_14291.txt",
+    "doc_16839.txt",
+    "doc_31761.txt",
+    "doc_8475.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "For what event was “Billionaire” included in Travie McCoy’s performance?",
+  "response": [
+    "doc_23531.txt",
+    "doc_23532.txt",
+    "doc_16907.txt",
+    "doc_9987.txt",
+    "doc_9988.txt"
+  ]
+}

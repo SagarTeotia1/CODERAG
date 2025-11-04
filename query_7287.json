@@ -1,0 +1,10 @@
+{
+  "query": "What type of musical was \"The Runaways\"?",
+  "response": [
+    "doc_7695.txt",
+    "doc_7696.txt",
+    "doc_7693.txt",
+    "doc_16817.txt",
+    "doc_7694.txt"
+  ]
+}

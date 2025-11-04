@@ -1,0 +1,10 @@
+{
+  "query": "What specific allegation is being made against Italy regarding freedom of expression?",
+  "response": [
+    "doc_2347.txt",
+    "doc_2348.txt",
+    "doc_25318.txt",
+    "doc_34914.txt",
+    "doc_10115.txt"
+  ]
+}

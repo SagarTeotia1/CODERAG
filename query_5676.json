@@ -1,0 +1,10 @@
+{
+  "query": "On what date did a blog post discuss “The Twelve Days of Christmas Cookie Project, A Partridge in a Pear Tree”?",
+  "response": [
+    "doc_4500.txt",
+    "doc_4499.txt",
+    "doc_4498.txt",
+    "doc_4501.txt",
+    "doc_18356.txt"
+  ]
+}

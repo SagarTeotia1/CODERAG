@@ -1,0 +1,10 @@
+{
+  "query": "In what year was Daniel Eldredge chosen as Surveyor?",
+  "response": [
+    "doc_1968.txt",
+    "doc_2055.txt",
+    "doc_11175.txt",
+    "doc_11176.txt",
+    "doc_11180.txt"
+  ]
+}

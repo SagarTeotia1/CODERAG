@@ -1,0 +1,10 @@
+{
+  "query": "What was Stein Ørnhøi’s political party affiliation?",
+  "response": [
+    "doc_8205.txt",
+    "doc_32957.txt",
+    "doc_23051.txt",
+    "doc_40162.txt",
+    "doc_40160.txt"
+  ]
+}

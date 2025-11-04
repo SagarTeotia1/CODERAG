@@ -1,0 +1,10 @@
+{
+  "query": "What was the name of the hospital where Dr. Jack Morrison worked in the television series *St. Elsewhere*?",
+  "response": [
+    "doc_3476.txt",
+    "doc_3483.txt",
+    "doc_3479.txt",
+    "doc_3480.txt",
+    "doc_3477.txt"
+  ]
+}

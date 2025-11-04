@@ -1,0 +1,10 @@
+{
+  "query": "When did Dr. Christiaan Barnard perform the world’s first human heart transplant?",
+  "response": [
+    "doc_40244.txt",
+    "doc_40245.txt",
+    "doc_40243.txt",
+    "doc_40242.txt",
+    "doc_40247.txt"
+  ]
+}

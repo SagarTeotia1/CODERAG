@@ -1,0 +1,10 @@
+{
+  "query": "Does the conversion of the power station from oil to coal violate the Kyoto Protocol?",
+  "response": [
+    "doc_34168.txt",
+    "doc_14633.txt",
+    "doc_31741.txt",
+    "doc_11714.txt",
+    "doc_35878.txt"
+  ]
+}

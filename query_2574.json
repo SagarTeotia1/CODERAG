@@ -1,0 +1,10 @@
+{
+  "query": "In what year were the 2021 Mediterranean Games held, and in which city?",
+  "response": [
+    "doc_33680.txt",
+    "doc_18072.txt",
+    "doc_18067.txt",
+    "doc_4573.txt",
+    "doc_4575.txt"
+  ]
+}

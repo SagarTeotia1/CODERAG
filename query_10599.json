@@ -1,0 +1,10 @@
+{
+  "query": "How is the number “one billion” represented in the United States, as described in the passage?",
+  "response": [
+    "doc_16647.txt",
+    "doc_16646.txt",
+    "doc_16650.txt",
+    "doc_16648.txt",
+    "doc_16649.txt"
+  ]
+}

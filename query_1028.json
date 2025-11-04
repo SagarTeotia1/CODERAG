@@ -1,0 +1,10 @@
+{
+  "query": "What is the EU’s policy regarding reporting concerns about sexual exploitation and abuse?",
+  "response": [
+    "doc_29837.txt",
+    "doc_29838.txt",
+    "doc_36286.txt",
+    "doc_36502.txt",
+    "doc_4267.txt"
+  ]
+}

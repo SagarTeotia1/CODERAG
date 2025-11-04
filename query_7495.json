@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Hannibal defeat the Romans at the Trebia River?",
+  "response": [
+    "doc_9074.txt",
+    "doc_9071.txt",
+    "doc_9078.txt",
+    "doc_9075.txt",
+    "doc_9072.txt"
+  ]
+}

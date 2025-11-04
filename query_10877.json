@@ -1,0 +1,10 @@
+{
+  "query": "The passage mentions ten prominent incarnations of Vishnu; what are they commonly referred to as?",
+  "response": [
+    "doc_1707.txt",
+    "doc_1709.txt",
+    "doc_36732.txt",
+    "doc_36731.txt",
+    "doc_36730.txt"
+  ]
+}

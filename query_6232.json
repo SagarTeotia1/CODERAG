@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission’s stance on the Canadian request for a panel regarding the EU’s seal product ban?",
+  "response": [
+    "doc_5914.txt",
+    "doc_24558.txt",
+    "doc_3371.txt",
+    "doc_39195.txt",
+    "doc_10243.txt"
+  ]
+}

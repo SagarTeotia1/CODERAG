@@ -1,0 +1,10 @@
+{
+  "query": "What action did BaFin take regarding an advertisement by ELAS in 2000, and what was the primary reason for their intervention?",
+  "response": [
+    "doc_1056.txt",
+    "doc_1000.txt",
+    "doc_1047.txt",
+    "doc_999.txt",
+    "doc_1002.txt"
+  ]
+}

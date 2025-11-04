@@ -1,0 +1,10 @@
+{
+  "query": "Is the Commission aware of the existence of unsatisfactory prison systems in European Union countries?",
+  "response": [
+    "doc_35028.txt",
+    "doc_26631.txt",
+    "doc_11766.txt",
+    "doc_18088.txt",
+    "doc_38119.txt"
+  ]
+}

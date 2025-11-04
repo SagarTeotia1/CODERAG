@@ -1,0 +1,10 @@
+{
+  "query": "From what years did Bob Saget host “America’s Funniest Home Videos”?",
+  "response": [
+    "doc_22883.txt",
+    "doc_22882.txt",
+    "doc_1357.txt",
+    "doc_27870.txt",
+    "doc_35865.txt"
+  ]
+}

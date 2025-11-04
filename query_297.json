@@ -1,0 +1,10 @@
+{
+  "query": "How many people died in the Piper Alpha disaster?",
+  "response": [
+    "doc_34835.txt",
+    "doc_20956.txt",
+    "doc_16134.txt",
+    "doc_20953.txt",
+    "doc_20954.txt"
+  ]
+}

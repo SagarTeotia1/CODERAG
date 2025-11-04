@@ -1,0 +1,10 @@
+{
+  "query": "What is the estimated annual cost of equipment theft in Europe?",
+  "response": [
+    "doc_621.txt",
+    "doc_31489.txt",
+    "doc_40226.txt",
+    "doc_16910.txt",
+    "doc_34233.txt"
+  ]
+}

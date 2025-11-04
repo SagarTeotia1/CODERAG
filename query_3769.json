@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Kathryn Doby make her Broadway debut?",
+  "response": [
+    "doc_3607.txt",
+    "doc_13205.txt",
+    "doc_12939.txt",
+    "doc_16428.txt",
+    "doc_16427.txt"
+  ]
+}

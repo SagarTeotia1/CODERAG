@@ -1,0 +1,10 @@
+{
+  "query": "Which television show did Vic Perrin work on for 23 years?",
+  "response": [
+    "doc_32969.txt",
+    "doc_32968.txt",
+    "doc_26962.txt",
+    "doc_3476.txt",
+    "doc_3138.txt"
+  ]
+}

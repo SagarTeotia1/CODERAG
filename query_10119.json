@@ -1,0 +1,10 @@
+{
+  "query": "How many different coaching positions has Wright held?",
+  "response": [
+    "doc_15446.txt",
+    "doc_25629.txt",
+    "doc_25623.txt",
+    "doc_25625.txt",
+    "doc_25624.txt"
+  ]
+}

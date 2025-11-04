@@ -1,0 +1,10 @@
+{
+  "query": "According to Leviticus 19:18, how should you treat your neighbor?",
+  "response": [
+    "doc_22526.txt",
+    "doc_22534.txt",
+    "doc_22527.txt",
+    "doc_22528.txt",
+    "doc_22529.txt"
+  ]
+}

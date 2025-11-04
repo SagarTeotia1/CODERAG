@@ -1,0 +1,10 @@
+{
+  "query": "Which landmark is located near the Kowloon Public Pier?",
+  "response": [
+    "doc_33354.txt",
+    "doc_3410.txt",
+    "doc_3405.txt",
+    "doc_3409.txt",
+    "doc_5059.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the primary purpose of the air cruise’s route through Eastern Europe, as stated in the text?",
+  "response": [
+    "doc_22591.txt",
+    "doc_30004.txt",
+    "doc_23766.txt",
+    "doc_2423.txt",
+    "doc_18097.txt"
+  ]
+}

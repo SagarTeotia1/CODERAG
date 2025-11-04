@@ -1,0 +1,10 @@
+{
+  "query": "What was the French designation for resistance fighters during World War II?",
+  "response": [
+    "doc_11223.txt",
+    "doc_5838.txt",
+    "doc_29787.txt",
+    "doc_9673.txt",
+    "doc_13836.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What types of adventures does James Bond experience?",
+  "response": [
+    "doc_7268.txt",
+    "doc_27360.txt",
+    "doc_27361.txt",
+    "doc_7263.txt",
+    "doc_27359.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was the estimated turnover of fair-trade products in Europe in 1997?",
+  "response": [
+    "doc_32811.txt",
+    "doc_35278.txt",
+    "doc_207.txt",
+    "doc_3567.txt",
+    "doc_22940.txt"
+  ]
+}

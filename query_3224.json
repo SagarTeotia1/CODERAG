@@ -1,0 +1,10 @@
+{
+  "query": "Which team defeated the Detroit Tigers in the American League Division Series in 2013, and how many games did the series last?",
+  "response": [
+    "doc_325.txt",
+    "doc_4760.txt",
+    "doc_4757.txt",
+    "doc_22161.txt",
+    "doc_4758.txt"
+  ]
+}

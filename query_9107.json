@@ -1,0 +1,10 @@
+{
+  "query": "What is the title of the piece described as Kai Neville’s “magnum opus”?",
+  "response": [
+    "doc_3427.txt",
+    "doc_25018.txt",
+    "doc_1642.txt",
+    "doc_4152.txt",
+    "doc_25017.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was the population of Tuttington according to the 2011 Census?",
+  "response": [
+    "doc_22887.txt",
+    "doc_22884.txt",
+    "doc_6115.txt",
+    "doc_12688.txt",
+    "doc_22886.txt"
+  ]
+}

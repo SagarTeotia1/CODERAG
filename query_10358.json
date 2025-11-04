@@ -1,0 +1,10 @@
+{
+  "query": "What is the overall goal of the Commission’s current action regarding cormorant population data?",
+  "response": [
+    "doc_36571.txt",
+    "doc_16127.txt",
+    "doc_7690.txt",
+    "doc_31525.txt",
+    "doc_28605.txt"
+  ]
+}

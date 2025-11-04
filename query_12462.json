@@ -1,0 +1,10 @@
+{
+  "query": "Which organization donated around $5000 to the National Insulator Association?",
+  "response": [
+    "doc_24205.txt",
+    "doc_24206.txt",
+    "doc_7449.txt",
+    "doc_24204.txt",
+    "doc_27496.txt"
+  ]
+}

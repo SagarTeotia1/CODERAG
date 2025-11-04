@@ -1,0 +1,10 @@
+{
+  "query": "Were any of Thomas Wolfe’s novels published posthumously?",
+  "response": [
+    "doc_4302.txt",
+    "doc_4298.txt",
+    "doc_4306.txt",
+    "doc_4303.txt",
+    "doc_4301.txt"
+  ]
+}

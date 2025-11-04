@@ -1,0 +1,10 @@
+{
+  "query": "Do some European governments refuse to share evidence related to death penalty cases with other countries?",
+  "response": [
+    "doc_15299.txt",
+    "doc_14100.txt",
+    "doc_29807.txt",
+    "doc_14962.txt",
+    "doc_12470.txt"
+  ]
+}

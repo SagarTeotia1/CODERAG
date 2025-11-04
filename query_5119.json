@@ -1,0 +1,10 @@
+{
+  "query": "In what film did Charles Lane give his last performance?",
+  "response": [
+    "doc_31758.txt",
+    "doc_35410.txt",
+    "doc_35412.txt",
+    "doc_35411.txt",
+    "doc_39230.txt"
+  ]
+}

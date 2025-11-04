@@ -1,0 +1,10 @@
+{
+  "query": "What specific animal welfare requirements have been recently implemented in the Region of Piedmont?",
+  "response": [
+    "doc_25219.txt",
+    "doc_16135.txt",
+    "doc_9064.txt",
+    "doc_8541.txt",
+    "doc_18152.txt"
+  ]
+}

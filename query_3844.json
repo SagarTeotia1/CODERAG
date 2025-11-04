@@ -1,0 +1,10 @@
+{
+  "query": "In what year did the Steinbecks leave the house, and why?",
+  "response": [
+    "doc_23728.txt",
+    "doc_40310.txt",
+    "doc_23725.txt",
+    "doc_40312.txt",
+    "doc_22906.txt"
+  ]
+}

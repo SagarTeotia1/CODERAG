@@ -1,0 +1,10 @@
+{
+  "query": "What was the subject of Brian Crowley’s oral question?",
+  "response": [
+    "doc_6085.txt",
+    "doc_3958.txt",
+    "doc_20765.txt",
+    "doc_14691.txt",
+    "doc_7210.txt"
+  ]
+}

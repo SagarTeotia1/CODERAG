@@ -1,0 +1,10 @@
+{
+  "query": "According to the text, what motivated Adam Smith to begin writing his own book on economics?",
+  "response": [
+    "doc_22185.txt",
+    "doc_35471.txt",
+    "doc_22184.txt",
+    "doc_35474.txt",
+    "doc_35470.txt"
+  ]
+}

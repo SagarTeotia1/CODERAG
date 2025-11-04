@@ -1,0 +1,10 @@
+{
+  "query": "What magazine featured Jonathan Dayton and Valerie Faris on its cover in August 1997?",
+  "response": [
+    "doc_31636.txt",
+    "doc_31638.txt",
+    "doc_24883.txt",
+    "doc_31640.txt",
+    "doc_35769.txt"
+  ]
+}

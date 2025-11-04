@@ -1,0 +1,10 @@
+{
+  "query": "What is the basis for Manuel de Falla’s “Master Peter’s Puppet Show”?",
+  "response": [
+    "doc_38593.txt",
+    "doc_38591.txt",
+    "doc_38592.txt",
+    "doc_38594.txt",
+    "doc_38596.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Where is the state capital, Honolulu, located?",
+  "response": [
+    "doc_23399.txt",
+    "doc_1398.txt",
+    "doc_29835.txt",
+    "doc_29836.txt",
+    "doc_18574.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year was Bridgewater Associates founded?",
+  "response": [
+    "doc_20822.txt",
+    "doc_17910.txt",
+    "doc_17909.txt",
+    "doc_17908.txt",
+    "doc_15798.txt"
+  ]
+}

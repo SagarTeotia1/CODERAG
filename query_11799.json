@@ -1,0 +1,10 @@
+{
+  "query": "According to the 1998 Oscars ceremony, what declaration did James Cameron make?",
+  "response": [
+    "doc_138.txt",
+    "doc_140.txt",
+    "doc_139.txt",
+    "doc_148.txt",
+    "doc_146.txt"
+  ]
+}

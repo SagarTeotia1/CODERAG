@@ -1,0 +1,10 @@
+{
+  "query": "Which movie, filmed in 1989, has become a major tourist attraction in Eastern Iowa?",
+  "response": [
+    "doc_26752.txt",
+    "doc_26756.txt",
+    "doc_26753.txt",
+    "doc_26755.txt",
+    "doc_26754.txt"
+  ]
+}

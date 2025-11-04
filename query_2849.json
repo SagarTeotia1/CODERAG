@@ -1,0 +1,10 @@
+{
+  "query": "What year was “The Odd Life of Timothy Green” released theatrically?",
+  "response": [
+    "doc_34282.txt",
+    "doc_34283.txt",
+    "doc_16846.txt",
+    "doc_16849.txt",
+    "doc_16845.txt"
+  ]
+}

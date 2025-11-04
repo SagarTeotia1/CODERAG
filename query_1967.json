@@ -1,0 +1,10 @@
+{
+  "query": "What organization holds a ground lease for the World Trade Center site?",
+  "response": [
+    "doc_32127.txt",
+    "doc_27120.txt",
+    "doc_32126.txt",
+    "doc_39656.txt",
+    "doc_27122.txt"
+  ]
+}

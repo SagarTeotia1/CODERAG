@@ -1,0 +1,10 @@
+{
+  "query": "What year did George Burns win the Best Supporting Actor Oscar?",
+  "response": [
+    "doc_17863.txt",
+    "doc_17861.txt",
+    "doc_17864.txt",
+    "doc_17862.txt",
+    "doc_17868.txt"
+  ]
+}

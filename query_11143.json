@@ -1,0 +1,10 @@
+{
+  "query": "When did the London Zoo first open to the public?",
+  "response": [
+    "doc_17993.txt",
+    "doc_17986.txt",
+    "doc_17995.txt",
+    "doc_17992.txt",
+    "doc_17987.txt"
+  ]
+}

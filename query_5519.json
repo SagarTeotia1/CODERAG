@@ -1,0 +1,10 @@
+{
+  "query": "What is Stavanger’s official founding year?",
+  "response": [
+    "doc_30592.txt",
+    "doc_30595.txt",
+    "doc_2400.txt",
+    "doc_30591.txt",
+    "doc_30593.txt"
+  ]
+}

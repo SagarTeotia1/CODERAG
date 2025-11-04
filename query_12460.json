@@ -1,0 +1,10 @@
+{
+  "query": "What was the subject of the comic book series “Mickey Mouse Adventures”?",
+  "response": [
+    "doc_21340.txt",
+    "doc_22581.txt",
+    "doc_20761.txt",
+    "doc_36665.txt",
+    "doc_21341.txt"
+  ]
+}

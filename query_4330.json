@@ -1,0 +1,10 @@
+{
+  "query": "How long has Richard Simmons been out of public life, based on multiple news articles?",
+  "response": [
+    "doc_5809.txt",
+    "doc_39257.txt",
+    "doc_7824.txt",
+    "doc_34670.txt",
+    "doc_5630.txt"
+  ]
+}

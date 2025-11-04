@@ -1,0 +1,10 @@
+{
+  "query": "In what year did the 2010 Georgia State Panthers football team begin their first season?",
+  "response": [
+    "doc_21842.txt",
+    "doc_21843.txt",
+    "doc_38293.txt",
+    "doc_7392.txt",
+    "doc_4052.txt"
+  ]
+}

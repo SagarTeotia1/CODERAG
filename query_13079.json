@@ -1,0 +1,10 @@
+{
+  "query": "What is the full title of one of Henry Fielding’s novels?",
+  "response": [
+    "doc_22872.txt",
+    "doc_22877.txt",
+    "doc_22874.txt",
+    "doc_22875.txt",
+    "doc_22876.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "How many stories were originally planned for *The Canterbury Tales*?",
+  "response": [
+    "doc_16081.txt",
+    "doc_16082.txt",
+    "doc_13520.txt",
+    "doc_6966.txt",
+    "doc_6970.txt"
+  ]
+}

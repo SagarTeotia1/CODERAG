@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the audiobook Renee co-read with Suzanne Brockmann?",
+  "response": [
+    "doc_11009.txt",
+    "doc_27825.txt",
+    "doc_11461.txt",
+    "doc_11008.txt",
+    "doc_35512.txt"
+  ]
+}

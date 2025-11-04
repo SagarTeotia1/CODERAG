@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how many people speak Swahili?",
+  "response": [
+    "doc_8539.txt",
+    "doc_8536.txt",
+    "doc_8537.txt",
+    "doc_8538.txt",
+    "doc_8540.txt"
+  ]
+}

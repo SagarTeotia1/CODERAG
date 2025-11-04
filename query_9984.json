@@ -1,0 +1,10 @@
+{
+  "query": "Which staff categories within EU Delegations are being transferred ‘en bloc’ to the EEAS?",
+  "response": [
+    "doc_15132.txt",
+    "doc_8043.txt",
+    "doc_7429.txt",
+    "doc_1157.txt",
+    "doc_15509.txt"
+  ]
+}

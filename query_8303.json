@@ -1,0 +1,10 @@
+{
+  "query": "What years did Christopher Egan play Nick Smith in “Home and Away”?",
+  "response": [
+    "doc_11112.txt",
+    "doc_24288.txt",
+    "doc_10810.txt",
+    "doc_10811.txt",
+    "doc_4257.txt"
+  ]
+}

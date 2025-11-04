@@ -1,0 +1,10 @@
+{
+  "query": "How much was paid to the ten new Member States for Structural Funds in 2004?",
+  "response": [
+    "doc_1150.txt",
+    "doc_35268.txt",
+    "doc_26439.txt",
+    "doc_15485.txt",
+    "doc_15473.txt"
+  ]
+}

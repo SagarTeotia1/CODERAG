@@ -1,0 +1,10 @@
+{
+  "query": "In what year was RB Leipzig founded?",
+  "response": [
+    "doc_5454.txt",
+    "doc_5453.txt",
+    "doc_35467.txt",
+    "doc_37570.txt",
+    "doc_15263.txt"
+  ]
+}

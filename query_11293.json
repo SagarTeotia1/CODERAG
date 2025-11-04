@@ -1,0 +1,10 @@
+{
+  "query": "In what regions did Dr. Death achieve tag team success?",
+  "response": [
+    "doc_32969.txt",
+    "doc_32968.txt",
+    "doc_35312.txt",
+    "doc_35314.txt",
+    "doc_32970.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the film “100 Men and a Girl” released?",
+  "response": [
+    "doc_14746.txt",
+    "doc_14744.txt",
+    "doc_14745.txt",
+    "doc_31757.txt",
+    "doc_26508.txt"
+  ]
+}

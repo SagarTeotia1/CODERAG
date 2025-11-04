@@ -1,0 +1,10 @@
+{
+  "query": "What type of tires were being produced by Firestone Rubber & Tire in 1924?",
+  "response": [
+    "doc_13803.txt",
+    "doc_13800.txt",
+    "doc_13801.txt",
+    "doc_13804.txt",
+    "doc_13797.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What kind of publication was *La Revue de Paris*?",
+  "response": [
+    "doc_3822.txt",
+    "doc_3814.txt",
+    "doc_3813.txt",
+    "doc_2833.txt",
+    "doc_3815.txt"
+  ]
+}

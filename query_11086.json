@@ -1,0 +1,10 @@
+{
+  "query": "What is the focus of the inquiry regarding the Irish banking sector?",
+  "response": [
+    "doc_17812.txt",
+    "doc_20182.txt",
+    "doc_859.txt",
+    "doc_35439.txt",
+    "doc_12251.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided links, which early film company belonged to Marcus Loew?",
+  "response": [
+    "doc_30236.txt",
+    "doc_30232.txt",
+    "doc_30231.txt",
+    "doc_30238.txt",
+    "doc_30235.txt"
+  ]
+}

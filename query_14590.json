@@ -1,0 +1,10 @@
+{
+  "query": "What geographical area is described in the textbook as being Albanian national territory?",
+  "response": [
+    "doc_19288.txt",
+    "doc_19289.txt",
+    "doc_5511.txt",
+    "doc_40183.txt",
+    "doc_40181.txt"
+  ]
+}

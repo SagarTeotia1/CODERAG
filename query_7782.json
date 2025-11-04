@@ -1,0 +1,10 @@
+{
+  "query": "What characters are gathered together at Belmont in the final scene of *The Merchant of Venice*?",
+  "response": [
+    "doc_9807.txt",
+    "doc_9808.txt",
+    "doc_22198.txt",
+    "doc_22199.txt",
+    "doc_39718.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Name three members of The Backstreet Boys.",
+  "response": [
+    "doc_20932.txt",
+    "doc_21175.txt",
+    "doc_21173.txt",
+    "doc_23545.txt",
+    "doc_21176.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When did the meeting with Gérard Longuet take place?",
+  "response": [
+    "doc_26090.txt",
+    "doc_26094.txt",
+    "doc_11972.txt",
+    "doc_14195.txt",
+    "doc_26096.txt"
+  ]
+}

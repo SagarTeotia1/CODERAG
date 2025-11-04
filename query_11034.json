@@ -1,0 +1,10 @@
+{
+  "query": "When was Rolls-Royce Limited formed?",
+  "response": [
+    "doc_17712.txt",
+    "doc_17708.txt",
+    "doc_17709.txt",
+    "doc_26519.txt",
+    "doc_26517.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year was Dee Dee Warwick born?",
+  "response": [
+    "doc_31389.txt",
+    "doc_12519.txt",
+    "doc_12520.txt",
+    "doc_37854.txt",
+    "doc_12511.txt"
+  ]
+}

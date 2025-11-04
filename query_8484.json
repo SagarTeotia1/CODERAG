@@ -1,0 +1,10 @@
+{
+  "query": "What term did Hugo Gernsback coin in his editorial for *SCIENCE*?",
+  "response": [
+    "doc_11558.txt",
+    "doc_11561.txt",
+    "doc_11554.txt",
+    "doc_11565.txt",
+    "doc_11560.txt"
+  ]
+}

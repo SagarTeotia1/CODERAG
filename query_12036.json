@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what was the total budget of the 24 agencies and other satellite bodies audited by the Court of Auditors in 2006?",
+  "response": [
+    "doc_8400.txt",
+    "doc_15335.txt",
+    "doc_15494.txt",
+    "doc_15334.txt",
+    "doc_20266.txt"
+  ]
+}

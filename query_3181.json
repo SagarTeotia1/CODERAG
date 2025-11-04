@@ -1,0 +1,10 @@
+{
+  "query": "What types of external oversight are applied to projects with budgets of at least EUR 1 million?",
+  "response": [
+    "doc_35033.txt",
+    "doc_10676.txt",
+    "doc_12800.txt",
+    "doc_35034.txt",
+    "doc_13612.txt"
+  ]
+}

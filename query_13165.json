@@ -1,0 +1,10 @@
+{
+  "query": "On what date is Bunker Hill Day observed?",
+  "response": [
+    "doc_23092.txt",
+    "doc_23090.txt",
+    "doc_23089.txt",
+    "doc_23091.txt",
+    "doc_23088.txt"
+  ]
+}

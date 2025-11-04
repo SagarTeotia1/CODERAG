@@ -1,0 +1,10 @@
+{
+  "query": "How many requests to execute European arrest warrants (EAW) were made to the individual Member States each year between 2005 and 2009 (please provide a breakdown of the number of EAWs by requesting Member State), and in how many cases were the warrants actually executed?",
+  "response": [
+    "doc_786.txt",
+    "doc_34204.txt",
+    "doc_12076.txt",
+    "doc_31217.txt",
+    "doc_27653.txt"
+  ]
+}

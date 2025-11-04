@@ -1,0 +1,10 @@
+{
+  "query": "Who is the scientist associated with the development of the Celsius temperature scale?",
+  "response": [
+    "doc_5408.txt",
+    "doc_5407.txt",
+    "doc_5411.txt",
+    "doc_5409.txt",
+    "doc_5410.txt"
+  ]
+}

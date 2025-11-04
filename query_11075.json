@@ -1,0 +1,10 @@
+{
+  "query": "In Miller Lite ads, what phrase did Bob Uecker repeatedly say?",
+  "response": [
+    "doc_20551.txt",
+    "doc_20556.txt",
+    "doc_11018.txt",
+    "doc_20548.txt",
+    "doc_36349.txt"
+  ]
+}

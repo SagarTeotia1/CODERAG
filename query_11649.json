@@ -1,0 +1,10 @@
+{
+  "query": "Which non-euro area Member States have received financial support from the EU?",
+  "response": [
+    "doc_19285.txt",
+    "doc_16476.txt",
+    "doc_26439.txt",
+    "doc_22309.txt",
+    "doc_26906.txt"
+  ]
+}

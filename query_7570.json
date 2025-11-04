@@ -1,0 +1,10 @@
+{
+  "query": "How many home runs did Todd Frazier hit in 2016?",
+  "response": [
+    "doc_9261.txt",
+    "doc_7460.txt",
+    "doc_39728.txt",
+    "doc_8620.txt",
+    "doc_7456.txt"
+  ]
+}

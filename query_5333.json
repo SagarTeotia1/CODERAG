@@ -1,0 +1,10 @@
+{
+  "query": "Who ordained William Chauncey Emhardt to the priesthood?",
+  "response": [
+    "doc_1876.txt",
+    "doc_23796.txt",
+    "doc_1875.txt",
+    "doc_1874.txt",
+    "doc_23798.txt"
+  ]
+}

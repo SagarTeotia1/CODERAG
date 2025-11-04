@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the movie “Field of Dreams” released?",
+  "response": [
+    "doc_26752.txt",
+    "doc_26753.txt",
+    "doc_26754.txt",
+    "doc_26756.txt",
+    "doc_26755.txt"
+  ]
+}

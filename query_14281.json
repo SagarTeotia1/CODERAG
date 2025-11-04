@@ -1,0 +1,10 @@
+{
+  "query": "Until what date does the European Parliament approve the Commission in its new form?",
+  "response": [
+    "doc_21076.txt",
+    "doc_2354.txt",
+    "doc_15274.txt",
+    "doc_25833.txt",
+    "doc_18797.txt"
+  ]
+}

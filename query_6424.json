@@ -1,0 +1,10 @@
+{
+  "query": "Which movie utilized Stroger Cook County Hospital as a filming location?",
+  "response": [
+    "doc_6394.txt",
+    "doc_6393.txt",
+    "doc_3479.txt",
+    "doc_3476.txt",
+    "doc_3485.txt"
+  ]
+}

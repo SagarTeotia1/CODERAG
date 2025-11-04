@@ -1,0 +1,10 @@
+{
+  "query": "Were students from Hacettepe University punished with up to six years of imprisonment for their involvement in the petition?",
+  "response": [
+    "doc_36672.txt",
+    "doc_7512.txt",
+    "doc_413.txt",
+    "doc_9606.txt",
+    "doc_13074.txt"
+  ]
+}

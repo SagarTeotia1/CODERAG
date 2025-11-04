@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the film “Harry and the Hendersons” released?",
+  "response": [
+    "doc_2199.txt",
+    "doc_12375.txt",
+    "doc_12373.txt",
+    "doc_12374.txt",
+    "doc_12376.txt"
+  ]
+}

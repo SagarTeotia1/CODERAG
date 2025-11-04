@@ -1,0 +1,10 @@
+{
+  "query": "What nationalities of European citizens have expressed concerns regarding the Venezuelan law?",
+  "response": [
+    "doc_3359.txt",
+    "doc_31159.txt",
+    "doc_31158.txt",
+    "doc_21359.txt",
+    "doc_1247.txt"
+  ]
+}

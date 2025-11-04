@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Alfred Lord Tennyson and his family occupy Chapel House?",
+  "response": [
+    "doc_23908.txt",
+    "doc_23909.txt",
+    "doc_23907.txt",
+    "doc_23911.txt",
+    "doc_23906.txt"
+  ]
+}

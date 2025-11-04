@@ -1,0 +1,10 @@
+{
+  "query": "What was the Scarlet Pimpernel’s occupation?",
+  "response": [
+    "doc_5759.txt",
+    "doc_1351.txt",
+    "doc_30603.txt",
+    "doc_3548.txt",
+    "doc_1282.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What musical style, originating in Cuba, influenced the development of Latin dance styles in the United States?",
+  "response": [
+    "doc_14562.txt",
+    "doc_629.txt",
+    "doc_4121.txt",
+    "doc_4117.txt",
+    "doc_4123.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What role did Tomas de Torquemada have in the Spanish Inquisition?",
+  "response": [
+    "doc_14880.txt",
+    "doc_1861.txt",
+    "doc_1860.txt",
+    "doc_14879.txt",
+    "doc_14877.txt"
+  ]
+}

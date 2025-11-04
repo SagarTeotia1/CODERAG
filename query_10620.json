@@ -1,0 +1,10 @@
+{
+  "query": "Who won the recent cup title in the regional football cup in Santiago, Cape Verde?",
+  "response": [
+    "doc_20841.txt",
+    "doc_6829.txt",
+    "doc_34197.txt",
+    "doc_33813.txt",
+    "doc_6101.txt"
+  ]
+}

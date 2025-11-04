@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the song featuring Tommy Roe a No. 1 hit?",
+  "response": [
+    "doc_19646.txt",
+    "doc_29938.txt",
+    "doc_19642.txt",
+    "doc_19647.txt",
+    "doc_35298.txt"
+  ]
+}

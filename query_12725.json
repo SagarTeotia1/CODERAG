@@ -1,0 +1,10 @@
+{
+  "query": "In what country does Dr. Izzeldin Abuelaish reside and what is his ongoing commitment, as described in the passage?",
+  "response": [
+    "doc_20349.txt",
+    "doc_20348.txt",
+    "doc_12543.txt",
+    "doc_13562.txt",
+    "doc_27610.txt"
+  ]
+}

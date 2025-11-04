@@ -1,0 +1,10 @@
+{
+  "query": "Who served as First Deputy Prime Minister in Dmitry Medvedev’s Cabinet since May 2012?",
+  "response": [
+    "doc_20222.txt",
+    "doc_22540.txt",
+    "doc_21788.txt",
+    "doc_22539.txt",
+    "doc_22541.txt"
+  ]
+}

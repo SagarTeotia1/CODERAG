@@ -1,0 +1,10 @@
+{
+  "query": "Which film adaptation of “I Am Legend” was released in 2007?",
+  "response": [
+    "doc_27968.txt",
+    "doc_9687.txt",
+    "doc_21960.txt",
+    "doc_30489.txt",
+    "doc_146.txt"
+  ]
+}

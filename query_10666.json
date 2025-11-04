@@ -1,0 +1,10 @@
+{
+  "query": "What types of cheese are mentioned as being available at Instacart?",
+  "response": [
+    "doc_29947.txt",
+    "doc_1658.txt",
+    "doc_1660.txt",
+    "doc_1657.txt",
+    "doc_1661.txt"
+  ]
+}

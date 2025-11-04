@@ -1,0 +1,10 @@
+{
+  "query": "Which countries in central Europe experienced a significant reduction in emissions between 1990 and 2004, and what was the percentage of that reduction?",
+  "response": [
+    "doc_614.txt",
+    "doc_5280.txt",
+    "doc_35529.txt",
+    "doc_25793.txt",
+    "doc_21384.txt"
+  ]
+}

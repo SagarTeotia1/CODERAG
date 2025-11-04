@@ -1,0 +1,10 @@
+{
+  "query": "What specific item is referred to as a \"Royale with cheese\" in the context of the film?",
+  "response": [
+    "doc_28802.txt",
+    "doc_9490.txt",
+    "doc_28804.txt",
+    "doc_28803.txt",
+    "doc_28797.txt"
+  ]
+}

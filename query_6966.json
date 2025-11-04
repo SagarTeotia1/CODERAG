@@ -1,0 +1,10 @@
+{
+  "query": "What did film critic Gene Siskel frequently refer to the film as?",
+  "response": [
+    "doc_31750.txt",
+    "doc_748.txt",
+    "doc_31754.txt",
+    "doc_750.txt",
+    "doc_749.txt"
+  ]
+}

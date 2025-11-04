@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Davis begin work on the film *Marked Woman*?",
+  "response": [
+    "doc_21986.txt",
+    "doc_7794.txt",
+    "doc_18324.txt",
+    "doc_18327.txt",
+    "doc_18328.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What instrument did Henry Steinway manufacture?",
+  "response": [
+    "doc_17015.txt",
+    "doc_17017.txt",
+    "doc_17016.txt",
+    "doc_15748.txt",
+    "doc_29764.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What does Penguin Classics represent in terms of its collection of books?",
+  "response": [
+    "doc_2263.txt",
+    "doc_6056.txt",
+    "doc_2262.txt",
+    "doc_40221.txt",
+    "doc_12420.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which EU agencies were the subject of discharge procedures discussed in the passage?",
+  "response": [
+    "doc_20266.txt",
+    "doc_10122.txt",
+    "doc_27145.txt",
+    "doc_6585.txt",
+    "doc_28896.txt"
+  ]
+}

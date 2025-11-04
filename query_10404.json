@@ -1,0 +1,10 @@
+{
+  "query": "What was the total estimated direct damage for Poland’s disaster, expressed as a percentage of its GNI?",
+  "response": [
+    "doc_30030.txt",
+    "doc_31569.txt",
+    "doc_30031.txt",
+    "doc_20321.txt",
+    "doc_31568.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What year was “Schubert’s Dream of Spring” released?",
+  "response": [
+    "doc_27137.txt",
+    "doc_27134.txt",
+    "doc_27131.txt",
+    "doc_27136.txt",
+    "doc_27130.txt"
+  ]
+}

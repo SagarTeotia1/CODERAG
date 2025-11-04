@@ -1,0 +1,10 @@
+{
+  "query": "What year were the first pills made that were created by Sonja de Lennart?",
+  "response": [
+    "doc_32897.txt",
+    "doc_32903.txt",
+    "doc_12572.txt",
+    "doc_32900.txt",
+    "doc_12571.txt"
+  ]
+}

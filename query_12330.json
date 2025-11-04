@@ -1,0 +1,10 @@
+{
+  "query": "What is the title of the LM&M Railroad’s North Pole Express?",
+  "response": [
+    "doc_34466.txt",
+    "doc_33357.txt",
+    "doc_17725.txt",
+    "doc_34462.txt",
+    "doc_17756.txt"
+  ]
+}

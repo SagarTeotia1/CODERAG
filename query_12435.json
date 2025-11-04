@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of global CO2 emissions does the EU currently account for?",
+  "response": [
+    "doc_5280.txt",
+    "doc_21252.txt",
+    "doc_25653.txt",
+    "doc_21241.txt",
+    "doc_25793.txt"
+  ]
+}

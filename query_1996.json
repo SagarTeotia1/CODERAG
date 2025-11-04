@@ -1,0 +1,10 @@
+{
+  "query": "Where were EU concerns publicly expressed regarding this issue?",
+  "response": [
+    "doc_30396.txt",
+    "doc_21544.txt",
+    "doc_35243.txt",
+    "doc_11395.txt",
+    "doc_21844.txt"
+  ]
+}

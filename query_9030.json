@@ -1,0 +1,10 @@
+{
+  "query": "Which ASEAN nations does the station connect to?",
+  "response": [
+    "doc_16288.txt",
+    "doc_38090.txt",
+    "doc_12432.txt",
+    "doc_12431.txt",
+    "doc_12895.txt"
+  ]
+}

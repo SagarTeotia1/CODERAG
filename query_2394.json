@@ -1,0 +1,10 @@
+{
+  "query": "Which university does Barbara Romaine currently teach at?",
+  "response": [
+    "doc_182.txt",
+    "doc_11973.txt",
+    "doc_4547.txt",
+    "doc_183.txt",
+    "doc_34155.txt"
+  ]
+}

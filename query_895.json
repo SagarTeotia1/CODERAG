@@ -1,0 +1,10 @@
+{
+  "query": "What role did Barry Bostwick play in *The Rocky Horror Picture Show*?",
+  "response": [
+    "doc_29526.txt",
+    "doc_29527.txt",
+    "doc_29525.txt",
+    "doc_29528.txt",
+    "doc_29529.txt"
+  ]
+}

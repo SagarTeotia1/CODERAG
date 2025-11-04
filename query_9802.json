@@ -1,0 +1,10 @@
+{
+  "query": "How many employees do they have and what is their nationality? What steps are taken to ensure a balanced representation of Member States in the European agencies?",
+  "response": [
+    "doc_14689.txt",
+    "doc_28967.txt",
+    "doc_28331.txt",
+    "doc_8043.txt",
+    "doc_17420.txt"
+  ]
+}

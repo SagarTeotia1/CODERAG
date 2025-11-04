@@ -1,0 +1,10 @@
+{
+  "query": "Where will the next inter-Congolese dialogue meeting be held?",
+  "response": [
+    "doc_15226.txt",
+    "doc_16925.txt",
+    "doc_38700.txt",
+    "doc_38701.txt",
+    "doc_14061.txt"
+  ]
+}

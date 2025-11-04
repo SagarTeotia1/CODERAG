@@ -1,0 +1,10 @@
+{
+  "query": "Which actors appeared in Guy Ritchie’s 1995 short film, “The Hard Case”?",
+  "response": [
+    "doc_38211.txt",
+    "doc_3331.txt",
+    "doc_8222.txt",
+    "doc_3332.txt",
+    "doc_35450.txt"
+  ]
+}

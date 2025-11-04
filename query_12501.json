@@ -1,0 +1,10 @@
+{
+  "query": "What is Elvis Presley commonly referred to as?",
+  "response": [
+    "doc_36272.txt",
+    "doc_36271.txt",
+    "doc_36273.txt",
+    "doc_36274.txt",
+    "doc_25508.txt"
+  ]
+}

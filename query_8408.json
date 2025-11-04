@@ -1,0 +1,10 @@
+{
+  "query": "What is the title of the operetta that Oliver Hardy enjoyed?",
+  "response": [
+    "doc_11384.txt",
+    "doc_11382.txt",
+    "doc_11381.txt",
+    "doc_11379.txt",
+    "doc_11385.txt"
+  ]
+}

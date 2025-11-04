@@ -1,0 +1,10 @@
+{
+  "query": "When was the opinion delivered by the European Food Safety Authority (EFSA) regarding the food safety implications of animal cloning?",
+  "response": [
+    "doc_24839.txt",
+    "doc_39459.txt",
+    "doc_4684.txt",
+    "doc_31740.txt",
+    "doc_7125.txt"
+  ]
+}

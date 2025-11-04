@@ -1,0 +1,10 @@
+{
+  "query": "What monetary unit was equivalent to 1,000 bolivianos in Bolivia?",
+  "response": [
+    "doc_7567.txt",
+    "doc_7571.txt",
+    "doc_7570.txt",
+    "doc_7569.txt",
+    "doc_7568.txt"
+  ]
+}

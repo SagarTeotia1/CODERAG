@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided information, what is Science North’s status in Northern Ontario?",
+  "response": [
+    "doc_8849.txt",
+    "doc_8850.txt",
+    "doc_8852.txt",
+    "doc_8857.txt",
+    "doc_8851.txt"
+  ]
+}

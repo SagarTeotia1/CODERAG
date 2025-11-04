@@ -1,0 +1,10 @@
+{
+  "query": "What happened to 218 passengers and five crew members on board the Renfe train?",
+  "response": [
+    "doc_40316.txt",
+    "doc_16397.txt",
+    "doc_4799.txt",
+    "doc_12501.txt",
+    "doc_1440.txt"
+  ]
+}

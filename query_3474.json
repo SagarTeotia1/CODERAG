@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the town of St. John, Indiana, founded?",
+  "response": [
+    "doc_39883.txt",
+    "doc_28190.txt",
+    "doc_9402.txt",
+    "doc_20190.txt",
+    "doc_21659.txt"
+  ]
+}

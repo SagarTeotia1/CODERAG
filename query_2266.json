@@ -1,0 +1,10 @@
+{
+  "query": "What type of creatures formed continuous beds in the Tamaki Estuary?",
+  "response": [
+    "doc_32892.txt",
+    "doc_32889.txt",
+    "doc_32891.txt",
+    "doc_16202.txt",
+    "doc_32890.txt"
+  ]
+}

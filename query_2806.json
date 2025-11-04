@@ -1,0 +1,10 @@
+{
+  "query": "Which towns are listed as broadcasting areas for ABC Mid North Coast?",
+  "response": [
+    "doc_34193.txt",
+    "doc_34192.txt",
+    "doc_25402.txt",
+    "doc_25401.txt",
+    "doc_13379.txt"
+  ]
+}

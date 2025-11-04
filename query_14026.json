@@ -1,0 +1,10 @@
+{
+  "query": "When was Chartres Cathedral constructed?",
+  "response": [
+    "doc_25177.txt",
+    "doc_127.txt",
+    "doc_9476.txt",
+    "doc_16204.txt",
+    "doc_16000.txt"
+  ]
+}

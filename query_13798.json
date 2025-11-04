@@ -1,0 +1,10 @@
+{
+  "query": "For which film adaptation is “Not About Angels” a theme song?",
+  "response": [
+    "doc_12.txt",
+    "doc_33833.txt",
+    "doc_33826.txt",
+    "doc_33831.txt",
+    "doc_33830.txt"
+  ]
+}

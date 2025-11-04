@@ -1,0 +1,10 @@
+{
+  "query": "What airline operated USAir Flight 405?",
+  "response": [
+    "doc_10192.txt",
+    "doc_9329.txt",
+    "doc_31511.txt",
+    "doc_23128.txt",
+    "doc_9779.txt"
+  ]
+}

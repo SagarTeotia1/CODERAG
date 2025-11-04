@@ -1,0 +1,10 @@
+{
+  "query": "What year did Suh Yun-bok win the Boston Marathon?",
+  "response": [
+    "doc_18337.txt",
+    "doc_31478.txt",
+    "doc_31477.txt",
+    "doc_31482.txt",
+    "doc_36009.txt"
+  ]
+}

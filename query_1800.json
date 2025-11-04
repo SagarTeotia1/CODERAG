@@ -1,0 +1,10 @@
+{
+  "query": "What film did A. R. Rahman ask Karthik to sing the song “Nendhukittaen” from?",
+  "response": [
+    "doc_31682.txt",
+    "doc_31683.txt",
+    "doc_23210.txt",
+    "doc_23946.txt",
+    "doc_2291.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "How much European Regional Fund financing was provided for this project?",
+  "response": [
+    "doc_36524.txt",
+    "doc_12249.txt",
+    "doc_12521.txt",
+    "doc_10867.txt",
+    "doc_15811.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which company, prominent in Democratic campaigns, provided research and analysis to the 1992 Clinton-Gore campaign?",
+  "response": [
+    "doc_28051.txt",
+    "doc_26535.txt",
+    "doc_26540.txt",
+    "doc_26538.txt",
+    "doc_26532.txt"
+  ]
+}

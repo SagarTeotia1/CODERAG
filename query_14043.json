@@ -1,0 +1,10 @@
+{
+  "query": "In 2003, how many tourists from abroad did Romania accommodate?",
+  "response": [
+    "doc_37786.txt",
+    "doc_37785.txt",
+    "doc_25293.txt",
+    "doc_37793.txt",
+    "doc_37795.txt"
+  ]
+}

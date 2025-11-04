@@ -1,0 +1,10 @@
+{
+  "query": "How many UGA students have received the Cronkite Award for Excellence in Journalism since 1995?",
+  "response": [
+    "doc_11837.txt",
+    "doc_11836.txt",
+    "doc_38610.txt",
+    "doc_7936.txt",
+    "doc_38616.txt"
+  ]
+}

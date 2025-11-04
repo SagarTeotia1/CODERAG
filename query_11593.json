@@ -1,0 +1,10 @@
+{
+  "query": "How did the press refer to John Fremont during his expeditions?",
+  "response": [
+    "doc_19141.txt",
+    "doc_19142.txt",
+    "doc_19144.txt",
+    "doc_19138.txt",
+    "doc_19143.txt"
+  ]
+}

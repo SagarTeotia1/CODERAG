@@ -1,0 +1,10 @@
+{
+  "query": "Where did William Henry Long obtain his PhD degree?",
+  "response": [
+    "doc_34665.txt",
+    "doc_34661.txt",
+    "doc_28796.txt",
+    "doc_7632.txt",
+    "doc_17796.txt"
+  ]
+}

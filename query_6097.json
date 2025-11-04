@@ -1,0 +1,10 @@
+{
+  "query": "The passage mentions a reaction described as “unthinking.” Where did Don Huntington describe this type of reaction occurring, and in what context?",
+  "response": [
+    "doc_5612.txt",
+    "doc_5610.txt",
+    "doc_5617.txt",
+    "doc_18416.txt",
+    "doc_27345.txt"
+  ]
+}

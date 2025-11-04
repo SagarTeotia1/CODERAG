@@ -1,0 +1,10 @@
+{
+  "query": "When did the actor perform in “Death of a Salesman” on Broadway?",
+  "response": [
+    "doc_23681.txt",
+    "doc_17866.txt",
+    "doc_14153.txt",
+    "doc_14157.txt",
+    "doc_14154.txt"
+  ]
+}

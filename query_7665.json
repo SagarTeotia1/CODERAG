@@ -1,0 +1,10 @@
+{
+  "query": "Did she pursue acting or did she get her GED?",
+  "response": [
+    "doc_12254.txt",
+    "doc_31635.txt",
+    "doc_16105.txt",
+    "doc_12257.txt",
+    "doc_31638.txt"
+  ]
+}

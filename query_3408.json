@@ -1,0 +1,10 @@
+{
+  "query": "Which vice president is an Alaskan city named after?",
+  "response": [
+    "doc_35517.txt",
+    "doc_35524.txt",
+    "doc_35518.txt",
+    "doc_35519.txt",
+    "doc_17759.txt"
+  ]
+}

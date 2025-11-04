@@ -1,0 +1,10 @@
+{
+  "query": "For what situations is the HK417 rifle designed?",
+  "response": [
+    "doc_23172.txt",
+    "doc_23171.txt",
+    "doc_22956.txt",
+    "doc_19896.txt",
+    "doc_23170.txt"
+  ]
+}

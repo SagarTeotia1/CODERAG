@@ -1,0 +1,10 @@
+{
+  "query": "What information did OLAF request from the Greek authorities regarding the alleged subsidies?",
+  "response": [
+    "doc_30942.txt",
+    "doc_1352.txt",
+    "doc_37210.txt",
+    "doc_6404.txt",
+    "doc_5027.txt"
+  ]
+}

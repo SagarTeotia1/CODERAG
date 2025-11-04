@@ -1,0 +1,10 @@
+{
+  "query": "When was the “Million Dollar Quartet” recording session held, and in what city did it take place?",
+  "response": [
+    "doc_38862.txt",
+    "doc_38863.txt",
+    "doc_38857.txt",
+    "doc_38858.txt",
+    "doc_38859.txt"
+  ]
+}

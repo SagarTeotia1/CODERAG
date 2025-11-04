@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of the total New York City population did 18th-century Jews represent?",
+  "response": [
+    "doc_20900.txt",
+    "doc_16375.txt",
+    "doc_16374.txt",
+    "doc_19690.txt",
+    "doc_25522.txt"
+  ]
+}

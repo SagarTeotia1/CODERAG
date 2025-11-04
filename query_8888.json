@@ -1,0 +1,10 @@
+{
+  "query": "What were the birth and death dates of Harry S. Truman?",
+  "response": [
+    "doc_1187.txt",
+    "doc_1193.txt",
+    "doc_1194.txt",
+    "doc_1189.txt",
+    "doc_1195.txt"
+  ]
+}

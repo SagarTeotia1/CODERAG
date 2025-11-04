@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Henry Hudson lead a final expedition to discover the Northwest Passage?",
+  "response": [
+    "doc_27415.txt",
+    "doc_27416.txt",
+    "doc_12693.txt",
+    "doc_21113.txt",
+    "doc_12692.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is Elizabeth I's reign known as?",
+  "response": [
+    "doc_31036.txt",
+    "doc_31032.txt",
+    "doc_31029.txt",
+    "doc_31037.txt",
+    "doc_31026.txt"
+  ]
+}

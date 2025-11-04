@@ -1,0 +1,10 @@
+{
+  "query": "Which groups submitted motions regarding the electoral process in Peru?",
+  "response": [
+    "doc_33242.txt",
+    "doc_22862.txt",
+    "doc_4385.txt",
+    "doc_8102.txt",
+    "doc_3175.txt"
+  ]
+}

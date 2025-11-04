@@ -1,0 +1,10 @@
+{
+  "query": "In what town did Clyde Tombaugh once live?",
+  "response": [
+    "doc_21513.txt",
+    "doc_37020.txt",
+    "doc_36826.txt",
+    "doc_21516.txt",
+    "doc_21510.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year was Sigourney Weaver's role as Ellen Ripley first established in a film?",
+  "response": [
+    "doc_27481.txt",
+    "doc_27480.txt",
+    "doc_30864.txt",
+    "doc_14738.txt",
+    "doc_30861.txt"
+  ]
+}

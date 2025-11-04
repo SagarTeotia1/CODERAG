@@ -1,0 +1,10 @@
+{
+  "query": "Which languages are used in the TV Patrol Negros newscast?",
+  "response": [
+    "doc_8536.txt",
+    "doc_28204.txt",
+    "doc_8537.txt",
+    "doc_11810.txt",
+    "doc_12774.txt"
+  ]
+}

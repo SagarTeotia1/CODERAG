@@ -1,0 +1,10 @@
+{
+  "query": "How was the asteroid 51 Nemausa named, and where was it discovered?",
+  "response": [
+    "doc_34903.txt",
+    "doc_10647.txt",
+    "doc_10650.txt",
+    "doc_10648.txt",
+    "doc_10645.txt"
+  ]
+}

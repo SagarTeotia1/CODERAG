@@ -1,0 +1,10 @@
+{
+  "query": "Where is the University of Ruhuna located?",
+  "response": [
+    "doc_27948.txt",
+    "doc_12337.txt",
+    "doc_20151.txt",
+    "doc_12330.txt",
+    "doc_20142.txt"
+  ]
+}

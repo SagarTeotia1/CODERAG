@@ -1,0 +1,10 @@
+{
+  "query": "What legal action has been taken by a US Catholic diocese?",
+  "response": [
+    "doc_36314.txt",
+    "doc_32423.txt",
+    "doc_34009.txt",
+    "doc_32424.txt",
+    "doc_32421.txt"
+  ]
+}

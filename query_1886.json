@@ -1,0 +1,10 @@
+{
+  "query": "Which film did Amy Allen portray the character Aayla Secura in?",
+  "response": [
+    "doc_31898.txt",
+    "doc_40109.txt",
+    "doc_9870.txt",
+    "doc_26044.txt",
+    "doc_34820.txt"
+  ]
+}

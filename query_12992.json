@@ -1,0 +1,10 @@
+{
+  "query": "Where was Rosenblatt born?",
+  "response": [
+    "doc_5805.txt",
+    "doc_5806.txt",
+    "doc_7331.txt",
+    "doc_39045.txt",
+    "doc_7330.txt"
+  ]
+}

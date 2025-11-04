@@ -1,0 +1,10 @@
+{
+  "query": "Besides “Metal Gear Solid,” for which New York Times best-selling author has Renee narrated audiobooks?",
+  "response": [
+    "doc_35064.txt",
+    "doc_35067.txt",
+    "doc_35069.txt",
+    "doc_13888.txt",
+    "doc_39684.txt"
+  ]
+}

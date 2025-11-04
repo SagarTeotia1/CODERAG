@@ -1,0 +1,10 @@
+{
+  "query": "When did the Commission adopt a proposal to ban cat and dog fur products?",
+  "response": [
+    "doc_7509.txt",
+    "doc_33900.txt",
+    "doc_27111.txt",
+    "doc_8541.txt",
+    "doc_39195.txt"
+  ]
+}

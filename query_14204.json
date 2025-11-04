@@ -1,0 +1,10 @@
+{
+  "query": "What are the aluminium concentrations found in frequently used vaccines like the diphtheria, tetanus, whooping cough, polio, hepatitis A, and hepatitis B vaccines?",
+  "response": [
+    "doc_7737.txt",
+    "doc_8037.txt",
+    "doc_25904.txt",
+    "doc_25905.txt",
+    "doc_8035.txt"
+  ]
+}

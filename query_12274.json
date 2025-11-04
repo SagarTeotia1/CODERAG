@@ -1,0 +1,10 @@
+{
+  "query": "Which organization is represented by Kirsten Andersen, and how many signatures does their initiative have?",
+  "response": [
+    "doc_29228.txt",
+    "doc_29252.txt",
+    "doc_1247.txt",
+    "doc_29227.txt",
+    "doc_7894.txt"
+  ]
+}

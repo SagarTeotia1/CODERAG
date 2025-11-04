@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the transit system that operates in Davis, California?",
+  "response": [
+    "doc_9751.txt",
+    "doc_31457.txt",
+    "doc_21485.txt",
+    "doc_31459.txt",
+    "doc_37679.txt"
+  ]
+}

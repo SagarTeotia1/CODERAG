@@ -1,0 +1,10 @@
+{
+  "query": "Which drum brand is Benny Greb endorsed by, and what specific cymbals did he develop with Meinl?",
+  "response": [
+    "doc_3356.txt",
+    "doc_3357.txt",
+    "doc_11967.txt",
+    "doc_11969.txt",
+    "doc_39164.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided texts, what do the Norns govern?",
+  "response": [
+    "doc_24429.txt",
+    "doc_24423.txt",
+    "doc_24425.txt",
+    "doc_24426.txt",
+    "doc_24421.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Through how many states did the Lincoln Highway originally run?",
+  "response": [
+    "doc_24887.txt",
+    "doc_38589.txt",
+    "doc_2851.txt",
+    "doc_6429.txt",
+    "doc_2849.txt"
+  ]
+}

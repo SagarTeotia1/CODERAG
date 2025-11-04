@@ -1,0 +1,10 @@
+{
+  "query": "What types of submarines are mentioned in the passage (e.g., Nuclear Powered or Diesel)?",
+  "response": [
+    "doc_39966.txt",
+    "doc_39965.txt",
+    "doc_39971.txt",
+    "doc_39970.txt",
+    "doc_39972.txt"
+  ]
+}

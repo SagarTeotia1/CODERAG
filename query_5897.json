@@ -1,0 +1,10 @@
+{
+  "query": "Which artist recorded a German version of “When You’ve Gotta Go” and in what year was it released?",
+  "response": [
+    "doc_19642.txt",
+    "doc_19639.txt",
+    "doc_19644.txt",
+    "doc_19638.txt",
+    "doc_19641.txt"
+  ]
+}

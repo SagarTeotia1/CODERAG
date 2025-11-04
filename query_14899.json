@@ -1,0 +1,10 @@
+{
+  "query": "What region within the UK has the best resources for the generation of renewable energy?",
+  "response": [
+    "doc_6122.txt",
+    "doc_7915.txt",
+    "doc_7921.txt",
+    "doc_12685.txt",
+    "doc_6118.txt"
+  ]
+}

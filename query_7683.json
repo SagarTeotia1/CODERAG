@@ -1,0 +1,10 @@
+{
+  "query": "At what location did the individual win the State Snooker Championship?",
+  "response": [
+    "doc_16900.txt",
+    "doc_16901.txt",
+    "doc_16897.txt",
+    "doc_8910.txt",
+    "doc_10275.txt"
+  ]
+}

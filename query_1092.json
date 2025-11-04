@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the church located within the Moscow Kremlin that is known for its one-domed design?",
+  "response": [
+    "doc_30014.txt",
+    "doc_30012.txt",
+    "doc_30013.txt",
+    "doc_30015.txt",
+    "doc_30016.txt"
+  ]
+}

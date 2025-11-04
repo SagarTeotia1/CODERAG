@@ -1,0 +1,10 @@
+{
+  "query": "What action did the European Parliament ultimately decide regarding Tobias Pflüger’s immunity?",
+  "response": [
+    "doc_35826.txt",
+    "doc_35825.txt",
+    "doc_35827.txt",
+    "doc_18548.txt",
+    "doc_1263.txt"
+  ]
+}

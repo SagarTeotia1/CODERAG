@@ -1,0 +1,10 @@
+{
+  "query": "What film, directed by Carl Lamac, is based on the 1918 operetta “Where the Lark Sings”?",
+  "response": [
+    "doc_18319.txt",
+    "doc_31832.txt",
+    "doc_23732.txt",
+    "doc_35770.txt",
+    "doc_39219.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what type of setting is the game of Clue typically played (e.g., a mansion, a board)?",
+  "response": [
+    "doc_39779.txt",
+    "doc_39781.txt",
+    "doc_39780.txt",
+    "doc_201.txt",
+    "doc_39782.txt"
+  ]
+}

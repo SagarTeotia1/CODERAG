@@ -1,0 +1,10 @@
+{
+  "query": "To which plant family does the genus Manettia belong?",
+  "response": [
+    "doc_27350.txt",
+    "doc_9451.txt",
+    "doc_4493.txt",
+    "doc_34093.txt",
+    "doc_18646.txt"
+  ]
+}

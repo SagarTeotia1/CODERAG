@@ -1,0 +1,10 @@
+{
+  "query": "What was the purpose of opening the EU SME Centre in China?",
+  "response": [
+    "doc_21732.txt",
+    "doc_8835.txt",
+    "doc_8655.txt",
+    "doc_31392.txt",
+    "doc_31391.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What film did Manfred Noa reuse footage from in 1931?",
+  "response": [
+    "doc_24990.txt",
+    "doc_25000.txt",
+    "doc_24989.txt",
+    "doc_10682.txt",
+    "doc_24999.txt"
+  ]
+}

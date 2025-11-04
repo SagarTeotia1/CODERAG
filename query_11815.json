@@ -1,0 +1,10 @@
+{
+  "query": "When was The Munster Express newspaper founded?",
+  "response": [
+    "doc_19790.txt",
+    "doc_19789.txt",
+    "doc_21444.txt",
+    "doc_33075.txt",
+    "doc_21445.txt"
+  ]
+}

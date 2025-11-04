@@ -1,0 +1,10 @@
+{
+  "query": "What is the Danish government’s stated reason for considering re-introducing identity checks?",
+  "response": [
+    "doc_7111.txt",
+    "doc_15970.txt",
+    "doc_5779.txt",
+    "doc_15969.txt",
+    "doc_16267.txt"
+  ]
+}

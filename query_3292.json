@@ -1,0 +1,10 @@
+{
+  "query": "When did the Los Angeles Dodgers first play at Dodger Stadium?",
+  "response": [
+    "doc_35260.txt",
+    "doc_35261.txt",
+    "doc_35262.txt",
+    "doc_35263.txt",
+    "doc_37580.txt"
+  ]
+}

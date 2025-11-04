@@ -1,0 +1,10 @@
+{
+  "query": "Who wrote the Kama Sutra, an erotic how-to manual?",
+  "response": [
+    "doc_24551.txt",
+    "doc_24552.txt",
+    "doc_305.txt",
+    "doc_5664.txt",
+    "doc_6375.txt"
+  ]
+}

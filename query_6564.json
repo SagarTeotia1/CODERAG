@@ -1,0 +1,10 @@
+{
+  "query": "What did Kate del Castillo say about “El Chapo”?",
+  "response": [
+    "doc_6799.txt",
+    "doc_3524.txt",
+    "doc_3387.txt",
+    "doc_3379.txt",
+    "doc_4180.txt"
+  ]
+}

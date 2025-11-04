@@ -1,0 +1,10 @@
+{
+  "query": "Which airline is home to the airport in Mauritius?",
+  "response": [
+    "doc_27678.txt",
+    "doc_17185.txt",
+    "doc_17186.txt",
+    "doc_16281.txt",
+    "doc_20198.txt"
+  ]
+}

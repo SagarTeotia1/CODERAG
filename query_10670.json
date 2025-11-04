@@ -1,0 +1,10 @@
+{
+  "query": "Name one chair designed by Arne Jacobsen.",
+  "response": [
+    "doc_16795.txt",
+    "doc_16792.txt",
+    "doc_16793.txt",
+    "doc_16794.txt",
+    "doc_27020.txt"
+  ]
+}

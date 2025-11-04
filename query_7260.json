@@ -1,0 +1,10 @@
+{
+  "query": "Which artist collaborated with Fraser T Smith on the song “Your Biggest Mistake”?",
+  "response": [
+    "doc_22524.txt",
+    "doc_15900.txt",
+    "doc_15906.txt",
+    "doc_15907.txt",
+    "doc_15911.txt"
+  ]
+}

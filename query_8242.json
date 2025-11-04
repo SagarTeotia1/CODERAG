@@ -1,0 +1,10 @@
+{
+  "query": "What records does the speaker have regarding soldiers who have served in Derry?",
+  "response": [
+    "doc_27546.txt",
+    "doc_9772.txt",
+    "doc_27553.txt",
+    "doc_27541.txt",
+    "doc_9770.txt"
+  ]
+}

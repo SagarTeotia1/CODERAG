@@ -1,0 +1,10 @@
+{
+  "query": "What year was the H. J. Heinz Company founded?",
+  "response": [
+    "doc_4858.txt",
+    "doc_5187.txt",
+    "doc_20972.txt",
+    "doc_5191.txt",
+    "doc_20082.txt"
+  ]
+}

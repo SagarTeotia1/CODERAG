@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided text, what is the Venus de Milo known as?",
+  "response": [
+    "doc_33034.txt",
+    "doc_33035.txt",
+    "doc_33036.txt",
+    "doc_33031.txt",
+    "doc_33033.txt"
+  ]
+}

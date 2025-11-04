@@ -1,0 +1,10 @@
+{
+  "query": "What city did Erich Ludendorff capture early in World War I?",
+  "response": [
+    "doc_32688.txt",
+    "doc_32690.txt",
+    "doc_32689.txt",
+    "doc_2746.txt",
+    "doc_9672.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of part-time employment in 2005, as reported by Eurostat, was involuntary?",
+  "response": [
+    "doc_15102.txt",
+    "doc_13814.txt",
+    "doc_7521.txt",
+    "doc_7520.txt",
+    "doc_11786.txt"
+  ]
+}

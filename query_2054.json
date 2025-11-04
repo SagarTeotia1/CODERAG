@@ -1,0 +1,10 @@
+{
+  "query": "How old is the Reuben sandwich, according to a BlueMauMau article?",
+  "response": [
+    "doc_32346.txt",
+    "doc_1820.txt",
+    "doc_31815.txt",
+    "doc_3717.txt",
+    "doc_20323.txt"
+  ]
+}

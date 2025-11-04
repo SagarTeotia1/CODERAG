@@ -1,0 +1,10 @@
+{
+  "query": "Besides “Lou Gehrig’s disease,” what other name is associated with Amyotrophic Lateral Sclerosis (ALS)?",
+  "response": [
+    "doc_31628.txt",
+    "doc_31631.txt",
+    "doc_31629.txt",
+    "doc_31630.txt",
+    "doc_31632.txt"
+  ]
+}

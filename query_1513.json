@@ -1,0 +1,10 @@
+{
+  "query": "What emotions does Spears associate with “Mandolin Summer Sun”?",
+  "response": [
+    "doc_30957.txt",
+    "doc_30956.txt",
+    "doc_6710.txt",
+    "doc_7974.txt",
+    "doc_6715.txt"
+  ]
+}

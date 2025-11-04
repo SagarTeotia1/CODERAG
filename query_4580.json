@@ -1,0 +1,10 @@
+{
+  "query": "Which two players partnered together in the 2001 Canada Masters – Doubles, and who did they lose to in the first round?",
+  "response": [
+    "doc_38343.txt",
+    "doc_8671.txt",
+    "doc_35043.txt",
+    "doc_14949.txt",
+    "doc_39093.txt"
+  ]
+}

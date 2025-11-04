@@ -1,0 +1,10 @@
+{
+  "query": "What was Lori Drew indicted on in 2008?",
+  "response": [
+    "doc_16927.txt",
+    "doc_12999.txt",
+    "doc_1286.txt",
+    "doc_33191.txt",
+    "doc_33193.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the Inter-Allied Declaration signed?",
+  "response": [
+    "doc_21040.txt",
+    "doc_9675.txt",
+    "doc_9671.txt",
+    "doc_9669.txt",
+    "doc_12640.txt"
+  ]
+}

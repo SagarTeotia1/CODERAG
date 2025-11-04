@@ -1,0 +1,10 @@
+{
+  "query": "Where is the Arctic Circle located, and what is its approximate latitude?",
+  "response": [
+    "doc_20738.txt",
+    "doc_21196.txt",
+    "doc_16714.txt",
+    "doc_15360.txt",
+    "doc_15363.txt"
+  ]
+}

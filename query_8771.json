@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how many people died and disappeared during El Salvador’s civil war, as documented in “Children of Memory”?",
+  "response": [
+    "doc_18979.txt",
+    "doc_6595.txt",
+    "doc_14170.txt",
+    "doc_18980.txt",
+    "doc_18988.txt"
+  ]
+}

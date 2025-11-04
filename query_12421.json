@@ -1,0 +1,10 @@
+{
+  "query": "What is the tagline associated with the *Men in Black* films?",
+  "response": [
+    "doc_2049.txt",
+    "doc_2048.txt",
+    "doc_2047.txt",
+    "doc_2050.txt",
+    "doc_17667.txt"
+  ]
+}

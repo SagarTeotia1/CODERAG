@@ -1,0 +1,10 @@
+{
+  "query": "What three types of information are required in quarterly reports regarding the research groups and the Network?",
+  "response": [
+    "doc_7381.txt",
+    "doc_30702.txt",
+    "doc_24732.txt",
+    "doc_38640.txt",
+    "doc_2103.txt"
+  ]
+}

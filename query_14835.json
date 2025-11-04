@@ -1,0 +1,10 @@
+{
+  "query": "Where did the speaker cycle to after reaching Verona?",
+  "response": [
+    "doc_16544.txt",
+    "doc_34227.txt",
+    "doc_36072.txt",
+    "doc_36069.txt",
+    "doc_20102.txt"
+  ]
+}

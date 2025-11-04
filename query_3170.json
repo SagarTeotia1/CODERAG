@@ -1,0 +1,10 @@
+{
+  "query": "What specific directives were examined by the Commission to assess the potential impact of the road improvement project on protected habitats and species?",
+  "response": [
+    "doc_35005.txt",
+    "doc_36524.txt",
+    "doc_14495.txt",
+    "doc_27760.txt",
+    "doc_20820.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What changes were implemented in the ECG’s contract model starting in February 2005?",
+  "response": [
+    "doc_33578.txt",
+    "doc_33579.txt",
+    "doc_987.txt",
+    "doc_1789.txt",
+    "doc_5490.txt"
+  ]
+}

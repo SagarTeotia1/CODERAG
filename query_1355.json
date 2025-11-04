@@ -1,0 +1,10 @@
+{
+  "query": "Who was Olaf Tryggvason’s father?",
+  "response": [
+    "doc_30594.txt",
+    "doc_30593.txt",
+    "doc_30592.txt",
+    "doc_30595.txt",
+    "doc_30591.txt"
+  ]
+}

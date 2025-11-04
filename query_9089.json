@@ -1,0 +1,10 @@
+{
+  "query": "Which languages does Radio Free Asia (RFA) broadcast in, and what was its budget in 2002?",
+  "response": [
+    "doc_11810.txt",
+    "doc_23652.txt",
+    "doc_2494.txt",
+    "doc_12431.txt",
+    "doc_11809.txt"
+  ]
+}

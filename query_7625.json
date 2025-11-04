@@ -1,0 +1,10 @@
+{
+  "query": "In what year did the first Europeans likely reach Chicago, according to the passage?",
+  "response": [
+    "doc_9405.txt",
+    "doc_9401.txt",
+    "doc_9408.txt",
+    "doc_9409.txt",
+    "doc_9400.txt"
+  ]
+}

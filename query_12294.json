@@ -1,0 +1,10 @@
+{
+  "query": "Which sea does the Republic of Croatia lie on?",
+  "response": [
+    "doc_20833.txt",
+    "doc_20836.txt",
+    "doc_20835.txt",
+    "doc_20831.txt",
+    "doc_20834.txt"
+  ]
+}

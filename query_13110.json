@@ -1,0 +1,10 @@
+{
+  "query": "In what year did the Amsterdam Admirals win their first World Bowl championship?",
+  "response": [
+    "doc_4272.txt",
+    "doc_14705.txt",
+    "doc_12460.txt",
+    "doc_2213.txt",
+    "doc_12468.txt"
+  ]
+}

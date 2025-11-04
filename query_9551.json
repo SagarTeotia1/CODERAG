@@ -1,0 +1,10 @@
+{
+  "query": "What countries’ police forces were involved in the operation, besides Spain?",
+  "response": [
+    "doc_14103.txt",
+    "doc_35337.txt",
+    "doc_29917.txt",
+    "doc_21927.txt",
+    "doc_4266.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what regions did Cossacks primarily serve as cavalry units?",
+  "response": [
+    "doc_30383.txt",
+    "doc_3658.txt",
+    "doc_22428.txt",
+    "doc_20279.txt",
+    "doc_15528.txt"
+  ]
+}

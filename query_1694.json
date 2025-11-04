@@ -1,0 +1,10 @@
+{
+  "query": "What sports did John F. Kennedy participate in during his time at Harvard?",
+  "response": [
+    "doc_31418.txt",
+    "doc_31419.txt",
+    "doc_31425.txt",
+    "doc_13721.txt",
+    "doc_34640.txt"
+  ]
+}

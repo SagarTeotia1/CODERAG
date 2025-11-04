@@ -1,0 +1,10 @@
+{
+  "query": "What was the role of Jack Phillips in relation to the Titanic’s Marconi Room?",
+  "response": [
+    "doc_5074.txt",
+    "doc_5072.txt",
+    "doc_5073.txt",
+    "doc_5071.txt",
+    "doc_5076.txt"
+  ]
+}

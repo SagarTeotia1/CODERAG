@@ -1,0 +1,10 @@
+{
+  "query": "What article of the EC Treaty outlines the Commission’s role in ensuring Community law is implemented?",
+  "response": [
+    "doc_1495.txt",
+    "doc_37181.txt",
+    "doc_2691.txt",
+    "doc_29395.txt",
+    "doc_2688.txt"
+  ]
+}

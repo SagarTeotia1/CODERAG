@@ -1,0 +1,10 @@
+{
+  "query": "What was Edna Ferber’s profession for most of her adult life?",
+  "response": [
+    "doc_37325.txt",
+    "doc_13353.txt",
+    "doc_37330.txt",
+    "doc_37323.txt",
+    "doc_37322.txt"
+  ]
+}

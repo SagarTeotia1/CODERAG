@@ -1,0 +1,10 @@
+{
+  "query": "According to one article, what was Frank Lucas’s initial strategy for distributing heroin?",
+  "response": [
+    "doc_6801.txt",
+    "doc_9222.txt",
+    "doc_36700.txt",
+    "doc_9217.txt",
+    "doc_3379.txt"
+  ]
+}

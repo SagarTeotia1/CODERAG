@@ -1,0 +1,10 @@
+{
+  "query": "What is the primary reason the Stability and Growth Pact has been in the news recently?",
+  "response": [
+    "doc_16322.txt",
+    "doc_13514.txt",
+    "doc_26939.txt",
+    "doc_33128.txt",
+    "doc_19469.txt"
+  ]
+}

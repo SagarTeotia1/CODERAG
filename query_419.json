@@ -1,0 +1,10 @@
+{
+  "query": "Which alternative rock band did Stephen Christian formerly lead, and when was that band formed?",
+  "response": [
+    "doc_28270.txt",
+    "doc_38411.txt",
+    "doc_3797.txt",
+    "doc_3796.txt",
+    "doc_34426.txt"
+  ]
+}

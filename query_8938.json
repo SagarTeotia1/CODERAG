@@ -1,0 +1,10 @@
+{
+  "query": "When is Labor Day celebrated in the United States?",
+  "response": [
+    "doc_12650.txt",
+    "doc_12652.txt",
+    "doc_12654.txt",
+    "doc_12651.txt",
+    "doc_12653.txt"
+  ]
+}

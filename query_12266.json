@@ -1,0 +1,10 @@
+{
+  "query": "If EU funds have been used to finance weapons purchases, what amount of money was used and how was it distributed?",
+  "response": [
+    "doc_2018.txt",
+    "doc_26439.txt",
+    "doc_15521.txt",
+    "doc_17523.txt",
+    "doc_15658.txt"
+  ]
+}

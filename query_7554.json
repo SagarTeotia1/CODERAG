@@ -1,0 +1,10 @@
+{
+  "query": "What was the score of the New York Mets going into the last of the 10th inning?",
+  "response": [
+    "doc_9210.txt",
+    "doc_9213.txt",
+    "doc_9212.txt",
+    "doc_9211.txt",
+    "doc_9215.txt"
+  ]
+}

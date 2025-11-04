@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided links, which Verne novel inspired the 1959 film *Journey to the Center of the Earth*?",
+  "response": [
+    "doc_11254.txt",
+    "doc_11251.txt",
+    "doc_11248.txt",
+    "doc_11249.txt",
+    "doc_11250.txt"
+  ]
+}

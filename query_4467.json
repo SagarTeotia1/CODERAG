@@ -1,0 +1,10 @@
+{
+  "query": "What year was Johnny Cash’s album, “Hello, I’m Johnny Cash,” released?",
+  "response": [
+    "doc_1600.txt",
+    "doc_13760.txt",
+    "doc_38862.txt",
+    "doc_36257.txt",
+    "doc_33120.txt"
+  ]
+}

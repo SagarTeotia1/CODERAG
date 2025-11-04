@@ -1,0 +1,10 @@
+{
+  "query": "What is La Quebrada famous for?",
+  "response": [
+    "doc_24013.txt",
+    "doc_24008.txt",
+    "doc_24014.txt",
+    "doc_24010.txt",
+    "doc_24009.txt"
+  ]
+}

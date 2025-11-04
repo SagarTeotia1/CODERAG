@@ -1,0 +1,10 @@
+{
+  "query": "What are some book titles listed in the “Reading Counts” file from Everett Public Schools?",
+  "response": [
+    "doc_7277.txt",
+    "doc_11436.txt",
+    "doc_27822.txt",
+    "doc_11437.txt",
+    "doc_12424.txt"
+  ]
+}

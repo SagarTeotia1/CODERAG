@@ -1,0 +1,10 @@
+{
+  "query": "What did Italian chef Alfonso Iaccarino advocate for regarding food?",
+  "response": [
+    "doc_36426.txt",
+    "doc_20308.txt",
+    "doc_33021.txt",
+    "doc_34221.txt",
+    "doc_32094.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which college football team did Edgar Miller play for, and what was his role on the team?",
+  "response": [
+    "doc_29206.txt",
+    "doc_10453.txt",
+    "doc_5204.txt",
+    "doc_10451.txt",
+    "doc_21540.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year was Wright promoted to defensive coordinator?",
+  "response": [
+    "doc_9445.txt",
+    "doc_25623.txt",
+    "doc_21540.txt",
+    "doc_25630.txt",
+    "doc_32256.txt"
+  ]
+}

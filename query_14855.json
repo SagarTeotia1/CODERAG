@@ -1,0 +1,10 @@
+{
+  "query": "What was the name of the benefit concerts organized by Bob Geldof and Bono in 2005?",
+  "response": [
+    "doc_40185.txt",
+    "doc_14817.txt",
+    "doc_2086.txt",
+    "doc_4198.txt",
+    "doc_15964.txt"
+  ]
+}

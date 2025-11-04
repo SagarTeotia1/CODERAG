@@ -1,0 +1,10 @@
+{
+  "query": "This sailor recounts his 7 voyages to a poor porter named Hindbad.",
+  "response": [
+    "doc_10563.txt",
+    "doc_10562.txt",
+    "doc_10564.txt",
+    "doc_10565.txt",
+    "doc_26845.txt"
+  ]
+}

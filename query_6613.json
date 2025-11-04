@@ -1,0 +1,10 @@
+{
+  "query": "What stance does the Commission take regarding minority groups in India?",
+  "response": [
+    "doc_6938.txt",
+    "doc_5422.txt",
+    "doc_11312.txt",
+    "doc_29955.txt",
+    "doc_35488.txt"
+  ]
+}

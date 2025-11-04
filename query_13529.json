@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission's general stance regarding investigations into tragic events involving journalists?",
+  "response": [
+    "doc_23923.txt",
+    "doc_400.txt",
+    "doc_14223.txt",
+    "doc_20754.txt",
+    "doc_37782.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what film did Victoria Wicks appear alongside James Northcote?",
+  "response": [
+    "doc_27989.txt",
+    "doc_27991.txt",
+    "doc_27990.txt",
+    "doc_27993.txt",
+    "doc_27992.txt"
+  ]
+}

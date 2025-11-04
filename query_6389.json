@@ -1,0 +1,10 @@
+{
+  "query": "What is the primary focus of the H Mart supermarket chain?",
+  "response": [
+    "doc_20080.txt",
+    "doc_29661.txt",
+    "doc_20079.txt",
+    "doc_25664.txt",
+    "doc_16676.txt"
+  ]
+}

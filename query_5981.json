@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the castle where *Hamlet* is primarily set?",
+  "response": [
+    "doc_5305.txt",
+    "doc_5314.txt",
+    "doc_38144.txt",
+    "doc_5306.txt",
+    "doc_5307.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which countries are the primary beneficiaries of the DABLAS Task Force’s efforts?",
+  "response": [
+    "doc_13738.txt",
+    "doc_32156.txt",
+    "doc_19751.txt",
+    "doc_40234.txt",
+    "doc_16558.txt"
+  ]
+}

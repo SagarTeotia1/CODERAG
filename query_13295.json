@@ -1,0 +1,10 @@
+{
+  "query": "Which two individuals are recognized as the \"official\" selectors of the initial College Football All-America Team?",
+  "response": [
+    "doc_23299.txt",
+    "doc_4272.txt",
+    "doc_4273.txt",
+    "doc_4274.txt",
+    "doc_4277.txt"
+  ]
+}

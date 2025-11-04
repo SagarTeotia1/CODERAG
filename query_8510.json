@@ -1,0 +1,10 @@
+{
+  "query": "Which company, Parker Brothers, produced the Ouija Board fortune-telling board?",
+  "response": [
+    "doc_11608.txt",
+    "doc_11606.txt",
+    "doc_11607.txt",
+    "doc_11611.txt",
+    "doc_11609.txt"
+  ]
+}

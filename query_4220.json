@@ -1,0 +1,10 @@
+{
+  "query": "Does it consider the problem of illegal immigration to be a purely Italian issue?",
+  "response": [
+    "doc_12736.txt",
+    "doc_37485.txt",
+    "doc_32279.txt",
+    "doc_19372.txt",
+    "doc_40191.txt"
+  ]
+}

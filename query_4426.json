@@ -1,0 +1,10 @@
+{
+  "query": "What were the numbers of Article 3 proceedings and disciplinary measures taken by IDOC in 2007, 2008, and 2009?",
+  "response": [
+    "doc_37981.txt",
+    "doc_4242.txt",
+    "doc_13592.txt",
+    "doc_29000.txt",
+    "doc_2674.txt"
+  ]
+}

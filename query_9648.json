@@ -1,0 +1,10 @@
+{
+  "query": "Is methyl methacrylate listed in the inventory of cosmetic products established by Commission decision 96/335/EC?",
+  "response": [
+    "doc_14321.txt",
+    "doc_22845.txt",
+    "doc_11884.txt",
+    "doc_22846.txt",
+    "doc_29497.txt"
+  ]
+}

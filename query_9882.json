@@ -1,0 +1,10 @@
+{
+  "query": "What is the main source of household water for Jakarta?",
+  "response": [
+    "doc_13684.txt",
+    "doc_17257.txt",
+    "doc_15411.txt",
+    "doc_6575.txt",
+    "doc_17259.txt"
+  ]
+}

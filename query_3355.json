@@ -1,0 +1,10 @@
+{
+  "query": "What is the primary mission of the Supreme Court Police?",
+  "response": [
+    "doc_22074.txt",
+    "doc_2660.txt",
+    "doc_38316.txt",
+    "doc_29367.txt",
+    "doc_35457.txt"
+  ]
+}

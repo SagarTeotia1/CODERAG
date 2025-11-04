@@ -1,0 +1,10 @@
+{
+  "query": "How many Italian parliament members are either on trial, awaiting an appeal, or have a criminal conviction?",
+  "response": [
+    "doc_33291.txt",
+    "doc_5533.txt",
+    "doc_25318.txt",
+    "doc_1261.txt",
+    "doc_5532.txt"
+  ]
+}

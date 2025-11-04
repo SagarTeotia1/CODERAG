@@ -1,0 +1,10 @@
+{
+  "query": "What was the initial deficit target for Greece’s 2005 budget, as approved by the Greek Parliament?",
+  "response": [
+    "doc_14375.txt",
+    "doc_39232.txt",
+    "doc_16839.txt",
+    "doc_31761.txt",
+    "doc_17706.txt"
+  ]
+}

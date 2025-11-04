@@ -1,0 +1,10 @@
+{
+  "query": "Which fashion designer founded the Valentino SpA brand?",
+  "response": [
+    "doc_20713.txt",
+    "doc_20715.txt",
+    "doc_20714.txt",
+    "doc_13005.txt",
+    "doc_23288.txt"
+  ]
+}

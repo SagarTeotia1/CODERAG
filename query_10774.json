@@ -1,0 +1,10 @@
+{
+  "query": "When did the original Dumbo the Flying Elephant ride open?",
+  "response": [
+    "doc_17032.txt",
+    "doc_17028.txt",
+    "doc_17036.txt",
+    "doc_17029.txt",
+    "doc_17030.txt"
+  ]
+}

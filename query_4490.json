@@ -1,0 +1,10 @@
+{
+  "query": "What roles did Johnny Weissmuller have, both as a swimmer and an actor?",
+  "response": [
+    "doc_37575.txt",
+    "doc_33198.txt",
+    "doc_37573.txt",
+    "doc_20499.txt",
+    "doc_21746.txt"
+  ]
+}

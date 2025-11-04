@@ -1,0 +1,10 @@
+{
+  "query": "What is the “Lost and Found” department associated with?",
+  "response": [
+    "doc_732.txt",
+    "doc_19440.txt",
+    "doc_733.txt",
+    "doc_731.txt",
+    "doc_11116.txt"
+  ]
+}

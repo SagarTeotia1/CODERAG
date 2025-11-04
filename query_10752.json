@@ -1,0 +1,10 @@
+{
+  "query": "Which team was led by Míchel Salgado in the inaugural season of Premier Futsal?",
+  "response": [
+    "doc_16966.txt",
+    "doc_14700.txt",
+    "doc_23793.txt",
+    "doc_23918.txt",
+    "doc_26368.txt"
+  ]
+}

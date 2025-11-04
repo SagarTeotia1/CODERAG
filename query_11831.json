@@ -1,0 +1,10 @@
+{
+  "query": "Near what unfolds “Oedipus at Colonus,” Sophocles’ sequel to “Oedipus Rex”?",
+  "response": [
+    "doc_19823.txt",
+    "doc_19824.txt",
+    "doc_24819.txt",
+    "doc_24815.txt",
+    "doc_24821.txt"
+  ]
+}

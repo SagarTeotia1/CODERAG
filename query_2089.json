@@ -1,0 +1,10 @@
+{
+  "query": "What operations did the Danish foreign ministry undertake to return Danish citizens to Denmark?",
+  "response": [
+    "doc_32450.txt",
+    "doc_30920.txt",
+    "doc_7111.txt",
+    "doc_30921.txt",
+    "doc_20886.txt"
+  ]
+}

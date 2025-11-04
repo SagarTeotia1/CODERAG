@@ -1,0 +1,10 @@
+{
+  "query": "Which band did Eric Bazilian found, and for what song is he best known?",
+  "response": [
+    "doc_37167.txt",
+    "doc_22663.txt",
+    "doc_2988.txt",
+    "doc_2481.txt",
+    "doc_40123.txt"
+  ]
+}

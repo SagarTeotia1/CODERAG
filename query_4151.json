@@ -1,0 +1,10 @@
+{
+  "query": "Which author’s novel served as the basis for a film directed by Erich von Stroheim?",
+  "response": [
+    "doc_6062.txt",
+    "doc_6061.txt",
+    "doc_33215.txt",
+    "doc_23035.txt",
+    "doc_4303.txt"
+  ]
+}

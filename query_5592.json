@@ -1,0 +1,10 @@
+{
+  "query": "What is a synonym for “sap” as described in the definition from Wordplays.com?",
+  "response": [
+    "doc_4262.txt",
+    "doc_4260.txt",
+    "doc_4261.txt",
+    "doc_4263.txt",
+    "doc_32583.txt"
+  ]
+}

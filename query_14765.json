@@ -1,0 +1,10 @@
+{
+  "query": "What breed is the official dog of the U.S. Marine Corps?",
+  "response": [
+    "doc_2575.txt",
+    "doc_2576.txt",
+    "doc_35791.txt",
+    "doc_35787.txt",
+    "doc_38799.txt"
+  ]
+}

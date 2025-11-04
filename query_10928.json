@@ -1,0 +1,10 @@
+{
+  "query": "What company did John Knudsen “Jack” Northrop initially found after leaving Douglas Aircraft?",
+  "response": [
+    "doc_17408.txt",
+    "doc_17407.txt",
+    "doc_17413.txt",
+    "doc_17406.txt",
+    "doc_17412.txt"
+  ]
+}

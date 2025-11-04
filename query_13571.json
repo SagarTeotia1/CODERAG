@@ -1,0 +1,10 @@
+{
+  "query": "According to the Chattanoogan.com obituary, what was Emily Irene Phillips Lasley’s date of death?",
+  "response": [
+    "doc_8879.txt",
+    "doc_8878.txt",
+    "doc_8881.txt",
+    "doc_17649.txt",
+    "doc_30146.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What category does the Commission’s ABAC system assign to contracts awarded since 2005?",
+  "response": [
+    "doc_2800.txt",
+    "doc_3774.txt",
+    "doc_14213.txt",
+    "doc_26877.txt",
+    "doc_9874.txt"
+  ]
+}

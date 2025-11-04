@@ -1,0 +1,10 @@
+{
+  "query": "What kind of information is the Commission gathering?",
+  "response": [
+    "doc_8350.txt",
+    "doc_24720.txt",
+    "doc_11567.txt",
+    "doc_23416.txt",
+    "doc_7373.txt"
+  ]
+}

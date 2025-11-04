@@ -1,0 +1,10 @@
+{
+  "query": "What is the Reykjavik Golf Club’s original name, and why was it changed?",
+  "response": [
+    "doc_31787.txt",
+    "doc_31784.txt",
+    "doc_31781.txt",
+    "doc_31782.txt",
+    "doc_31785.txt"
+  ]
+}

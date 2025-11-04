@@ -1,0 +1,10 @@
+{
+  "query": "Why does the passage state that a special EU judge is needed at the European Court of Human Rights in Strasbourg?",
+  "response": [
+    "doc_648.txt",
+    "doc_649.txt",
+    "doc_11598.txt",
+    "doc_11595.txt",
+    "doc_16224.txt"
+  ]
+}

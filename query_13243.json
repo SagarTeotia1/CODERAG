@@ -1,0 +1,10 @@
+{
+  "query": "How many gold medals did Chile win at the Olympics since 1988?",
+  "response": [
+    "doc_177.txt",
+    "doc_2072.txt",
+    "doc_1470.txt",
+    "doc_176.txt",
+    "doc_25345.txt"
+  ]
+}

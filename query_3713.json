@@ -1,0 +1,10 @@
+{
+  "query": "What musical direction did Skids take with their album “Joy”?",
+  "response": [
+    "doc_36252.txt",
+    "doc_36253.txt",
+    "doc_32662.txt",
+    "doc_17900.txt",
+    "doc_17899.txt"
+  ]
+}

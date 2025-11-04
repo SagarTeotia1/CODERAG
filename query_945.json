@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how many firefighters were battling fires in California in August 2015?",
+  "response": [
+    "doc_29681.txt",
+    "doc_17952.txt",
+    "doc_17953.txt",
+    "doc_17954.txt",
+    "doc_30032.txt"
+  ]
+}

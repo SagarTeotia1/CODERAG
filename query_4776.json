@@ -1,0 +1,10 @@
+{
+  "query": "When and where is the World Health Assembly meeting that the resolution refers to taking place?",
+  "response": [
+    "doc_19956.txt",
+    "doc_20276.txt",
+    "doc_37925.txt",
+    "doc_9982.txt",
+    "doc_9159.txt"
+  ]
+}

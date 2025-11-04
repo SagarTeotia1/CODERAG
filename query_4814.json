@@ -1,0 +1,10 @@
+{
+  "query": "What role did Tamara Karsavina portray in the ballet *Petrushka*?",
+  "response": [
+    "doc_3864.txt",
+    "doc_31886.txt",
+    "doc_31889.txt",
+    "doc_31885.txt",
+    "doc_20869.txt"
+  ]
+}

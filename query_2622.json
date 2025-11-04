@@ -1,0 +1,10 @@
+{
+  "query": "Which international organizations are being invited to report on the situation in the North Caucasus region?",
+  "response": [
+    "doc_12386.txt",
+    "doc_8258.txt",
+    "doc_8257.txt",
+    "doc_22428.txt",
+    "doc_33795.txt"
+  ]
+}

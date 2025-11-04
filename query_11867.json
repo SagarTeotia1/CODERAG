@@ -1,0 +1,10 @@
+{
+  "query": "What role did CBS News play in the lead-up to the dispute involving George H.W. Bush?",
+  "response": [
+    "doc_19914.txt",
+    "doc_19913.txt",
+    "doc_7934.txt",
+    "doc_19915.txt",
+    "doc_19920.txt"
+  ]
+}

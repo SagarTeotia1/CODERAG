@@ -1,0 +1,10 @@
+{
+  "query": "What is the highest-ranked city in the U.S. for happiness and health?",
+  "response": [
+    "doc_34889.txt",
+    "doc_18959.txt",
+    "doc_26974.txt",
+    "doc_18960.txt",
+    "doc_34886.txt"
+  ]
+}

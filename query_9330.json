@@ -1,0 +1,10 @@
+{
+  "query": "What is the title of a book by Jim Backus?",
+  "response": [
+    "doc_2976.txt",
+    "doc_2975.txt",
+    "doc_5349.txt",
+    "doc_38058.txt",
+    "doc_5346.txt"
+  ]
+}

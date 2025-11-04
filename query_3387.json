@@ -1,0 +1,10 @@
+{
+  "query": "What international documents were referenced in relation to the situation concerning Ales Bialatski’s arrest?",
+  "response": [
+    "doc_35461.txt",
+    "doc_35462.txt",
+    "doc_9190.txt",
+    "doc_31048.txt",
+    "doc_35463.txt"
+  ]
+}

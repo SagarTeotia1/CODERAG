@@ -1,0 +1,10 @@
+{
+  "query": "Where is the Jacobson’s organ located within a snake’s anatomy?",
+  "response": [
+    "doc_3799.txt",
+    "doc_3803.txt",
+    "doc_3805.txt",
+    "doc_3801.txt",
+    "doc_3804.txt"
+  ]
+}

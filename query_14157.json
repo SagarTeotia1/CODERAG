@@ -1,0 +1,10 @@
+{
+  "query": "According to archival documents, how many mosques were located on the Crimean peninsula before the 1853-1856 Crimean War?",
+  "response": [
+    "doc_25444.txt",
+    "doc_25441.txt",
+    "doc_25448.txt",
+    "doc_25442.txt",
+    "doc_25440.txt"
+  ]
+}

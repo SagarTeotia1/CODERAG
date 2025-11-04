@@ -1,0 +1,10 @@
+{
+  "query": "What states does the IC&E line serve?",
+  "response": [
+    "doc_40291.txt",
+    "doc_4636.txt",
+    "doc_40289.txt",
+    "doc_24891.txt",
+    "doc_17762.txt"
+  ]
+}

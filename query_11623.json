@@ -1,0 +1,10 @@
+{
+  "query": "What type of fusion device is Wendelstein 7-X, and what is its alternative configuration?",
+  "response": [
+    "doc_27285.txt",
+    "doc_18374.txt",
+    "doc_3603.txt",
+    "doc_18766.txt",
+    "doc_3600.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which virtue is centered around in Book VI of *The Faerie Queene*?",
+  "response": [
+    "doc_1182.txt",
+    "doc_1179.txt",
+    "doc_1184.txt",
+    "doc_1176.txt",
+    "doc_1185.txt"
+  ]
+}

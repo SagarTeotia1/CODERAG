@@ -1,0 +1,10 @@
+{
+  "query": "For what is George M. Cohan primarily remembered today?",
+  "response": [
+    "doc_39415.txt",
+    "doc_11491.txt",
+    "doc_39417.txt",
+    "doc_39416.txt",
+    "doc_39420.txt"
+  ]
+}

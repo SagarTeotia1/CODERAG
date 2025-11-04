@@ -1,0 +1,10 @@
+{
+  "query": "Where is Palmyra located in relation to the equator?",
+  "response": [
+    "doc_20740.txt",
+    "doc_18845.txt",
+    "doc_30011.txt",
+    "doc_28030.txt",
+    "doc_24346.txt"
+  ]
+}

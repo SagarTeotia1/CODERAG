@@ -1,0 +1,10 @@
+{
+  "query": "Which establishments in Ireland does the Commission believe should not be classified as ‘exempted institutions’ under the Public Lending Rights Directive?",
+  "response": [
+    "doc_3345.txt",
+    "doc_37474.txt",
+    "doc_39535.txt",
+    "doc_37225.txt",
+    "doc_20182.txt"
+  ]
+}

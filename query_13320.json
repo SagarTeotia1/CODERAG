@@ -1,0 +1,10 @@
+{
+  "query": "Who did Candy Brown dedicate her books to?",
+  "response": [
+    "doc_28538.txt",
+    "doc_1558.txt",
+    "doc_1557.txt",
+    "doc_14803.txt",
+    "doc_10960.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When was the 13th Pennsylvania Regiment raised?",
+  "response": [
+    "doc_7624.txt",
+    "doc_7623.txt",
+    "doc_12885.txt",
+    "doc_12886.txt",
+    "doc_12889.txt"
+  ]
+}

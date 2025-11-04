@@ -1,0 +1,10 @@
+{
+  "query": "Which Swiss artist designed the eponymous Alien and its elements?",
+  "response": [
+    "doc_28370.txt",
+    "doc_30863.txt",
+    "doc_17701.txt",
+    "doc_28371.txt",
+    "doc_2409.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which film featured Alan Ruck alongside Geena Davis in a 2016 television adaptation of “The Exorcist”?",
+  "response": [
+    "doc_28230.txt",
+    "doc_28231.txt",
+    "doc_12804.txt",
+    "doc_36816.txt",
+    "doc_2970.txt"
+  ]
+}

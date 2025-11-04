@@ -1,0 +1,10 @@
+{
+  "query": "When did Vijay Singh enter the PGA Tour?",
+  "response": [
+    "doc_16902.txt",
+    "doc_16897.txt",
+    "doc_16903.txt",
+    "doc_16901.txt",
+    "doc_16900.txt"
+  ]
+}

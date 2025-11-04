@@ -1,0 +1,10 @@
+{
+  "query": "According to one article, what is the maximum speed attained by the X-15 aircraft during its flight program?",
+  "response": [
+    "doc_32166.txt",
+    "doc_32163.txt",
+    "doc_5910.txt",
+    "doc_32162.txt",
+    "doc_32168.txt"
+  ]
+}

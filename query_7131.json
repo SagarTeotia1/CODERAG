@@ -1,0 +1,10 @@
+{
+  "query": "In 1891, what document was adopted by the Social Democratic Party in Erfurt?",
+  "response": [
+    "doc_8204.txt",
+    "doc_40160.txt",
+    "doc_8205.txt",
+    "doc_40161.txt",
+    "doc_37243.txt"
+  ]
+}

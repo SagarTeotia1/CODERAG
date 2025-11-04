@@ -1,0 +1,10 @@
+{
+  "query": "What nickname did Ed Mason receive?",
+  "response": [
+    "doc_30177.txt",
+    "doc_29645.txt",
+    "doc_9442.txt",
+    "doc_36823.txt",
+    "doc_23154.txt"
+  ]
+}

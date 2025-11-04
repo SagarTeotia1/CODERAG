@@ -1,0 +1,10 @@
+{
+  "query": "Where did Jessica Taylor represent England?",
+  "response": [
+    "doc_23791.txt",
+    "doc_4434.txt",
+    "doc_5279.txt",
+    "doc_14372.txt",
+    "doc_30819.txt"
+  ]
+}

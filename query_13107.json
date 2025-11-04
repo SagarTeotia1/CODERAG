@@ -1,0 +1,10 @@
+{
+  "query": "What is the total amount of funding available through the Vulnerability FLEX mechanism?",
+  "response": [
+    "doc_22949.txt",
+    "doc_22948.txt",
+    "doc_26435.txt",
+    "doc_12100.txt",
+    "doc_7286.txt"
+  ]
+}

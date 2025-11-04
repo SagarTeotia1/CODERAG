@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Jamie Lee Curtis make her film debut as Laurie Strode?",
+  "response": [
+    "doc_7577.txt",
+    "doc_13027.txt",
+    "doc_13030.txt",
+    "doc_13026.txt",
+    "doc_13022.txt"
+  ]
+}

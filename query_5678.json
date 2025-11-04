@@ -1,0 +1,10 @@
+{
+  "query": "How much money have Irish farmers spent in the last two years to comply with the Nitrates Directive?",
+  "response": [
+    "doc_4502.txt",
+    "doc_4699.txt",
+    "doc_8304.txt",
+    "doc_25452.txt",
+    "doc_24574.txt"
+  ]
+}

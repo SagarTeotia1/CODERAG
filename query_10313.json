@@ -1,0 +1,10 @@
+{
+  "query": "Which fund is the rail track development and station Ilsenburg project supported by?",
+  "response": [
+    "doc_16044.txt",
+    "doc_27747.txt",
+    "doc_36524.txt",
+    "doc_21804.txt",
+    "doc_33981.txt"
+  ]
+}

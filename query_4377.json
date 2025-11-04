@@ -1,0 +1,10 @@
+{
+  "query": "In what year did he co-host “The X Factor”?",
+  "response": [
+    "doc_26173.txt",
+    "doc_39256.txt",
+    "doc_37836.txt",
+    "doc_26175.txt",
+    "doc_39257.txt"
+  ]
+}

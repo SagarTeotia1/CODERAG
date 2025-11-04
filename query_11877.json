@@ -1,0 +1,10 @@
+{
+  "query": "When was skeleton first contested as an Olympic sport?",
+  "response": [
+    "doc_1918.txt",
+    "doc_1920.txt",
+    "doc_1919.txt",
+    "doc_18105.txt",
+    "doc_18104.txt"
+  ]
+}

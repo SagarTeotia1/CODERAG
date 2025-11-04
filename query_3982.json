@@ -1,0 +1,10 @@
+{
+  "query": "Which operas did Gregor appear in with the Portland Opera and Houston Grand Opera?",
+  "response": [
+    "doc_35202.txt",
+    "doc_35288.txt",
+    "doc_2791.txt",
+    "doc_35289.txt",
+    "doc_35294.txt"
+  ]
+}

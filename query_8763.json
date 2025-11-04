@@ -1,0 +1,10 @@
+{
+  "query": "What is Colombia known for in terms of television ratings?",
+  "response": [
+    "doc_12217.txt",
+    "doc_12213.txt",
+    "doc_34796.txt",
+    "doc_34792.txt",
+    "doc_34793.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What types of dining experiences are offered at The Resort at Pelican Hill (e.g., seasonal menus, ocean-view terraces)?",
+  "response": [
+    "doc_22421.txt",
+    "doc_21016.txt",
+    "doc_6761.txt",
+    "doc_20580.txt",
+    "doc_9856.txt"
+  ]
+}

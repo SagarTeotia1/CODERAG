@@ -1,0 +1,10 @@
+{
+  "query": "What types of organizations do *not* provide information to the EUMS Intelligence Directorate?",
+  "response": [
+    "doc_32794.txt",
+    "doc_6645.txt",
+    "doc_2661.txt",
+    "doc_39007.txt",
+    "doc_26638.txt"
+  ]
+}

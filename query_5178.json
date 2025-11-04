@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of the global flower market value does the EU represent, according to the Commission's statement?",
+  "response": [
+    "doc_39786.txt",
+    "doc_25683.txt",
+    "doc_39157.txt",
+    "doc_39686.txt",
+    "doc_38179.txt"
+  ]
+}

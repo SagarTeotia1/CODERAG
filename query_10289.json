@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what is Ian Wilson's name?",
+  "response": [
+    "doc_18384.txt",
+    "doc_19489.txt",
+    "doc_37167.txt",
+    "doc_18385.txt",
+    "doc_39035.txt"
+  ]
+}

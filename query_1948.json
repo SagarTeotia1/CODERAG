@@ -1,0 +1,10 @@
+{
+  "query": "What role did Haile Selassie play at the League of Nations in 1936?",
+  "response": [
+    "doc_32086.txt",
+    "doc_32089.txt",
+    "doc_32088.txt",
+    "doc_32087.txt",
+    "doc_32090.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what years did Norman Thomas run for president as a Socialist?",
+  "response": [
+    "doc_28235.txt",
+    "doc_28236.txt",
+    "doc_28237.txt",
+    "doc_28239.txt",
+    "doc_28238.txt"
+  ]
+}

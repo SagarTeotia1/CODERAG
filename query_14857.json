@@ -1,0 +1,10 @@
+{
+  "query": "What is Steve Kazee’s profession?",
+  "response": [
+    "doc_20607.txt",
+    "doc_18237.txt",
+    "doc_4878.txt",
+    "doc_33626.txt",
+    "doc_37167.txt"
+  ]
+}

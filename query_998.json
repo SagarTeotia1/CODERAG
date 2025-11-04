@@ -1,0 +1,10 @@
+{
+  "query": "Which team won the 2016 National League play-off Final?",
+  "response": [
+    "doc_29789.txt",
+    "doc_29788.txt",
+    "doc_16759.txt",
+    "doc_31200.txt",
+    "doc_14705.txt"
+  ]
+}

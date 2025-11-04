@@ -1,0 +1,10 @@
+{
+  "query": "Did Mr. Kallas state that this requirement applies to all driving licences?",
+  "response": [
+    "doc_18019.txt",
+    "doc_6817.txt",
+    "doc_6822.txt",
+    "doc_11468.txt",
+    "doc_6815.txt"
+  ]
+}

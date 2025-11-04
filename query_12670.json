@@ -1,0 +1,10 @@
+{
+  "query": "Where did the 2012 Georgia State Panthers softball team play their home games?",
+  "response": [
+    "doc_21843.txt",
+    "doc_21842.txt",
+    "doc_8424.txt",
+    "doc_20705.txt",
+    "doc_20002.txt"
+  ]
+}

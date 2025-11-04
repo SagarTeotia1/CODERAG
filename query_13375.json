@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission’s current stance regarding the compatibility of the gas-oil price link with competition law?",
+  "response": [
+    "doc_23502.txt",
+    "doc_10155.txt",
+    "doc_13789.txt",
+    "doc_23642.txt",
+    "doc_1706.txt"
+  ]
+}

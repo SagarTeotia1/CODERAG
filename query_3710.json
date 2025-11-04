@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the Athens War Museum established?",
+  "response": [
+    "doc_36244.txt",
+    "doc_19776.txt",
+    "doc_19773.txt",
+    "doc_19772.txt",
+    "doc_19770.txt"
+  ]
+}

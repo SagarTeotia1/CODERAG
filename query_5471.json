@@ -1,0 +1,10 @@
+{
+  "query": "What island did Paul Gauguin call home during his time as an artist?",
+  "response": [
+    "doc_20198.txt",
+    "doc_27474.txt",
+    "doc_27472.txt",
+    "doc_27475.txt",
+    "doc_27473.txt"
+  ]
+}

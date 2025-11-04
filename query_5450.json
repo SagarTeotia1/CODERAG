@@ -1,0 +1,10 @@
+{
+  "query": "What types of events are mentioned as contributing to the cultural diversity of the European Union?",
+  "response": [
+    "doc_7703.txt",
+    "doc_9150.txt",
+    "doc_7881.txt",
+    "doc_40303.txt",
+    "doc_8892.txt"
+  ]
+}

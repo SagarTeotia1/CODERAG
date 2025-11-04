@@ -1,0 +1,10 @@
+{
+  "query": "Which musical style did Sly Stone inspire with his records?",
+  "response": [
+    "doc_23949.txt",
+    "doc_26685.txt",
+    "doc_3349.txt",
+    "doc_23951.txt",
+    "doc_23952.txt"
+  ]
+}

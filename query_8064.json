@@ -1,0 +1,10 @@
+{
+  "query": "For which minor league baseball team does Joshua Carroll currently serve as a public address announcer?",
+  "response": [
+    "doc_10536.txt",
+    "doc_20092.txt",
+    "doc_20093.txt",
+    "doc_20091.txt",
+    "doc_20094.txt"
+  ]
+}

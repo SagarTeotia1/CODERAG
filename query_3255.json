@@ -1,0 +1,10 @@
+{
+  "query": "When did the Bolivian Minister of the Presidency visit Brussels, and what was the purpose of his visit?",
+  "response": [
+    "doc_35170.txt",
+    "doc_23699.txt",
+    "doc_29159.txt",
+    "doc_32095.txt",
+    "doc_23700.txt"
+  ]
+}

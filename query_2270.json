@@ -1,0 +1,10 @@
+{
+  "query": "Which army was disbanded by the CPA?",
+  "response": [
+    "doc_12317.txt",
+    "doc_12320.txt",
+    "doc_34506.txt",
+    "doc_12322.txt",
+    "doc_12321.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "On what network did the first season of \"Halloween Baking Championship\" premiere?",
+  "response": [
+    "doc_39999.txt",
+    "doc_12942.txt",
+    "doc_13522.txt",
+    "doc_25548.txt",
+    "doc_9178.txt"
+  ]
+}

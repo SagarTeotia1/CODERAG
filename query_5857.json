@@ -1,0 +1,10 @@
+{
+  "query": "According to OLAF, are there any documented allegations of fraud related to border control equipment funded by the Transition Facility?",
+  "response": [
+    "doc_5027.txt",
+    "doc_7750.txt",
+    "doc_1352.txt",
+    "doc_1951.txt",
+    "doc_37981.txt"
+  ]
+}

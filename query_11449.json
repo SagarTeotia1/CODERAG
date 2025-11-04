@@ -1,0 +1,10 @@
+{
+  "query": "What type of painter is Clara Peeters?",
+  "response": [
+    "doc_18723.txt",
+    "doc_18722.txt",
+    "doc_18731.txt",
+    "doc_16537.txt",
+    "doc_34044.txt"
+  ]
+}

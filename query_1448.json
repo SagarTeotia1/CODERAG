@@ -1,0 +1,10 @@
+{
+  "query": "When did Mahalia Jackson perform at the funeral of Martin Luther King Jr.?",
+  "response": [
+    "doc_2996.txt",
+    "doc_2998.txt",
+    "doc_2995.txt",
+    "doc_2999.txt",
+    "doc_2997.txt"
+  ]
+}

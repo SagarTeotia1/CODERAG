@@ -1,0 +1,10 @@
+{
+  "query": "In what state do the Blackfoot people live?",
+  "response": [
+    "doc_36408.txt",
+    "doc_36409.txt",
+    "doc_34607.txt",
+    "doc_8927.txt",
+    "doc_8928.txt"
+  ]
+}

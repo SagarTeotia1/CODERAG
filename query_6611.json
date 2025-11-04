@@ -1,0 +1,10 @@
+{
+  "query": "Under the Schengen Agreement, what is the maximum validity period for a certificate certifying medicines for personal use?",
+  "response": [
+    "doc_647.txt",
+    "doc_13328.txt",
+    "doc_3355.txt",
+    "doc_10132.txt",
+    "doc_30690.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which artist is credited with painting portraits of figures like Eleanor Roosevelt and Bryant Gumbel?",
+  "response": [
+    "doc_1224.txt",
+    "doc_1225.txt",
+    "doc_1223.txt",
+    "doc_14761.txt",
+    "doc_1218.txt"
+  ]
+}

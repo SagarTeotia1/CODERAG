@@ -1,0 +1,10 @@
+{
+  "query": "What caused damage to nine branches of the Santa Clara County Library System?",
+  "response": [
+    "doc_9553.txt",
+    "doc_30031.txt",
+    "doc_9545.txt",
+    "doc_29681.txt",
+    "doc_9546.txt"
+  ]
+}

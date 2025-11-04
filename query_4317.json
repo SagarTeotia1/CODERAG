@@ -1,0 +1,10 @@
+{
+  "query": "What was the winning percentage of the Hamilton Redbirds in 1992?",
+  "response": [
+    "doc_37699.txt",
+    "doc_7460.txt",
+    "doc_7462.txt",
+    "doc_8292.txt",
+    "doc_7465.txt"
+  ]
+}

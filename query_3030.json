@@ -1,0 +1,10 @@
+{
+  "query": "Which film served as the closing film at the 55th Berlin International Film Festival?",
+  "response": [
+    "doc_34718.txt",
+    "doc_34717.txt",
+    "doc_18852.txt",
+    "doc_18856.txt",
+    "doc_18855.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of the EU GDP is attributed to fiscal fraud and tax evasion?",
+  "response": [
+    "doc_14963.txt",
+    "doc_26700.txt",
+    "doc_24840.txt",
+    "doc_40226.txt",
+    "doc_34233.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What position does Ellen Johnson Sirleaf currently hold?",
+  "response": [
+    "doc_3534.txt",
+    "doc_5793.txt",
+    "doc_36756.txt",
+    "doc_17906.txt",
+    "doc_17907.txt"
+  ]
+}

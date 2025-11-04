@@ -1,0 +1,10 @@
+{
+  "query": "What are the titles of Dennis Miller’s books related to ranting?",
+  "response": [
+    "doc_22774.txt",
+    "doc_22772.txt",
+    "doc_22773.txt",
+    "doc_22771.txt",
+    "doc_22770.txt"
+  ]
+}

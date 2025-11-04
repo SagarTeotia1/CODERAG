@@ -1,0 +1,10 @@
+{
+  "query": "Which film was directed by Wesley Ruggles and starred Richard Dix and Irene Dunne?",
+  "response": [
+    "doc_20350.txt",
+    "doc_25340.txt",
+    "doc_18327.txt",
+    "doc_10208.txt",
+    "doc_18326.txt"
+  ]
+}

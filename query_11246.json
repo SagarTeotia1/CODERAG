@@ -1,0 +1,10 @@
+{
+  "query": "What type of club was formed at the University of Kansas to create an activity?",
+  "response": [
+    "doc_18236.txt",
+    "doc_18235.txt",
+    "doc_18239.txt",
+    "doc_25801.txt",
+    "doc_25802.txt"
+  ]
+}

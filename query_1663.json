@@ -1,0 +1,10 @@
+{
+  "query": "What is the title of one of the Edgar Allan Poe collections listed?",
+  "response": [
+    "doc_31331.txt",
+    "doc_14995.txt",
+    "doc_31328.txt",
+    "doc_14994.txt",
+    "doc_10048.txt"
+  ]
+}

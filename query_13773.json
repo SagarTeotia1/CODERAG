@@ -1,0 +1,10 @@
+{
+  "query": "What types of vehicles are mentioned as being crucial for EUFOR’s operations?",
+  "response": [
+    "doc_24526.txt",
+    "doc_24527.txt",
+    "doc_37098.txt",
+    "doc_17523.txt",
+    "doc_12100.txt"
+  ]
+}

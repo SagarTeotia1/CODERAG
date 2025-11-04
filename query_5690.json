@@ -1,0 +1,10 @@
+{
+  "query": "What is the number of illegal immigrants that landed on the Maltese islands in 2008, according to the Commission?",
+  "response": [
+    "doc_4542.txt",
+    "doc_8112.txt",
+    "doc_9862.txt",
+    "doc_37485.txt",
+    "doc_37742.txt"
+  ]
+}

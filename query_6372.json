@@ -1,0 +1,10 @@
+{
+  "query": "Which band covered the song “Hunter”?",
+  "response": [
+    "doc_21708.txt",
+    "doc_6213.txt",
+    "doc_21709.txt",
+    "doc_28935.txt",
+    "doc_18394.txt"
+  ]
+}

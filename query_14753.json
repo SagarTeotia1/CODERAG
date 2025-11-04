@@ -1,0 +1,10 @@
+{
+  "query": "What is the Fortune 500 list and what does it rank?",
+  "response": [
+    "doc_26973.txt",
+    "doc_37674.txt",
+    "doc_26976.txt",
+    "doc_37668.txt",
+    "doc_26975.txt"
+  ]
+}

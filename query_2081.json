@@ -1,0 +1,10 @@
+{
+  "query": "How many times has the Rams franchise changed home cities?",
+  "response": [
+    "doc_32435.txt",
+    "doc_32432.txt",
+    "doc_32434.txt",
+    "doc_20244.txt",
+    "doc_32433.txt"
+  ]
+}

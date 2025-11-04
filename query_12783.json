@@ -1,0 +1,10 @@
+{
+  "query": "In what year did BYU last appear in the World Series?",
+  "response": [
+    "doc_22169.txt",
+    "doc_22165.txt",
+    "doc_22167.txt",
+    "doc_22162.txt",
+    "doc_22168.txt"
+  ]
+}

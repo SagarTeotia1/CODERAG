@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the Ronald and Nancy Reagan Research Institute dedicated?",
+  "response": [
+    "doc_17146.txt",
+    "doc_17152.txt",
+    "doc_17145.txt",
+    "doc_17147.txt",
+    "doc_17150.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What role did Justine Bateman play on the sitcom *Family Ties*?",
+  "response": [
+    "doc_31637.txt",
+    "doc_31638.txt",
+    "doc_31639.txt",
+    "doc_31635.txt",
+    "doc_31636.txt"
+  ]
+}

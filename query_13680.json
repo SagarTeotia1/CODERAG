@@ -1,0 +1,10 @@
+{
+  "query": "What values were promoted by Nazi propaganda, as outlined in the passage?",
+  "response": [
+    "doc_24316.txt",
+    "doc_24317.txt",
+    "doc_6657.txt",
+    "doc_25957.txt",
+    "doc_22263.txt"
+  ]
+}

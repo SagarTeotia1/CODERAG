@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission’s stance regarding Albania’s EU application?",
+  "response": [
+    "doc_32539.txt",
+    "doc_33365.txt",
+    "doc_18307.txt",
+    "doc_10185.txt",
+    "doc_38731.txt"
+  ]
+}

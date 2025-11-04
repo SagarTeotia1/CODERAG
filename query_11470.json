@@ -1,0 +1,10 @@
+{
+  "query": "What was the name of Archie’s daughter?",
+  "response": [
+    "doc_7781.txt",
+    "doc_7782.txt",
+    "doc_7779.txt",
+    "doc_18769.txt",
+    "doc_5067.txt"
+  ]
+}

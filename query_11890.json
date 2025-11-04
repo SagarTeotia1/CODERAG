@@ -1,0 +1,10 @@
+{
+  "query": "What is Velma’s relationship to Shaggy, according to the passage?",
+  "response": [
+    "doc_28102.txt",
+    "doc_28104.txt",
+    "doc_26839.txt",
+    "doc_26847.txt",
+    "doc_28099.txt"
+  ]
+}

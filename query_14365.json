@@ -1,0 +1,10 @@
+{
+  "query": "What types of personal data is the British Government collecting, according to the passage?",
+  "response": [
+    "doc_25973.txt",
+    "doc_18095.txt",
+    "doc_24592.txt",
+    "doc_3003.txt",
+    "doc_32199.txt"
+  ]
+}

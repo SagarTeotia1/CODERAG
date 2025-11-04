@@ -1,0 +1,10 @@
+{
+  "query": "What role did Peter Fonda have in the film *Easy Rider*?",
+  "response": [
+    "doc_3794.txt",
+    "doc_3795.txt",
+    "doc_33283.txt",
+    "doc_8673.txt",
+    "doc_33285.txt"
+  ]
+}

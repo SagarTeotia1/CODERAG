@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission’s response to the claim that the level of compensation for cancelled flights in the EU is disproportionate to the cost of the ticket?",
+  "response": [
+    "doc_24987.txt",
+    "doc_23567.txt",
+    "doc_37999.txt",
+    "doc_36346.txt",
+    "doc_35419.txt"
+  ]
+}

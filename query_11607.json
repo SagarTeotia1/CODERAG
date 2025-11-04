@@ -1,0 +1,10 @@
+{
+  "query": "Which country is Vista Malls located in?",
+  "response": [
+    "doc_19175.txt",
+    "doc_19174.txt",
+    "doc_38890.txt",
+    "doc_27844.txt",
+    "doc_11583.txt"
+  ]
+}

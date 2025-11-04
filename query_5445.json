@@ -1,0 +1,10 @@
+{
+  "query": "What specific damage has occurred to Christian monuments at the archaeological site of Khirbet Midras?",
+  "response": [
+    "doc_40287.txt",
+    "doc_27643.txt",
+    "doc_30359.txt",
+    "doc_15057.txt",
+    "doc_14425.txt"
+  ]
+}

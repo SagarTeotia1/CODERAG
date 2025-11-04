@@ -1,0 +1,10 @@
+{
+  "query": "What was the result of RC Celta de Vigo’s match against Juventus?",
+  "response": [
+    "doc_38605.txt",
+    "doc_26990.txt",
+    "doc_26991.txt",
+    "doc_17583.txt",
+    "doc_23689.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year did St. Helens win their first piece of silverware since 2008?",
+  "response": [
+    "doc_16759.txt",
+    "doc_18655.txt",
+    "doc_29788.txt",
+    "doc_18656.txt",
+    "doc_16760.txt"
+  ]
+}

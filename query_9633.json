@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what character’s name is associated with Frank McCloud in “Key Largo”?",
+  "response": [
+    "doc_35860.txt",
+    "doc_4347.txt",
+    "doc_4348.txt",
+    "doc_4349.txt",
+    "doc_4352.txt"
+  ]
+}

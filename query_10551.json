@@ -1,0 +1,10 @@
+{
+  "query": "Besides The Cardigans, with which artist did Nina Persson appear as a guest artist?",
+  "response": [
+    "doc_38900.txt",
+    "doc_12209.txt",
+    "doc_38903.txt",
+    "doc_38901.txt",
+    "doc_38899.txt"
+  ]
+}

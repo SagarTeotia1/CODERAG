@@ -1,0 +1,10 @@
+{
+  "query": "Who succeeded George Pullman as president of the Pullman Company?",
+  "response": [
+    "doc_2851.txt",
+    "doc_2849.txt",
+    "doc_2853.txt",
+    "doc_2850.txt",
+    "doc_2857.txt"
+  ]
+}

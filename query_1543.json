@@ -1,0 +1,10 @@
+{
+  "query": "What was the setting of Winston Churchill’s novel, *The Crisis*, and what historical event was it set before?",
+  "response": [
+    "doc_19780.txt",
+    "doc_19291.txt",
+    "doc_37638.txt",
+    "doc_21192.txt",
+    "doc_9677.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which film studio adapted “Mara Clara” into a feature film?",
+  "response": [
+    "doc_12941.txt",
+    "doc_12935.txt",
+    "doc_27033.txt",
+    "doc_24723.txt",
+    "doc_12940.txt"
+  ]
+}

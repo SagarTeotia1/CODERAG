@@ -1,0 +1,10 @@
+{
+  "query": "Which actor has portrayed Dr. Monica Quartermaine on *General Hospital* since 1977?",
+  "response": [
+    "doc_3925.txt",
+    "doc_12944.txt",
+    "doc_12945.txt",
+    "doc_39477.txt",
+    "doc_3476.txt"
+  ]
+}

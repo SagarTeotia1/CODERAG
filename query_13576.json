@@ -1,0 +1,10 @@
+{
+  "query": "Does the document regarding a list of Islamic fundamentalists in Somalia suggest a connection between these groups and the Somali Transitional National Government (TNG)?",
+  "response": [
+    "doc_181.txt",
+    "doc_11115.txt",
+    "doc_24400.txt",
+    "doc_3563.txt",
+    "doc_24401.txt"
+  ]
+}

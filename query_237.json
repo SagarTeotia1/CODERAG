@@ -1,0 +1,10 @@
+{
+  "query": "Which EU initiative does the SKA project contribute to, specifically referencing commitments related to open access and international cooperation?",
+  "response": [
+    "doc_2732.txt",
+    "doc_22595.txt",
+    "doc_2424.txt",
+    "doc_23782.txt",
+    "doc_20441.txt"
+  ]
+}

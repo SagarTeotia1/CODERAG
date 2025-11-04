@@ -1,0 +1,10 @@
+{
+  "query": "What is the primary goal of Count Olaf in “A Series of Unfortunate Events”?",
+  "response": [
+    "doc_32853.txt",
+    "doc_32857.txt",
+    "doc_32851.txt",
+    "doc_32847.txt",
+    "doc_10715.txt"
+  ]
+}

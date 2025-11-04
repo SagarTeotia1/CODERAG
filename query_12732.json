@@ -1,0 +1,10 @@
+{
+  "query": "What type of vote is scheduled for “Situation in the Middle East”?",
+  "response": [
+    "doc_31189.txt",
+    "doc_20670.txt",
+    "doc_32443.txt",
+    "doc_22286.txt",
+    "doc_37159.txt"
+  ]
+}

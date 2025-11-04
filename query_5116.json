@@ -1,0 +1,10 @@
+{
+  "query": "Which company acquired Verigy in 2011, and what was the value of the all-cash deal?",
+  "response": [
+    "doc_19421.txt",
+    "doc_10775.txt",
+    "doc_37668.txt",
+    "doc_28745.txt",
+    "doc_26536.txt"
+  ]
+}

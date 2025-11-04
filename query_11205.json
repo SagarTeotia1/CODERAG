@@ -1,0 +1,10 @@
+{
+  "query": "Which EU mechanism facilitated the deployment of assistance to Poland and Hungary following the recent flood disasters?",
+  "response": [
+    "doc_18102.txt",
+    "doc_16242.txt",
+    "doc_16243.txt",
+    "doc_16245.txt",
+    "doc_29805.txt"
+  ]
+}

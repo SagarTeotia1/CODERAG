@@ -1,0 +1,10 @@
+{
+  "query": "Where was Park Place Gallery located?",
+  "response": [
+    "doc_7629.txt",
+    "doc_6068.txt",
+    "doc_13943.txt",
+    "doc_15248.txt",
+    "doc_8107.txt"
+  ]
+}

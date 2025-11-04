@@ -1,0 +1,10 @@
+{
+  "query": "What NBA team is currently based in Minneapolis, Minnesota?",
+  "response": [
+    "doc_10907.txt",
+    "doc_2741.txt",
+    "doc_10905.txt",
+    "doc_9013.txt",
+    "doc_9012.txt"
+  ]
+}

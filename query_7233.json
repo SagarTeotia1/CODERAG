@@ -1,0 +1,10 @@
+{
+  "query": "When did the National Women’s Soccer League (NWSL) establish and what leagues preceded it?",
+  "response": [
+    "doc_811.txt",
+    "doc_36006.txt",
+    "doc_7143.txt",
+    "doc_36007.txt",
+    "doc_17823.txt"
+  ]
+}

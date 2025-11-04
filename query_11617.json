@@ -1,0 +1,10 @@
+{
+  "query": "Which country does the passage state that Qeshm island belongs to?",
+  "response": [
+    "doc_19225.txt",
+    "doc_19226.txt",
+    "doc_19222.txt",
+    "doc_19223.txt",
+    "doc_19224.txt"
+  ]
+}

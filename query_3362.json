@@ -1,0 +1,10 @@
+{
+  "query": "Who wrote the doctoral dissertation on the writings of Michel Butor?",
+  "response": [
+    "doc_3812.txt",
+    "doc_6057.txt",
+    "doc_3819.txt",
+    "doc_3821.txt",
+    "doc_6056.txt"
+  ]
+}

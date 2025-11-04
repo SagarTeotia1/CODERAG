@@ -1,0 +1,10 @@
+{
+  "query": "What kind of film was Henry Levin reluctant to make?",
+  "response": [
+    "doc_27033.txt",
+    "doc_3788.txt",
+    "doc_27034.txt",
+    "doc_10680.txt",
+    "doc_7733.txt"
+  ]
+}

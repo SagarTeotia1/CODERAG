@@ -1,0 +1,10 @@
+{
+  "query": "From what language do the names of stars like Algol, Deneb, Betelgeuse, Rigel, and Aldebaran originate?",
+  "response": [
+    "doc_3890.txt",
+    "doc_3886.txt",
+    "doc_3888.txt",
+    "doc_3889.txt",
+    "doc_3887.txt"
+  ]
+}

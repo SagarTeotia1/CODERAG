@@ -1,0 +1,10 @@
+{
+  "query": "What party did Robert Greig represent in the Electoral district of Drummoyne?",
+  "response": [
+    "doc_10491.txt",
+    "doc_30410.txt",
+    "doc_32956.txt",
+    "doc_32948.txt",
+    "doc_10489.txt"
+  ]
+}

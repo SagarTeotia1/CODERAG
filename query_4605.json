@@ -1,0 +1,10 @@
+{
+  "query": "Where is Mount Whitney situated, relative to a national park?",
+  "response": [
+    "doc_38459.txt",
+    "doc_38461.txt",
+    "doc_11165.txt",
+    "doc_11168.txt",
+    "doc_40196.txt"
+  ]
+}

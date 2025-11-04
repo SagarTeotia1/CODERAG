@@ -1,0 +1,10 @@
+{
+  "query": "What is the current name of Mississippi Veterans Memorial Stadium?",
+  "response": [
+    "doc_27296.txt",
+    "doc_27295.txt",
+    "doc_34200.txt",
+    "doc_34048.txt",
+    "doc_34051.txt"
+  ]
+}

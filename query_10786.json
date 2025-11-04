@@ -1,0 +1,10 @@
+{
+  "query": "Who stated that “Hillary 1984” was not created by the Obama campaign?",
+  "response": [
+    "doc_35500.txt",
+    "doc_17064.txt",
+    "doc_28052.txt",
+    "doc_13545.txt",
+    "doc_25321.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Justice Holmes serve as Acting Chief Justice of the United States?",
+  "response": [
+    "doc_7369.txt",
+    "doc_7370.txt",
+    "doc_17880.txt",
+    "doc_11570.txt",
+    "doc_11575.txt"
+  ]
+}

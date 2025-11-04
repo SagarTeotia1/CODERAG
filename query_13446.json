@@ -1,0 +1,10 @@
+{
+  "query": "Besides the Best Novel Award, what other award did Stone win in the British Fantasy Awards in 2011?",
+  "response": [
+    "doc_23679.txt",
+    "doc_30400.txt",
+    "doc_30404.txt",
+    "doc_30401.txt",
+    "doc_19739.txt"
+  ]
+}

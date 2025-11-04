@@ -1,0 +1,10 @@
+{
+  "query": "Which countries initiated the Council Decision on the European Judicial Network?",
+  "response": [
+    "doc_37320.txt",
+    "doc_24729.txt",
+    "doc_24730.txt",
+    "doc_24731.txt",
+    "doc_2128.txt"
+  ]
+}

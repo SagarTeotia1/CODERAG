@@ -1,0 +1,10 @@
+{
+  "query": "What is the estimated reduction in the volume of legislation proposed by the Commission?",
+  "response": [
+    "doc_23931.txt",
+    "doc_5773.txt",
+    "doc_23930.txt",
+    "doc_20195.txt",
+    "doc_29398.txt"
+  ]
+}

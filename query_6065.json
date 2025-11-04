@@ -1,0 +1,10 @@
+{
+  "query": "What was the total population of the municipality of Gramsh according to the 2011 census?",
+  "response": [
+    "doc_4769.txt",
+    "doc_25448.txt",
+    "doc_2816.txt",
+    "doc_23903.txt",
+    "doc_20904.txt"
+  ]
+}

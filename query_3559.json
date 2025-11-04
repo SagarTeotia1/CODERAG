@@ -1,0 +1,10 @@
+{
+  "query": "Who appointed Hosni Mubarak as Vice President of Egypt?",
+  "response": [
+    "doc_3538.txt",
+    "doc_3529.txt",
+    "doc_3530.txt",
+    "doc_3537.txt",
+    "doc_3531.txt"
+  ]
+}

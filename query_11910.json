@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Jason Fox marry Kathie Lee Gifford?",
+  "response": [
+    "doc_37127.txt",
+    "doc_26001.txt",
+    "doc_23272.txt",
+    "doc_142.txt",
+    "doc_37128.txt"
+  ]
+}

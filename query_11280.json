@@ -1,0 +1,10 @@
+{
+  "query": "Which railway station in Tel Aviv is described as the southernmost station and an important interchange hub?",
+  "response": [
+    "doc_18338.txt",
+    "doc_18339.txt",
+    "doc_23503.txt",
+    "doc_16287.txt",
+    "doc_36829.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was the approximate number of Jewish prisoners who passed through the gates of the Vaivara concentration camp?",
+  "response": [
+    "doc_20904.txt",
+    "doc_14682.txt",
+    "doc_14681.txt",
+    "doc_20901.txt",
+    "doc_16723.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What engine did the 1970 Z/28 feature, and what were its horsepower and torque specifications?",
+  "response": [
+    "doc_11621.txt",
+    "doc_11620.txt",
+    "doc_11622.txt",
+    "doc_11623.txt",
+    "doc_11624.txt"
+  ]
+}

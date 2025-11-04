@@ -1,0 +1,10 @@
+{
+  "query": "According to the text, what was the outcome of the trial of Gregorio Cortez in 1901?",
+  "response": [
+    "doc_1654.txt",
+    "doc_1653.txt",
+    "doc_7538.txt",
+    "doc_7539.txt",
+    "doc_15722.txt"
+  ]
+}

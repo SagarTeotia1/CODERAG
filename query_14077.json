@@ -1,0 +1,10 @@
+{
+  "query": "Has the productivity of bananas increased or decreased since the EU launched the 'New Banana Recovery programme' in 1998?",
+  "response": [
+    "doc_2411.txt",
+    "doc_3013.txt",
+    "doc_3014.txt",
+    "doc_16136.txt",
+    "doc_3012.txt"
+  ]
+}

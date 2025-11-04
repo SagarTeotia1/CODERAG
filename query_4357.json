@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission’s current stance regarding the employment conditions for journalists in Italy?",
+  "response": [
+    "doc_37782.txt",
+    "doc_37312.txt",
+    "doc_2347.txt",
+    "doc_400.txt",
+    "doc_20754.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "How many Europeans does the European food programme currently assist?",
+  "response": [
+    "doc_17097.txt",
+    "doc_37207.txt",
+    "doc_31983.txt",
+    "doc_1473.txt",
+    "doc_3206.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the approximate number of civilian deaths resulting from the clampdown by Syrian security forces?",
+  "response": [
+    "doc_19651.txt",
+    "doc_15061.txt",
+    "doc_25915.txt",
+    "doc_18926.txt",
+    "doc_19653.txt"
+  ]
+}

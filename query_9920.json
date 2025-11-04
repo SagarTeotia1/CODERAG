@@ -1,0 +1,10 @@
+{
+  "query": "What year was the Melissa Manchester LP, “I Believe In You,” released?",
+  "response": [
+    "doc_14999.txt",
+    "doc_14998.txt",
+    "doc_15000.txt",
+    "doc_14997.txt",
+    "doc_15001.txt"
+  ]
+}

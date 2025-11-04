@@ -1,0 +1,10 @@
+{
+  "query": "Which building served as the primary official residence for the President of the Federal Republic of Germany from 1950 until 1994?",
+  "response": [
+    "doc_33345.txt",
+    "doc_39583.txt",
+    "doc_39584.txt",
+    "doc_39586.txt",
+    "doc_39582.txt"
+  ]
+}

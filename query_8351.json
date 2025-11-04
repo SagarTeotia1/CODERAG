@@ -1,0 +1,10 @@
+{
+  "query": "According to the text, what is Halloween also known as in modern Pagan and Wiccan contexts?",
+  "response": [
+    "doc_11244.txt",
+    "doc_11239.txt",
+    "doc_11242.txt",
+    "doc_11243.txt",
+    "doc_11238.txt"
+  ]
+}

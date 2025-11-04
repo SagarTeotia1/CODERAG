@@ -1,0 +1,10 @@
+{
+  "query": "According to the text, what was the primary subject of the Astronomy.com review of Knightware's Deep-Sky Planner 6 software?",
+  "response": [
+    "doc_30715.txt",
+    "doc_30714.txt",
+    "doc_30716.txt",
+    "doc_30717.txt",
+    "doc_16613.txt"
+  ]
+}

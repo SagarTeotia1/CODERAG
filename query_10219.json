@@ -1,0 +1,10 @@
+{
+  "query": "What role did Omar Sharif have in “The Blazing Sun”?",
+  "response": [
+    "doc_17862.txt",
+    "doc_18858.txt",
+    "doc_18856.txt",
+    "doc_18851.txt",
+    "doc_18857.txt"
+  ]
+}

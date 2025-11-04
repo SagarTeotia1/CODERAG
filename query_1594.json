@@ -1,0 +1,10 @@
+{
+  "query": "When was Kenya Airways founded, and where is its head office located?",
+  "response": [
+    "doc_31169.txt",
+    "doc_18974.txt",
+    "doc_18973.txt",
+    "doc_17186.txt",
+    "doc_18971.txt"
+  ]
+}

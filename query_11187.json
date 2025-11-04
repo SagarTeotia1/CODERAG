@@ -1,0 +1,10 @@
+{
+  "query": "What decision did Dekraai make after hanging up on someone?",
+  "response": [
+    "doc_39285.txt",
+    "doc_19409.txt",
+    "doc_15228.txt",
+    "doc_22487.txt",
+    "doc_9806.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What type of movie was “Mickey Blue Eyes” described as being, and what year was it released?",
+  "response": [
+    "doc_20564.txt",
+    "doc_20568.txt",
+    "doc_30272.txt",
+    "doc_37575.txt",
+    "doc_31757.txt"
+  ]
+}

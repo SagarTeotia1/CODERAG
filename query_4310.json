@@ -1,0 +1,10 @@
+{
+  "query": "Which empire did the city of Kerch become part of at the end of the 4th century AD?",
+  "response": [
+    "doc_37689.txt",
+    "doc_37688.txt",
+    "doc_25441.txt",
+    "doc_25445.txt",
+    "doc_25440.txt"
+  ]
+}

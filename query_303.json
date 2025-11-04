@@ -1,0 +1,10 @@
+{
+  "query": "Which historical records did the Charlotte Hornets regain when they became the Hornets again in 2014?",
+  "response": [
+    "doc_2741.txt",
+    "doc_2739.txt",
+    "doc_9018.txt",
+    "doc_2740.txt",
+    "doc_28520.txt"
+  ]
+}

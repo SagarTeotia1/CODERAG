@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Andrew Gowers play in Hawthorn's AFL Grand Final victory?",
+  "response": [
+    "doc_32639.txt",
+    "doc_38739.txt",
+    "doc_30112.txt",
+    "doc_30113.txt",
+    "doc_38740.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What reasons did ELAS give Ms. Knowd for refusing to provide a signing-off letter for her complaint to the FOS?",
+  "response": [
+    "doc_1061.txt",
+    "doc_1067.txt",
+    "doc_1062.txt",
+    "doc_1063.txt",
+    "doc_1037.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Is English widely spoken in the Hungarian capital?",
+  "response": [
+    "doc_10969.txt",
+    "doc_10970.txt",
+    "doc_10973.txt",
+    "doc_10971.txt",
+    "doc_10974.txt"
+  ]
+}

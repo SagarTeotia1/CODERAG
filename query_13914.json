@@ -1,0 +1,10 @@
+{
+  "query": "What type of box was the Kid's Club Meal served in?",
+  "response": [
+    "doc_6265.txt",
+    "doc_6260.txt",
+    "doc_6266.txt",
+    "doc_6263.txt",
+    "doc_6261.txt"
+  ]
+}

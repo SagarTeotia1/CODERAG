@@ -1,0 +1,10 @@
+{
+  "query": "What specific research projects has the Commission supported to aid the navigation of visually impaired individuals?",
+  "response": [
+    "doc_8362.txt",
+    "doc_13628.txt",
+    "doc_14911.txt",
+    "doc_1878.txt",
+    "doc_17337.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was the total cost of the 2007 European Truck Tour?",
+  "response": [
+    "doc_31500.txt",
+    "doc_15553.txt",
+    "doc_39617.txt",
+    "doc_21435.txt",
+    "doc_20870.txt"
+  ]
+}

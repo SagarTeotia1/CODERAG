@@ -1,0 +1,10 @@
+{
+  "query": "What style of film was *Crouching Tiger, Hidden Dragon* released in (e.g., action, drama)?",
+  "response": [
+    "doc_11947.txt",
+    "doc_11942.txt",
+    "doc_11946.txt",
+    "doc_11943.txt",
+    "doc_11944.txt"
+  ]
+}

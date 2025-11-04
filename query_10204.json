@@ -1,0 +1,10 @@
+{
+  "query": "Who scored goals for Sheffield Wednesday in their victory?",
+  "response": [
+    "doc_15784.txt",
+    "doc_15783.txt",
+    "doc_16759.txt",
+    "doc_15782.txt",
+    "doc_12142.txt"
+  ]
+}

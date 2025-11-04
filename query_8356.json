@@ -1,0 +1,10 @@
+{
+  "query": "What language were documents related to the Annual General Meeting initially issued in, and why was this change made?",
+  "response": [
+    "doc_35099.txt",
+    "doc_35082.txt",
+    "doc_35085.txt",
+    "doc_26766.txt",
+    "doc_35077.txt"
+  ]
+}

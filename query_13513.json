@@ -1,0 +1,10 @@
+{
+  "query": "What colors were Mary and Henry's dresses and outfits?",
+  "response": [
+    "doc_34411.txt",
+    "doc_16346.txt",
+    "doc_12445.txt",
+    "doc_4647.txt",
+    "doc_35958.txt"
+  ]
+}

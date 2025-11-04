@@ -1,0 +1,10 @@
+{
+  "query": "What percentage less do women in Austria earn than men, based on the hourly rate of pay?",
+  "response": [
+    "doc_21314.txt",
+    "doc_7233.txt",
+    "doc_16485.txt",
+    "doc_7532.txt",
+    "doc_7238.txt"
+  ]
+}

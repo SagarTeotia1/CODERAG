@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Roberta Flack’s song “Killing Me Softly” become her biggest commercial hit?",
+  "response": [
+    "doc_12874.txt",
+    "doc_12876.txt",
+    "doc_12868.txt",
+    "doc_12873.txt",
+    "doc_12872.txt"
+  ]
+}

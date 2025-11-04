@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what does Don Corleone explain to Johnny Fontane?",
+  "response": [
+    "doc_21805.txt",
+    "doc_21806.txt",
+    "doc_21807.txt",
+    "doc_21808.txt",
+    "doc_4519.txt"
+  ]
+}

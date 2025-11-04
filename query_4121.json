@@ -1,0 +1,10 @@
+{
+  "query": "Where is McGraw-Hill Federal Credit Union headquartered?",
+  "response": [
+    "doc_21970.txt",
+    "doc_17478.txt",
+    "doc_21971.txt",
+    "doc_31169.txt",
+    "doc_26977.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to the European Court of Auditors, what is the approximate annual loss in tax revenue due to VAT fraud within the EU?",
+  "response": [
+    "doc_26700.txt",
+    "doc_35508.txt",
+    "doc_33295.txt",
+    "doc_21117.txt",
+    "doc_16472.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which countries are founding members of the Vanilla Alliance?",
+  "response": [
+    "doc_6678.txt",
+    "doc_23756.txt",
+    "doc_6675.txt",
+    "doc_6680.txt",
+    "doc_6677.txt"
+  ]
+}

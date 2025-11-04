@@ -1,0 +1,10 @@
+{
+  "query": "Which hospital is part of the Partners Healthcare System?",
+  "response": [
+    "doc_18956.txt",
+    "doc_18967.txt",
+    "doc_18963.txt",
+    "doc_18966.txt",
+    "doc_18964.txt"
+  ]
+}

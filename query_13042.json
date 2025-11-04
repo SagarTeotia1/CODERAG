@@ -1,0 +1,10 @@
+{
+  "query": "What are some of the titles of books Dennis Miller has authored?",
+  "response": [
+    "doc_22774.txt",
+    "doc_22771.txt",
+    "doc_22773.txt",
+    "doc_22770.txt",
+    "doc_22772.txt"
+  ]
+}

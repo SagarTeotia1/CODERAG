@@ -1,0 +1,10 @@
+{
+  "query": "When was the Firestone Tire & Rubber Company established?",
+  "response": [
+    "doc_13803.txt",
+    "doc_13802.txt",
+    "doc_13796.txt",
+    "doc_13800.txt",
+    "doc_13804.txt"
+  ]
+}

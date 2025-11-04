@@ -1,0 +1,10 @@
+{
+  "query": "What trait was Gehrig chiefly remembered for?",
+  "response": [
+    "doc_31631.txt",
+    "doc_39722.txt",
+    "doc_759.txt",
+    "doc_39728.txt",
+    "doc_39725.txt"
+  ]
+}

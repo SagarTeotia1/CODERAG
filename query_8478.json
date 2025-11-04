@@ -1,0 +1,10 @@
+{
+  "query": "What was the timeframe of the UK Parliamentary Ombudsman’s investigation, and what regulatory bodies were excluded from its scope?",
+  "response": [
+    "doc_1038.txt",
+    "doc_1039.txt",
+    "doc_1070.txt",
+    "doc_870.txt",
+    "doc_1069.txt"
+  ]
+}

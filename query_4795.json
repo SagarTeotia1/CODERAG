@@ -1,0 +1,10 @@
+{
+  "query": "What is Rob Thomas’s current position and previous role at the South Australian Research & Development Institute (SARDI)?",
+  "response": [
+    "doc_10489.txt",
+    "doc_5095.txt",
+    "doc_17606.txt",
+    "doc_19860.txt",
+    "doc_9139.txt"
+  ]
+}

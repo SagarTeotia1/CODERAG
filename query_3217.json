@@ -1,0 +1,10 @@
+{
+  "query": "Which actor portrayed Edward de Vere, 17th Earl of Oxford in the film *Anonymous*?",
+  "response": [
+    "doc_23454.txt",
+    "doc_23455.txt",
+    "doc_37373.txt",
+    "doc_7999.txt",
+    "doc_25398.txt"
+  ]
+}

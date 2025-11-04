@@ -1,0 +1,10 @@
+{
+  "query": "Which Italian football club won the Treble in 2009-10?",
+  "response": [
+    "doc_29509.txt",
+    "doc_29508.txt",
+    "doc_24188.txt",
+    "doc_26990.txt",
+    "doc_26991.txt"
+  ]
+}

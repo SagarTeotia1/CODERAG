@@ -1,0 +1,10 @@
+{
+  "query": "According to the article, how long did the Burlington Northern railroad operate before the merger in 1970?",
+  "response": [
+    "doc_31123.txt",
+    "doc_31121.txt",
+    "doc_31120.txt",
+    "doc_10768.txt",
+    "doc_31122.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which team won the Stanley Cup in 1974 and 1975?",
+  "response": [
+    "doc_32632.txt",
+    "doc_32639.txt",
+    "doc_32635.txt",
+    "doc_32636.txt",
+    "doc_32638.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "How much money did President Museveni invest in new fighter aircraft?",
+  "response": [
+    "doc_19346.txt",
+    "doc_19347.txt",
+    "doc_23742.txt",
+    "doc_23743.txt",
+    "doc_23745.txt"
+  ]
+}

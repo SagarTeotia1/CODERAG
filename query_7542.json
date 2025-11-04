@@ -1,0 +1,10 @@
+{
+  "query": "When was Jerry Lee Lewis’s album, “Last Man Standing,” released?",
+  "response": [
+    "doc_26680.txt",
+    "doc_13701.txt",
+    "doc_19768.txt",
+    "doc_13703.txt",
+    "doc_13700.txt"
+  ]
+}

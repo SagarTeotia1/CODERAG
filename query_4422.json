@@ -1,0 +1,10 @@
+{
+  "query": "Which committee was responsible for the requests to waive parliamentary immunity from both the Czech Republic and Germany?",
+  "response": [
+    "doc_34857.txt",
+    "doc_1143.txt",
+    "doc_18548.txt",
+    "doc_2591.txt",
+    "doc_2589.txt"
+  ]
+}

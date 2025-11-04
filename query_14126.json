@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided links, how frequently does Old Faithful erupt?",
+  "response": [
+    "doc_24806.txt",
+    "doc_24810.txt",
+    "doc_24809.txt",
+    "doc_24807.txt",
+    "doc_24803.txt"
+  ]
+}

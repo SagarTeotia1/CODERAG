@@ -1,0 +1,10 @@
+{
+  "query": "What color is the rock found in Wallowa?",
+  "response": [
+    "doc_26483.txt",
+    "doc_26482.txt",
+    "doc_9831.txt",
+    "doc_25711.txt",
+    "doc_5226.txt"
+  ]
+}

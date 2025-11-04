@@ -1,0 +1,10 @@
+{
+  "query": "When was the Treaty of Ghent signed?",
+  "response": [
+    "doc_15054.txt",
+    "doc_15055.txt",
+    "doc_15053.txt",
+    "doc_36209.txt",
+    "doc_15052.txt"
+  ]
+}

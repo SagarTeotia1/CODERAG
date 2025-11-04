@@ -1,0 +1,10 @@
+{
+  "query": "What is the previous postcode for the joint headquarters of the European Commission and European Parliament in London?",
+  "response": [
+    "doc_33667.txt",
+    "doc_4040.txt",
+    "doc_18299.txt",
+    "doc_17532.txt",
+    "doc_38318.txt"
+  ]
+}

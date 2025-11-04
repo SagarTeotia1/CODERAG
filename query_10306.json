@@ -1,0 +1,10 @@
+{
+  "query": "What specific events contributed to the food situation in Mali in 2004?",
+  "response": [
+    "doc_16025.txt",
+    "doc_36755.txt",
+    "doc_7814.txt",
+    "doc_31104.txt",
+    "doc_24866.txt"
+  ]
+}

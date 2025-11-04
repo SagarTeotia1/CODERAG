@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what are some of Artemis’s domains or responsibilities?",
+  "response": [
+    "doc_34303.txt",
+    "doc_34302.txt",
+    "doc_34304.txt",
+    "doc_34301.txt",
+    "doc_34307.txt"
+  ]
+}

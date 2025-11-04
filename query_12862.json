@@ -1,0 +1,10 @@
+{
+  "query": "What is the basis for the Japanese television series “Iron Chef,” which inspired “Iron Chef America”?",
+  "response": [
+    "doc_32540.txt",
+    "doc_22365.txt",
+    "doc_30366.txt",
+    "doc_22364.txt",
+    "doc_16754.txt"
+  ]
+}

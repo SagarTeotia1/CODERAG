@@ -1,0 +1,10 @@
+{
+  "query": "What story does the passage identify Edmond Dantes as the main character of?",
+  "response": [
+    "doc_31177.txt",
+    "doc_31179.txt",
+    "doc_31178.txt",
+    "doc_6058.txt",
+    "doc_3748.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In the 1950 season, what school records did Haywood Sullivan set?",
+  "response": [
+    "doc_5462.txt",
+    "doc_14706.txt",
+    "doc_9441.txt",
+    "doc_38472.txt",
+    "doc_32303.txt"
+  ]
+}

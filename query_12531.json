@@ -1,0 +1,10 @@
+{
+  "query": "What is the grand total of Community funds earmarked for Poland from 2004 to 2010?",
+  "response": [
+    "doc_21521.txt",
+    "doc_16242.txt",
+    "doc_5235.txt",
+    "doc_16244.txt",
+    "doc_369.txt"
+  ]
+}

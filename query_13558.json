@@ -1,0 +1,10 @@
+{
+  "query": "What is the designation used for an incumbent carrier like Airline AA in a specific county?",
+  "response": [
+    "doc_24036.txt",
+    "doc_24038.txt",
+    "doc_24032.txt",
+    "doc_24035.txt",
+    "doc_24039.txt"
+  ]
+}

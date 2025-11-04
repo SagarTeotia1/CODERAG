@@ -1,0 +1,10 @@
+{
+  "query": "Who defines and implements the EU policy towards Cuba?",
+  "response": [
+    "doc_12585.txt",
+    "doc_32937.txt",
+    "doc_8338.txt",
+    "doc_36029.txt",
+    "doc_15083.txt"
+  ]
+}

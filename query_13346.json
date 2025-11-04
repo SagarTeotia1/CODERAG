@@ -1,0 +1,10 @@
+{
+  "query": "What was the Commission’s stance on the Ebro water transfer project in 2004?",
+  "response": [
+    "doc_23422.txt",
+    "doc_12097.txt",
+    "doc_35119.txt",
+    "doc_25127.txt",
+    "doc_27797.txt"
+  ]
+}

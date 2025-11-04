@@ -1,0 +1,10 @@
+{
+  "query": "How did the investigation of mobile phone calls contribute to the prosecution of terrorists in Madrid?",
+  "response": [
+    "doc_32407.txt",
+    "doc_32406.txt",
+    "doc_23157.txt",
+    "doc_5779.txt",
+    "doc_7800.txt"
+  ]
+}

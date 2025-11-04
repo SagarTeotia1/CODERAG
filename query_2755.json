@@ -1,0 +1,10 @@
+{
+  "query": "Which Swiss writer did Susan Bernofsky bring to the attention of the English-speaking world?",
+  "response": [
+    "doc_7331.txt",
+    "doc_7327.txt",
+    "doc_7328.txt",
+    "doc_7330.txt",
+    "doc_7329.txt"
+  ]
+}

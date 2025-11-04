@@ -1,0 +1,10 @@
+{
+  "query": "According to the Treaty, who makes the final decision regarding a candidate’s nomination for Vice-President of the ECB?",
+  "response": [
+    "doc_29321.txt",
+    "doc_2618.txt",
+    "doc_17219.txt",
+    "doc_2592.txt",
+    "doc_17207.txt"
+  ]
+}

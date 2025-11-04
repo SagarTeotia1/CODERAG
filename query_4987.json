@@ -1,0 +1,10 @@
+{
+  "query": "In what year did President Woodrow Wilson deliver his inaugural address, as indicated by multiple sources?",
+  "response": [
+    "doc_39299.txt",
+    "doc_39298.txt",
+    "doc_39297.txt",
+    "doc_21039.txt",
+    "doc_21042.txt"
+  ]
+}

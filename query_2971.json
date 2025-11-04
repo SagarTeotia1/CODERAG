@@ -1,0 +1,10 @@
+{
+  "query": "When did “The Simpsons” episode “When You Dish Upon a Star” originally air?",
+  "response": [
+    "doc_34568.txt",
+    "doc_32695.txt",
+    "doc_32694.txt",
+    "doc_27884.txt",
+    "doc_35963.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When was Cunningham Wilson born?",
+  "response": [
+    "doc_27119.txt",
+    "doc_3654.txt",
+    "doc_3020.txt",
+    "doc_27118.txt",
+    "doc_25998.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What style of furniture is associated with the name Thomas Sheraton?",
+  "response": [
+    "doc_2957.txt",
+    "doc_25027.txt",
+    "doc_34016.txt",
+    "doc_13425.txt",
+    "doc_16794.txt"
+  ]
+}

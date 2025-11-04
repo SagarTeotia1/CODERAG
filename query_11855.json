@@ -1,0 +1,10 @@
+{
+  "query": "What two gold medals did Johan Grøttumsbraaten win at the 1928 Winter Olympics?",
+  "response": [
+    "doc_6443.txt",
+    "doc_6450.txt",
+    "doc_10050.txt",
+    "doc_6444.txt",
+    "doc_6440.txt"
+  ]
+}

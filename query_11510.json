@@ -1,0 +1,10 @@
+{
+  "query": "When did the European Court of Justice order France to pay costs related to incinerator operations?",
+  "response": [
+    "doc_1849.txt",
+    "doc_24868.txt",
+    "doc_3341.txt",
+    "doc_28426.txt",
+    "doc_21094.txt"
+  ]
+}

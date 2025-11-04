@@ -1,0 +1,10 @@
+{
+  "query": "What types of accidents involving tractor drivers have occurred in Cyprus over the last few years?",
+  "response": [
+    "doc_6890.txt",
+    "doc_34431.txt",
+    "doc_37420.txt",
+    "doc_34432.txt",
+    "doc_34429.txt"
+  ]
+}

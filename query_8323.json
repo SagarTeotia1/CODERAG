@@ -1,0 +1,10 @@
+{
+  "query": "Is the Commission aware of the investigations carried out by the US Securities and Exchange Commission?",
+  "response": [
+    "doc_11152.txt",
+    "doc_30409.txt",
+    "doc_1351.txt",
+    "doc_37770.txt",
+    "doc_18616.txt"
+  ]
+}

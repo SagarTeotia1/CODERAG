@@ -1,0 +1,10 @@
+{
+  "query": "Where does U.S. Route 54 cross the Missouri River?",
+  "response": [
+    "doc_31123.txt",
+    "doc_31116.txt",
+    "doc_31124.txt",
+    "doc_31121.txt",
+    "doc_31115.txt"
+  ]
+}

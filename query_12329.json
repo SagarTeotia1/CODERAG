@@ -1,0 +1,10 @@
+{
+  "query": "In what year was Keith continuing to tour with his children?",
+  "response": [
+    "doc_1536.txt",
+    "doc_1540.txt",
+    "doc_39962.txt",
+    "doc_39262.txt",
+    "doc_27196.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In 2009, what was the ranking of “New Moon Rising” as a best-selling single by an Australian artist?",
+  "response": [
+    "doc_38904.txt",
+    "doc_38901.txt",
+    "doc_29933.txt",
+    "doc_38895.txt",
+    "doc_36259.txt"
+  ]
+}

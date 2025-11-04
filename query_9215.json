@@ -1,0 +1,10 @@
+{
+  "query": "Which historical figure is associated with the hospital named after Mary Washington, and where was this hospital located?",
+  "response": [
+    "doc_13372.txt",
+    "doc_13370.txt",
+    "doc_13371.txt",
+    "doc_13373.txt",
+    "doc_8051.txt"
+  ]
+}

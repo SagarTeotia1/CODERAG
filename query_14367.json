@@ -1,0 +1,10 @@
+{
+  "query": "Which city hosted the 55th National Spelling Bee, and what word caused the eventual champion to falter?",
+  "response": [
+    "doc_22270.txt",
+    "doc_22273.txt",
+    "doc_22275.txt",
+    "doc_22274.txt",
+    "doc_22272.txt"
+  ]
+}

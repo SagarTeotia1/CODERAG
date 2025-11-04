@@ -1,0 +1,10 @@
+{
+  "query": "What event in 1906, involving Agnews State Hospital, killed 119 people?",
+  "response": [
+    "doc_33476.txt",
+    "doc_33478.txt",
+    "doc_32357.txt",
+    "doc_33475.txt",
+    "doc_33479.txt"
+  ]
+}

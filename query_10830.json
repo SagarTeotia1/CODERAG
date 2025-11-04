@@ -1,0 +1,10 @@
+{
+  "query": "What is the primary airport for domestic and international travel to/from South Africa?",
+  "response": [
+    "doc_17185.txt",
+    "doc_4714.txt",
+    "doc_4711.txt",
+    "doc_17186.txt",
+    "doc_21838.txt"
+  ]
+}

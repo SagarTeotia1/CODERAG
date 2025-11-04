@@ -1,0 +1,10 @@
+{
+  "query": "Who was an understudy for the role of Danny Zuko in the production?",
+  "response": [
+    "doc_16822.txt",
+    "doc_16820.txt",
+    "doc_16821.txt",
+    "doc_16818.txt",
+    "doc_16817.txt"
+  ]
+}

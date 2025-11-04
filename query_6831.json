@@ -1,0 +1,10 @@
+{
+  "query": "What was George Brace's lifetime batting average?",
+  "response": [
+    "doc_7461.txt",
+    "doc_31473.txt",
+    "doc_39727.txt",
+    "doc_39724.txt",
+    "doc_39726.txt"
+  ]
+}

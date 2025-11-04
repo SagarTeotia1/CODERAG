@@ -1,0 +1,10 @@
+{
+  "query": "With which ballet companies did Alessandra Ferri dance?",
+  "response": [
+    "doc_3866.txt",
+    "doc_3865.txt",
+    "doc_17999.txt",
+    "doc_31886.txt",
+    "doc_31893.txt"
+  ]
+}

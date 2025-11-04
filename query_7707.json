@@ -1,0 +1,10 @@
+{
+  "query": "In 2010, what percentage was Beijing’s minimum wage raised?",
+  "response": [
+    "doc_33167.txt",
+    "doc_4586.txt",
+    "doc_7256.txt",
+    "doc_39771.txt",
+    "doc_20023.txt"
+  ]
+}

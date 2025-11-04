@@ -1,0 +1,10 @@
+{
+  "query": "How many individuals have been detained in connection with the KCK case since April 2008?",
+  "response": [
+    "doc_27258.txt",
+    "doc_20964.txt",
+    "doc_20967.txt",
+    "doc_11548.txt",
+    "doc_7512.txt"
+  ]
+}

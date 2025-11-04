@@ -1,0 +1,10 @@
+{
+  "query": "How many copies of “The Gates Ajar” were sold in America by 1900?",
+  "response": [
+    "doc_15202.txt",
+    "doc_17737.txt",
+    "doc_12420.txt",
+    "doc_38268.txt",
+    "doc_33073.txt"
+  ]
+}

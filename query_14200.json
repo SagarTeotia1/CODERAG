@@ -1,0 +1,10 @@
+{
+  "query": "What was the outcome of the first round of Sugar Ray Robinson’s fight against Jake LaMotta?",
+  "response": [
+    "doc_25587.txt",
+    "doc_25588.txt",
+    "doc_25592.txt",
+    "doc_25589.txt",
+    "doc_25596.txt"
+  ]
+}

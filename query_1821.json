@@ -1,0 +1,10 @@
+{
+  "query": "What was Robert Browning’s profession, as evidenced by the passages?",
+  "response": [
+    "doc_31722.txt",
+    "doc_20102.txt",
+    "doc_90.txt",
+    "doc_36061.txt",
+    "doc_31723.txt"
+  ]
+}

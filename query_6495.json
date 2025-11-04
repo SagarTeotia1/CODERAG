@@ -1,0 +1,10 @@
+{
+  "query": "Which video game franchise is the best-selling by Square Enix?",
+  "response": [
+    "doc_20657.txt",
+    "doc_20656.txt",
+    "doc_20655.txt",
+    "doc_20652.txt",
+    "doc_20658.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was the release date of “PeteStrumentals 2”?",
+  "response": [
+    "doc_12203.txt",
+    "doc_25329.txt",
+    "doc_25330.txt",
+    "doc_30764.txt",
+    "doc_40126.txt"
+  ]
+}

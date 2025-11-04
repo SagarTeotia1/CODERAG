@@ -1,0 +1,10 @@
+{
+  "query": "How many foreign trips did Paul II make?",
+  "response": [
+    "doc_22856.txt",
+    "doc_22854.txt",
+    "doc_22858.txt",
+    "doc_23799.txt",
+    "doc_23797.txt"
+  ]
+}

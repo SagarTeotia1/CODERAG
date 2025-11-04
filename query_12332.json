@@ -1,0 +1,10 @@
+{
+  "query": "What is Matt James known for designing?",
+  "response": [
+    "doc_8108.txt",
+    "doc_15263.txt",
+    "doc_15199.txt",
+    "doc_8105.txt",
+    "doc_15202.txt"
+  ]
+}

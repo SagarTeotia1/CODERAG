@@ -1,0 +1,10 @@
+{
+  "query": "For what communications use is the Tetra system intended by the United Kingdom’s police forces?",
+  "response": [
+    "doc_17371.txt",
+    "doc_30932.txt",
+    "doc_10519.txt",
+    "doc_24796.txt",
+    "doc_35224.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was the total amount of debts claimed by Italian undertakings operating in Libya as of September 30, 2011?",
+  "response": [
+    "doc_20213.txt",
+    "doc_35698.txt",
+    "doc_25752.txt",
+    "doc_11339.txt",
+    "doc_36231.txt"
+  ]
+}

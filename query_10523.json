@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided links, what was Margaret Truman’s profession?",
+  "response": [
+    "doc_1189.txt",
+    "doc_16511.txt",
+    "doc_16510.txt",
+    "doc_1191.txt",
+    "doc_1195.txt"
+  ]
+}

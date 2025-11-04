@@ -1,0 +1,10 @@
+{
+  "query": "In what year was *Adventures of Huckleberry Finn* first published?",
+  "response": [
+    "doc_31375.txt",
+    "doc_31366.txt",
+    "doc_31373.txt",
+    "doc_31364.txt",
+    "doc_31370.txt"
+  ]
+}

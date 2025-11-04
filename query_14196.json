@@ -1,0 +1,10 @@
+{
+  "query": "What family does *Persea palustris* belong to?",
+  "response": [
+    "doc_25576.txt",
+    "doc_29914.txt",
+    "doc_33912.txt",
+    "doc_33911.txt",
+    "doc_22030.txt"
+  ]
+}

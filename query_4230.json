@@ -1,0 +1,10 @@
+{
+  "query": "According to the text, who wrote the song \"Live and Let Die\"?",
+  "response": [
+    "doc_37520.txt",
+    "doc_37524.txt",
+    "doc_37522.txt",
+    "doc_37523.txt",
+    "doc_37521.txt"
+  ]
+}

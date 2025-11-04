@@ -1,0 +1,10 @@
+{
+  "query": "What is the title of the three-part work that features encounters with figures like Nimrod, Ulysses, Muhammad, and Thomas Aquinas?",
+  "response": [
+    "doc_1502.txt",
+    "doc_1499.txt",
+    "doc_1500.txt",
+    "doc_31540.txt",
+    "doc_31541.txt"
+  ]
+}

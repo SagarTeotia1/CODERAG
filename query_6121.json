@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Townsend become commander of XVIII Airborne Corps?",
+  "response": [
+    "doc_3252.txt",
+    "doc_3254.txt",
+    "doc_5527.txt",
+    "doc_5283.txt",
+    "doc_3261.txt"
+  ]
+}

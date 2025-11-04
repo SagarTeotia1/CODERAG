@@ -1,0 +1,10 @@
+{
+  "query": "What did Mia Hamm describe experiencing during a large soccer event, involving a significant crowd and the ability to hear across the field?",
+  "response": [
+    "doc_36002.txt",
+    "doc_36001.txt",
+    "doc_36003.txt",
+    "doc_36004.txt",
+    "doc_36005.txt"
+  ]
+}

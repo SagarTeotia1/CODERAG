@@ -1,0 +1,10 @@
+{
+  "query": "What is the current tariff range for products of wood from China?",
+  "response": [
+    "doc_8409.txt",
+    "doc_13271.txt",
+    "doc_17720.txt",
+    "doc_17341.txt",
+    "doc_14300.txt"
+  ]
+}

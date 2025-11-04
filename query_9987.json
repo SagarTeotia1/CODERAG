@@ -1,0 +1,10 @@
+{
+  "query": "In what year was “Gone Girl” released?",
+  "response": [
+    "doc_15135.txt",
+    "doc_10447.txt",
+    "doc_10445.txt",
+    "doc_15136.txt",
+    "doc_15137.txt"
+  ]
+}

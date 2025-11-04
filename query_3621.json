@@ -1,0 +1,10 @@
+{
+  "query": "What role did the Knights Templar assume during the Medieval Age, as described in one of the linked articles?",
+  "response": [
+    "doc_507.txt",
+    "doc_508.txt",
+    "doc_506.txt",
+    "doc_509.txt",
+    "doc_505.txt"
+  ]
+}

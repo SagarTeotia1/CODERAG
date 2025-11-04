@@ -1,0 +1,10 @@
+{
+  "query": "What activity did Claude Monet initially learn about through Boudin, as described in one of the linked articles?",
+  "response": [
+    "doc_2844.txt",
+    "doc_2840.txt",
+    "doc_2307.txt",
+    "doc_2310.txt",
+    "doc_2304.txt"
+  ]
+}

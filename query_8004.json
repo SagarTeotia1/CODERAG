@@ -1,0 +1,10 @@
+{
+  "query": "Who was the 1979 Indianapolis 500 winner, and who was the 1970 winner?",
+  "response": [
+    "doc_10426.txt",
+    "doc_10427.txt",
+    "doc_10425.txt",
+    "doc_10424.txt",
+    "doc_33013.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year was Drivers Republic founded, and by whom?",
+  "response": [
+    "doc_10427.txt",
+    "doc_8966.txt",
+    "doc_10425.txt",
+    "doc_33010.txt",
+    "doc_10426.txt"
+  ]
+}

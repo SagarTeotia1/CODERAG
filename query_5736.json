@@ -1,0 +1,10 @@
+{
+  "query": "Which band was assembled by Gary Carpenter to record the soundtrack for “The Wicker Man”?",
+  "response": [
+    "doc_1540.txt",
+    "doc_1534.txt",
+    "doc_32068.txt",
+    "doc_1541.txt",
+    "doc_37167.txt"
+  ]
+}

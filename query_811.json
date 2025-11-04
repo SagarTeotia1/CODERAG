@@ -1,0 +1,10 @@
+{
+  "query": "What is the poverty risk for single-parent households in the EU-25 compared to couples with children?",
+  "response": [
+    "doc_29155.txt",
+    "doc_34846.txt",
+    "doc_29154.txt",
+    "doc_29157.txt",
+    "doc_29153.txt"
+  ]
+}

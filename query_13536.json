@@ -1,0 +1,10 @@
+{
+  "query": "Besides Eleonora Duse, which other famous actresses were involved in productions featuring Alexandre Dumas fils’s plays?",
+  "response": [
+    "doc_23957.txt",
+    "doc_23956.txt",
+    "doc_23035.txt",
+    "doc_23958.txt",
+    "doc_23959.txt"
+  ]
+}

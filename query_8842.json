@@ -1,0 +1,10 @@
+{
+  "query": "According to the passages, what is a key characteristic of the song \"Dancing Queen\"?",
+  "response": [
+    "doc_12401.txt",
+    "doc_12403.txt",
+    "doc_12406.txt",
+    "doc_12407.txt",
+    "doc_12405.txt"
+  ]
+}

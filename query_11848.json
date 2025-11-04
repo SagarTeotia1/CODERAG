@@ -1,0 +1,10 @@
+{
+  "query": "In what year was Ronald M. Simon named Chairman and CEO of the Horatio Alger Association?",
+  "response": [
+    "doc_40031.txt",
+    "doc_40029.txt",
+    "doc_12165.txt",
+    "doc_12167.txt",
+    "doc_39734.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what city and year was Rita Hayworth (born Margarita Cansino) born?",
+  "response": [
+    "doc_21107.txt",
+    "doc_21104.txt",
+    "doc_21108.txt",
+    "doc_21106.txt",
+    "doc_21105.txt"
+  ]
+}

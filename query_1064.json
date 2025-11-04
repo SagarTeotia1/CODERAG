@@ -1,0 +1,10 @@
+{
+  "query": "What specific regulations are being amended to benefit the French overseas departments?",
+  "response": [
+    "doc_29925.txt",
+    "doc_29926.txt",
+    "doc_28307.txt",
+    "doc_29927.txt",
+    "doc_19787.txt"
+  ]
+}

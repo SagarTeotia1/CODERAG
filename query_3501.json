@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission currently researching in relation to crime victims in the EU?",
+  "response": [
+    "doc_35732.txt",
+    "doc_35539.txt",
+    "doc_15127.txt",
+    "doc_12912.txt",
+    "doc_35542.txt"
+  ]
+}

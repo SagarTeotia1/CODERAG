@@ -1,0 +1,10 @@
+{
+  "query": "What technique is used in films like \"Day for Night\" to simulate nighttime scenes filmed during the day?",
+  "response": [
+    "doc_39398.txt",
+    "doc_5214.txt",
+    "doc_39545.txt",
+    "doc_22361.txt",
+    "doc_13525.txt"
+  ]
+}

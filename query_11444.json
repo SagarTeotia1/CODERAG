@@ -1,0 +1,10 @@
+{
+  "query": "How many studio albums did Outkast record together?",
+  "response": [
+    "doc_21173.txt",
+    "doc_22524.txt",
+    "doc_21178.txt",
+    "doc_21176.txt",
+    "doc_21175.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When was Arch Enemy founded, and by whom?",
+  "response": [
+    "doc_39123.txt",
+    "doc_39124.txt",
+    "doc_18394.txt",
+    "doc_14598.txt",
+    "doc_16742.txt"
+  ]
+}

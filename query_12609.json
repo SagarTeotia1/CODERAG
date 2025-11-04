@@ -1,0 +1,10 @@
+{
+  "query": "When was Michael Bublé’s album “Love” released?",
+  "response": [
+    "doc_25285.txt",
+    "doc_12182.txt",
+    "doc_22520.txt",
+    "doc_22153.txt",
+    "doc_22154.txt"
+  ]
+}

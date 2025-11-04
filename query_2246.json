@@ -1,0 +1,10 @@
+{
+  "query": "According to one article, what was the inscription on the Tomb of the Unknowns at Arlington National Cemetery?",
+  "response": [
+    "doc_5286.txt",
+    "doc_5284.txt",
+    "doc_5283.txt",
+    "doc_2273.txt",
+    "doc_36898.txt"
+  ]
+}

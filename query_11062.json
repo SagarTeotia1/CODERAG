@@ -1,0 +1,10 @@
+{
+  "query": "What was the name of the United States Army Air Corps aircraft before it was renamed?",
+  "response": [
+    "doc_20290.txt",
+    "doc_20288.txt",
+    "doc_20292.txt",
+    "doc_20289.txt",
+    "doc_20291.txt"
+  ]
+}

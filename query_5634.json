@@ -1,0 +1,10 @@
+{
+  "query": "What is the European Parliament’s primary call regarding the Guatemalan authorities’ response to alleged crimes against humanity?",
+  "response": [
+    "doc_14171.txt",
+    "doc_4386.txt",
+    "doc_4385.txt",
+    "doc_14170.txt",
+    "doc_29807.txt"
+  ]
+}

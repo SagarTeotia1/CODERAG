@@ -1,0 +1,10 @@
+{
+  "query": "Ron Ziegler characterized the break-in here as a “third-rate burglary”?",
+  "response": [
+    "doc_6350.txt",
+    "doc_6354.txt",
+    "doc_6349.txt",
+    "doc_6352.txt",
+    "doc_6353.txt"
+  ]
+}

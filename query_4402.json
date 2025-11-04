@@ -1,0 +1,10 @@
+{
+  "query": "Which albums comprise the first half of “The Paul McCartney Collection”?",
+  "response": [
+    "doc_12202.txt",
+    "doc_3772.txt",
+    "doc_3773.txt",
+    "doc_3771.txt",
+    "doc_31621.txt"
+  ]
+}

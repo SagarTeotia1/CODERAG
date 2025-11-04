@@ -1,0 +1,10 @@
+{
+  "query": "When was Muharrem Erbey arrested by the Turkish police?",
+  "response": [
+    "doc_7602.txt",
+    "doc_7512.txt",
+    "doc_23872.txt",
+    "doc_37114.txt",
+    "doc_23873.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When was the film *The Holly and the Ivy* released?",
+  "response": [
+    "doc_6768.txt",
+    "doc_32287.txt",
+    "doc_32283.txt",
+    "doc_32282.txt",
+    "doc_6769.txt"
+  ]
+}

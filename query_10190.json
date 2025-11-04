@@ -1,0 +1,10 @@
+{
+  "query": "What specific article of the European Patent Convention prohibits patenting inventions contrary to ‘ordre public’ or morality?",
+  "response": [
+    "doc_6159.txt",
+    "doc_15754.txt",
+    "doc_25121.txt",
+    "doc_2102.txt",
+    "doc_25122.txt"
+  ]
+}

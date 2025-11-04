@@ -1,0 +1,10 @@
+{
+  "query": "What amounts of oil and gas did BAE Systems plc produce?",
+  "response": [
+    "doc_15981.txt",
+    "doc_15980.txt",
+    "doc_28013.txt",
+    "doc_8269.txt",
+    "doc_28015.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which television series did Paul Gross executive produce and write songs for?",
+  "response": [
+    "doc_36810.txt",
+    "doc_31651.txt",
+    "doc_36809.txt",
+    "doc_31649.txt",
+    "doc_36811.txt"
+  ]
+}

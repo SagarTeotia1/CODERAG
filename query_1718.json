@@ -1,0 +1,10 @@
+{
+  "query": "What year was Doug Clarey born?",
+  "response": [
+    "doc_31470.txt",
+    "doc_31471.txt",
+    "doc_16604.txt",
+    "doc_14700.txt",
+    "doc_8371.txt"
+  ]
+}

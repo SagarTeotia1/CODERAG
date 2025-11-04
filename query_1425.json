@@ -1,0 +1,10 @@
+{
+  "query": "On what date was Ray Manzarek born?",
+  "response": [
+    "doc_2988.txt",
+    "doc_2989.txt",
+    "doc_2992.txt",
+    "doc_2987.txt",
+    "doc_2994.txt"
+  ]
+}

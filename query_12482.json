@@ -1,0 +1,10 @@
+{
+  "query": "What types of mites are commonly found in poultry in Ontario?",
+  "response": [
+    "doc_24154.txt",
+    "doc_486.txt",
+    "doc_21414.txt",
+    "doc_26779.txt",
+    "doc_26772.txt"
+  ]
+}

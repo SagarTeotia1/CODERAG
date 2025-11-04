@@ -1,0 +1,10 @@
+{
+  "query": "What is Pat O'Connell's profession?",
+  "response": [
+    "doc_32601.txt",
+    "doc_32427.txt",
+    "doc_32425.txt",
+    "doc_32424.txt",
+    "doc_10592.txt"
+  ]
+}

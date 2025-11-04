@@ -1,0 +1,10 @@
+{
+  "query": "What significant historical achievement did Yonath accomplish by winning the Nobel Prize?",
+  "response": [
+    "doc_22944.txt",
+    "doc_2020.txt",
+    "doc_22943.txt",
+    "doc_20347.txt",
+    "doc_20349.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Where is the gazebo located in Roselle Park?",
+  "response": [
+    "doc_16507.txt",
+    "doc_16506.txt",
+    "doc_16502.txt",
+    "doc_16505.txt",
+    "doc_30928.txt"
+  ]
+}

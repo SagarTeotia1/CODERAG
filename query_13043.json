@@ -1,0 +1,10 @@
+{
+  "query": "What award did *Cat on a Hot Tin Roof* win?",
+  "response": [
+    "doc_36341.txt",
+    "doc_27329.txt",
+    "doc_33207.txt",
+    "doc_33209.txt",
+    "doc_28152.txt"
+  ]
+}

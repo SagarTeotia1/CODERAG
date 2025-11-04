@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the first commercially viable CT scanner invented?",
+  "response": [
+    "doc_7123.txt",
+    "doc_7119.txt",
+    "doc_7124.txt",
+    "doc_7120.txt",
+    "doc_7118.txt"
+  ]
+}

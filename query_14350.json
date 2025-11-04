@@ -1,0 +1,10 @@
+{
+  "query": "Who produced the film \"Borat\"?",
+  "response": [
+    "doc_25941.txt",
+    "doc_25942.txt",
+    "doc_39090.txt",
+    "doc_30615.txt",
+    "doc_18854.txt"
+  ]
+}

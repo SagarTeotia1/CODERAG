@@ -1,0 +1,10 @@
+{
+  "query": "What was the title of one of John Ono’s songs, according to the passage?",
+  "response": [
+    "doc_21872.txt",
+    "doc_21876.txt",
+    "doc_21871.txt",
+    "doc_21869.txt",
+    "doc_21877.txt"
+  ]
+}

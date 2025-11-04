@@ -1,0 +1,10 @@
+{
+  "query": "On what album was “Sappy” first released as a hidden track?",
+  "response": [
+    "doc_22680.txt",
+    "doc_38895.txt",
+    "doc_15902.txt",
+    "doc_38904.txt",
+    "doc_25920.txt"
+  ]
+}

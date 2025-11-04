@@ -1,0 +1,10 @@
+{
+  "query": "How many Cinnabon bakeries were operating in more than 30 countries as of July 2009?",
+  "response": [
+    "doc_15355.txt",
+    "doc_16678.txt",
+    "doc_16676.txt",
+    "doc_16674.txt",
+    "doc_38564.txt"
+  ]
+}

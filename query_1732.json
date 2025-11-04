@@ -1,0 +1,10 @@
+{
+  "query": "On what date did the 2007 European Truck Tour begin?",
+  "response": [
+    "doc_38094.txt",
+    "doc_27198.txt",
+    "doc_27196.txt",
+    "doc_23251.txt",
+    "doc_27200.txt"
+  ]
+}

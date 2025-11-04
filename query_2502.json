@@ -1,0 +1,10 @@
+{
+  "query": "When was Michael Dorn born?",
+  "response": [
+    "doc_23078.txt",
+    "doc_16610.txt",
+    "doc_35182.txt",
+    "doc_35191.txt",
+    "doc_16130.txt"
+  ]
+}

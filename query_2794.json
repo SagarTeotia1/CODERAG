@@ -1,0 +1,10 @@
+{
+  "query": "On what album did Mike Dean collaborate with Dave Grohl on the song “Access Babylon”?",
+  "response": [
+    "doc_34174.txt",
+    "doc_37167.txt",
+    "doc_34423.txt",
+    "doc_2990.txt",
+    "doc_6730.txt"
+  ]
+}

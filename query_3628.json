@@ -1,0 +1,10 @@
+{
+  "query": "In what year did the B.F. Goodrich Company register the name “Zipper” as a trademark?",
+  "response": [
+    "doc_36039.txt",
+    "doc_36041.txt",
+    "doc_36040.txt",
+    "doc_36044.txt",
+    "doc_36042.txt"
+  ]
+}

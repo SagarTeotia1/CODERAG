@@ -1,0 +1,10 @@
+{
+  "query": "What was James L. Bland’s name?",
+  "response": [
+    "doc_38612.txt",
+    "doc_8705.txt",
+    "doc_8702.txt",
+    "doc_38613.txt",
+    "doc_28242.txt"
+  ]
+}

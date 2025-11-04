@@ -1,0 +1,10 @@
+{
+  "query": "What committees did the author serve on within the European Community and European Union central banks?",
+  "response": [
+    "doc_8952.txt",
+    "doc_17221.txt",
+    "doc_8941.txt",
+    "doc_17212.txt",
+    "doc_17209.txt"
+  ]
+}

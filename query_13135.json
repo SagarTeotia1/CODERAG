@@ -1,0 +1,10 @@
+{
+  "query": "What is one of the details associated with the sound of Jiffy Pop?",
+  "response": [
+    "doc_23025.txt",
+    "doc_23031.txt",
+    "doc_23027.txt",
+    "doc_23032.txt",
+    "doc_23030.txt"
+  ]
+}

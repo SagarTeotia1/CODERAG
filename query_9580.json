@@ -1,0 +1,10 @@
+{
+  "query": "According to the document, what percentage of victims of genocide and crimes against humanity were members of the indigenous Maya community?",
+  "response": [
+    "doc_14170.txt",
+    "doc_14171.txt",
+    "doc_4386.txt",
+    "doc_4385.txt",
+    "doc_29807.txt"
+  ]
+}

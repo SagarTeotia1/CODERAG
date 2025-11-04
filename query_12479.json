@@ -1,0 +1,10 @@
+{
+  "query": "What is the approximate number of wood bison currently in the Yukon?",
+  "response": [
+    "doc_21409.txt",
+    "doc_21410.txt",
+    "doc_21411.txt",
+    "doc_21405.txt",
+    "doc_21407.txt"
+  ]
+}

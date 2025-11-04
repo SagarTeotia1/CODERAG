@@ -1,0 +1,10 @@
+{
+  "query": "In what city did the Los Angeles Rams first play a season in the NFL?",
+  "response": [
+    "doc_32435.txt",
+    "doc_32432.txt",
+    "doc_32434.txt",
+    "doc_9441.txt",
+    "doc_32433.txt"
+  ]
+}

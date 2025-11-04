@@ -1,0 +1,10 @@
+{
+  "query": "What is the location of the Wyatt Law Office, and which airport is available for private planes and jets near it?",
+  "response": [
+    "doc_10607.txt",
+    "doc_10606.txt",
+    "doc_10603.txt",
+    "doc_10609.txt",
+    "doc_10610.txt"
+  ]
+}

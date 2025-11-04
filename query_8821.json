@@ -1,0 +1,10 @@
+{
+  "query": "How far beneath the Arctic ice did the USS Nautilus dive during its journey to the North Pole?",
+  "response": [
+    "doc_12359.txt",
+    "doc_12357.txt",
+    "doc_12361.txt",
+    "doc_12365.txt",
+    "doc_12360.txt"
+  ]
+}

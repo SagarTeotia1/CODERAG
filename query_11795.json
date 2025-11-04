@@ -1,0 +1,10 @@
+{
+  "query": "Which specific Schengen countries, along with the United Kingdom and Ireland, do the exemptions from the visa requirement primarily benefit Turkish nationals?",
+  "response": [
+    "doc_19745.txt",
+    "doc_19744.txt",
+    "doc_4946.txt",
+    "doc_38327.txt",
+    "doc_16266.txt"
+  ]
+}

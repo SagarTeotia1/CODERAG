@@ -1,0 +1,10 @@
+{
+  "query": "What type of vehicles does Land Rover primarily produce, according to the provided text?",
+  "response": [
+    "doc_26519.txt",
+    "doc_26518.txt",
+    "doc_26521.txt",
+    "doc_26520.txt",
+    "doc_26517.txt"
+  ]
+}

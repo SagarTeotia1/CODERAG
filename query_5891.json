@@ -1,0 +1,10 @@
+{
+  "query": "In 1890, who became Prime Minister of the Cape Colony?",
+  "response": [
+    "doc_5100.txt",
+    "doc_5102.txt",
+    "doc_5096.txt",
+    "doc_5095.txt",
+    "doc_5103.txt"
+  ]
+}

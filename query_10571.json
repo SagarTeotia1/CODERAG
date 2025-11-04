@@ -1,0 +1,10 @@
+{
+  "query": "For which film did Anoop Seelin win the Karnataka State Film Award for Best Music Director?",
+  "response": [
+    "doc_16600.txt",
+    "doc_33350.txt",
+    "doc_16599.txt",
+    "doc_32766.txt",
+    "doc_7008.txt"
+  ]
+}

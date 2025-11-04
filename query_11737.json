@@ -1,0 +1,10 @@
+{
+  "query": "What famous detective did Tony Burton play in twelve TV movies?",
+  "response": [
+    "doc_8250.txt",
+    "doc_19503.txt",
+    "doc_19502.txt",
+    "doc_4350.txt",
+    "doc_36881.txt"
+  ]
+}

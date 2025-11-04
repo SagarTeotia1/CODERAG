@@ -1,0 +1,10 @@
+{
+  "query": "When did he arrive in the city of Abukir?",
+  "response": [
+    "doc_24754.txt",
+    "doc_23476.txt",
+    "doc_30010.txt",
+    "doc_24751.txt",
+    "doc_3142.txt"
+  ]
+}

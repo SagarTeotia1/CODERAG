@@ -1,0 +1,10 @@
+{
+  "query": "When was the Plaka bridge built?",
+  "response": [
+    "doc_19775.txt",
+    "doc_19771.txt",
+    "doc_19776.txt",
+    "doc_19773.txt",
+    "doc_19770.txt"
+  ]
+}

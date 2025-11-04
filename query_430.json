@@ -1,0 +1,10 @@
+{
+  "query": "Where does the House of Commons and the House of Lords meet?",
+  "response": [
+    "doc_14209.txt",
+    "doc_36362.txt",
+    "doc_14211.txt",
+    "doc_36366.txt",
+    "doc_14210.txt"
+  ]
+}

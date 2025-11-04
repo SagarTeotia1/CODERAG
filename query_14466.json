@@ -1,0 +1,10 @@
+{
+  "query": "How many new drug substances were identified in 2010, according to the European Monitoring Centre for Drugs and Drug Addiction report?",
+  "response": [
+    "doc_2530.txt",
+    "doc_22805.txt",
+    "doc_9379.txt",
+    "doc_23186.txt",
+    "doc_35416.txt"
+  ]
+}

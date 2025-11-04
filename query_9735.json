@@ -1,0 +1,10 @@
+{
+  "query": "What is Fort Benning described as?",
+  "response": [
+    "doc_14518.txt",
+    "doc_25610.txt",
+    "doc_7077.txt",
+    "doc_29113.txt",
+    "doc_6178.txt"
+  ]
+}

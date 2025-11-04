@@ -1,0 +1,10 @@
+{
+  "query": "What is the European Parliament’s stance on misleading indications of product origin?",
+  "response": [
+    "doc_25869.txt",
+    "doc_14127.txt",
+    "doc_23059.txt",
+    "doc_8380.txt",
+    "doc_34597.txt"
+  ]
+}

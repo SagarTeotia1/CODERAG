@@ -1,0 +1,10 @@
+{
+  "query": "Which Cariforum countries currently have competition laws and agencies in place?",
+  "response": [
+    "doc_28373.txt",
+    "doc_24580.txt",
+    "doc_24213.txt",
+    "doc_24893.txt",
+    "doc_196.txt"
+  ]
+}

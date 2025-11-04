@@ -1,0 +1,10 @@
+{
+  "query": "Which publication featured an essay by Laura Hillenbrand about Seabiscuit?",
+  "response": [
+    "doc_26563.txt",
+    "doc_26562.txt",
+    "doc_26564.txt",
+    "doc_26565.txt",
+    "doc_26561.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What agreement was signed between BP and the Libyan government?",
+  "response": [
+    "doc_18585.txt",
+    "doc_28659.txt",
+    "doc_1384.txt",
+    "doc_7872.txt",
+    "doc_18416.txt"
+  ]
+}

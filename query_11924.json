@@ -1,0 +1,10 @@
+{
+  "query": "What is the most commonly described aspect of Jessica Rabbit's famous quote, “I’m not bad, I’m just drawn that way”?",
+  "response": [
+    "doc_20060.txt",
+    "doc_20058.txt",
+    "doc_20056.txt",
+    "doc_20055.txt",
+    "doc_20059.txt"
+  ]
+}

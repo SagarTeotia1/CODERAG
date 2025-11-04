@@ -1,0 +1,10 @@
+{
+  "query": "How many maple wooden bats does the Chandler Bat company expect to sell this year?",
+  "response": [
+    "doc_35616.txt",
+    "doc_35617.txt",
+    "doc_35611.txt",
+    "doc_6515.txt",
+    "doc_35614.txt"
+  ]
+}

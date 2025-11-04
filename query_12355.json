@@ -1,0 +1,10 @@
+{
+  "query": "In what city is Film Base Berlin GmbH located?",
+  "response": [
+    "doc_39584.txt",
+    "doc_39586.txt",
+    "doc_39587.txt",
+    "doc_39585.txt",
+    "doc_32252.txt"
+  ]
+}

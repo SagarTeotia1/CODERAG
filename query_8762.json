@@ -1,0 +1,10 @@
+{
+  "query": "What song was written with the help of Arthur Herzog, Jr.?",
+  "response": [
+    "doc_37850.txt",
+    "doc_19645.txt",
+    "doc_3118.txt",
+    "doc_19642.txt",
+    "doc_35734.txt"
+  ]
+}

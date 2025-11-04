@@ -1,0 +1,10 @@
+{
+  "query": "What date is referenced in relation to the escape of Kim Philby?",
+  "response": [
+    "doc_30431.txt",
+    "doc_30432.txt",
+    "doc_30434.txt",
+    "doc_30435.txt",
+    "doc_30433.txt"
+  ]
+}

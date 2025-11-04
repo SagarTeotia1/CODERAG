@@ -1,0 +1,10 @@
+{
+  "query": "What is the Council’s position regarding extending INTAS’s operations?",
+  "response": [
+    "doc_21845.txt",
+    "doc_31333.txt",
+    "doc_8606.txt",
+    "doc_8173.txt",
+    "doc_3616.txt"
+  ]
+}

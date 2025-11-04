@@ -1,0 +1,10 @@
+{
+  "query": "How many tactical nuclear weapons are currently deployed in NATO member states?",
+  "response": [
+    "doc_11098.txt",
+    "doc_11099.txt",
+    "doc_5051.txt",
+    "doc_27728.txt",
+    "doc_19659.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided texts, what was the approximate cranial capacity of *Homo rudolfensis*?",
+  "response": [
+    "doc_16735.txt",
+    "doc_38840.txt",
+    "doc_16726.txt",
+    "doc_16730.txt",
+    "doc_16728.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Shirley Temple retire from the screen?",
+  "response": [
+    "doc_26322.txt",
+    "doc_26323.txt",
+    "doc_26319.txt",
+    "doc_26326.txt",
+    "doc_26328.txt"
+  ]
+}

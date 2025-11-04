@@ -1,0 +1,10 @@
+{
+  "query": "How much public aid did Daewoo receive?",
+  "response": [
+    "doc_16231.txt",
+    "doc_16227.txt",
+    "doc_21059.txt",
+    "doc_4354.txt",
+    "doc_16228.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When was the 2007 French Open held, and who achieved a record at the tournament?",
+  "response": [
+    "doc_1465.txt",
+    "doc_1468.txt",
+    "doc_30898.txt",
+    "doc_1464.txt",
+    "doc_30894.txt"
+  ]
+}

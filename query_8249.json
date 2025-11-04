@@ -1,0 +1,10 @@
+{
+  "query": "What is the title of the book series that “Dawn’s Family Feud” belongs to?",
+  "response": [
+    "doc_11007.txt",
+    "doc_11010.txt",
+    "doc_11009.txt",
+    "doc_11008.txt",
+    "doc_11011.txt"
+  ]
+}

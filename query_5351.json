@@ -1,0 +1,10 @@
+{
+  "query": "From what Italian musical term is the name “Condoleezza Rice” derived?",
+  "response": [
+    "doc_40113.txt",
+    "doc_40115.txt",
+    "doc_40111.txt",
+    "doc_40112.txt",
+    "doc_40114.txt"
+  ]
+}

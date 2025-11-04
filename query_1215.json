@@ -1,0 +1,10 @@
+{
+  "query": "What company’s tea was destroyed during the Boston Tea Party?",
+  "response": [
+    "doc_30321.txt",
+    "doc_30324.txt",
+    "doc_30326.txt",
+    "doc_30320.txt",
+    "doc_30322.txt"
+  ]
+}

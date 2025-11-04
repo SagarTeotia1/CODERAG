@@ -1,0 +1,10 @@
+{
+  "query": "According to the study by Jørn Olsen, what types of chemical substances are harmful to women wishing to become pregnant?",
+  "response": [
+    "doc_32660.txt",
+    "doc_17404.txt",
+    "doc_15787.txt",
+    "doc_32273.txt",
+    "doc_32276.txt"
+  ]
+}

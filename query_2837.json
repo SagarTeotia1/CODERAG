@@ -1,0 +1,10 @@
+{
+  "query": "What toxic gases were released as a result of the explosion at the DEI steam electric station?",
+  "response": [
+    "doc_20392.txt",
+    "doc_20387.txt",
+    "doc_20391.txt",
+    "doc_20390.txt",
+    "doc_20385.txt"
+  ]
+}

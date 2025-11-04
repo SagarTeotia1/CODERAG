@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what type of work is Spenser’s *Faerie Queene* described as?",
+  "response": [
+    "doc_1184.txt",
+    "doc_27938.txt",
+    "doc_27935.txt",
+    "doc_1182.txt",
+    "doc_27940.txt"
+  ]
+}

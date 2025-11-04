@@ -1,0 +1,10 @@
+{
+  "query": "Where is the 79th Air Refueling Squadron stationed?",
+  "response": [
+    "doc_1453.txt",
+    "doc_1452.txt",
+    "doc_37766.txt",
+    "doc_10606.txt",
+    "doc_35883.txt"
+  ]
+}

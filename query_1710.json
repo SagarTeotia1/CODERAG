@@ -1,0 +1,10 @@
+{
+  "query": "When was Mission San Jose founded?",
+  "response": [
+    "doc_31455.txt",
+    "doc_31456.txt",
+    "doc_31454.txt",
+    "doc_31460.txt",
+    "doc_31457.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which team won the Monster Jam World Finals in freestyle in 2003?",
+  "response": [
+    "doc_22168.txt",
+    "doc_22161.txt",
+    "doc_22162.txt",
+    "doc_22169.txt",
+    "doc_22165.txt"
+  ]
+}

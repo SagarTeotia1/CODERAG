@@ -1,0 +1,10 @@
+{
+  "query": "How many days did the survivors spend on the island of Pulau Tiga?",
+  "response": [
+    "doc_38357.txt",
+    "doc_38354.txt",
+    "doc_38356.txt",
+    "doc_38355.txt",
+    "doc_38360.txt"
+  ]
+}

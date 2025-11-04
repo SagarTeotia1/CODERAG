@@ -1,0 +1,10 @@
+{
+  "query": "According to the text, what is a key characteristic of Neapolitan pizza?",
+  "response": [
+    "doc_32962.txt",
+    "doc_9815.txt",
+    "doc_32964.txt",
+    "doc_39429.txt",
+    "doc_39432.txt"
+  ]
+}

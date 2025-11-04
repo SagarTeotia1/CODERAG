@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, which international agreements appear to be violated by the implementation of projects in Patagonia?",
+  "response": [
+    "doc_10189.txt",
+    "doc_35005.txt",
+    "doc_18343.txt",
+    "doc_14520.txt",
+    "doc_24791.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which song was initially rumored to be the second single from Daughtry’s “Daughtry” album, according to fan votes?",
+  "response": [
+    "doc_27217.txt",
+    "doc_27216.txt",
+    "doc_22153.txt",
+    "doc_22155.txt",
+    "doc_22159.txt"
+  ]
+}

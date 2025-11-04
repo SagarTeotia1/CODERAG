@@ -1,0 +1,10 @@
+{
+  "query": "Which organization was banned from the JobBridge scheme due to an issue with The Munster Express?",
+  "response": [
+    "doc_19789.txt",
+    "doc_19790.txt",
+    "doc_8314.txt",
+    "doc_9770.txt",
+    "doc_9776.txt"
+  ]
+}

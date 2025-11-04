@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the novel that follows Dr. Martin Arrowsmith?",
+  "response": [
+    "doc_2238.txt",
+    "doc_2239.txt",
+    "doc_2237.txt",
+    "doc_2241.txt",
+    "doc_2240.txt"
+  ]
+}

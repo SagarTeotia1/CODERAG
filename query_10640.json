@@ -1,0 +1,10 @@
+{
+  "query": "What types of funding are *not* included in the Commission’s research due to limitations in the ABAC Contracts database?",
+  "response": [
+    "doc_32046.txt",
+    "doc_21977.txt",
+    "doc_12824.txt",
+    "doc_22114.txt",
+    "doc_12827.txt"
+  ]
+}

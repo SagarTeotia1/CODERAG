@@ -1,0 +1,10 @@
+{
+  "query": "What is the approximate number of immigrants arrested in Andalusia and the Canaries by mid-August?",
+  "response": [
+    "doc_4542.txt",
+    "doc_12924.txt",
+    "doc_24578.txt",
+    "doc_29917.txt",
+    "doc_13112.txt"
+  ]
+}

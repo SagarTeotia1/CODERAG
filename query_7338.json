@@ -1,0 +1,10 @@
+{
+  "query": "When was Butch Cassidy’s mail mailed from, and from what location?",
+  "response": [
+    "doc_4949.txt",
+    "doc_4948.txt",
+    "doc_8699.txt",
+    "doc_4950.txt",
+    "doc_4947.txt"
+  ]
+}

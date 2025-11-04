@@ -1,0 +1,10 @@
+{
+  "query": "Which French and Belgian regions comprised the partner institutions of this EGTC?",
+  "response": [
+    "doc_37905.txt",
+    "doc_37906.txt",
+    "doc_1787.txt",
+    "doc_20841.txt",
+    "doc_2104.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which film inspired the song \"The Wicker Man\" by Iron Maiden?",
+  "response": [
+    "doc_8222.txt",
+    "doc_19206.txt",
+    "doc_23451.txt",
+    "doc_30404.txt",
+    "doc_12816.txt"
+  ]
+}

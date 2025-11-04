@@ -1,0 +1,10 @@
+{
+  "query": "What was Sid Vicious’s full birth name?",
+  "response": [
+    "doc_40122.txt",
+    "doc_40121.txt",
+    "doc_40129.txt",
+    "doc_40127.txt",
+    "doc_40123.txt"
+  ]
+}

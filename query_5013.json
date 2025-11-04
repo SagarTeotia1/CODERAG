@@ -1,0 +1,10 @@
+{
+  "query": "What was the winning margin for Germany’s win at the Eurovision Song Contest in 1982?",
+  "response": [
+    "doc_15001.txt",
+    "doc_29935.txt",
+    "doc_24298.txt",
+    "doc_24297.txt",
+    "doc_33830.txt"
+  ]
+}

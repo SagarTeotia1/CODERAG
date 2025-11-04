@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Paul Hamm win the all-around competition at the Olympic Games?",
+  "response": [
+    "doc_8612.txt",
+    "doc_35249.txt",
+    "doc_22132.txt",
+    "doc_36001.txt",
+    "doc_40104.txt"
+  ]
+}

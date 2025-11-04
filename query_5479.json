@@ -1,0 +1,10 @@
+{
+  "query": "When did Mrs. Reding provide this information?",
+  "response": [
+    "doc_2377.txt",
+    "doc_18185.txt",
+    "doc_21844.txt",
+    "doc_30396.txt",
+    "doc_13390.txt"
+  ]
+}

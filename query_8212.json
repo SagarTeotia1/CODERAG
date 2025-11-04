@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided links, what was the primary cause of death for the individuals involved in the Dyatlov Pass incident?",
+  "response": [
+    "doc_10938.txt",
+    "doc_21919.txt",
+    "doc_21111.txt",
+    "doc_21921.txt",
+    "doc_27208.txt"
+  ]
+}

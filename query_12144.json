@@ -1,0 +1,10 @@
+{
+  "query": "For which of the Commission’s DGs is financial information not up to the required quality standards?",
+  "response": [
+    "doc_1995.txt",
+    "doc_6145.txt",
+    "doc_16565.txt",
+    "doc_3474.txt",
+    "doc_15537.txt"
+  ]
+}

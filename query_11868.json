@@ -1,0 +1,10 @@
+{
+  "query": "What game was initially planned as a \"Shock and Awe\" video game?",
+  "response": [
+    "doc_14403.txt",
+    "doc_34371.txt",
+    "doc_28601.txt",
+    "doc_38561.txt",
+    "doc_39784.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which university did Steve Young attend?",
+  "response": [
+    "doc_25828.txt",
+    "doc_32262.txt",
+    "doc_5201.txt",
+    "doc_32261.txt",
+    "doc_12467.txt"
+  ]
+}

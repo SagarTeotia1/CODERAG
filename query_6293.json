@@ -1,0 +1,10 @@
+{
+  "query": "How many employees are currently without work as a result of the Franzoni crisis?",
+  "response": [
+    "doc_37674.txt",
+    "doc_6326.txt",
+    "doc_9943.txt",
+    "doc_9944.txt",
+    "doc_20655.txt"
+  ]
+}

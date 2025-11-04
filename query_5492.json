@@ -1,0 +1,10 @@
+{
+  "query": "Which countries were included in agreements concluded under Article XXI GATS according to the European Parliament legislative resolution of 11 October 2007?",
+  "response": [
+    "doc_4056.txt",
+    "doc_7595.txt",
+    "doc_17339.txt",
+    "doc_7241.txt",
+    "doc_11827.txt"
+  ]
+}

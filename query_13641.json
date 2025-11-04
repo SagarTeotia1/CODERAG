@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how many men accompanied Daniel Boone on his initial journey to create the Wilderness Road?",
+  "response": [
+    "doc_24222.txt",
+    "doc_24224.txt",
+    "doc_24223.txt",
+    "doc_24226.txt",
+    "doc_24231.txt"
+  ]
+}

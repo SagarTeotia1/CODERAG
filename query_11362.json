@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how many people died as a result of the Johnstown flood?",
+  "response": [
+    "doc_18509.txt",
+    "doc_18514.txt",
+    "doc_18516.txt",
+    "doc_18510.txt",
+    "doc_18520.txt"
+  ]
+}

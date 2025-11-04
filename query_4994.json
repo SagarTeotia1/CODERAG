@@ -1,0 +1,10 @@
+{
+  "query": "What was “The Adventures of Jodelle” inspired by?",
+  "response": [
+    "doc_11523.txt",
+    "doc_7385.txt",
+    "doc_7383.txt",
+    "doc_11385.txt",
+    "doc_7389.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to Commission studies, what is the potential impact of increasing milk quotas on producers’ prices?",
+  "response": [
+    "doc_12400.txt",
+    "doc_25602.txt",
+    "doc_5931.txt",
+    "doc_29915.txt",
+    "doc_8311.txt"
+  ]
+}

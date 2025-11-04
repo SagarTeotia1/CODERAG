@@ -1,0 +1,10 @@
+{
+  "query": "What recent events have prompted a debate on the EU’s anti-terrorism policy?",
+  "response": [
+    "doc_5778.txt",
+    "doc_21120.txt",
+    "doc_5779.txt",
+    "doc_5777.txt",
+    "doc_7800.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "During which war did Ferdinand Foch serve as the Supreme Allied Commander?",
+  "response": [
+    "doc_9670.txt",
+    "doc_9672.txt",
+    "doc_9668.txt",
+    "doc_9675.txt",
+    "doc_9677.txt"
+  ]
+}

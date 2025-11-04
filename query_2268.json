@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Alec H. Reeves invent pulse-code modulation (PCM)?",
+  "response": [
+    "doc_32898.txt",
+    "doc_32897.txt",
+    "doc_32899.txt",
+    "doc_32900.txt",
+    "doc_32902.txt"
+  ]
+}

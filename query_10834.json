@@ -1,0 +1,10 @@
+{
+  "query": "When did the Airline halt operations?",
+  "response": [
+    "doc_17186.txt",
+    "doc_22056.txt",
+    "doc_10371.txt",
+    "doc_35620.txt",
+    "doc_16281.txt"
+  ]
+}

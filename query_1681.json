@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of internet users, according to Zimmermann, are looking for political information?",
+  "response": [
+    "doc_3077.txt",
+    "doc_3076.txt",
+    "doc_28051.txt",
+    "doc_40162.txt",
+    "doc_28052.txt"
+  ]
+}

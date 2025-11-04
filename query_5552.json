@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the non-profit organization Erica Arana co-founded?",
+  "response": [
+    "doc_20322.txt",
+    "doc_24205.txt",
+    "doc_32981.txt",
+    "doc_27607.txt",
+    "doc_24204.txt"
+  ]
+}

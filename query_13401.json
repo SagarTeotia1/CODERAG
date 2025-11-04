@@ -1,0 +1,10 @@
+{
+  "query": "What international documents does the European Parliament cite in relation to human rights concerns regarding Syria?",
+  "response": [
+    "doc_7816.txt",
+    "doc_19652.txt",
+    "doc_23568.txt",
+    "doc_15061.txt",
+    "doc_18926.txt"
+  ]
+}

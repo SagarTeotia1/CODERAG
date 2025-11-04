@@ -1,0 +1,10 @@
+{
+  "query": "What holiday wishes does the Committee on Employment and Social Affairs extend?",
+  "response": [
+    "doc_27779.txt",
+    "doc_8731.txt",
+    "doc_29365.txt",
+    "doc_20294.txt",
+    "doc_13673.txt"
+  ]
+}

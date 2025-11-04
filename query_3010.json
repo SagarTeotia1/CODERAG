@@ -1,0 +1,10 @@
+{
+  "query": "In what city was Donna Summer born?",
+  "response": [
+    "doc_34675.txt",
+    "doc_34668.txt",
+    "doc_34669.txt",
+    "doc_34677.txt",
+    "doc_34667.txt"
+  ]
+}

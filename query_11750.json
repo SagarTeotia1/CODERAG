@@ -1,0 +1,10 @@
+{
+  "query": "What was Claude McKay’s profession, and where did he study?",
+  "response": [
+    "doc_19594.txt",
+    "doc_40031.txt",
+    "doc_40033.txt",
+    "doc_10989.txt",
+    "doc_40028.txt"
+  ]
+}

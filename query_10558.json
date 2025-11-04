@@ -1,0 +1,10 @@
+{
+  "query": "How does the described variety protect cereals from Barley Yellow Dwarf Virus (BYDV)?",
+  "response": [
+    "doc_16587.txt",
+    "doc_16585.txt",
+    "doc_16586.txt",
+    "doc_16583.txt",
+    "doc_16582.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What city was Jerome Bettis born in?",
+  "response": [
+    "doc_38741.txt",
+    "doc_12461.txt",
+    "doc_12463.txt",
+    "doc_12464.txt",
+    "doc_12459.txt"
+  ]
+}

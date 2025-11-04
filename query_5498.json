@@ -1,0 +1,10 @@
+{
+  "query": "What process did the US utilize to gather feedback on the proposed rulemaking?",
+  "response": [
+    "doc_4081.txt",
+    "doc_10941.txt",
+    "doc_15018.txt",
+    "doc_26448.txt",
+    "doc_12781.txt"
+  ]
+}

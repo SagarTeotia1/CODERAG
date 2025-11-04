@@ -1,0 +1,10 @@
+{
+  "query": "What type of competition did a person named Minh win in 1986, according to one of the links?",
+  "response": [
+    "doc_38284.txt",
+    "doc_25531.txt",
+    "doc_23217.txt",
+    "doc_25529.txt",
+    "doc_25537.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what competitions did Sheffield Wednesday compete during the 2013-14 football season?",
+  "response": [
+    "doc_15782.txt",
+    "doc_15784.txt",
+    "doc_15783.txt",
+    "doc_33811.txt",
+    "doc_16759.txt"
+  ]
+}

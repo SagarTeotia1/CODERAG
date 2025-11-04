@@ -1,0 +1,10 @@
+{
+  "query": "Which album by the Modern Jazz Quartet incorporates melodies from Johann Sebastian Bach’s compositions?",
+  "response": [
+    "doc_11481.txt",
+    "doc_19447.txt",
+    "doc_19448.txt",
+    "doc_39165.txt",
+    "doc_19451.txt"
+  ]
+}

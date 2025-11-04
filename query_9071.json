@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Harry Norris join the RVIA?",
+  "response": [
+    "doc_28243.txt",
+    "doc_28245.txt",
+    "doc_27737.txt",
+    "doc_8967.txt",
+    "doc_28238.txt"
+  ]
+}

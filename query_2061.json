@@ -1,0 +1,10 @@
+{
+  "query": "What features does the iPod nano include, such as display and radio?",
+  "response": [
+    "doc_32371.txt",
+    "doc_32376.txt",
+    "doc_32372.txt",
+    "doc_32374.txt",
+    "doc_32373.txt"
+  ]
+}

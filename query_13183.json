@@ -1,0 +1,10 @@
+{
+  "query": "What airport was National Airlines Flight 102 initially departing from?",
+  "response": [
+    "doc_10610.txt",
+    "doc_5708.txt",
+    "doc_5707.txt",
+    "doc_10609.txt",
+    "doc_10611.txt"
+  ]
+}

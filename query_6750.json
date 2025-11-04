@@ -1,0 +1,10 @@
+{
+  "query": "What adjective is associated with William Shatner’s speaking style?",
+  "response": [
+    "doc_7273.txt",
+    "doc_16610.txt",
+    "doc_16611.txt",
+    "doc_35190.txt",
+    "doc_35191.txt"
+  ]
+}

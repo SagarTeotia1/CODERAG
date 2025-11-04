@@ -1,0 +1,10 @@
+{
+  "query": "What action has the Commission taken regarding the Valencia Wind Farm Plan?",
+  "response": [
+    "doc_13637.txt",
+    "doc_18184.txt",
+    "doc_11654.txt",
+    "doc_36062.txt",
+    "doc_1884.txt"
+  ]
+}

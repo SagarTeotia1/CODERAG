@@ -1,0 +1,10 @@
+{
+  "query": "Where was Hermann Hesse’s mother born, and what was her role there?",
+  "response": [
+    "doc_39327.txt",
+    "doc_39325.txt",
+    "doc_39328.txt",
+    "doc_5132.txt",
+    "doc_39331.txt"
+  ]
+}

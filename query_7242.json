@@ -1,0 +1,10 @@
+{
+  "query": "Is the complete ‘Stuttgart 21’ project subject to EU funding?",
+  "response": [
+    "doc_8446.txt",
+    "doc_28542.txt",
+    "doc_679.txt",
+    "doc_33981.txt",
+    "doc_34825.txt"
+  ]
+}

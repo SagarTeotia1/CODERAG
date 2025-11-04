@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided links, what is one of the learning activities happening in the second grade class at Edgeley Public Schools?",
+  "response": [
+    "doc_23001.txt",
+    "doc_23002.txt",
+    "doc_23000.txt",
+    "doc_23003.txt",
+    "doc_22998.txt"
+  ]
+}

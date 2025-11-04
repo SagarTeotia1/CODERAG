@@ -1,0 +1,10 @@
+{
+  "query": "Which state is primarily associated with the New Hampshire Union Leader being described as a “solidly conservative” newspaper?",
+  "response": [
+    "doc_37757.txt",
+    "doc_37762.txt",
+    "doc_37758.txt",
+    "doc_37760.txt",
+    "doc_36391.txt"
+  ]
+}

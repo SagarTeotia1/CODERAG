@@ -1,0 +1,10 @@
+{
+  "query": "Which songs were recorded by Murder Inc. artists and featured Ashanti?",
+  "response": [
+    "doc_22516.txt",
+    "doc_22518.txt",
+    "doc_22519.txt",
+    "doc_22523.txt",
+    "doc_22521.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the total population of the municipality of Kavajë according to the 2011 census?",
+  "response": [
+    "doc_5724.txt",
+    "doc_5727.txt",
+    "doc_7239.txt",
+    "doc_38775.txt",
+    "doc_5725.txt"
+  ]
+}

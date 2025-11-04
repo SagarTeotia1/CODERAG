@@ -1,0 +1,10 @@
+{
+  "query": "On what date did Bill Gates give a speech related to the World Wide Web?",
+  "response": [
+    "doc_7588.txt",
+    "doc_7585.txt",
+    "doc_7591.txt",
+    "doc_7584.txt",
+    "doc_7589.txt"
+  ]
+}

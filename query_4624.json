@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided texts, from what language was the original Lotus Sutra initially written?",
+  "response": [
+    "doc_38503.txt",
+    "doc_38504.txt",
+    "doc_38505.txt",
+    "doc_1435.txt",
+    "doc_38506.txt"
+  ]
+}

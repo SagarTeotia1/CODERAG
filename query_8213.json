@@ -1,0 +1,10 @@
+{
+  "query": "Why were sales of the original Red Bull energy drink banned in France?",
+  "response": [
+    "doc_10942.txt",
+    "doc_26446.txt",
+    "doc_18955.txt",
+    "doc_1849.txt",
+    "doc_21061.txt"
+  ]
+}

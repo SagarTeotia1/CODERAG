@@ -1,0 +1,10 @@
+{
+  "query": "Which kennel clubs recognize the Tamaskan breed?",
+  "response": [
+    "doc_39504.txt",
+    "doc_39505.txt",
+    "doc_35790.txt",
+    "doc_2577.txt",
+    "doc_35788.txt"
+  ]
+}

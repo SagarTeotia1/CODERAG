@@ -1,0 +1,10 @@
+{
+  "query": "What was the Cairngorms National Park’s status when it was first established?",
+  "response": [
+    "doc_7921.txt",
+    "doc_7914.txt",
+    "doc_7919.txt",
+    "doc_7920.txt",
+    "doc_7922.txt"
+  ]
+}

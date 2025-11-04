@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, how many votes did George W. Bush receive in the 2004 election?",
+  "response": [
+    "doc_1729.txt",
+    "doc_1725.txt",
+    "doc_1732.txt",
+    "doc_1731.txt",
+    "doc_1726.txt"
+  ]
+}

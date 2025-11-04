@@ -1,0 +1,10 @@
+{
+  "query": "What was the first submarine to reach the North Pole, and in what year did it do so?",
+  "response": [
+    "doc_12357.txt",
+    "doc_12359.txt",
+    "doc_12358.txt",
+    "doc_12365.txt",
+    "doc_12366.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Sandra Bullock make her film debut?",
+  "response": [
+    "doc_30093.txt",
+    "doc_30092.txt",
+    "doc_11644.txt",
+    "doc_39104.txt",
+    "doc_11640.txt"
+  ]
+}

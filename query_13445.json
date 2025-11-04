@@ -1,0 +1,10 @@
+{
+  "query": "What action did Stone take after the awards were announced?",
+  "response": [
+    "doc_3235.txt",
+    "doc_1572.txt",
+    "doc_39624.txt",
+    "doc_39630.txt",
+    "doc_27328.txt"
+  ]
+}

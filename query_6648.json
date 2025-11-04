@@ -1,0 +1,10 @@
+{
+  "query": "When did Unilever acquire Breyers and Sealtest ice creams?",
+  "response": [
+    "doc_6988.txt",
+    "doc_6992.txt",
+    "doc_4936.txt",
+    "doc_28160.txt",
+    "doc_4933.txt"
+  ]
+}

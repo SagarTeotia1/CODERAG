@@ -1,0 +1,10 @@
+{
+  "query": "When were the parliamentary elections in Moldova scheduled to take place?",
+  "response": [
+    "doc_9594.txt",
+    "doc_9595.txt",
+    "doc_29954.txt",
+    "doc_6652.txt",
+    "doc_6653.txt"
+  ]
+}

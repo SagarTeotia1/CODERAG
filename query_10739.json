@@ -1,0 +1,10 @@
+{
+  "query": "What is Manchester Cathedral formally known as?",
+  "response": [
+    "doc_16206.txt",
+    "doc_16205.txt",
+    "doc_16204.txt",
+    "doc_36313.txt",
+    "doc_36315.txt"
+  ]
+}

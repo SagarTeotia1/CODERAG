@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the Dover Reader containing Edgar Allan Poe’s work published?",
+  "response": [
+    "doc_14995.txt",
+    "doc_31331.txt",
+    "doc_31321.txt",
+    "doc_31323.txt",
+    "doc_31322.txt"
+  ]
+}

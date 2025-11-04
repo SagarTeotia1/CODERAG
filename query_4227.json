@@ -1,0 +1,10 @@
+{
+  "query": "Where does *Adiantum silvaticum* typically grow?",
+  "response": [
+    "doc_37511.txt",
+    "doc_37510.txt",
+    "doc_28028.txt",
+    "doc_19254.txt",
+    "doc_38072.txt"
+  ]
+}

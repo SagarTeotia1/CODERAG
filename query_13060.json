@@ -1,0 +1,10 @@
+{
+  "query": "What types of mobile phones currently apply to the European standards outlined in the passage?",
+  "response": [
+    "doc_22844.txt",
+    "doc_12122.txt",
+    "doc_39014.txt",
+    "doc_3124.txt",
+    "doc_13374.txt"
+  ]
+}

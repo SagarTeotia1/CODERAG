@@ -1,0 +1,10 @@
+{
+  "query": "What band is Joel Pott the lead singer of?",
+  "response": [
+    "doc_26168.txt",
+    "doc_26167.txt",
+    "doc_32073.txt",
+    "doc_32068.txt",
+    "doc_28115.txt"
+  ]
+}

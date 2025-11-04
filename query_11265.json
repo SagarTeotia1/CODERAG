@@ -1,0 +1,10 @@
+{
+  "query": "Which posts within the Information Technology and Telecommunications Directorate are being established or upgraded?",
+  "response": [
+    "doc_28428.txt",
+    "doc_13587.txt",
+    "doc_17104.txt",
+    "doc_18297.txt",
+    "doc_26254.txt"
+  ]
+}

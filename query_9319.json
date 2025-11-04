@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided text, what is one example of how T. D. Jakes was positioned?",
+  "response": [
+    "doc_13543.txt",
+    "doc_8429.txt",
+    "doc_13641.txt",
+    "doc_8427.txt",
+    "doc_8431.txt"
+  ]
+}

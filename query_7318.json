@@ -1,0 +1,10 @@
+{
+  "query": "Which are the specific regional programmes for which requests for application of the N+3 rule have been accepted?",
+  "response": [
+    "doc_33252.txt",
+    "doc_25743.txt",
+    "doc_34197.txt",
+    "doc_29854.txt",
+    "doc_29851.txt"
+  ]
+}

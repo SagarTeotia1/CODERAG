@@ -1,0 +1,10 @@
+{
+  "query": "In what country was the fortress city of Lige located?",
+  "response": [
+    "doc_125.txt",
+    "doc_25545.txt",
+    "doc_25542.txt",
+    "doc_25547.txt",
+    "doc_34957.txt"
+  ]
+}

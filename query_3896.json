@@ -1,0 +1,10 @@
+{
+  "query": "Which club won the 2004–05 Scottish Premier League?",
+  "response": [
+    "doc_16760.txt",
+    "doc_36670.txt",
+    "doc_16759.txt",
+    "doc_36671.txt",
+    "doc_10654.txt"
+  ]
+}

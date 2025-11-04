@@ -1,0 +1,10 @@
+{
+  "query": "Which organizations were represented by Ms. Lyudmila Alexeyeva, Mr. Oleg Orlov, and Mr. Sergei Kovalev?",
+  "response": [
+    "doc_32400.txt",
+    "doc_22541.txt",
+    "doc_32401.txt",
+    "doc_20543.txt",
+    "doc_7235.txt"
+  ]
+}

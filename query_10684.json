@@ -1,0 +1,10 @@
+{
+  "query": "Richard Gere was an understudy in this musical set at Rydell High before he starred in it in London.",
+  "response": [
+    "doc_16818.txt",
+    "doc_16819.txt",
+    "doc_16820.txt",
+    "doc_16817.txt",
+    "doc_16823.txt"
+  ]
+}

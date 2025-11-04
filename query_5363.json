@@ -1,0 +1,10 @@
+{
+  "query": "Who defeated Napoleon Bonaparte at the Battle of Waterloo, and in what year did this occur?",
+  "response": [
+    "doc_40136.txt",
+    "doc_40135.txt",
+    "doc_8163.txt",
+    "doc_12637.txt",
+    "doc_30728.txt"
+  ]
+}

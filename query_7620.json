@@ -1,0 +1,10 @@
+{
+  "query": "What is a “French cuff” according to Dictionary.com?",
+  "response": [
+    "doc_9380.txt",
+    "doc_9381.txt",
+    "doc_16345.txt",
+    "doc_822.txt",
+    "doc_821.txt"
+  ]
+}

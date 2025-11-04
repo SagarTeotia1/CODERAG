@@ -1,0 +1,10 @@
+{
+  "query": "Who wrote the song \"Tutti Frutti\"?",
+  "response": [
+    "doc_38662.txt",
+    "doc_22662.txt",
+    "doc_12203.txt",
+    "doc_37851.txt",
+    "doc_37854.txt"
+  ]
+}

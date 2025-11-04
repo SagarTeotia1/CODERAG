@@ -1,0 +1,10 @@
+{
+  "query": "What are the main areas of NGO spending under heading 4 of the EU Budget, as outlined in section 7?",
+  "response": [
+    "doc_15522.txt",
+    "doc_35781.txt",
+    "doc_15521.txt",
+    "doc_15490.txt",
+    "doc_15489.txt"
+  ]
+}

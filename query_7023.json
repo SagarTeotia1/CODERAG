@@ -1,0 +1,10 @@
+{
+  "query": "Who wrote the *Alex Cross* novel series?",
+  "response": [
+    "doc_7913.txt",
+    "doc_7912.txt",
+    "doc_7911.txt",
+    "doc_14863.txt",
+    "doc_14859.txt"
+  ]
+}

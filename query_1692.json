@@ -1,0 +1,10 @@
+{
+  "query": "According to Mark Twain, what does a book that is considered a “classic” often lead people to do?",
+  "response": [
+    "doc_3078.txt",
+    "doc_3081.txt",
+    "doc_3082.txt",
+    "doc_3080.txt",
+    "doc_3083.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When did the Dinotrux television series debut?",
+  "response": [
+    "doc_26603.txt",
+    "doc_26601.txt",
+    "doc_26602.txt",
+    "doc_26600.txt",
+    "doc_35867.txt"
+  ]
+}

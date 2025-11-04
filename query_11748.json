@@ -1,0 +1,10 @@
+{
+  "query": "What type of underwear did the person receive as a gift from Dao?",
+  "response": [
+    "doc_19577.txt",
+    "doc_6323.txt",
+    "doc_23288.txt",
+    "doc_19576.txt",
+    "doc_6322.txt"
+  ]
+}

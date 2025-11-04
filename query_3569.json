@@ -1,0 +1,10 @@
+{
+  "query": "According to one source, a 6-speed manual Accord will outperform a 6-speed manual Mazda 6 in a 0-60 sprint – which car is faster?",
+  "response": [
+    "doc_35903.txt",
+    "doc_35900.txt",
+    "doc_35901.txt",
+    "doc_35906.txt",
+    "doc_35902.txt"
+  ]
+}

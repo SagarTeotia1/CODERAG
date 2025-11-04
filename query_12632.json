@@ -1,0 +1,10 @@
+{
+  "query": "Which European countries are currently undertaking individual national research and development programs related to HIV/AIDS, malaria, and tuberculosis?",
+  "response": [
+    "doc_2086.txt",
+    "doc_2088.txt",
+    "doc_2105.txt",
+    "doc_2100.txt",
+    "doc_2104.txt"
+  ]
+}

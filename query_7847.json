@@ -1,0 +1,10 @@
+{
+  "query": "Who illustrated “Cinderella, or the Little Glass Slipper”?",
+  "response": [
+    "doc_14303.txt",
+    "doc_14305.txt",
+    "doc_14302.txt",
+    "doc_14304.txt",
+    "doc_14301.txt"
+  ]
+}

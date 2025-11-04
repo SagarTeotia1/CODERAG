@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided links, who was Marie Antoinette’s husband?",
+  "response": [
+    "doc_13388.txt",
+    "doc_31854.txt",
+    "doc_31855.txt",
+    "doc_13385.txt",
+    "doc_13387.txt"
+  ]
+}

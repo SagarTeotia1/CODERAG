@@ -1,0 +1,10 @@
+{
+  "query": "In 1907, what action was taken to save the Eiffel Tower from being torn down?",
+  "response": [
+    "doc_37054.txt",
+    "doc_37056.txt",
+    "doc_37055.txt",
+    "doc_37059.txt",
+    "doc_37057.txt"
+  ]
+}

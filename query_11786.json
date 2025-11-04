@@ -1,0 +1,10 @@
+{
+  "query": "Which film director produced “The Greatest Show on Earth”?",
+  "response": [
+    "doc_19716.txt",
+    "doc_19717.txt",
+    "doc_19718.txt",
+    "doc_19715.txt",
+    "doc_19714.txt"
+  ]
+}

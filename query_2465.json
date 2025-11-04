@@ -1,0 +1,10 @@
+{
+  "query": "What caused the environmental catastrophe in Ischia?",
+  "response": [
+    "doc_34984.txt",
+    "doc_16379.txt",
+    "doc_16376.txt",
+    "doc_16378.txt",
+    "doc_16383.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided text, was Van Cliburn the only classical musician to receive a ticker-tape parade?",
+  "response": [
+    "doc_26646.txt",
+    "doc_26651.txt",
+    "doc_26647.txt",
+    "doc_26648.txt",
+    "doc_26654.txt"
+  ]
+}

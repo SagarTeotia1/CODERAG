@@ -1,0 +1,10 @@
+{
+  "query": "What is the Dome of the Rock, and what is its significance?",
+  "response": [
+    "doc_38219.txt",
+    "doc_38217.txt",
+    "doc_38215.txt",
+    "doc_38216.txt",
+    "doc_38218.txt"
+  ]
+}

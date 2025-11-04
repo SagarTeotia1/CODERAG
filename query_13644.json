@@ -1,0 +1,10 @@
+{
+  "query": "Which television series did Lara Flynn Boyle initially gain recognition for?",
+  "response": [
+    "doc_16132.txt",
+    "doc_16133.txt",
+    "doc_32018.txt",
+    "doc_16134.txt",
+    "doc_12713.txt"
+  ]
+}

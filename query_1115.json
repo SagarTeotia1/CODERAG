@@ -1,0 +1,10 @@
+{
+  "query": "Which organization awards the Vardon Trophy, and what criteria are used to determine the winner?",
+  "response": [
+    "doc_2951.txt",
+    "doc_35641.txt",
+    "doc_16903.txt",
+    "doc_35045.txt",
+    "doc_16418.txt"
+  ]
+}

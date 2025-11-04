@@ -1,0 +1,10 @@
+{
+  "query": "How many regular season episodes are there in “The West Wing”?",
+  "response": [
+    "doc_1854.txt",
+    "doc_1853.txt",
+    "doc_26961.txt",
+    "doc_31488.txt",
+    "doc_11743.txt"
+  ]
+}

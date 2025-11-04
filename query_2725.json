@@ -1,0 +1,10 @@
+{
+  "query": "Which airline was owned by the A. P. Møller–Mærsk Group and operated offshore helicopter operations from 1975 to 1999?",
+  "response": [
+    "doc_3346.txt",
+    "doc_28019.txt",
+    "doc_35620.txt",
+    "doc_12618.txt",
+    "doc_28020.txt"
+  ]
+}

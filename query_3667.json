@@ -1,0 +1,10 @@
+{
+  "query": "According to the Amnesty International report, what were Azerbaijani citizens calling for in March and April 2011?",
+  "response": [
+    "doc_36138.txt",
+    "doc_5371.txt",
+    "doc_5370.txt",
+    "doc_5790.txt",
+    "doc_34800.txt"
+  ]
+}

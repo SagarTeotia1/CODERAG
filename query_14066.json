@@ -1,0 +1,10 @@
+{
+  "query": "Which Star Trek series did Walter Koenig write an episode for?",
+  "response": [
+    "doc_2406.txt",
+    "doc_2405.txt",
+    "doc_2404.txt",
+    "doc_2402.txt",
+    "doc_2409.txt"
+  ]
+}

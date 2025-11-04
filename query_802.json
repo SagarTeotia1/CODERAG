@@ -1,0 +1,10 @@
+{
+  "query": "In what park is the International Rose Test Garden located?",
+  "response": [
+    "doc_29141.txt",
+    "doc_29143.txt",
+    "doc_5240.txt",
+    "doc_29144.txt",
+    "doc_29142.txt"
+  ]
+}

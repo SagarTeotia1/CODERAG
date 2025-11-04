@@ -1,0 +1,10 @@
+{
+  "query": "Which MEPs drafted reports concerning Roma rights and female poverty in the EU?",
+  "response": [
+    "doc_27693.txt",
+    "doc_17123.txt",
+    "doc_26725.txt",
+    "doc_27691.txt",
+    "doc_27692.txt"
+  ]
+}

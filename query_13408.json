@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the “most perilous” creature encountered by Bilbo in the text?",
+  "response": [
+    "doc_23585.txt",
+    "doc_23588.txt",
+    "doc_23587.txt",
+    "doc_23589.txt",
+    "doc_23586.txt"
+  ]
+}

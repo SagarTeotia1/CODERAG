@@ -1,0 +1,10 @@
+{
+  "query": "What TV show was based on Earl Hamner Jr.’s work?",
+  "response": [
+    "doc_20013.txt",
+    "doc_20014.txt",
+    "doc_20012.txt",
+    "doc_23152.txt",
+    "doc_35185.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When was “Bring Me to Life” released as the lead single from the album “Fallen”?",
+  "response": [
+    "doc_20512.txt",
+    "doc_20514.txt",
+    "doc_20513.txt",
+    "doc_15911.txt",
+    "doc_173.txt"
+  ]
+}

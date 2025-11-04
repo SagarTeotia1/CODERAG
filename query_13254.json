@@ -1,0 +1,10 @@
+{
+  "query": "Where is Suraj Tal Lake located?",
+  "response": [
+    "doc_23246.txt",
+    "doc_23247.txt",
+    "doc_20743.txt",
+    "doc_20751.txt",
+    "doc_20744.txt"
+  ]
+}

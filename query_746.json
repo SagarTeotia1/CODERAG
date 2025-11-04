@@ -1,0 +1,10 @@
+{
+  "query": "Which organization is the primary focus of the British Medical Journal publication?",
+  "response": [
+    "doc_34657.txt",
+    "doc_13226.txt",
+    "doc_13660.txt",
+    "doc_27802.txt",
+    "doc_27798.txt"
+  ]
+}

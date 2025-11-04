@@ -1,0 +1,10 @@
+{
+  "query": "Since 1997, how many tax measures has the EU’s Member States agreed to withdraw?",
+  "response": [
+    "doc_20030.txt",
+    "doc_14612.txt",
+    "doc_14591.txt",
+    "doc_3569.txt",
+    "doc_26809.txt"
+  ]
+}

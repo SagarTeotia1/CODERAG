@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission’s favoured communication tool?",
+  "response": [
+    "doc_38044.txt",
+    "doc_23056.txt",
+    "doc_1104.txt",
+    "doc_38045.txt",
+    "doc_37737.txt"
+  ]
+}

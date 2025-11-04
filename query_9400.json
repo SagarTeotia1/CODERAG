@@ -1,0 +1,10 @@
+{
+  "query": "What is the amount of euros Ryanair is offering to acquire the remaining stake in Aer Lingus?",
+  "response": [
+    "doc_1356.txt",
+    "doc_26161.txt",
+    "doc_18955.txt",
+    "doc_37999.txt",
+    "doc_31498.txt"
+  ]
+}

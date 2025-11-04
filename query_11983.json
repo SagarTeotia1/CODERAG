@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of mechanised trips in 2001 were made using public transport in Warsaw?",
+  "response": [
+    "doc_38721.txt",
+    "doc_15898.txt",
+    "doc_830.txt",
+    "doc_32250.txt",
+    "doc_2948.txt"
+  ]
+}

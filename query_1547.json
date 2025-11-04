@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the Sequoyah Statehood Convention held?",
+  "response": [
+    "doc_3023.txt",
+    "doc_3021.txt",
+    "doc_3026.txt",
+    "doc_3019.txt",
+    "doc_3025.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which university did Roy Williams begin his college coaching career at?",
+  "response": [
+    "doc_25822.txt",
+    "doc_17453.txt",
+    "doc_7715.txt",
+    "doc_7714.txt",
+    "doc_17450.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which production companies were involved in the creation of \"Man About Town\"?",
+  "response": [
+    "doc_14152.txt",
+    "doc_23968.txt",
+    "doc_23971.txt",
+    "doc_25397.txt",
+    "doc_14154.txt"
+  ]
+}

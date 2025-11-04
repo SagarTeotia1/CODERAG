@@ -1,0 +1,10 @@
+{
+  "query": "When was the conference held in Odessa aimed at resolving the Transnistria conflict?",
+  "response": [
+    "doc_6652.txt",
+    "doc_9991.txt",
+    "doc_75.txt",
+    "doc_9596.txt",
+    "doc_9595.txt"
+  ]
+}

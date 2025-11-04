@@ -1,0 +1,10 @@
+{
+  "query": "What band did Mike Heidorn play with before forming Son Volt?",
+  "response": [
+    "doc_19068.txt",
+    "doc_34414.txt",
+    "doc_36626.txt",
+    "doc_34422.txt",
+    "doc_34417.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to the Bureau of Labor Statistics, how much more do employees earn after two years?",
+  "response": [
+    "doc_38565.txt",
+    "doc_34887.txt",
+    "doc_34886.txt",
+    "doc_4365.txt",
+    "doc_4357.txt"
+  ]
+}

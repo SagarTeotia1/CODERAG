@@ -1,0 +1,10 @@
+{
+  "query": "Is the Commission aware that the Spanish government plans to hold a ‘Spanish Property Road Show’ in the United Kingdom?",
+  "response": [
+    "doc_34599.txt",
+    "doc_1441.txt",
+    "doc_12229.txt",
+    "doc_23422.txt",
+    "doc_28772.txt"
+  ]
+}

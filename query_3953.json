@@ -1,0 +1,10 @@
+{
+  "query": "What rating did the Scottish tourist board, VisitScotland, award the Glasgow Science Centre?",
+  "response": [
+    "doc_7918.txt",
+    "doc_36841.txt",
+    "doc_8849.txt",
+    "doc_8857.txt",
+    "doc_8850.txt"
+  ]
+}

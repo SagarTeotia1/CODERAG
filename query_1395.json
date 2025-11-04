@@ -1,0 +1,10 @@
+{
+  "query": "How many Dominick Dunne novels had the reader read prior to reading \"People Like Us\"?",
+  "response": [
+    "doc_30674.txt",
+    "doc_30675.txt",
+    "doc_30677.txt",
+    "doc_30676.txt",
+    "doc_33599.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which body published the final annual accounts of the European Training Foundation for 2004?",
+  "response": [
+    "doc_37977.txt",
+    "doc_37978.txt",
+    "doc_37979.txt",
+    "doc_26019.txt",
+    "doc_26018.txt"
+  ]
+}

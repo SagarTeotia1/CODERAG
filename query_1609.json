@@ -1,0 +1,10 @@
+{
+  "query": "What was the name of the post-disco group that released the album “Sons of the Universe”?",
+  "response": [
+    "doc_38411.txt",
+    "doc_37162.txt",
+    "doc_21175.txt",
+    "doc_32073.txt",
+    "doc_37144.txt"
+  ]
+}

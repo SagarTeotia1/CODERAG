@@ -1,0 +1,10 @@
+{
+  "query": "Who declared himself \"King of the World\" at the ceremony in 1998?",
+  "response": [
+    "doc_145.txt",
+    "doc_148.txt",
+    "doc_140.txt",
+    "doc_144.txt",
+    "doc_139.txt"
+  ]
+}

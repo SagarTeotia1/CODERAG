@@ -1,0 +1,10 @@
+{
+  "query": "Of the 25 languages eligible for the eLearning Awards for Europe, how many are official languages of the EU?",
+  "response": [
+    "doc_5930.txt",
+    "doc_24695.txt",
+    "doc_25925.txt",
+    "doc_37553.txt",
+    "doc_34326.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What year was the College of the Holy Cross founded?",
+  "response": [
+    "doc_1944.txt",
+    "doc_1945.txt",
+    "doc_1941.txt",
+    "doc_1950.txt",
+    "doc_1940.txt"
+  ]
+}

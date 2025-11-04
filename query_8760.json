@@ -1,0 +1,10 @@
+{
+  "query": "What types of songs are featured in the musical “The Music Man,” as described in the text?",
+  "response": [
+    "doc_12198.txt",
+    "doc_12196.txt",
+    "doc_12197.txt",
+    "doc_12201.txt",
+    "doc_12200.txt"
+  ]
+}

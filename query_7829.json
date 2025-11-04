@@ -1,0 +1,10 @@
+{
+  "query": "According to one passage, what was the destruction of Sodom and Gomorrah caused by?",
+  "response": [
+    "doc_9884.txt",
+    "doc_9883.txt",
+    "doc_19796.txt",
+    "doc_12093.txt",
+    "doc_13100.txt"
+  ]
+}

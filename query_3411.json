@@ -1,0 +1,10 @@
+{
+  "query": "On what date did “Saludos Amigos” premiere in Rio de Janeiro?",
+  "response": [
+    "doc_35527.txt",
+    "doc_35343.txt",
+    "doc_35344.txt",
+    "doc_7733.txt",
+    "doc_7732.txt"
+  ]
+}

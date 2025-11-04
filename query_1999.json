@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the eraser produced by Sanford that is referred to as the “Pink Pearl”?",
+  "response": [
+    "doc_32193.txt",
+    "doc_7102.txt",
+    "doc_7107.txt",
+    "doc_11968.txt",
+    "doc_7108.txt"
+  ]
+}

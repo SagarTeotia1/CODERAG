@@ -1,0 +1,10 @@
+{
+  "query": "What was the name of the NFL game referred to as by “Sports Illustrated,” and which teams played in it?",
+  "response": [
+    "doc_32929.txt",
+    "doc_12458.txt",
+    "doc_38738.txt",
+    "doc_12460.txt",
+    "doc_12459.txt"
+  ]
+}

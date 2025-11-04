@@ -1,0 +1,10 @@
+{
+  "query": "What budget has been allocated to Britain’s nuclear bomb factory for the next three years?",
+  "response": [
+    "doc_14209.txt",
+    "doc_14437.txt",
+    "doc_14208.txt",
+    "doc_36372.txt",
+    "doc_17239.txt"
+  ]
+}

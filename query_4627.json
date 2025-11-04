@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the Miss Perú 2004 pageant held, and how many contestants competed?",
+  "response": [
+    "doc_37966.txt",
+    "doc_15974.txt",
+    "doc_16767.txt",
+    "doc_13969.txt",
+    "doc_4335.txt"
+  ]
+}

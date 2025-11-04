@@ -1,0 +1,10 @@
+{
+  "query": "What role did Steven Harper play in a series?",
+  "response": [
+    "doc_16130.txt",
+    "doc_16132.txt",
+    "doc_16134.txt",
+    "doc_16133.txt",
+    "doc_16131.txt"
+  ]
+}

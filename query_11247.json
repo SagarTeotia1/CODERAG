@@ -1,0 +1,10 @@
+{
+  "query": "Where does Katie Barnett practice animal law?",
+  "response": [
+    "doc_8541.txt",
+    "doc_33762.txt",
+    "doc_18152.txt",
+    "doc_26206.txt",
+    "doc_37543.txt"
+  ]
+}

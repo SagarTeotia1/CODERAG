@@ -1,0 +1,10 @@
+{
+  "query": "What year was “Yester Love” released?",
+  "response": [
+    "doc_30755.txt",
+    "doc_35736.txt",
+    "doc_21175.txt",
+    "doc_30757.txt",
+    "doc_21176.txt"
+  ]
+}

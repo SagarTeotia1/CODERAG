@@ -1,0 +1,10 @@
+{
+  "query": "What was the name of the candy bar introduced in 1929 by Frank and Ethel Mars?",
+  "response": [
+    "doc_4933.txt",
+    "doc_37822.txt",
+    "doc_37815.txt",
+    "doc_30154.txt",
+    "doc_30161.txt"
+  ]
+}

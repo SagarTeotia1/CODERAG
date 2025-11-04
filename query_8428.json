@@ -1,0 +1,10 @@
+{
+  "query": "What attendance record was established at Baylor’s last game?",
+  "response": [
+    "doc_11424.txt",
+    "doc_12348.txt",
+    "doc_15843.txt",
+    "doc_25627.txt",
+    "doc_38744.txt"
+  ]
+}

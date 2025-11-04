@@ -1,0 +1,10 @@
+{
+  "query": "Which explorer is *Philadelphus lewisii* named after?",
+  "response": [
+    "doc_36572.txt",
+    "doc_30246.txt",
+    "doc_36573.txt",
+    "doc_36578.txt",
+    "doc_36576.txt"
+  ]
+}

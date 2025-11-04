@@ -1,0 +1,10 @@
+{
+  "query": "In what year was Lydia Peelle named a \"5 under 35\" honoree?",
+  "response": [
+    "doc_28945.txt",
+    "doc_14094.txt",
+    "doc_28940.txt",
+    "doc_28941.txt",
+    "doc_28939.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "At what age was Saint Patrick kidnapped?",
+  "response": [
+    "doc_32875.txt",
+    "doc_32868.txt",
+    "doc_32871.txt",
+    "doc_32869.txt",
+    "doc_32872.txt"
+  ]
+}

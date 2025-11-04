@@ -1,0 +1,10 @@
+{
+  "query": "Where did Jack Dempsey earn a fight with heavyweight champion Jess Willard?",
+  "response": [
+    "doc_30172.txt",
+    "doc_30174.txt",
+    "doc_30176.txt",
+    "doc_30167.txt",
+    "doc_30177.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was B’Elanna Torres’s rank on the USS Voyager after joining the crew?",
+  "response": [
+    "doc_38302.txt",
+    "doc_13205.txt",
+    "doc_16132.txt",
+    "doc_13202.txt",
+    "doc_35188.txt"
+  ]
+}

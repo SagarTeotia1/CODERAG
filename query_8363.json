@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how many Shiva temples are located in Tamil Nadu?",
+  "response": [
+    "doc_11268.txt",
+    "doc_12330.txt",
+    "doc_12331.txt",
+    "doc_12334.txt",
+    "doc_12329.txt"
+  ]
+}

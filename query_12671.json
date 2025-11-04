@@ -1,0 +1,10 @@
+{
+  "query": "What was Georgia State University’s student population as of 2015?",
+  "response": [
+    "doc_21843.txt",
+    "doc_38610.txt",
+    "doc_21842.txt",
+    "doc_38613.txt",
+    "doc_30947.txt"
+  ]
+}

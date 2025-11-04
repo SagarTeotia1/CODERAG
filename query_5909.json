@@ -1,0 +1,10 @@
+{
+  "query": "What is the setting of Hermann Hesse’s *Siddhartha*, as described in the provided text?",
+  "response": [
+    "doc_5125.txt",
+    "doc_5127.txt",
+    "doc_5131.txt",
+    "doc_5128.txt",
+    "doc_5126.txt"
+  ]
+}

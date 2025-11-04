@@ -1,0 +1,10 @@
+{
+  "query": "Which historical figure led the 1832 Baptist War in Jamaica?",
+  "response": [
+    "doc_9291.txt",
+    "doc_9298.txt",
+    "doc_9293.txt",
+    "doc_9294.txt",
+    "doc_9290.txt"
+  ]
+}

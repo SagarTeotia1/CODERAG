@@ -1,0 +1,10 @@
+{
+  "query": "What infrastructure needs does each island in Greece require?",
+  "response": [
+    "doc_14886.txt",
+    "doc_15811.txt",
+    "doc_23622.txt",
+    "doc_10633.txt",
+    "doc_2293.txt"
+  ]
+}

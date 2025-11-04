@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided links, how many zeros does “one billion” have in English?",
+  "response": [
+    "doc_16647.txt",
+    "doc_16646.txt",
+    "doc_16648.txt",
+    "doc_16649.txt",
+    "doc_16650.txt"
+  ]
+}

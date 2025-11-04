@@ -1,0 +1,10 @@
+{
+  "query": "What were the nationalities of the seven people murdered in the Castel Volturno massacre, and were they involved in criminal activities?",
+  "response": [
+    "doc_34984.txt",
+    "doc_508.txt",
+    "doc_10223.txt",
+    "doc_15958.txt",
+    "doc_17253.txt"
+  ]
+}

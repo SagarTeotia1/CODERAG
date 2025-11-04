@@ -1,0 +1,10 @@
+{
+  "query": "In what year was McDonald's Corporation incorporated?",
+  "response": [
+    "doc_38563.txt",
+    "doc_38564.txt",
+    "doc_38565.txt",
+    "doc_38567.txt",
+    "doc_38569.txt"
+  ]
+}

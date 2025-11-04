@@ -1,0 +1,10 @@
+{
+  "query": "How many patents did Robert Goddard hold related to rocketry at the time of his death?",
+  "response": [
+    "doc_36761.txt",
+    "doc_36763.txt",
+    "doc_36764.txt",
+    "doc_36760.txt",
+    "doc_36762.txt"
+  ]
+}

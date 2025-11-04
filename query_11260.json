@@ -1,0 +1,10 @@
+{
+  "query": "According to the Nanyang Bulletin, what was the initial number of students involved in the Five Peaks of Excellence program?",
+  "response": [
+    "doc_27567.txt",
+    "doc_2021.txt",
+    "doc_22367.txt",
+    "doc_23428.txt",
+    "doc_5060.txt"
+  ]
+}

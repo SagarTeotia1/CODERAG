@@ -1,0 +1,10 @@
+{
+  "query": "Who should attend the proposed European Forum of Enterprises for Sustainable Development, according to the passage?",
+  "response": [
+    "doc_15770.txt",
+    "doc_36852.txt",
+    "doc_16415.txt",
+    "doc_30478.txt",
+    "doc_36851.txt"
+  ]
+}

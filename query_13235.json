@@ -1,0 +1,10 @@
+{
+  "query": "What was the approximate percentage of adults aged 15 to 64 in Europe who had tried cocaine at least once in their lives?",
+  "response": [
+    "doc_23186.txt",
+    "doc_2530.txt",
+    "doc_10825.txt",
+    "doc_15333.txt",
+    "doc_28496.txt"
+  ]
+}

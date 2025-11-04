@@ -1,0 +1,10 @@
+{
+  "query": "What was the suspension span length of the Golden Gate Bridge?",
+  "response": [
+    "doc_5014.txt",
+    "doc_5006.txt",
+    "doc_5015.txt",
+    "doc_5010.txt",
+    "doc_5013.txt"
+  ]
+}

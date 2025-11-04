@@ -1,0 +1,10 @@
+{
+  "query": "Where did Lyon Porter open his bed-and-breakfast?",
+  "response": [
+    "doc_628.txt",
+    "doc_627.txt",
+    "doc_20013.txt",
+    "doc_5598.txt",
+    "doc_30630.txt"
+  ]
+}

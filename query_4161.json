@@ -1,0 +1,10 @@
+{
+  "query": "What was Aquila’s place of birth?",
+  "response": [
+    "doc_38552.txt",
+    "doc_38549.txt",
+    "doc_38553.txt",
+    "doc_38548.txt",
+    "doc_38173.txt"
+  ]
+}

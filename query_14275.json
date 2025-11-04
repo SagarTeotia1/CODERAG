@@ -1,0 +1,10 @@
+{
+  "query": "Which companies are partners in the Natural Gas Supply Company (EPA), and what percentage of shares does each hold?",
+  "response": [
+    "doc_27496.txt",
+    "doc_27495.txt",
+    "doc_27494.txt",
+    "doc_27504.txt",
+    "doc_26976.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Where were the B-52 bombers being refuelled?",
+  "response": [
+    "doc_20289.txt",
+    "doc_20287.txt",
+    "doc_20288.txt",
+    "doc_20285.txt",
+    "doc_20286.txt"
+  ]
+}

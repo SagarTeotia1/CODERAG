@@ -1,0 +1,10 @@
+{
+  "query": "What type of court was the 2016 Stockton ATP Challenger played on?",
+  "response": [
+    "doc_31945.txt",
+    "doc_31946.txt",
+    "doc_38944.txt",
+    "doc_38937.txt",
+    "doc_38941.txt"
+  ]
+}

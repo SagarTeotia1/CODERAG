@@ -1,0 +1,10 @@
+{
+  "query": "What instrument did Jimmy Page custom order, and how many strings did it have?",
+  "response": [
+    "doc_19763.txt",
+    "doc_19764.txt",
+    "doc_1538.txt",
+    "doc_1534.txt",
+    "doc_1533.txt"
+  ]
+}

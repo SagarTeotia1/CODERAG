@@ -1,0 +1,10 @@
+{
+  "query": "What date was La Marseillaise composed?",
+  "response": [
+    "doc_35127.txt",
+    "doc_35128.txt",
+    "doc_35126.txt",
+    "doc_35125.txt",
+    "doc_36862.txt"
+  ]
+}

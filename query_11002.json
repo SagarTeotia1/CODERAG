@@ -1,0 +1,10 @@
+{
+  "query": "According to the text, what were some of the supporters of Conde de Lemos involved in?",
+  "response": [
+    "doc_17583.txt",
+    "doc_12732.txt",
+    "doc_17584.txt",
+    "doc_17582.txt",
+    "doc_1879.txt"
+  ]
+}

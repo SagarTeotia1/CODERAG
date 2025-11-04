@@ -1,0 +1,10 @@
+{
+  "query": "Which television series did Danica McKellar play Winnie Cooper in?",
+  "response": [
+    "doc_26968.txt",
+    "doc_39999.txt",
+    "doc_26960.txt",
+    "doc_26961.txt",
+    "doc_2405.txt"
+  ]
+}

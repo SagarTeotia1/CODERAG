@@ -1,0 +1,10 @@
+{
+  "query": "What painter, born July 3, 1738, created “Watson and the Shark,” a work that caused a sensation 219 years before Damien Hirst’s work?",
+  "response": [
+    "doc_35242.txt",
+    "doc_30246.txt",
+    "doc_30244.txt",
+    "doc_30247.txt",
+    "doc_19081.txt"
+  ]
+}

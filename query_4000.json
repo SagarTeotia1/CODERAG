@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission doing to combat the illegal trade in tiger skin, bones, and other body parts?",
+  "response": [
+    "doc_36929.txt",
+    "doc_24185.txt",
+    "doc_10333.txt",
+    "doc_15867.txt",
+    "doc_24183.txt"
+  ]
+}

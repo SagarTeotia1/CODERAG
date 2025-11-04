@@ -1,0 +1,10 @@
+{
+  "query": "When was the Angra-1 reactor first shut down?",
+  "response": [
+    "doc_13779.txt",
+    "doc_28460.txt",
+    "doc_17447.txt",
+    "doc_14640.txt",
+    "doc_28045.txt"
+  ]
+}

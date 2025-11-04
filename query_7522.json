@@ -1,0 +1,10 @@
+{
+  "query": "Besides letters, what other form of evidence was provided by Mr. O'Farrell?",
+  "response": [
+    "doc_1031.txt",
+    "doc_1029.txt",
+    "doc_1033.txt",
+    "doc_1030.txt",
+    "doc_1061.txt"
+  ]
+}

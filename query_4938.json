@@ -1,0 +1,10 @@
+{
+  "query": "In what year did John Damer tragically take his own life?",
+  "response": [
+    "doc_26015.txt",
+    "doc_33310.txt",
+    "doc_23152.txt",
+    "doc_14801.txt",
+    "doc_23153.txt"
+  ]
+}

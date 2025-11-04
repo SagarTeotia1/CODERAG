@@ -1,0 +1,10 @@
+{
+  "query": "Who does Don Vito Corleone help for help?",
+  "response": [
+    "doc_21806.txt",
+    "doc_21809.txt",
+    "doc_21807.txt",
+    "doc_21808.txt",
+    "doc_21805.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which actor played the character of Jim in “Jules and Jim”?",
+  "response": [
+    "doc_28874.txt",
+    "doc_24003.txt",
+    "doc_6535.txt",
+    "doc_24005.txt",
+    "doc_11253.txt"
+  ]
+}

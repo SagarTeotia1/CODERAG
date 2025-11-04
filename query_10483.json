@@ -1,0 +1,10 @@
+{
+  "query": "When did Tom Morey invent the Boogie board?",
+  "response": [
+    "doc_19767.txt",
+    "doc_19763.txt",
+    "doc_275.txt",
+    "doc_36709.txt",
+    "doc_38111.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is Chief Dan George’s original name?",
+  "response": [
+    "doc_32470.txt",
+    "doc_31546.txt",
+    "doc_34085.txt",
+    "doc_25457.txt",
+    "doc_31554.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which airline operated Turkish Airlines Flight 6491?",
+  "response": [
+    "doc_23127.txt",
+    "doc_32171.txt",
+    "doc_23128.txt",
+    "doc_24036.txt",
+    "doc_35620.txt"
+  ]
+}

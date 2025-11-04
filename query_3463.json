@@ -1,0 +1,10 @@
+{
+  "query": "What was the approximate date and time of the 1755 Lisbon earthquake?",
+  "response": [
+    "doc_35628.txt",
+    "doc_35622.txt",
+    "doc_35623.txt",
+    "doc_35627.txt",
+    "doc_35624.txt"
+  ]
+}

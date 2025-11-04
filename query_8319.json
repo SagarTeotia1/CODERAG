@@ -1,0 +1,10 @@
+{
+  "query": "What tragic event involving a private militia in Maguindanao province resulted in the deaths of 57 people, including 30 journalists?",
+  "response": [
+    "doc_24641.txt",
+    "doc_28633.txt",
+    "doc_28632.txt",
+    "doc_28635.txt",
+    "doc_28636.txt"
+  ]
+}

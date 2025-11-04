@@ -1,0 +1,10 @@
+{
+  "query": "What year was “The Satanic Bible” published?",
+  "response": [
+    "doc_12112.txt",
+    "doc_28833.txt",
+    "doc_28828.txt",
+    "doc_3455.txt",
+    "doc_27239.txt"
+  ]
+}

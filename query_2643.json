@@ -1,0 +1,10 @@
+{
+  "query": "What nickname did Joseph Bonanno dislike, and why?",
+  "response": [
+    "doc_33821.txt",
+    "doc_21805.txt",
+    "doc_9219.txt",
+    "doc_9220.txt",
+    "doc_9217.txt"
+  ]
+}

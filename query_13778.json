@@ -1,0 +1,10 @@
+{
+  "query": "According to the text, what was Mimir’s role after being preserved by Odin?",
+  "response": [
+    "doc_24534.txt",
+    "doc_24531.txt",
+    "doc_24533.txt",
+    "doc_2507.txt",
+    "doc_2508.txt"
+  ]
+}

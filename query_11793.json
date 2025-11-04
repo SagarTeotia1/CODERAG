@@ -1,0 +1,10 @@
+{
+  "query": "Where does Stephen King live?",
+  "response": [
+    "doc_19743.txt",
+    "doc_19738.txt",
+    "doc_19740.txt",
+    "doc_19737.txt",
+    "doc_31145.txt"
+  ]
+}

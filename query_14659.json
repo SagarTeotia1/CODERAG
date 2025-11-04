@@ -1,0 +1,10 @@
+{
+  "query": "Where is Rudolph Valentino’s ghost most frequently seen?",
+  "response": [
+    "doc_26741.txt",
+    "doc_26738.txt",
+    "doc_26739.txt",
+    "doc_26743.txt",
+    "doc_26742.txt"
+  ]
+}

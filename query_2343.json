@@ -1,0 +1,10 @@
+{
+  "query": "Besides Connemara National Park, what other location is mentioned as being part of County Mayo?",
+  "response": [
+    "doc_33074.txt",
+    "doc_33075.txt",
+    "doc_33079.txt",
+    "doc_21445.txt",
+    "doc_33080.txt"
+  ]
+}

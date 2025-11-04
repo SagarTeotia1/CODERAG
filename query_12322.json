@@ -1,0 +1,10 @@
+{
+  "query": "What type of art does the museum in Gerasa focus on?",
+  "response": [
+    "doc_20912.txt",
+    "doc_20911.txt",
+    "doc_20909.txt",
+    "doc_25688.txt",
+    "doc_16538.txt"
+  ]
+}

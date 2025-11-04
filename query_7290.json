@@ -1,0 +1,10 @@
+{
+  "query": "What was the original name of the musical before it came to Broadway?",
+  "response": [
+    "doc_7698.txt",
+    "doc_26856.txt",
+    "doc_26857.txt",
+    "doc_31829.txt",
+    "doc_7695.txt"
+  ]
+}

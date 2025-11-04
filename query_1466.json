@@ -1,0 +1,10 @@
+{
+  "query": "How many studio albums has Dream Theater released as of 2016?",
+  "response": [
+    "doc_30857.txt",
+    "doc_30856.txt",
+    "doc_27703.txt",
+    "doc_36257.txt",
+    "doc_37164.txt"
+  ]
+}

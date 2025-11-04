@@ -1,0 +1,10 @@
+{
+  "query": "What type of bird was Harry Potter's pet, Hedwig?",
+  "response": [
+    "doc_39168.txt",
+    "doc_39169.txt",
+    "doc_39174.txt",
+    "doc_39171.txt",
+    "doc_39170.txt"
+  ]
+}

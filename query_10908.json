@@ -1,0 +1,10 @@
+{
+  "query": "What instruments accompanied Hank Williams in his music?",
+  "response": [
+    "doc_38863.txt",
+    "doc_17364.txt",
+    "doc_17363.txt",
+    "doc_38860.txt",
+    "doc_38861.txt"
+  ]
+}

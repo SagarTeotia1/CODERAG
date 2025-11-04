@@ -1,0 +1,10 @@
+{
+  "query": "Which company launched Pocket Books, considered the country’s first paperback?",
+  "response": [
+    "doc_40215.txt",
+    "doc_40216.txt",
+    "doc_24968.txt",
+    "doc_40221.txt",
+    "doc_40217.txt"
+  ]
+}

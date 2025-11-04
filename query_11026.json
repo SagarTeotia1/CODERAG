@@ -1,0 +1,10 @@
+{
+  "query": "What actions did the newspaper Milliyet take against the association members?",
+  "response": [
+    "doc_17688.txt",
+    "doc_9135.txt",
+    "doc_7512.txt",
+    "doc_23570.txt",
+    "doc_27349.txt"
+  ]
+}

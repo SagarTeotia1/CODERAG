@@ -1,0 +1,10 @@
+{
+  "query": "What company manufactured the Civic Hybrid mentioned in the passage?",
+  "response": [
+    "doc_20655.txt",
+    "doc_11330.txt",
+    "doc_20659.txt",
+    "doc_20660.txt",
+    "doc_20658.txt"
+  ]
+}

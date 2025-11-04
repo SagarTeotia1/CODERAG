@@ -1,0 +1,10 @@
+{
+  "query": "How often is the Eiffel Tower completely repainted?",
+  "response": [
+    "doc_37056.txt",
+    "doc_37054.txt",
+    "doc_37055.txt",
+    "doc_40266.txt",
+    "doc_37059.txt"
+  ]
+}

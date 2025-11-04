@@ -1,0 +1,10 @@
+{
+  "query": "Where was Shaheed K. Woods born?",
+  "response": [
+    "doc_27834.txt",
+    "doc_17668.txt",
+    "doc_15745.txt",
+    "doc_3650.txt",
+    "doc_40029.txt"
+  ]
+}

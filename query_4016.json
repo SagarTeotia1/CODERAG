@@ -1,0 +1,10 @@
+{
+  "query": "Which orchestra performed on independent New York radio station WHN in 1937?",
+  "response": [
+    "doc_36968.txt",
+    "doc_36974.txt",
+    "doc_36967.txt",
+    "doc_36966.txt",
+    "doc_36970.txt"
+  ]
+}

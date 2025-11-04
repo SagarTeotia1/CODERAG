@@ -1,0 +1,10 @@
+{
+  "query": "What is the Standard Test Data Format (STDF) and who originally developed it?",
+  "response": [
+    "doc_21264.txt",
+    "doc_21266.txt",
+    "doc_21262.txt",
+    "doc_21265.txt",
+    "doc_11227.txt"
+  ]
+}

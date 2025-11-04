@@ -1,0 +1,10 @@
+{
+  "query": "From which budget headings did the funding received by WWF Spain originate?",
+  "response": [
+    "doc_12494.txt",
+    "doc_2178.txt",
+    "doc_10362.txt",
+    "doc_21744.txt",
+    "doc_9125.txt"
+  ]
+}

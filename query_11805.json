@@ -1,0 +1,10 @@
+{
+  "query": "By what age did Al Anderson begin playing in bands?",
+  "response": [
+    "doc_19761.txt",
+    "doc_19762.txt",
+    "doc_12582.txt",
+    "doc_27296.txt",
+    "doc_33026.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was Frederick Dent Grant's relationship to Ulysses S. Grant?",
+  "response": [
+    "doc_9821.txt",
+    "doc_19470.txt",
+    "doc_37876.txt",
+    "doc_37879.txt",
+    "doc_19475.txt"
+  ]
+}

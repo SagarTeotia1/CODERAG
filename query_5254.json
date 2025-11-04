@@ -1,0 +1,10 @@
+{
+  "query": "What happened shortly after The Beatles’ performance on The Ed Sullivan Show in February 1964?",
+  "response": [
+    "doc_39920.txt",
+    "doc_39923.txt",
+    "doc_39922.txt",
+    "doc_39921.txt",
+    "doc_39924.txt"
+  ]
+}

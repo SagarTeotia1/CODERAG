@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission’s current stance regarding the use of dynamite by fishermen?",
+  "response": [
+    "doc_23336.txt",
+    "doc_14415.txt",
+    "doc_28450.txt",
+    "doc_12689.txt",
+    "doc_28292.txt"
+  ]
+}

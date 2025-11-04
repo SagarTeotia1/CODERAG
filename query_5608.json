@@ -1,0 +1,10 @@
+{
+  "query": "Which director oversaw the production of “Miss Bishop”?",
+  "response": [
+    "doc_4318.txt",
+    "doc_4317.txt",
+    "doc_27031.txt",
+    "doc_27035.txt",
+    "doc_27030.txt"
+  ]
+}

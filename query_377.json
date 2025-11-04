@@ -1,0 +1,10 @@
+{
+  "query": "Who hand-picked Frank Tiberi to lead the Woody Herman Orchestra?",
+  "response": [
+    "doc_268.txt",
+    "doc_267.txt",
+    "doc_272.txt",
+    "doc_269.txt",
+    "doc_270.txt"
+  ]
+}

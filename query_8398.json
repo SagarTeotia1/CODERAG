@@ -1,0 +1,10 @@
+{
+  "query": "What types of sports are covered by the 2016 competition rules outlined in the USA Track & Field document?",
+  "response": [
+    "doc_11354.txt",
+    "doc_11353.txt",
+    "doc_22126.txt",
+    "doc_11352.txt",
+    "doc_32757.txt"
+  ]
+}

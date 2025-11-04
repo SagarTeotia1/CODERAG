@@ -1,0 +1,10 @@
+{
+  "query": "Which organizations collaborate to monitor fish stocks in EU waters?",
+  "response": [
+    "doc_13502.txt",
+    "doc_11931.txt",
+    "doc_36904.txt",
+    "doc_17526.txt",
+    "doc_3701.txt"
+  ]
+}

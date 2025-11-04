@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided links, what type of illustrations were found in the 1476 printed book of Aesop’s fables?",
+  "response": [
+    "doc_302.txt",
+    "doc_299.txt",
+    "doc_298.txt",
+    "doc_306.txt",
+    "doc_303.txt"
+  ]
+}

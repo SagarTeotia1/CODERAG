@@ -1,0 +1,10 @@
+{
+  "query": "What was the outcome of the legal battle between Apple Corps and Apple Computer in May 2006?",
+  "response": [
+    "doc_10571.txt",
+    "doc_10572.txt",
+    "doc_10573.txt",
+    "doc_10580.txt",
+    "doc_8117.txt"
+  ]
+}

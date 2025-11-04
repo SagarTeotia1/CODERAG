@@ -1,0 +1,10 @@
+{
+  "query": "In what country did Robert Frost live while publishing his first two books of poetry?",
+  "response": [
+    "doc_36655.txt",
+    "doc_36656.txt",
+    "doc_31559.txt",
+    "doc_31561.txt",
+    "doc_31560.txt"
+  ]
+}

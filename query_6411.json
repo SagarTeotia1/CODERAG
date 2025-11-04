@@ -1,0 +1,10 @@
+{
+  "query": "Which Major League Baseball teams did Prince Fielder play for during his career?",
+  "response": [
+    "doc_619.txt",
+    "doc_9257.txt",
+    "doc_31918.txt",
+    "doc_20706.txt",
+    "doc_20094.txt"
+  ]
+}

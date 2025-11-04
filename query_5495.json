@@ -1,0 +1,10 @@
+{
+  "query": "What was Geronimo’s reputation among his enemies?",
+  "response": [
+    "doc_26617.txt",
+    "doc_12475.txt",
+    "doc_13495.txt",
+    "doc_27468.txt",
+    "doc_13500.txt"
+  ]
+}

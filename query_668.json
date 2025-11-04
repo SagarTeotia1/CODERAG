@@ -1,0 +1,10 @@
+{
+  "query": "What is the current estimated number of displaced people in Haiti, according to the IOM?",
+  "response": [
+    "doc_28766.txt",
+    "doc_34726.txt",
+    "doc_15330.txt",
+    "doc_18686.txt",
+    "doc_8309.txt"
+  ]
+}

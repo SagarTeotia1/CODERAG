@@ -1,0 +1,10 @@
+{
+  "query": "What narrative device does “The Affair” utilize, based on the passage?",
+  "response": [
+    "doc_3814.txt",
+    "doc_29448.txt",
+    "doc_33519.txt",
+    "doc_15204.txt",
+    "doc_10520.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Where and when is the Readercon science fiction convention held annually?",
+  "response": [
+    "doc_11554.txt",
+    "doc_11562.txt",
+    "doc_11563.txt",
+    "doc_11557.txt",
+    "doc_7036.txt"
+  ]
+}

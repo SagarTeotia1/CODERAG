@@ -1,0 +1,10 @@
+{
+  "query": "What are the potential harmful effects of Bisphenol A, according to the passage?",
+  "response": [
+    "doc_22598.txt",
+    "doc_36377.txt",
+    "doc_39503.txt",
+    "doc_32660.txt",
+    "doc_23417.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is Miguel De Cervantes known for, as indicated by one of the linked documents?",
+  "response": [
+    "doc_24932.txt",
+    "doc_12730.txt",
+    "doc_12731.txt",
+    "doc_12732.txt",
+    "doc_38592.txt"
+  ]
+}

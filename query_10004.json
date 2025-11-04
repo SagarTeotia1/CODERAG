@@ -1,0 +1,10 @@
+{
+  "query": "According to the Wikipedia article on Jane Austen’s Styles and Themes, what is a key element of Austen’s literary style?",
+  "response": [
+    "doc_15167.txt",
+    "doc_17291.txt",
+    "doc_17292.txt",
+    "doc_15169.txt",
+    "doc_17296.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the Academy located near Taneytown?",
+  "response": [
+    "doc_12588.txt",
+    "doc_12589.txt",
+    "doc_12590.txt",
+    "doc_12587.txt",
+    "doc_12592.txt"
+  ]
+}

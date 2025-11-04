@@ -1,0 +1,10 @@
+{
+  "query": "Where did Hrdy study Hanuman langurs?",
+  "response": [
+    "doc_10166.txt",
+    "doc_10167.txt",
+    "doc_37468.txt",
+    "doc_17347.txt",
+    "doc_7474.txt"
+  ]
+}

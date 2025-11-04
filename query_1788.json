@@ -1,0 +1,10 @@
+{
+  "query": "What show does Al Bundy reference as “the quintessential show within a show”?",
+  "response": [
+    "doc_31648.txt",
+    "doc_31647.txt",
+    "doc_31651.txt",
+    "doc_31652.txt",
+    "doc_31649.txt"
+  ]
+}

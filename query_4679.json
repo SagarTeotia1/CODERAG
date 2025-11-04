@@ -1,0 +1,10 @@
+{
+  "query": "What is the elevation of Santo Domingo Hueyapan?",
+  "response": [
+    "doc_10181.txt",
+    "doc_25043.txt",
+    "doc_25046.txt",
+    "doc_2945.txt",
+    "doc_2940.txt"
+  ]
+}

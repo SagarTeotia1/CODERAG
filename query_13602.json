@@ -1,0 +1,10 @@
+{
+  "query": "What is a specialty of “The Elite Catering Company”?",
+  "response": [
+    "doc_6260.txt",
+    "doc_32532.txt",
+    "doc_18997.txt",
+    "doc_34116.txt",
+    "doc_34112.txt"
+  ]
+}

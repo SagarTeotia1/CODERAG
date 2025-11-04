@@ -1,0 +1,10 @@
+{
+  "query": "In what month was Train's album “Drops of Jupiter” released?",
+  "response": [
+    "doc_12124.txt",
+    "doc_12125.txt",
+    "doc_38661.txt",
+    "doc_37337.txt",
+    "doc_12916.txt"
+  ]
+}

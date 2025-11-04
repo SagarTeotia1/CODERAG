@@ -1,0 +1,10 @@
+{
+  "query": "Which class of battleships was USS Idaho part of, and what was its displacement compared to previous classes?",
+  "response": [
+    "doc_27091.txt",
+    "doc_27092.txt",
+    "doc_39967.txt",
+    "doc_39965.txt",
+    "doc_39968.txt"
+  ]
+}

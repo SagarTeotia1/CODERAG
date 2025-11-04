@@ -1,0 +1,10 @@
+{
+  "query": "Which opera premiered as part of the 1990 European Capital of Culture celebrations in Glasgow?",
+  "response": [
+    "doc_35292.txt",
+    "doc_35291.txt",
+    "doc_1492.txt",
+    "doc_16333.txt",
+    "doc_35289.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "For which national team did Carlos Queiroz manage players, including those from South Africa, Portugal, and Iran?",
+  "response": [
+    "doc_5721.txt",
+    "doc_38603.txt",
+    "doc_26367.txt",
+    "doc_26368.txt",
+    "doc_16966.txt"
+  ]
+}

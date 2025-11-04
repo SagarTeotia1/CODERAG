@@ -1,0 +1,10 @@
+{
+  "query": "What event did Francisco Goya commemorate with his painting, “The Third of May, 1808”?",
+  "response": [
+    "doc_3710.txt",
+    "doc_3709.txt",
+    "doc_3704.txt",
+    "doc_3706.txt",
+    "doc_3707.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was the initial budget allocated to the pilot project by the European Parliament?",
+  "response": [
+    "doc_1307.txt",
+    "doc_15495.txt",
+    "doc_15516.txt",
+    "doc_15515.txt",
+    "doc_18185.txt"
+  ]
+}

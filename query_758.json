@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Robert Todd Lincoln become chairman of the board of the Pullman Company?",
+  "response": [
+    "doc_2849.txt",
+    "doc_2850.txt",
+    "doc_2855.txt",
+    "doc_2851.txt",
+    "doc_2857.txt"
+  ]
+}

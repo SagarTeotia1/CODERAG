@@ -1,0 +1,10 @@
+{
+  "query": "Which two films, both released in 1944, contributed to Eddie Bracken becoming a Hollywood comedy legend?",
+  "response": [
+    "doc_9566.txt",
+    "doc_9248.txt",
+    "doc_9559.txt",
+    "doc_37075.txt",
+    "doc_9560.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What animal was Artemis's sacred animal?",
+  "response": [
+    "doc_34303.txt",
+    "doc_34300.txt",
+    "doc_34308.txt",
+    "doc_34302.txt",
+    "doc_34301.txt"
+  ]
+}

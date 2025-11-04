@@ -1,0 +1,10 @@
+{
+  "query": "Which jazz cornetist inspired Masekela to begin playing the trumpet?",
+  "response": [
+    "doc_9034.txt",
+    "doc_9032.txt",
+    "doc_11481.txt",
+    "doc_10221.txt",
+    "doc_3119.txt"
+  ]
+}

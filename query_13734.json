@@ -1,0 +1,10 @@
+{
+  "query": "Who was Sir Robert Guldford’s great-great-grandfather?",
+  "response": [
+    "doc_5350.txt",
+    "doc_24413.txt",
+    "doc_24412.txt",
+    "doc_30194.txt",
+    "doc_4247.txt"
+  ]
+}

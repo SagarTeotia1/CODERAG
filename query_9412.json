@@ -1,0 +1,10 @@
+{
+  "query": "Which EU directives specifically address atypical employment, such as temporary agency work and part-time work?",
+  "response": [
+    "doc_13816.txt",
+    "doc_39440.txt",
+    "doc_13813.txt",
+    "doc_13817.txt",
+    "doc_40137.txt"
+  ]
+}

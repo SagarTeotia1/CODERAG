@@ -1,0 +1,10 @@
+{
+  "query": "What is the estimated annual cost required to halve deforestation by 2030, according to the Eliasch Review?",
+  "response": [
+    "doc_2170.txt",
+    "doc_22747.txt",
+    "doc_22748.txt",
+    "doc_2171.txt",
+    "doc_17528.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year did the Beverly Hills Supper Club fire occur?",
+  "response": [
+    "doc_25558.txt",
+    "doc_25561.txt",
+    "doc_22394.txt",
+    "doc_22392.txt",
+    "doc_25559.txt"
+  ]
+}

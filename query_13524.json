@@ -1,0 +1,10 @@
+{
+  "query": "What role did Alfred Lord Tennyson hold during his career, as indicated by the provided text?",
+  "response": [
+    "doc_23908.txt",
+    "doc_23907.txt",
+    "doc_23906.txt",
+    "doc_23914.txt",
+    "doc_23911.txt"
+  ]
+}

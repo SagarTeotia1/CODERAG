@@ -1,0 +1,10 @@
+{
+  "query": "How much financial support has the European Union provided to Zimbabwe since 2002?",
+  "response": [
+    "doc_26112.txt",
+    "doc_20304.txt",
+    "doc_515.txt",
+    "doc_16739.txt",
+    "doc_39706.txt"
+  ]
+}

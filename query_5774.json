@@ -1,0 +1,10 @@
+{
+  "query": "What is the total amount of money the European Union has expended on the EUBAM Rafah mission from July 2007 to date?",
+  "response": [
+    "doc_4808.txt",
+    "doc_39276.txt",
+    "doc_32101.txt",
+    "doc_32361.txt",
+    "doc_21648.txt"
+  ]
+}

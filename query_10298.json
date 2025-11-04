@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the album “Sehnsucht” by Lacrimosa?",
+  "response": [
+    "doc_27135.txt",
+    "doc_27137.txt",
+    "doc_27134.txt",
+    "doc_35292.txt",
+    "doc_29668.txt"
+  ]
+}

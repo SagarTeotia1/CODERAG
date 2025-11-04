@@ -1,0 +1,10 @@
+{
+  "query": "How did Christy Brown’s paintings appear?",
+  "response": [
+    "doc_2840.txt",
+    "doc_2844.txt",
+    "doc_38965.txt",
+    "doc_38964.txt",
+    "doc_14753.txt"
+  ]
+}

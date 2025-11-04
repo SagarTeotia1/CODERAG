@@ -1,0 +1,10 @@
+{
+  "query": "What kind of close encounters can be found at Sydney Taronga Zoo?",
+  "response": [
+    "doc_21618.txt",
+    "doc_21620.txt",
+    "doc_21621.txt",
+    "doc_21619.txt",
+    "doc_21622.txt"
+  ]
+}

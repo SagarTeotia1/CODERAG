@@ -1,0 +1,10 @@
+{
+  "query": "When was the most recent opinion from the Scientific Committee on Food regarding stevioside’s safety?",
+  "response": [
+    "doc_5441.txt",
+    "doc_28039.txt",
+    "doc_3371.txt",
+    "doc_20718.txt",
+    "doc_10407.txt"
+  ]
+}

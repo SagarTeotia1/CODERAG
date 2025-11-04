@@ -1,0 +1,10 @@
+{
+  "query": "According to the Eurobarometer poll, which country was considered the greatest threat to world peace by EU citizens?",
+  "response": [
+    "doc_13947.txt",
+    "doc_10036.txt",
+    "doc_34691.txt",
+    "doc_31319.txt",
+    "doc_17523.txt"
+  ]
+}

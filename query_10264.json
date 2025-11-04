@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided text, what was the original name of the St. Joseph River?",
+  "response": [
+    "doc_15882.txt",
+    "doc_9408.txt",
+    "doc_9402.txt",
+    "doc_9401.txt",
+    "doc_8217.txt"
+  ]
+}

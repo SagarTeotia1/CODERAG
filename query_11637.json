@@ -1,0 +1,10 @@
+{
+  "query": "On what television show did Billy Joel perform “Piano Man” with Stay Human in January 2017?",
+  "response": [
+    "doc_19261.txt",
+    "doc_19262.txt",
+    "doc_19260.txt",
+    "doc_38647.txt",
+    "doc_38646.txt"
+  ]
+}

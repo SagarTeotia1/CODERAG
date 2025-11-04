@@ -1,0 +1,10 @@
+{
+  "query": "On what date did the assassination of Benigno Aquino Jr. take place?",
+  "response": [
+    "doc_28635.txt",
+    "doc_28632.txt",
+    "doc_28633.txt",
+    "doc_28634.txt",
+    "doc_28636.txt"
+  ]
+}

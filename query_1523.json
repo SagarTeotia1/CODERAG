@@ -1,0 +1,10 @@
+{
+  "query": "What agency within the US Department of the Treasury proposed a new rule regarding cross-border electronic fund transmissions?",
+  "response": [
+    "doc_4081.txt",
+    "doc_28627.txt",
+    "doc_8630.txt",
+    "doc_28628.txt",
+    "doc_6042.txt"
+  ]
+}

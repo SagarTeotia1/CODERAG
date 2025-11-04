@@ -1,0 +1,10 @@
+{
+  "query": "According to Eurostat, what were the year-on-year GDP growth rates in the first and second quarters of 2004?",
+  "response": [
+    "doc_39232.txt",
+    "doc_38261.txt",
+    "doc_16839.txt",
+    "doc_38256.txt",
+    "doc_14375.txt"
+  ]
+}

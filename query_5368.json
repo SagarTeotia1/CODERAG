@@ -1,0 +1,10 @@
+{
+  "query": "What was the estimated impact on the EU GDP if the administrative burden were reduced by 25% by 2012?",
+  "response": [
+    "doc_25656.txt",
+    "doc_20195.txt",
+    "doc_19960.txt",
+    "doc_19786.txt",
+    "doc_40147.txt"
+  ]
+}

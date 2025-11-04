@@ -1,0 +1,10 @@
+{
+  "query": "According to David Halberstam’s best-selling critique, what is the subject of “The Skulls”?",
+  "response": [
+    "doc_39987.txt",
+    "doc_39979.txt",
+    "doc_39988.txt",
+    "doc_39984.txt",
+    "doc_33070.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What happened to the song following Hank Williams’ death?",
+  "response": [
+    "doc_17363.txt",
+    "doc_17364.txt",
+    "doc_19183.txt",
+    "doc_19184.txt",
+    "doc_19646.txt"
+  ]
+}

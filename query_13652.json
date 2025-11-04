@@ -1,0 +1,10 @@
+{
+  "query": "What specific categories of equipment are subject to EU embargoes, according to the passage?",
+  "response": [
+    "doc_24251.txt",
+    "doc_17524.txt",
+    "doc_24252.txt",
+    "doc_16809.txt",
+    "doc_24250.txt"
+  ]
+}

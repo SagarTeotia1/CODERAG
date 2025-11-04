@@ -1,0 +1,10 @@
+{
+  "query": "What is the title of a document related to Ashlee Gagen and the Geelong Cup?",
+  "response": [
+    "doc_1310.txt",
+    "doc_1309.txt",
+    "doc_1313.txt",
+    "doc_1308.txt",
+    "doc_19550.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is Susan taking for stomach issues, and for how long has she been using it?",
+  "response": [
+    "doc_5597.txt",
+    "doc_5590.txt",
+    "doc_12944.txt",
+    "doc_5586.txt",
+    "doc_5587.txt"
+  ]
+}

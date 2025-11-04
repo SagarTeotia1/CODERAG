@@ -1,0 +1,10 @@
+{
+  "query": "When was Kid Samson born?",
+  "response": [
+    "doc_35314.txt",
+    "doc_4538.txt",
+    "doc_23706.txt",
+    "doc_4535.txt",
+    "doc_35312.txt"
+  ]
+}

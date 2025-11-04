@@ -1,0 +1,10 @@
+{
+  "query": "What award is given to the Canberra Raiders' Player of the Year?",
+  "response": [
+    "doc_4193.txt",
+    "doc_18655.txt",
+    "doc_14704.txt",
+    "doc_4192.txt",
+    "doc_18656.txt"
+  ]
+}

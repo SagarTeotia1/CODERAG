@@ -1,0 +1,10 @@
+{
+  "query": "Can you supply details of the nuclear lending policies of international financial institutions such as World Bank, European Investment Bank, Nordic Development Bank, Asian Development Bank, Latin American Development Bank and African Development Bank?",
+  "response": [
+    "doc_40024.txt",
+    "doc_9908.txt",
+    "doc_13345.txt",
+    "doc_13339.txt",
+    "doc_16164.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the average unemployment rate for people under 25 in Europe, according to a Eurostat survey?",
+  "response": [
+    "doc_38093.txt",
+    "doc_26836.txt",
+    "doc_30978.txt",
+    "doc_15102.txt",
+    "doc_27919.txt"
+  ]
+}

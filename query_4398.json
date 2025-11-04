@@ -1,0 +1,10 @@
+{
+  "query": "When was the first booklet featuring Paul Bunyan’s tales published?",
+  "response": [
+    "doc_37894.txt",
+    "doc_37895.txt",
+    "doc_14302.txt",
+    "doc_3397.txt",
+    "doc_3400.txt"
+  ]
+}

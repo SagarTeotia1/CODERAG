@@ -1,0 +1,10 @@
+{
+  "query": "What timeframe did the Meuse-Argonne Offensive take place?",
+  "response": [
+    "doc_11223.txt",
+    "doc_9674.txt",
+    "doc_30116.txt",
+    "doc_5522.txt",
+    "doc_22725.txt"
+  ]
+}

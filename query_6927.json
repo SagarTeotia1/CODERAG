@@ -1,0 +1,10 @@
+{
+  "query": "Which actors starred in the 1987 film *The Witches of Eastwick*?",
+  "response": [
+    "doc_7637.txt",
+    "doc_7641.txt",
+    "doc_7636.txt",
+    "doc_7640.txt",
+    "doc_7639.txt"
+  ]
+}

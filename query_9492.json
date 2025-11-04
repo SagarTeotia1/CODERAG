@@ -1,0 +1,10 @@
+{
+  "query": "Which SAB TV show featured Kavita Kaushik as Chandramukhi Chautala?",
+  "response": [
+    "doc_28511.txt",
+    "doc_26966.txt",
+    "doc_26961.txt",
+    "doc_34066.txt",
+    "doc_26963.txt"
+  ]
+}

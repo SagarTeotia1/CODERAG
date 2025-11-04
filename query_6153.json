@@ -1,0 +1,10 @@
+{
+  "query": "What is unique about the city of Kaunas?",
+  "response": [
+    "doc_5726.txt",
+    "doc_5727.txt",
+    "doc_5725.txt",
+    "doc_5728.txt",
+    "doc_5724.txt"
+  ]
+}

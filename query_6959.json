@@ -1,0 +1,10 @@
+{
+  "query": "Which apple variety is a cross between Kidd's Orange Red and Golden Delicious?",
+  "response": [
+    "doc_7723.txt",
+    "doc_7724.txt",
+    "doc_7726.txt",
+    "doc_7725.txt",
+    "doc_7728.txt"
+  ]
+}

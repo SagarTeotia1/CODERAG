@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Joan Didion begin writing for The New York Review of Books?",
+  "response": [
+    "doc_1560.txt",
+    "doc_16512.txt",
+    "doc_28537.txt",
+    "doc_28538.txt",
+    "doc_28536.txt"
+  ]
+}

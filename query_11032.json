@@ -1,0 +1,10 @@
+{
+  "query": "What was the first electric tram to run to Littleborough?",
+  "response": [
+    "doc_37582.txt",
+    "doc_17712.txt",
+    "doc_9753.txt",
+    "doc_9752.txt",
+    "doc_27599.txt"
+  ]
+}

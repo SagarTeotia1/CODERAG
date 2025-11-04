@@ -1,0 +1,10 @@
+{
+  "query": "When was Iris Murdoch's book, “The Sovereignty of Good,” first published?",
+  "response": [
+    "doc_5712.txt",
+    "doc_28535.txt",
+    "doc_1560.txt",
+    "doc_21192.txt",
+    "doc_5713.txt"
+  ]
+}

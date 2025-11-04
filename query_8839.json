@@ -1,0 +1,10 @@
+{
+  "query": "Who wrote the original lyrics for the Dartmouth College Alma Mater, originally titled \"Men of Dartmouth\"?",
+  "response": [
+    "doc_35751.txt",
+    "doc_35755.txt",
+    "doc_39420.txt",
+    "doc_37531.txt",
+    "doc_39419.txt"
+  ]
+}

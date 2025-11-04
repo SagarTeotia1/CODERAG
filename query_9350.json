@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what is considered the most important evidence regarding the creation of the Persian Garden?",
+  "response": [
+    "doc_21825.txt",
+    "doc_13685.txt",
+    "doc_30011.txt",
+    "doc_21827.txt",
+    "doc_21826.txt"
+  ]
+}

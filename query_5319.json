@@ -1,0 +1,10 @@
+{
+  "query": "What was Mark Beeninga’s role as a patient?",
+  "response": [
+    "doc_40043.txt",
+    "doc_13980.txt",
+    "doc_32969.txt",
+    "doc_40242.txt",
+    "doc_40248.txt"
+  ]
+}

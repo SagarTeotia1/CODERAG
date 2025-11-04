@@ -1,0 +1,10 @@
+{
+  "query": "How long has “This American Life” been running?",
+  "response": [
+    "doc_6725.txt",
+    "doc_39629.txt",
+    "doc_6724.txt",
+    "doc_7826.txt",
+    "doc_5629.txt"
+  ]
+}

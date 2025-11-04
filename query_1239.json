@@ -1,0 +1,10 @@
+{
+  "query": "What catering business does Fenway do during away games, according to Nookie?",
+  "response": [
+    "doc_30362.txt",
+    "doc_30363.txt",
+    "doc_4033.txt",
+    "doc_31817.txt",
+    "doc_32484.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the Montgomery Memorial’s most distinctive feature?",
+  "response": [
+    "doc_32814.txt",
+    "doc_15248.txt",
+    "doc_32816.txt",
+    "doc_16057.txt",
+    "doc_12659.txt"
+  ]
+}

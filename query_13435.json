@@ -1,0 +1,10 @@
+{
+  "query": "What was the role of Charles Tillman within the described situation?",
+  "response": [
+    "doc_29610.txt",
+    "doc_9820.txt",
+    "doc_29608.txt",
+    "doc_29612.txt",
+    "doc_33995.txt"
+  ]
+}

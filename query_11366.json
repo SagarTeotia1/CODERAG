@@ -1,0 +1,10 @@
+{
+  "query": "What role did Odo, Bishop of Bayeux, play according to the Bayeux Tapestry?",
+  "response": [
+    "doc_1810.txt",
+    "doc_1807.txt",
+    "doc_1812.txt",
+    "doc_26358.txt",
+    "doc_1814.txt"
+  ]
+}

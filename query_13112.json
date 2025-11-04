@@ -1,0 +1,10 @@
+{
+  "query": "Which organization published reports on islamophobia prior to the establishment of the FRA?",
+  "response": [
+    "doc_22969.txt",
+    "doc_36236.txt",
+    "doc_15993.txt",
+    "doc_28909.txt",
+    "doc_757.txt"
+  ]
+}

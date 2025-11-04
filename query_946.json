@@ -1,0 +1,10 @@
+{
+  "query": "What is the title of the document titled \"Submit a Poem - My Word Wizard\"?",
+  "response": [
+    "doc_3666.txt",
+    "doc_29518.txt",
+    "doc_29523.txt",
+    "doc_29522.txt",
+    "doc_18291.txt"
+  ]
+}

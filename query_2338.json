@@ -1,0 +1,10 @@
+{
+  "query": "What is the title of a novel by Don DeLillo mentioned in the passage?",
+  "response": [
+    "doc_18289.txt",
+    "doc_33071.txt",
+    "doc_17247.txt",
+    "doc_4298.txt",
+    "doc_22044.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When was the first novel in the *Dune* series published?",
+  "response": [
+    "doc_39677.txt",
+    "doc_32779.txt",
+    "doc_39673.txt",
+    "doc_39679.txt",
+    "doc_32775.txt"
+  ]
+}

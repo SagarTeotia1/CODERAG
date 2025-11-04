@@ -1,0 +1,10 @@
+{
+  "query": "What was the external balance of the Greek economy’s deficit in the early 2000s, expressed as a percentage of GDP?",
+  "response": [
+    "doc_23283.txt",
+    "doc_14375.txt",
+    "doc_17706.txt",
+    "doc_39232.txt",
+    "doc_16839.txt"
+  ]
+}

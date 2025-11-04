@@ -1,0 +1,10 @@
+{
+  "query": "Who collaborated with Elio Petri as a cinematographer?",
+  "response": [
+    "doc_12438.txt",
+    "doc_30405.txt",
+    "doc_12440.txt",
+    "doc_2430.txt",
+    "doc_30404.txt"
+  ]
+}

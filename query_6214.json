@@ -1,0 +1,10 @@
+{
+  "query": "For how long was Michelangelo apprenticed to Domenico Ghirlandaio?",
+  "response": [
+    "doc_5859.txt",
+    "doc_5861.txt",
+    "doc_5860.txt",
+    "doc_5858.txt",
+    "doc_5857.txt"
+  ]
+}

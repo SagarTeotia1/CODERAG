@@ -1,0 +1,10 @@
+{
+  "query": "Who has the Commission been working with to improve hotel fire safety?",
+  "response": [
+    "doc_4054.txt",
+    "doc_11840.txt",
+    "doc_37500.txt",
+    "doc_10600.txt",
+    "doc_12800.txt"
+  ]
+}

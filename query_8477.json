@@ -1,0 +1,10 @@
+{
+  "query": "Which film introduced Aditi Singh into the lead roles?",
+  "response": [
+    "doc_11542.txt",
+    "doc_11541.txt",
+    "doc_22327.txt",
+    "doc_8088.txt",
+    "doc_25387.txt"
+  ]
+}

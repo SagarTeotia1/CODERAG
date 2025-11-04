@@ -1,0 +1,10 @@
+{
+  "query": "What was the base sticker price of the 1964 Ford Mustang?",
+  "response": [
+    "doc_9501.txt",
+    "doc_9502.txt",
+    "doc_9503.txt",
+    "doc_9504.txt",
+    "doc_9505.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what decade did Burt Bacharach and Hal David meet?",
+  "response": [
+    "doc_37845.txt",
+    "doc_37848.txt",
+    "doc_12515.txt",
+    "doc_37854.txt",
+    "doc_37846.txt"
+  ]
+}

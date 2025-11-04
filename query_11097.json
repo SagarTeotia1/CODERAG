@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Vance begin his film career?",
+  "response": [
+    "doc_24002.txt",
+    "doc_23999.txt",
+    "doc_24000.txt",
+    "doc_24005.txt",
+    "doc_24001.txt"
+  ]
+}

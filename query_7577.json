@@ -1,0 +1,10 @@
+{
+  "query": "What was the total cost of the project to concrete over the path along the mediaeval city walls of Xàtiva?",
+  "response": [
+    "doc_52.txt",
+    "doc_13079.txt",
+    "doc_4279.txt",
+    "doc_10867.txt",
+    "doc_21815.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is Segolène Royal’s opinion regarding Britain’s relationship with the United States?",
+  "response": [
+    "doc_39032.txt",
+    "doc_10118.txt",
+    "doc_35448.txt",
+    "doc_14204.txt",
+    "doc_4795.txt"
+  ]
+}

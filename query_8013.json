@@ -1,0 +1,10 @@
+{
+  "query": "Which actress played Tony Mendez in the film “Argo”?",
+  "response": [
+    "doc_19040.txt",
+    "doc_26508.txt",
+    "doc_1162.txt",
+    "doc_10445.txt",
+    "doc_1163.txt"
+  ]
+}

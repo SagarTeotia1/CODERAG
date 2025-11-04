@@ -1,0 +1,10 @@
+{
+  "query": "Who wrote all of the episodes in the ninth season of the American animated television series created by Trey Parker and Matt Stone?",
+  "response": [
+    "doc_19164.txt",
+    "doc_30902.txt",
+    "doc_11529.txt",
+    "doc_29177.txt",
+    "doc_10383.txt"
+  ]
+}

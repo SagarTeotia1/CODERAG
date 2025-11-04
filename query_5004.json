@@ -1,0 +1,10 @@
+{
+  "query": "Who funded the production of \"The Rise of the Krays\"?",
+  "response": [
+    "doc_27861.txt",
+    "doc_23455.txt",
+    "doc_27853.txt",
+    "doc_36922.txt",
+    "doc_27859.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which Coolio song was featured on the “Nothing to Lose” soundtrack?",
+  "response": [
+    "doc_11203.txt",
+    "doc_11205.txt",
+    "doc_11204.txt",
+    "doc_11206.txt",
+    "doc_11207.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Where is Pantone’s factory located?",
+  "response": [
+    "doc_4860.txt",
+    "doc_4859.txt",
+    "doc_31356.txt",
+    "doc_7102.txt",
+    "doc_4862.txt"
+  ]
+}

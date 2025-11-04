@@ -1,0 +1,10 @@
+{
+  "query": "Besides citizens, what other types of representatives visit the European Parliament?",
+  "response": [
+    "doc_29174.txt",
+    "doc_23932.txt",
+    "doc_29284.txt",
+    "doc_38024.txt",
+    "doc_29315.txt"
+  ]
+}

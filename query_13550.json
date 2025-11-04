@@ -1,0 +1,10 @@
+{
+  "query": "How long was the drive time to Mexico City reduced?",
+  "response": [
+    "doc_24013.txt",
+    "doc_13741.txt",
+    "doc_40293.txt",
+    "doc_27605.txt",
+    "doc_40289.txt"
+  ]
+}

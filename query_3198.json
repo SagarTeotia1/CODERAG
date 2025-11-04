@@ -1,0 +1,10 @@
+{
+  "query": "Who will present a draft opinion regarding REGI’s report on tourism?",
+  "response": [
+    "doc_20216.txt",
+    "doc_35199.txt",
+    "doc_511.txt",
+    "doc_15998.txt",
+    "doc_35309.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was Trevor Bauer’s strategy regarding his curveball, as described in one article?",
+  "response": [
+    "doc_20518.txt",
+    "doc_20519.txt",
+    "doc_20522.txt",
+    "doc_20520.txt",
+    "doc_20521.txt"
+  ]
+}

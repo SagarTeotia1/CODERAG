@@ -1,0 +1,10 @@
+{
+  "query": "What cable network is “Inside the Actors Studio” on?",
+  "response": [
+    "doc_21460.txt",
+    "doc_21461.txt",
+    "doc_21459.txt",
+    "doc_21462.txt",
+    "doc_37215.txt"
+  ]
+}

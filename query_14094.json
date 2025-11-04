@@ -1,0 +1,10 @@
+{
+  "query": "How are Jed and Jethro related to each other according to the text?",
+  "response": [
+    "doc_25306.txt",
+    "doc_25313.txt",
+    "doc_25308.txt",
+    "doc_25309.txt",
+    "doc_25312.txt"
+  ]
+}

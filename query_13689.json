@@ -1,0 +1,10 @@
+{
+  "query": "What dynasty was Xianyang the capital of?",
+  "response": [
+    "doc_23390.txt",
+    "doc_23384.txt",
+    "doc_23394.txt",
+    "doc_23386.txt",
+    "doc_23389.txt"
+  ]
+}

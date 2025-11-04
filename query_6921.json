@@ -1,0 +1,10 @@
+{
+  "query": "Which battles did the 12th Pennsylvania Regiment participate in?",
+  "response": [
+    "doc_7623.txt",
+    "doc_7078.txt",
+    "doc_7624.txt",
+    "doc_7074.txt",
+    "doc_7077.txt"
+  ]
+}

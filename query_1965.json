@@ -1,0 +1,10 @@
+{
+  "query": "What is the relationship between a low-order nibble of the ASCII code and its binary equivalent?",
+  "response": [
+    "doc_32117.txt",
+    "doc_32116.txt",
+    "doc_32112.txt",
+    "doc_32111.txt",
+    "doc_32110.txt"
+  ]
+}

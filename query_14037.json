@@ -1,0 +1,10 @@
+{
+  "query": "Is it common practice in some countries, such as Spain, to charge customers for a full tank of fuel when renting a motor vehicle?",
+  "response": [
+    "doc_25205.txt",
+    "doc_17662.txt",
+    "doc_22879.txt",
+    "doc_21116.txt",
+    "doc_3166.txt"
+  ]
+}

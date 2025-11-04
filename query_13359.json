@@ -1,0 +1,10 @@
+{
+  "query": "Which actor portrayed Sherlock Holmes in the 1939 film “The Adventures of Sherlock Holmes”?",
+  "response": [
+    "doc_23434.txt",
+    "doc_10212.txt",
+    "doc_23435.txt",
+    "doc_4410.txt",
+    "doc_22089.txt"
+  ]
+}

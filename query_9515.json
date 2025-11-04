@@ -1,0 +1,10 @@
+{
+  "query": "What action did the Commission take to gather expertise regarding match fixing and sports integrity?",
+  "response": [
+    "doc_14022.txt",
+    "doc_15296.txt",
+    "doc_39344.txt",
+    "doc_16439.txt",
+    "doc_37770.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which actress portrayed Max Guevara in the television series “Dark Angel”?",
+  "response": [
+    "doc_34281.txt",
+    "doc_34280.txt",
+    "doc_40002.txt",
+    "doc_39999.txt",
+    "doc_12256.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What regulations established the European Supervisory Authorities?",
+  "response": [
+    "doc_18228.txt",
+    "doc_3544.txt",
+    "doc_14855.txt",
+    "doc_12435.txt",
+    "doc_32108.txt"
+  ]
+}

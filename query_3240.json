@@ -1,0 +1,10 @@
+{
+  "query": "What types of foodstuffs does the Commission specifically monitor for furan?",
+  "response": [
+    "doc_35154.txt",
+    "doc_5384.txt",
+    "doc_21237.txt",
+    "doc_14127.txt",
+    "doc_28750.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What organization provides data on anti-Semitism in the EU?",
+  "response": [
+    "doc_28909.txt",
+    "doc_4698.txt",
+    "doc_11539.txt",
+    "doc_19822.txt",
+    "doc_14373.txt"
+  ]
+}

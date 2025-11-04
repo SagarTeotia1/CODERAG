@@ -1,0 +1,10 @@
+{
+  "query": "When did James Oglethorpe establish the city of Savannah?",
+  "response": [
+    "doc_6851.txt",
+    "doc_6859.txt",
+    "doc_6856.txt",
+    "doc_6852.txt",
+    "doc_6853.txt"
+  ]
+}

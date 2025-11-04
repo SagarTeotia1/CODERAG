@@ -1,0 +1,10 @@
+{
+  "query": "Which bodies initially identified irregularities in the financial management of CEPOL?",
+  "response": [
+    "doc_9337.txt",
+    "doc_550.txt",
+    "doc_25433.txt",
+    "doc_25432.txt",
+    "doc_551.txt"
+  ]
+}

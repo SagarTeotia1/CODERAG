@@ -1,0 +1,10 @@
+{
+  "query": "In what year was Michelle Kwan honored by the Women’s Sports Foundation?",
+  "response": [
+    "doc_35252.txt",
+    "doc_35250.txt",
+    "doc_35248.txt",
+    "doc_35251.txt",
+    "doc_35249.txt"
+  ]
+}

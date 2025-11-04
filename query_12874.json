@@ -1,0 +1,10 @@
+{
+  "query": "Which company held the license for all Warner Brothers cartoons, including those featuring Bugs Bunny?",
+  "response": [
+    "doc_22397.txt",
+    "doc_22398.txt",
+    "doc_5211.txt",
+    "doc_22395.txt",
+    "doc_22396.txt"
+  ]
+}

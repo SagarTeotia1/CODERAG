@@ -1,0 +1,10 @@
+{
+  "query": "In what year did the 2017 City of Onkaparinga ATP Challenger take place?",
+  "response": [
+    "doc_13011.txt",
+    "doc_11587.txt",
+    "doc_30481.txt",
+    "doc_31934.txt",
+    "doc_3961.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In which southwestern country is Stokes National Park located?",
+  "response": [
+    "doc_32940.txt",
+    "doc_32938.txt",
+    "doc_40196.txt",
+    "doc_1400.txt",
+    "doc_20462.txt"
+  ]
+}

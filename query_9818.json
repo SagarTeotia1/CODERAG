@@ -1,0 +1,10 @@
+{
+  "query": "How many singles did Busta Rhymes release as a featured artist?",
+  "response": [
+    "doc_14733.txt",
+    "doc_14732.txt",
+    "doc_22524.txt",
+    "doc_22520.txt",
+    "doc_22518.txt"
+  ]
+}

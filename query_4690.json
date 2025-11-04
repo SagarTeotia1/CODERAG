@@ -1,0 +1,10 @@
+{
+  "query": "Who is Christie Brinkley associated with in the provided information?",
+  "response": [
+    "doc_38646.txt",
+    "doc_38643.txt",
+    "doc_38644.txt",
+    "doc_38647.txt",
+    "doc_38645.txt"
+  ]
+}

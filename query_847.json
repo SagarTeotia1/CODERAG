@@ -1,0 +1,10 @@
+{
+  "query": "Besides Anthony Quinn, who else starred in “The Greek Tycoon”?",
+  "response": [
+    "doc_19500.txt",
+    "doc_19503.txt",
+    "doc_31049.txt",
+    "doc_17973.txt",
+    "doc_3386.txt"
+  ]
+}

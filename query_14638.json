@@ -1,0 +1,10 @@
+{
+  "query": "What type of storm was the “Yankee hurricane” of 1935, and where did it make landfall?",
+  "response": [
+    "doc_26688.txt",
+    "doc_38762.txt",
+    "doc_38757.txt",
+    "doc_38756.txt",
+    "doc_38760.txt"
+  ]
+}

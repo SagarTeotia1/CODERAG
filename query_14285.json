@@ -1,0 +1,10 @@
+{
+  "query": "How many consecutive NCAA Tournaments have Jeff Brown’s teams at Louisiana State University participated in?",
+  "response": [
+    "doc_22167.txt",
+    "doc_2753.txt",
+    "doc_25632.txt",
+    "doc_3085.txt",
+    "doc_17451.txt"
+  ]
+}

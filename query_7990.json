@@ -1,0 +1,10 @@
+{
+  "query": "Who voiced Eric Cartman in “South Park”?",
+  "response": [
+    "doc_10383.txt",
+    "doc_4102.txt",
+    "doc_19164.txt",
+    "doc_35310.txt",
+    "doc_31611.txt"
+  ]
+}

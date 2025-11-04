@@ -1,0 +1,10 @@
+{
+  "query": "What is the location of Cassano's Pizza King and when was it established?",
+  "response": [
+    "doc_334.txt",
+    "doc_3899.txt",
+    "doc_17012.txt",
+    "doc_31861.txt",
+    "doc_38563.txt"
+  ]
+}

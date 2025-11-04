@@ -1,0 +1,10 @@
+{
+  "query": "What are the three energy saving measures included in the Energy Efficiency Package?",
+  "response": [
+    "doc_40167.txt",
+    "doc_40168.txt",
+    "doc_20732.txt",
+    "doc_25793.txt",
+    "doc_4841.txt"
+  ]
+}

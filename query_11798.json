@@ -1,0 +1,10 @@
+{
+  "query": "According to the OECD and DAC, what are the two traditional categories of trade-related assistance?",
+  "response": [
+    "doc_19751.txt",
+    "doc_15542.txt",
+    "doc_14820.txt",
+    "doc_15474.txt",
+    "doc_14830.txt"
+  ]
+}

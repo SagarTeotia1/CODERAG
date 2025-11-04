@@ -1,0 +1,10 @@
+{
+  "query": "During what century did Louis Pasteur invent the pasteurization process?",
+  "response": [
+    "doc_23342.txt",
+    "doc_23343.txt",
+    "doc_23347.txt",
+    "doc_23337.txt",
+    "doc_23341.txt"
+  ]
+}

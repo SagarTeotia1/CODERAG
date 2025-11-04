@@ -1,0 +1,10 @@
+{
+  "query": "Which rivers is Africa named after?",
+  "response": [
+    "doc_28485.txt",
+    "doc_13397.txt",
+    "doc_28487.txt",
+    "doc_9683.txt",
+    "doc_14787.txt"
+  ]
+}

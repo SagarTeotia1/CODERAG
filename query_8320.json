@@ -1,0 +1,10 @@
+{
+  "query": "Which record label released “Light Up Gold” initially?",
+  "response": [
+    "doc_22662.txt",
+    "doc_24355.txt",
+    "doc_12183.txt",
+    "doc_22524.txt",
+    "doc_12876.txt"
+  ]
+}

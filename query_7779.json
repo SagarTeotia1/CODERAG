@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the hospital where Mona was born?",
+  "response": [
+    "doc_3480.txt",
+    "doc_3478.txt",
+    "doc_3479.txt",
+    "doc_3481.txt",
+    "doc_3476.txt"
+  ]
+}

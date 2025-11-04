@@ -1,0 +1,10 @@
+{
+  "query": "Who played Cliff Clavin on the television show *Cheers*?",
+  "response": [
+    "doc_31611.txt",
+    "doc_31606.txt",
+    "doc_31607.txt",
+    "doc_31601.txt",
+    "doc_31609.txt"
+  ]
+}

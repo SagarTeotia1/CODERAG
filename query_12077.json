@@ -1,0 +1,10 @@
+{
+  "query": "What specific types of producers are the House seeking to support financially?",
+  "response": [
+    "doc_1974.txt",
+    "doc_3172.txt",
+    "doc_8381.txt",
+    "doc_16283.txt",
+    "doc_15082.txt"
+  ]
+}

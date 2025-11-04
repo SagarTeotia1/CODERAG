@@ -1,0 +1,10 @@
+{
+  "query": "What is the title of Wyoming’s state song?",
+  "response": [
+    "doc_37.txt",
+    "doc_40.txt",
+    "doc_38.txt",
+    "doc_39.txt",
+    "doc_6190.txt"
+  ]
+}

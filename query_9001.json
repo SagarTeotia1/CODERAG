@@ -1,0 +1,10 @@
+{
+  "query": "What specific natural marine area is threatened by the fuel oil from the Costa Concordia?",
+  "response": [
+    "doc_24556.txt",
+    "doc_12737.txt",
+    "doc_33401.txt",
+    "doc_16273.txt",
+    "doc_12837.txt"
+  ]
+}

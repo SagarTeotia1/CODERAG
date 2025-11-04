@@ -1,0 +1,10 @@
+{
+  "query": "Which band, as featured on the Wilson Stevens website, specializes in providing entertainment for weddings?",
+  "response": [
+    "doc_8176.txt",
+    "doc_32071.txt",
+    "doc_22335.txt",
+    "doc_19766.txt",
+    "doc_26011.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When was the Carlsberg Group founded, and what company was it originally?",
+  "response": [
+    "doc_11676.txt",
+    "doc_11675.txt",
+    "doc_11679.txt",
+    "doc_11678.txt",
+    "doc_11677.txt"
+  ]
+}

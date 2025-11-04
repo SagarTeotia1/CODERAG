@@ -1,0 +1,10 @@
+{
+  "query": "On what date did Peter Bondra score the fastest four-goal game?",
+  "response": [
+    "doc_38747.txt",
+    "doc_32637.txt",
+    "doc_30113.txt",
+    "doc_32636.txt",
+    "doc_35928.txt"
+  ]
+}

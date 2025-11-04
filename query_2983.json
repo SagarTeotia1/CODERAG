@@ -1,0 +1,10 @@
+{
+  "query": "What information does the Commission lack regarding the invention being questioned?",
+  "response": [
+    "doc_34610.txt",
+    "doc_4610.txt",
+    "doc_4611.txt",
+    "doc_11815.txt",
+    "doc_11567.txt"
+  ]
+}

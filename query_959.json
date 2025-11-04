@@ -1,0 +1,10 @@
+{
+  "query": "From 1994 to the end of 2009, how much approximately did the European Union commit in assistance to the Palestinians?",
+  "response": [
+    "doc_32101.txt",
+    "doc_32361.txt",
+    "doc_1283.txt",
+    "doc_29711.txt",
+    "doc_3562.txt"
+  ]
+}

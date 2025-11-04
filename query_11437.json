@@ -1,0 +1,10 @@
+{
+  "query": "Why does Adobe claim the higher price of its software in Europe compared to the US?",
+  "response": [
+    "doc_13447.txt",
+    "doc_15980.txt",
+    "doc_15815.txt",
+    "doc_32811.txt",
+    "doc_34928.txt"
+  ]
+}

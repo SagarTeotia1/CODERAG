@@ -1,0 +1,10 @@
+{
+  "query": "Who was Jerry Voorhis and what role did he have?",
+  "response": [
+    "doc_27737.txt",
+    "doc_27738.txt",
+    "doc_27733.txt",
+    "doc_27735.txt",
+    "doc_27742.txt"
+  ]
+}

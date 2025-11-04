@@ -1,0 +1,10 @@
+{
+  "query": "Which driver achieved the “Coupe d’Or” (Gold Cup)?",
+  "response": [
+    "doc_32301.txt",
+    "doc_17224.txt",
+    "doc_21232.txt",
+    "doc_28553.txt",
+    "doc_35045.txt"
+  ]
+}

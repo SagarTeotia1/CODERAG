@@ -1,0 +1,10 @@
+{
+  "query": "How many bankruptcy proceedings have been initiated in respect of medium-sized enterprises in Portugal since 2007?",
+  "response": [
+    "doc_23100.txt",
+    "doc_33813.txt",
+    "doc_14783.txt",
+    "doc_39635.txt",
+    "doc_40147.txt"
+  ]
+}

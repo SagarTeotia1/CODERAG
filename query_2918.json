@@ -1,0 +1,10 @@
+{
+  "query": "Who narrates *The Laws of Our Fathers*, and what is their role in the story?",
+  "response": [
+    "doc_34404.txt",
+    "doc_34402.txt",
+    "doc_34403.txt",
+    "doc_5893.txt",
+    "doc_5891.txt"
+  ]
+}

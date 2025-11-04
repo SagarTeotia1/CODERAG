@@ -1,0 +1,10 @@
+{
+  "query": "When was the chestnut gall wasp first recorded in the EU?",
+  "response": [
+    "doc_16023.txt",
+    "doc_3344.txt",
+    "doc_27847.txt",
+    "doc_23944.txt",
+    "doc_12558.txt"
+  ]
+}

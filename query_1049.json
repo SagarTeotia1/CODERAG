@@ -1,0 +1,10 @@
+{
+  "query": "How many different editions of the *JLS* album were available through HMV?",
+  "response": [
+    "doc_12183.txt",
+    "doc_12180.txt",
+    "doc_12182.txt",
+    "doc_21172.txt",
+    "doc_39062.txt"
+  ]
+}

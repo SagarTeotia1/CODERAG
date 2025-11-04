@@ -1,0 +1,10 @@
+{
+  "query": "Which film, starring Ravindra Randeniya and Malini Fonseka, was Sri Lanka’s first submission for the Academy Awards?",
+  "response": [
+    "doc_3236.txt",
+    "doc_36343.txt",
+    "doc_3235.txt",
+    "doc_36340.txt",
+    "doc_36342.txt"
+  ]
+}

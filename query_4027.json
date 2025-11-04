@@ -1,0 +1,10 @@
+{
+  "query": "What was the price of “Garcon a la Pipe” when it sold at auction?",
+  "response": [
+    "doc_36999.txt",
+    "doc_37001.txt",
+    "doc_37004.txt",
+    "doc_37000.txt",
+    "doc_37003.txt"
+  ]
+}

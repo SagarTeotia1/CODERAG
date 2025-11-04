@@ -1,0 +1,10 @@
+{
+  "query": "What is the approximate number of disabled tourists in the EU?",
+  "response": [
+    "doc_22923.txt",
+    "doc_13628.txt",
+    "doc_36802.txt",
+    "doc_36239.txt",
+    "doc_9149.txt"
+  ]
+}

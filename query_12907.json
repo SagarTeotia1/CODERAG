@@ -1,0 +1,10 @@
+{
+  "query": "What species were found during the Hartland Count in December 27, 2015?",
+  "response": [
+    "doc_22510.txt",
+    "doc_22511.txt",
+    "doc_22508.txt",
+    "doc_33332.txt",
+    "doc_10166.txt"
+  ]
+}

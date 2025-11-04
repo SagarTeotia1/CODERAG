@@ -1,0 +1,10 @@
+{
+  "query": "What types of health information can be stored on a European health card (Life Card)?",
+  "response": [
+    "doc_2537.txt",
+    "doc_6825.txt",
+    "doc_15894.txt",
+    "doc_30693.txt",
+    "doc_6826.txt"
+  ]
+}

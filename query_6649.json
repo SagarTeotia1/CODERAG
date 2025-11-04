@@ -1,0 +1,10 @@
+{
+  "query": "When was the novel *Be Cool* released?",
+  "response": [
+    "doc_6997.txt",
+    "doc_7000.txt",
+    "doc_6999.txt",
+    "doc_7002.txt",
+    "doc_7001.txt"
+  ]
+}

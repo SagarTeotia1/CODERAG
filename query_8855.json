@@ -1,0 +1,10 @@
+{
+  "query": "What virtue is centered on in Book VI of *The Faerie Queene*, as embodied by Sir Calidore?",
+  "response": [
+    "doc_1182.txt",
+    "doc_1176.txt",
+    "doc_1186.txt",
+    "doc_1177.txt",
+    "doc_1184.txt"
+  ]
+}

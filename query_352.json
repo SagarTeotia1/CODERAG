@@ -1,0 +1,10 @@
+{
+  "query": "What was a common complaint regarding Ben & Jerry's ice cream?",
+  "response": [
+    "doc_28159.txt",
+    "doc_28160.txt",
+    "doc_28158.txt",
+    "doc_28161.txt",
+    "doc_28162.txt"
+  ]
+}

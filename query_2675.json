@@ -1,0 +1,10 @@
+{
+  "query": "Who played the role of Marion Davies in “The Cat’s Meow”?",
+  "response": [
+    "doc_33914.txt",
+    "doc_33916.txt",
+    "doc_36165.txt",
+    "doc_21985.txt",
+    "doc_33915.txt"
+  ]
+}

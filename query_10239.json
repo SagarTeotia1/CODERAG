@@ -1,0 +1,10 @@
+{
+  "query": "In which countries were the tests carried out that resulted in the Campylobacter and Salmonella figures?",
+  "response": [
+    "doc_23345.txt",
+    "doc_8572.txt",
+    "doc_21556.txt",
+    "doc_421.txt",
+    "doc_32654.txt"
+  ]
+}

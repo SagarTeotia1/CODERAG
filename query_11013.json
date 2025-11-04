@@ -1,0 +1,10 @@
+{
+  "query": "When was the Council meeting where tax measures to discourage environmentally damaging behavior were largely supported?",
+  "response": [
+    "doc_16301.txt",
+    "doc_9550.txt",
+    "doc_12909.txt",
+    "doc_32308.txt",
+    "doc_24655.txt"
+  ]
+}

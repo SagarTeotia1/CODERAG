@@ -1,0 +1,10 @@
+{
+  "query": "Which university received the ORCA Junior Scientist's Award?",
+  "response": [
+    "doc_34158.txt",
+    "doc_34156.txt",
+    "doc_34155.txt",
+    "doc_34160.txt",
+    "doc_34161.txt"
+  ]
+}

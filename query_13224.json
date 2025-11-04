@@ -1,0 +1,10 @@
+{
+  "query": "What type of ammunition does the HK417 rifle use?",
+  "response": [
+    "doc_9919.txt",
+    "doc_10311.txt",
+    "doc_10309.txt",
+    "doc_21327.txt",
+    "doc_24246.txt"
+  ]
+}

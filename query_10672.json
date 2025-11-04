@@ -1,0 +1,10 @@
+{
+  "query": "What specific types of fishing equipment are considered banned in the Mediterranean?",
+  "response": [
+    "doc_2954.txt",
+    "doc_12689.txt",
+    "doc_28292.txt",
+    "doc_36867.txt",
+    "doc_10171.txt"
+  ]
+}

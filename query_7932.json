@@ -1,0 +1,10 @@
+{
+  "query": "What is the length of the Maroggia Tunnel?",
+  "response": [
+    "doc_10190.txt",
+    "doc_21014.txt",
+    "doc_21015.txt",
+    "doc_10667.txt",
+    "doc_10191.txt"
+  ]
+}

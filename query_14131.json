@@ -1,0 +1,10 @@
+{
+  "query": "What happened to Eliza regarding her appendix?",
+  "response": [
+    "doc_36324.txt",
+    "doc_32359.txt",
+    "doc_20132.txt",
+    "doc_4644.txt",
+    "doc_31034.txt"
+  ]
+}

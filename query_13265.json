@@ -1,0 +1,10 @@
+{
+  "query": "What is the nationality of the prisoner currently being held under sentence of death in the Philippines?",
+  "response": [
+    "doc_19838.txt",
+    "doc_19837.txt",
+    "doc_19839.txt",
+    "doc_28636.txt",
+    "doc_19836.txt"
+  ]
+}

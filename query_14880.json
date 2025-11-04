@@ -1,0 +1,10 @@
+{
+  "query": "Which types of magic, beyond necromancy, were addressed in the Coursera course on magic in the Middle Ages?",
+  "response": [
+    "doc_27237.txt",
+    "doc_27236.txt",
+    "doc_4773.txt",
+    "doc_13754.txt",
+    "doc_20315.txt"
+  ]
+}

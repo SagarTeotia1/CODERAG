@@ -1,0 +1,10 @@
+{
+  "query": "Who did Lorenzo elope with?",
+  "response": [
+    "doc_39717.txt",
+    "doc_39719.txt",
+    "doc_39718.txt",
+    "doc_22198.txt",
+    "doc_39716.txt"
+  ]
+}

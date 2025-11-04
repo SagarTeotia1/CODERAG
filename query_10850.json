@@ -1,0 +1,10 @@
+{
+  "query": "In 1994, what specific action did the author take regarding capital movements in Greece?",
+  "response": [
+    "doc_17213.txt",
+    "doc_17212.txt",
+    "doc_17210.txt",
+    "doc_17211.txt",
+    "doc_17209.txt"
+  ]
+}

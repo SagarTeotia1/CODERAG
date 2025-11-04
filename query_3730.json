@@ -1,0 +1,10 @@
+{
+  "query": "On what type of vinyl was \"Christmas Time\" originally released?",
+  "response": [
+    "doc_22663.txt",
+    "doc_8145.txt",
+    "doc_5406.txt",
+    "doc_35736.txt",
+    "doc_36301.txt"
+  ]
+}

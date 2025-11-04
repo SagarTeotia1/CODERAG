@@ -1,0 +1,10 @@
+{
+  "query": "How many wins did Faurot achieve as the head basketball coach at Kirksville State?",
+  "response": [
+    "doc_37223.txt",
+    "doc_25628.txt",
+    "doc_14701.txt",
+    "doc_25627.txt",
+    "doc_25625.txt"
+  ]
+}

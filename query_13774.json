@@ -1,0 +1,10 @@
+{
+  "query": "What is the intended role of EUFOR described in the passage?",
+  "response": [
+    "doc_24526.txt",
+    "doc_24527.txt",
+    "doc_17523.txt",
+    "doc_37099.txt",
+    "doc_38789.txt"
+  ]
+}

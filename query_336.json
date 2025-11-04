@@ -1,0 +1,10 @@
+{
+  "query": "Which Nobel Prize did Aage Bohr share, and with whom?",
+  "response": [
+    "doc_28229.txt",
+    "doc_21691.txt",
+    "doc_8711.txt",
+    "doc_28227.txt",
+    "doc_247.txt"
+  ]
+}

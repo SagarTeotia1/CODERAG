@@ -1,0 +1,10 @@
+{
+  "query": "What specific type of intellectual property rights should Italian companies apply for?",
+  "response": [
+    "doc_12538.txt",
+    "doc_8630.txt",
+    "doc_2742.txt",
+    "doc_4739.txt",
+    "doc_34628.txt"
+  ]
+}

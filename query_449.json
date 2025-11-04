@@ -1,0 +1,10 @@
+{
+  "query": "Which composer dedicated the “Purple Rhapsody” to violist Paul Neubauer?",
+  "response": [
+    "doc_4152.txt",
+    "doc_3432.txt",
+    "doc_4153.txt",
+    "doc_4156.txt",
+    "doc_4155.txt"
+  ]
+}

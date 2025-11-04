@@ -1,0 +1,10 @@
+{
+  "query": "How much money did the Commission allocate to combat the cholera epidemic in Haiti?",
+  "response": [
+    "doc_33390.txt",
+    "doc_19853.txt",
+    "doc_39706.txt",
+    "doc_28766.txt",
+    "doc_34726.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was the inflation rate in Uganda last April?",
+  "response": [
+    "doc_19346.txt",
+    "doc_19347.txt",
+    "doc_19348.txt",
+    "doc_23745.txt",
+    "doc_23743.txt"
+  ]
+}

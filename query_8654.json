@@ -1,0 +1,10 @@
+{
+  "query": "Which company acquired U.S. Trust in 2007, making it a subsidiary?",
+  "response": [
+    "doc_11960.txt",
+    "doc_10772.txt",
+    "doc_10775.txt",
+    "doc_11961.txt",
+    "doc_10769.txt"
+  ]
+}

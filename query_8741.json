@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the American School for the Deaf founded?",
+  "response": [
+    "doc_12587.txt",
+    "doc_12590.txt",
+    "doc_12167.txt",
+    "doc_35748.txt",
+    "doc_12591.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was the title of the UCLA Film & Television Archive exhibit?",
+  "response": [
+    "doc_23079.txt",
+    "doc_23080.txt",
+    "doc_5211.txt",
+    "doc_21987.txt",
+    "doc_23152.txt"
+  ]
+}

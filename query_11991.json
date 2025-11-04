@@ -1,0 +1,10 @@
+{
+  "query": "What were the targets for child care availability set by the Barcelona European Council in 2002?",
+  "response": [
+    "doc_20185.txt",
+    "doc_7705.txt",
+    "doc_22001.txt",
+    "doc_29155.txt",
+    "doc_23803.txt"
+  ]
+}

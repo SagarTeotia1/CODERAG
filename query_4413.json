@@ -1,0 +1,10 @@
+{
+  "query": "Besides “Goodnight Tonight,” what other Paul McCartney song was released as a B-side in 1979?",
+  "response": [
+    "doc_3772.txt",
+    "doc_12202.txt",
+    "doc_3773.txt",
+    "doc_37522.txt",
+    "doc_38233.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year was Phill Brown born?",
+  "response": [
+    "doc_4204.txt",
+    "doc_27301.txt",
+    "doc_21177.txt",
+    "doc_4205.txt",
+    "doc_12582.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was the primary focus of the impeachment process against Richard Nixon?",
+  "response": [
+    "doc_37695.txt",
+    "doc_27735.txt",
+    "doc_28262.txt",
+    "doc_27740.txt",
+    "doc_28261.txt"
+  ]
+}

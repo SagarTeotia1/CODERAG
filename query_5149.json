@@ -1,0 +1,10 @@
+{
+  "query": "In 1941, what record did Babe Ruth set regarding hitting streaks?",
+  "response": [
+    "doc_39724.txt",
+    "doc_1961.txt",
+    "doc_1957.txt",
+    "doc_1956.txt",
+    "doc_8627.txt"
+  ]
+}

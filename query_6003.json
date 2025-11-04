@@ -1,0 +1,10 @@
+{
+  "query": "What emission tier has the US Environmental Protection Agency proposed for the non-road sector?",
+  "response": [
+    "doc_5386.txt",
+    "doc_5387.txt",
+    "doc_32419.txt",
+    "doc_5394.txt",
+    "doc_5399.txt"
+  ]
+}

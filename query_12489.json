@@ -1,0 +1,10 @@
+{
+  "query": "What film did Ian Drucker star in as Greg Heffley?",
+  "response": [
+    "doc_21434.txt",
+    "doc_20780.txt",
+    "doc_20776.txt",
+    "doc_20778.txt",
+    "doc_20779.txt"
+  ]
+}

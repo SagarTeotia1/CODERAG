@@ -1,0 +1,10 @@
+{
+  "query": "What band is John Gourley and Zach Carothers associated with?",
+  "response": [
+    "doc_22569.txt",
+    "doc_21422.txt",
+    "doc_32067.txt",
+    "doc_2988.txt",
+    "doc_2987.txt"
+  ]
+}

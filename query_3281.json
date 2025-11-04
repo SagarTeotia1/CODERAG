@@ -1,0 +1,10 @@
+{
+  "query": "What event did Reunification Day commemorate, and when did it occur?",
+  "response": [
+    "doc_25530.txt",
+    "doc_25528.txt",
+    "doc_25534.txt",
+    "doc_25532.txt",
+    "doc_25533.txt"
+  ]
+}

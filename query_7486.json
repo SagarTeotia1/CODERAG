@@ -1,0 +1,10 @@
+{
+  "query": "What is the primary type of rhyme or song exemplified by the “There Was an Old Lady Who Swallowed a Fly” text?",
+  "response": [
+    "doc_17471.txt",
+    "doc_23882.txt",
+    "doc_36535.txt",
+    "doc_23875.txt",
+    "doc_38530.txt"
+  ]
+}

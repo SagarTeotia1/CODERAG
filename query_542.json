@@ -1,0 +1,10 @@
+{
+  "query": "What color should lifejackets comply with according to Council Directive 2003/44/EC?",
+  "response": [
+    "doc_28498.txt",
+    "doc_29497.txt",
+    "doc_19847.txt",
+    "doc_23479.txt",
+    "doc_29498.txt"
+  ]
+}

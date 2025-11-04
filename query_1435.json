@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the film “The Final Winter” released?",
+  "response": [
+    "doc_30790.txt",
+    "doc_6765.txt",
+    "doc_27029.txt",
+    "doc_16671.txt",
+    "doc_36909.txt"
+  ]
+}

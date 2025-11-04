@@ -1,0 +1,10 @@
+{
+  "query": "What is the source of Potomac Creek, and where does it ultimately empty into?",
+  "response": [
+    "doc_25270.txt",
+    "doc_18013.txt",
+    "doc_18012.txt",
+    "doc_34494.txt",
+    "doc_18015.txt"
+  ]
+}

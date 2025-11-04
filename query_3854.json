@@ -1,0 +1,10 @@
+{
+  "query": "How much EU funding has been allocated to date for projects addressing neurodegenerative diseases, specifically Alzheimer’s disease?",
+  "response": [
+    "doc_36563.txt",
+    "doc_4049.txt",
+    "doc_5234.txt",
+    "doc_28355.txt",
+    "doc_23126.txt"
+  ]
+}

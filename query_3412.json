@@ -1,0 +1,10 @@
+{
+  "query": "When was \"Melody Time\" released to theaters?",
+  "response": [
+    "doc_25918.txt",
+    "doc_37076.txt",
+    "doc_18211.txt",
+    "doc_37075.txt",
+    "doc_21324.txt"
+  ]
+}

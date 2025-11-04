@@ -1,0 +1,10 @@
+{
+  "query": "What historical event served as the namesake for the Second Battle of Vinegar Hill?",
+  "response": [
+    "doc_7078.txt",
+    "doc_5984.txt",
+    "doc_11798.txt",
+    "doc_277.txt",
+    "doc_11804.txt"
+  ]
+}

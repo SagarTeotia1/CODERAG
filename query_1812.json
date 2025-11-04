@@ -1,0 +1,10 @@
+{
+  "query": "Who are the high-level speakers attending the STOA 6th Annual Conference?",
+  "response": [
+    "doc_39290.txt",
+    "doc_38160.txt",
+    "doc_27071.txt",
+    "doc_39289.txt",
+    "doc_27064.txt"
+  ]
+}

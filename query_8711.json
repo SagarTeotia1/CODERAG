@@ -1,0 +1,10 @@
+{
+  "query": "Which committee recommended waiving the parliamentary immunity of Viktor Uspaskich?",
+  "response": [
+    "doc_1147.txt",
+    "doc_23441.txt",
+    "doc_1142.txt",
+    "doc_1141.txt",
+    "doc_1146.txt"
+  ]
+}

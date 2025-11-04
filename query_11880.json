@@ -1,0 +1,10 @@
+{
+  "query": "What year did the Tyssedal Power Station begin production?",
+  "response": [
+    "doc_22707.txt",
+    "doc_35878.txt",
+    "doc_34168.txt",
+    "doc_17569.txt",
+    "doc_22709.txt"
+  ]
+}

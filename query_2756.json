@@ -1,0 +1,10 @@
+{
+  "query": "Besides Robert Walser, which other author did Damion Searls translate?",
+  "response": [
+    "doc_36487.txt",
+    "doc_6060.txt",
+    "doc_6057.txt",
+    "doc_33662.txt",
+    "doc_23838.txt"
+  ]
+}

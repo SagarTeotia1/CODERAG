@@ -1,0 +1,10 @@
+{
+  "query": "Who are some of the notable figures who dined at Kilikya’s Cafe Bar Restaurant?",
+  "response": [
+    "doc_15187.txt",
+    "doc_33398.txt",
+    "doc_6760.txt",
+    "doc_11486.txt",
+    "doc_22421.txt"
+  ]
+}

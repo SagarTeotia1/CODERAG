@@ -1,0 +1,10 @@
+{
+  "query": "What types of trees are commonly found in Saint-Barthlemy, as described in the passage?",
+  "response": [
+    "doc_30768.txt",
+    "doc_30769.txt",
+    "doc_28027.txt",
+    "doc_29909.txt",
+    "doc_25953.txt"
+  ]
+}

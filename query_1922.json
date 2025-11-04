@@ -1,0 +1,10 @@
+{
+  "query": "What is Kate Columbo Callahan’s role in a television series, according to the provided information?",
+  "response": [
+    "doc_32012.txt",
+    "doc_32015.txt",
+    "doc_32018.txt",
+    "doc_32017.txt",
+    "doc_32016.txt"
+  ]
+}

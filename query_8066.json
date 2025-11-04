@@ -1,0 +1,10 @@
+{
+  "query": "According to EMAG, what was the calculated cost of excess bonuses actually paid away to departing policyholders during the 1990s?",
+  "response": [
+    "doc_1005.txt",
+    "doc_1013.txt",
+    "doc_893.txt",
+    "doc_1018.txt",
+    "doc_985.txt"
+  ]
+}

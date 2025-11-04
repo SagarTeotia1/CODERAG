@@ -1,0 +1,10 @@
+{
+  "query": "According to the text, what did Judith Martin write about in her columns?",
+  "response": [
+    "doc_37808.txt",
+    "doc_37810.txt",
+    "doc_37809.txt",
+    "doc_37811.txt",
+    "doc_37812.txt"
+  ]
+}

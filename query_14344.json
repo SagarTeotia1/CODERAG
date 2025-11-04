@@ -1,0 +1,10 @@
+{
+  "query": "What events occurred during “Queen Vic Fire Week” in the BBC soap opera “EastEnders”?",
+  "response": [
+    "doc_14437.txt",
+    "doc_14438.txt",
+    "doc_29579.txt",
+    "doc_14439.txt",
+    "doc_29573.txt"
+  ]
+}

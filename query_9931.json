@@ -1,0 +1,10 @@
+{
+  "query": "Besides Othello, which other movie has been discussed in the passage for employing whitewashing of its cast?",
+  "response": [
+    "doc_15022.txt",
+    "doc_15021.txt",
+    "doc_15020.txt",
+    "doc_7390.txt",
+    "doc_22974.txt"
+  ]
+}

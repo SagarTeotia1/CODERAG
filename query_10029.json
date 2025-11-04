@@ -1,0 +1,10 @@
+{
+  "query": "How many contract staff were employed in the FG IV grade in 2009?",
+  "response": [
+    "doc_15232.txt",
+    "doc_4242.txt",
+    "doc_32246.txt",
+    "doc_28428.txt",
+    "doc_17420.txt"
+  ]
+}

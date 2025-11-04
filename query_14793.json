@@ -1,0 +1,10 @@
+{
+  "query": "Where was Jane Campion born, and when?",
+  "response": [
+    "doc_27025.txt",
+    "doc_27026.txt",
+    "doc_27029.txt",
+    "doc_27028.txt",
+    "doc_27035.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What types of sausage are popular in Mexico, including a variety made with chilies and spinach?",
+  "response": [
+    "doc_36564.txt",
+    "doc_36565.txt",
+    "doc_36567.txt",
+    "doc_36566.txt",
+    "doc_36569.txt"
+  ]
+}

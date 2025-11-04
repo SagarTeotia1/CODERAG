@@ -1,0 +1,10 @@
+{
+  "query": "Does the UK Government’s HS2 proposal meet European energy efficiency goals?",
+  "response": [
+    "doc_32912.txt",
+    "doc_7349.txt",
+    "doc_28839.txt",
+    "doc_21247.txt",
+    "doc_5280.txt"
+  ]
+}

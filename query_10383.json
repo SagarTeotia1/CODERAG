@@ -1,0 +1,10 @@
+{
+  "query": "What is Dr. Joe Gannon’s profession as described in the Physician Wiki article?",
+  "response": [
+    "doc_16196.txt",
+    "doc_16195.txt",
+    "doc_7827.txt",
+    "doc_7828.txt",
+    "doc_7829.txt"
+  ]
+}

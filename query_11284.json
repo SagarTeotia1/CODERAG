@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the football club that also carries the name of the Buenos Aires Cricket & Rugby Club?",
+  "response": [
+    "doc_18342.txt",
+    "doc_18341.txt",
+    "doc_18340.txt",
+    "doc_40151.txt",
+    "doc_23690.txt"
+  ]
+}

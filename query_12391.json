@@ -1,0 +1,10 @@
+{
+  "query": "Who were Rita Hayworth’s parents, and what were their professions?",
+  "response": [
+    "doc_21107.txt",
+    "doc_21104.txt",
+    "doc_21105.txt",
+    "doc_21109.txt",
+    "doc_21108.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What Disney Pixar film is Buzz Lightyear’s Space Ranger Spin based on?",
+  "response": [
+    "doc_18031.txt",
+    "doc_31990.txt",
+    "doc_14738.txt",
+    "doc_18029.txt",
+    "doc_31992.txt"
+  ]
+}

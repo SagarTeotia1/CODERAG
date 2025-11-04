@@ -1,0 +1,10 @@
+{
+  "query": "Where is Colin Hay performing next week?",
+  "response": [
+    "doc_39265.txt",
+    "doc_39038.txt",
+    "doc_2029.txt",
+    "doc_17131.txt",
+    "doc_39035.txt"
+  ]
+}

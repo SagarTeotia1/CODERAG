@@ -1,0 +1,10 @@
+{
+  "query": "What action is the passage calling for the US administration to take?",
+  "response": [
+    "doc_2728.txt",
+    "doc_11714.txt",
+    "doc_10118.txt",
+    "doc_36634.txt",
+    "doc_12683.txt"
+  ]
+}

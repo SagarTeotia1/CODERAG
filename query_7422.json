@@ -1,0 +1,10 @@
+{
+  "query": "Since 2003, what quantities of hazardous waste have been produced annually in Greece, and what methods were used for its disposal or recycling?",
+  "response": [
+    "doc_855.txt",
+    "doc_12633.txt",
+    "doc_5494.txt",
+    "doc_34250.txt",
+    "doc_4971.txt"
+  ]
+}

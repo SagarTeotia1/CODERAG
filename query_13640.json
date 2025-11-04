@@ -1,0 +1,10 @@
+{
+  "query": "How long did it take Daniel Boone and his group to blaze the 200-mile trail?",
+  "response": [
+    "doc_24222.txt",
+    "doc_24224.txt",
+    "doc_24231.txt",
+    "doc_24223.txt",
+    "doc_24228.txt"
+  ]
+}

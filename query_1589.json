@@ -1,0 +1,10 @@
+{
+  "query": "What year was the written question regarding Congo’s EU funding submitted?",
+  "response": [
+    "doc_31164.txt",
+    "doc_18629.txt",
+    "doc_13272.txt",
+    "doc_26599.txt",
+    "doc_12191.txt"
+  ]
+}

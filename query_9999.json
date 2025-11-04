@@ -1,0 +1,10 @@
+{
+  "query": "In what year and location did Christopher Scarver kill Jeffrey Dahmer?",
+  "response": [
+    "doc_1477.txt",
+    "doc_39844.txt",
+    "doc_39843.txt",
+    "doc_39841.txt",
+    "doc_39840.txt"
+  ]
+}

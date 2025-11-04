@@ -1,0 +1,10 @@
+{
+  "query": "What event occurred in Rockhampton in December of that year (1861)?",
+  "response": [
+    "doc_5101.txt",
+    "doc_39211.txt",
+    "doc_5100.txt",
+    "doc_9143.txt",
+    "doc_5113.txt"
+  ]
+}

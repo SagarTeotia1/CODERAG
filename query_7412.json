@@ -1,0 +1,10 @@
+{
+  "query": "Which two Campbell’s condensed soups are specifically mentioned as “classics”?",
+  "response": [
+    "doc_8873.txt",
+    "doc_8872.txt",
+    "doc_8871.txt",
+    "doc_16956.txt",
+    "doc_16962.txt"
+  ]
+}

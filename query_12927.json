@@ -1,0 +1,10 @@
+{
+  "query": "What does the Federal Highway Administration insist about road signs?",
+  "response": [
+    "doc_22544.txt",
+    "doc_22546.txt",
+    "doc_22545.txt",
+    "doc_11283.txt",
+    "doc_11282.txt"
+  ]
+}

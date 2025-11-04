@@ -1,0 +1,10 @@
+{
+  "query": "By what date should the Commission submit a legislative proposal focused on compensating passengers of bankrupt airlines?",
+  "response": [
+    "doc_35419.txt",
+    "doc_10371.txt",
+    "doc_10370.txt",
+    "doc_1148.txt",
+    "doc_29246.txt"
+  ]
+}

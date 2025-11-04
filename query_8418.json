@@ -1,0 +1,10 @@
+{
+  "query": "What was the primary reason cited by the North Korean delegation for conducting the nuclear test?",
+  "response": [
+    "doc_11407.txt",
+    "doc_28359.txt",
+    "doc_1972.txt",
+    "doc_1971.txt",
+    "doc_12190.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year did “The Vortex” open at the Walter Kerr Theatre?",
+  "response": [
+    "doc_30051.txt",
+    "doc_37826.txt",
+    "doc_2027.txt",
+    "doc_20779.txt",
+    "doc_13200.txt"
+  ]
+}

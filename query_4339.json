@@ -1,0 +1,10 @@
+{
+  "query": "What type of building was put up in front of the ISA’s buildings?",
+  "response": [
+    "doc_31678.txt",
+    "doc_31679.txt",
+    "doc_15263.txt",
+    "doc_15268.txt",
+    "doc_15248.txt"
+  ]
+}

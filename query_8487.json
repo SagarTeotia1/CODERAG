@@ -1,0 +1,10 @@
+{
+  "query": "After whom are the Hugo Awards presented annually?",
+  "response": [
+    "doc_11563.txt",
+    "doc_11554.txt",
+    "doc_11559.txt",
+    "doc_11564.txt",
+    "doc_11555.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "How does the fuel used in the UK (kerosene or heating oil) differ from continental practice (diesel oil)?",
+  "response": [
+    "doc_25843.txt",
+    "doc_26150.txt",
+    "doc_1716.txt",
+    "doc_21058.txt",
+    "doc_17662.txt"
+  ]
+}

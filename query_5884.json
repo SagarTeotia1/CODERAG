@@ -1,0 +1,10 @@
+{
+  "query": "Which album did Jake Sinclair co-produce that debuted at number one on the US Billboard 200?",
+  "response": [
+    "doc_22520.txt",
+    "doc_38901.txt",
+    "doc_38900.txt",
+    "doc_36255.txt",
+    "doc_36256.txt"
+  ]
+}

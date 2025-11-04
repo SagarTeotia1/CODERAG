@@ -1,0 +1,10 @@
+{
+  "query": "When was Daisy released from prison?",
+  "response": [
+    "doc_30465.txt",
+    "doc_30462.txt",
+    "doc_30466.txt",
+    "doc_30463.txt",
+    "doc_26960.txt"
+  ]
+}

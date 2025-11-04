@@ -1,0 +1,10 @@
+{
+  "query": "Who directed the film \"Camille Claudel\"?",
+  "response": [
+    "doc_27030.txt",
+    "doc_27026.txt",
+    "doc_27029.txt",
+    "doc_27035.txt",
+    "doc_27027.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What television program did Marlin Perkins host from 1963 to 1988?",
+  "response": [
+    "doc_37942.txt",
+    "doc_37947.txt",
+    "doc_37946.txt",
+    "doc_37945.txt",
+    "doc_37948.txt"
+  ]
+}

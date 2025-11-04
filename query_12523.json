@@ -1,0 +1,10 @@
+{
+  "query": "What is Fred Flintstone’s hometown and country?",
+  "response": [
+    "doc_21513.txt",
+    "doc_21510.txt",
+    "doc_21515.txt",
+    "doc_21514.txt",
+    "doc_21511.txt"
+  ]
+}

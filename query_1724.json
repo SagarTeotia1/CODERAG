@@ -1,0 +1,10 @@
+{
+  "query": "Who created the character Olivia Pope?",
+  "response": [
+    "doc_5689.txt",
+    "doc_5688.txt",
+    "doc_5686.txt",
+    "doc_21460.txt",
+    "doc_26968.txt"
+  ]
+}

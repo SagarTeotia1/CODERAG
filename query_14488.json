@@ -1,0 +1,10 @@
+{
+  "query": "Are working documents primarily published in English, French, and German?",
+  "response": [
+    "doc_22217.txt",
+    "doc_28196.txt",
+    "doc_29404.txt",
+    "doc_2695.txt",
+    "doc_29386.txt"
+  ]
+}

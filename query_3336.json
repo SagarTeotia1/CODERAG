@@ -1,0 +1,10 @@
+{
+  "query": "Which teams participated in the 2007 American League Division Series?",
+  "response": [
+    "doc_326.txt",
+    "doc_22161.txt",
+    "doc_4756.txt",
+    "doc_4757.txt",
+    "doc_4760.txt"
+  ]
+}

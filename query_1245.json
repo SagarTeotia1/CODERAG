@@ -1,0 +1,10 @@
+{
+  "query": "What is the largest island located within Cook Strait?",
+  "response": [
+    "doc_30372.txt",
+    "doc_30374.txt",
+    "doc_9146.txt",
+    "doc_30376.txt",
+    "doc_30375.txt"
+  ]
+}

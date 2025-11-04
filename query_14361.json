@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what specific adaptation is required for the word “euro” in Lithuanian and Latvian?",
+  "response": [
+    "doc_1381.txt",
+    "doc_26354.txt",
+    "doc_1380.txt",
+    "doc_1379.txt",
+    "doc_26353.txt"
+  ]
+}

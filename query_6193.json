@@ -1,0 +1,10 @@
+{
+  "query": "What specific restriction in Austria impacts the economics of road transport, particularly concerning perishable goods?",
+  "response": [
+    "doc_5803.txt",
+    "doc_623.txt",
+    "doc_504.txt",
+    "doc_38730.txt",
+    "doc_33643.txt"
+  ]
+}

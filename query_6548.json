@@ -1,0 +1,10 @@
+{
+  "query": "Where is this Miami restaurant located?",
+  "response": [
+    "doc_10253.txt",
+    "doc_6759.txt",
+    "doc_10255.txt",
+    "doc_7753.txt",
+    "doc_28088.txt"
+  ]
+}

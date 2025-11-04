@@ -1,0 +1,10 @@
+{
+  "query": "Where is the park located in relation to the Georgia border?",
+  "response": [
+    "doc_36837.txt",
+    "doc_36835.txt",
+    "doc_19603.txt",
+    "doc_20467.txt",
+    "doc_34490.txt"
+  ]
+}

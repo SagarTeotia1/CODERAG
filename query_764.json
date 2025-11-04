@@ -1,0 +1,10 @@
+{
+  "query": "What type of knife is the Norwegian Food Safety Authority proposing for stunning reindeer?",
+  "response": [
+    "doc_29010.txt",
+    "doc_4821.txt",
+    "doc_14599.txt",
+    "doc_28565.txt",
+    "doc_29455.txt"
+  ]
+}

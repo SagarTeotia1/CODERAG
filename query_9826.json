@@ -1,0 +1,10 @@
+{
+  "query": "What substances were identified as severely toxic in the taps seized in Padova?",
+  "response": [
+    "doc_3364.txt",
+    "doc_17071.txt",
+    "doc_16389.txt",
+    "doc_3365.txt",
+    "doc_34824.txt"
+  ]
+}

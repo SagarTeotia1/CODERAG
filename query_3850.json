@@ -1,0 +1,10 @@
+{
+  "query": "What types of retailers are located at Dulles Town Center?",
+  "response": [
+    "doc_36556.txt",
+    "doc_36557.txt",
+    "doc_19174.txt",
+    "doc_15355.txt",
+    "doc_24838.txt"
+  ]
+}

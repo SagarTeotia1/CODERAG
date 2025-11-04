@@ -1,0 +1,10 @@
+{
+  "query": "What types of literature are mentioned as being read by someone in the passage (e.g., \"Dr Delany read his wife an eclectic range of books\")?",
+  "response": [
+    "doc_3813.txt",
+    "doc_3811.txt",
+    "doc_23364.txt",
+    "doc_3814.txt",
+    "doc_6057.txt"
+  ]
+}

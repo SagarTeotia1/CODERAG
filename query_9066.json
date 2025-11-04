@@ -1,0 +1,10 @@
+{
+  "query": "In 2000, what percentage of trafficking victims in Germany were nationals of Central or Eastern European countries, and what was their gender?",
+  "response": [
+    "doc_1253.txt",
+    "doc_26863.txt",
+    "doc_37487.txt",
+    "doc_32328.txt",
+    "doc_22994.txt"
+  ]
+}

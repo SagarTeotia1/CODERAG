@@ -1,0 +1,10 @@
+{
+  "query": "In 1938, what scores did Donald Bradman achieve against the Australians?",
+  "response": [
+    "doc_12426.txt",
+    "doc_9145.txt",
+    "doc_19780.txt",
+    "doc_36125.txt",
+    "doc_9144.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which film was praised by Film Threat for “great art should assail the status quo”?",
+  "response": [
+    "doc_21010.txt",
+    "doc_11071.txt",
+    "doc_19043.txt",
+    "doc_3328.txt",
+    "doc_16185.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is Chartres Cathedral also known as?",
+  "response": [
+    "doc_25177.txt",
+    "doc_16204.txt",
+    "doc_127.txt",
+    "doc_16205.txt",
+    "doc_12787.txt"
+  ]
+}

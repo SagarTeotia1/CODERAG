@@ -1,0 +1,10 @@
+{
+  "query": "What is the Persian Gulf commonly known as?",
+  "response": [
+    "doc_19225.txt",
+    "doc_19222.txt",
+    "doc_19226.txt",
+    "doc_19224.txt",
+    "doc_19221.txt"
+  ]
+}

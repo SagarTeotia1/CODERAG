@@ -1,0 +1,10 @@
+{
+  "query": "Who co-authored the book “The Living Heart in the 21st Century,” and what role did they hold at Weill Cornell Medical College?",
+  "response": [
+    "doc_12542.txt",
+    "doc_12544.txt",
+    "doc_12543.txt",
+    "doc_40244.txt",
+    "doc_40243.txt"
+  ]
+}

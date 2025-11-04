@@ -1,0 +1,10 @@
+{
+  "query": "What is Le Lido, and who are some of the famous performers who have graced its stage?",
+  "response": [
+    "doc_31896.txt",
+    "doc_19765.txt",
+    "doc_35020.txt",
+    "doc_23045.txt",
+    "doc_33557.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was the observed increase in BPA concentration in urine after consuming five portions of canned soup?",
+  "response": [
+    "doc_39503.txt",
+    "doc_8871.txt",
+    "doc_3364.txt",
+    "doc_25989.txt",
+    "doc_32310.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the chronological order of the “Planet of the Apes” reboot films released by 20th Century Fox?",
+  "response": [
+    "doc_31811.txt",
+    "doc_13309.txt",
+    "doc_11516.txt",
+    "doc_11522.txt",
+    "doc_11521.txt"
+  ]
+}

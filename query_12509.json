@@ -1,0 +1,10 @@
+{
+  "query": "By what vote did the Senate pass the declaration of war on June 17, 1812?",
+  "response": [
+    "doc_21478.txt",
+    "doc_21476.txt",
+    "doc_21473.txt",
+    "doc_21474.txt",
+    "doc_21477.txt"
+  ]
+}

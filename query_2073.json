@@ -1,0 +1,10 @@
+{
+  "query": "Who was formed in compliance with the New Code of Canon Law?",
+  "response": [
+    "doc_56.txt",
+    "doc_36314.txt",
+    "doc_33018.txt",
+    "doc_33020.txt",
+    "doc_33016.txt"
+  ]
+}

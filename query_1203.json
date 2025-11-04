@@ -1,0 +1,10 @@
+{
+  "query": "What was the budget for “Night of the Living Dead”?",
+  "response": [
+    "doc_31151.txt",
+    "doc_27854.txt",
+    "doc_5208.txt",
+    "doc_24995.txt",
+    "doc_30404.txt"
+  ]
+}

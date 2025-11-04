@@ -1,0 +1,10 @@
+{
+  "query": "What financial year was the European Foundation for the Improvement of Living and Working Conditions’ budget being examined for?",
+  "response": [
+    "doc_20269.txt",
+    "doc_20264.txt",
+    "doc_20265.txt",
+    "doc_20263.txt",
+    "doc_15547.txt"
+  ]
+}

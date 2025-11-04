@@ -1,0 +1,10 @@
+{
+  "query": "What is the current estimated annual value of these frauds across all 27 Member States?",
+  "response": [
+    "doc_26700.txt",
+    "doc_20475.txt",
+    "doc_40226.txt",
+    "doc_34233.txt",
+    "doc_35508.txt"
+  ]
+}

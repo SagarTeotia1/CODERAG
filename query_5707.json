@@ -1,0 +1,10 @@
+{
+  "query": "How many stitches per minute could Elias Howe’s sewing machine produce compared to other machines at the time?",
+  "response": [
+    "doc_4651.txt",
+    "doc_4654.txt",
+    "doc_4652.txt",
+    "doc_4653.txt",
+    "doc_4661.txt"
+  ]
+}

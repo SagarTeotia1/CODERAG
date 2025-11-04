@@ -1,0 +1,10 @@
+{
+  "query": "What inventions did Dr. Pickard create?",
+  "response": [
+    "doc_10639.txt",
+    "doc_10638.txt",
+    "doc_24598.txt",
+    "doc_36761.txt",
+    "doc_36763.txt"
+  ]
+}

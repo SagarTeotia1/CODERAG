@@ -1,0 +1,10 @@
+{
+  "query": "What was one of the most important books John Bunyan wrote?",
+  "response": [
+    "doc_27519.txt",
+    "doc_27517.txt",
+    "doc_27516.txt",
+    "doc_27523.txt",
+    "doc_27524.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which organization maintained a trail system on Galbraith Mountain until 2010?",
+  "response": [
+    "doc_30909.txt",
+    "doc_40199.txt",
+    "doc_40201.txt",
+    "doc_40198.txt",
+    "doc_24604.txt"
+  ]
+}

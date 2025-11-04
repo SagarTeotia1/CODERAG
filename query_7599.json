@@ -1,0 +1,10 @@
+{
+  "query": "When did Mary Taylor first appear on screen in “Coronation Street”?",
+  "response": [
+    "doc_28339.txt",
+    "doc_5591.txt",
+    "doc_5590.txt",
+    "doc_16850.txt",
+    "doc_36319.txt"
+  ]
+}

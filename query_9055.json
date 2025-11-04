@@ -1,0 +1,10 @@
+{
+  "query": "What is the European Union’s responsibility regarding trafficking in human beings, according to the text?",
+  "response": [
+    "doc_18806.txt",
+    "doc_27784.txt",
+    "doc_1248.txt",
+    "doc_32327.txt",
+    "doc_22994.txt"
+  ]
+}

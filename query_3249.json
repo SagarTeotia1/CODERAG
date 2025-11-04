@@ -1,0 +1,10 @@
+{
+  "query": "Which tree is described as the “most outstanding” in Mount Rainier National Park, and what are some of its notable characteristics?",
+  "response": [
+    "doc_35164.txt",
+    "doc_30909.txt",
+    "doc_27558.txt",
+    "doc_8074.txt",
+    "doc_8073.txt"
+  ]
+}

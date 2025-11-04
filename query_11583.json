@@ -1,0 +1,10 @@
+{
+  "query": "When will the Subcommittee on Human Rights meet?",
+  "response": [
+    "doc_1747.txt",
+    "doc_19115.txt",
+    "doc_34871.txt",
+    "doc_26531.txt",
+    "doc_36812.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "How many times has the Argonauts won the Grey Cup?",
+  "response": [
+    "doc_32638.txt",
+    "doc_22125.txt",
+    "doc_4272.txt",
+    "doc_38744.txt",
+    "doc_20241.txt"
+  ]
+}

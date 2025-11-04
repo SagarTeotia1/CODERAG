@@ -1,0 +1,10 @@
+{
+  "query": "What is Jeff Mangum best known for, and what album is he particularly acclaimed for?",
+  "response": [
+    "doc_11845.txt",
+    "doc_19069.txt",
+    "doc_13760.txt",
+    "doc_32072.txt",
+    "doc_19068.txt"
+  ]
+}

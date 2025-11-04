@@ -1,0 +1,10 @@
+{
+  "query": "Which lakes are included in the “Fugawi Fishing Lakes USA - Lake List”?",
+  "response": [
+    "doc_36780.txt",
+    "doc_36781.txt",
+    "doc_36779.txt",
+    "doc_1912.txt",
+    "doc_9395.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which film earned actor John Malkovich an Academy Award nomination?",
+  "response": [
+    "doc_27967.txt",
+    "doc_18483.txt",
+    "doc_4075.txt",
+    "doc_4079.txt",
+    "doc_4076.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was Dr. Debus’s profession?",
+  "response": [
+    "doc_1639.txt",
+    "doc_3818.txt",
+    "doc_3822.txt",
+    "doc_1636.txt",
+    "doc_1641.txt"
+  ]
+}

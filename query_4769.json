@@ -1,0 +1,10 @@
+{
+  "query": "What was Sarah Beth James’s title and where was she from?",
+  "response": [
+    "doc_12938.txt",
+    "doc_12940.txt",
+    "doc_38616.txt",
+    "doc_37025.txt",
+    "doc_40001.txt"
+  ]
+}

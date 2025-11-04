@@ -1,0 +1,10 @@
+{
+  "query": "What specific healthcare changes has French President Nicolas Sarkozy announced?",
+  "response": [
+    "doc_15222.txt",
+    "doc_28645.txt",
+    "doc_34627.txt",
+    "doc_24719.txt",
+    "doc_18693.txt"
+  ]
+}

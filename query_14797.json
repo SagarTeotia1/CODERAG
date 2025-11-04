@@ -1,0 +1,10 @@
+{
+  "query": "Which country made law on the Working Time Directive on 4 April 2005?",
+  "response": [
+    "doc_27037.txt",
+    "doc_35996.txt",
+    "doc_37765.txt",
+    "doc_35995.txt",
+    "doc_29497.txt"
+  ]
+}

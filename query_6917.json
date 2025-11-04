@@ -1,0 +1,10 @@
+{
+  "query": "What was Megan Meier’s age when she committed suicide?",
+  "response": [
+    "doc_24079.txt",
+    "doc_24083.txt",
+    "doc_24084.txt",
+    "doc_24081.txt",
+    "doc_24078.txt"
+  ]
+}

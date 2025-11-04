@@ -1,0 +1,10 @@
+{
+  "query": "What cities are listed as being frequently visited by Meir Minsky?",
+  "response": [
+    "doc_23318.txt",
+    "doc_14281.txt",
+    "doc_14283.txt",
+    "doc_14282.txt",
+    "doc_29978.txt"
+  ]
+}

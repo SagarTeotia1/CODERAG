@@ -1,0 +1,10 @@
+{
+  "query": "What role does Eurocontrol play in the joint undertaking being discussed?",
+  "response": [
+    "doc_23782.txt",
+    "doc_23779.txt",
+    "doc_23783.txt",
+    "doc_23769.txt",
+    "doc_23772.txt"
+  ]
+}

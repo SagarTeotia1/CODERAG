@@ -1,0 +1,10 @@
+{
+  "query": "In what country and city did the 2016 Poprad-Tatry ATP Challenger tournament take place?",
+  "response": [
+    "doc_31946.txt",
+    "doc_31945.txt",
+    "doc_14938.txt",
+    "doc_8672.txt",
+    "doc_14939.txt"
+  ]
+}

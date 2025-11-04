@@ -1,0 +1,10 @@
+{
+  "query": "What musical genres did Gregg Allman incorporate into the Allman Brothers Band's sound?",
+  "response": [
+    "doc_33026.txt",
+    "doc_33025.txt",
+    "doc_33023.txt",
+    "doc_17896.txt",
+    "doc_34421.txt"
+  ]
+}

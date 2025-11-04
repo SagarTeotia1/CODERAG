@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how many miles north of Crescent is Lake Inman located?",
+  "response": [
+    "doc_15366.txt",
+    "doc_15365.txt",
+    "doc_9394.txt",
+    "doc_9388.txt",
+    "doc_9391.txt"
+  ]
+}

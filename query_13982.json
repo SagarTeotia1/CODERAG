@@ -1,0 +1,10 @@
+{
+  "query": "Between which two countries does Lake Titicaca lie?",
+  "response": [
+    "doc_15098.txt",
+    "doc_25046.txt",
+    "doc_15099.txt",
+    "doc_25043.txt",
+    "doc_25044.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When did sessions for The Monkees’ first album begin?",
+  "response": [
+    "doc_38658.txt",
+    "doc_38659.txt",
+    "doc_38661.txt",
+    "doc_38660.txt",
+    "doc_30.txt"
+  ]
+}

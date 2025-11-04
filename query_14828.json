@@ -1,0 +1,10 @@
+{
+  "query": "What is the title of the Belgian novel by Roger Leloup that was first published in 1989?",
+  "response": [
+    "doc_638.txt",
+    "doc_635.txt",
+    "doc_640.txt",
+    "doc_633.txt",
+    "doc_637.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What fruity dessert did Saladin offer to Richard I during the Crusades?",
+  "response": [
+    "doc_30180.txt",
+    "doc_30184.txt",
+    "doc_30185.txt",
+    "doc_30181.txt",
+    "doc_14383.txt"
+  ]
+}

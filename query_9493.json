@@ -1,0 +1,10 @@
+{
+  "query": "In what serial did Tapasya Nayak Srivastava play the role of Mary?",
+  "response": [
+    "doc_30050.txt",
+    "doc_26967.txt",
+    "doc_30048.txt",
+    "doc_30047.txt",
+    "doc_26968.txt"
+  ]
+}

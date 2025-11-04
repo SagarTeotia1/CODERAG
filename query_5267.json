@@ -1,0 +1,10 @@
+{
+  "query": "Which band did Kelly Keagy primarily work with before his solo career?",
+  "response": [
+    "doc_34414.txt",
+    "doc_40123.txt",
+    "doc_15909.txt",
+    "doc_32068.txt",
+    "doc_15906.txt"
+  ]
+}

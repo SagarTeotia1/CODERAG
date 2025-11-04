@@ -1,0 +1,10 @@
+{
+  "query": "In what year was Jedburgh Castle demolished?",
+  "response": [
+    "doc_25051.txt",
+    "doc_25221.txt",
+    "doc_12269.txt",
+    "doc_12262.txt",
+    "doc_12264.txt"
+  ]
+}

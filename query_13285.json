@@ -1,0 +1,10 @@
+{
+  "query": "What year models of diesel and petrol cars are banned from entering low-emission zones in Berlin?",
+  "response": [
+    "doc_23295.txt",
+    "doc_4853.txt",
+    "doc_39585.txt",
+    "doc_28124.txt",
+    "doc_5390.txt"
+  ]
+}

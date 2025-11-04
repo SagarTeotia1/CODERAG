@@ -1,0 +1,10 @@
+{
+  "query": "What is the proposed capacity of the three underground tanks associated with the regasification plant at Melilli?",
+  "response": [
+    "doc_30775.txt",
+    "doc_17567.txt",
+    "doc_22709.txt",
+    "doc_17568.txt",
+    "doc_17563.txt"
+  ]
+}

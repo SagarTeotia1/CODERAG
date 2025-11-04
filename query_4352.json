@@ -1,0 +1,10 @@
+{
+  "query": "Which film production company was founded by Pascal Caucheteux and focuses on French auteur cinema?",
+  "response": [
+    "doc_6601.txt",
+    "doc_33002.txt",
+    "doc_37774.txt",
+    "doc_29863.txt",
+    "doc_6600.txt"
+  ]
+}

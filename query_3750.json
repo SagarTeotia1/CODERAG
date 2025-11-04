@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what was the outcome of the 1902 Rose Bowl?",
+  "response": [
+    "doc_26942.txt",
+    "doc_36347.txt",
+    "doc_26943.txt",
+    "doc_12466.txt",
+    "doc_31421.txt"
+  ]
+}

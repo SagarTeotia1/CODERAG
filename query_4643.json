@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what biblical story does the film “Metropolis” seem to critique?",
+  "response": [
+    "doc_13105.txt",
+    "doc_13101.txt",
+    "doc_13100.txt",
+    "doc_13104.txt",
+    "doc_7155.txt"
+  ]
+}

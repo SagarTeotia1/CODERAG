@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of the population in Sweden supports the use of alcohol locks?",
+  "response": [
+    "doc_17533.txt",
+    "doc_11284.txt",
+    "doc_11285.txt",
+    "doc_11281.txt",
+    "doc_5767.txt"
+  ]
+}

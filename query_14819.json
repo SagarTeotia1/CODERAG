@@ -1,0 +1,10 @@
+{
+  "query": "Which airports will be the primary hubs for American Eagle’s United Express code sharing partnership?",
+  "response": [
+    "doc_27107.txt",
+    "doc_27108.txt",
+    "doc_24034.txt",
+    "doc_24032.txt",
+    "doc_24035.txt"
+  ]
+}

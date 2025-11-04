@@ -1,0 +1,10 @@
+{
+  "query": "During which battle did seven Canadians earn a Victoria Cross?",
+  "response": [
+    "doc_30118.txt",
+    "doc_3445.txt",
+    "doc_3440.txt",
+    "doc_5527.txt",
+    "doc_19781.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how many Tibetan refugees arrived in Nepal before 1990?",
+  "response": [
+    "doc_10675.txt",
+    "doc_27567.txt",
+    "doc_31443.txt",
+    "doc_4588.txt",
+    "doc_22211.txt"
+  ]
+}

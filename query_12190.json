@@ -1,0 +1,10 @@
+{
+  "query": "In what year did FC Sochaux-Montbéliard defeat Olympique de Marseille in the Coupe de France Final?",
+  "response": [
+    "doc_20615.txt",
+    "doc_20614.txt",
+    "doc_31535.txt",
+    "doc_29620.txt",
+    "doc_23689.txt"
+  ]
+}

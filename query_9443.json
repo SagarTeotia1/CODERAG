@@ -1,0 +1,10 @@
+{
+  "query": "Which biblical holy days are referred to as “God-made holidays” in the text?",
+  "response": [
+    "doc_31379.txt",
+    "doc_31378.txt",
+    "doc_13881.txt",
+    "doc_13877.txt",
+    "doc_31380.txt"
+  ]
+}

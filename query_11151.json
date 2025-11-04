@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the high school located in Hanover, New Hampshire?",
+  "response": [
+    "doc_18017.txt",
+    "doc_18018.txt",
+    "doc_7993.txt",
+    "doc_7994.txt",
+    "doc_36391.txt"
+  ]
+}

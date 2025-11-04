@@ -1,0 +1,10 @@
+{
+  "query": "Which four programmes are included within the new Lifelong Learning Programme?",
+  "response": [
+    "doc_9046.txt",
+    "doc_37553.txt",
+    "doc_501.txt",
+    "doc_16875.txt",
+    "doc_15565.txt"
+  ]
+}

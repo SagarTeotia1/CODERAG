@@ -1,0 +1,10 @@
+{
+  "query": "When was the ‘A resource-efficient Europe’ initiative launched?",
+  "response": [
+    "doc_6294.txt",
+    "doc_17374.txt",
+    "doc_21256.txt",
+    "doc_37229.txt",
+    "doc_7439.txt"
+  ]
+}

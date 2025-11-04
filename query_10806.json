@@ -1,0 +1,10 @@
+{
+  "query": "Which film features David Thewlis in the role of Remus Lupin?",
+  "response": [
+    "doc_17112.txt",
+    "doc_34282.txt",
+    "doc_17113.txt",
+    "doc_31129.txt",
+    "doc_14603.txt"
+  ]
+}

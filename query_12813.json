@@ -1,0 +1,10 @@
+{
+  "query": "What did Colonel Moore order the group to do on Thursday evening?",
+  "response": [
+    "doc_27117.txt",
+    "doc_34086.txt",
+    "doc_32241.txt",
+    "doc_15284.txt",
+    "doc_15285.txt"
+  ]
+}

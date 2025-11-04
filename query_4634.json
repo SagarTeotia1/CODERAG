@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what was one of the lines from the nursery rhyme \"Goosey Goosey Gander\"?",
+  "response": [
+    "doc_38530.txt",
+    "doc_38526.txt",
+    "doc_38528.txt",
+    "doc_38527.txt",
+    "doc_38531.txt"
+  ]
+}

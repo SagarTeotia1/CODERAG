@@ -1,0 +1,10 @@
+{
+  "query": "Which film directed by Danny Leiner stars Edie Falco?",
+  "response": [
+    "doc_30053.txt",
+    "doc_18858.txt",
+    "doc_18859.txt",
+    "doc_33830.txt",
+    "doc_30051.txt"
+  ]
+}

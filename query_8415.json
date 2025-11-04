@@ -1,0 +1,10 @@
+{
+  "query": "What is Portugal’s current expenditure on healthcare as a percentage of GDP?",
+  "response": [
+    "doc_11394.txt",
+    "doc_17535.txt",
+    "doc_27969.txt",
+    "doc_11781.txt",
+    "doc_23326.txt"
+  ]
+}

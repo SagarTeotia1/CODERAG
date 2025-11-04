@@ -1,0 +1,10 @@
+{
+  "query": "In “Manna from Heaven,” what action does a Cardassian character take to ensure a colony always has food?",
+  "response": [
+    "doc_16615.txt",
+    "doc_13205.txt",
+    "doc_16610.txt",
+    "doc_2407.txt",
+    "doc_16609.txt"
+  ]
+}

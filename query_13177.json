@@ -1,0 +1,10 @@
+{
+  "query": "Which Australian rider won the overall title at the 2011 Danmark Rundt?",
+  "response": [
+    "doc_16361.txt",
+    "doc_18910.txt",
+    "doc_16364.txt",
+    "doc_16358.txt",
+    "doc_18908.txt"
+  ]
+}

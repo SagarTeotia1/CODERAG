@@ -1,0 +1,10 @@
+{
+  "query": "What architectural style is associated with the church of Notre-Dame-de-Lorette, as described in the document referencing Eugne-Emmanuel Viollet-le-Duc?",
+  "response": [
+    "doc_16208.txt",
+    "doc_16204.txt",
+    "doc_16205.txt",
+    "doc_3063.txt",
+    "doc_3062.txt"
+  ]
+}

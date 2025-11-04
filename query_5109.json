@@ -1,0 +1,10 @@
+{
+  "query": "From what city did someone recently move to Frankfurt?",
+  "response": [
+    "doc_39587.txt",
+    "doc_39586.txt",
+    "doc_39584.txt",
+    "doc_39583.txt",
+    "doc_15266.txt"
+  ]
+}

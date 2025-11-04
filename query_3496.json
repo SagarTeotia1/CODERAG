@@ -1,0 +1,10 @@
+{
+  "query": "In which state did “Canada Bill” Jones primarily operate his 3-card monte game?",
+  "response": [
+    "doc_20096.txt",
+    "doc_6384.txt",
+    "doc_28458.txt",
+    "doc_6382.txt",
+    "doc_31091.txt"
+  ]
+}

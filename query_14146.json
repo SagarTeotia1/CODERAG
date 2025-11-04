@@ -1,0 +1,10 @@
+{
+  "query": "How much European financial aid has been paid to Lesotho since independence?",
+  "response": [
+    "doc_25417.txt",
+    "doc_38133.txt",
+    "doc_31164.txt",
+    "doc_17905.txt",
+    "doc_36958.txt"
+  ]
+}

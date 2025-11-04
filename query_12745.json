@@ -1,0 +1,10 @@
+{
+  "query": "What style of writing is associated with Tom Wolfe's essay, “The Kandy-Kolored Tangerine-Flake Streamline Baby”?",
+  "response": [
+    "doc_22045.txt",
+    "doc_22044.txt",
+    "doc_22043.txt",
+    "doc_4300.txt",
+    "doc_4302.txt"
+  ]
+}

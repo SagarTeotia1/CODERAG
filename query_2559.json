@@ -1,0 +1,10 @@
+{
+  "query": "What programme covers all Objective 1 regions in Spain, and who is responsible for allocating funds within those regions?",
+  "response": [
+    "doc_2178.txt",
+    "doc_3294.txt",
+    "doc_25162.txt",
+    "doc_10033.txt",
+    "doc_27761.txt"
+  ]
+}

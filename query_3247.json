@@ -1,0 +1,10 @@
+{
+  "query": "What role did Herbert Giles have in the field of Chinese studies?",
+  "response": [
+    "doc_3467.txt",
+    "doc_34645.txt",
+    "doc_21027.txt",
+    "doc_21024.txt",
+    "doc_21028.txt"
+  ]
+}

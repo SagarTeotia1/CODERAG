@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how many people attended the concert in Golden Gate Park that was produced by Bill Graham?",
+  "response": [
+    "doc_1764.txt",
+    "doc_1768.txt",
+    "doc_1766.txt",
+    "doc_1765.txt",
+    "doc_1769.txt"
+  ]
+}

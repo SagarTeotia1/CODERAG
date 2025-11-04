@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of Elvis’s earnings did Colonel Parker typically demand as a commission?",
+  "response": [
+    "doc_31863.txt",
+    "doc_31866.txt",
+    "doc_31864.txt",
+    "doc_31865.txt",
+    "doc_36272.txt"
+  ]
+}

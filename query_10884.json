@@ -1,0 +1,10 @@
+{
+  "query": "When was Alexis Sinduhije arrested?",
+  "response": [
+    "doc_27552.txt",
+    "doc_23743.txt",
+    "doc_21835.txt",
+    "doc_23498.txt",
+    "doc_32496.txt"
+  ]
+}

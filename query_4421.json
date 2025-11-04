@@ -1,0 +1,10 @@
+{
+  "query": "How many signatures were associated with the signature of Mrs. Silke Jelkic?",
+  "response": [
+    "doc_8729.txt",
+    "doc_11587.txt",
+    "doc_17189.txt",
+    "doc_23482.txt",
+    "doc_18160.txt"
+  ]
+}

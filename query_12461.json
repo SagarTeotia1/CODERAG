@@ -1,0 +1,10 @@
+{
+  "query": "From what time period did “Mickey’s Mouse Tracks” air?",
+  "response": [
+    "doc_20758.txt",
+    "doc_20759.txt",
+    "doc_20761.txt",
+    "doc_36668.txt",
+    "doc_21341.txt"
+  ]
+}

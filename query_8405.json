@@ -1,0 +1,10 @@
+{
+  "query": "What was the role of Harry Bergold, specifically, as referenced in the documents?",
+  "response": [
+    "doc_11375.txt",
+    "doc_11374.txt",
+    "doc_11061.txt",
+    "doc_5964.txt",
+    "doc_21300.txt"
+  ]
+}

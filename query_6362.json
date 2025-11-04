@@ -1,0 +1,10 @@
+{
+  "query": "Which companies comprised Compagnia Italiana di Navigazioni (CIN)?",
+  "response": [
+    "doc_6207.txt",
+    "doc_34989.txt",
+    "doc_34985.txt",
+    "doc_10490.txt",
+    "doc_37996.txt"
+  ]
+}

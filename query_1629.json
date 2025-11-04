@@ -1,0 +1,10 @@
+{
+  "query": "What city was the home of Goliath, the giant who fought David?",
+  "response": [
+    "doc_31246.txt",
+    "doc_31251.txt",
+    "doc_31247.txt",
+    "doc_31249.txt",
+    "doc_31252.txt"
+  ]
+}

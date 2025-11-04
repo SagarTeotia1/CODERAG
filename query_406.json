@@ -1,0 +1,10 @@
+{
+  "query": "Besides India, in which country is *Curcuma zedoaria* now naturalized?",
+  "response": [
+    "doc_28251.txt",
+    "doc_2477.txt",
+    "doc_2476.txt",
+    "doc_13164.txt",
+    "doc_11732.txt"
+  ]
+}

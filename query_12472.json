@@ -1,0 +1,10 @@
+{
+  "query": "Under what pen name did Shaw write for *The Star*?",
+  "response": [
+    "doc_21388.txt",
+    "doc_21386.txt",
+    "doc_21389.txt",
+    "doc_21385.txt",
+    "doc_21387.txt"
+  ]
+}

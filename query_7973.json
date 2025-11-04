@@ -1,0 +1,10 @@
+{
+  "query": "The aptly-named Terry Frost created a painting called this season of the year “1956, Yorkshire”?",
+  "response": [
+    "doc_10334.txt",
+    "doc_5832.txt",
+    "doc_23236.txt",
+    "doc_23226.txt",
+    "doc_23231.txt"
+  ]
+}

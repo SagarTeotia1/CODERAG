@@ -1,0 +1,10 @@
+{
+  "query": "What reports and publications does the passage mention that relate to supporting small businesses in the European Union?",
+  "response": [
+    "doc_16629.txt",
+    "doc_16628.txt",
+    "doc_16630.txt",
+    "doc_37600.txt",
+    "doc_37603.txt"
+  ]
+}

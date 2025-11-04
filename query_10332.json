@@ -1,0 +1,10 @@
+{
+  "query": "What concerns have French agricultural cooperatives expressed regarding a recent complaint about their tax treatment?",
+  "response": [
+    "doc_1570.txt",
+    "doc_36081.txt",
+    "doc_38837.txt",
+    "doc_15082.txt",
+    "doc_35506.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which film was originally commissioned for Kate Bush to write a song referencing the lead character?",
+  "response": [
+    "doc_27024.txt",
+    "doc_27025.txt",
+    "doc_27028.txt",
+    "doc_27030.txt",
+    "doc_27026.txt"
+  ]
+}

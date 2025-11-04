@@ -1,0 +1,10 @@
+{
+  "query": "What type of portrait was commissioned of Marian Anderson, and what details are provided about its presentation?",
+  "response": [
+    "doc_40139.txt",
+    "doc_10965.txt",
+    "doc_40144.txt",
+    "doc_40141.txt",
+    "doc_40140.txt"
+  ]
+}

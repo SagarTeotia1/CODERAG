@@ -1,0 +1,10 @@
+{
+  "query": "What kind of coat did Thelma Catherine “Pat” Nixon have?",
+  "response": [
+    "doc_34734.txt",
+    "doc_34730.txt",
+    "doc_34733.txt",
+    "doc_34732.txt",
+    "doc_34738.txt"
+  ]
+}

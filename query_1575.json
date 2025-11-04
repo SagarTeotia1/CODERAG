@@ -1,0 +1,10 @@
+{
+  "query": "When was Mrs. Paine’s phone call made regarding the Texas School Book Depository?",
+  "response": [
+    "doc_31139.txt",
+    "doc_31140.txt",
+    "doc_31131.txt",
+    "doc_31138.txt",
+    "doc_31132.txt"
+  ]
+}

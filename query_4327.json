@@ -1,0 +1,10 @@
+{
+  "query": "What was William Merritt Chase painting when describing it in the provided text?",
+  "response": [
+    "doc_37705.txt",
+    "doc_31548.txt",
+    "doc_30247.txt",
+    "doc_22834.txt",
+    "doc_19073.txt"
+  ]
+}

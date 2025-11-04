@@ -1,0 +1,10 @@
+{
+  "query": "What geographical features were named after the Franey family?",
+  "response": [
+    "doc_24045.txt",
+    "doc_36017.txt",
+    "doc_24051.txt",
+    "doc_31550.txt",
+    "doc_31551.txt"
+  ]
+}

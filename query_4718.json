@@ -1,0 +1,10 @@
+{
+  "query": "What type of aid is being requested for the populations of Eastern DRC?",
+  "response": [
+    "doc_38701.txt",
+    "doc_35232.txt",
+    "doc_35233.txt",
+    "doc_12192.txt",
+    "doc_38700.txt"
+  ]
+}

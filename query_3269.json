@@ -1,0 +1,9 @@
+{
+  "query": "What comic strip did Bing Crosby admire as a child, which led to him receiving the nickname “Bing”?",
+  "response": [
+    "doc_3470.txt",
+    "doc_3469.txt",
+    "doc_3472.txt",
+    "doc_3471.txt"
+  ]
+}

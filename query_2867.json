@@ -1,0 +1,10 @@
+{
+  "query": "In the case of STAF redundancies, what redeployment options were offered to the seven employees?",
+  "response": [
+    "doc_20048.txt",
+    "doc_34835.txt",
+    "doc_27286.txt",
+    "doc_20049.txt",
+    "doc_32980.txt"
+  ]
+}

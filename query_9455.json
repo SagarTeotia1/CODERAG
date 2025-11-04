@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission’s stance regarding funding propaganda in schools?",
+  "response": [
+    "doc_1377.txt",
+    "doc_29810.txt",
+    "doc_17070.txt",
+    "doc_25350.txt",
+    "doc_12800.txt"
+  ]
+}

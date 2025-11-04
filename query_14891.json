@@ -1,0 +1,10 @@
+{
+  "query": "What action does Hamlet take involving a sword and a tapestry, resulting in the death of Polonius?",
+  "response": [
+    "doc_27271.txt",
+    "doc_38146.txt",
+    "doc_38149.txt",
+    "doc_38148.txt",
+    "doc_27272.txt"
+  ]
+}

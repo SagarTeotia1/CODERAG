@@ -1,0 +1,10 @@
+{
+  "query": "What was Captain Thomas Mumford’s role in organizing a company?",
+  "response": [
+    "doc_5105.txt",
+    "doc_5113.txt",
+    "doc_31528.txt",
+    "doc_1963.txt",
+    "doc_39205.txt"
+  ]
+}

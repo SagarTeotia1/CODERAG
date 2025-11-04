@@ -1,0 +1,10 @@
+{
+  "query": "What is the minimum number of weighted votes required for an act to be adopted under RQMV?",
+  "response": [
+    "doc_39745.txt",
+    "doc_29335.txt",
+    "doc_5730.txt",
+    "doc_11834.txt",
+    "doc_29337.txt"
+  ]
+}

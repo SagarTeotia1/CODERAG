@@ -1,0 +1,10 @@
+{
+  "query": "What system is currently used to indicate water quality at some UK beaches?",
+  "response": [
+    "doc_5304.txt",
+    "doc_5303.txt",
+    "doc_1174.txt",
+    "doc_9867.txt",
+    "doc_17522.txt"
+  ]
+}

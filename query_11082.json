@@ -1,0 +1,10 @@
+{
+  "query": "What was Marie Curie’s birth name?",
+  "response": [
+    "doc_17803.txt",
+    "doc_17805.txt",
+    "doc_17802.txt",
+    "doc_17807.txt",
+    "doc_17808.txt"
+  ]
+}

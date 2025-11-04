@@ -1,0 +1,10 @@
+{
+  "query": "When was the Amherst station closed?",
+  "response": [
+    "doc_35934.txt",
+    "doc_28529.txt",
+    "doc_9946.txt",
+    "doc_28528.txt",
+    "doc_31123.txt"
+  ]
+}

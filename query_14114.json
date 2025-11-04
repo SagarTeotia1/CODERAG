@@ -1,0 +1,10 @@
+{
+  "query": "Which company operates the Walt Disney World Swan and Dolphin resort under the Sheraton Hotels brand?",
+  "response": [
+    "doc_25362.txt",
+    "doc_18030.txt",
+    "doc_25363.txt",
+    "doc_18029.txt",
+    "doc_13871.txt"
+  ]
+}

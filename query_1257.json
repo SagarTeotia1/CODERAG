@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what is the spending ratio for research between the USA and the EU?",
+  "response": [
+    "doc_35331.txt",
+    "doc_15496.txt",
+    "doc_3570.txt",
+    "doc_15512.txt",
+    "doc_30397.txt"
+  ]
+}

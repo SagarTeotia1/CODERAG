@@ -1,0 +1,10 @@
+{
+  "query": "Besides Percy Jackson, which other character appears in all three series of the Camp Half-Blood chronicles?",
+  "response": [
+    "doc_7303.txt",
+    "doc_35516.txt",
+    "doc_25456.txt",
+    "doc_25455.txt",
+    "doc_31546.txt"
+  ]
+}

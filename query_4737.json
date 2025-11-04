@@ -1,0 +1,10 @@
+{
+  "query": "What two universities are competing in the 2014 NCAA Fencing Championships?",
+  "response": [
+    "doc_38742.txt",
+    "doc_38743.txt",
+    "doc_15074.txt",
+    "doc_11353.txt",
+    "doc_25630.txt"
+  ]
+}

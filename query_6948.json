@@ -1,0 +1,10 @@
+{
+  "query": "Which organizations jointly launched the EU Cultural Heritage Prize/Europa Nostra Awards, and when were they established?",
+  "response": [
+    "doc_39249.txt",
+    "doc_18969.txt",
+    "doc_508.txt",
+    "doc_5463.txt",
+    "doc_23554.txt"
+  ]
+}

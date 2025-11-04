@@ -1,0 +1,10 @@
+{
+  "query": "Which cities – Axum, Lalibela, and Gonder – represent Ethiopia’s historical legacy?",
+  "response": [
+    "doc_17180.txt",
+    "doc_17181.txt",
+    "doc_17182.txt",
+    "doc_9315.txt",
+    "doc_32088.txt"
+  ]
+}

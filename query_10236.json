@@ -1,0 +1,10 @@
+{
+  "query": "What is the current status of Ayr Cathedral regarding its designation as a Roman Catholic cathedral?",
+  "response": [
+    "doc_16934.txt",
+    "doc_15825.txt",
+    "doc_36315.txt",
+    "doc_36313.txt",
+    "doc_36314.txt"
+  ]
+}

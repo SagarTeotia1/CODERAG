@@ -1,0 +1,10 @@
+{
+  "query": "What is the location of Soldier Key, and what body of water is it situated in?",
+  "response": [
+    "doc_310.txt",
+    "doc_309.txt",
+    "doc_9372.txt",
+    "doc_313.txt",
+    "doc_311.txt"
+  ]
+}

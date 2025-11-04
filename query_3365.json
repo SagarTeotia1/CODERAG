@@ -1,0 +1,10 @@
+{
+  "query": "What specific restriction was placed on individual investors purchasing the Bank of Ireland bonds, as stated in the prospectus?",
+  "response": [
+    "doc_866.txt",
+    "doc_9772.txt",
+    "doc_27541.txt",
+    "doc_27550.txt",
+    "doc_27551.txt"
+  ]
+}

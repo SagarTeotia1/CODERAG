@@ -1,0 +1,10 @@
+{
+  "query": "What is the location of the National Museum of the Pacific War?",
+  "response": [
+    "doc_19538.txt",
+    "doc_16591.txt",
+    "doc_5740.txt",
+    "doc_19535.txt",
+    "doc_5739.txt"
+  ]
+}

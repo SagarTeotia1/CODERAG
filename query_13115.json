@@ -1,0 +1,10 @@
+{
+  "query": "When did Julius Freed open his first orange juice stand in Los Angeles?",
+  "response": [
+    "doc_22117.txt",
+    "doc_22116.txt",
+    "doc_22120.txt",
+    "doc_22119.txt",
+    "doc_22118.txt"
+  ]
+}

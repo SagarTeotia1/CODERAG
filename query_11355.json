@@ -1,0 +1,10 @@
+{
+  "query": "How did the Bayeux Tapestry document the appearance of Halley’s Comet in 1066?",
+  "response": [
+    "doc_1804.txt",
+    "doc_1805.txt",
+    "doc_1808.txt",
+    "doc_1806.txt",
+    "doc_1810.txt"
+  ]
+}

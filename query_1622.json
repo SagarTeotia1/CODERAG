@@ -1,0 +1,10 @@
+{
+  "query": "Which countries initiated the proposal for a Council Framework Decision on the enforcement of decisions rendered in absentia?",
+  "response": [
+    "doc_31212.txt",
+    "doc_31215.txt",
+    "doc_31227.txt",
+    "doc_31220.txt",
+    "doc_31213.txt"
+  ]
+}

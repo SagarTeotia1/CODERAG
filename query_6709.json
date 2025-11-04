@@ -1,0 +1,10 @@
+{
+  "query": "In what year were Gridiron NSW and Gridiron Victoria established?",
+  "response": [
+    "doc_7143.txt",
+    "doc_7144.txt",
+    "doc_4273.txt",
+    "doc_4272.txt",
+    "doc_4276.txt"
+  ]
+}

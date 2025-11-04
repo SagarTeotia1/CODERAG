@@ -1,0 +1,10 @@
+{
+  "query": "What new interconnections are planned between Italy and Slovenia?",
+  "response": [
+    "doc_17563.txt",
+    "doc_17564.txt",
+    "doc_17566.txt",
+    "doc_17562.txt",
+    "doc_17560.txt"
+  ]
+}

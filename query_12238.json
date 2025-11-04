@@ -1,0 +1,10 @@
+{
+  "query": "In what location did the Dassler brothers initially establish their shoe factory?",
+  "response": [
+    "doc_20710.txt",
+    "doc_20713.txt",
+    "doc_20714.txt",
+    "doc_20712.txt",
+    "doc_20711.txt"
+  ]
+}

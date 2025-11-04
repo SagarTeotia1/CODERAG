@@ -1,0 +1,10 @@
+{
+  "query": "When is the Gender Institute expected to begin its work, according to the text?",
+  "response": [
+    "doc_15547.txt",
+    "doc_18719.txt",
+    "doc_19398.txt",
+    "doc_33141.txt",
+    "doc_8721.txt"
+  ]
+}

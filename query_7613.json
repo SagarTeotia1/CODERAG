@@ -1,0 +1,10 @@
+{
+  "query": "What languages does Silvia Broome, the interpreter in *The Interpreter*, understand?",
+  "response": [
+    "doc_9351.txt",
+    "doc_9352.txt",
+    "doc_9353.txt",
+    "doc_9359.txt",
+    "doc_9358.txt"
+  ]
+}

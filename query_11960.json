@@ -1,0 +1,10 @@
+{
+  "query": "What major city in Sri Lanka is the focus of a “Kandy City tour”?",
+  "response": [
+    "doc_20150.txt",
+    "doc_20144.txt",
+    "doc_20149.txt",
+    "doc_20145.txt",
+    "doc_20152.txt"
+  ]
+}

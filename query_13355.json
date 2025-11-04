@@ -1,0 +1,10 @@
+{
+  "query": "What methods did Professor King use to analyze Shakespeare’s plays?",
+  "response": [
+    "doc_2266.txt",
+    "doc_18059.txt",
+    "doc_4127.txt",
+    "doc_18060.txt",
+    "doc_16249.txt"
+  ]
+}

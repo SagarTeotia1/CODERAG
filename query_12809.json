@@ -1,0 +1,10 @@
+{
+  "query": "In what magazine was \"The Merman\" first published?",
+  "response": [
+    "doc_40221.txt",
+    "doc_14219.txt",
+    "doc_11564.txt",
+    "doc_11565.txt",
+    "doc_14216.txt"
+  ]
+}

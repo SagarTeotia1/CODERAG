@@ -1,0 +1,10 @@
+{
+  "query": "When was Nasrin Sotoudeh arrested?",
+  "response": [
+    "doc_23486.txt",
+    "doc_23487.txt",
+    "doc_23847.txt",
+    "doc_23846.txt",
+    "doc_12141.txt"
+  ]
+}

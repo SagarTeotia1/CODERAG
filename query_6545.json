@@ -1,0 +1,10 @@
+{
+  "query": "For what project did Tommy Wiseau produce a film described as “one of the worst movies ever made”?",
+  "response": [
+    "doc_11452.txt",
+    "doc_37369.txt",
+    "doc_7576.txt",
+    "doc_11455.txt",
+    "doc_5633.txt"
+  ]
+}

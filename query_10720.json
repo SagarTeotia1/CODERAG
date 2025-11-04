@@ -1,0 +1,10 @@
+{
+  "query": "What is the current New South Wales Police Commissioner’s name?",
+  "response": [
+    "doc_16911.txt",
+    "doc_8207.txt",
+    "doc_14693.txt",
+    "doc_11079.txt",
+    "doc_14443.txt"
+  ]
+}

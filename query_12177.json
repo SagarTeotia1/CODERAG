@@ -1,0 +1,10 @@
+{
+  "query": "Where was Thomas Hart Benton born, and what type of artist was he?",
+  "response": [
+    "doc_2001.txt",
+    "doc_1998.txt",
+    "doc_1999.txt",
+    "doc_2000.txt",
+    "doc_22403.txt"
+  ]
+}

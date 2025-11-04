@@ -1,0 +1,10 @@
+{
+  "query": "What is the approximate number of residents targeted by Willowbrook Mall?",
+  "response": [
+    "doc_36557.txt",
+    "doc_4805.txt",
+    "doc_27844.txt",
+    "doc_38890.txt",
+    "doc_24837.txt"
+  ]
+}

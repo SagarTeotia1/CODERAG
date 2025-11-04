@@ -1,0 +1,10 @@
+{
+  "query": "What citrus fruit is associated with the flavoring in Earl Grey tea?",
+  "response": [
+    "doc_14969.txt",
+    "doc_6119.txt",
+    "doc_6122.txt",
+    "doc_36771.txt",
+    "doc_31032.txt"
+  ]
+}

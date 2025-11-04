@@ -1,0 +1,10 @@
+{
+  "query": "In what geographical location was Jian located?",
+  "response": [
+    "doc_23395.txt",
+    "doc_23390.txt",
+    "doc_23391.txt",
+    "doc_32131.txt",
+    "doc_8744.txt"
+  ]
+}

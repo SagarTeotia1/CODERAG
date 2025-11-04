@@ -1,0 +1,10 @@
+{
+  "query": "What was Mark Strauss’s role at the “Bulletin of the Atomic Scientists”?",
+  "response": [
+    "doc_8714.txt",
+    "doc_8713.txt",
+    "doc_34661.txt",
+    "doc_34657.txt",
+    "doc_14283.txt"
+  ]
+}

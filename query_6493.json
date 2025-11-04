@@ -1,0 +1,10 @@
+{
+  "query": "In *Deus Ex: Invisible War*, what types of gameplay elements are combined?",
+  "response": [
+    "doc_33597.txt",
+    "doc_21021.txt",
+    "doc_21022.txt",
+    "doc_23667.txt",
+    "doc_23860.txt"
+  ]
+}

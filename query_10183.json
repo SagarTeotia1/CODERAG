@@ -1,0 +1,10 @@
+{
+  "query": "What was Duncan Phyfe’s original spelling of his last name?",
+  "response": [
+    "doc_15748.txt",
+    "doc_15746.txt",
+    "doc_14970.txt",
+    "doc_8109.txt",
+    "doc_10485.txt"
+  ]
+}

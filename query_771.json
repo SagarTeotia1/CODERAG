@@ -1,0 +1,10 @@
+{
+  "query": "According to the Kelley Blue Book article, what is the price range for a 2015 Ford F-250 Super Duty Crew Cab?",
+  "response": [
+    "doc_29018.txt",
+    "doc_20231.txt",
+    "doc_20232.txt",
+    "doc_9505.txt",
+    "doc_9507.txt"
+  ]
+}

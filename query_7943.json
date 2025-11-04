@@ -1,0 +1,10 @@
+{
+  "query": "In what town was Gioachino Rossini born?",
+  "response": [
+    "doc_10220.txt",
+    "doc_10219.txt",
+    "doc_10221.txt",
+    "doc_10222.txt",
+    "doc_1489.txt"
+  ]
+}

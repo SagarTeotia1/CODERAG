@@ -1,0 +1,10 @@
+{
+  "query": "Which islands are involved in the Mediterranean Archipelago project?",
+  "response": [
+    "doc_22706.txt",
+    "doc_17567.txt",
+    "doc_18475.txt",
+    "doc_39698.txt",
+    "doc_41.txt"
+  ]
+}

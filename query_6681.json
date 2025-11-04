@@ -1,0 +1,10 @@
+{
+  "query": "In what state did the Battle of Antietam take place?",
+  "response": [
+    "doc_7073.txt",
+    "doc_7072.txt",
+    "doc_7076.txt",
+    "doc_7071.txt",
+    "doc_7078.txt"
+  ]
+}

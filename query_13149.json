@@ -1,0 +1,10 @@
+{
+  "query": "Which European Union countries have already taken legislative moves towards introducing a financial transactions tax?",
+  "response": [
+    "doc_23060.txt",
+    "doc_15442.txt",
+    "doc_26809.txt",
+    "doc_7150.txt",
+    "doc_15443.txt"
+  ]
+}

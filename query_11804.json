@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the company founded by Meyer de Wolfe?",
+  "response": [
+    "doc_13889.txt",
+    "doc_707.txt",
+    "doc_17409.txt",
+    "doc_27504.txt",
+    "doc_27500.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What year was the film *Pearl Earring* released?",
+  "response": [
+    "doc_18731.txt",
+    "doc_18882.txt",
+    "doc_21588.txt",
+    "doc_21587.txt",
+    "doc_21589.txt"
+  ]
+}

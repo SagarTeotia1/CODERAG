@@ -1,0 +1,10 @@
+{
+  "query": "What specific project is the Commission currently undertaking as part of the European Transparency Initiative’s implementation?",
+  "response": [
+    "doc_15992.txt",
+    "doc_7642.txt",
+    "doc_30409.txt",
+    "doc_14370.txt",
+    "doc_5264.txt"
+  ]
+}

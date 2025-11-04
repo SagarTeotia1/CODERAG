@@ -1,0 +1,10 @@
+{
+  "query": "Which university did the 1916 Kentucky Wildcats football team represent?",
+  "response": [
+    "doc_19110.txt",
+    "doc_26395.txt",
+    "doc_38294.txt",
+    "doc_29206.txt",
+    "doc_26394.txt"
+  ]
+}

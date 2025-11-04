@@ -1,0 +1,10 @@
+{
+  "query": "Who is Mark Hayward?",
+  "response": [
+    "doc_35524.txt",
+    "doc_34285.txt",
+    "doc_4920.txt",
+    "doc_4923.txt",
+    "doc_4921.txt"
+  ]
+}

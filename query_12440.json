@@ -1,0 +1,10 @@
+{
+  "query": "Which actors starred as Fu Manchu in “The Brides of Fu Manchu”?",
+  "response": [
+    "doc_21287.txt",
+    "doc_21286.txt",
+    "doc_24988.txt",
+    "doc_24999.txt",
+    "doc_8354.txt"
+  ]
+}

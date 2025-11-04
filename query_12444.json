@@ -1,0 +1,10 @@
+{
+  "query": "Which actor played Dr. Fu Manchu in the 1929 film “The Mysterious Dr. Fu Manchu”?",
+  "response": [
+    "doc_24988.txt",
+    "doc_24999.txt",
+    "doc_24997.txt",
+    "doc_24991.txt",
+    "doc_24993.txt"
+  ]
+}

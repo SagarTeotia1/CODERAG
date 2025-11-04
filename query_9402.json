@@ -1,0 +1,10 @@
+{
+  "query": "Which composer wrote the song “All I Ask of You”?",
+  "response": [
+    "doc_22851.txt",
+    "doc_3429.txt",
+    "doc_9650.txt",
+    "doc_3118.txt",
+    "doc_9649.txt"
+  ]
+}

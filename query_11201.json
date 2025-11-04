@@ -1,0 +1,10 @@
+{
+  "query": "Which wrestling brands participated in the One Night Stand (2008) event?",
+  "response": [
+    "doc_18091.txt",
+    "doc_18090.txt",
+    "doc_19165.txt",
+    "doc_18347.txt",
+    "doc_15036.txt"
+  ]
+}

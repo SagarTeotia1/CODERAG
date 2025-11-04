@@ -1,0 +1,10 @@
+{
+  "query": "What city is the location of the New Hampshire Union Leader newspaper?",
+  "response": [
+    "doc_37757.txt",
+    "doc_37762.txt",
+    "doc_36391.txt",
+    "doc_37760.txt",
+    "doc_37758.txt"
+  ]
+}

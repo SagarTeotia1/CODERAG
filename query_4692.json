@@ -1,0 +1,10 @@
+{
+  "query": "When did Vincent van Gogh voluntarily enter the Saint-Paul asylum?",
+  "response": [
+    "doc_3847.txt",
+    "doc_3846.txt",
+    "doc_30082.txt",
+    "doc_30085.txt",
+    "doc_30080.txt"
+  ]
+}

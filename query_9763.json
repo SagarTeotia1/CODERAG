@@ -1,0 +1,10 @@
+{
+  "query": "How did Brendan Steele win the tournament?",
+  "response": [
+    "doc_35043.txt",
+    "doc_14605.txt",
+    "doc_14703.txt",
+    "doc_35042.txt",
+    "doc_1313.txt"
+  ]
+}

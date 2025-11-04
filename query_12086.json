@@ -1,0 +1,10 @@
+{
+  "query": "In what country is the Centrum Badania Opinii Społecznej (CBOS) located?",
+  "response": [
+    "doc_20381.txt",
+    "doc_38721.txt",
+    "doc_14284.txt",
+    "doc_31569.txt",
+    "doc_34656.txt"
+  ]
+}

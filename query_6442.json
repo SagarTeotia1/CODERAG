@@ -1,0 +1,10 @@
+{
+  "query": "Which actor portrayed Tupac Shakur in the film “Until the End of Time”?",
+  "response": [
+    "doc_6437.txt",
+    "doc_6436.txt",
+    "doc_16672.txt",
+    "doc_1163.txt",
+    "doc_31779.txt"
+  ]
+}

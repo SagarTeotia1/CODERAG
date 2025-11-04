@@ -1,0 +1,10 @@
+{
+  "query": "According to the Barilla Centre for Food and Nutrition, what percentage of global greenhouse gas emissions is attributed to farming?",
+  "response": [
+    "doc_10183.txt",
+    "doc_21257.txt",
+    "doc_25916.txt",
+    "doc_21258.txt",
+    "doc_24511.txt"
+  ]
+}

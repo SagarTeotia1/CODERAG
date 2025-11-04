@@ -1,0 +1,10 @@
+{
+  "query": "How many books did Chelangatt Gopalakrishnan write about cinema?",
+  "response": [
+    "doc_13524.txt",
+    "doc_6060.txt",
+    "doc_5213.txt",
+    "doc_6997.txt",
+    "doc_6059.txt"
+  ]
+}

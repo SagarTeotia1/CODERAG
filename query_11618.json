@@ -1,0 +1,10 @@
+{
+  "query": "What was the title of the 2002 Grand Prize winner in the Pillsbury Bake-Off?",
+  "response": [
+    "doc_19229.txt",
+    "doc_25253.txt",
+    "doc_18996.txt",
+    "doc_18997.txt",
+    "doc_19001.txt"
+  ]
+}

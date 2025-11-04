@@ -1,0 +1,10 @@
+{
+  "query": "What show does the person hosting “The Midnight Hour” host?",
+  "response": [
+    "doc_27868.txt",
+    "doc_27869.txt",
+    "doc_27867.txt",
+    "doc_7825.txt",
+    "doc_27870.txt"
+  ]
+}

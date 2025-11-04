@@ -1,0 +1,10 @@
+{
+  "query": "What event occurred in Oaxaca in December, prompting the planned visit?",
+  "response": [
+    "doc_27603.txt",
+    "doc_40293.txt",
+    "doc_24012.txt",
+    "doc_27607.txt",
+    "doc_27612.txt"
+  ]
+}

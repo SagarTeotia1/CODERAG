@@ -1,0 +1,10 @@
+{
+  "query": "What type of courts were used for the Dubai Tennis Championships?",
+  "response": [
+    "doc_11106.txt",
+    "doc_8671.txt",
+    "doc_8356.txt",
+    "doc_31945.txt",
+    "doc_38944.txt"
+  ]
+}

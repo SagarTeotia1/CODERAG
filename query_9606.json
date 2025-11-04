@@ -1,0 +1,10 @@
+{
+  "query": "What specific EU mechanism was established to provide assistance in case of accidental marine pollution, and what is its source?",
+  "response": [
+    "doc_21905.txt",
+    "doc_18475.txt",
+    "doc_17099.txt",
+    "doc_37228.txt",
+    "doc_31747.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to Mr. Dimas, which level of government primarily determines forest policy within the EU?",
+  "response": [
+    "doc_23184.txt",
+    "doc_4843.txt",
+    "doc_23164.txt",
+    "doc_22750.txt",
+    "doc_2171.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What language is required for delivery notes when ready-mix concrete is transported from Germany to France?",
+  "response": [
+    "doc_36140.txt",
+    "doc_3876.txt",
+    "doc_28124.txt",
+    "doc_37997.txt",
+    "doc_22217.txt"
+  ]
+}

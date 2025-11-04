@@ -1,0 +1,10 @@
+{
+  "query": "How many total enrolled students were at Montclair State University as of October 2015?",
+  "response": [
+    "doc_24637.txt",
+    "doc_24638.txt",
+    "doc_25800.txt",
+    "doc_30946.txt",
+    "doc_17797.txt"
+  ]
+}

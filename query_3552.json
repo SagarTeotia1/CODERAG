@@ -1,0 +1,10 @@
+{
+  "query": "Who directed the 1992 American Western film mentioned in the passage?",
+  "response": [
+    "doc_35861.txt",
+    "doc_39831.txt",
+    "doc_39826.txt",
+    "doc_39830.txt",
+    "doc_39825.txt"
+  ]
+}

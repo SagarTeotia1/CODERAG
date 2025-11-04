@@ -1,0 +1,10 @@
+{
+  "query": "What was the total amount of carrier costs calculated by the Commission, and how was it used to determine the estimated cost per ticket?",
+  "response": [
+    "doc_28924.txt",
+    "doc_3809.txt",
+    "doc_37999.txt",
+    "doc_35596.txt",
+    "doc_33943.txt"
+  ]
+}

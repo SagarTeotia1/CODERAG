@@ -1,0 +1,10 @@
+{
+  "query": "What day was declared “Bar-Kays Day” and in what year?",
+  "response": [
+    "doc_26056.txt",
+    "doc_26050.txt",
+    "doc_23090.txt",
+    "doc_12650.txt",
+    "doc_12653.txt"
+  ]
+}

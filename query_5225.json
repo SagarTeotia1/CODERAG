@@ -1,0 +1,10 @@
+{
+  "query": "Which actors were among those who paid their respects at Muhammad Ali’s funeral?",
+  "response": [
+    "doc_3949.txt",
+    "doc_5809.txt",
+    "doc_5808.txt",
+    "doc_5818.txt",
+    "doc_25592.txt"
+  ]
+}

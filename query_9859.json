@@ -1,0 +1,10 @@
+{
+  "query": "This Mexican spirit is obtained by distilling pulque.",
+  "response": [
+    "doc_14853.txt",
+    "doc_14852.txt",
+    "doc_14851.txt",
+    "doc_17184.txt",
+    "doc_2497.txt"
+  ]
+}

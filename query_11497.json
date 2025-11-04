@@ -1,0 +1,10 @@
+{
+  "query": "What geographic feature divides the eastern and western lowlands regions of South America according to the text?",
+  "response": [
+    "doc_18840.txt",
+    "doc_19096.txt",
+    "doc_18841.txt",
+    "doc_24844.txt",
+    "doc_24845.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What degree did Jaquay receive in 1990?",
+  "response": [
+    "doc_8756.txt",
+    "doc_32262.txt",
+    "doc_32261.txt",
+    "doc_8755.txt",
+    "doc_40033.txt"
+  ]
+}

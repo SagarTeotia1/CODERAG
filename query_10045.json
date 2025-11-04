@@ -1,0 +1,10 @@
+{
+  "query": "Where was the Fagus factory building located?",
+  "response": [
+    "doc_15265.txt",
+    "doc_15263.txt",
+    "doc_15264.txt",
+    "doc_15269.txt",
+    "doc_15267.txt"
+  ]
+}

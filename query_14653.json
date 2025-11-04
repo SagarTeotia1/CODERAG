@@ -1,0 +1,10 @@
+{
+  "query": "What city became famous as the capital of Zenobia?",
+  "response": [
+    "doc_18072.txt",
+    "doc_18067.txt",
+    "doc_18066.txt",
+    "doc_30010.txt",
+    "doc_30009.txt"
+  ]
+}

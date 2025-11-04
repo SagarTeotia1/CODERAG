@@ -1,0 +1,10 @@
+{
+  "query": "Which Dutch association football club recorded a 5-1 victory against Liverpool in 1966, and who captained that side?",
+  "response": [
+    "doc_23918.txt",
+    "doc_26136.txt",
+    "doc_30679.txt",
+    "doc_10653.txt",
+    "doc_23919.txt"
+  ]
+}

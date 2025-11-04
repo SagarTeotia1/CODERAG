@@ -1,0 +1,10 @@
+{
+  "query": "According to the Commission, what qualifies as a renewable energy source regarding tallow?",
+  "response": [
+    "doc_40086.txt",
+    "doc_22941.txt",
+    "doc_40085.txt",
+    "doc_23135.txt",
+    "doc_22058.txt"
+  ]
+}

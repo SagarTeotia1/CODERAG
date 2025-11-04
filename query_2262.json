@@ -1,0 +1,10 @@
+{
+  "query": "What specific action can the Commission advise to clean up rivers in urban areas prone to flooding?",
+  "response": [
+    "doc_32877.txt",
+    "doc_10502.txt",
+    "doc_7831.txt",
+    "doc_38978.txt",
+    "doc_20997.txt"
+  ]
+}

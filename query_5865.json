@@ -1,0 +1,10 @@
+{
+  "query": "According to the FT.com article, what percentage did Cathay Pacific’s download times decrease after deploying Akamai solutions?",
+  "response": [
+    "doc_5035.txt",
+    "doc_5034.txt",
+    "doc_9781.txt",
+    "doc_3408.txt",
+    "doc_3405.txt"
+  ]
+}

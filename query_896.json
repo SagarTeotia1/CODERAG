@@ -1,0 +1,10 @@
+{
+  "query": "Where do people often attend Rocky Horror screenings?",
+  "response": [
+    "doc_29529.txt",
+    "doc_29527.txt",
+    "doc_29528.txt",
+    "doc_7696.txt",
+    "doc_29525.txt"
+  ]
+}

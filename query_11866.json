@@ -1,0 +1,10 @@
+{
+  "query": "When were the 1928 Winter Olympics held, and in what location?",
+  "response": [
+    "doc_1918.txt",
+    "doc_1919.txt",
+    "doc_18105.txt",
+    "doc_7254.txt",
+    "doc_7253.txt"
+  ]
+}

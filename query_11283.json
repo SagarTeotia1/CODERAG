@@ -1,0 +1,10 @@
+{
+  "query": "When was a cricket match played by the Buenos Aires Cricket & Rugby Club?",
+  "response": [
+    "doc_8707.txt",
+    "doc_19271.txt",
+    "doc_19276.txt",
+    "doc_4065.txt",
+    "doc_8355.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Every year in the European Union on average, how many hectares of forests are burnt?",
+  "response": [
+    "doc_644.txt",
+    "doc_23184.txt",
+    "doc_4843.txt",
+    "doc_26060.txt",
+    "doc_3588.txt"
+  ]
+}

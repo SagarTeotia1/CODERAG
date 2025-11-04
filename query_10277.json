@@ -1,0 +1,10 @@
+{
+  "query": "What was the vote count regarding the report on the outcome of the WTO’s Hong Kong ministerial conference?",
+  "response": [
+    "doc_4107.txt",
+    "doc_1551.txt",
+    "doc_17342.txt",
+    "doc_30848.txt",
+    "doc_22894.txt"
+  ]
+}

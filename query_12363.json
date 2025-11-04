@@ -1,0 +1,10 @@
+{
+  "query": "What specific action is the passage urging the Dutch enforcement authorities to take regarding the discriminatory website?",
+  "response": [
+    "doc_21044.txt",
+    "doc_21045.txt",
+    "doc_4422.txt",
+    "doc_20898.txt",
+    "doc_29746.txt"
+  ]
+}

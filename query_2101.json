@@ -1,0 +1,10 @@
+{
+  "query": "Which city in Germany awards the Hans Fallada Prize, and when was it established?",
+  "response": [
+    "doc_32462.txt",
+    "doc_15264.txt",
+    "doc_15266.txt",
+    "doc_15265.txt",
+    "doc_39583.txt"
+  ]
+}

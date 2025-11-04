@@ -1,0 +1,10 @@
+{
+  "query": "What action is the questioner requesting from the Commission regarding the blocked website and the author’s rights?",
+  "response": [
+    "doc_400.txt",
+    "doc_27193.txt",
+    "doc_19367.txt",
+    "doc_21044.txt",
+    "doc_11938.txt"
+  ]
+}

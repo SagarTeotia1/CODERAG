@@ -1,0 +1,10 @@
+{
+  "query": "What types of items are sold at the New Era Gift Shop?",
+  "response": [
+    "doc_31105.txt",
+    "doc_31106.txt",
+    "doc_31108.txt",
+    "doc_20243.txt",
+    "doc_10455.txt"
+  ]
+}

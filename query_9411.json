@@ -1,0 +1,10 @@
+{
+  "query": "Why did Aer Lingus reject Ryanair’s offer?",
+  "response": [
+    "doc_19790.txt",
+    "doc_9770.txt",
+    "doc_21450.txt",
+    "doc_19789.txt",
+    "doc_9776.txt"
+  ]
+}

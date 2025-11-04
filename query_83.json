@@ -1,0 +1,10 @@
+{
+  "query": "What was Pliny the Elder’s original name, and where was he born?",
+  "response": [
+    "doc_27507.txt",
+    "doc_27506.txt",
+    "doc_27508.txt",
+    "doc_27509.txt",
+    "doc_27510.txt"
+  ]
+}

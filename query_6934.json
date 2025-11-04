@@ -1,0 +1,10 @@
+{
+  "query": "What specific action plan did the European Union initiate regarding energy policy?",
+  "response": [
+    "doc_18752.txt",
+    "doc_18749.txt",
+    "doc_5280.txt",
+    "doc_38002.txt",
+    "doc_25651.txt"
+  ]
+}

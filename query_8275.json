@@ -1,0 +1,10 @@
+{
+  "query": "Which organization’s ranks were mentioned in relation to Fifa’s national team rankings?",
+  "response": [
+    "doc_25343.txt",
+    "doc_26376.txt",
+    "doc_26375.txt",
+    "doc_25345.txt",
+    "doc_26374.txt"
+  ]
+}

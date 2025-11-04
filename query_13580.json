@@ -1,0 +1,9 @@
+{
+  "query": "What did William announce during VOA’s first broadcast on February 24, 1942?",
+  "response": [
+    "doc_24090.txt",
+    "doc_24092.txt",
+    "doc_24091.txt",
+    "doc_24089.txt"
+  ]
+}

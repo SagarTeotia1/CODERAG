@@ -1,0 +1,10 @@
+{
+  "query": "Who received the 1952 Nobel Prize for Peace?",
+  "response": [
+    "doc_437.txt",
+    "doc_436.txt",
+    "doc_440.txt",
+    "doc_445.txt",
+    "doc_443.txt"
+  ]
+}

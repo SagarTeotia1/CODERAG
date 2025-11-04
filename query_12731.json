@@ -1,0 +1,10 @@
+{
+  "query": "Which Vice-President is scheduled to speak at the Exchange of Views regarding the High-Level Group on Gender Equality and Diversity?",
+  "response": [
+    "doc_28313.txt",
+    "doc_24490.txt",
+    "doc_28315.txt",
+    "doc_28311.txt",
+    "doc_19564.txt"
+  ]
+}

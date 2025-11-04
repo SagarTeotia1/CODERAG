@@ -1,0 +1,10 @@
+{
+  "query": "Where did Mr. Heed spend eight years as a teacher?",
+  "response": [
+    "doc_35713.txt",
+    "doc_35714.txt",
+    "doc_9958.txt",
+    "doc_9953.txt",
+    "doc_9957.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What change did Playboy make in 2016 regarding its Playmate selection?",
+  "response": [
+    "doc_40036.txt",
+    "doc_40037.txt",
+    "doc_40034.txt",
+    "doc_40035.txt",
+    "doc_14219.txt"
+  ]
+}

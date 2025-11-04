@@ -1,0 +1,10 @@
+{
+  "query": "What types of media are searchable through the Washington County Library Catalog (specifically, the links provided)?",
+  "response": [
+    "doc_32339.txt",
+    "doc_32340.txt",
+    "doc_32341.txt",
+    "doc_22113.txt",
+    "doc_4632.txt"
+  ]
+}

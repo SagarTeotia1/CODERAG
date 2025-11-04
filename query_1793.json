@@ -1,0 +1,10 @@
+{
+  "query": "How many Indian farmers have used the RML AgTech service?",
+  "response": [
+    "doc_31662.txt",
+    "doc_27775.txt",
+    "doc_22802.txt",
+    "doc_38072.txt",
+    "doc_26305.txt"
+  ]
+}

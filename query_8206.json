@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how many people lived on Pitcairn Island in the 1760s?",
+  "response": [
+    "doc_10932.txt",
+    "doc_9113.txt",
+    "doc_9114.txt",
+    "doc_9119.txt",
+    "doc_9118.txt"
+  ]
+}

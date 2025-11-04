@@ -1,0 +1,10 @@
+{
+  "query": "What is the Council’s position regarding the deliberations of the Intergovernmental Conference?",
+  "response": [
+    "doc_22798.txt",
+    "doc_8606.txt",
+    "doc_8173.txt",
+    "doc_37604.txt",
+    "doc_31333.txt"
+  ]
+}

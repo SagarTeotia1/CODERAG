@@ -1,0 +1,10 @@
+{
+  "query": "How many national titles have the Wisconsin–River Falls Falcons won?",
+  "response": [
+    "doc_21539.txt",
+    "doc_14703.txt",
+    "doc_38743.txt",
+    "doc_38740.txt",
+    "doc_22163.txt"
+  ]
+}

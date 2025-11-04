@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Allison Roe set a world best woman marathon time?",
+  "response": [
+    "doc_18605.txt",
+    "doc_16067.txt",
+    "doc_18606.txt",
+    "doc_31478.txt",
+    "doc_16068.txt"
+  ]
+}

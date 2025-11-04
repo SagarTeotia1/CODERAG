@@ -1,0 +1,10 @@
+{
+  "query": "Which Member States have invoked the three-year extension regarding boiler inspections?",
+  "response": [
+    "doc_1445.txt",
+    "doc_20220.txt",
+    "doc_35899.txt",
+    "doc_17529.txt",
+    "doc_24952.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of chief executives surveyed believe the burden of EU regulation is increasing?",
+  "response": [
+    "doc_19786.txt",
+    "doc_19960.txt",
+    "doc_20195.txt",
+    "doc_40147.txt",
+    "doc_12593.txt"
+  ]
+}

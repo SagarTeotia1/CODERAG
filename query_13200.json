@@ -1,0 +1,10 @@
+{
+  "query": "What television sitcom featured Casey Wilson as the character Penny Hartz?",
+  "response": [
+    "doc_28511.txt",
+    "doc_26966.txt",
+    "doc_28514.txt",
+    "doc_7368.txt",
+    "doc_28870.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Who directed the film “How to Make an American Quilt”?",
+  "response": [
+    "doc_30791.txt",
+    "doc_32057.txt",
+    "doc_32059.txt",
+    "doc_2182.txt",
+    "doc_11650.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was the combined volume of foreign direct investment between Japan and the EU in 2009?",
+  "response": [
+    "doc_753.txt",
+    "doc_6814.txt",
+    "doc_33349.txt",
+    "doc_752.txt",
+    "doc_755.txt"
+  ]
+}

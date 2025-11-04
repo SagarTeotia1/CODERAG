@@ -1,0 +1,10 @@
+{
+  "query": "Who founded the Rickenbacker company, and what was their notable past?",
+  "response": [
+    "doc_19758.txt",
+    "doc_19759.txt",
+    "doc_19768.txt",
+    "doc_19763.txt",
+    "doc_19762.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was Larry Harmon portraying in a specific example provided?",
+  "response": [
+    "doc_351.txt",
+    "doc_350.txt",
+    "doc_356.txt",
+    "doc_353.txt",
+    "doc_22487.txt"
+  ]
+}

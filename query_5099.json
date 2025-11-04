@@ -1,0 +1,10 @@
+{
+  "query": "What specific action is required of a data controller if they are not based in the European Union?",
+  "response": [
+    "doc_12780.txt",
+    "doc_33453.txt",
+    "doc_3006.txt",
+    "doc_3004.txt",
+    "doc_29269.txt"
+  ]
+}

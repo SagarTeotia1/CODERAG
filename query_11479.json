@@ -1,0 +1,10 @@
+{
+  "query": "What was the highest charting single released by Charlie Simpson?",
+  "response": [
+    "doc_18794.txt",
+    "doc_8234.txt",
+    "doc_8233.txt",
+    "doc_22663.txt",
+    "doc_25919.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Does the EU support projects for maintaining bird populations, including reintroduction projects for certain species?",
+  "response": [
+    "doc_20199.txt",
+    "doc_16493.txt",
+    "doc_30310.txt",
+    "doc_27760.txt",
+    "doc_36524.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What two specific EU commitments, if achieved by 2020, would enable the EU to surpass the 20% emission reduction target?",
+  "response": [
+    "doc_5280.txt",
+    "doc_25653.txt",
+    "doc_21239.txt",
+    "doc_15856.txt",
+    "doc_23312.txt"
+  ]
+}

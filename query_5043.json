@@ -1,0 +1,10 @@
+{
+  "query": "What is the European Parliament’s stance regarding the sale of food derived from cloned animals, specifically concerning their offspring and descendants?",
+  "response": [
+    "doc_39459.txt",
+    "doc_24839.txt",
+    "doc_30619.txt",
+    "doc_7125.txt",
+    "doc_4684.txt"
+  ]
+}

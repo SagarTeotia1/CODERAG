@@ -1,0 +1,10 @@
+{
+  "query": "Is Johnny Miller suggesting that golf already has a divisive analyst?",
+  "response": [
+    "doc_8911.txt",
+    "doc_35042.txt",
+    "doc_35037.txt",
+    "doc_35041.txt",
+    "doc_35926.txt"
+  ]
+}

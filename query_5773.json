@@ -1,0 +1,10 @@
+{
+  "query": "Where are Fusepoint’s offices located?",
+  "response": [
+    "doc_4806.txt",
+    "doc_4807.txt",
+    "doc_26975.txt",
+    "doc_18083.txt",
+    "doc_37671.txt"
+  ]
+}

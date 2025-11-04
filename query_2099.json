@@ -1,0 +1,10 @@
+{
+  "query": "What was the basis for the 1962 film “Jeder stirbt für sich allein”?",
+  "response": [
+    "doc_16723.txt",
+    "doc_20499.txt",
+    "doc_16720.txt",
+    "doc_17628.txt",
+    "doc_20708.txt"
+  ]
+}

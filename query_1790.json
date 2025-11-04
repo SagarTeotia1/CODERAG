@@ -1,0 +1,10 @@
+{
+  "query": "What are some of the payment channels supported by PayMate?",
+  "response": [
+    "doc_31656.txt",
+    "doc_10256.txt",
+    "doc_22240.txt",
+    "doc_31108.txt",
+    "doc_22244.txt"
+  ]
+}

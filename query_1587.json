@@ -1,0 +1,10 @@
+{
+  "query": "What is Thomas Kearins’ profession, and for which promotion does he primarily work?",
+  "response": [
+    "doc_32019.txt",
+    "doc_5108.txt",
+    "doc_4923.txt",
+    "doc_5106.txt",
+    "doc_32598.txt"
+  ]
+}

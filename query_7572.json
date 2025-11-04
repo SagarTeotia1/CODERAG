@@ -1,0 +1,10 @@
+{
+  "query": "Which race, associated with Sri Chinmoy, includes the phrase “All things come to him who waits” in its description?",
+  "response": [
+    "doc_9273.txt",
+    "doc_9735.txt",
+    "doc_9270.txt",
+    "doc_11683.txt",
+    "doc_9271.txt"
+  ]
+}

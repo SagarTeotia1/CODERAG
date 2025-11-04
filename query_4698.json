@@ -1,0 +1,10 @@
+{
+  "query": "How does the speed of an Andante compare to that of Adagio and Allegro?",
+  "response": [
+    "doc_38672.txt",
+    "doc_38673.txt",
+    "doc_8448.txt",
+    "doc_8447.txt",
+    "doc_14500.txt"
+  ]
+}

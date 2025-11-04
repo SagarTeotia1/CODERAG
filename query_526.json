@@ -1,0 +1,10 @@
+{
+  "query": "Who is Tom Kelly, and what is his role, as indicated in the provided texts?",
+  "response": [
+    "doc_39295.txt",
+    "doc_35990.txt",
+    "doc_4923.txt",
+    "doc_32596.txt",
+    "doc_32598.txt"
+  ]
+}

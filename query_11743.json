@@ -1,0 +1,10 @@
+{
+  "query": "According to the ECDPC, is Portugal one of the European countries with higher antimicrobial resistance rates?",
+  "response": [
+    "doc_19555.txt",
+    "doc_4989.txt",
+    "doc_15840.txt",
+    "doc_11394.txt",
+    "doc_11781.txt"
+  ]
+}

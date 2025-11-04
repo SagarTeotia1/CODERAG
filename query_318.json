@@ -1,0 +1,10 @@
+{
+  "query": "Which districts in Rhineland-Palatinate are listed in the passage?",
+  "response": [
+    "doc_39585.txt",
+    "doc_37033.txt",
+    "doc_34955.txt",
+    "doc_37032.txt",
+    "doc_39583.txt"
+  ]
+}

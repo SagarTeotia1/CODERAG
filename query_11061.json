@@ -1,0 +1,10 @@
+{
+  "query": "How many reindeer with the same name have been kept in Wasilla since 1962?",
+  "response": [
+    "doc_5557.txt",
+    "doc_17760.txt",
+    "doc_17761.txt",
+    "doc_17757.txt",
+    "doc_5556.txt"
+  ]
+}

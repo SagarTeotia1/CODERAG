@@ -1,0 +1,10 @@
+{
+  "query": "What year was *The Cay* published?",
+  "response": [
+    "doc_3980.txt",
+    "doc_3979.txt",
+    "doc_3978.txt",
+    "doc_3976.txt",
+    "doc_36217.txt"
+  ]
+}

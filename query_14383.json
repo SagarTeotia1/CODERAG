@@ -1,0 +1,10 @@
+{
+  "query": "Which specific days of the month did the Ides fall on in March, May, July, and October?",
+  "response": [
+    "doc_26049.txt",
+    "doc_26048.txt",
+    "doc_26050.txt",
+    "doc_26057.txt",
+    "doc_5579.txt"
+  ]
+}

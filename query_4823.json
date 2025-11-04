@@ -1,0 +1,10 @@
+{
+  "query": "On what date did the first inauguration of George W. Bush occur?",
+  "response": [
+    "doc_27685.txt",
+    "doc_1724.txt",
+    "doc_38976.txt",
+    "doc_27687.txt",
+    "doc_11570.txt"
+  ]
+}

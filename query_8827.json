@@ -1,0 +1,10 @@
+{
+  "query": "What specific element from the film *Shadow of a Doubt* was later utilized in the *Scream* mask’s creation?",
+  "response": [
+    "doc_12378.txt",
+    "doc_7577.txt",
+    "doc_7579.txt",
+    "doc_34458.txt",
+    "doc_31147.txt"
+  ]
+}

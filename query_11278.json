@@ -1,0 +1,10 @@
+{
+  "query": "Which Damon Runyon story did *Pocketful of Miracles* adapt?",
+  "response": [
+    "doc_18320.txt",
+    "doc_18318.txt",
+    "doc_18324.txt",
+    "doc_18321.txt",
+    "doc_18323.txt"
+  ]
+}

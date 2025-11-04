@@ -1,0 +1,10 @@
+{
+  "query": "Who was the drummer associated with The Who?",
+  "response": [
+    "doc_34424.txt",
+    "doc_4205.txt",
+    "doc_4209.txt",
+    "doc_4210.txt",
+    "doc_4208.txt"
+  ]
+}

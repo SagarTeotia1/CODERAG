@@ -1,0 +1,10 @@
+{
+  "query": "What type of habitat was destroyed by the construction work in Playa Blanca?",
+  "response": [
+    "doc_37028.txt",
+    "doc_10189.txt",
+    "doc_35005.txt",
+    "doc_19072.txt",
+    "doc_37509.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is Kossar’s Bagels & Bialys known for, according to one of the linked articles?",
+  "response": [
+    "doc_4724.txt",
+    "doc_34028.txt",
+    "doc_32584.txt",
+    "doc_26208.txt",
+    "doc_34030.txt"
+  ]
+}

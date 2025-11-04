@@ -1,0 +1,10 @@
+{
+  "query": "During which months does the Musical Fountains Show occur?",
+  "response": [
+    "doc_26051.txt",
+    "doc_34223.txt",
+    "doc_26055.txt",
+    "doc_34220.txt",
+    "doc_26052.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Vice President George Bush and CBS News anchor Dan Rather engage in a shouting match on live television?",
+  "response": [
+    "doc_19913.txt",
+    "doc_19914.txt",
+    "doc_19917.txt",
+    "doc_19915.txt",
+    "doc_7934.txt"
+  ]
+}

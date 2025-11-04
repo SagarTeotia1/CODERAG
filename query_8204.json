@@ -1,0 +1,10 @@
+{
+  "query": "According to one passage, what is a notable characteristic of the skies in the Atacama desert?",
+  "response": [
+    "doc_17703.txt",
+    "doc_17616.txt",
+    "doc_577.txt",
+    "doc_10029.txt",
+    "doc_1623.txt"
+  ]
+}

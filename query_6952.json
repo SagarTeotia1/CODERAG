@@ -1,0 +1,10 @@
+{
+  "query": "In what year did The Ohio State University first award master’s and doctoral degrees?",
+  "response": [
+    "doc_7716.txt",
+    "doc_7714.txt",
+    "doc_17797.txt",
+    "doc_7715.txt",
+    "doc_35776.txt"
+  ]
+}

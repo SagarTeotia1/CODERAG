@@ -1,0 +1,10 @@
+{
+  "query": "In what year was Finnmark University College established?",
+  "response": [
+    "doc_4115.txt",
+    "doc_4114.txt",
+    "doc_22376.txt",
+    "doc_22370.txt",
+    "doc_22371.txt"
+  ]
+}

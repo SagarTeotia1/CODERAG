@@ -1,0 +1,10 @@
+{
+  "query": "In 1985, what age was Boris Becker when he won Wimbledon?",
+  "response": [
+    "doc_30893.txt",
+    "doc_30899.txt",
+    "doc_30894.txt",
+    "doc_30896.txt",
+    "doc_30889.txt"
+  ]
+}

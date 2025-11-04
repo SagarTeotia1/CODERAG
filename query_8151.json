@@ -1,0 +1,10 @@
+{
+  "query": "What university is responsible for managing and operating IPFW?",
+  "response": [
+    "doc_10804.txt",
+    "doc_10803.txt",
+    "doc_10802.txt",
+    "doc_10801.txt",
+    "doc_10805.txt"
+  ]
+}

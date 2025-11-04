@@ -1,0 +1,10 @@
+{
+  "query": "Which influential figure founded the Staatliches Bauhaus in 1919?",
+  "response": [
+    "doc_15263.txt",
+    "doc_10054.txt",
+    "doc_15266.txt",
+    "doc_10052.txt",
+    "doc_10057.txt"
+  ]
+}

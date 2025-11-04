@@ -1,0 +1,10 @@
+{
+  "query": "When was Dome (東京ドーム) opened?",
+  "response": [
+    "doc_38217.txt",
+    "doc_38215.txt",
+    "doc_38219.txt",
+    "doc_38218.txt",
+    "doc_35010.txt"
+  ]
+}

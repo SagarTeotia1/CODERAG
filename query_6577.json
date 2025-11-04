@@ -1,0 +1,10 @@
+{
+  "query": "What is the Wyoming State Archives known for?",
+  "response": [
+    "doc_37.txt",
+    "doc_14086.txt",
+    "doc_28938.txt",
+    "doc_6184.txt",
+    "doc_6189.txt"
+  ]
+}

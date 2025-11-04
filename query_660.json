@@ -1,0 +1,10 @@
+{
+  "query": "What is the primary responsibility of the National Counterterrorism Center (NCTC)?",
+  "response": [
+    "doc_732.txt",
+    "doc_731.txt",
+    "doc_733.txt",
+    "doc_27071.txt",
+    "doc_27070.txt"
+  ]
+}

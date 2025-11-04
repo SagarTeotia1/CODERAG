@@ -1,0 +1,10 @@
+{
+  "query": "In 1902, Joseph F. Smith ran for president as a member of which political party?",
+  "response": [
+    "doc_1875.txt",
+    "doc_1876.txt",
+    "doc_32502.txt",
+    "doc_32500.txt",
+    "doc_1874.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Who wrote the poem “In Flanders Fields”?",
+  "response": [
+    "doc_3440.txt",
+    "doc_3441.txt",
+    "doc_3443.txt",
+    "doc_3442.txt",
+    "doc_3444.txt"
+  ]
+}

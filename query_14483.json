@@ -1,0 +1,10 @@
+{
+  "query": "In what year was Hattie McDaniel’s role as “Mom Beck” in *The Little Colonel* released?",
+  "response": [
+    "doc_26326.txt",
+    "doc_26325.txt",
+    "doc_26324.txt",
+    "doc_26327.txt",
+    "doc_26321.txt"
+  ]
+}

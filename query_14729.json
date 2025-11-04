@@ -1,0 +1,10 @@
+{
+  "query": "What international partnership was approved by the Brussels European Council in 2008?",
+  "response": [
+    "doc_7596.txt",
+    "doc_30845.txt",
+    "doc_26886.txt",
+    "doc_37906.txt",
+    "doc_30844.txt"
+  ]
+}

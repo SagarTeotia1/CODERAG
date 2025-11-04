@@ -1,0 +1,10 @@
+{
+  "query": "What voltage and frequency does the track at Maroggia-Melano station use?",
+  "response": [
+    "doc_10191.txt",
+    "doc_21741.txt",
+    "doc_27339.txt",
+    "doc_22706.txt",
+    "doc_17563.txt"
+  ]
+}

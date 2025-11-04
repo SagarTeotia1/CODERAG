@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the village that became Carondelet founded?",
+  "response": [
+    "doc_31458.txt",
+    "doc_9403.txt",
+    "doc_8216.txt",
+    "doc_20190.txt",
+    "doc_20191.txt"
+  ]
+}

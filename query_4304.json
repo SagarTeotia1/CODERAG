@@ -1,0 +1,10 @@
+{
+  "query": "What is the approximate radius of the sea-sleds Curtiss is working on?",
+  "response": [
+    "doc_37665.txt",
+    "doc_27207.txt",
+    "doc_28503.txt",
+    "doc_27206.txt",
+    "doc_19808.txt"
+  ]
+}

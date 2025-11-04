@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the book comprised of writings by Peter Bogdanovich, initially published in *Esquire*?",
+  "response": [
+    "doc_23687.txt",
+    "doc_3326.txt",
+    "doc_3332.txt",
+    "doc_3328.txt",
+    "doc_3331.txt"
+  ]
+}

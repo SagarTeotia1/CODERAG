@@ -1,0 +1,10 @@
+{
+  "query": "When was Rosa Parks arrested for violating the bus segregation law?",
+  "response": [
+    "doc_5148.txt",
+    "doc_5147.txt",
+    "doc_5141.txt",
+    "doc_5140.txt",
+    "doc_5144.txt"
+  ]
+}

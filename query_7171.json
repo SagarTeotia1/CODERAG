@@ -1,0 +1,10 @@
+{
+  "query": "How many times has Fenerbahçe won the Turkish Super League?",
+  "response": [
+    "doc_8300.txt",
+    "doc_8301.txt",
+    "doc_14699.txt",
+    "doc_14726.txt",
+    "doc_29618.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When did Mark Twain begin writing *The Prince and the Pauper*?",
+  "response": [
+    "doc_21560.txt",
+    "doc_21561.txt",
+    "doc_31369.txt",
+    "doc_11041.txt",
+    "doc_31364.txt"
+  ]
+}

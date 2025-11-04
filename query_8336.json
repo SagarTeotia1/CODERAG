@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of the ODA disbursements in 2009 represented administrative costs, according to the passage?",
+  "response": [
+    "doc_11174.txt",
+    "doc_15536.txt",
+    "doc_15535.txt",
+    "doc_15537.txt",
+    "doc_15538.txt"
+  ]
+}

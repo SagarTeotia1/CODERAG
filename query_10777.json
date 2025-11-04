@@ -1,0 +1,10 @@
+{
+  "query": "What letter is the fourth letter of the Greek alphabet?",
+  "response": [
+    "doc_1687.txt",
+    "doc_1691.txt",
+    "doc_1690.txt",
+    "doc_1688.txt",
+    "doc_1693.txt"
+  ]
+}

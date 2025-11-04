@@ -1,0 +1,10 @@
+{
+  "query": "Who replaced Brian Winters as the head coach of the Grizzlies following his firing?",
+  "response": [
+    "doc_6897.txt",
+    "doc_25822.txt",
+    "doc_2741.txt",
+    "doc_10907.txt",
+    "doc_35927.txt"
+  ]
+}

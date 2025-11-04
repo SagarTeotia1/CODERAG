@@ -1,0 +1,10 @@
+{
+  "query": "What was Ernst Kaps’ profession and when was his company founded?",
+  "response": [
+    "doc_10759.txt",
+    "doc_15263.txt",
+    "doc_10760.txt",
+    "doc_15264.txt",
+    "doc_32901.txt"
+  ]
+}

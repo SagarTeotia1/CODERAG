@@ -1,0 +1,10 @@
+{
+  "query": "What types of amenities are offered at the Caribbea Bay Resort in Kariba, Zimbabwe (e.g., gift shops, pool sun loungers)?",
+  "response": [
+    "doc_16504.txt",
+    "doc_16503.txt",
+    "doc_16505.txt",
+    "doc_16506.txt",
+    "doc_16502.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of the total worldwide tuna catch is caught by French, Italian, and Spanish boats?",
+  "response": [
+    "doc_7428.txt",
+    "doc_7427.txt",
+    "doc_17579.txt",
+    "doc_28594.txt",
+    "doc_3168.txt"
+  ]
+}

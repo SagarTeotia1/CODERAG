@@ -1,0 +1,10 @@
+{
+  "query": "When was the Jefferson National Expansion Memorial completed?",
+  "response": [
+    "doc_16058.txt",
+    "doc_16055.txt",
+    "doc_16064.txt",
+    "doc_16059.txt",
+    "doc_16056.txt"
+  ]
+}

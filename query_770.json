@@ -1,0 +1,10 @@
+{
+  "query": "What specific paint defects were reported on 2000-2005 Ford models, as described in a service bulletin?",
+  "response": [
+    "doc_29017.txt",
+    "doc_29027.txt",
+    "doc_29018.txt",
+    "doc_29019.txt",
+    "doc_29021.txt"
+  ]
+}

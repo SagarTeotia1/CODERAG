@@ -1,0 +1,10 @@
+{
+  "query": "What was the result of Mike McDonald’s takeover of the club?",
+  "response": [
+    "doc_10655.txt",
+    "doc_16759.txt",
+    "doc_1313.txt",
+    "doc_1310.txt",
+    "doc_36669.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What racing series was the Ligier JS P2 designed for?",
+  "response": [
+    "doc_17225.txt",
+    "doc_17224.txt",
+    "doc_15193.txt",
+    "doc_12275.txt",
+    "doc_11901.txt"
+  ]
+}

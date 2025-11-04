@@ -1,0 +1,10 @@
+{
+  "query": "In what film did Lana Del Rey play Lisa, a rich girl spending her days by the pool?",
+  "response": [
+    "doc_378.txt",
+    "doc_16985.txt",
+    "doc_379.txt",
+    "doc_377.txt",
+    "doc_16986.txt"
+  ]
+}

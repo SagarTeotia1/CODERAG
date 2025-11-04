@@ -1,0 +1,10 @@
+{
+  "query": "In what year did the Omaha’s Henry Doorly Zoo and Aquarium construct the world’s largest desert dome?",
+  "response": [
+    "doc_37950.txt",
+    "doc_29633.txt",
+    "doc_3458.txt",
+    "doc_3459.txt",
+    "doc_37949.txt"
+  ]
+}

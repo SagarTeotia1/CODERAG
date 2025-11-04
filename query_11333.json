@@ -1,0 +1,10 @@
+{
+  "query": "What features are available for the front seats of the 2010 Subaru Legacy?",
+  "response": [
+    "doc_18444.txt",
+    "doc_18443.txt",
+    "doc_18448.txt",
+    "doc_18446.txt",
+    "doc_18442.txt"
+  ]
+}

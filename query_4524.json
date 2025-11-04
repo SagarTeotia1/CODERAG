@@ -1,0 +1,10 @@
+{
+  "query": "What was Hubert Humphrey’s father’s profession?",
+  "response": [
+    "doc_38206.txt",
+    "doc_38207.txt",
+    "doc_38205.txt",
+    "doc_20433.txt",
+    "doc_20435.txt"
+  ]
+}

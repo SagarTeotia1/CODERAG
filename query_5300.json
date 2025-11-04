@@ -1,0 +1,10 @@
+{
+  "query": "How many times has Valentin Chmerkovskiy won a U.S. National Latin Dance championship?",
+  "response": [
+    "doc_40010.txt",
+    "doc_31889.txt",
+    "doc_32975.txt",
+    "doc_31895.txt",
+    "doc_6301.txt"
+  ]
+}

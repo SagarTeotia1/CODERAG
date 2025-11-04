@@ -1,0 +1,10 @@
+{
+  "query": "Who approved a search conducted by a Snohomish County Superior Court judge?",
+  "response": [
+    "doc_4073.txt",
+    "doc_6253.txt",
+    "doc_38784.txt",
+    "doc_28476.txt",
+    "doc_70.txt"
+  ]
+}

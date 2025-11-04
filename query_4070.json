@@ -1,0 +1,10 @@
+{
+  "query": "Where did filming take place for *The Rat Race*?",
+  "response": [
+    "doc_33011.txt",
+    "doc_33012.txt",
+    "doc_33007.txt",
+    "doc_33004.txt",
+    "doc_33008.txt"
+  ]
+}

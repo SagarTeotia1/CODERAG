@@ -1,0 +1,10 @@
+{
+  "query": "Who was Ka'ab al-Ahbar telling a story to?",
+  "response": [
+    "doc_10563.txt",
+    "doc_10562.txt",
+    "doc_10564.txt",
+    "doc_10565.txt",
+    "doc_12130.txt"
+  ]
+}

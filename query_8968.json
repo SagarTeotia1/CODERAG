@@ -1,0 +1,10 @@
+{
+  "query": "What types of documents can the President of the Court of Auditors present to Parliament?",
+  "response": [
+    "doc_13606.txt",
+    "doc_12769.txt",
+    "doc_13605.txt",
+    "doc_29319.txt",
+    "doc_13607.txt"
+  ]
+}

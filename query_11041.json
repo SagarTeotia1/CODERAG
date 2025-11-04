@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the CBE Hall of Fame Classic founded?",
+  "response": [
+    "doc_35043.txt",
+    "doc_35045.txt",
+    "doc_38741.txt",
+    "doc_35039.txt",
+    "doc_35044.txt"
+  ]
+}

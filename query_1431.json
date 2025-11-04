@@ -1,0 +1,10 @@
+{
+  "query": "What type of radio station is DYLS-FM described as being in Cebu City?",
+  "response": [
+    "doc_40276.txt",
+    "doc_38285.txt",
+    "doc_40280.txt",
+    "doc_40273.txt",
+    "doc_40277.txt"
+  ]
+}

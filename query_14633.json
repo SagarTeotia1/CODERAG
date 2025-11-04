@@ -1,0 +1,10 @@
+{
+  "query": "What did the Commission state regarding funding for Perugia in 2000?",
+  "response": [
+    "doc_26679.txt",
+    "doc_29811.txt",
+    "doc_20407.txt",
+    "doc_37968.txt",
+    "doc_33631.txt"
+  ]
+}

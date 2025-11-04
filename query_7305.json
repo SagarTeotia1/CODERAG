@@ -1,0 +1,10 @@
+{
+  "query": "What types of materials were donated to the Kent State University Libraries related to crime?",
+  "response": [
+    "doc_4931.txt",
+    "doc_10075.txt",
+    "doc_4925.txt",
+    "doc_4929.txt",
+    "doc_21302.txt"
+  ]
+}

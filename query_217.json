@@ -1,0 +1,10 @@
+{
+  "query": "Which Lerner & Loewe musicals are mentioned in the passage?",
+  "response": [
+    "doc_27823.txt",
+    "doc_27821.txt",
+    "doc_3118.txt",
+    "doc_27824.txt",
+    "doc_11379.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What kind of webs does the spider, Charlotte, spin?",
+  "response": [
+    "doc_18123.txt",
+    "doc_18128.txt",
+    "doc_18122.txt",
+    "doc_18129.txt",
+    "doc_18121.txt"
+  ]
+}

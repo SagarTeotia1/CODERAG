@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the Burgenland Bunch founded?",
+  "response": [
+    "doc_23046.txt",
+    "doc_34955.txt",
+    "doc_34957.txt",
+    "doc_23048.txt",
+    "doc_23053.txt"
+  ]
+}

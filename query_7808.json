@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided text, what is the elevation reached by the Palm Springs Aerial Tramway?",
+  "response": [
+    "doc_9859.txt",
+    "doc_9852.txt",
+    "doc_9851.txt",
+    "doc_9855.txt",
+    "doc_9857.txt"
+  ]
+}

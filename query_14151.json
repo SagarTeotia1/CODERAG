@@ -1,0 +1,10 @@
+{
+  "query": "What was the original Labrador Retriever’s primary purpose?",
+  "response": [
+    "doc_25424.txt",
+    "doc_25420.txt",
+    "doc_25421.txt",
+    "doc_25423.txt",
+    "doc_25425.txt"
+  ]
+}

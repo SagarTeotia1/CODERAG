@@ -1,0 +1,10 @@
+{
+  "query": "Which actors reprise their roles from previous “Star Trek” films in “Star Trek Beyond”?",
+  "response": [
+    "doc_19842.txt",
+    "doc_19841.txt",
+    "doc_35184.txt",
+    "doc_13202.txt",
+    "doc_35191.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what specific directive was adopted to combat discrimination following the Amsterdam Treaty?",
+  "response": [
+    "doc_7885.txt",
+    "doc_19822.txt",
+    "doc_36236.txt",
+    "doc_25180.txt",
+    "doc_25749.txt"
+  ]
+}

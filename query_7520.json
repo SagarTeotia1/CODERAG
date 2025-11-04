@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the Rosetta Stone discovered?",
+  "response": [
+    "doc_9130.txt",
+    "doc_9126.txt",
+    "doc_9127.txt",
+    "doc_9129.txt",
+    "doc_9128.txt"
+  ]
+}

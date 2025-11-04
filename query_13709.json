@@ -1,0 +1,10 @@
+{
+  "query": "What year did Mariah Carey reach number one?",
+  "response": [
+    "doc_38904.txt",
+    "doc_24353.txt",
+    "doc_24358.txt",
+    "doc_24355.txt",
+    "doc_173.txt"
+  ]
+}

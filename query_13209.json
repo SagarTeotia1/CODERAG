@@ -1,0 +1,10 @@
+{
+  "query": "What type of album is \"Besterberg: The Best of Paul Westerberg\"?",
+  "response": [
+    "doc_31618.txt",
+    "doc_32072.txt",
+    "doc_2481.txt",
+    "doc_36256.txt",
+    "doc_31616.txt"
+  ]
+}

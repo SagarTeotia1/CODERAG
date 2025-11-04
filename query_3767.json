@@ -1,0 +1,10 @@
+{
+  "query": "What was said about the chemistry between Macheath and Polly Peachum in *The Threepenny Opera*?",
+  "response": [
+    "doc_36379.txt",
+    "doc_36378.txt",
+    "doc_36383.txt",
+    "doc_36380.txt",
+    "doc_36385.txt"
+  ]
+}

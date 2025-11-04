@@ -1,0 +1,10 @@
+{
+  "query": "What was the primary aim of the ABC Fiction Award launched in 2005?",
+  "response": [
+    "doc_7285.txt",
+    "doc_133.txt",
+    "doc_17527.txt",
+    "doc_29854.txt",
+    "doc_4413.txt"
+  ]
+}

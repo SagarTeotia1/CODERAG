@@ -1,0 +1,10 @@
+{
+  "query": "What specific technologies are planned for a new office building in Luxembourg to generate electricity?",
+  "response": [
+    "doc_32978.txt",
+    "doc_37292.txt",
+    "doc_37291.txt",
+    "doc_38318.txt",
+    "doc_15395.txt"
+  ]
+}

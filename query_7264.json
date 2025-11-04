@@ -1,0 +1,10 @@
+{
+  "query": "What color is the \"Wild Iris\"?",
+  "response": [
+    "doc_8506.txt",
+    "doc_8507.txt",
+    "doc_13729.txt",
+    "doc_13730.txt",
+    "doc_13731.txt"
+  ]
+}

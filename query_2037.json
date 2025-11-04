@@ -1,0 +1,10 @@
+{
+  "query": "What was Francis Gary Powers’ role in the events of 1960?",
+  "response": [
+    "doc_5910.txt",
+    "doc_5911.txt",
+    "doc_5908.txt",
+    "doc_5912.txt",
+    "doc_5903.txt"
+  ]
+}

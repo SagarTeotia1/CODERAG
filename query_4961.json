@@ -1,0 +1,10 @@
+{
+  "query": "What is Paul Farmer known for, and what organization did he co-found?",
+  "response": [
+    "doc_34657.txt",
+    "doc_12545.txt",
+    "doc_23139.txt",
+    "doc_23138.txt",
+    "doc_439.txt"
+  ]
+}

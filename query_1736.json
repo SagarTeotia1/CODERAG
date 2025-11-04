@@ -1,0 +1,10 @@
+{
+  "query": "What was Jim Smith’s winning percentage as the head baseball coach of the LSU Tigers?",
+  "response": [
+    "doc_3084.txt",
+    "doc_3085.txt",
+    "doc_17458.txt",
+    "doc_17452.txt",
+    "doc_17456.txt"
+  ]
+}

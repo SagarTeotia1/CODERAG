@@ -1,0 +1,10 @@
+{
+  "query": "Everyone likes Sadie. They always say, 'Sadie’s _____ ' (4 letters)?",
+  "response": [
+    "doc_10465.txt",
+    "doc_10467.txt",
+    "doc_39799.txt",
+    "doc_5355.txt",
+    "doc_39798.txt"
+  ]
+}

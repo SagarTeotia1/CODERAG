@@ -1,0 +1,10 @@
+{
+  "query": "What is the European Commission’s stated goal regarding population coverage of cancer screening, as outlined in the European Partnership for Action Against Cancer?",
+  "response": [
+    "doc_24241.txt",
+    "doc_4668.txt",
+    "doc_24685.txt",
+    "doc_17687.txt",
+    "doc_17096.txt"
+  ]
+}

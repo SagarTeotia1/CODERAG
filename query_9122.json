@@ -1,0 +1,10 @@
+{
+  "query": "Which counties are included in New York’s 20th congressional district?",
+  "response": [
+    "doc_38961.txt",
+    "doc_1135.txt",
+    "doc_1137.txt",
+    "doc_1139.txt",
+    "doc_38960.txt"
+  ]
+}

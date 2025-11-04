@@ -1,0 +1,10 @@
+{
+  "query": "Who authored the biography “Appetite for Life: The Biography of Julia Child”?",
+  "response": [
+    "doc_32482.txt",
+    "doc_32479.txt",
+    "doc_32480.txt",
+    "doc_32481.txt",
+    "doc_32483.txt"
+  ]
+}

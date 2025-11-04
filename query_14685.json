@@ -1,0 +1,10 @@
+{
+  "query": "What is the approximate cost of Maverick, the roller coaster at Cedar Point?",
+  "response": [
+    "doc_26797.txt",
+    "doc_26798.txt",
+    "doc_26796.txt",
+    "doc_18408.txt",
+    "doc_24775.txt"
+  ]
+}

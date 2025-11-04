@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the \"European Initiative for Human Rights\" (EIDHR) launched, and from which specific regulations did it draw its resources?",
+  "response": [
+    "doc_15476.txt",
+    "doc_15477.txt",
+    "doc_15478.txt",
+    "doc_16164.txt",
+    "doc_10359.txt"
+  ]
+}

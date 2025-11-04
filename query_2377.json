@@ -1,0 +1,10 @@
+{
+  "query": "What news organization is dropping Stone Phillips from “Dateline NBC”?",
+  "response": [
+    "doc_33184.txt",
+    "doc_33191.txt",
+    "doc_33185.txt",
+    "doc_33190.txt",
+    "doc_33187.txt"
+  ]
+}

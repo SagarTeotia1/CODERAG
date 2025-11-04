@@ -1,0 +1,10 @@
+{
+  "query": "When was the Riverside Boat Club founded?",
+  "response": [
+    "doc_12167.txt",
+    "doc_12590.txt",
+    "doc_30668.txt",
+    "doc_25879.txt",
+    "doc_30667.txt"
+  ]
+}

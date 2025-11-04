@@ -1,0 +1,10 @@
+{
+  "query": "Does European Union grant aid for agricultural reasons require a portion to be allocated to research?",
+  "response": [
+    "doc_9002.txt",
+    "doc_9090.txt",
+    "doc_12522.txt",
+    "doc_38638.txt",
+    "doc_29926.txt"
+  ]
+}

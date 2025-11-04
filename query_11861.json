@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of installations in Europe required to participate in emissions trading emit less than 50,000 t of CO2 a year?",
+  "response": [
+    "doc_19902.txt",
+    "doc_35465.txt",
+    "doc_7513.txt",
+    "doc_21384.txt",
+    "doc_15856.txt"
+  ]
+}

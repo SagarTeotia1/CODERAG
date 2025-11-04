@@ -1,0 +1,10 @@
+{
+  "query": "When were Liddy’s operatives arrested?",
+  "response": [
+    "doc_9770.txt",
+    "doc_9773.txt",
+    "doc_21304.txt",
+    "doc_9774.txt",
+    "doc_9769.txt"
+  ]
+}

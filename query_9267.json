@@ -1,0 +1,10 @@
+{
+  "query": "Besides Portugal, which two other countries are currently seeking funding from the EU Solidarity Fund, and what are their respective requested amounts?",
+  "response": [
+    "doc_13517.txt",
+    "doc_13516.txt",
+    "doc_7852.txt",
+    "doc_24554.txt",
+    "doc_3552.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year did John Chancellor race to a state capital to cover breaking news?",
+  "response": [
+    "doc_25864.txt",
+    "doc_25867.txt",
+    "doc_25865.txt",
+    "doc_34639.txt",
+    "doc_34635.txt"
+  ]
+}

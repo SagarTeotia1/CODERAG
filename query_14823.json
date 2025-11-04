@@ -1,0 +1,10 @@
+{
+  "query": "What year was the film *The Green Berets* released?",
+  "response": [
+    "doc_27115.txt",
+    "doc_27116.txt",
+    "doc_27113.txt",
+    "doc_27117.txt",
+    "doc_27112.txt"
+  ]
+}

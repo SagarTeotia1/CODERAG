@@ -1,0 +1,10 @@
+{
+  "query": "What songs did Sean Delaney co-write with Paul Stanley?",
+  "response": [
+    "doc_21928.txt",
+    "doc_21929.txt",
+    "doc_40122.txt",
+    "doc_40120.txt",
+    "doc_40125.txt"
+  ]
+}

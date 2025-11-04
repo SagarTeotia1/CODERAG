@@ -1,0 +1,10 @@
+{
+  "query": "In what year did the public mourning for Princess Diana occur?",
+  "response": [
+    "doc_29045.txt",
+    "doc_3156.txt",
+    "doc_7796.txt",
+    "doc_35533.txt",
+    "doc_1970.txt"
+  ]
+}

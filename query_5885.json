@@ -1,0 +1,10 @@
+{
+  "query": "On what chart did the song from “Random Access Memories” reach number 46?",
+  "response": [
+    "doc_12872.txt",
+    "doc_22663.txt",
+    "doc_29934.txt",
+    "doc_4596.txt",
+    "doc_12874.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year was Castle Face Records founded, and by whom?",
+  "response": [
+    "doc_19760.txt",
+    "doc_37167.txt",
+    "doc_18603.txt",
+    "doc_19766.txt",
+    "doc_40121.txt"
+  ]
+}

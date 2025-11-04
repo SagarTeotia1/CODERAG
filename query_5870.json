@@ -1,0 +1,10 @@
+{
+  "query": "How many hills are associated with the name “Kowloon”?",
+  "response": [
+    "doc_5052.txt",
+    "doc_5053.txt",
+    "doc_5060.txt",
+    "doc_5056.txt",
+    "doc_5054.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was Tiger Woods’ score at the Masters tournament, and how did it compare to previous records?",
+  "response": [
+    "doc_35645.txt",
+    "doc_35649.txt",
+    "doc_35636.txt",
+    "doc_35638.txt",
+    "doc_35646.txt"
+  ]
+}

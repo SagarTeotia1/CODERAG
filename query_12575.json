@@ -1,0 +1,10 @@
+{
+  "query": "How many studio albums has Slayer released since its debut in 1983?",
+  "response": [
+    "doc_21638.txt",
+    "doc_21637.txt",
+    "doc_21639.txt",
+    "doc_18394.txt",
+    "doc_40212.txt"
+  ]
+}

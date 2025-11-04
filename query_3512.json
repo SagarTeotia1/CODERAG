@@ -1,0 +1,10 @@
+{
+  "query": "According to the text, what does the unicorn represent in *The Glass Menagerie*?",
+  "response": [
+    "doc_35762.txt",
+    "doc_35764.txt",
+    "doc_35765.txt",
+    "doc_35760.txt",
+    "doc_35763.txt"
+  ]
+}

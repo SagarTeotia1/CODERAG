@@ -1,0 +1,10 @@
+{
+  "query": "What specific border region is the Commission focusing on regarding cigarette smuggling efforts?",
+  "response": [
+    "doc_24221.txt",
+    "doc_7902.txt",
+    "doc_33159.txt",
+    "doc_32744.txt",
+    "doc_23692.txt"
+  ]
+}

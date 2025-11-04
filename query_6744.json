@@ -1,0 +1,10 @@
+{
+  "query": "When did the Northridge earthquake occur?",
+  "response": [
+    "doc_682.txt",
+    "doc_683.txt",
+    "doc_684.txt",
+    "doc_685.txt",
+    "doc_9543.txt"
+  ]
+}

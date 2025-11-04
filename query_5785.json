@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission’s current awareness regarding the regulation of vehicle access in environmental exclusion zones?",
+  "response": [
+    "doc_4853.txt",
+    "doc_14495.txt",
+    "doc_623.txt",
+    "doc_26607.txt",
+    "doc_504.txt"
+  ]
+}

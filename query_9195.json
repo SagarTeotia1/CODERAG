@@ -1,0 +1,10 @@
+{
+  "query": "Where was Jamal Abu Hamdan born?",
+  "response": [
+    "doc_13331.txt",
+    "doc_13330.txt",
+    "doc_39707.txt",
+    "doc_3538.txt",
+    "doc_3537.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which publishing company led the way in creating its own urban imprint, Atria, before Holloway House?",
+  "response": [
+    "doc_40221.txt",
+    "doc_40215.txt",
+    "doc_28536.txt",
+    "doc_40218.txt",
+    "doc_40216.txt"
+  ]
+}

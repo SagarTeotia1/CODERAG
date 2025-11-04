@@ -1,0 +1,10 @@
+{
+  "query": "How is “Pucelle” defined in the passage?",
+  "response": [
+    "doc_5159.txt",
+    "doc_2778.txt",
+    "doc_38725.txt",
+    "doc_38726.txt",
+    "doc_16348.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which television series featured Lizzy Caplan portraying Virginia Johnson?",
+  "response": [
+    "doc_23150.txt",
+    "doc_37308.txt",
+    "doc_3476.txt",
+    "doc_36357.txt",
+    "doc_20422.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What type of film was “Lola” described as by Jacques Demy?",
+  "response": [
+    "doc_20124.txt",
+    "doc_21010.txt",
+    "doc_3817.txt",
+    "doc_20127.txt",
+    "doc_39229.txt"
+  ]
+}

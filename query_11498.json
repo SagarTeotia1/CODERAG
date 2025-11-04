@@ -1,0 +1,10 @@
+{
+  "query": "What war does the film *Empire of the Sun* primarily depict?",
+  "response": [
+    "doc_1797.txt",
+    "doc_19538.txt",
+    "doc_19535.txt",
+    "doc_25532.txt",
+    "doc_4592.txt"
+  ]
+}

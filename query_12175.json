@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what was a theme explored in the 1991 movie *LA Story*?",
+  "response": [
+    "doc_22119.txt",
+    "doc_20582.txt",
+    "doc_22120.txt",
+    "doc_31663.txt",
+    "doc_22118.txt"
+  ]
+}

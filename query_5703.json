@@ -1,0 +1,10 @@
+{
+  "query": "When did Truganini die, and where was she born?",
+  "response": [
+    "doc_10219.txt",
+    "doc_1491.txt",
+    "doc_10220.txt",
+    "doc_1493.txt",
+    "doc_10221.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In which municipalities in Belgium are non-Belgian EU citizens permitted to vote and stand for election in municipal council elections?",
+  "response": [
+    "doc_10093.txt",
+    "doc_12010.txt",
+    "doc_18218.txt",
+    "doc_28908.txt",
+    "doc_5078.txt"
+  ]
+}

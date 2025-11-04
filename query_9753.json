@@ -1,0 +1,10 @@
+{
+  "query": "What was Greg Adams told when he first dated someone in 1990?",
+  "response": [
+    "doc_25288.txt",
+    "doc_25285.txt",
+    "doc_107.txt",
+    "doc_27257.txt",
+    "doc_108.txt"
+  ]
+}

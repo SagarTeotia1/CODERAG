@@ -1,0 +1,10 @@
+{
+  "query": "What was the expected reduction in the CAP premium arising from the maize ceiling in Italy?",
+  "response": [
+    "doc_15234.txt",
+    "doc_3173.txt",
+    "doc_22536.txt",
+    "doc_38695.txt",
+    "doc_39837.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What organization did Ms. Sheeran represent?",
+  "response": [
+    "doc_1059.txt",
+    "doc_1060.txt",
+    "doc_1055.txt",
+    "doc_18717.txt",
+    "doc_21891.txt"
+  ]
+}

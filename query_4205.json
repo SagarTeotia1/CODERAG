@@ -1,0 +1,10 @@
+{
+  "query": "In what year was “The Jane Austen Book Club” released, and what type of media adaptation exists for it?",
+  "response": [
+    "doc_15171.txt",
+    "doc_17299.txt",
+    "doc_5632.txt",
+    "doc_15169.txt",
+    "doc_27028.txt"
+  ]
+}

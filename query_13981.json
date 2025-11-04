@@ -1,0 +1,10 @@
+{
+  "query": "What is the approximate size of Lake Titicaca in terms of the total water volume of its hydrological system?",
+  "response": [
+    "doc_15098.txt",
+    "doc_25046.txt",
+    "doc_25044.txt",
+    "doc_15099.txt",
+    "doc_25043.txt"
+  ]
+}

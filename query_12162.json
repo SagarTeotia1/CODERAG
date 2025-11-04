@@ -1,0 +1,10 @@
+{
+  "query": "Dick Vitale is known as the “Diaper Dandy.”",
+  "response": [
+    "doc_31648.txt",
+    "doc_28468.txt",
+    "doc_39632.txt",
+    "doc_7697.txt",
+    "doc_39625.txt"
+  ]
+}

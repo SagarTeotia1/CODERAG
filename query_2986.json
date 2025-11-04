@@ -1,0 +1,10 @@
+{
+  "query": "What series of stamps did the 20th stamp belong to, according to the Greater Boston Postal Customer Council?",
+  "response": [
+    "doc_37378.txt",
+    "doc_37380.txt",
+    "doc_37381.txt",
+    "doc_14789.txt",
+    "doc_27413.txt"
+  ]
+}

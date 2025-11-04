@@ -1,0 +1,10 @@
+{
+  "query": "What was the approximate number of coupons the U.S. government was attempting to print?",
+  "response": [
+    "doc_16226.txt",
+    "doc_16227.txt",
+    "doc_16228.txt",
+    "doc_16235.txt",
+    "doc_16229.txt"
+  ]
+}

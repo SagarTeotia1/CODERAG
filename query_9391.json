@@ -1,0 +1,10 @@
+{
+  "query": "Was the slaughtering of lapwings in France depicted on YouTube?",
+  "response": [
+    "doc_23528.txt",
+    "doc_23527.txt",
+    "doc_23525.txt",
+    "doc_23523.txt",
+    "doc_23524.txt"
+  ]
+}

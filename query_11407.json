@@ -1,0 +1,10 @@
+{
+  "query": "What action is being suggested regarding countries that voted ‘yes’ on the Lisbon Treaty?",
+  "response": [
+    "doc_18647.txt",
+    "doc_25830.txt",
+    "doc_39803.txt",
+    "doc_26851.txt",
+    "doc_2738.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which artist released the album “Here’s Little Richard”, and when was it originally released?",
+  "response": [
+    "doc_26680.txt",
+    "doc_26686.txt",
+    "doc_11146.txt",
+    "doc_19646.txt",
+    "doc_19639.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the estimated population of Coffs Harbour as of June 2017?",
+  "response": [
+    "doc_34192.txt",
+    "doc_13379.txt",
+    "doc_34193.txt",
+    "doc_20054.txt",
+    "doc_20053.txt"
+  ]
+}

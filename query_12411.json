@@ -1,0 +1,10 @@
+{
+  "query": "Which committee is responsible for reviewing the “Kozloduy Programme”?",
+  "response": [
+    "doc_2656.txt",
+    "doc_33589.txt",
+    "doc_29363.txt",
+    "doc_16166.txt",
+    "doc_33260.txt"
+  ]
+}

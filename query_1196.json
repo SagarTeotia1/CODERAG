@@ -1,0 +1,10 @@
+{
+  "query": "What event led to the blinded insurance salesman’s need for a guide dog, as depicted in the movie *Love Leads the Way*?",
+  "response": [
+    "doc_30271.txt",
+    "doc_30272.txt",
+    "doc_12991.txt",
+    "doc_12990.txt",
+    "doc_18323.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When did the most recent discussions take place between the Irish Minister for Agriculture and the Commission?",
+  "response": [
+    "doc_13953.txt",
+    "doc_31100.txt",
+    "doc_3371.txt",
+    "doc_3296.txt",
+    "doc_28146.txt"
+  ]
+}

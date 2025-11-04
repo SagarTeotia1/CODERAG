@@ -1,0 +1,10 @@
+{
+  "query": "What kinds of animals do Great Blue Herons forage for in the Everglades?",
+  "response": [
+    "doc_33333.txt",
+    "doc_33330.txt",
+    "doc_33329.txt",
+    "doc_33332.txt",
+    "doc_33331.txt"
+  ]
+}

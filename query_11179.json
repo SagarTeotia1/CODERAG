@@ -1,0 +1,10 @@
+{
+  "query": "How many government engineering institutes in Delhi offer Civil engineering?",
+  "response": [
+    "doc_18051.txt",
+    "doc_18052.txt",
+    "doc_18050.txt",
+    "doc_27591.txt",
+    "doc_39306.txt"
+  ]
+}

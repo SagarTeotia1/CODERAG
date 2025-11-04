@@ -1,0 +1,10 @@
+{
+  "query": "Which airline operated scheduled passenger services from Johannesburg to regional destinations in Africa?",
+  "response": [
+    "doc_17185.txt",
+    "doc_17186.txt",
+    "doc_16282.txt",
+    "doc_21835.txt",
+    "doc_4714.txt"
+  ]
+}

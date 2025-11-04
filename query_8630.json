@@ -1,0 +1,10 @@
+{
+  "query": "What items are featured at the Andy Museum?",
+  "response": [
+    "doc_31087.txt",
+    "doc_6284.txt",
+    "doc_6280.txt",
+    "doc_14753.txt",
+    "doc_6285.txt"
+  ]
+}

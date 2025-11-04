@@ -1,0 +1,10 @@
+{
+  "query": "Who is the Flemish Minister for Environment, Nature and Culture?",
+  "response": [
+    "doc_3227.txt",
+    "doc_22690.txt",
+    "doc_6147.txt",
+    "doc_6151.txt",
+    "doc_6148.txt"
+  ]
+}

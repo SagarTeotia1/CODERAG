@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what percentage of EU trade in goods is handled by road haulage?",
+  "response": [
+    "doc_16542.txt",
+    "doc_10139.txt",
+    "doc_5803.txt",
+    "doc_3872.txt",
+    "doc_5785.txt"
+  ]
+}

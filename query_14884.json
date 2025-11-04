@@ -1,0 +1,10 @@
+{
+  "query": "How does Gary Hobson receive the newspaper each day?",
+  "response": [
+    "doc_13776.txt",
+    "doc_36932.txt",
+    "doc_14208.txt",
+    "doc_14209.txt",
+    "doc_28673.txt"
+  ]
+}

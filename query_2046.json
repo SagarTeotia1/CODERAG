@@ -1,0 +1,10 @@
+{
+  "query": "What is the oldest section of the Marlbrook property, located near Glasgow, Virginia, and what architectural style is it?",
+  "response": [
+    "doc_12261.txt",
+    "doc_12268.txt",
+    "doc_32326.txt",
+    "doc_12267.txt",
+    "doc_100.txt"
+  ]
+}

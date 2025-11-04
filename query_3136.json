@@ -1,0 +1,10 @@
+{
+  "query": "What was John McCrae’s profession before he wrote “In Flanders Fields”?",
+  "response": [
+    "doc_3440.txt",
+    "doc_3443.txt",
+    "doc_3441.txt",
+    "doc_3442.txt",
+    "doc_3445.txt"
+  ]
+}

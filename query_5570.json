@@ -1,0 +1,10 @@
+{
+  "query": "What year was Body Count’s album “Born Dead” released?",
+  "response": [
+    "doc_4233.txt",
+    "doc_36257.txt",
+    "doc_36256.txt",
+    "doc_3347.txt",
+    "doc_21638.txt"
+  ]
+}

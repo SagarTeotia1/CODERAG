@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the first Nobel Prize in Physiology or Medicine awarded, and to whom?",
+  "response": [
+    "doc_2019.txt",
+    "doc_38707.txt",
+    "doc_38709.txt",
+    "doc_38706.txt",
+    "doc_38703.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to Bill Craig, what were the lyrics of the song about?",
+  "response": [
+    "doc_15926.txt",
+    "doc_35558.txt",
+    "doc_35561.txt",
+    "doc_35559.txt",
+    "doc_35562.txt"
+  ]
+}

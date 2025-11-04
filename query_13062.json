@@ -1,0 +1,10 @@
+{
+  "query": "Which Directives, besides the Cosmetics Directive, address occupational chemical safety for workers?",
+  "response": [
+    "doc_22845.txt",
+    "doc_22846.txt",
+    "doc_7516.txt",
+    "doc_6888.txt",
+    "doc_14586.txt"
+  ]
+}

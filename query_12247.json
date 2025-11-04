@@ -1,0 +1,10 @@
+{
+  "query": "Who starred in \"Dancing Vienna\"?",
+  "response": [
+    "doc_9744.txt",
+    "doc_9747.txt",
+    "doc_24020.txt",
+    "doc_31832.txt",
+    "doc_9739.txt"
+  ]
+}

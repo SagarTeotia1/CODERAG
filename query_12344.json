@@ -1,0 +1,10 @@
+{
+  "query": "Did Astro Bob see the American flag on the moon?",
+  "response": [
+    "doc_20959.txt",
+    "doc_3311.txt",
+    "doc_3309.txt",
+    "doc_3312.txt",
+    "doc_3310.txt"
+  ]
+}

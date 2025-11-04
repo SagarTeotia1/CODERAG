@@ -1,0 +1,10 @@
+{
+  "query": "Which Mexican singer released the album “Eclipse de Luna”?",
+  "response": [
+    "doc_30853.txt",
+    "doc_12180.txt",
+    "doc_12181.txt",
+    "doc_11191.txt",
+    "doc_11192.txt"
+  ]
+}

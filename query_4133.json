@@ -1,0 +1,10 @@
+{
+  "query": "What is Luxembourg’s obligation regarding electricity prices subsidies, according to a relevant directive?",
+  "response": [
+    "doc_37292.txt",
+    "doc_37291.txt",
+    "doc_7151.txt",
+    "doc_18480.txt",
+    "doc_37718.txt"
+  ]
+}

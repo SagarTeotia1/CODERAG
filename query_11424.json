@@ -1,0 +1,10 @@
+{
+  "query": "What type of company was initially responsible for manufacturing swords at the Hollow Sword Blades Company?",
+  "response": [
+    "doc_18671.txt",
+    "doc_26261.txt",
+    "doc_24928.txt",
+    "doc_31093.txt",
+    "doc_24929.txt"
+  ]
+}

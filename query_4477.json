@@ -1,0 +1,10 @@
+{
+  "query": "According to the passages, what role did Marduk play in the creation myth of Babylon?",
+  "response": [
+    "doc_38088.txt",
+    "doc_38087.txt",
+    "doc_38086.txt",
+    "doc_38085.txt",
+    "doc_38089.txt"
+  ]
+}

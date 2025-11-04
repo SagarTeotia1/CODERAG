@@ -1,0 +1,10 @@
+{
+  "query": "Where is Malta geographically located relative to other countries?",
+  "response": [
+    "doc_4578.txt",
+    "doc_4574.txt",
+    "doc_4577.txt",
+    "doc_4580.txt",
+    "doc_4581.txt"
+  ]
+}

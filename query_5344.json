@@ -1,0 +1,10 @@
+{
+  "query": "Which British cyclist won gold medals in the Men's team sprint at the 2012 and 2016 Summer Olympics?",
+  "response": [
+    "doc_5496.txt",
+    "doc_40105.txt",
+    "doc_40104.txt",
+    "doc_38880.txt",
+    "doc_17818.txt"
+  ]
+}

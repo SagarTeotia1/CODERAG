@@ -1,0 +1,10 @@
+{
+  "query": "Who wrote “Frosty the Snowman”?",
+  "response": [
+    "doc_36302.txt",
+    "doc_36303.txt",
+    "doc_34463.txt",
+    "doc_34464.txt",
+    "doc_34465.txt"
+  ]
+}

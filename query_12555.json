@@ -1,0 +1,10 @@
+{
+  "query": "Besides newspapers and radio, what other types of media did Robert Ripley’s work adapt into (e.g., films)?",
+  "response": [
+    "doc_21568.txt",
+    "doc_21569.txt",
+    "doc_21571.txt",
+    "doc_21579.txt",
+    "doc_21578.txt"
+  ]
+}

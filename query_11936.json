@@ -1,0 +1,10 @@
+{
+  "query": "How many league championships did the Bisons win?",
+  "response": [
+    "doc_20093.txt",
+    "doc_20091.txt",
+    "doc_20095.txt",
+    "doc_20092.txt",
+    "doc_20094.txt"
+  ]
+}

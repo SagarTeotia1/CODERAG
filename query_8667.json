@@ -1,0 +1,10 @@
+{
+  "query": "Were “I Love Lucy” and “Lucy’s Italian Movie” filmed in color?",
+  "response": [
+    "doc_11982.txt",
+    "doc_11978.txt",
+    "doc_11977.txt",
+    "doc_34140.txt",
+    "doc_24994.txt"
+  ]
+}

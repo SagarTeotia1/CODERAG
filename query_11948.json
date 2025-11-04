@@ -1,0 +1,10 @@
+{
+  "query": "Which Turkish committees are responsible for overseeing the historical heritages related to the Bosphorus/Marmara project?",
+  "response": [
+    "doc_20130.txt",
+    "doc_23874.txt",
+    "doc_7703.txt",
+    "doc_9698.txt",
+    "doc_5499.txt"
+  ]
+}

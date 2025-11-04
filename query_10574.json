@@ -1,0 +1,10 @@
+{
+  "query": "In what year did two doctors in Poznań identify a design fault in disposable syringes?",
+  "response": [
+    "doc_12572.txt",
+    "doc_12571.txt",
+    "doc_8036.txt",
+    "doc_8035.txt",
+    "doc_11233.txt"
+  ]
+}

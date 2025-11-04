@@ -1,0 +1,10 @@
+{
+  "query": "What is the European Parliament proposing regarding access to medication for people with AIDS in Africa?",
+  "response": [
+    "doc_16398.txt",
+    "doc_2086.txt",
+    "doc_9979.txt",
+    "doc_2084.txt",
+    "doc_2097.txt"
+  ]
+}

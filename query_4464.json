@@ -1,0 +1,10 @@
+{
+  "query": "In 1996, which author’s book, “The Apocalypse Watch,” was released as a first edition paperback?",
+  "response": [
+    "doc_38061.txt",
+    "doc_38058.txt",
+    "doc_38060.txt",
+    "doc_13522.txt",
+    "doc_14903.txt"
+  ]
+}

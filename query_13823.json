@@ -1,0 +1,10 @@
+{
+  "query": "Besides Helen Wills Moody, which other tennis player is mentioned as having a record of 18 tournament wins?",
+  "response": [
+    "doc_24644.txt",
+    "doc_24643.txt",
+    "doc_24646.txt",
+    "doc_24645.txt",
+    "doc_24647.txt"
+  ]
+}

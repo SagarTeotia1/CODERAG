@@ -1,0 +1,10 @@
+{
+  "query": "Which soap opera won Best British Soap at the 2014 British Soap Awards?",
+  "response": [
+    "doc_9326.txt",
+    "doc_9327.txt",
+    "doc_3924.txt",
+    "doc_4257.txt",
+    "doc_25825.txt"
+  ]
+}

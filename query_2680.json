@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided text, what is a traditional Japanese dish eaten on New Year’s Eve?",
+  "response": [
+    "doc_33925.txt",
+    "doc_33926.txt",
+    "doc_33924.txt",
+    "doc_33928.txt",
+    "doc_33927.txt"
+  ]
+}

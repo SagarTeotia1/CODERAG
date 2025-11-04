@@ -1,0 +1,10 @@
+{
+  "query": "What is the basis for the film “Testament of Youth”?",
+  "response": [
+    "doc_14578.txt",
+    "doc_27030.txt",
+    "doc_27028.txt",
+    "doc_11873.txt",
+    "doc_27034.txt"
+  ]
+}

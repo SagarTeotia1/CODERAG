@@ -1,0 +1,10 @@
+{
+  "query": "What is the estimated annual cost of corruption within the EU, according to the Commission’s impact assessment?",
+  "response": [
+    "doc_40226.txt",
+    "doc_7642.txt",
+    "doc_27228.txt",
+    "doc_27668.txt",
+    "doc_35508.txt"
+  ]
+}

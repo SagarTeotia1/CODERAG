@@ -1,0 +1,10 @@
+{
+  "query": "What publications has the author released related to Bram Stoker’s “Dracula”?",
+  "response": [
+    "doc_39752.txt",
+    "doc_12610.txt",
+    "doc_1424.txt",
+    "doc_19741.txt",
+    "doc_12952.txt"
+  ]
+}

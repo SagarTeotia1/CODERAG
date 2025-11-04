@@ -1,0 +1,10 @@
+{
+  "query": "According to Strunk & White, what is the proper punctuation to use when joining independent clauses?",
+  "response": [
+    "doc_30777.txt",
+    "doc_30778.txt",
+    "doc_30785.txt",
+    "doc_30783.txt",
+    "doc_30781.txt"
+  ]
+}

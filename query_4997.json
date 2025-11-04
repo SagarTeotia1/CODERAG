@@ -1,0 +1,10 @@
+{
+  "query": "What material was used to caulk the original loft floor of the building on Garden Island?",
+  "response": [
+    "doc_20301.txt",
+    "doc_33443.txt",
+    "doc_27264.txt",
+    "doc_33444.txt",
+    "doc_33449.txt"
+  ]
+}

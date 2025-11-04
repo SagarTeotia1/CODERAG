@@ -1,0 +1,10 @@
+{
+  "query": "What activity has the Delegation participated in regarding the countries of the region?",
+  "response": [
+    "doc_23700.txt",
+    "doc_12192.txt",
+    "doc_6595.txt",
+    "doc_22862.txt",
+    "doc_22863.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What does the star on the Chicago flag represent that was added in 1938?",
+  "response": [
+    "doc_21656.txt",
+    "doc_21658.txt",
+    "doc_21657.txt",
+    "doc_21659.txt",
+    "doc_21664.txt"
+  ]
+}

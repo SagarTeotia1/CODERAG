@@ -1,0 +1,10 @@
+{
+  "query": "What is the basis for the 1985 film *Re-Animator*, and who plays the main character, Herbert West?",
+  "response": [
+    "doc_24991.txt",
+    "doc_25001.txt",
+    "doc_12821.txt",
+    "doc_23081.txt",
+    "doc_25000.txt"
+  ]
+}

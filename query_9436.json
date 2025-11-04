@@ -1,0 +1,10 @@
+{
+  "query": "When did Disney’s Saratoga Springs Resort & Spa first open?",
+  "response": [
+    "doc_13872.txt",
+    "doc_13871.txt",
+    "doc_26924.txt",
+    "doc_26932.txt",
+    "doc_36668.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Who is the Ambassador of Guatemala to the European Union?",
+  "response": [
+    "doc_29807.txt",
+    "doc_31702.txt",
+    "doc_4386.txt",
+    "doc_31701.txt",
+    "doc_4385.txt"
+  ]
+}

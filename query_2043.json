@@ -1,0 +1,10 @@
+{
+  "query": "In 1983, what was the capacity of the Hoover Dam?",
+  "response": [
+    "doc_32305.txt",
+    "doc_32306.txt",
+    "doc_37340.txt",
+    "doc_5922.txt",
+    "doc_37339.txt"
+  ]
+}

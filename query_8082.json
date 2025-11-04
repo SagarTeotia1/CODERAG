@@ -1,0 +1,10 @@
+{
+  "query": "What political party is Pat Roberts a member of?",
+  "response": [
+    "doc_10593.txt",
+    "doc_10592.txt",
+    "doc_10595.txt",
+    "doc_10594.txt",
+    "doc_10596.txt"
+  ]
+}

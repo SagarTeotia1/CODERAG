@@ -1,0 +1,10 @@
+{
+  "query": "Which Luther Vandross album earned him a Grammy Award for “Best R&B Vocal Performance, Male”?",
+  "response": [
+    "doc_24947.txt",
+    "doc_3349.txt",
+    "doc_12581.txt",
+    "doc_24948.txt",
+    "doc_21175.txt"
+  ]
+}

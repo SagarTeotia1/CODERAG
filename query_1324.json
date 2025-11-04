@@ -1,0 +1,10 @@
+{
+  "query": "What specific heavy metals are present in Chinese-made glass granules used in road markings, and what are their concentrations compared to EU-manufactured glass?",
+  "response": [
+    "doc_30533.txt",
+    "doc_14742.txt",
+    "doc_26003.txt",
+    "doc_19597.txt",
+    "doc_4017.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What were the numbers of CITES controlled bird species imported into the EU in 2003, 2004, and 2005?",
+  "response": [
+    "doc_19779.txt",
+    "doc_37415.txt",
+    "doc_20199.txt",
+    "doc_263.txt",
+    "doc_30310.txt"
+  ]
+}

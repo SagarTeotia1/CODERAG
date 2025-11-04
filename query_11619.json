@@ -1,0 +1,10 @@
+{
+  "query": "When was Morbid Angel’s last album released under the Giant Records label?",
+  "response": [
+    "doc_19231.txt",
+    "doc_19232.txt",
+    "doc_16742.txt",
+    "doc_18394.txt",
+    "doc_21638.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Who founded the Bauhaus school, and in what year was it established?",
+  "response": [
+    "doc_15263.txt",
+    "doc_10054.txt",
+    "doc_10052.txt",
+    "doc_10051.txt",
+    "doc_10057.txt"
+  ]
+}

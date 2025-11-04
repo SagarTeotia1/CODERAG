@@ -1,0 +1,10 @@
+{
+  "query": "In what publication did Dan Lieb write about his expedition?",
+  "response": [
+    "doc_9787.txt",
+    "doc_9783.txt",
+    "doc_14218.txt",
+    "doc_14216.txt",
+    "doc_38822.txt"
+  ]
+}

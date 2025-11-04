@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Ruben perform “Vagina Monologues” at Madison Square Garden?",
+  "response": [
+    "doc_37197.txt",
+    "doc_7697.txt",
+    "doc_37214.txt",
+    "doc_7695.txt",
+    "doc_37215.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which countries received initial quota increases as part of the first phase of IMF reform?",
+  "response": [
+    "doc_34225.txt",
+    "doc_33392.txt",
+    "doc_27798.txt",
+    "doc_13342.txt",
+    "doc_26438.txt"
+  ]
+}

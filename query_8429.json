@@ -1,0 +1,10 @@
+{
+  "query": "Who coached the 1991 Baylor Bears football team?",
+  "response": [
+    "doc_11424.txt",
+    "doc_12348.txt",
+    "doc_11423.txt",
+    "doc_15446.txt",
+    "doc_12467.txt"
+  ]
+}

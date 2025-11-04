@@ -1,0 +1,10 @@
+{
+  "query": "How many people attended the event held at Mr. Niwano’s house?",
+  "response": [
+    "doc_2145.txt",
+    "doc_22457.txt",
+    "doc_2144.txt",
+    "doc_10078.txt",
+    "doc_23332.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was Samuel Ealy Johnson Sr.’s date of birth?",
+  "response": [
+    "doc_20158.txt",
+    "doc_20156.txt",
+    "doc_20161.txt",
+    "doc_20157.txt",
+    "doc_20160.txt"
+  ]
+}

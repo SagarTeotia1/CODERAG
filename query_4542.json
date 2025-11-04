@@ -1,0 +1,10 @@
+{
+  "query": "At what age did Amanda Peterson pass away?",
+  "response": [
+    "doc_30417.txt",
+    "doc_12257.txt",
+    "doc_8881.txt",
+    "doc_16927.txt",
+    "doc_12255.txt"
+  ]
+}

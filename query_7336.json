@@ -1,0 +1,10 @@
+{
+  "query": "Who directed “Walking Across Egypt”?",
+  "response": [
+    "doc_8697.txt",
+    "doc_12434.txt",
+    "doc_23079.txt",
+    "doc_24992.txt",
+    "doc_24990.txt"
+  ]
+}

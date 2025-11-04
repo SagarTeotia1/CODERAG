@@ -1,0 +1,10 @@
+{
+  "query": "How many Norman Rockwell magazine covers are displayed at the Norman Rockwell Museum of Vermont?",
+  "response": [
+    "doc_14750.txt",
+    "doc_14757.txt",
+    "doc_14752.txt",
+    "doc_14754.txt",
+    "doc_14749.txt"
+  ]
+}

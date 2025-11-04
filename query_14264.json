@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Smithson Tennant discover osmium?",
+  "response": [
+    "doc_25777.txt",
+    "doc_25773.txt",
+    "doc_25774.txt",
+    "doc_25781.txt",
+    "doc_25782.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When did the Commission receive notification from the Italian telecoms regulator, AGCOM, regarding the LLU price?",
+  "response": [
+    "doc_17419.txt",
+    "doc_12969.txt",
+    "doc_18530.txt",
+    "doc_23276.txt",
+    "doc_7691.txt"
+  ]
+}

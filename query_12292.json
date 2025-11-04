@@ -1,0 +1,10 @@
+{
+  "query": "How many offices does Winton Group have located around the world?",
+  "response": [
+    "doc_20821.txt",
+    "doc_20822.txt",
+    "doc_26973.txt",
+    "doc_37667.txt",
+    "doc_20861.txt"
+  ]
+}

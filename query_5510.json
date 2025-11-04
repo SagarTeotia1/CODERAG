@@ -1,0 +1,10 @@
+{
+  "query": "In what city and state did Mr. Heed die?",
+  "response": [
+    "doc_33313.txt",
+    "doc_9954.txt",
+    "doc_36826.txt",
+    "doc_9952.txt",
+    "doc_8329.txt"
+  ]
+}

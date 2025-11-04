@@ -1,0 +1,10 @@
+{
+  "query": "In what movie did Hulk Hogan play the role of Thunderlips?",
+  "response": [
+    "doc_3057.txt",
+    "doc_3059.txt",
+    "doc_3055.txt",
+    "doc_3058.txt",
+    "doc_3056.txt"
+  ]
+}

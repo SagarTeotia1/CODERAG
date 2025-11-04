@@ -1,0 +1,10 @@
+{
+  "query": "What event did UNLV fix in 1991?",
+  "response": [
+    "doc_2935.txt",
+    "doc_2936.txt",
+    "doc_2938.txt",
+    "doc_14703.txt",
+    "doc_2939.txt"
+  ]
+}

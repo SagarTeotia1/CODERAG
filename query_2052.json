@@ -1,0 +1,10 @@
+{
+  "query": "What is a graphic novel defined as according to Merriam-Webster?",
+  "response": [
+    "doc_32338.txt",
+    "doc_32342.txt",
+    "doc_32341.txt",
+    "doc_32340.txt",
+    "doc_32339.txt"
+  ]
+}

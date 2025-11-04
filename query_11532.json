@@ -1,0 +1,10 @@
+{
+  "query": "Where did A.A. Milne observe a bear that influenced his writing?",
+  "response": [
+    "doc_28404.txt",
+    "doc_28410.txt",
+    "doc_28405.txt",
+    "doc_28408.txt",
+    "doc_1850.txt"
+  ]
+}

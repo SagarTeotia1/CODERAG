@@ -1,0 +1,10 @@
+{
+  "query": "What was the primary cause of the Karin Cat sinking, according to the Danish Maritime Authority report?",
+  "response": [
+    "doc_13806.txt",
+    "doc_10136.txt",
+    "doc_10135.txt",
+    "doc_36448.txt",
+    "doc_39097.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "How many masts are Network Rail claiming are necessary as a result of the Directive’s requirements?",
+  "response": [
+    "doc_30932.txt",
+    "doc_30313.txt",
+    "doc_24137.txt",
+    "doc_18375.txt",
+    "doc_14748.txt"
+  ]
+}

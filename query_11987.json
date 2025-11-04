@@ -1,0 +1,10 @@
+{
+  "query": "Is the Commission concerned that the Irish government’s intervention in Anglo Irish Bank could distort the Irish banking market?",
+  "response": [
+    "doc_20182.txt",
+    "doc_24312.txt",
+    "doc_17812.txt",
+    "doc_35439.txt",
+    "doc_12251.txt"
+  ]
+}

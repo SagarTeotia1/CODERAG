@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the original “King Kong” film released?",
+  "response": [
+    "doc_11515.txt",
+    "doc_24993.txt",
+    "doc_23211.txt",
+    "doc_11516.txt",
+    "doc_24994.txt"
+  ]
+}

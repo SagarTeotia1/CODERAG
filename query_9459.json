@@ -1,0 +1,10 @@
+{
+  "query": "How long is the Broad Street Aqueduct, including its wings and abutments?",
+  "response": [
+    "doc_24058.txt",
+    "doc_31116.txt",
+    "doc_31124.txt",
+    "doc_17480.txt",
+    "doc_5014.txt"
+  ]
+}

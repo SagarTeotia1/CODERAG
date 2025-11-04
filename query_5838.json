@@ -1,0 +1,10 @@
+{
+  "query": "On what surface did Fabio Fognini win four ATP singles titles?",
+  "response": [
+    "doc_4984.txt",
+    "doc_4985.txt",
+    "doc_1464.txt",
+    "doc_1468.txt",
+    "doc_30897.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "By what vote count was Dick Cheney confirmed as Secretary of Defense?",
+  "response": [
+    "doc_23083.txt",
+    "doc_23082.txt",
+    "doc_23084.txt",
+    "doc_23087.txt",
+    "doc_23085.txt"
+  ]
+}

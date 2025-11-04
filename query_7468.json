@@ -1,0 +1,10 @@
+{
+  "query": "Which brands has Josh Beech worked with as a model?",
+  "response": [
+    "doc_15049.txt",
+    "doc_30366.txt",
+    "doc_13192.txt",
+    "doc_6322.txt",
+    "doc_30364.txt"
+  ]
+}

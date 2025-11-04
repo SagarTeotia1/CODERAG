@@ -1,0 +1,10 @@
+{
+  "query": "What is Lee considered to be by many people?",
+  "response": [
+    "doc_31715.txt",
+    "doc_37877.txt",
+    "doc_31712.txt",
+    "doc_19471.txt",
+    "doc_37875.txt"
+  ]
+}

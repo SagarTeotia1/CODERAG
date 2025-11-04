@@ -1,0 +1,10 @@
+{
+  "query": "What year was HIM’s album “Love Metal” released?",
+  "response": [
+    "doc_25514.txt",
+    "doc_25512.txt",
+    "doc_25513.txt",
+    "doc_18603.txt",
+    "doc_2480.txt"
+  ]
+}

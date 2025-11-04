@@ -1,0 +1,10 @@
+{
+  "query": "When did Jack Wright first appear in a series of novels?",
+  "response": [
+    "doc_35516.txt",
+    "doc_35509.txt",
+    "doc_8250.txt",
+    "doc_35514.txt",
+    "doc_4347.txt"
+  ]
+}

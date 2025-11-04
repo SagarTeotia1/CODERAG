@@ -1,0 +1,10 @@
+{
+  "query": "When was Jacques Chirac first elected president of France, and what political party did he represent?",
+  "response": [
+    "doc_29564.txt",
+    "doc_29565.txt",
+    "doc_29563.txt",
+    "doc_29562.txt",
+    "doc_29566.txt"
+  ]
+}

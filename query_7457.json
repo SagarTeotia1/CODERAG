@@ -1,0 +1,10 @@
+{
+  "query": "Which band released the album “Awaking the Centuries,” and what was the album’s thematic inspiration?",
+  "response": [
+    "doc_800.txt",
+    "doc_18394.txt",
+    "doc_8994.txt",
+    "doc_21637.txt",
+    "doc_217.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "How many screen adaptations are included in the Tennessee Williams Film Collection?",
+  "response": [
+    "doc_22797.txt",
+    "doc_22795.txt",
+    "doc_22796.txt",
+    "doc_22794.txt",
+    "doc_22793.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What Disney franchise did “Disney’s Animated Storybook: 101 Dalmatians” base its plot on?",
+  "response": [
+    "doc_22578.txt",
+    "doc_21643.txt",
+    "doc_17032.txt",
+    "doc_22579.txt",
+    "doc_20761.txt"
+  ]
+}

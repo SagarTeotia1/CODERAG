@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what was Paul Revere's engraving based on?",
+  "response": [
+    "doc_278.txt",
+    "doc_277.txt",
+    "doc_279.txt",
+    "doc_283.txt",
+    "doc_19462.txt"
+  ]
+}

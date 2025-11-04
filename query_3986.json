@@ -1,0 +1,10 @@
+{
+  "query": "When was General John Logan first observed ordering the observance of a holiday?",
+  "response": [
+    "doc_36891.txt",
+    "doc_36899.txt",
+    "doc_36892.txt",
+    "doc_36893.txt",
+    "doc_36894.txt"
+  ]
+}

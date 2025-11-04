@@ -1,0 +1,10 @@
+{
+  "query": "Which city in Albania is the seat of the municipality of Elbasan?",
+  "response": [
+    "doc_9319.txt",
+    "doc_9320.txt",
+    "doc_9315.txt",
+    "doc_34435.txt",
+    "doc_4717.txt"
+  ]
+}

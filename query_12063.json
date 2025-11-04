@@ -1,0 +1,10 @@
+{
+  "query": "Can you provide an example of a MacGuffin from the movie *Pulp Fiction*?",
+  "response": [
+    "doc_22349.txt",
+    "doc_22351.txt",
+    "doc_22355.txt",
+    "doc_22350.txt",
+    "doc_22347.txt"
+  ]
+}

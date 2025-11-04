@@ -1,0 +1,10 @@
+{
+  "query": "What countries border Cambodia?",
+  "response": [
+    "doc_30059.txt",
+    "doc_6667.txt",
+    "doc_13884.txt",
+    "doc_11809.txt",
+    "doc_11810.txt"
+  ]
+}

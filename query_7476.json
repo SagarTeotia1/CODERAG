@@ -1,0 +1,10 @@
+{
+  "query": "What inspired the story of *Young Man with a Horn*?",
+  "response": [
+    "doc_5133.txt",
+    "doc_5126.txt",
+    "doc_6055.txt",
+    "doc_17629.txt",
+    "doc_5127.txt"
+  ]
+}

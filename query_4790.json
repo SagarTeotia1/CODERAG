@@ -1,0 +1,10 @@
+{
+  "query": "Who has lived in Rutherford County since 1980?",
+  "response": [
+    "doc_38166.txt",
+    "doc_37342.txt",
+    "doc_38157.txt",
+    "doc_38164.txt",
+    "doc_5719.txt"
+  ]
+}

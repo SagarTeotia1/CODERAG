@@ -1,0 +1,10 @@
+{
+  "query": "What disease is also known as Guinea-worm disease, and how is a person initially infected with it?",
+  "response": [
+    "doc_39233.txt",
+    "doc_12845.txt",
+    "doc_26779.txt",
+    "doc_26771.txt",
+    "doc_26775.txt"
+  ]
+}

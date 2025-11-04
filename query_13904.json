@@ -1,0 +1,10 @@
+{
+  "query": "What is the total square footage of Sunvalley Shopping Center?",
+  "response": [
+    "doc_24838.txt",
+    "doc_36557.txt",
+    "doc_27844.txt",
+    "doc_38890.txt",
+    "doc_24837.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Josephine Cochrane patent her invention?",
+  "response": [
+    "doc_6774.txt",
+    "doc_6776.txt",
+    "doc_6778.txt",
+    "doc_30034.txt",
+    "doc_6775.txt"
+  ]
+}

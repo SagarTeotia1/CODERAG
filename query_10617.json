@@ -1,0 +1,10 @@
+{
+  "query": "What year was *The Bonfire of the Vanities* published?",
+  "response": [
+    "doc_16685.txt",
+    "doc_22044.txt",
+    "doc_22045.txt",
+    "doc_22043.txt",
+    "doc_30676.txt"
+  ]
+}

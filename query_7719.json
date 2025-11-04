@@ -1,0 +1,10 @@
+{
+  "query": "What year was the album *Natural High* by The Commodores released?",
+  "response": [
+    "doc_9665.txt",
+    "doc_19638.txt",
+    "doc_19639.txt",
+    "doc_19643.txt",
+    "doc_19635.txt"
+  ]
+}

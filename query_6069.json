@@ -1,0 +1,10 @@
+{
+  "query": "Which municipality borders Durrës to the north?",
+  "response": [
+    "doc_34435.txt",
+    "doc_20834.txt",
+    "doc_4578.txt",
+    "doc_29057.txt",
+    "doc_34436.txt"
+  ]
+}

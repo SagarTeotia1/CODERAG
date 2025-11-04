@@ -1,0 +1,10 @@
+{
+  "query": "What is the current status of a legal case involving the Netherlands and the European Court of Justice?",
+  "response": [
+    "doc_16645.txt",
+    "doc_18354.txt",
+    "doc_18480.txt",
+    "doc_4280.txt",
+    "doc_22992.txt"
+  ]
+}

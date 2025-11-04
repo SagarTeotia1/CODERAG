@@ -1,0 +1,10 @@
+{
+  "query": "Where did Elvis perform his last concert?",
+  "response": [
+    "doc_36274.txt",
+    "doc_36270.txt",
+    "doc_36272.txt",
+    "doc_36273.txt",
+    "doc_36271.txt"
+  ]
+}

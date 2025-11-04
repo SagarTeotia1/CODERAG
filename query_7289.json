@@ -1,0 +1,10 @@
+{
+  "query": "What specific areas does the Rapporteur examine regarding poverty affecting women in the EU?",
+  "response": [
+    "doc_19400.txt",
+    "doc_19406.txt",
+    "doc_827.txt",
+    "doc_19404.txt",
+    "doc_14832.txt"
+  ]
+}

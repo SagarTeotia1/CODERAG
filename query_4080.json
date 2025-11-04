@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what type of procedure led to Louise Brown’s birth?",
+  "response": [
+    "doc_3696.txt",
+    "doc_3699.txt",
+    "doc_3694.txt",
+    "doc_3698.txt",
+    "doc_3695.txt"
+  ]
+}

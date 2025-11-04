@@ -1,0 +1,10 @@
+{
+  "query": "What is depicted in Gustave Boulanger’s painting, “The Slave Market”?",
+  "response": [
+    "doc_9378.txt",
+    "doc_30244.txt",
+    "doc_21284.txt",
+    "doc_2068.txt",
+    "doc_21280.txt"
+  ]
+}

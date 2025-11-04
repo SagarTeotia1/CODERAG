@@ -1,0 +1,10 @@
+{
+  "query": "How many Canadian Bowl championships has the team won?",
+  "response": [
+    "doc_32638.txt",
+    "doc_32632.txt",
+    "doc_38743.txt",
+    "doc_38739.txt",
+    "doc_38740.txt"
+  ]
+}

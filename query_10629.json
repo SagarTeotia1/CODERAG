@@ -1,0 +1,10 @@
+{
+  "query": "In what year did the “I Love New York” campaign involve a redesigned New Year’s Eve Ball?",
+  "response": [
+    "doc_16706.txt",
+    "doc_16711.txt",
+    "doc_16707.txt",
+    "doc_16713.txt",
+    "doc_39625.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year was Henrik Ibsen born?",
+  "response": [
+    "doc_7160.txt",
+    "doc_7161.txt",
+    "doc_2798.txt",
+    "doc_2796.txt",
+    "doc_2787.txt"
+  ]
+}

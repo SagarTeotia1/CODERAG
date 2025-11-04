@@ -1,0 +1,10 @@
+{
+  "query": "In the case of a Prime Minister’s absence, what mechanism does the Swedish government utilize to determine a temporary head of government?",
+  "response": [
+    "doc_28507.txt",
+    "doc_29287.txt",
+    "doc_29286.txt",
+    "doc_29293.txt",
+    "doc_4787.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What temperature is considered normal for body temperature, according to the Cleveland Clinic?",
+  "response": [
+    "doc_8410.txt",
+    "doc_8414.txt",
+    "doc_8413.txt",
+    "doc_8411.txt",
+    "doc_8412.txt"
+  ]
+}

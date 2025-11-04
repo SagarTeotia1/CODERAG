@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what specific requirements must lawyers from other EU Member States meet to be included on List I?",
+  "response": [
+    "doc_13979.txt",
+    "doc_17242.txt",
+    "doc_23129.txt",
+    "doc_3610.txt",
+    "doc_12743.txt"
+  ]
+}

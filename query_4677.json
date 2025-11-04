@@ -1,0 +1,10 @@
+{
+  "query": "What is the mailing address for Eileen K. Crawford?",
+  "response": [
+    "doc_24084.txt",
+    "doc_38618.txt",
+    "doc_24080.txt",
+    "doc_5246.txt",
+    "doc_24078.txt"
+  ]
+}

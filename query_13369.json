@@ -1,0 +1,10 @@
+{
+  "query": "What sentence was Nasrin Sotoudeh given, and for what charges?",
+  "response": [
+    "doc_23486.txt",
+    "doc_23487.txt",
+    "doc_40008.txt",
+    "doc_23846.txt",
+    "doc_23847.txt"
+  ]
+}

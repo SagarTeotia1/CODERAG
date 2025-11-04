@@ -1,0 +1,10 @@
+{
+  "query": "In what state were the Hatfields located?",
+  "response": [
+    "doc_33568.txt",
+    "doc_33569.txt",
+    "doc_33570.txt",
+    "doc_33567.txt",
+    "doc_33574.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What legal basis supports the Commission’s proposed decision regarding the exchange of criminal record information?",
+  "response": [
+    "doc_15405.txt",
+    "doc_17323.txt",
+    "doc_18993.txt",
+    "doc_15403.txt",
+    "doc_15404.txt"
+  ]
+}

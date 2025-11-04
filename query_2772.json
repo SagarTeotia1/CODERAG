@@ -1,0 +1,10 @@
+{
+  "query": "Which sector is the questioner suggesting the Commission consider reintroducing export refunds for?",
+  "response": [
+    "doc_35243.txt",
+    "doc_4683.txt",
+    "doc_34870.txt",
+    "doc_9826.txt",
+    "doc_16808.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the Institute of International and European Affairs dedicated to studying?",
+  "response": [
+    "doc_32804.txt",
+    "doc_20731.txt",
+    "doc_1497.txt",
+    "doc_3564.txt",
+    "doc_29959.txt"
+  ]
+}

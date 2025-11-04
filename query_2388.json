@@ -1,0 +1,10 @@
+{
+  "query": "What is the title of the book referenced in multiple URLs, focusing on dialogue in screwball comedies and featuring Ben Hecht and Charles MacArthur?",
+  "response": [
+    "doc_33224.txt",
+    "doc_33216.txt",
+    "doc_33215.txt",
+    "doc_33222.txt",
+    "doc_33218.txt"
+  ]
+}

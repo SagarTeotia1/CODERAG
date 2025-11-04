@@ -1,0 +1,10 @@
+{
+  "query": "What collection is associated with Cristina's style?",
+  "response": [
+    "doc_22651.txt",
+    "doc_10101.txt",
+    "doc_19576.txt",
+    "doc_23293.txt",
+    "doc_23288.txt"
+  ]
+}

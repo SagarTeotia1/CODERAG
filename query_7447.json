@@ -1,0 +1,10 @@
+{
+  "query": "What was Peter Behrens’ profession?",
+  "response": [
+    "doc_8967.txt",
+    "doc_15264.txt",
+    "doc_10054.txt",
+    "doc_15266.txt",
+    "doc_14289.txt"
+  ]
+}

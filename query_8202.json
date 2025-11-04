@@ -1,0 +1,10 @@
+{
+  "query": "Given the scale of worldwide migratory movement, what strategies does the Council intend to pursue?",
+  "response": [
+    "doc_10910.txt",
+    "doc_19372.txt",
+    "doc_27784.txt",
+    "doc_27820.txt",
+    "doc_28631.txt"
+  ]
+}

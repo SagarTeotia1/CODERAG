@@ -1,0 +1,10 @@
+{
+  "query": "What is the maximum flow rate of the All-American Canal?",
+  "response": [
+    "doc_12778.txt",
+    "doc_23489.txt",
+    "doc_23492.txt",
+    "doc_19096.txt",
+    "doc_23491.txt"
+  ]
+}

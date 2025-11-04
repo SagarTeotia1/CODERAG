@@ -1,0 +1,10 @@
+{
+  "query": "For which city is The Lodge audio mastering facility located?",
+  "response": [
+    "doc_19760.txt",
+    "doc_23950.txt",
+    "doc_35021.txt",
+    "doc_37167.txt",
+    "doc_38863.txt"
+  ]
+}

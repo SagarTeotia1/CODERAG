@@ -1,0 +1,10 @@
+{
+  "query": "What is the approximate number of residents in the localities discharging untreated sewage into the Ria de Corcubion bay?",
+  "response": [
+    "doc_1174.txt",
+    "doc_32100.txt",
+    "doc_2186.txt",
+    "doc_22102.txt",
+    "doc_40271.txt"
+  ]
+}

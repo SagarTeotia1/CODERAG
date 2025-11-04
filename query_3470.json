@@ -1,0 +1,10 @@
+{
+  "query": "What two large lakes are connected by the Tipitapa River?",
+  "response": [
+    "doc_3512.txt",
+    "doc_3510.txt",
+    "doc_3511.txt",
+    "doc_3513.txt",
+    "doc_3508.txt"
+  ]
+}

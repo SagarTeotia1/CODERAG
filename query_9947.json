@@ -1,0 +1,10 @@
+{
+  "query": "What artistic movement was Antoni Egea initially influenced by?",
+  "response": [
+    "doc_11416.txt",
+    "doc_26619.txt",
+    "doc_26622.txt",
+    "doc_11415.txt",
+    "doc_26620.txt"
+  ]
+}

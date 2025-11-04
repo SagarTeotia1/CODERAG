@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how many lawyers are members of the American Bar Association?",
+  "response": [
+    "doc_530.txt",
+    "doc_38160.txt",
+    "doc_30130.txt",
+    "doc_27963.txt",
+    "doc_32509.txt"
+  ]
+}

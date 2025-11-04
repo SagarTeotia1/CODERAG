@@ -1,0 +1,10 @@
+{
+  "query": "How many times was “A Gun for Sale” filmed under different titles?",
+  "response": [
+    "doc_26012.txt",
+    "doc_31757.txt",
+    "doc_31755.txt",
+    "doc_31750.txt",
+    "doc_6540.txt"
+  ]
+}

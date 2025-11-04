@@ -1,0 +1,10 @@
+{
+  "query": "What specific EU directives were undertaken to protect biodiversity, and what is the name of one of them?",
+  "response": [
+    "doc_2954.txt",
+    "doc_21133.txt",
+    "doc_16493.txt",
+    "doc_14060.txt",
+    "doc_30000.txt"
+  ]
+}

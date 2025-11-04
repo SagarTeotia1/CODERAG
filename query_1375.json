@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what type of building was constructed by Jeremiah Grady?",
+  "response": [
+    "doc_100.txt",
+    "doc_17476.txt",
+    "doc_17478.txt",
+    "doc_7629.txt",
+    "doc_8105.txt"
+  ]
+}

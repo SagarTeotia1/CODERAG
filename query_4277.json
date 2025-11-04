@@ -1,0 +1,10 @@
+{
+  "query": "What investment strategy is associated with Harry Browne and referenced in multiple articles?",
+  "response": [
+    "doc_37595.txt",
+    "doc_37596.txt",
+    "doc_37591.txt",
+    "doc_37590.txt",
+    "doc_37592.txt"
+  ]
+}

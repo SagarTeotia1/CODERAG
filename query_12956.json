@@ -1,0 +1,10 @@
+{
+  "query": "Which counties does Mississippi Highway 35 pass through?",
+  "response": [
+    "doc_22623.txt",
+    "doc_20603.txt",
+    "doc_2396.txt",
+    "doc_39755.txt",
+    "doc_24788.txt"
+  ]
+}

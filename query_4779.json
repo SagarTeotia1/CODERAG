@@ -1,0 +1,10 @@
+{
+  "query": "What concern have French farmers expressed regarding European rules on plant varieties?",
+  "response": [
+    "doc_38837.txt",
+    "doc_28300.txt",
+    "doc_7763.txt",
+    "doc_7762.txt",
+    "doc_16466.txt"
+  ]
+}

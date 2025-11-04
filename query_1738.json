@@ -1,0 +1,10 @@
+{
+  "query": "What specific European Union fund was used to co-finance the Via do Infante project, and over what time period did the majority of that funding occur?",
+  "response": [
+    "doc_31509.txt",
+    "doc_36524.txt",
+    "doc_10867.txt",
+    "doc_40306.txt",
+    "doc_52.txt"
+  ]
+}

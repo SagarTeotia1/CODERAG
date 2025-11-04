@@ -1,0 +1,10 @@
+{
+  "query": "How many coaches have led the Utah Utes to postseason bowl games?",
+  "response": [
+    "doc_21539.txt",
+    "doc_10516.txt",
+    "doc_10517.txt",
+    "doc_35443.txt",
+    "doc_25623.txt"
+  ]
+}

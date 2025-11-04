@@ -1,0 +1,10 @@
+{
+  "query": "When was the impeachment process against Richard Nixon formally initiated?",
+  "response": [
+    "doc_37695.txt",
+    "doc_27733.txt",
+    "doc_25319.txt",
+    "doc_18201.txt",
+    "doc_28262.txt"
+  ]
+}

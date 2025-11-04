@@ -1,0 +1,10 @@
+{
+  "query": "When did Harvey Danger play a live performance on “Rove”?",
+  "response": [
+    "doc_34065.txt",
+    "doc_12531.txt",
+    "doc_36810.txt",
+    "doc_36811.txt",
+    "doc_35314.txt"
+  ]
+}

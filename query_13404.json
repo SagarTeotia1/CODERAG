@@ -1,0 +1,10 @@
+{
+  "query": "What edition of The Chicago Manual of Style is currently published by the University of Chicago Press?",
+  "response": [
+    "doc_23571.txt",
+    "doc_23579.txt",
+    "doc_23572.txt",
+    "doc_23577.txt",
+    "doc_23580.txt"
+  ]
+}

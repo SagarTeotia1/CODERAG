@@ -1,0 +1,10 @@
+{
+  "query": "Is the construction project receiving ERDF or other EU funding, or does it form part of another project receiving EU funding?",
+  "response": [
+    "doc_28530.txt",
+    "doc_12521.txt",
+    "doc_15811.txt",
+    "doc_36524.txt",
+    "doc_21990.txt"
+  ]
+}

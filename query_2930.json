@@ -1,0 +1,10 @@
+{
+  "query": "What is the relationship between “Red Dragon” and “Silence of the Lambs”?",
+  "response": [
+    "doc_34454.txt",
+    "doc_34457.txt",
+    "doc_34458.txt",
+    "doc_34455.txt",
+    "doc_34456.txt"
+  ]
+}

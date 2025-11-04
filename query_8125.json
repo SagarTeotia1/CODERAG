@@ -1,0 +1,10 @@
+{
+  "query": "According to the text, what is a characteristic of Dr. Seuss’s writing style (e.g., rhyming)?",
+  "response": [
+    "doc_10715.txt",
+    "doc_32847.txt",
+    "doc_32854.txt",
+    "doc_10722.txt",
+    "doc_10714.txt"
+  ]
+}

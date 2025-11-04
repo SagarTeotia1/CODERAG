@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of the Commission’s ongoing antitrust cases are currently based on Article 82 of the EC Treaty?",
+  "response": [
+    "doc_2718.txt",
+    "doc_2719.txt",
+    "doc_28730.txt",
+    "doc_30297.txt",
+    "doc_193.txt"
+  ]
+}

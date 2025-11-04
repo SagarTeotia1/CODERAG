@@ -1,0 +1,10 @@
+{
+  "query": "How many National Film Awards for Best Actor has Vikram received?",
+  "response": [
+    "doc_36340.txt",
+    "doc_36343.txt",
+    "doc_36342.txt",
+    "doc_27325.txt",
+    "doc_27322.txt"
+  ]
+}

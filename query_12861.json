@@ -1,0 +1,10 @@
+{
+  "query": "Which Food Network television shows feature Duff Goldman as a host or judge?",
+  "response": [
+    "doc_22364.txt",
+    "doc_22365.txt",
+    "doc_30366.txt",
+    "doc_30365.txt",
+    "doc_34065.txt"
+  ]
+}

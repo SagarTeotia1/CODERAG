@@ -1,0 +1,10 @@
+{
+  "query": "What was the final record of the 2012 Florida Gators football team?",
+  "response": [
+    "doc_5461.txt",
+    "doc_5460.txt",
+    "doc_25623.txt",
+    "doc_32259.txt",
+    "doc_32258.txt"
+  ]
+}

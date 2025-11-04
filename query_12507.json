@@ -1,0 +1,10 @@
+{
+  "query": "According to “The Detroit Post,” what is Andrew Johnson’s stated reason for being innocent?",
+  "response": [
+    "doc_21464.txt",
+    "doc_21466.txt",
+    "doc_12808.txt",
+    "doc_20041.txt",
+    "doc_21467.txt"
+  ]
+}

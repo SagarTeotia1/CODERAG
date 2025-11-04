@@ -1,0 +1,10 @@
+{
+  "query": "Describe the body shape of West Indian manatees according to the passage.",
+  "response": [
+    "doc_6083.txt",
+    "doc_6079.txt",
+    "doc_6077.txt",
+    "doc_6082.txt",
+    "doc_6080.txt"
+  ]
+}

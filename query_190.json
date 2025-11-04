@@ -1,0 +1,10 @@
+{
+  "query": "Where was Alice Geer Kelsey born and what did she do during World War I?",
+  "response": [
+    "doc_33478.txt",
+    "doc_5283.txt",
+    "doc_32357.txt",
+    "doc_21040.txt",
+    "doc_9670.txt"
+  ]
+}

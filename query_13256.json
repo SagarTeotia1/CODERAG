@@ -1,0 +1,10 @@
+{
+  "query": "In what year was “Sonic Rush Adventure” released?",
+  "response": [
+    "doc_39783.txt",
+    "doc_20568.txt",
+    "doc_29902.txt",
+    "doc_4600.txt",
+    "doc_38559.txt"
+  ]
+}

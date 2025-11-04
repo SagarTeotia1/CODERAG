@@ -1,0 +1,10 @@
+{
+  "query": "What is the British Government planning to cut from public spending?",
+  "response": [
+    "doc_16896.txt",
+    "doc_15508.txt",
+    "doc_15509.txt",
+    "doc_16259.txt",
+    "doc_15566.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to the text, who voiced Fleegle the dog?",
+  "response": [
+    "doc_5855.txt",
+    "doc_5854.txt",
+    "doc_5851.txt",
+    "doc_5853.txt",
+    "doc_5849.txt"
+  ]
+}

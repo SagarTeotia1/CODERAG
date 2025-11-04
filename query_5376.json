@@ -1,0 +1,10 @@
+{
+  "query": "When did negotiations between the EU and Mercosur trade bloc begin, and when were they last suspended?",
+  "response": [
+    "doc_7070.txt",
+    "doc_10248.txt",
+    "doc_2352.txt",
+    "doc_40159.txt",
+    "doc_1974.txt"
+  ]
+}

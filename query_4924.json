@@ -1,0 +1,10 @@
+{
+  "query": "What type of place of worship is St. Paul's Evangelical Lutheran Church?",
+  "response": [
+    "doc_39184.txt",
+    "doc_39177.txt",
+    "doc_39178.txt",
+    "doc_39181.txt",
+    "doc_39179.txt"
+  ]
+}

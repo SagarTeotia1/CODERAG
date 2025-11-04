@@ -1,0 +1,10 @@
+{
+  "query": "In what year was a Senior Citizens' Parliament held in Luxembourg?",
+  "response": [
+    "doc_11313.txt",
+    "doc_19813.txt",
+    "doc_23700.txt",
+    "doc_3149.txt",
+    "doc_36212.txt"
+  ]
+}

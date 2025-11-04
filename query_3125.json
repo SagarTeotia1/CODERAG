@@ -1,0 +1,10 @@
+{
+  "query": "Is the Commission aware of the theft from American company CardSystems Solutions, in which the details of 40 million credit card holders were stolen?",
+  "response": [
+    "doc_3437.txt",
+    "doc_28419.txt",
+    "doc_8516.txt",
+    "doc_29152.txt",
+    "doc_25973.txt"
+  ]
+}

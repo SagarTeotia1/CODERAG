@@ -1,0 +1,10 @@
+{
+  "query": "Where is the Hawaiian goose (nene) endemic to?",
+  "response": [
+    "doc_18176.txt",
+    "doc_18175.txt",
+    "doc_18174.txt",
+    "doc_18173.txt",
+    "doc_18172.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Where did the Whitestone Branch of the Long Island Rail Road run?",
+  "response": [
+    "doc_15113.txt",
+    "doc_37582.txt",
+    "doc_1136.txt",
+    "doc_28529.txt",
+    "doc_37579.txt"
+  ]
+}

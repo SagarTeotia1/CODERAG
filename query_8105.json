@@ -1,0 +1,10 @@
+{
+  "query": "What type of movie is “Signal One”?",
+  "response": [
+    "doc_12225.txt",
+    "doc_40073.txt",
+    "doc_19043.txt",
+    "doc_5633.txt",
+    "doc_30862.txt"
+  ]
+}

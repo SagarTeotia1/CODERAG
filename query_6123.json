@@ -1,0 +1,10 @@
+{
+  "query": "According to the law, what are the primary responsibilities of the Turkish National Intelligence Organization (MIT)?",
+  "response": [
+    "doc_5676.txt",
+    "doc_7512.txt",
+    "doc_7851.txt",
+    "doc_19441.txt",
+    "doc_27730.txt"
+  ]
+}

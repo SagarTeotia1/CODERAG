@@ -1,0 +1,10 @@
+{
+  "query": "What is the wingspan of an Andean condor?",
+  "response": [
+    "doc_19801.txt",
+    "doc_19800.txt",
+    "doc_19802.txt",
+    "doc_152.txt",
+    "doc_19804.txt"
+  ]
+}

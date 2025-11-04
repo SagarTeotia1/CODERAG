@@ -1,0 +1,10 @@
+{
+  "query": "What films did Lionel Banks work on between 1935 and 1949?",
+  "response": [
+    "doc_26326.txt",
+    "doc_26317.txt",
+    "doc_26319.txt",
+    "doc_26318.txt",
+    "doc_26325.txt"
+  ]
+}

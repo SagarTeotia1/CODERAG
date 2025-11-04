@@ -1,0 +1,10 @@
+{
+  "query": "According to the poll, what percentage of business chief executives believe the EU is ‘failing’?",
+  "response": [
+    "doc_20430.txt",
+    "doc_4845.txt",
+    "doc_38257.txt",
+    "doc_16625.txt",
+    "doc_30017.txt"
+  ]
+}

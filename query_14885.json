@@ -1,0 +1,10 @@
+{
+  "query": "According to one of the articles, who plays Coach Taylor in the series?",
+  "response": [
+    "doc_27251.txt",
+    "doc_27254.txt",
+    "doc_27257.txt",
+    "doc_27252.txt",
+    "doc_27256.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which episode of “The Office” was written by Paul Lieberstein?",
+  "response": [
+    "doc_22485.txt",
+    "doc_4031.txt",
+    "doc_7368.txt",
+    "doc_22487.txt",
+    "doc_4033.txt"
+  ]
+}

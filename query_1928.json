@@ -1,0 +1,10 @@
+{
+  "query": "What type of contact did Commissioner Kroes have with the Belgian Finance Minister, Mr. Reynders, during the investigation?",
+  "response": [
+    "doc_32034.txt",
+    "doc_37729.txt",
+    "doc_37730.txt",
+    "doc_1351.txt",
+    "doc_39806.txt"
+  ]
+}

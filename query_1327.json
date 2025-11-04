@@ -1,0 +1,10 @@
+{
+  "query": "During what event was Dr. Martin Luther King, Jr. arrested?",
+  "response": [
+    "doc_30536.txt",
+    "doc_30538.txt",
+    "doc_30535.txt",
+    "doc_30539.txt",
+    "doc_30540.txt"
+  ]
+}

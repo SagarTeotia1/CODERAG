@@ -1,0 +1,10 @@
+{
+  "query": "Which body assists the Commission in the field of indirect taxation, as referenced in Article 7?",
+  "response": [
+    "doc_20488.txt",
+    "doc_39896.txt",
+    "doc_7286.txt",
+    "doc_2657.txt",
+    "doc_20487.txt"
+  ]
+}

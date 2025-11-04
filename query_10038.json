@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the Ashworth building completed?",
+  "response": [
+    "doc_2553.txt",
+    "doc_6066.txt",
+    "doc_6200.txt",
+    "doc_7630.txt",
+    "doc_7634.txt"
+  ]
+}

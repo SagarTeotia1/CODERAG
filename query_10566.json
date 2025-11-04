@@ -1,0 +1,10 @@
+{
+  "query": "Which film, directed by José Padilha, is based on a book about the BOPE Special Police Operations Battalion?",
+  "response": [
+    "doc_1629.txt",
+    "doc_1630.txt",
+    "doc_28276.txt",
+    "doc_14570.txt",
+    "doc_14571.txt"
+  ]
+}

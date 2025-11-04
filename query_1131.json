@@ -1,0 +1,10 @@
+{
+  "query": "In what film did Kim Basinger portray the character Domino Petachi?",
+  "response": [
+    "doc_37632.txt",
+    "doc_8225.txt",
+    "doc_36922.txt",
+    "doc_7794.txt",
+    "doc_36926.txt"
+  ]
+}

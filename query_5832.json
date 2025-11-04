@@ -1,0 +1,10 @@
+{
+  "query": "When was the Jama Masjid (Friday Mosque) built?",
+  "response": [
+    "doc_38218.txt",
+    "doc_21829.txt",
+    "doc_38217.txt",
+    "doc_38219.txt",
+    "doc_38216.txt"
+  ]
+}

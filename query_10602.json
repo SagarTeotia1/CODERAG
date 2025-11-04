@@ -1,0 +1,10 @@
+{
+  "query": "When was a complaint lodged with the Commission regarding Italian Swimming Federation rules?",
+  "response": [
+    "doc_16662.txt",
+    "doc_37770.txt",
+    "doc_33463.txt",
+    "doc_35899.txt",
+    "doc_1077.txt"
+  ]
+}

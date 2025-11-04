@@ -1,0 +1,10 @@
+{
+  "query": "According to Open Europe, what is the estimated cost of EU regulations and directives in the UK?",
+  "response": [
+    "doc_37701.txt",
+    "doc_19960.txt",
+    "doc_31532.txt",
+    "doc_36803.txt",
+    "doc_11174.txt"
+  ]
+}

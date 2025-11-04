@@ -1,0 +1,10 @@
+{
+  "query": "What character was Joanne based on?",
+  "response": [
+    "doc_7781.txt",
+    "doc_7782.txt",
+    "doc_18180.txt",
+    "doc_7780.txt",
+    "doc_7785.txt"
+  ]
+}

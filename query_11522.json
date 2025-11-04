@@ -1,0 +1,10 @@
+{
+  "query": "What type of undergarment is Anna described as wearing?",
+  "response": [
+    "doc_18927.txt",
+    "doc_18928.txt",
+    "doc_16343.txt",
+    "doc_34406.txt",
+    "doc_30035.txt"
+  ]
+}

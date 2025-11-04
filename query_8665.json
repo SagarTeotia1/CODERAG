@@ -1,0 +1,10 @@
+{
+  "query": "Which committees of the Assembly will meet between 4:30pm and 7pm?",
+  "response": [
+    "doc_11976.txt",
+    "doc_36325.txt",
+    "doc_31703.txt",
+    "doc_13057.txt",
+    "doc_23697.txt"
+  ]
+}

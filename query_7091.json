@@ -1,0 +1,10 @@
+{
+  "query": "What restaurant is mentioned as being part of a “Family Fun Package” available from South Beach Resort Hotel?",
+  "response": [
+    "doc_2901.txt",
+    "doc_2900.txt",
+    "doc_7753.txt",
+    "doc_22422.txt",
+    "doc_33398.txt"
+  ]
+}

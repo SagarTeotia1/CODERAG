@@ -1,0 +1,10 @@
+{
+  "query": "What type of artist was Sylvie Vartan known as?",
+  "response": [
+    "doc_38967.txt",
+    "doc_38966.txt",
+    "doc_12091.txt",
+    "doc_38836.txt",
+    "doc_38968.txt"
+  ]
+}

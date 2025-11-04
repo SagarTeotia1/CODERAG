@@ -1,0 +1,10 @@
+{
+  "query": "Which budgetary lines are centrally and directly managed by the Commission for grants to UK beneficiaries?",
+  "response": [
+    "doc_13611.txt",
+    "doc_13588.txt",
+    "doc_29851.txt",
+    "doc_16737.txt",
+    "doc_33253.txt"
+  ]
+}

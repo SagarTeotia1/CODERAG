@@ -1,0 +1,10 @@
+{
+  "query": "In what year was “Star Wars: Rebel Assault” released?",
+  "response": [
+    "doc_23678.txt",
+    "doc_23679.txt",
+    "doc_34822.txt",
+    "doc_26040.txt",
+    "doc_26041.txt"
+  ]
+}

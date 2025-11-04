@@ -1,0 +1,10 @@
+{
+  "query": "What was Edward Kennedy Ellington’s father’s profession?",
+  "response": [
+    "doc_11476.txt",
+    "doc_11481.txt",
+    "doc_11480.txt",
+    "doc_11475.txt",
+    "doc_11479.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In 1968, what military academy did Ahmed Hassan al-Bakr attend?",
+  "response": [
+    "doc_18414.txt",
+    "doc_23310.txt",
+    "doc_18417.txt",
+    "doc_2461.txt",
+    "doc_23311.txt"
+  ]
+}

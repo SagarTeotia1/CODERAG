@@ -1,0 +1,10 @@
+{
+  "query": "How long is the proposed California–Nevada Interstate Maglev project?",
+  "response": [
+    "doc_21485.txt",
+    "doc_11168.txt",
+    "doc_9751.txt",
+    "doc_5922.txt",
+    "doc_9859.txt"
+  ]
+}

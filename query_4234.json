@@ -1,0 +1,10 @@
+{
+  "query": "What is the approximate population breakdown of Birdville High School according to the 2009-2010 TEA data?",
+  "response": [
+    "doc_37016.txt",
+    "doc_22506.txt",
+    "doc_29775.txt",
+    "doc_24113.txt",
+    "doc_22886.txt"
+  ]
+}

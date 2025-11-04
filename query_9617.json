@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Alan Culpepper achieve his fastest marathon time?",
+  "response": [
+    "doc_14256.txt",
+    "doc_14255.txt",
+    "doc_31484.txt",
+    "doc_31478.txt",
+    "doc_15831.txt"
+  ]
+}

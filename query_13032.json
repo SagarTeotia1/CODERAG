@@ -1,0 +1,10 @@
+{
+  "query": "Which taxes have been harmonized within the Community according to Mr. Bolkestein’s statement?",
+  "response": [
+    "doc_13822.txt",
+    "doc_14612.txt",
+    "doc_22750.txt",
+    "doc_28508.txt",
+    "doc_4975.txt"
+  ]
+}

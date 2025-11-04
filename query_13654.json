@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission’s stance regarding alleged human rights violations in Gaza?",
+  "response": [
+    "doc_20208.txt",
+    "doc_2338.txt",
+    "doc_34964.txt",
+    "doc_6205.txt",
+    "doc_5940.txt"
+  ]
+}

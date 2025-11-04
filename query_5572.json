@@ -1,0 +1,10 @@
+{
+  "query": "Where is the Market Square Shopping Centre located?",
+  "response": [
+    "doc_36841.txt",
+    "doc_4235.txt",
+    "doc_12388.txt",
+    "doc_12392.txt",
+    "doc_4236.txt"
+  ]
+}

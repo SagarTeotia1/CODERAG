@@ -1,0 +1,10 @@
+{
+  "query": "When did Eva Braun meet Adolf Hitler?",
+  "response": [
+    "doc_3491.txt",
+    "doc_3490.txt",
+    "doc_3489.txt",
+    "doc_19291.txt",
+    "doc_1844.txt"
+  ]
+}

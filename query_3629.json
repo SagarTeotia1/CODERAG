@@ -1,0 +1,10 @@
+{
+  "query": "In what region of New Zealand is the town of Whitianga located?",
+  "response": [
+    "doc_18219.txt",
+    "doc_18224.txt",
+    "doc_36049.txt",
+    "doc_30374.txt",
+    "doc_18223.txt"
+  ]
+}

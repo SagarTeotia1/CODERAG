@@ -1,0 +1,10 @@
+{
+  "query": "When was the first “Outlander” novel published?",
+  "response": [
+    "doc_12266.txt",
+    "doc_12265.txt",
+    "doc_12268.txt",
+    "doc_38268.txt",
+    "doc_12269.txt"
+  ]
+}

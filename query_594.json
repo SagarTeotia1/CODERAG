@@ -1,0 +1,10 @@
+{
+  "query": "Which director is associated with the 2004 South Korean film “3-Iron”?",
+  "response": [
+    "doc_28595.txt",
+    "doc_28596.txt",
+    "doc_39186.txt",
+    "doc_31789.txt",
+    "doc_39187.txt"
+  ]
+}

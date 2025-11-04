@@ -1,0 +1,10 @@
+{
+  "query": "When was the Commission’s communication titled ‘A better functioning food supply chain in Europe’ published?",
+  "response": [
+    "doc_12400.txt",
+    "doc_9084.txt",
+    "doc_31879.txt",
+    "doc_5379.txt",
+    "doc_28146.txt"
+  ]
+}

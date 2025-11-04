@@ -1,0 +1,10 @@
+{
+  "query": "What statement did a president declare regarding an invasion of Formosa?",
+  "response": [
+    "doc_1701.txt",
+    "doc_34502.txt",
+    "doc_16744.txt",
+    "doc_5742.txt",
+    "doc_6673.txt"
+  ]
+}

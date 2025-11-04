@@ -1,0 +1,10 @@
+{
+  "query": "Where was the Bridge of Sighs located?",
+  "response": [
+    "doc_10671.txt",
+    "doc_10669.txt",
+    "doc_10668.txt",
+    "doc_10670.txt",
+    "doc_10666.txt"
+  ]
+}

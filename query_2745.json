@@ -1,0 +1,10 @@
+{
+  "query": "From where did Custer begin his military career?",
+  "response": [
+    "doc_34080.txt",
+    "doc_34085.txt",
+    "doc_34082.txt",
+    "doc_34081.txt",
+    "doc_34078.txt"
+  ]
+}

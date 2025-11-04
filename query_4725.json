@@ -1,0 +1,10 @@
+{
+  "query": "In what year was Irving Stone’s account of Van Gogh’s life published?",
+  "response": [
+    "doc_3847.txt",
+    "doc_3846.txt",
+    "doc_3848.txt",
+    "doc_3849.txt",
+    "doc_3850.txt"
+  ]
+}

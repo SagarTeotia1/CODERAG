@@ -1,0 +1,10 @@
+{
+  "query": "What was the percentage increase in basic salaries of managers in Austria between 2006 and 2007?",
+  "response": [
+    "doc_16086.txt",
+    "doc_29627.txt",
+    "doc_14440.txt",
+    "doc_12593.txt",
+    "doc_418.txt"
+  ]
+}

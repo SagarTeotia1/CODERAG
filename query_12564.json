@@ -1,0 +1,10 @@
+{
+  "query": "Newcastle is known for what type of coastline?",
+  "response": [
+    "doc_20053.txt",
+    "doc_20051.txt",
+    "doc_20052.txt",
+    "doc_20054.txt",
+    "doc_34192.txt"
+  ]
+}

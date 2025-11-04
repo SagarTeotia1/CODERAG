@@ -1,0 +1,10 @@
+{
+  "query": "Which actor played Detective Sergeant John Ho in “The Chinese Detective”?",
+  "response": [
+    "doc_8354.txt",
+    "doc_27588.txt",
+    "doc_8277.txt",
+    "doc_26527.txt",
+    "doc_30430.txt"
+  ]
+}

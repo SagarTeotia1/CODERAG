@@ -1,0 +1,10 @@
+{
+  "query": "Which actor is best known for playing Lando Calrissian in “Star Wars”?",
+  "response": [
+    "doc_5434.txt",
+    "doc_3950.txt",
+    "doc_22572.txt",
+    "doc_16672.txt",
+    "doc_19842.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which corporations are listed on the Global Exchange’s “Top Ten Corporate Criminals List”?",
+  "response": [
+    "doc_38568.txt",
+    "doc_15982.txt",
+    "doc_19299.txt",
+    "doc_26973.txt",
+    "doc_37668.txt"
+  ]
+}

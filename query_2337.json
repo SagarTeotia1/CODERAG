@@ -1,0 +1,10 @@
+{
+  "query": "What flavors are available for Ball Park's Finest Hot Dogs?",
+  "response": [
+    "doc_3218.txt",
+    "doc_3220.txt",
+    "doc_34025.txt",
+    "doc_3219.txt",
+    "doc_34029.txt"
+  ]
+}

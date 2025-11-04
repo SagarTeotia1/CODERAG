@@ -1,0 +1,10 @@
+{
+  "query": "What genre is the movie *American Ultra*?",
+  "response": [
+    "doc_8683.txt",
+    "doc_8675.txt",
+    "doc_8674.txt",
+    "doc_8681.txt",
+    "doc_8682.txt"
+  ]
+}

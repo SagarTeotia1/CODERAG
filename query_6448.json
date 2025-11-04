@@ -1,0 +1,10 @@
+{
+  "query": "Which province in Costa Rica is a major growing area for coffee production?",
+  "response": [
+    "doc_6463.txt",
+    "doc_6464.txt",
+    "doc_6466.txt",
+    "doc_34793.txt",
+    "doc_6465.txt"
+  ]
+}

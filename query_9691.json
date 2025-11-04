@@ -1,0 +1,10 @@
+{
+  "query": "What type of work was Paul known for over the past 35 years?",
+  "response": [
+    "doc_21928.txt",
+    "doc_4878.txt",
+    "doc_8178.txt",
+    "doc_5182.txt",
+    "doc_12500.txt"
+  ]
+}

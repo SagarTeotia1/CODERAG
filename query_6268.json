@@ -1,0 +1,10 @@
+{
+  "query": "What is the average amount of unsolicited advertising material received by a European citizen each year?",
+  "response": [
+    "doc_23397.txt",
+    "doc_8379.txt",
+    "doc_10124.txt",
+    "doc_23980.txt",
+    "doc_5481.txt"
+  ]
+}

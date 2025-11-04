@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission’s purpose in evaluating the Agreement’s implementation?",
+  "response": [
+    "doc_28216.txt",
+    "doc_2495.txt",
+    "doc_1495.txt",
+    "doc_23788.txt",
+    "doc_33260.txt"
+  ]
+}

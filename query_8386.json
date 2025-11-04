@@ -1,0 +1,10 @@
+{
+  "query": "According to Catholic agencies, who was arrested during the events in Chennai, India?",
+  "response": [
+    "doc_11312.txt",
+    "doc_17588.txt",
+    "doc_7815.txt",
+    "doc_6938.txt",
+    "doc_15952.txt"
+  ]
+}

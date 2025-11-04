@@ -1,0 +1,10 @@
+{
+  "query": "What is the LIA’s stated mission according to its website?",
+  "response": [
+    "doc_22105.txt",
+    "doc_15791.txt",
+    "doc_730.txt",
+    "doc_731.txt",
+    "doc_733.txt"
+  ]
+}

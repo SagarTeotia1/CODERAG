@@ -1,0 +1,10 @@
+{
+  "query": "What kind of workshops are offered at Humboldt State University related to music and arts?",
+  "response": [
+    "doc_18381.txt",
+    "doc_18383.txt",
+    "doc_18382.txt",
+    "doc_26198.txt",
+    "doc_18451.txt"
+  ]
+}

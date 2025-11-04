@@ -1,0 +1,10 @@
+{
+  "query": "What level of biofuel blends were European automotive vehicles confirmed to be capable of using in 2006?",
+  "response": [
+    "doc_15175.txt",
+    "doc_3991.txt",
+    "doc_22058.txt",
+    "doc_14494.txt",
+    "doc_26795.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which opera composer collaborated with Luigi Illica on libretti?",
+  "response": [
+    "doc_1492.txt",
+    "doc_10685.txt",
+    "doc_1489.txt",
+    "doc_16333.txt",
+    "doc_1491.txt"
+  ]
+}

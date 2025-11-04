@@ -1,0 +1,10 @@
+{
+  "query": "Who collaborated with Pete Yorn on the single “Relator”?",
+  "response": [
+    "doc_36873.txt",
+    "doc_36874.txt",
+    "doc_15903.txt",
+    "doc_15904.txt",
+    "doc_22574.txt"
+  ]
+}

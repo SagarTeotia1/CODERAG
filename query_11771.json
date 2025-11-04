@@ -1,0 +1,10 @@
+{
+  "query": "According to UN estimates, how many people have lost their lives in Syria since March 2011?",
+  "response": [
+    "doc_19650.txt",
+    "doc_19651.txt",
+    "doc_25915.txt",
+    "doc_26033.txt",
+    "doc_15061.txt"
+  ]
+}

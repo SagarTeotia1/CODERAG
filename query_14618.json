@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Paul Auster purchase the Olympia typewriter?",
+  "response": [
+    "doc_7331.txt",
+    "doc_18289.txt",
+    "doc_12952.txt",
+    "doc_184.txt",
+    "doc_33598.txt"
+  ]
+}

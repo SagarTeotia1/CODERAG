@@ -1,0 +1,10 @@
+{
+  "query": "According to the World Bank, what percentage of their total administrative budget in Afghanistan accounts for identifiable security-related costs?",
+  "response": [
+    "doc_20613.txt",
+    "doc_6550.txt",
+    "doc_40178.txt",
+    "doc_12450.txt",
+    "doc_5757.txt"
+  ]
+}

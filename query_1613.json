@@ -1,0 +1,10 @@
+{
+  "query": "What year was the song “It Don’t Mean a Thing (If It Ain’t Got That Swing)” released?",
+  "response": [
+    "doc_31194.txt",
+    "doc_31196.txt",
+    "doc_31195.txt",
+    "doc_31193.txt",
+    "doc_31192.txt"
+  ]
+}

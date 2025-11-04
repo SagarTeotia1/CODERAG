@@ -1,0 +1,10 @@
+{
+  "query": "What was the vote count regarding Romania's entry into the EU?",
+  "response": [
+    "doc_22068.txt",
+    "doc_22067.txt",
+    "doc_32727.txt",
+    "doc_14808.txt",
+    "doc_2014.txt"
+  ]
+}

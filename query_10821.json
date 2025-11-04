@@ -1,0 +1,10 @@
+{
+  "query": "Which countries’ ambassadors will be exchanging views on CSDP proposals?",
+  "response": [
+    "doc_17168.txt",
+    "doc_2688.txt",
+    "doc_2656.txt",
+    "doc_15469.txt",
+    "doc_34224.txt"
+  ]
+}

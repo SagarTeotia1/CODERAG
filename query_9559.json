@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the song that John Smith knew?",
+  "response": [
+    "doc_31528.txt",
+    "doc_31529.txt",
+    "doc_31526.txt",
+    "doc_28191.txt",
+    "doc_28188.txt"
+  ]
+}

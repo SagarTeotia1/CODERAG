@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how many immigrants arrived from Spain between 1880 and 1940?",
+  "response": [
+    "doc_18820.txt",
+    "doc_19295.txt",
+    "doc_9613.txt",
+    "doc_19087.txt",
+    "doc_2066.txt"
+  ]
+}

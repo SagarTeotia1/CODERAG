@@ -1,0 +1,10 @@
+{
+  "query": "What was the primary purpose of the European Union Solidarity Fund, according to the passage?",
+  "response": [
+    "doc_2011.txt",
+    "doc_16241.txt",
+    "doc_16242.txt",
+    "doc_24553.txt",
+    "doc_24554.txt"
+  ]
+}

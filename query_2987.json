@@ -1,0 +1,10 @@
+{
+  "query": "Where was John G. Murdock, the music teacher, located?",
+  "response": [
+    "doc_3427.txt",
+    "doc_15744.txt",
+    "doc_12168.txt",
+    "doc_14958.txt",
+    "doc_15745.txt"
+  ]
+}

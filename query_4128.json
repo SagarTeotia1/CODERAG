@@ -1,0 +1,10 @@
+{
+  "query": "Which anaesthetic gases are explicitly excluded from Regulation (EC) No 842/2006?",
+  "response": [
+    "doc_37286.txt",
+    "doc_23657.txt",
+    "doc_12963.txt",
+    "doc_23655.txt",
+    "doc_32122.txt"
+  ]
+}

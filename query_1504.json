@@ -1,0 +1,10 @@
+{
+  "query": "What specific allegations prompted OLAF to investigate potential illegal subsidies in the Mylopotamos area?",
+  "response": [
+    "doc_30942.txt",
+    "doc_37210.txt",
+    "doc_1352.txt",
+    "doc_1951.txt",
+    "doc_5027.txt"
+  ]
+}

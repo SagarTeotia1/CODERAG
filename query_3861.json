@@ -1,0 +1,10 @@
+{
+  "query": "What company is British Telecom attempting to purchase?",
+  "response": [
+    "doc_15981.txt",
+    "doc_26536.txt",
+    "doc_12865.txt",
+    "doc_26538.txt",
+    "doc_26537.txt"
+  ]
+}

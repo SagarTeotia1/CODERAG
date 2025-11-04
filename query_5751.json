@@ -1,0 +1,10 @@
+{
+  "query": "According to the association following the case, what invasive procedures did the police officers demand from Amina Sheik Said?",
+  "response": [
+    "doc_4766.txt",
+    "doc_11850.txt",
+    "doc_5195.txt",
+    "doc_3862.txt",
+    "doc_5196.txt"
+  ]
+}

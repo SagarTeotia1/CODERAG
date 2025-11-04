@@ -1,0 +1,10 @@
+{
+  "query": "In what year did the 2011 Vanderbilt football team achieve a historic accomplishment?",
+  "response": [
+    "doc_15158.txt",
+    "doc_15159.txt",
+    "doc_15157.txt",
+    "doc_15073.txt",
+    "doc_4051.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which directives need to be examined, beyond just the 3LD and CD, according to the mandate?",
+  "response": [
+    "doc_873.txt",
+    "doc_874.txt",
+    "doc_1097.txt",
+    "doc_941.txt",
+    "doc_1095.txt"
+  ]
+}

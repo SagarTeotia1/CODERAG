@@ -1,0 +1,10 @@
+{
+  "query": "What accessory allowed two Game Boys to play together?",
+  "response": [
+    "doc_7988.txt",
+    "doc_23196.txt",
+    "doc_23197.txt",
+    "doc_32899.txt",
+    "doc_11227.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Who created his famous Motivation Research in Princeton, NJ?",
+  "response": [
+    "doc_14280.txt",
+    "doc_14281.txt",
+    "doc_14283.txt",
+    "doc_14286.txt",
+    "doc_14282.txt"
+  ]
+}

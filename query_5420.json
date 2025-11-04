@@ -1,0 +1,10 @@
+{
+  "query": "Who played Jasmine in her initial appearance?",
+  "response": [
+    "doc_40001.txt",
+    "doc_34363.txt",
+    "doc_12937.txt",
+    "doc_11649.txt",
+    "doc_37303.txt"
+  ]
+}

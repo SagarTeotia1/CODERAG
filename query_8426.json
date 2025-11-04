@@ -1,0 +1,10 @@
+{
+  "query": "What conference was Baylor a founding member of?",
+  "response": [
+    "doc_12348.txt",
+    "doc_11424.txt",
+    "doc_4272.txt",
+    "doc_11423.txt",
+    "doc_20242.txt"
+  ]
+}

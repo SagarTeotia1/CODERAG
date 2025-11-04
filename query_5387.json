@@ -1,0 +1,10 @@
+{
+  "query": "What type of programming did Laura Woods initially present on RTÉ?",
+  "response": [
+    "doc_19790.txt",
+    "doc_33080.txt",
+    "doc_19789.txt",
+    "doc_33081.txt",
+    "doc_39580.txt"
+  ]
+}

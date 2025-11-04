@@ -1,0 +1,10 @@
+{
+  "query": "What is the main plot of “A Good Day to Die Hard”?",
+  "response": [
+    "doc_16671.txt",
+    "doc_12224.txt",
+    "doc_28279.txt",
+    "doc_28278.txt",
+    "doc_28276.txt"
+  ]
+}

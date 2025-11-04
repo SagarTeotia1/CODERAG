@@ -1,0 +1,10 @@
+{
+  "query": "Which airline operates non-stop flights from Fort Collins–Loveland Municipal Airport to Chicago Rockford International Airport?",
+  "response": [
+    "doc_32641.txt",
+    "doc_27106.txt",
+    "doc_27107.txt",
+    "doc_27108.txt",
+    "doc_1213.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year was Raymond Chandler’s first novel, “The Big Sleep,” published?",
+  "response": [
+    "doc_4342.txt",
+    "doc_4344.txt",
+    "doc_4346.txt",
+    "doc_4347.txt",
+    "doc_4341.txt"
+  ]
+}

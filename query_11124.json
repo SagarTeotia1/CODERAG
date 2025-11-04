@@ -1,0 +1,10 @@
+{
+  "query": "Where did Tolstoy assist by helping to defend Sevastopol?",
+  "response": [
+    "doc_34098.txt",
+    "doc_25961.txt",
+    "doc_31293.txt",
+    "doc_17961.txt",
+    "doc_34097.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided links, what was the outcome of Lindbergh’s flight in Billy Wilder’s 1957 film, *The Spirit of St. Louis*?",
+  "response": [
+    "doc_24075.txt",
+    "doc_24074.txt",
+    "doc_24073.txt",
+    "doc_24076.txt",
+    "doc_24072.txt"
+  ]
+}

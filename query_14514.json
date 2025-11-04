@@ -1,0 +1,10 @@
+{
+  "query": "If the Municipality of Thessaloniki requested inclusion, when did they do so?",
+  "response": [
+    "doc_26412.txt",
+    "doc_20202.txt",
+    "doc_5425.txt",
+    "doc_30251.txt",
+    "doc_5426.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "How many fights were in the Randy Couture vs. Chuck Liddell trilogy, and how did each end?",
+  "response": [
+    "doc_37335.txt",
+    "doc_38473.txt",
+    "doc_3056.txt",
+    "doc_3060.txt",
+    "doc_19500.txt"
+  ]
+}

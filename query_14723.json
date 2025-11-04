@@ -1,0 +1,9 @@
+{
+  "query": "What award did Sutton Foster win for her performance as the ultimate 1920s flapper in *Thoroughly Modern Millie*?",
+  "response": [
+    "doc_26858.txt",
+    "doc_26857.txt",
+    "doc_26856.txt",
+    "doc_26859.txt"
+  ]
+}

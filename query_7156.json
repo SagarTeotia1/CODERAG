@@ -1,0 +1,10 @@
+{
+  "query": "Which bands co-headlined the Rise Up Tour?",
+  "response": [
+    "doc_799.txt",
+    "doc_6568.txt",
+    "doc_23677.txt",
+    "doc_17719.txt",
+    "doc_27703.txt"
+  ]
+}

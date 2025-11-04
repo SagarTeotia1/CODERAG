@@ -1,0 +1,10 @@
+{
+  "query": "What BAFTA Award nomination did Rupert Everett receive for his role in \"Another Country\"?",
+  "response": [
+    "doc_8000.txt",
+    "doc_36344.txt",
+    "doc_7999.txt",
+    "doc_8005.txt",
+    "doc_27325.txt"
+  ]
+}

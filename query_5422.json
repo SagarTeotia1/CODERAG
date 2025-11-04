@@ -1,0 +1,10 @@
+{
+  "query": "According to Article 2(1) of the DCI, what is the overarching objective of cooperation under that instrument?",
+  "response": [
+    "doc_40234.txt",
+    "doc_15474.txt",
+    "doc_40233.txt",
+    "doc_40231.txt",
+    "doc_6643.txt"
+  ]
+}

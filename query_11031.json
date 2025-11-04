@@ -1,0 +1,10 @@
+{
+  "query": "Which organization compiled the initial deficit data reported by Greece?",
+  "response": [
+    "doc_17706.txt",
+    "doc_16026.txt",
+    "doc_14375.txt",
+    "doc_38391.txt",
+    "doc_25181.txt"
+  ]
+}

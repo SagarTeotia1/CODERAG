@@ -1,0 +1,10 @@
+{
+  "query": "When was Garrett Madison's company, Madison Mountaineering, involved with bringing a virtual reality camera to the summit of Mt. Everest?",
+  "response": [
+    "doc_22602.txt",
+    "doc_27567.txt",
+    "doc_29887.txt",
+    "doc_27566.txt",
+    "doc_29888.txt"
+  ]
+}

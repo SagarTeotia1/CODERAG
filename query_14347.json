@@ -1,0 +1,10 @@
+{
+  "query": "What was the setting of the \"Tooth and Claw\" episode?",
+  "response": [
+    "doc_29644.txt",
+    "doc_21511.txt",
+    "doc_16034.txt",
+    "doc_21516.txt",
+    "doc_20012.txt"
+  ]
+}

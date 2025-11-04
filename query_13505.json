@@ -1,0 +1,10 @@
+{
+  "query": "How many journalists and bloggers are reportedly being held by the Iranian authorities?",
+  "response": [
+    "doc_36587.txt",
+    "doc_1675.txt",
+    "doc_4321.txt",
+    "doc_23846.txt",
+    "doc_23845.txt"
+  ]
+}

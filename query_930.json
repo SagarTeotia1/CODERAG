@@ -1,0 +1,10 @@
+{
+  "query": "Which eight Member States were used for calculating the annual adjustment, and what percentage of the EU’s GDP do they represent?",
+  "response": [
+    "doc_29627.txt",
+    "doc_12922.txt",
+    "doc_12923.txt",
+    "doc_18024.txt",
+    "doc_2147.txt"
+  ]
+}

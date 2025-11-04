@@ -1,0 +1,10 @@
+{
+  "query": "What potential risk to French producers of gruyère exists if only the Swiss ‘Gruyère’ designation is recognized?",
+  "response": [
+    "doc_27795.txt",
+    "doc_25820.txt",
+    "doc_35913.txt",
+    "doc_35918.txt",
+    "doc_35914.txt"
+  ]
+}

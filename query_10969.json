@@ -1,0 +1,10 @@
+{
+  "query": "What is Jonathan Swift best known for?",
+  "response": [
+    "doc_17498.txt",
+    "doc_17496.txt",
+    "doc_17501.txt",
+    "doc_17499.txt",
+    "doc_17500.txt"
+  ]
+}

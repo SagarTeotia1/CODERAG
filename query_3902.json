@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided articles, when did Manuel Noriega surrender to armed DEA agents?",
+  "response": [
+    "doc_36695.txt",
+    "doc_36696.txt",
+    "doc_36697.txt",
+    "doc_36699.txt",
+    "doc_36702.txt"
+  ]
+}

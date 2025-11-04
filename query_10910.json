@@ -1,0 +1,10 @@
+{
+  "query": "What happened to Jean Francois that caused him to become blind?",
+  "response": [
+    "doc_132.txt",
+    "doc_16840.txt",
+    "doc_125.txt",
+    "doc_126.txt",
+    "doc_16841.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which actors starred in the 1995 film \"Batman Forever\"?",
+  "response": [
+    "doc_36883.txt",
+    "doc_36879.txt",
+    "doc_36881.txt",
+    "doc_36884.txt",
+    "doc_36880.txt"
+  ]
+}

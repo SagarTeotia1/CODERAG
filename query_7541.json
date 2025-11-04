@@ -1,0 +1,10 @@
+{
+  "query": "What sport do the athletic individuals compete in during the BBC reality TV show “Last Man Standing”?",
+  "response": [
+    "doc_5496.txt",
+    "doc_40104.txt",
+    "doc_4064.txt",
+    "doc_3752.txt",
+    "doc_8359.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What types of Pokemon were recommended by the trainer Ruben?",
+  "response": [
+    "doc_19969.txt",
+    "doc_19965.txt",
+    "doc_2780.txt",
+    "doc_13295.txt",
+    "doc_19966.txt"
+  ]
+}

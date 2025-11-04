@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what was the increase in the Greek public debt in the first quarter of 2003?",
+  "response": [
+    "doc_31761.txt",
+    "doc_14375.txt",
+    "doc_23283.txt",
+    "doc_39232.txt",
+    "doc_8475.txt"
+  ]
+}

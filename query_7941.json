@@ -1,0 +1,10 @@
+{
+  "query": "What type of film was “Miss Sadie Thompson” originally produced as – 2D or 3D?",
+  "response": [
+    "doc_10208.txt",
+    "doc_18327.txt",
+    "doc_18328.txt",
+    "doc_10213.txt",
+    "doc_21987.txt"
+  ]
+}

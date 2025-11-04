@@ -1,0 +1,10 @@
+{
+  "query": "When did the first meeting between the Tampa Bay Rays and the Miami Marlins take place?",
+  "response": [
+    "doc_22161.txt",
+    "doc_22167.txt",
+    "doc_23274.txt",
+    "doc_38337.txt",
+    "doc_32183.txt"
+  ]
+}

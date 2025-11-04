@@ -1,0 +1,10 @@
+{
+  "query": "According to legend, who is credited with inventing Champagne and what type of cork did he use?",
+  "response": [
+    "doc_21095.txt",
+    "doc_126.txt",
+    "doc_21098.txt",
+    "doc_1886.txt",
+    "doc_130.txt"
+  ]
+}

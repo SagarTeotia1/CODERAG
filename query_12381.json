@@ -1,0 +1,10 @@
+{
+  "query": "Which Dutch football club did Arnold Mühren win the European Cup with?",
+  "response": [
+    "doc_23918.txt",
+    "doc_21091.txt",
+    "doc_26136.txt",
+    "doc_23919.txt",
+    "doc_24188.txt"
+  ]
+}

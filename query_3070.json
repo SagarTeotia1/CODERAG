@@ -1,0 +1,10 @@
+{
+  "query": "Which novel by James Redfield is the basis for a 2006 film?",
+  "response": [
+    "doc_34803.txt",
+    "doc_31146.txt",
+    "doc_25552.txt",
+    "doc_34804.txt",
+    "doc_38058.txt"
+  ]
+}

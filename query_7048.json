@@ -1,0 +1,10 @@
+{
+  "query": "What is the approximate capacity of Londonderry High School?",
+  "response": [
+    "doc_7993.txt",
+    "doc_18017.txt",
+    "doc_7995.txt",
+    "doc_19265.txt",
+    "doc_18018.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year did the author first meet Brittany?",
+  "response": [
+    "doc_19215.txt",
+    "doc_16512.txt",
+    "doc_19171.txt",
+    "doc_19167.txt",
+    "doc_19166.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which countries are included in the Danube region?",
+  "response": [
+    "doc_19335.txt",
+    "doc_19332.txt",
+    "doc_19333.txt",
+    "doc_19334.txt",
+    "doc_19338.txt"
+  ]
+}

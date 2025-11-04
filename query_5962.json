@@ -1,0 +1,10 @@
+{
+  "query": "What legal basis should the GPMB be formally provided for in?",
+  "response": [
+    "doc_5278.txt",
+    "doc_5271.txt",
+    "doc_5266.txt",
+    "doc_5270.txt",
+    "doc_5267.txt"
+  ]
+}

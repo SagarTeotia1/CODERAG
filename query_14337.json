@@ -1,0 +1,10 @@
+{
+  "query": "At what age did Betty Everett begin playing the piano and singing gospel music in church?",
+  "response": [
+    "doc_27303.txt",
+    "doc_40143.txt",
+    "doc_40141.txt",
+    "doc_271.txt",
+    "doc_27304.txt"
+  ]
+}

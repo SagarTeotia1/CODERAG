@@ -1,0 +1,10 @@
+{
+  "query": "What river does the Belle of Louisville race on as part of the Kentucky Derby Festival?",
+  "response": [
+    "doc_30665.txt",
+    "doc_30666.txt",
+    "doc_30667.txt",
+    "doc_30669.txt",
+    "doc_30670.txt"
+  ]
+}

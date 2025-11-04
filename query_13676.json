@@ -1,0 +1,10 @@
+{
+  "query": "When was Shamir’s album “Hope” self-released?",
+  "response": [
+    "doc_9307.txt",
+    "doc_36256.txt",
+    "doc_12916.txt",
+    "doc_14998.txt",
+    "doc_22524.txt"
+  ]
+}

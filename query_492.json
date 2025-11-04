@@ -1,0 +1,10 @@
+{
+  "query": "How many pieces of incidental music did Grieg compose for *Peer Gynt*?",
+  "response": [
+    "doc_2794.txt",
+    "doc_2797.txt",
+    "doc_2793.txt",
+    "doc_2788.txt",
+    "doc_2796.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When did the 1989 Panamanian coup d'état attempt occur?",
+  "response": [
+    "doc_36696.txt",
+    "doc_3105.txt",
+    "doc_36695.txt",
+    "doc_36698.txt",
+    "doc_36697.txt"
+  ]
+}

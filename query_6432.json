@@ -1,0 +1,10 @@
+{
+  "query": "Which club does Bruno Paulista currently play for, and what is his position?",
+  "response": [
+    "doc_33816.txt",
+    "doc_33813.txt",
+    "doc_15996.txt",
+    "doc_22067.txt",
+    "doc_17420.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What sums have been paid to each individual Commission special adviser?",
+  "response": [
+    "doc_678.txt",
+    "doc_8394.txt",
+    "doc_21435.txt",
+    "doc_14213.txt",
+    "doc_4242.txt"
+  ]
+}

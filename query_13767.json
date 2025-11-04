@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the Stabat Mater composed by Arvo Pärt?",
+  "response": [
+    "doc_24499.txt",
+    "doc_33018.txt",
+    "doc_10374.txt",
+    "doc_15383.txt",
+    "doc_33020.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "During which sitting was Astrid Lulling's voting machine reported to have not worked?",
+  "response": [
+    "doc_18716.txt",
+    "doc_3955.txt",
+    "doc_7223.txt",
+    "doc_37964.txt",
+    "doc_7209.txt"
+  ]
+}

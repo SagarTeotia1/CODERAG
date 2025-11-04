@@ -1,0 +1,10 @@
+{
+  "query": "Which firm was commissioned by the Commission to produce implementation reports on the Directive, and what was a key factor in their selection?",
+  "response": [
+    "doc_1098.txt",
+    "doc_31239.txt",
+    "doc_13667.txt",
+    "doc_1106.txt",
+    "doc_3852.txt"
+  ]
+}

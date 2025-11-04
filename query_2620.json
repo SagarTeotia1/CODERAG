@@ -1,0 +1,10 @@
+{
+  "query": "Which groups within the European Parliament submitted the Joint Motion for a Resolution regarding the armed conflict in the Dagestan Republic of Russia?",
+  "response": [
+    "doc_33794.txt",
+    "doc_33795.txt",
+    "doc_29940.txt",
+    "doc_32893.txt",
+    "doc_11273.txt"
+  ]
+}

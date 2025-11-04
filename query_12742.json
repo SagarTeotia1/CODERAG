@@ -1,0 +1,10 @@
+{
+  "query": "Which player was Posada flying deep to?",
+  "response": [
+    "doc_39728.txt",
+    "doc_38339.txt",
+    "doc_32761.txt",
+    "doc_7465.txt",
+    "doc_39727.txt"
+  ]
+}

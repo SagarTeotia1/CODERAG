@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what is the typical RPM at 60 mph for the 2016 Honda Accord with the CVT transmission?",
+  "response": [
+    "doc_35902.txt",
+    "doc_35904.txt",
+    "doc_35901.txt",
+    "doc_35900.txt",
+    "doc_35903.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "At what age is Dick Vitale currently, according to the provided text?",
+  "response": [
+    "doc_20553.txt",
+    "doc_20552.txt",
+    "doc_20550.txt",
+    "doc_20555.txt",
+    "doc_20556.txt"
+  ]
+}

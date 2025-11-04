@@ -1,0 +1,10 @@
+{
+  "query": "What year was David Hume born?",
+  "response": [
+    "doc_22195.txt",
+    "doc_35471.txt",
+    "doc_333.txt",
+    "doc_22194.txt",
+    "doc_35470.txt"
+  ]
+}

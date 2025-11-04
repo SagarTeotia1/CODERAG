@@ -1,0 +1,10 @@
+{
+  "query": "What is the theme of the European Parliament’s Open Day on May 6th?",
+  "response": [
+    "doc_32095.txt",
+    "doc_33887.txt",
+    "doc_25739.txt",
+    "doc_3150.txt",
+    "doc_20838.txt"
+  ]
+}

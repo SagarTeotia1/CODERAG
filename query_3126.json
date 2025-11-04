@@ -1,0 +1,10 @@
+{
+  "query": "Where is the Amherst station located?",
+  "response": [
+    "doc_615.txt",
+    "doc_28529.txt",
+    "doc_35934.txt",
+    "doc_28528.txt",
+    "doc_2216.txt"
+  ]
+}

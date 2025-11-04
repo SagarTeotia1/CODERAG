@@ -1,0 +1,10 @@
+{
+  "query": "Which African country has prohibited imports and sales of Danish goods, according to the telegram from Ritzau?",
+  "response": [
+    "doc_39561.txt",
+    "doc_18588.txt",
+    "doc_36755.txt",
+    "doc_17182.txt",
+    "doc_18584.txt"
+  ]
+}

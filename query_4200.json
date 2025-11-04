@@ -1,0 +1,10 @@
+{
+  "query": "In what year did John Warner win the United States Senate election in Virginia?",
+  "response": [
+    "doc_23510.txt",
+    "doc_30599.txt",
+    "doc_23513.txt",
+    "doc_23509.txt",
+    "doc_30601.txt"
+  ]
+}

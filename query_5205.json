@@ -1,0 +1,10 @@
+{
+  "query": "What award did the Western Writers of America select in 1992?",
+  "response": [
+    "doc_39820.txt",
+    "doc_39825.txt",
+    "doc_39823.txt",
+    "doc_39822.txt",
+    "doc_39828.txt"
+  ]
+}

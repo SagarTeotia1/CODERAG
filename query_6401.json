@@ -1,0 +1,10 @@
+{
+  "query": "What company did someone work for, called JPM?",
+  "response": [
+    "doc_10483.txt",
+    "doc_17908.txt",
+    "doc_17909.txt",
+    "doc_37673.txt",
+    "doc_17413.txt"
+  ]
+}

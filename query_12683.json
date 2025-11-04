@@ -1,0 +1,10 @@
+{
+  "query": "When was John Lennon’s book, “In His Own Write,” first published?",
+  "response": [
+    "doc_21872.txt",
+    "doc_21876.txt",
+    "doc_21875.txt",
+    "doc_21873.txt",
+    "doc_21868.txt"
+  ]
+}

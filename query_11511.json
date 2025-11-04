@@ -1,0 +1,10 @@
+{
+  "query": "What is the title of the play being read at Boadecia’s Books on October 22nd?",
+  "response": [
+    "doc_18258.txt",
+    "doc_21319.txt",
+    "doc_24815.txt",
+    "doc_21321.txt",
+    "doc_21318.txt"
+  ]
+}

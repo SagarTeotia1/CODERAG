@@ -1,0 +1,10 @@
+{
+  "query": "Which album features guest appearances by Simone Simons and Shagrath?",
+  "response": [
+    "doc_39572.txt",
+    "doc_173.txt",
+    "doc_39571.txt",
+    "doc_33757.txt",
+    "doc_39567.txt"
+  ]
+}

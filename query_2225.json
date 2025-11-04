@@ -1,0 +1,10 @@
+{
+  "query": "Which report concerning air transport agreements is attributed to Artur Zasada?",
+  "response": [
+    "doc_24038.txt",
+    "doc_297.txt",
+    "doc_18100.txt",
+    "doc_27714.txt",
+    "doc_24034.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When did Ellen Cleghorne appear on “Saturday Night Live”?",
+  "response": [
+    "doc_29783.txt",
+    "doc_3926.txt",
+    "doc_9724.txt",
+    "doc_9726.txt",
+    "doc_9720.txt"
+  ]
+}

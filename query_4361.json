@@ -1,0 +1,10 @@
+{
+  "query": "What is the full official name of the city of Bucharest?",
+  "response": [
+    "doc_37785.txt",
+    "doc_37796.txt",
+    "doc_37784.txt",
+    "doc_37793.txt",
+    "doc_37787.txt"
+  ]
+}

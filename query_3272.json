@@ -1,0 +1,10 @@
+{
+  "query": "What kind of puzzle is mentioned in relation to the film *Amlie*?",
+  "response": [
+    "doc_20328.txt",
+    "doc_28430.txt",
+    "doc_15872.txt",
+    "doc_25909.txt",
+    "doc_28436.txt"
+  ]
+}

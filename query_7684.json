@@ -1,0 +1,10 @@
+{
+  "query": "What year did the Calgary Stampede first begin?",
+  "response": [
+    "doc_9592.txt",
+    "doc_9588.txt",
+    "doc_9589.txt",
+    "doc_9590.txt",
+    "doc_9591.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Who wrote the book “No Easy Day,” and what was its subject matter?",
+  "response": [
+    "doc_18251.txt",
+    "doc_20379.txt",
+    "doc_18245.txt",
+    "doc_21192.txt",
+    "doc_21189.txt"
+  ]
+}

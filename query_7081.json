@@ -1,0 +1,10 @@
+{
+  "query": "Which groups submitted a joint motion regarding the human rights situation in Ethiopia?",
+  "response": [
+    "doc_8102.txt",
+    "doc_8103.txt",
+    "doc_10736.txt",
+    "doc_39933.txt",
+    "doc_19269.txt"
+  ]
+}

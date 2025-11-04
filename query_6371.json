@@ -1,0 +1,10 @@
+{
+  "query": "When was the album “30 Seconds to Mars” first released?",
+  "response": [
+    "doc_7843.txt",
+    "doc_28363.txt",
+    "doc_28369.txt",
+    "doc_28362.txt",
+    "doc_28364.txt"
+  ]
+}

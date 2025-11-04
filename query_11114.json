@@ -1,0 +1,10 @@
+{
+  "query": "What specific financial contributions has the European Commission made to the Special Court for Sierra Leone since 2003?",
+  "response": [
+    "doc_17906.txt",
+    "doc_5793.txt",
+    "doc_17905.txt",
+    "doc_17907.txt",
+    "doc_5794.txt"
+  ]
+}

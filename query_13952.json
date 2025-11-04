@@ -1,0 +1,10 @@
+{
+  "query": "What is the only quote attributed to Bartlett in the provided text?",
+  "response": [
+    "doc_24957.txt",
+    "doc_16369.txt",
+    "doc_24958.txt",
+    "doc_22251.txt",
+    "doc_20860.txt"
+  ]
+}

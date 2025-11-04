@@ -1,0 +1,10 @@
+{
+  "query": "At what age is a dose of Tdap recommended?",
+  "response": [
+    "doc_25905.txt",
+    "doc_25900.txt",
+    "doc_25901.txt",
+    "doc_25904.txt",
+    "doc_25903.txt"
+  ]
+}

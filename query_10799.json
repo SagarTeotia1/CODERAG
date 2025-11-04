@@ -1,0 +1,10 @@
+{
+  "query": "What is Mt. Saint-Exupery named in honor of?",
+  "response": [
+    "doc_130.txt",
+    "doc_6055.txt",
+    "doc_30266.txt",
+    "doc_30267.txt",
+    "doc_129.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was the outcome of the European Parliament’s resolution regarding religious violence in Nigeria?",
+  "response": [
+    "doc_10118.txt",
+    "doc_6355.txt",
+    "doc_6356.txt",
+    "doc_36756.txt",
+    "doc_28143.txt"
+  ]
+}

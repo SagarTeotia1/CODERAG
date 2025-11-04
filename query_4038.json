@@ -1,0 +1,10 @@
+{
+  "query": "Who currently controls the town of Yambio, according to the passage?",
+  "response": [
+    "doc_19346.txt",
+    "doc_19347.txt",
+    "doc_18586.txt",
+    "doc_19348.txt",
+    "doc_17278.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When was Cito Gaston hired by the Toronto Blue Jays?",
+  "response": [
+    "doc_16109.txt",
+    "doc_16108.txt",
+    "doc_8292.txt",
+    "doc_14703.txt",
+    "doc_20091.txt"
+  ]
+}

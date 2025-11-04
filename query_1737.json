@@ -1,0 +1,10 @@
+{
+  "query": "What is the primary industry that Symphony Teleca supplies software services to?",
+  "response": [
+    "doc_31504.txt",
+    "doc_212.txt",
+    "doc_7611.txt",
+    "doc_2161.txt",
+    "doc_37674.txt"
+  ]
+}

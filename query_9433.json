@@ -1,0 +1,10 @@
+{
+  "query": "When did the “Auctionaire” concept premiere on NBC?",
+  "response": [
+    "doc_1363.txt",
+    "doc_1358.txt",
+    "doc_1357.txt",
+    "doc_1362.txt",
+    "doc_1360.txt"
+  ]
+}

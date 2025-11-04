@@ -1,0 +1,10 @@
+{
+  "query": "When was the European Council meeting in Feira scheduled to take place?",
+  "response": [
+    "doc_20814.txt",
+    "doc_7743.txt",
+    "doc_18304.txt",
+    "doc_23693.txt",
+    "doc_23695.txt"
+  ]
+}

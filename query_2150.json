@@ -1,0 +1,10 @@
+{
+  "query": "Which airline is based in Pago Pago, American Samoa, and what types of flights does it operate?",
+  "response": [
+    "doc_32573.txt",
+    "doc_32574.txt",
+    "doc_24032.txt",
+    "doc_2965.txt",
+    "doc_2963.txt"
+  ]
+}

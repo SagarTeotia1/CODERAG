@@ -1,0 +1,10 @@
+{
+  "query": "What was the title of the first episode of *The Odd Couple* featured in the review disc?",
+  "response": [
+    "doc_1695.txt",
+    "doc_1696.txt",
+    "doc_1698.txt",
+    "doc_1697.txt",
+    "doc_1699.txt"
+  ]
+}

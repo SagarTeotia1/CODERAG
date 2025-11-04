@@ -1,0 +1,10 @@
+{
+  "query": "Where did Brian Simpson participate in the meeting with Transport Ministers?",
+  "response": [
+    "doc_30522.txt",
+    "doc_8324.txt",
+    "doc_18535.txt",
+    "doc_10139.txt",
+    "doc_27585.txt"
+  ]
+}

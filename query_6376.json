@@ -1,0 +1,10 @@
+{
+  "query": "Could the Commission provide a list of airports in Spain which have received EU funding?",
+  "response": [
+    "doc_6225.txt",
+    "doc_28930.txt",
+    "doc_36962.txt",
+    "doc_15009.txt",
+    "doc_2178.txt"
+  ]
+}

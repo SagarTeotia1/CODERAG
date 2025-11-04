@@ -1,0 +1,10 @@
+{
+  "query": "What is the World Bank’s prediction for Croatia’s GDP growth in 2012?",
+  "response": [
+    "doc_117.txt",
+    "doc_34067.txt",
+    "doc_16244.txt",
+    "doc_34058.txt",
+    "doc_15493.txt"
+  ]
+}

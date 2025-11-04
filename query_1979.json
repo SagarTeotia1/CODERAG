@@ -1,0 +1,10 @@
+{
+  "query": "What award did Corazon Aquino receive while president of the Philippines?",
+  "response": [
+    "doc_32149.txt",
+    "doc_32150.txt",
+    "doc_32151.txt",
+    "doc_32148.txt",
+    "doc_28636.txt"
+  ]
+}

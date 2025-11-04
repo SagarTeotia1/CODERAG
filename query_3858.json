@@ -1,0 +1,10 @@
+{
+  "query": "For what role did Michael C. Hall win a Golden Globe Award?",
+  "response": [
+    "doc_34457.txt",
+    "doc_3416.txt",
+    "doc_3624.txt",
+    "doc_3626.txt",
+    "doc_38299.txt"
+  ]
+}

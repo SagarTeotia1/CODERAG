@@ -1,0 +1,10 @@
+{
+  "query": "What is Bill May’s height and weight?",
+  "response": [
+    "doc_24207.txt",
+    "doc_1359.txt",
+    "doc_12377.txt",
+    "doc_24002.txt",
+    "doc_6723.txt"
+  ]
+}

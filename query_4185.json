@@ -1,0 +1,10 @@
+{
+  "query": "According to the GTZ study, what was the approximate amount of foreign direct investment in land (in hectares) reported between 2000 and 2009?",
+  "response": [
+    "doc_37400.txt",
+    "doc_37401.txt",
+    "doc_27773.txt",
+    "doc_22939.txt",
+    "doc_19312.txt"
+  ]
+}

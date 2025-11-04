@@ -1,0 +1,10 @@
+{
+  "query": "When did Bob Davis resign from Congress?",
+  "response": [
+    "doc_37430.txt",
+    "doc_14422.txt",
+    "doc_37429.txt",
+    "doc_16824.txt",
+    "doc_26788.txt"
+  ]
+}

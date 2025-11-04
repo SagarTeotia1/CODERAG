@@ -1,0 +1,10 @@
+{
+  "query": "What is the ironic title of Voltaire’s novel, *Candide*?",
+  "response": [
+    "doc_1419.txt",
+    "doc_1420.txt",
+    "doc_1418.txt",
+    "doc_1421.txt",
+    "doc_1422.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year did colonists throw tea chests into Boston Harbor?",
+  "response": [
+    "doc_30327.txt",
+    "doc_30323.txt",
+    "doc_30326.txt",
+    "doc_30328.txt",
+    "doc_30320.txt"
+  ]
+}

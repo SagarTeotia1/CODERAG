@@ -1,0 +1,10 @@
+{
+  "query": "What is Omar Khayyam known for, according to the provided text?",
+  "response": [
+    "doc_26252.txt",
+    "doc_36065.txt",
+    "doc_26251.txt",
+    "doc_17940.txt",
+    "doc_26247.txt"
+  ]
+}

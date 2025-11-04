@@ -1,0 +1,10 @@
+{
+  "query": "What type of film is “The Lodger” described as, and who directed it?",
+  "response": [
+    "doc_30870.txt",
+    "doc_30877.txt",
+    "doc_30869.txt",
+    "doc_30876.txt",
+    "doc_30873.txt"
+  ]
+}

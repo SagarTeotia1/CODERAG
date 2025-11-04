@@ -1,0 +1,10 @@
+{
+  "query": "Who was Leni Riefenstahl's lead cameraman on the film “Triumph of the Will”?",
+  "response": [
+    "doc_16212.txt",
+    "doc_20921.txt",
+    "doc_20917.txt",
+    "doc_20498.txt",
+    "doc_17626.txt"
+  ]
+}

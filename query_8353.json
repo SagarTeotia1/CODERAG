@@ -1,0 +1,10 @@
+{
+  "query": "Which Sites of Community Importance (SCIs) are located in the province of Lugo, Galicia?",
+  "response": [
+    "doc_11247.txt",
+    "doc_39523.txt",
+    "doc_10189.txt",
+    "doc_10474.txt",
+    "doc_22025.txt"
+  ]
+}

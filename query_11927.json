@@ -1,0 +1,10 @@
+{
+  "query": "Which genus does the plant Gentiana belong to, and approximately how many species are within that genus?",
+  "response": [
+    "doc_20066.txt",
+    "doc_26308.txt",
+    "doc_15076.txt",
+    "doc_8083.txt",
+    "doc_8084.txt"
+  ]
+}

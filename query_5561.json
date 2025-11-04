@@ -1,0 +1,10 @@
+{
+  "query": "Why were the medicines seized in the Netherlands?",
+  "response": [
+    "doc_4202.txt",
+    "doc_9645.txt",
+    "doc_31867.txt",
+    "doc_3560.txt",
+    "doc_647.txt"
+  ]
+}

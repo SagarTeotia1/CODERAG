@@ -1,0 +1,10 @@
+{
+  "query": "What specific legal requirement from English law is cited as a basis for proposing a class action remedy in the EU?",
+  "response": [
+    "doc_1090.txt",
+    "doc_1073.txt",
+    "doc_1079.txt",
+    "doc_1089.txt",
+    "doc_1075.txt"
+  ]
+}

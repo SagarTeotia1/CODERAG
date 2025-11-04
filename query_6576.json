@@ -1,0 +1,10 @@
+{
+  "query": "When was the European Parliament’s proposal to introduce a temporary protection mechanism for European shipyards approved?",
+  "response": [
+    "doc_6848.txt",
+    "doc_36448.txt",
+    "doc_1474.txt",
+    "doc_18925.txt",
+    "doc_10135.txt"
+  ]
+}

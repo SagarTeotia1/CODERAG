@@ -1,0 +1,10 @@
+{
+  "query": "In what year did the first full production of Shakespeare occur at the University of Notre Dame?",
+  "response": [
+    "doc_37374.txt",
+    "doc_23456.txt",
+    "doc_37375.txt",
+    "doc_4129.txt",
+    "doc_15020.txt"
+  ]
+}

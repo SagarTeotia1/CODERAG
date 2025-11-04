@@ -1,0 +1,10 @@
+{
+  "query": "Besides the EHAP, what other Commission actions are mentioned as relevant to addressing health issues?",
+  "response": [
+    "doc_33639.txt",
+    "doc_18145.txt",
+    "doc_24686.txt",
+    "doc_24685.txt",
+    "doc_19376.txt"
+  ]
+}

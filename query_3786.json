@@ -1,0 +1,10 @@
+{
+  "query": "What was the location of Thomas Aquinas’s family castle?",
+  "response": [
+    "doc_36417.txt",
+    "doc_36419.txt",
+    "doc_36425.txt",
+    "doc_36420.txt",
+    "doc_36416.txt"
+  ]
+}

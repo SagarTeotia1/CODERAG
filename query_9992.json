@@ -1,0 +1,10 @@
+{
+  "query": "What was the approximate asset size of Wells Fargo & Co. just before the financial crisis?",
+  "response": [
+    "doc_10775.txt",
+    "doc_10771.txt",
+    "doc_10767.txt",
+    "doc_31402.txt",
+    "doc_10766.txt"
+  ]
+}

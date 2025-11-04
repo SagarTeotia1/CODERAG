@@ -1,0 +1,10 @@
+{
+  "query": "What organization accredited the St. Petersburg Police Department?",
+  "response": [
+    "doc_28414.txt",
+    "doc_28415.txt",
+    "doc_533.txt",
+    "doc_10252.txt",
+    "doc_15209.txt"
+  ]
+}

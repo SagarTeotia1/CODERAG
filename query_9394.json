@@ -1,0 +1,10 @@
+{
+  "query": "When was the initial article highlighting the crack in the High Flux Reactor published?",
+  "response": [
+    "doc_35026.txt",
+    "doc_18767.txt",
+    "doc_35023.txt",
+    "doc_35024.txt",
+    "doc_35025.txt"
+  ]
+}

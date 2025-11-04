@@ -1,0 +1,10 @@
+{
+  "query": "What was the projected real GDP growth rate for 2005, according to the Commission’s forecasts?",
+  "response": [
+    "doc_39232.txt",
+    "doc_14375.txt",
+    "doc_35327.txt",
+    "doc_8931.txt",
+    "doc_38261.txt"
+  ]
+}

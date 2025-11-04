@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided text, what is the tagline of the 1996 Coen Brothers film *Fargo*?",
+  "response": [
+    "doc_24881.txt",
+    "doc_24882.txt",
+    "doc_24883.txt",
+    "doc_24884.txt",
+    "doc_31753.txt"
+  ]
+}

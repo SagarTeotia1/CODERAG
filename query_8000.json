@@ -1,0 +1,10 @@
+{
+  "query": "What is Sugar Ray Leonard’s full name?",
+  "response": [
+    "doc_10404.txt",
+    "doc_26180.txt",
+    "doc_25588.txt",
+    "doc_38469.txt",
+    "doc_25587.txt"
+  ]
+}

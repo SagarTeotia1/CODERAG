@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Le Duke realize, produce, and play “The Alamo”?",
+  "response": [
+    "doc_35051.txt",
+    "doc_35050.txt",
+    "doc_35053.txt",
+    "doc_35054.txt",
+    "doc_35052.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Where is the Panorama of the Battle of Waterloo located?",
+  "response": [
+    "doc_40136.txt",
+    "doc_8163.txt",
+    "doc_25026.txt",
+    "doc_22468.txt",
+    "doc_12637.txt"
+  ]
+}

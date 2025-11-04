@@ -1,0 +1,10 @@
+{
+  "query": "Which rapper did Tyga collaborate with on the single “I’m on It”?",
+  "response": [
+    "doc_23533.txt",
+    "doc_23532.txt",
+    "doc_9987.txt",
+    "doc_29502.txt",
+    "doc_18700.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Napier win his first national championship?",
+  "response": [
+    "doc_32458.txt",
+    "doc_14699.txt",
+    "doc_14703.txt",
+    "doc_14705.txt",
+    "doc_14707.txt"
+  ]
+}

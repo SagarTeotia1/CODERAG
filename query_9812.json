@@ -1,0 +1,10 @@
+{
+  "query": "In what year did *Land : An Epic Poem* win the ALS Gold Medal and the Grace Leven Prize for Poetry?",
+  "response": [
+    "doc_36486.txt",
+    "doc_19925.txt",
+    "doc_36487.txt",
+    "doc_19924.txt",
+    "doc_23914.txt"
+  ]
+}

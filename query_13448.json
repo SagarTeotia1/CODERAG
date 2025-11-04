@@ -1,0 +1,10 @@
+{
+  "query": "Which sitcoms did Barnard Hughes appear in, besides “Da”?",
+  "response": [
+    "doc_23681.txt",
+    "doc_23682.txt",
+    "doc_23684.txt",
+    "doc_23683.txt",
+    "doc_23685.txt"
+  ]
+}

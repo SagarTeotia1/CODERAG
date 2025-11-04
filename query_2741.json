@@ -1,0 +1,10 @@
+{
+  "query": "What political candidate does Erik Estrada support?",
+  "response": [
+    "doc_34072.txt",
+    "doc_34073.txt",
+    "doc_34070.txt",
+    "doc_34074.txt",
+    "doc_34071.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What assessment has the Commission made of the damage and casualties sustained by the Maldive Islands during the recent tsunami?",
+  "response": [
+    "doc_30767.txt",
+    "doc_13720.txt",
+    "doc_8763.txt",
+    "doc_32913.txt",
+    "doc_21141.txt"
+  ]
+}

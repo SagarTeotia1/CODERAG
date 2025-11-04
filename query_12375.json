@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what action did Tsar Alexander II take regarding land ownership?",
+  "response": [
+    "doc_21074.txt",
+    "doc_21075.txt",
+    "doc_34098.txt",
+    "doc_39334.txt",
+    "doc_25446.txt"
+  ]
+}

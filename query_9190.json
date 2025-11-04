@@ -1,0 +1,10 @@
+{
+  "query": "With which artists has Dariusz Wolski collaborated on music videos?",
+  "response": [
+    "doc_8505.txt",
+    "doc_36256.txt",
+    "doc_6894.txt",
+    "doc_16906.txt",
+    "doc_39062.txt"
+  ]
+}

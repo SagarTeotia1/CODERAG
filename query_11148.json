@@ -1,0 +1,10 @@
+{
+  "query": "What association is Brisbane State High School a member of?",
+  "response": [
+    "doc_5621.txt",
+    "doc_18016.txt",
+    "doc_7995.txt",
+    "doc_40091.txt",
+    "doc_30946.txt"
+  ]
+}

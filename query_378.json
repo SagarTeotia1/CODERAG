@@ -1,0 +1,10 @@
+{
+  "query": "Which jazz legends did Horace Steadman “Steady” Nelson play alongside?",
+  "response": [
+    "doc_11481.txt",
+    "doc_271.txt",
+    "doc_37198.txt",
+    "doc_270.txt",
+    "doc_274.txt"
+  ]
+}

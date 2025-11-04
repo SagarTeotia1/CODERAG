@@ -1,0 +1,10 @@
+{
+  "query": "Is the Commission aware of the dramatic situation in the Las Tablas de Daimiel National Park?",
+  "response": [
+    "doc_26632.txt",
+    "doc_9989.txt",
+    "doc_12173.txt",
+    "doc_10189.txt",
+    "doc_10502.txt"
+  ]
+}

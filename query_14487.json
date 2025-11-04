@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Jamaica compete in the Brazil World Cup?",
+  "response": [
+    "doc_26374.txt",
+    "doc_26368.txt",
+    "doc_26369.txt",
+    "doc_26373.txt",
+    "doc_27054.txt"
+  ]
+}

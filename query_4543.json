@@ -1,0 +1,10 @@
+{
+  "query": "What was the title of the movie Amanda Peterson starred in?",
+  "response": [
+    "doc_38238.txt",
+    "doc_38237.txt",
+    "doc_38239.txt",
+    "doc_38235.txt",
+    "doc_38234.txt"
+  ]
+}

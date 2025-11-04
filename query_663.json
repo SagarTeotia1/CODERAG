@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what color are Ryder trucks?",
+  "response": [
+    "doc_28733.txt",
+    "doc_28738.txt",
+    "doc_28734.txt",
+    "doc_28737.txt",
+    "doc_28736.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what country is the play *Hamlet* set?",
+  "response": [
+    "doc_5305.txt",
+    "doc_5306.txt",
+    "doc_5314.txt",
+    "doc_5309.txt",
+    "doc_5307.txt"
+  ]
+}

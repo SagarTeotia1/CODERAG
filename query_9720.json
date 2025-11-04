@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what is the Pennsylvania Horticultural Society known for?",
+  "response": [
+    "doc_8507.txt",
+    "doc_14488.txt",
+    "doc_26312.txt",
+    "doc_19688.txt",
+    "doc_12887.txt"
+  ]
+}

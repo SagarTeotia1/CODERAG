@@ -1,0 +1,10 @@
+{
+  "query": "How much financial support did the European Commission propose for Bulgaria’s flood disasters in 2005?",
+  "response": [
+    "doc_2195.txt",
+    "doc_7813.txt",
+    "doc_2196.txt",
+    "doc_30566.txt",
+    "doc_29805.txt"
+  ]
+}

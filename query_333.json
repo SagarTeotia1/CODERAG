@@ -1,0 +1,10 @@
+{
+  "query": "What type of musician was the support guitarist for The Mad Capsule Markets from 1990 to 1996?",
+  "response": [
+    "doc_28118.txt",
+    "doc_37167.txt",
+    "doc_28117.txt",
+    "doc_2988.txt",
+    "doc_19766.txt"
+  ]
+}

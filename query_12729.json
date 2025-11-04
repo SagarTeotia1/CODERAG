@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how much funding was allocated to childcare facilities (‘asili nido’) within Italy’s national plan?",
+  "response": [
+    "doc_22001.txt",
+    "doc_25161.txt",
+    "doc_16926.txt",
+    "doc_29754.txt",
+    "doc_13249.txt"
+  ]
+}

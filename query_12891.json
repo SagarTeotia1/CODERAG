@@ -1,0 +1,10 @@
+{
+  "query": "What is Dave Williams’ ignominious record according to the text?",
+  "response": [
+    "doc_22455.txt",
+    "doc_22458.txt",
+    "doc_22456.txt",
+    "doc_31424.txt",
+    "doc_17388.txt"
+  ]
+}

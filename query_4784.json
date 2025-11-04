@@ -1,0 +1,10 @@
+{
+  "query": "What is the literal translation of the name \"Pentaceratops\"?",
+  "response": [
+    "doc_38838.txt",
+    "doc_38840.txt",
+    "doc_38839.txt",
+    "doc_6651.txt",
+    "doc_27897.txt"
+  ]
+}

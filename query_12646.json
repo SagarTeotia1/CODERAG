@@ -1,0 +1,10 @@
+{
+  "query": "How much funding is currently earmarked for the Oporto-Vigo, Lisbon-Oporto, and Lisbon-Madrid high-speed railway lines?",
+  "response": [
+    "doc_21804.txt",
+    "doc_40306.txt",
+    "doc_12560.txt",
+    "doc_1440.txt",
+    "doc_36524.txt"
+  ]
+}

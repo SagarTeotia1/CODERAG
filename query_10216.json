@@ -1,0 +1,10 @@
+{
+  "query": "In what year was Beckman designed a low-cost spectrophotometer?",
+  "response": [
+    "doc_14028.txt",
+    "doc_4005.txt",
+    "doc_4008.txt",
+    "doc_14026.txt",
+    "doc_4004.txt"
+  ]
+}

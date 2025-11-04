@@ -1,0 +1,10 @@
+{
+  "query": "What organization set a hearing regarding KSD’s application in 1942?",
+  "response": [
+    "doc_38288.txt",
+    "doc_38289.txt",
+    "doc_27800.txt",
+    "doc_21214.txt",
+    "doc_24092.txt"
+  ]
+}

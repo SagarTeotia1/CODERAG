@@ -1,0 +1,10 @@
+{
+  "query": "According to Section 8 of the Act, what fee is required when issuing a dog license?",
+  "response": [
+    "doc_20716.txt",
+    "doc_2187.txt",
+    "doc_22767.txt",
+    "doc_8541.txt",
+    "doc_23692.txt"
+  ]
+}

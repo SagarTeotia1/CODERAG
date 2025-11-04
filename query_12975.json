@@ -1,0 +1,10 @@
+{
+  "query": "By 2030, what is the Council’s projected EU import dependency for energy?",
+  "response": [
+    "doc_22673.txt",
+    "doc_18750.txt",
+    "doc_18065.txt",
+    "doc_15498.txt",
+    "doc_25652.txt"
+  ]
+}

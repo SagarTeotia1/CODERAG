@@ -1,0 +1,10 @@
+{
+  "query": "What is the regional government of the Balearic Islands’ primary concern regarding the current funding model?",
+  "response": [
+    "doc_37907.txt",
+    "doc_10550.txt",
+    "doc_11538.txt",
+    "doc_15410.txt",
+    "doc_41.txt"
+  ]
+}

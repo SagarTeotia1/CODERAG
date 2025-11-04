@@ -1,0 +1,10 @@
+{
+  "query": "In what year was Nice annexed from the Kingdom of Sardinia?",
+  "response": [
+    "doc_29108.txt",
+    "doc_29103.txt",
+    "doc_29105.txt",
+    "doc_29109.txt",
+    "doc_29104.txt"
+  ]
+}

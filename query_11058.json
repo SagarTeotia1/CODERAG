@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided text, where is the famous Loch Ness Monster said to inhabit?",
+  "response": [
+    "doc_17743.txt",
+    "doc_17745.txt",
+    "doc_17746.txt",
+    "doc_17744.txt",
+    "doc_7914.txt"
+  ]
+}

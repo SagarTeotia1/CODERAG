@@ -1,0 +1,10 @@
+{
+  "query": "Which organizations have already condemned the Estonian authorities’ policy?",
+  "response": [
+    "doc_22686.txt",
+    "doc_22687.txt",
+    "doc_29630.txt",
+    "doc_25231.txt",
+    "doc_12386.txt"
+  ]
+}

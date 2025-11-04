@@ -1,0 +1,10 @@
+{
+  "query": "From what plant was ancient Egyptian writing paper made?",
+  "response": [
+    "doc_5678.txt",
+    "doc_5677.txt",
+    "doc_5679.txt",
+    "doc_11137.txt",
+    "doc_21944.txt"
+  ]
+}

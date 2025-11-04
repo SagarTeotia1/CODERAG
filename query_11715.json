@@ -1,0 +1,10 @@
+{
+  "query": "What was Elmer Wayne Henley’s role in the Houston Mass Murders?",
+  "response": [
+    "doc_31136.txt",
+    "doc_31131.txt",
+    "doc_31133.txt",
+    "doc_31135.txt",
+    "doc_31137.txt"
+  ]
+}

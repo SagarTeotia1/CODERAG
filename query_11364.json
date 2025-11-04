@@ -1,0 +1,10 @@
+{
+  "query": "Where did Suyuan Woo invent the original Joy Luck Club?",
+  "response": [
+    "doc_18527.txt",
+    "doc_18529.txt",
+    "doc_18524.txt",
+    "doc_18528.txt",
+    "doc_18526.txt"
+  ]
+}

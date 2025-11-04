@@ -1,0 +1,10 @@
+{
+  "query": "What significant event involving Norbert Siegmann is widely remembered in Bundesliga history?",
+  "response": [
+    "doc_35467.txt",
+    "doc_36051.txt",
+    "doc_29620.txt",
+    "doc_23919.txt",
+    "doc_12457.txt"
+  ]
+}

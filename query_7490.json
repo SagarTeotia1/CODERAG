@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided text, which Empress oversaw the events leading to the First Partition of Poland?",
+  "response": [
+    "doc_9058.txt",
+    "doc_9060.txt",
+    "doc_9061.txt",
+    "doc_9063.txt",
+    "doc_9059.txt"
+  ]
+}

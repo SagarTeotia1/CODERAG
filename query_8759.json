@@ -1,0 +1,10 @@
+{
+  "query": "Which group contains members from the UK Independence Party?",
+  "response": [
+    "doc_7795.txt",
+    "doc_4197.txt",
+    "doc_12195.txt",
+    "doc_17532.txt",
+    "doc_22066.txt"
+  ]
+}

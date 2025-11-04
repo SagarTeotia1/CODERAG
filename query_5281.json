@@ -1,0 +1,10 @@
+{
+  "query": "What was the Seaview’s power source?",
+  "response": [
+    "doc_39969.txt",
+    "doc_39971.txt",
+    "doc_39970.txt",
+    "doc_39968.txt",
+    "doc_39972.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the primary composition of Mars’ core, according to the studies presented?",
+  "response": [
+    "doc_21881.txt",
+    "doc_5225.txt",
+    "doc_5227.txt",
+    "doc_5230.txt",
+    "doc_5231.txt"
+  ]
+}

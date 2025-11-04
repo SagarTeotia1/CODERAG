@@ -1,0 +1,10 @@
+{
+  "query": "Which important rivers flow through the Upper Thracian Plain?",
+  "response": [
+    "doc_25293.txt",
+    "doc_25289.txt",
+    "doc_25290.txt",
+    "doc_2811.txt",
+    "doc_10330.txt"
+  ]
+}

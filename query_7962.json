@@ -1,0 +1,10 @@
+{
+  "query": "According to the text, what is the primary criticism of the lyrics in the \"Word Salad Lyrics\" piece?",
+  "response": [
+    "doc_10302.txt",
+    "doc_10303.txt",
+    "doc_11937.txt",
+    "doc_15931.txt",
+    "doc_37085.txt"
+  ]
+}

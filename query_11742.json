@@ -1,0 +1,10 @@
+{
+  "query": "What type of hairstyle was associated with the Gibson Girl during the late 1800s?",
+  "response": [
+    "doc_19541.txt",
+    "doc_19539.txt",
+    "doc_19540.txt",
+    "doc_19542.txt",
+    "doc_30634.txt"
+  ]
+}

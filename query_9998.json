@@ -1,0 +1,10 @@
+{
+  "query": "Which university houses the Vanderbilt University Law School, and when was it established?",
+  "response": [
+    "doc_15157.txt",
+    "doc_15159.txt",
+    "doc_15158.txt",
+    "doc_35751.txt",
+    "doc_35757.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which EU Member States are exempt from the ban on the marketing of smoke-free snuff products?",
+  "response": [
+    "doc_256.txt",
+    "doc_32744.txt",
+    "doc_28731.txt",
+    "doc_16837.txt",
+    "doc_14589.txt"
+  ]
+}

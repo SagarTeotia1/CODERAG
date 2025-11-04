@@ -1,0 +1,10 @@
+{
+  "query": "Which producer(s) co-wrote and co-produced 12 songs on Rihanna’s 2005 debut album, “Music of the Sun”?",
+  "response": [
+    "doc_15909.txt",
+    "doc_22522.txt",
+    "doc_15911.txt",
+    "doc_22523.txt",
+    "doc_22517.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "How many persons are deployed by Finland for border control?",
+  "response": [
+    "doc_38122.txt",
+    "doc_29917.txt",
+    "doc_9228.txt",
+    "doc_37626.txt",
+    "doc_15501.txt"
+  ]
+}

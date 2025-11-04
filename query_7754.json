@@ -1,0 +1,10 @@
+{
+  "query": "Where is the headquarters of Foot Locker Retail, Inc. located?",
+  "response": [
+    "doc_9717.txt",
+    "doc_24825.txt",
+    "doc_9716.txt",
+    "doc_24826.txt",
+    "doc_24823.txt"
+  ]
+}

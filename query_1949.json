@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Haile Selassie die?",
+  "response": [
+    "doc_32089.txt",
+    "doc_32087.txt",
+    "doc_32086.txt",
+    "doc_32088.txt",
+    "doc_32090.txt"
+  ]
+}

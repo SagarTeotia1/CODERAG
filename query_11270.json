@@ -1,0 +1,10 @@
+{
+  "query": "What is the official language of Sri Lanka?",
+  "response": [
+    "doc_18310.txt",
+    "doc_18308.txt",
+    "doc_18309.txt",
+    "doc_18311.txt",
+    "doc_12337.txt"
+  ]
+}

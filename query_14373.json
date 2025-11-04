@@ -1,0 +1,10 @@
+{
+  "query": "What year was Jason Lee born?",
+  "response": [
+    "doc_7365.txt",
+    "doc_7366.txt",
+    "doc_26000.txt",
+    "doc_26001.txt",
+    "doc_7367.txt"
+  ]
+}

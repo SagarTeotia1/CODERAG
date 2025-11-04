@@ -1,0 +1,10 @@
+{
+  "query": "What film won the Best International Feature Film prize at the 2008 London Independent Film Festival?",
+  "response": [
+    "doc_8514.txt",
+    "doc_1161.txt",
+    "doc_33001.txt",
+    "doc_33002.txt",
+    "doc_11457.txt"
+  ]
+}

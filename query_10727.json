@@ -1,0 +1,10 @@
+{
+  "query": "What sport did Troy Nathan play during his time at Kelston Boys High School?",
+  "response": [
+    "doc_16914.txt",
+    "doc_25641.txt",
+    "doc_11079.txt",
+    "doc_32260.txt",
+    "doc_2938.txt"
+  ]
+}

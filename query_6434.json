@@ -1,0 +1,10 @@
+{
+  "query": "Who is the current president of Vasco da Gama?",
+  "response": [
+    "doc_14571.txt",
+    "doc_34055.txt",
+    "doc_8653.txt",
+    "doc_39668.txt",
+    "doc_14570.txt"
+  ]
+}

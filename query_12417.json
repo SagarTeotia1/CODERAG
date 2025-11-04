@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided links, what was Barbara Tuchman's first book about?",
+  "response": [
+    "doc_21189.txt",
+    "doc_21190.txt",
+    "doc_21184.txt",
+    "doc_21183.txt",
+    "doc_21182.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which Jonas Brothers album was a commercial failure following a limited release?",
+  "response": [
+    "doc_38659.txt",
+    "doc_12917.txt",
+    "doc_4896.txt",
+    "doc_38658.txt",
+    "doc_12918.txt"
+  ]
+}

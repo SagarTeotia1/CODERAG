@@ -1,0 +1,10 @@
+{
+  "query": "Did the American laboratory set up a helpline to address patient concerns about the blockage issue?",
+  "response": [
+    "doc_26447.txt",
+    "doc_13661.txt",
+    "doc_39408.txt",
+    "doc_39411.txt",
+    "doc_15986.txt"
+  ]
+}

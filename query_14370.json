@@ -1,0 +1,10 @@
+{
+  "query": "What year did the Pilgrims land at Plymouth Rock?",
+  "response": [
+    "doc_25979.txt",
+    "doc_25974.txt",
+    "doc_25977.txt",
+    "doc_25976.txt",
+    "doc_25978.txt"
+  ]
+}

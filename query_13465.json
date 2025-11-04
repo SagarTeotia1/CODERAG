@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Michael Phelps break Mark Spitz's record for the most medals won at a single Olympic Games?",
+  "response": [
+    "doc_18461.txt",
+    "doc_177.txt",
+    "doc_31476.txt",
+    "doc_18465.txt",
+    "doc_31477.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What type of rover was awarded a JPL Award for Technical achievements in 1997?",
+  "response": [
+    "doc_30391.txt",
+    "doc_30392.txt",
+    "doc_11661.txt",
+    "doc_30395.txt",
+    "doc_28364.txt"
+  ]
+}

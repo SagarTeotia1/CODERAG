@@ -1,0 +1,10 @@
+{
+  "query": "What did Randall initially want for the role of Oscar?",
+  "response": [
+    "doc_1695.txt",
+    "doc_17868.txt",
+    "doc_27329.txt",
+    "doc_3235.txt",
+    "doc_17864.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which film is considered Manfred Noa’s “masterpiece”?",
+  "response": [
+    "doc_20499.txt",
+    "doc_20498.txt",
+    "doc_23594.txt",
+    "doc_21010.txt",
+    "doc_20500.txt"
+  ]
+}

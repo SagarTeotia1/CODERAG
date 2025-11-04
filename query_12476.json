@@ -1,0 +1,10 @@
+{
+  "query": "What year was Wood Buffalo National Park established?",
+  "response": [
+    "doc_21403.txt",
+    "doc_21405.txt",
+    "doc_21411.txt",
+    "doc_21406.txt",
+    "doc_21410.txt"
+  ]
+}

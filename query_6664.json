@@ -1,0 +1,10 @@
+{
+  "query": "What type of music genres are featured on Quentin Tarantino’s “Inglourious Basterds” soundtrack?",
+  "response": [
+    "doc_23591.txt",
+    "doc_23590.txt",
+    "doc_23596.txt",
+    "doc_23593.txt",
+    "doc_3426.txt"
+  ]
+}

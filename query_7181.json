@@ -1,0 +1,10 @@
+{
+  "query": "Which bowl game did the 2015 Washington State Cougars football team participate in, and who did they defeat?",
+  "response": [
+    "doc_8308.txt",
+    "doc_35445.txt",
+    "doc_35443.txt",
+    "doc_7394.txt",
+    "doc_7393.txt"
+  ]
+}

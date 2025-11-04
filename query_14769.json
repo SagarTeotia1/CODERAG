@@ -1,0 +1,10 @@
+{
+  "query": "Which teams played in the 2015 Coppa Italia Final, and what was the final score?",
+  "response": [
+    "doc_26990.txt",
+    "doc_26991.txt",
+    "doc_24188.txt",
+    "doc_29509.txt",
+    "doc_38545.txt"
+  ]
+}

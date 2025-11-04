@@ -1,0 +1,10 @@
+{
+  "query": "What were Adam and Eve punished for?",
+  "response": [
+    "doc_1849.txt",
+    "doc_25112.txt",
+    "doc_19514.txt",
+    "doc_33131.txt",
+    "doc_39609.txt"
+  ]
+}

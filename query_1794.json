@@ -1,0 +1,10 @@
+{
+  "query": "What is the subject matter of Nathanael West’s novel, *The Day of the Locust*?",
+  "response": [
+    "doc_31663.txt",
+    "doc_31664.txt",
+    "doc_31669.txt",
+    "doc_31667.txt",
+    "doc_31670.txt"
+  ]
+}

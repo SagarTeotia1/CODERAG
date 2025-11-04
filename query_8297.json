@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the Atlanta Tennis Championships held for the 24th time?",
+  "response": [
+    "doc_11105.txt",
+    "doc_11106.txt",
+    "doc_32301.txt",
+    "doc_8356.txt",
+    "doc_8355.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "How many children were abandoned in hospitals in Romania in 2005, according to independent data?",
+  "response": [
+    "doc_13036.txt",
+    "doc_6166.txt",
+    "doc_3188.txt",
+    "doc_2063.txt",
+    "doc_28171.txt"
+  ]
+}

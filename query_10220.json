@@ -1,0 +1,10 @@
+{
+  "query": "Which film director launched Omar Sharif’s career?",
+  "response": [
+    "doc_2299.txt",
+    "doc_2298.txt",
+    "doc_2296.txt",
+    "doc_24990.txt",
+    "doc_13028.txt"
+  ]
+}

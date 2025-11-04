@@ -1,0 +1,10 @@
+{
+  "query": "What was Amitabh Bachchan's image portrayed in “Zanjeer”?",
+  "response": [
+    "doc_13311.txt",
+    "doc_13310.txt",
+    "doc_147.txt",
+    "doc_23211.txt",
+    "doc_39242.txt"
+  ]
+}

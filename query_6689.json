@@ -1,0 +1,10 @@
+{
+  "query": "Who has been involved in the negotiations surrounding Greece’s economic adjustment programme?",
+  "response": [
+    "doc_17042.txt",
+    "doc_668.txt",
+    "doc_17211.txt",
+    "doc_17208.txt",
+    "doc_16026.txt"
+  ]
+}

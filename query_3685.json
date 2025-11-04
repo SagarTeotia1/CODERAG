@@ -1,0 +1,10 @@
+{
+  "query": "What was William Rogers’ profession, as described in the provided text?",
+  "response": [
+    "doc_36190.txt",
+    "doc_36189.txt",
+    "doc_36187.txt",
+    "doc_36188.txt",
+    "doc_36186.txt"
+  ]
+}

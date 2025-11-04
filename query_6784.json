@@ -1,0 +1,10 @@
+{
+  "query": "Which television series did Damon Lindelof and Drew Goddard write the episode “Flashes Before Your Eyes” for?",
+  "response": [
+    "doc_7350.txt",
+    "doc_7351.txt",
+    "doc_1853.txt",
+    "doc_13504.txt",
+    "doc_1854.txt"
+  ]
+}

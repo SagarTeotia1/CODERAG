@@ -1,0 +1,10 @@
+{
+  "query": "Who were Robert Todd Lincoln’s parents?",
+  "response": [
+    "doc_2852.txt",
+    "doc_2853.txt",
+    "doc_2849.txt",
+    "doc_2861.txt",
+    "doc_2850.txt"
+  ]
+}

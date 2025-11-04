@@ -1,0 +1,10 @@
+{
+  "query": "What evidence is being used against Busra Ersanli and Ragip Zarakolou?",
+  "response": [
+    "doc_7512.txt",
+    "doc_10116.txt",
+    "doc_36672.txt",
+    "doc_32550.txt",
+    "doc_7602.txt"
+  ]
+}

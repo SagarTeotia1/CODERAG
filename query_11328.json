@@ -1,0 +1,10 @@
+{
+  "query": "When was Acelino Freitas born?",
+  "response": [
+    "doc_26369.txt",
+    "doc_14570.txt",
+    "doc_14571.txt",
+    "doc_14563.txt",
+    "doc_1772.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the title of one of Patricia Cornwell’s novels featured in the passage?",
+  "response": [
+    "doc_14862.txt",
+    "doc_14859.txt",
+    "doc_14863.txt",
+    "doc_14861.txt",
+    "doc_14860.txt"
+  ]
+}

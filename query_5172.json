@@ -1,0 +1,10 @@
+{
+  "query": "What are the key components involved in restoring a NameNode’s state after a crash, as described in the Hadoop checkpointing guide?",
+  "response": [
+    "doc_39757.txt",
+    "doc_39756.txt",
+    "doc_39767.txt",
+    "doc_39765.txt",
+    "doc_39766.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What style of poem did Riley attempt to emulate, as evidenced by a specific example mentioned in the text?",
+  "response": [
+    "doc_14992.txt",
+    "doc_14993.txt",
+    "doc_14995.txt",
+    "doc_14994.txt",
+    "doc_36658.txt"
+  ]
+}

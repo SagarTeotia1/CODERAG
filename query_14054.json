@@ -1,0 +1,10 @@
+{
+  "query": "Who currently owns Dundas Castle, and what is their profession?",
+  "response": [
+    "doc_12262.txt",
+    "doc_12263.txt",
+    "doc_12264.txt",
+    "doc_12269.txt",
+    "doc_12266.txt"
+  ]
+}

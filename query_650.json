@@ -1,0 +1,10 @@
+{
+  "query": "According to the 2005 report, did the Belgian Federal Authority for Nuclear Control (FANC) find evidence of insufficient nuclear safety and radiation protection measures during the decommissioning of the BR3 reactor at Mol?",
+  "response": [
+    "doc_28715.txt",
+    "doc_35168.txt",
+    "doc_13779.txt",
+    "doc_28460.txt",
+    "doc_5898.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year was *American Gothic* painted?",
+  "response": [
+    "doc_1224.txt",
+    "doc_1222.txt",
+    "doc_1216.txt",
+    "doc_1218.txt",
+    "doc_1215.txt"
+  ]
+}

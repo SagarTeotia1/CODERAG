@@ -1,0 +1,10 @@
+{
+  "query": "Where was Thornton Wilder born?",
+  "response": [
+    "doc_5337.txt",
+    "doc_5336.txt",
+    "doc_5335.txt",
+    "doc_5338.txt",
+    "doc_5334.txt"
+  ]
+}

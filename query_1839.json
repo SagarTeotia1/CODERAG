@@ -1,0 +1,10 @@
+{
+  "query": "What specific events did the Commission organize to address the issue of marine litter?",
+  "response": [
+    "doc_21628.txt",
+    "doc_31747.txt",
+    "doc_37229.txt",
+    "doc_17099.txt",
+    "doc_37228.txt"
+  ]
+}

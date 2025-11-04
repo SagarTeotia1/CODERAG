@@ -1,0 +1,10 @@
+{
+  "query": "Which two countries have already published reports detailing their process of relating their national qualifications levels to the EQF?",
+  "response": [
+    "doc_18144.txt",
+    "doc_16799.txt",
+    "doc_38770.txt",
+    "doc_37568.txt",
+    "doc_30985.txt"
+  ]
+}

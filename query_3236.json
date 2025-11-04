@@ -1,0 +1,10 @@
+{
+  "query": "In what year was “The Places in Between” by Rory Stewart published?",
+  "response": [
+    "doc_31560.txt",
+    "doc_31559.txt",
+    "doc_31561.txt",
+    "doc_31580.txt",
+    "doc_31579.txt"
+  ]
+}

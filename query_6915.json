@@ -1,0 +1,10 @@
+{
+  "query": "What ESRB rating does “Secret of the Old Clock” have?",
+  "response": [
+    "doc_14402.txt",
+    "doc_14403.txt",
+    "doc_39783.txt",
+    "doc_39782.txt",
+    "doc_201.txt"
+  ]
+}

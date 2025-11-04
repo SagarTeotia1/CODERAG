@@ -1,0 +1,10 @@
+{
+  "query": "What percentage increase in population has the Balearic Islands experienced over the last five years?",
+  "response": [
+    "doc_4576.txt",
+    "doc_27771.txt",
+    "doc_7615.txt",
+    "doc_28789.txt",
+    "doc_25547.txt"
+  ]
+}

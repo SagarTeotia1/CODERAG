@@ -1,0 +1,10 @@
+{
+  "query": "When was the Jagiellonian University founded?",
+  "response": [
+    "doc_38720.txt",
+    "doc_38721.txt",
+    "doc_17793.txt",
+    "doc_22373.txt",
+    "doc_35587.txt"
+  ]
+}

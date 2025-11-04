@@ -1,0 +1,10 @@
+{
+  "query": "What is the consequence of the Dutch measure regarding EU vehicle exports to other countries?",
+  "response": [
+    "doc_10023.txt",
+    "doc_10022.txt",
+    "doc_10369.txt",
+    "doc_22083.txt",
+    "doc_30713.txt"
+  ]
+}

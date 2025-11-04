@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Janie Jones first achieve notoriety?",
+  "response": [
+    "doc_1573.txt",
+    "doc_38661.txt",
+    "doc_271.txt",
+    "doc_19882.txt",
+    "doc_1575.txt"
+  ]
+}

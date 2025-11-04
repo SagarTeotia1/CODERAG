@@ -1,0 +1,10 @@
+{
+  "query": "Which Florida Corporation owns the television station licensed in Springfield, MO?",
+  "response": [
+    "doc_26536.txt",
+    "doc_40278.txt",
+    "doc_40282.txt",
+    "doc_15036.txt",
+    "doc_40277.txt"
+  ]
+}

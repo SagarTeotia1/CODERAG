@@ -1,0 +1,10 @@
+{
+  "query": "Who was coached by Tamara Moskvina?",
+  "response": [
+    "doc_19434.txt",
+    "doc_19433.txt",
+    "doc_1463.txt",
+    "doc_1468.txt",
+    "doc_1467.txt"
+  ]
+}

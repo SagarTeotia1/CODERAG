@@ -1,0 +1,10 @@
+{
+  "query": "What caused the merchant vessel Don Pedro to sink off the coast of Ibiza?",
+  "response": [
+    "doc_31731.txt",
+    "doc_14227.txt",
+    "doc_23284.txt",
+    "doc_16273.txt",
+    "doc_28888.txt"
+  ]
+}

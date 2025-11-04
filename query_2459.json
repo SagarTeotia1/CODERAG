@@ -1,0 +1,10 @@
+{
+  "query": "How much does an Oscar statuette weigh?",
+  "response": [
+    "doc_3235.txt",
+    "doc_3236.txt",
+    "doc_3239.txt",
+    "doc_1574.txt",
+    "doc_13718.txt"
+  ]
+}

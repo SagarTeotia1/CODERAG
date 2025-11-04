@@ -1,0 +1,10 @@
+{
+  "query": "On what network did the television series “Day by Day” air?",
+  "response": [
+    "doc_1359.txt",
+    "doc_9726.txt",
+    "doc_28511.txt",
+    "doc_1358.txt",
+    "doc_26960.txt"
+  ]
+}

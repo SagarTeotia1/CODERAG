@@ -1,0 +1,10 @@
+{
+  "query": "What city is the Residence Inn Salt Lake City Downtown located in?",
+  "response": [
+    "doc_20482.txt",
+    "doc_20481.txt",
+    "doc_37652.txt",
+    "doc_20483.txt",
+    "doc_2135.txt"
+  ]
+}

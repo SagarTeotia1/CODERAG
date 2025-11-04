@@ -1,0 +1,10 @@
+{
+  "query": "Who has served as the Artistic Director of the Salzburg Festival since 2006?",
+  "response": [
+    "doc_38575.txt",
+    "doc_35290.txt",
+    "doc_15958.txt",
+    "doc_35291.txt",
+    "doc_7291.txt"
+  ]
+}

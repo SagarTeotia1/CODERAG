@@ -1,0 +1,10 @@
+{
+  "query": "What was the outcome of the Gallipoli Campaign in terms of territory regained?",
+  "response": [
+    "doc_19780.txt",
+    "doc_19785.txt",
+    "doc_19784.txt",
+    "doc_19782.txt",
+    "doc_19781.txt"
+  ]
+}

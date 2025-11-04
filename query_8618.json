@@ -1,0 +1,10 @@
+{
+  "query": "Which band was formed by Janove Ottesen and Geir Zahl before Kaizers Orchestra?",
+  "response": [
+    "doc_11881.txt",
+    "doc_11882.txt",
+    "doc_34425.txt",
+    "doc_21739.txt",
+    "doc_30587.txt"
+  ]
+}

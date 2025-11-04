@@ -1,0 +1,10 @@
+{
+  "query": "Which television sitcom featured Jean Stapleton alongside Whoopi Goldberg?",
+  "response": [
+    "doc_18769.txt",
+    "doc_11272.txt",
+    "doc_11271.txt",
+    "doc_28511.txt",
+    "doc_7366.txt"
+  ]
+}

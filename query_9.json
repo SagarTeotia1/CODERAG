@@ -1,0 +1,10 @@
+{
+  "query": "What criticism did Bogatekin make in his article regarding the Turkish Republic?",
+  "response": [
+    "doc_27349.txt",
+    "doc_8709.txt",
+    "doc_17514.txt",
+    "doc_19066.txt",
+    "doc_19065.txt"
+  ]
+}

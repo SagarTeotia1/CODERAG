@@ -1,0 +1,10 @@
+{
+  "query": "What was the title of the book Douglas Hofstadter wrote in 1958?",
+  "response": [
+    "doc_21693.txt",
+    "doc_21264.txt",
+    "doc_21265.txt",
+    "doc_11227.txt",
+    "doc_11232.txt"
+  ]
+}

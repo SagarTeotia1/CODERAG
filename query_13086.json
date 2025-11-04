@@ -1,0 +1,10 @@
+{
+  "query": "What is the size of the Truckee River Basin in square miles?",
+  "response": [
+    "doc_36393.txt",
+    "doc_23494.txt",
+    "doc_11167.txt",
+    "doc_36779.txt",
+    "doc_11168.txt"
+  ]
+}

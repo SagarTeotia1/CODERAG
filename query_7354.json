@@ -1,0 +1,10 @@
+{
+  "query": "What award did Ms. Moreno receive in 1995?",
+  "response": [
+    "doc_32149.txt",
+    "doc_18990.txt",
+    "doc_18979.txt",
+    "doc_18982.txt",
+    "doc_18987.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What tax is imposed on EU citizens selling real estate in France?",
+  "response": [
+    "doc_30753.txt",
+    "doc_30596.txt",
+    "doc_23061.txt",
+    "doc_35210.txt",
+    "doc_28645.txt"
+  ]
+}

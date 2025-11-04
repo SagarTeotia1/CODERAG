@@ -1,0 +1,10 @@
+{
+  "query": "How many entrepreneurs has Project Enterprise served in New York City?",
+  "response": [
+    "doc_1140.txt",
+    "doc_2221.txt",
+    "doc_27497.txt",
+    "doc_27498.txt",
+    "doc_27503.txt"
+  ]
+}

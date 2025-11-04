@@ -1,0 +1,10 @@
+{
+  "query": "Which two monuments in Karnataka are recognized as UNESCO World Heritage Sites?",
+  "response": [
+    "doc_13751.txt",
+    "doc_20752.txt",
+    "doc_12333.txt",
+    "doc_20745.txt",
+    "doc_20748.txt"
+  ]
+}

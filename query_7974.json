@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Terry Frost create the painting “1956, Yorkshire”?",
+  "response": [
+    "doc_10334.txt",
+    "doc_1224.txt",
+    "doc_36656.txt",
+    "doc_38965.txt",
+    "doc_31559.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What precautions has the Commission taken to ensure that fish imports from Japan are safe for the consumer?",
+  "response": [
+    "doc_11888.txt",
+    "doc_5384.txt",
+    "doc_33226.txt",
+    "doc_27614.txt",
+    "doc_30075.txt"
+  ]
+}

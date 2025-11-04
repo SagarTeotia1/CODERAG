@@ -1,0 +1,10 @@
+{
+  "query": "What movie is Vincent Canby reviewing?",
+  "response": [
+    "doc_39545.txt",
+    "doc_18858.txt",
+    "doc_18859.txt",
+    "doc_12439.txt",
+    "doc_8223.txt"
+  ]
+}

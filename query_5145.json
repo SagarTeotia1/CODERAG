@@ -1,0 +1,10 @@
+{
+  "query": "How many cholera cases and fatalities were recorded in Zimbabwe between August and December 2008, as reported by UN-OCHA?",
+  "response": [
+    "doc_39706.txt",
+    "doc_40088.txt",
+    "doc_26112.txt",
+    "doc_40089.txt",
+    "doc_23175.txt"
+  ]
+}

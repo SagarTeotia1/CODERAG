@@ -1,0 +1,10 @@
+{
+  "query": "What two specific documents are included in the Energy/Climate package?",
+  "response": [
+    "doc_9166.txt",
+    "doc_18755.txt",
+    "doc_40167.txt",
+    "doc_23312.txt",
+    "doc_5280.txt"
+  ]
+}

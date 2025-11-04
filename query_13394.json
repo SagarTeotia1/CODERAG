@@ -1,0 +1,10 @@
+{
+  "query": "What significant event did “New Mexico” escort President Wilson to?",
+  "response": [
+    "doc_23543.txt",
+    "doc_21039.txt",
+    "doc_22547.txt",
+    "doc_40099.txt",
+    "doc_31340.txt"
+  ]
+}

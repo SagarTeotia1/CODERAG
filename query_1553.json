@@ -1,0 +1,10 @@
+{
+  "query": "Are there any specific locations or geographical areas referenced (e.g., Escondido, Oceanside)?",
+  "response": [
+    "doc_22913.txt",
+    "doc_9785.txt",
+    "doc_7676.txt",
+    "doc_9786.txt",
+    "doc_22905.txt"
+  ]
+}

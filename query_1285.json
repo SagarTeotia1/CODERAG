@@ -1,0 +1,10 @@
+{
+  "query": "Will US film productions or US/UK co-productions produced in the United Kingdom benefit from the UK’s proposed tax relief, while British co-productions produced elsewhere in the European Union would not?",
+  "response": [
+    "doc_1168.txt",
+    "doc_29012.txt",
+    "doc_1161.txt",
+    "doc_25397.txt",
+    "doc_29036.txt"
+  ]
+}

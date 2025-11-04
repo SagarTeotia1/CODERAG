@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Ford celebrate the Mustang’s 25th anniversary?",
+  "response": [
+    "doc_33610.txt",
+    "doc_33609.txt",
+    "doc_33611.txt",
+    "doc_33613.txt",
+    "doc_33612.txt"
+  ]
+}

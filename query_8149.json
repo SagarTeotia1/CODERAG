@@ -1,0 +1,10 @@
+{
+  "query": "What year was the original recording of “Hair” released by RCA Victor?",
+  "response": [
+    "doc_11978.txt",
+    "doc_7696.txt",
+    "doc_7695.txt",
+    "doc_7693.txt",
+    "doc_16823.txt"
+  ]
+}

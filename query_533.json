@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how old is the current basin of Lake Victoria?",
+  "response": [
+    "doc_28485.txt",
+    "doc_1910.txt",
+    "doc_28487.txt",
+    "doc_28486.txt",
+    "doc_1909.txt"
+  ]
+}

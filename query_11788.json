@@ -1,0 +1,10 @@
+{
+  "query": "When did Samuel Pepys begin his famous diary?",
+  "response": [
+    "doc_1896.txt",
+    "doc_1900.txt",
+    "doc_1898.txt",
+    "doc_1903.txt",
+    "doc_1897.txt"
+  ]
+}

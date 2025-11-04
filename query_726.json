@@ -1,0 +1,10 @@
+{
+  "query": "What architectural style is the Lea Laboratory building characterized by?",
+  "response": [
+    "doc_15263.txt",
+    "doc_23861.txt",
+    "doc_31678.txt",
+    "doc_15266.txt",
+    "doc_15251.txt"
+  ]
+}

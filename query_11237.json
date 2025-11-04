@@ -1,0 +1,10 @@
+{
+  "query": "How many EU citizens suffer from infections acquired from public swimming pools and baths each year?",
+  "response": [
+    "doc_18210.txt",
+    "doc_5303.txt",
+    "doc_5304.txt",
+    "doc_19555.txt",
+    "doc_17522.txt"
+  ]
+}

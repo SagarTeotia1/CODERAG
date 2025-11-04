@@ -1,0 +1,10 @@
+{
+  "query": "What was John William Chancellor’s profession?",
+  "response": [
+    "doc_25864.txt",
+    "doc_17714.txt",
+    "doc_32947.txt",
+    "doc_8705.txt",
+    "doc_32240.txt"
+  ]
+}

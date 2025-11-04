@@ -1,0 +1,10 @@
+{
+  "query": "Which festival in Kerala involves the parading of ornately decorated elephants?",
+  "response": [
+    "doc_30265.txt",
+    "doc_20151.txt",
+    "doc_12335.txt",
+    "doc_11266.txt",
+    "doc_20152.txt"
+  ]
+}

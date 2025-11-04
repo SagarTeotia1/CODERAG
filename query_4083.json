@@ -1,0 +1,10 @@
+{
+  "query": "Where was Dennis Gabor born?",
+  "response": [
+    "doc_8579.txt",
+    "doc_23687.txt",
+    "doc_32969.txt",
+    "doc_3483.txt",
+    "doc_23685.txt"
+  ]
+}

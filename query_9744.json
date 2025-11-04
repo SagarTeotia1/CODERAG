@@ -1,0 +1,10 @@
+{
+  "query": "What EU rules currently prevent baby food manufacturers from making health claims about DHA?",
+  "response": [
+    "doc_1442.txt",
+    "doc_32021.txt",
+    "doc_17733.txt",
+    "doc_22345.txt",
+    "doc_32022.txt"
+  ]
+}

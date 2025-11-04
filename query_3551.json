@@ -1,0 +1,10 @@
+{
+  "query": "What was Jozef Roháč’s area of expertise as a criminal?",
+  "response": [
+    "doc_1145.txt",
+    "doc_779.txt",
+    "doc_10242.txt",
+    "doc_10240.txt",
+    "doc_35177.txt"
+  ]
+}

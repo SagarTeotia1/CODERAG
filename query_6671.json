@@ -1,0 +1,10 @@
+{
+  "query": "According to the passages, what is Puck’s role in *A Midsummer’s Night Dream*?",
+  "response": [
+    "doc_7047.txt",
+    "doc_7053.txt",
+    "doc_7049.txt",
+    "doc_7056.txt",
+    "doc_7050.txt"
+  ]
+}

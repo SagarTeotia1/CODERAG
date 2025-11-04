@@ -1,0 +1,10 @@
+{
+  "query": "How many players have appeared in competitive games for the Minnesota Timberwolves since the franchise’s inception?",
+  "response": [
+    "doc_10907.txt",
+    "doc_10905.txt",
+    "doc_10906.txt",
+    "doc_9013.txt",
+    "doc_9014.txt"
+  ]
+}

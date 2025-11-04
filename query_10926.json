@@ -1,0 +1,10 @@
+{
+  "query": "In what room will the meeting regarding AIFM amendments be held?",
+  "response": [
+    "doc_17397.txt",
+    "doc_24946.txt",
+    "doc_21073.txt",
+    "doc_14951.txt",
+    "doc_1747.txt"
+  ]
+}

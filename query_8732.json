@@ -1,0 +1,10 @@
+{
+  "query": "What trails are mentioned as being associated with the Alabama Scenic River Trail?",
+  "response": [
+    "doc_12147.txt",
+    "doc_36836.txt",
+    "doc_36837.txt",
+    "doc_34490.txt",
+    "doc_32468.txt"
+  ]
+}

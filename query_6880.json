@@ -1,0 +1,10 @@
+{
+  "query": "What is the birthdate of Elizabeth Robyn Harvey?",
+  "response": [
+    "doc_36319.txt",
+    "doc_11644.txt",
+    "doc_20237.txt",
+    "doc_31722.txt",
+    "doc_1575.txt"
+  ]
+}

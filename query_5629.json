@@ -1,0 +1,10 @@
+{
+  "query": "What country served in the 20th International Battalion?",
+  "response": [
+    "doc_4371.txt",
+    "doc_4376.txt",
+    "doc_4377.txt",
+    "doc_4370.txt",
+    "doc_4366.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Has the permissible aluminium content in vaccines set by the European standard been altered at any point between 1994 and October 2007?",
+  "response": [
+    "doc_25601.txt",
+    "doc_23479.txt",
+    "doc_7761.txt",
+    "doc_26676.txt",
+    "doc_28039.txt"
+  ]
+}

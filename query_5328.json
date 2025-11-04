@@ -1,0 +1,10 @@
+{
+  "query": "What type of events were held at McGlory’s Armory Hall in 1883?",
+  "response": [
+    "doc_40082.txt",
+    "doc_31022.txt",
+    "doc_31904.txt",
+    "doc_31717.txt",
+    "doc_31020.txt"
+  ]
+}

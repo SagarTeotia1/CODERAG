@@ -1,0 +1,10 @@
+{
+  "query": "What type of geological formation is Stone Mountain?",
+  "response": [
+    "doc_211.txt",
+    "doc_209.txt",
+    "doc_210.txt",
+    "doc_26486.txt",
+    "doc_37179.txt"
+  ]
+}

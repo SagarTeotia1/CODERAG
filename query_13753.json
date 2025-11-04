@@ -1,0 +1,10 @@
+{
+  "query": "According to the document, what was the forecasted economic growth rate for the European Monetary Union in 2002?",
+  "response": [
+    "doc_24477.txt",
+    "doc_38261.txt",
+    "doc_38255.txt",
+    "doc_38262.txt",
+    "doc_8462.txt"
+  ]
+}

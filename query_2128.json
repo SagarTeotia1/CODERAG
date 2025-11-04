@@ -1,0 +1,10 @@
+{
+  "query": "What types of ingredients are used in the Green Mill wrap?",
+  "response": [
+    "doc_32532.txt",
+    "doc_29729.txt",
+    "doc_6261.txt",
+    "doc_18876.txt",
+    "doc_3714.txt"
+  ]
+}

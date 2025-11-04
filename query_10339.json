@@ -1,0 +1,10 @@
+{
+  "query": "What is the phrase used to indicate that a command must be followed in the game \"Simon Says\"?",
+  "response": [
+    "doc_16093.txt",
+    "doc_16092.txt",
+    "doc_16094.txt",
+    "doc_16095.txt",
+    "doc_7190.txt"
+  ]
+}

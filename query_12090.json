@@ -1,0 +1,10 @@
+{
+  "query": "In what year did the Bhopal disaster occur?",
+  "response": [
+    "doc_20393.txt",
+    "doc_20391.txt",
+    "doc_20392.txt",
+    "doc_20386.txt",
+    "doc_20394.txt"
+  ]
+}

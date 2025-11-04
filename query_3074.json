@@ -1,0 +1,10 @@
+{
+  "query": "Where was the French ship “Généreux” located when it intercepted “Leander” on 18 August?",
+  "response": [
+    "doc_34813.txt",
+    "doc_23475.txt",
+    "doc_15054.txt",
+    "doc_15053.txt",
+    "doc_15055.txt"
+  ]
+}

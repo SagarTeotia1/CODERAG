@@ -1,0 +1,10 @@
+{
+  "query": "Which organizations have experienced difficulties accessing refugee camps due to the fighting in Eastern Chad?",
+  "response": [
+    "doc_37097.txt",
+    "doc_24525.txt",
+    "doc_37099.txt",
+    "doc_37098.txt",
+    "doc_24526.txt"
+  ]
+}

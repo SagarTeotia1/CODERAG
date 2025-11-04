@@ -1,0 +1,10 @@
+{
+  "query": "What publications did Kay Kato contribute to, as indicated by the passage?",
+  "response": [
+    "doc_16515.txt",
+    "doc_38704.txt",
+    "doc_38706.txt",
+    "doc_28243.txt",
+    "doc_38708.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When did the last round of the EU-Vietnam human rights dialogue take place?",
+  "response": [
+    "doc_12905.txt",
+    "doc_17774.txt",
+    "doc_36012.txt",
+    "doc_28714.txt",
+    "doc_15952.txt"
+  ]
+}

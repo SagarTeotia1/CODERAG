@@ -1,0 +1,10 @@
+{
+  "query": "In what year was “Ode on the Death of the Duke of Wellington” published?",
+  "response": [
+    "doc_23912.txt",
+    "doc_23906.txt",
+    "doc_23910.txt",
+    "doc_23908.txt",
+    "doc_23914.txt"
+  ]
+}

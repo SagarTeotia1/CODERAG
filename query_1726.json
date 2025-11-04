@@ -1,0 +1,10 @@
+{
+  "query": "When did the American television drama series “Scandal” premiere?",
+  "response": [
+    "doc_32597.txt",
+    "doc_32596.txt",
+    "doc_10959.txt",
+    "doc_18207.txt",
+    "doc_4363.txt"
+  ]
+}

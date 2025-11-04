@@ -1,0 +1,10 @@
+{
+  "query": "What is the primary source of conflict between the Hatfields and the McCoys?",
+  "response": [
+    "doc_33570.txt",
+    "doc_33568.txt",
+    "doc_33567.txt",
+    "doc_33569.txt",
+    "doc_33573.txt"
+  ]
+}

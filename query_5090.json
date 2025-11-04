@@ -1,0 +1,10 @@
+{
+  "query": "In 2008, what specific issue led to the requirement of testing the first ten cargoes from a Turkish company upon re-import into southern Italy?",
+  "response": [
+    "doc_39563.txt",
+    "doc_40304.txt",
+    "doc_25871.txt",
+    "doc_33102.txt",
+    "doc_36621.txt"
+  ]
+}

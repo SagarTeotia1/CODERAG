@@ -1,0 +1,10 @@
+{
+  "query": "What was Adam Smith’s birthplace, and in what year was he born?",
+  "response": [
+    "doc_22184.txt",
+    "doc_22186.txt",
+    "doc_22188.txt",
+    "doc_22187.txt",
+    "doc_22190.txt"
+  ]
+}

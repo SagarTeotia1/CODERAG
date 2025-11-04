@@ -1,0 +1,9 @@
+{
+  "query": "What was the subject of the mural Thomas Hart Benton painted for the Harry S. Truman Library?",
+  "response": [
+    "doc_2001.txt",
+    "doc_1998.txt",
+    "doc_1999.txt",
+    "doc_2000.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "How many species are generally accepted within the genus *Solanum*?",
+  "response": [
+    "doc_18644.txt",
+    "doc_9901.txt",
+    "doc_36513.txt",
+    "doc_9898.txt",
+    "doc_36509.txt"
+  ]
+}

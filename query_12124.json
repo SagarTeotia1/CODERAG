@@ -1,0 +1,10 @@
+{
+  "query": "According to the article, what is the approximate annual amount of EU funding lost to fraud and irregular payments?",
+  "response": [
+    "doc_20475.txt",
+    "doc_33942.txt",
+    "doc_3474.txt",
+    "doc_10676.txt",
+    "doc_34233.txt"
+  ]
+}

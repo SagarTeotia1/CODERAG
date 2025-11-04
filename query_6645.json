@@ -1,0 +1,10 @@
+{
+  "query": "Which band did John Hodgson perform percussion with during the period 1974-1976?",
+  "response": [
+    "doc_1540.txt",
+    "doc_2994.txt",
+    "doc_4210.txt",
+    "doc_4205.txt",
+    "doc_1538.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was the Rapporteur presenting regarding the Intelligent Transport System (ITS)?",
+  "response": [
+    "doc_27721.txt",
+    "doc_33060.txt",
+    "doc_16236.txt",
+    "doc_33886.txt",
+    "doc_27586.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What type of animal hair is used to make Chungking bristle paint brushes?",
+  "response": [
+    "doc_21066.txt",
+    "doc_21067.txt",
+    "doc_21065.txt",
+    "doc_21064.txt",
+    "doc_21062.txt"
+  ]
+}

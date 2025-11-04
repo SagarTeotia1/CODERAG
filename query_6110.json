@@ -1,0 +1,10 @@
+{
+  "query": "Where did Jane Eyre live as a child after her parents died?",
+  "response": [
+    "doc_5649.txt",
+    "doc_5650.txt",
+    "doc_5652.txt",
+    "doc_2359.txt",
+    "doc_5651.txt"
+  ]
+}

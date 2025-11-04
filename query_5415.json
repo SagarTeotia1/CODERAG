@@ -1,0 +1,10 @@
+{
+  "query": "Which publishing house released “Hidden Order” by Brad Thor?",
+  "response": [
+    "doc_40216.txt",
+    "doc_40224.txt",
+    "doc_40215.txt",
+    "doc_14904.txt",
+    "doc_40218.txt"
+  ]
+}

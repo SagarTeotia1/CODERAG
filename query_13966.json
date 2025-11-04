@@ -1,0 +1,10 @@
+{
+  "query": "What specific event inspired Modest Mussorgsky’s composition, “St. John’s Eve on Bald Mountain”?",
+  "response": [
+    "doc_19512.txt",
+    "doc_19510.txt",
+    "doc_19511.txt",
+    "doc_2388.txt",
+    "doc_19509.txt"
+  ]
+}

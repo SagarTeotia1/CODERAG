@@ -1,0 +1,10 @@
+{
+  "query": "Which organization publishes the TIS-620 standard?",
+  "response": [
+    "doc_31544.txt",
+    "doc_18271.txt",
+    "doc_24039.txt",
+    "doc_24033.txt",
+    "doc_24037.txt"
+  ]
+}

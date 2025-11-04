@@ -1,0 +1,10 @@
+{
+  "query": "What treaties preceded the Lisbon Treaty and contributed to the development of EU health policy?",
+  "response": [
+    "doc_13275.txt",
+    "doc_3418.txt",
+    "doc_24719.txt",
+    "doc_30681.txt",
+    "doc_18693.txt"
+  ]
+}

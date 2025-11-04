@@ -1,0 +1,10 @@
+{
+  "query": "What was the name of the company Art Parker founded after leaving Parker Appliance Company?",
+  "response": [
+    "doc_10490.txt",
+    "doc_17409.txt",
+    "doc_32048.txt",
+    "doc_32049.txt",
+    "doc_12067.txt"
+  ]
+}

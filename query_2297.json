@@ -1,0 +1,10 @@
+{
+  "query": "Who walked soberly past Sir John Rogerson’s quay?",
+  "response": [
+    "doc_9146.txt",
+    "doc_39210.txt",
+    "doc_39213.txt",
+    "doc_23908.txt",
+    "doc_16546.txt"
+  ]
+}

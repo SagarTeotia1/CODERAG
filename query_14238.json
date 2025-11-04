@@ -1,0 +1,10 @@
+{
+  "query": "Who were Kevin Kane and Tom Hooper collaborating with on the album “Field Trip”?",
+  "response": [
+    "doc_1228.txt",
+    "doc_37162.txt",
+    "doc_34422.txt",
+    "doc_32068.txt",
+    "doc_39063.txt"
+  ]
+}

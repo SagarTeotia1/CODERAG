@@ -1,0 +1,10 @@
+{
+  "query": "What system of reading and writing did Louis Braille invent?",
+  "response": [
+    "doc_16840.txt",
+    "doc_16841.txt",
+    "doc_125.txt",
+    "doc_30235.txt",
+    "doc_30238.txt"
+  ]
+}

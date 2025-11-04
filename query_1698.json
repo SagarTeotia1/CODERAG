@@ -1,0 +1,10 @@
+{
+  "query": "What was the home stadium of the Lethbridge Black Diamonds?",
+  "response": [
+    "doc_20093.txt",
+    "doc_20096.txt",
+    "doc_38744.txt",
+    "doc_9589.txt",
+    "doc_5037.txt"
+  ]
+}

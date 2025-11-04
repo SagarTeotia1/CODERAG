@@ -1,0 +1,10 @@
+{
+  "query": "According to the Spanish fruit and vegetable sector, what is the potential price increase per kilogram of fruit or vegetables resulting from the German tolls?",
+  "response": [
+    "doc_16285.txt",
+    "doc_35920.txt",
+    "doc_8133.txt",
+    "doc_14459.txt",
+    "doc_21702.txt"
+  ]
+}

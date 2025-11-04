@@ -1,0 +1,10 @@
+{
+  "query": "What two rivers receive water from the Wapta Icefield?",
+  "response": [
+    "doc_15362.txt",
+    "doc_19098.txt",
+    "doc_19099.txt",
+    "doc_19101.txt",
+    "doc_19096.txt"
+  ]
+}

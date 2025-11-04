@@ -1,0 +1,10 @@
+{
+  "query": "What was Clifton Webb known for in the musical *Stars and Stripes Forever*?",
+  "response": [
+    "doc_25338.txt",
+    "doc_25336.txt",
+    "doc_25340.txt",
+    "doc_25337.txt",
+    "doc_25335.txt"
+  ]
+}

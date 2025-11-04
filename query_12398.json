@@ -1,0 +1,10 @@
+{
+  "query": "Which international declaration, signed in Barcelona, addressed countering terrorism within the Euro-Mediterranean context?",
+  "response": [
+    "doc_21118.txt",
+    "doc_21119.txt",
+    "doc_7848.txt",
+    "doc_39688.txt",
+    "doc_23157.txt"
+  ]
+}

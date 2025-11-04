@@ -1,0 +1,10 @@
+{
+  "query": "What was a specific recommendation made regarding exchange rate systems, as discussed in the G20 Seoul Summit?",
+  "response": [
+    "doc_13225.txt",
+    "doc_13224.txt",
+    "doc_37903.txt",
+    "doc_13227.txt",
+    "doc_20719.txt"
+  ]
+}

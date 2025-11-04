@@ -1,0 +1,10 @@
+{
+  "query": "How many singles were released from “Forget the Night Ahead”?",
+  "response": [
+    "doc_31614.txt",
+    "doc_4596.txt",
+    "doc_38411.txt",
+    "doc_4593.txt",
+    "doc_4600.txt"
+  ]
+}

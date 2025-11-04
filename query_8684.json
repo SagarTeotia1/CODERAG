@@ -1,0 +1,10 @@
+{
+  "query": "How much money was allocated to environmental protection by the EIB Group?",
+  "response": [
+    "doc_12052.txt",
+    "doc_12051.txt",
+    "doc_19981.txt",
+    "doc_25950.txt",
+    "doc_14368.txt"
+  ]
+}

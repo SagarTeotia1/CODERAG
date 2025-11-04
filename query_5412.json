@@ -1,0 +1,10 @@
+{
+  "query": "What is the logo of Simon & Schuster?",
+  "response": [
+    "doc_40215.txt",
+    "doc_40218.txt",
+    "doc_24968.txt",
+    "doc_40220.txt",
+    "doc_24969.txt"
+  ]
+}

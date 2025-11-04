@@ -1,0 +1,10 @@
+{
+  "query": "Which film by Jessica Hausner competed in the Un Certain Regard section at the 2014 Cannes Film Festival?",
+  "response": [
+    "doc_3788.txt",
+    "doc_30052.txt",
+    "doc_27035.txt",
+    "doc_3781.txt",
+    "doc_27031.txt"
+  ]
+}

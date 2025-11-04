@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Prince give a New Year's Eve charity concert?",
+  "response": [
+    "doc_16713.txt",
+    "doc_25946.txt",
+    "doc_16707.txt",
+    "doc_16712.txt",
+    "doc_8137.txt"
+  ]
+}

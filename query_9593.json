@@ -1,0 +1,9 @@
+{
+  "query": "What is Holden Caulfield’s age and grade level as described in the passage?",
+  "response": [
+    "doc_14200.txt",
+    "doc_14201.txt",
+    "doc_14199.txt",
+    "doc_14202.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which publications did Russ Rymer contribute articles to?",
+  "response": [
+    "doc_38388.txt",
+    "doc_3692.txt",
+    "doc_38385.txt",
+    "doc_38383.txt",
+    "doc_38384.txt"
+  ]
+}

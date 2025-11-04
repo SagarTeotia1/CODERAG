@@ -1,0 +1,10 @@
+{
+  "query": "Which church was initially established in Chowan County by Paul Palmer?",
+  "response": [
+    "doc_16550.txt",
+    "doc_39177.txt",
+    "doc_39183.txt",
+    "doc_15351.txt",
+    "doc_16552.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When was Noel Coward born?",
+  "response": [
+    "doc_26552.txt",
+    "doc_26547.txt",
+    "doc_26549.txt",
+    "doc_26553.txt",
+    "doc_26551.txt"
+  ]
+}

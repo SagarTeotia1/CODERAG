@@ -1,0 +1,10 @@
+{
+  "query": "The Federal Power Commission was created as part of what federal agency?",
+  "response": [
+    "doc_34563.txt",
+    "doc_38289.txt",
+    "doc_38285.txt",
+    "doc_34561.txt",
+    "doc_38290.txt"
+  ]
+}

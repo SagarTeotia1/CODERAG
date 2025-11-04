@@ -1,0 +1,10 @@
+{
+  "query": "In what year were soldiers accused on Dauphin Island?",
+  "response": [
+    "doc_20038.txt",
+    "doc_29609.txt",
+    "doc_19537.txt",
+    "doc_21494.txt",
+    "doc_20039.txt"
+  ]
+}

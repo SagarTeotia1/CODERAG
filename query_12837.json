@@ -1,0 +1,10 @@
+{
+  "query": "Approximately what percentage of Arab immigrants live in metropolitan areas?",
+  "response": [
+    "doc_20903.txt",
+    "doc_20900.txt",
+    "doc_20899.txt",
+    "doc_27770.txt",
+    "doc_11890.txt"
+  ]
+}

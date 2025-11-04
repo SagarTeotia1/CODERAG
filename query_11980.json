@@ -1,0 +1,10 @@
+{
+  "query": "What awards did “Between My Head and the Sky” win?",
+  "response": [
+    "doc_20173.txt",
+    "doc_12913.txt",
+    "doc_12916.txt",
+    "doc_12915.txt",
+    "doc_2827.txt"
+  ]
+}

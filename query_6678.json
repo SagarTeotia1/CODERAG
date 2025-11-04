@@ -1,0 +1,10 @@
+{
+  "query": "Where are the Flames basketball team based?",
+  "response": [
+    "doc_8525.txt",
+    "doc_8522.txt",
+    "doc_10454.txt",
+    "doc_8518.txt",
+    "doc_10450.txt"
+  ]
+}

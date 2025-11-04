@@ -1,0 +1,10 @@
+{
+  "query": "When did Geoffrey Chaucer’s Canterbury Tales get printed?",
+  "response": [
+    "doc_6965.txt",
+    "doc_6967.txt",
+    "doc_6966.txt",
+    "doc_6969.txt",
+    "doc_6970.txt"
+  ]
+}

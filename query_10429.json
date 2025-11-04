@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Corkickle railway station open?",
+  "response": [
+    "doc_16289.txt",
+    "doc_16288.txt",
+    "doc_16287.txt",
+    "doc_39874.txt",
+    "doc_16640.txt"
+  ]
+}

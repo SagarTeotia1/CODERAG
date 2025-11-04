@@ -1,0 +1,10 @@
+{
+  "query": "From whom did Annie Oakley receive the nickname “Little Sure Shot”?",
+  "response": [
+    "doc_1829.txt",
+    "doc_1828.txt",
+    "doc_1831.txt",
+    "doc_1830.txt",
+    "doc_1827.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When was Ringedals Dam completed, and what was its reservoir capacity at that time?",
+  "response": [
+    "doc_40206.txt",
+    "doc_40196.txt",
+    "doc_16352.txt",
+    "doc_40199.txt",
+    "doc_23631.txt"
+  ]
+}

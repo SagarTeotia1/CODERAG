@@ -1,0 +1,10 @@
+{
+  "query": "What genres does the “Outlander” series incorporate, according to the passage?",
+  "response": [
+    "doc_39751.txt",
+    "doc_23863.txt",
+    "doc_36032.txt",
+    "doc_36030.txt",
+    "doc_13522.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to various reviews and comparisons, what is the estimated 0-60 mph time for the 2017 Honda Accord Hybrid?",
+  "response": [
+    "doc_35901.txt",
+    "doc_35900.txt",
+    "doc_35905.txt",
+    "doc_35903.txt",
+    "doc_35902.txt"
+  ]
+}

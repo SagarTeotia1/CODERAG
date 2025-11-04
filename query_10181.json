@@ -1,0 +1,10 @@
+{
+  "query": "How much did the Commission contribute to the trust fund specifically for the CDC study?",
+  "response": [
+    "doc_2100.txt",
+    "doc_25826.txt",
+    "doc_39852.txt",
+    "doc_2903.txt",
+    "doc_30521.txt"
+  ]
+}

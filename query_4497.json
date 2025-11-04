@@ -1,0 +1,10 @@
+{
+  "query": "Who is the newly elected President of Sri Lanka, according to this resolution?",
+  "response": [
+    "doc_38129.txt",
+    "doc_38128.txt",
+    "doc_27270.txt",
+    "doc_28125.txt",
+    "doc_23255.txt"
+  ]
+}

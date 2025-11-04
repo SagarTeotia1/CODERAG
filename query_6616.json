@@ -1,0 +1,10 @@
+{
+  "query": "Which comic book series features a private investigator named Rush, and who wrote it?",
+  "response": [
+    "doc_7305.txt",
+    "doc_35509.txt",
+    "doc_5209.txt",
+    "doc_4350.txt",
+    "doc_7304.txt"
+  ]
+}

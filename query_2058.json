@@ -1,0 +1,10 @@
+{
+  "query": "Which regions in the UK were affected by the floods that led to the EU Solidarity Fund application?",
+  "response": [
+    "doc_3163.txt",
+    "doc_3164.txt",
+    "doc_5775.txt",
+    "doc_3145.txt",
+    "doc_3165.txt"
+  ]
+}

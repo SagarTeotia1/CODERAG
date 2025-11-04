@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Giordano Bruno die?",
+  "response": [
+    "doc_27468.txt",
+    "doc_27471.txt",
+    "doc_27469.txt",
+    "doc_27470.txt",
+    "doc_27467.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Who were the models used by Grant Wood for the painting *American Gothic*?",
+  "response": [
+    "doc_1222.txt",
+    "doc_1217.txt",
+    "doc_1224.txt",
+    "doc_1223.txt",
+    "doc_1218.txt"
+  ]
+}

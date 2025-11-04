@@ -1,0 +1,10 @@
+{
+  "query": "What year did New York City Public Schools begin distributing condoms?",
+  "response": [
+    "doc_13975.txt",
+    "doc_1137.txt",
+    "doc_17668.txt",
+    "doc_9627.txt",
+    "doc_25700.txt"
+  ]
+}

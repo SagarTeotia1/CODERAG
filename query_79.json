@@ -1,0 +1,10 @@
+{
+  "query": "When was Company, Inc. founded?",
+  "response": [
+    "doc_27497.txt",
+    "doc_27495.txt",
+    "doc_27500.txt",
+    "doc_27496.txt",
+    "doc_2161.txt"
+  ]
+}

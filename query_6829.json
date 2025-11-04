@@ -1,0 +1,10 @@
+{
+  "query": "What event occurred in Seal Beach related to the 90th anniversary?",
+  "response": [
+    "doc_7453.txt",
+    "doc_7450.txt",
+    "doc_7452.txt",
+    "doc_7449.txt",
+    "doc_7451.txt"
+  ]
+}

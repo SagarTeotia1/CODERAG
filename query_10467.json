@@ -1,0 +1,10 @@
+{
+  "query": "When was the first National Hospital Day?",
+  "response": [
+    "doc_1611.txt",
+    "doc_1612.txt",
+    "doc_1613.txt",
+    "doc_1609.txt",
+    "doc_1610.txt"
+  ]
+}

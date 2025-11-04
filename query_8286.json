@@ -1,0 +1,10 @@
+{
+  "query": "What is the date of the meeting where EMPL Members will consider these amendments?",
+  "response": [
+    "doc_35745.txt",
+    "doc_15406.txt",
+    "doc_29277.txt",
+    "doc_1785.txt",
+    "doc_228.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is Kevin Hart’s profession?",
+  "response": [
+    "doc_37216.txt",
+    "doc_21461.txt",
+    "doc_7368.txt",
+    "doc_3213.txt",
+    "doc_12934.txt"
+  ]
+}

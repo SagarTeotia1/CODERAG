@@ -1,0 +1,10 @@
+{
+  "query": "What type of music was Josef Lanner known for composing?",
+  "response": [
+    "doc_12978.txt",
+    "doc_12980.txt",
+    "doc_12976.txt",
+    "doc_12979.txt",
+    "doc_12977.txt"
+  ]
+}

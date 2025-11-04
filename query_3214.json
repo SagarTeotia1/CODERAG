@@ -1,0 +1,10 @@
+{
+  "query": "What was the purpose of the Technical Group established in 2005?",
+  "response": [
+    "doc_20026.txt",
+    "doc_31275.txt",
+    "doc_16436.txt",
+    "doc_3295.txt",
+    "doc_33293.txt"
+  ]
+}

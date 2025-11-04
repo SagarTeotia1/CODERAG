@@ -1,0 +1,10 @@
+{
+  "query": "How many copies did “Wonderful Tonight” sell worldwide?",
+  "response": [
+    "doc_12872.txt",
+    "doc_2369.txt",
+    "doc_19639.txt",
+    "doc_30764.txt",
+    "doc_19645.txt"
+  ]
+}

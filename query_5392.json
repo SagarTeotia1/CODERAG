@@ -1,0 +1,10 @@
+{
+  "query": "What prompted the unrest in Rosarno, specifically regarding the immigrants' working conditions?",
+  "response": [
+    "doc_40191.txt",
+    "doc_25323.txt",
+    "doc_39357.txt",
+    "doc_12736.txt",
+    "doc_12099.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What year was “The Hound of the Baskervilles” released as a Soviet film?",
+  "response": [
+    "doc_23435.txt",
+    "doc_23434.txt",
+    "doc_24126.txt",
+    "doc_24131.txt",
+    "doc_24125.txt"
+  ]
+}

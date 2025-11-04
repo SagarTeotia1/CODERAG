@@ -1,0 +1,10 @@
+{
+  "query": "What type of music did Simon's group primarily rely on?",
+  "response": [
+    "doc_19448.txt",
+    "doc_19447.txt",
+    "doc_35990.txt",
+    "doc_19451.txt",
+    "doc_19449.txt"
+  ]
+}

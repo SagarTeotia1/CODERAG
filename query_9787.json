@@ -1,0 +1,10 @@
+{
+  "query": "According to the text, what is a key characteristic of Batman’s actions and sacrifices?",
+  "response": [
+    "doc_14659.txt",
+    "doc_14662.txt",
+    "doc_14660.txt",
+    "doc_14661.txt",
+    "doc_14658.txt"
+  ]
+}

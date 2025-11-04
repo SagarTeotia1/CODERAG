@@ -1,0 +1,10 @@
+{
+  "query": "Who succeeded the previous Member for Dunkley?",
+  "response": [
+    "doc_30410.txt",
+    "doc_27553.txt",
+    "doc_32946.txt",
+    "doc_27543.txt",
+    "doc_32956.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "How much money has the Italian Ministry of Health earmarked for the establishment of the paediatric neurology network?",
+  "response": [
+    "doc_18087.txt",
+    "doc_22001.txt",
+    "doc_25161.txt",
+    "doc_13666.txt",
+    "doc_2104.txt"
+  ]
+}

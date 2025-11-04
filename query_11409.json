@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided links, what was Kim Stanley Robinson’s 2015 novel *Aurora* nominated for?",
+  "response": [
+    "doc_11554.txt",
+    "doc_18649.txt",
+    "doc_11563.txt",
+    "doc_11564.txt",
+    "doc_11561.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is Nelson Campos doing in Hanoi?",
+  "response": [
+    "doc_28120.txt",
+    "doc_23222.txt",
+    "doc_23221.txt",
+    "doc_23218.txt",
+    "doc_25531.txt"
+  ]
+}

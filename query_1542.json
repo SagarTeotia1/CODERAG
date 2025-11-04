@@ -1,0 +1,10 @@
+{
+  "query": "Which documentary film, directed by Bernard Nathanson, controversially depicted a dilation and evacuation (D&E) abortion?",
+  "response": [
+    "doc_26505.txt",
+    "doc_18323.txt",
+    "doc_2180.txt",
+    "doc_18327.txt",
+    "doc_18212.txt"
+  ]
+}

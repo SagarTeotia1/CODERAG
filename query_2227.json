@@ -1,0 +1,10 @@
+{
+  "query": "When was the music video for “Ice Princess” released?",
+  "response": [
+    "doc_33753.txt",
+    "doc_38901.txt",
+    "doc_38902.txt",
+    "doc_38900.txt",
+    "doc_33759.txt"
+  ]
+}

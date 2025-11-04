@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of Italian parliament members are currently facing legal issues?",
+  "response": [
+    "doc_33291.txt",
+    "doc_5533.txt",
+    "doc_1261.txt",
+    "doc_18549.txt",
+    "doc_5532.txt"
+  ]
+}

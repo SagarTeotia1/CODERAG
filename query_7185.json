@@ -1,0 +1,10 @@
+{
+  "query": "What was the increase in the price of milk paid to Bulgarian producers between May 2007 and November 2007?",
+  "response": [
+    "doc_8311.txt",
+    "doc_12400.txt",
+    "doc_29915.txt",
+    "doc_15558.txt",
+    "doc_25602.txt"
+  ]
+}

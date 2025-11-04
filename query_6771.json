@@ -1,0 +1,10 @@
+{
+  "query": "What bestselling novel, featuring a professor who writes letters to students, did Saul Bellow finish writing in 1964?",
+  "response": [
+    "doc_7331.txt",
+    "doc_7328.txt",
+    "doc_7330.txt",
+    "doc_7329.txt",
+    "doc_7327.txt"
+  ]
+}

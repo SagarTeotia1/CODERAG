@@ -1,0 +1,10 @@
+{
+  "query": "What specific areas were assessed in the 2005 report concerning Turkey’s progress?",
+  "response": [
+    "doc_11466.txt",
+    "doc_19441.txt",
+    "doc_13243.txt",
+    "doc_5431.txt",
+    "doc_13405.txt"
+  ]
+}

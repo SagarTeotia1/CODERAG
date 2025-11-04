@@ -1,0 +1,10 @@
+{
+  "query": "What outcome resulted from Aaron Burr’s trial?",
+  "response": [
+    "doc_8468.txt",
+    "doc_8465.txt",
+    "doc_8464.txt",
+    "doc_8469.txt",
+    "doc_8466.txt"
+  ]
+}

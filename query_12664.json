@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission’s opinion on Olympic boycotts?",
+  "response": [
+    "doc_21831.txt",
+    "doc_33266.txt",
+    "doc_32812.txt",
+    "doc_37043.txt",
+    "doc_18304.txt"
+  ]
+}

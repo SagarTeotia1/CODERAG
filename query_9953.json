@@ -1,0 +1,10 @@
+{
+  "query": "What was the record of the 2006 North Carolina Tar Heels football team?",
+  "response": [
+    "doc_15074.txt",
+    "doc_32258.txt",
+    "doc_15073.txt",
+    "doc_25632.txt",
+    "doc_38739.txt"
+  ]
+}

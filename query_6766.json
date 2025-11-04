@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of a sake brand owned by the Tatsu-uma Family?",
+  "response": [
+    "doc_687.txt",
+    "doc_688.txt",
+    "doc_689.txt",
+    "doc_694.txt",
+    "doc_690.txt"
+  ]
+}

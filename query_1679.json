@@ -1,0 +1,10 @@
+{
+  "query": "In what year did MDAC conduct research on the use of caged beds?",
+  "response": [
+    "doc_11229.txt",
+    "doc_14667.txt",
+    "doc_11230.txt",
+    "doc_16446.txt",
+    "doc_16793.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the source of the strong smell associated with a particular tree mentioned in the Desert Plant Guide?",
+  "response": [
+    "doc_35999.txt",
+    "doc_8074.txt",
+    "doc_18646.txt",
+    "doc_39268.txt",
+    "doc_8070.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was President Putin’s claim regarding the British Ambassador’s attendance at the opposition conference?",
+  "response": [
+    "doc_22721.txt",
+    "doc_29696.txt",
+    "doc_5087.txt",
+    "doc_22539.txt",
+    "doc_34130.txt"
+  ]
+}

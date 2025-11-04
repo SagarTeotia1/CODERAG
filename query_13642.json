@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Boone complete his retreat?",
+  "response": [
+    "doc_24231.txt",
+    "doc_24222.txt",
+    "doc_24229.txt",
+    "doc_24233.txt",
+    "doc_24230.txt"
+  ]
+}

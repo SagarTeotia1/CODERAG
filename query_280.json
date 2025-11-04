@@ -1,0 +1,10 @@
+{
+  "query": "What was the estimated cost of introducing bank account number portability, according to the Commission’s analysis?",
+  "response": [
+    "doc_27976.txt",
+    "doc_37453.txt",
+    "doc_37454.txt",
+    "doc_19960.txt",
+    "doc_38092.txt"
+  ]
+}

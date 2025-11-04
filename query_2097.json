@@ -1,0 +1,10 @@
+{
+  "query": "What sports did Tom Kingsford coach at Adams State/NAIA?",
+  "response": [
+    "doc_14705.txt",
+    "doc_14701.txt",
+    "doc_22163.txt",
+    "doc_25627.txt",
+    "doc_32261.txt"
+  ]
+}

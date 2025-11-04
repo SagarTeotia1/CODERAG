@@ -1,0 +1,10 @@
+{
+  "query": "What area was the visiting professor at ISA restricted to?",
+  "response": [
+    "doc_34665.txt",
+    "doc_33771.txt",
+    "doc_34664.txt",
+    "doc_14283.txt",
+    "doc_38703.txt"
+  ]
+}

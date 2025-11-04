@@ -1,0 +1,10 @@
+{
+  "query": "Who wrote the Oscar-winning script for “Cimarron”?",
+  "response": [
+    "doc_39828.txt",
+    "doc_39826.txt",
+    "doc_39825.txt",
+    "doc_39820.txt",
+    "doc_39822.txt"
+  ]
+}

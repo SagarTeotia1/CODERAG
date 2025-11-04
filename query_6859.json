@@ -1,0 +1,10 @@
+{
+  "query": "According to the SmPC for Cervarix, what is the primary indication for this vaccine?",
+  "response": [
+    "doc_7503.txt",
+    "doc_26676.txt",
+    "doc_14856.txt",
+    "doc_25901.txt",
+    "doc_25904.txt"
+  ]
+}

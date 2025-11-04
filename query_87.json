@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Naruhiko Higashikuni become prime minister?",
+  "response": [
+    "doc_27535.txt",
+    "doc_27531.txt",
+    "doc_27529.txt",
+    "doc_27528.txt",
+    "doc_27534.txt"
+  ]
+}

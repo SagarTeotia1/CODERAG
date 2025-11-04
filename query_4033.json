@@ -1,0 +1,10 @@
+{
+  "query": "In what city and state was St. Mark’s Episcopal Church located where Lyndon B. Johnson and Claudia “Lady Bird” Taylor were married?",
+  "response": [
+    "doc_37015.txt",
+    "doc_37013.txt",
+    "doc_37014.txt",
+    "doc_37018.txt",
+    "doc_37024.txt"
+  ]
+}

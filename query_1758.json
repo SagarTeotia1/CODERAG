@@ -1,0 +1,10 @@
+{
+  "query": "How many Final Fours did Starkey lead the LSU Lady Tigers to?",
+  "response": [
+    "doc_25625.txt",
+    "doc_32599.txt",
+    "doc_25624.txt",
+    "doc_17826.txt",
+    "doc_25627.txt"
+  ]
+}

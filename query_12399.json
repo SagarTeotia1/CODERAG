@@ -1,0 +1,10 @@
+{
+  "query": "What are some of the cities represented by Carmel High School students?",
+  "response": [
+    "doc_2036.txt",
+    "doc_7993.txt",
+    "doc_5572.txt",
+    "doc_2909.txt",
+    "doc_21659.txt"
+  ]
+}

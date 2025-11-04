@@ -1,0 +1,10 @@
+{
+  "query": "What is BoardGameGeek and what kind of games does it cover?",
+  "response": [
+    "doc_30655.txt",
+    "doc_11606.txt",
+    "doc_30656.txt",
+    "doc_27459.txt",
+    "doc_31334.txt"
+  ]
+}

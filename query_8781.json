@@ -1,0 +1,10 @@
+{
+  "query": "Before hosting “The Steve Wilkos Show,” what role did Steve Wilkos hold on “The Jerry Springer Show”?",
+  "response": [
+    "doc_12252.txt",
+    "doc_12253.txt",
+    "doc_27869.txt",
+    "doc_19916.txt",
+    "doc_7367.txt"
+  ]
+}

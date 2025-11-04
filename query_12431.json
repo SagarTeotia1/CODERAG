@@ -1,0 +1,10 @@
+{
+  "query": "What target was agreed for average CO2 emissions by new cars in the EU by 2020, as referenced in the passage?",
+  "response": [
+    "doc_25653.txt",
+    "doc_25793.txt",
+    "doc_40169.txt",
+    "doc_80.txt",
+    "doc_18748.txt"
+  ]
+}

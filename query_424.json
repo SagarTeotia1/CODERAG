@@ -1,0 +1,10 @@
+{
+  "query": "What is the number and location of the Member States’ nuclear power plants currently in operation?",
+  "response": [
+    "doc_28283.txt",
+    "doc_14637.txt",
+    "doc_37427.txt",
+    "doc_38018.txt",
+    "doc_18761.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which two Directorates-General (DGs) were identified as having weaknesses in their accounting systems, specifically regarding asset recording and management?",
+  "response": [
+    "doc_1995.txt",
+    "doc_6145.txt",
+    "doc_26875.txt",
+    "doc_33646.txt",
+    "doc_22893.txt"
+  ]
+}

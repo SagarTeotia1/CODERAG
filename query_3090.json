@@ -1,0 +1,10 @@
+{
+  "query": "What metaphor does John Donne use in “The Flea” to illustrate a relationship?",
+  "response": [
+    "doc_37084.txt",
+    "doc_23618.txt",
+    "doc_27710.txt",
+    "doc_27523.txt",
+    "doc_20735.txt"
+  ]
+}

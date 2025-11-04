@@ -1,0 +1,10 @@
+{
+  "query": "Describe the flow of Sausal Creek, including where it originates and where it ultimately flows.",
+  "response": [
+    "doc_19101.txt",
+    "doc_34490.txt",
+    "doc_10327.txt",
+    "doc_34489.txt",
+    "doc_19098.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to the text, what ultimately led to the confusion of languages at Babel?",
+  "response": [
+    "doc_13105.txt",
+    "doc_13101.txt",
+    "doc_13103.txt",
+    "doc_13104.txt",
+    "doc_13100.txt"
+  ]
+}

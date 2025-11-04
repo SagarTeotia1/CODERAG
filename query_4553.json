@@ -1,0 +1,10 @@
+{
+  "query": "When was Taekwondo founded by General Choi Hong Hi?",
+  "response": [
+    "doc_38280.txt",
+    "doc_38284.txt",
+    "doc_38281.txt",
+    "doc_38282.txt",
+    "doc_38273.txt"
+  ]
+}

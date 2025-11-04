@@ -1,0 +1,10 @@
+{
+  "query": "How many incidents of total wheel detachment did UK police forces investigate between February and April 1997?",
+  "response": [
+    "doc_27388.txt",
+    "doc_3777.txt",
+    "doc_7992.txt",
+    "doc_33308.txt",
+    "doc_31577.txt"
+  ]
+}

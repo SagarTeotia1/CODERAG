@@ -1,0 +1,10 @@
+{
+  "query": "What is the European standard regarding the maximum amount of aluminium that should be present in vaccines?",
+  "response": [
+    "doc_25601.txt",
+    "doc_14586.txt",
+    "doc_14856.txt",
+    "doc_18791.txt",
+    "doc_23479.txt"
+  ]
+}

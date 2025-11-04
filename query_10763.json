@@ -1,0 +1,10 @@
+{
+  "query": "What themes are explored in the 1965 film *Motorpsycho*?",
+  "response": [
+    "doc_18651.txt",
+    "doc_33301.txt",
+    "doc_14365.txt",
+    "doc_38807.txt",
+    "doc_30877.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What position did Johannes Kepler hold at the University of Graz between 1594 and 1600?",
+  "response": [
+    "doc_33772.txt",
+    "doc_33767.txt",
+    "doc_33770.txt",
+    "doc_33768.txt",
+    "doc_33773.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When did John Adams begin his role as Vice President?",
+  "response": [
+    "doc_28762.txt",
+    "doc_38977.txt",
+    "doc_8469.txt",
+    "doc_38404.txt",
+    "doc_842.txt"
+  ]
+}

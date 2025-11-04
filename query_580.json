@@ -1,0 +1,10 @@
+{
+  "query": "In the 2012 Macau Grand Prix, how was the starting grid for the main race determined?",
+  "response": [
+    "doc_28553.txt",
+    "doc_14608.txt",
+    "doc_28552.txt",
+    "doc_14609.txt",
+    "doc_15192.txt"
+  ]
+}

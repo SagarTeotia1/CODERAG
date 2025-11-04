@@ -1,0 +1,10 @@
+{
+  "query": "In which countries, besides Italy, has the Oriental chestnut gall wasp been found?",
+  "response": [
+    "doc_7067.txt",
+    "doc_14653.txt",
+    "doc_14645.txt",
+    "doc_14652.txt",
+    "doc_7045.txt"
+  ]
+}

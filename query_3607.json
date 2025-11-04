@@ -1,0 +1,10 @@
+{
+  "query": "Which document, dated 23 July 1990, dictates that Gibraltar is subject to the common system of taxation?",
+  "response": [
+    "doc_35985.txt",
+    "doc_39132.txt",
+    "doc_31873.txt",
+    "doc_39661.txt",
+    "doc_20488.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to the Commission’s previous answer, has this area been designated as a Special Protection Area (SPA)?",
+  "response": [
+    "doc_14495.txt",
+    "doc_14520.txt",
+    "doc_20820.txt",
+    "doc_35122.txt",
+    "doc_12920.txt"
+  ]
+}

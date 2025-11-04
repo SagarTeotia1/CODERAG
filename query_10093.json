@@ -1,0 +1,10 @@
+{
+  "query": "Which actors starred in “The King of Marvin Gardens”?",
+  "response": [
+    "doc_17667.txt",
+    "doc_36924.txt",
+    "doc_23682.txt",
+    "doc_3385.txt",
+    "doc_36923.txt"
+  ]
+}

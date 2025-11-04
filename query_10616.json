@@ -1,0 +1,10 @@
+{
+  "query": "In what city does the novel *The Bonfire of the Vanities* primarily take place?",
+  "response": [
+    "doc_16685.txt",
+    "doc_22044.txt",
+    "doc_22043.txt",
+    "doc_22045.txt",
+    "doc_1743.txt"
+  ]
+}

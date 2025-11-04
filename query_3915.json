@@ -1,0 +1,10 @@
+{
+  "query": "According to Aristotle, how many actors were featured in tragedies before Aeschylus added a second actor?",
+  "response": [
+    "doc_36734.txt",
+    "doc_36735.txt",
+    "doc_36733.txt",
+    "doc_36737.txt",
+    "doc_36736.txt"
+  ]
+}

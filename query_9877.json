@@ -1,0 +1,10 @@
+{
+  "query": "Which Air Force squadron is currently stationed at Birmingham Air National Guard Base, Alabama?",
+  "response": [
+    "doc_1452.txt",
+    "doc_1453.txt",
+    "doc_20287.txt",
+    "doc_20289.txt",
+    "doc_20288.txt"
+  ]
+}

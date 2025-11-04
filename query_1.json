@@ -1,0 +1,10 @@
+{
+  "query": "What specific discounts are offered to residents and students traveling between the Azores and the mainland?",
+  "response": [
+    "doc_1.txt",
+    "doc_10614.txt",
+    "doc_2823.txt",
+    "doc_13447.txt",
+    "doc_6157.txt"
+  ]
+}

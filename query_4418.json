@@ -1,0 +1,10 @@
+{
+  "query": "What city was Louis Grell born in?",
+  "response": [
+    "doc_17624.txt",
+    "doc_17628.txt",
+    "doc_17630.txt",
+    "doc_17627.txt",
+    "doc_10051.txt"
+  ]
+}

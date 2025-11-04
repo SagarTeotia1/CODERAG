@@ -1,0 +1,10 @@
+{
+  "query": "What award did Gene Sherman win in 1960, and for what publication?",
+  "response": [
+    "doc_11565.txt",
+    "doc_11564.txt",
+    "doc_9637.txt",
+    "doc_24968.txt",
+    "doc_11559.txt"
+  ]
+}

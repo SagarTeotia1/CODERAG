@@ -1,0 +1,10 @@
+{
+  "query": "Which aircraft was initially flown by Flottille 17F for training purposes?",
+  "response": [
+    "doc_26403.txt",
+    "doc_10018.txt",
+    "doc_10019.txt",
+    "doc_10014.txt",
+    "doc_10013.txt"
+  ]
+}

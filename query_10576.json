@@ -1,0 +1,10 @@
+{
+  "query": "Which calendar was developed by Johann Schreck and Johann Adam Schall von Bell, and what dynasty did it ultimately serve?",
+  "response": [
+    "doc_16607.txt",
+    "doc_10625.txt",
+    "doc_10621.txt",
+    "doc_10623.txt",
+    "doc_10627.txt"
+  ]
+}

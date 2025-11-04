@@ -1,0 +1,10 @@
+{
+  "query": "In what year did the episode \"The Holocaust\" occur?",
+  "response": [
+    "doc_11029.txt",
+    "doc_16723.txt",
+    "doc_11222.txt",
+    "doc_24966.txt",
+    "doc_24967.txt"
+  ]
+}

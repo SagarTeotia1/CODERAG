@@ -1,0 +1,10 @@
+{
+  "query": "Which Australian mini series was set in 1903 and featured Major Taylor's visit to Australia?",
+  "response": [
+    "doc_9144.txt",
+    "doc_9145.txt",
+    "doc_9147.txt",
+    "doc_9139.txt",
+    "doc_9140.txt"
+  ]
+}

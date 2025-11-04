@@ -1,0 +1,10 @@
+{
+  "query": "What type of legal entity are “European groupings of territorial co-operation” (EGTC) established as?",
+  "response": [
+    "doc_1783.txt",
+    "doc_1788.txt",
+    "doc_1782.txt",
+    "doc_37905.txt",
+    "doc_1781.txt"
+  ]
+}

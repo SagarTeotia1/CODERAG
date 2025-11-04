@@ -1,0 +1,10 @@
+{
+  "query": "What was Antonie Brentano’s profession and family background, according to the provided texts?",
+  "response": [
+    "doc_20342.txt",
+    "doc_20339.txt",
+    "doc_20337.txt",
+    "doc_20341.txt",
+    "doc_20343.txt"
+  ]
+}

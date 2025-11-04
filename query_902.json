@@ -1,0 +1,10 @@
+{
+  "query": "According to T.D. TTB-44, what types of wine are specifically included under the definition in the Federal Alcohol Administration Act?",
+  "response": [
+    "doc_29557.txt",
+    "doc_29558.txt",
+    "doc_7931.txt",
+    "doc_26576.txt",
+    "doc_7674.txt"
+  ]
+}

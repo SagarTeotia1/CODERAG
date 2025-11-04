@@ -1,0 +1,10 @@
+{
+  "query": "Which regions are identified as being of primary security interest to the EU, according to the passage?",
+  "response": [
+    "doc_17523.txt",
+    "doc_23469.txt",
+    "doc_24252.txt",
+    "doc_21128.txt",
+    "doc_21121.txt"
+  ]
+}

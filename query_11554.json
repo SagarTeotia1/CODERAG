@@ -1,0 +1,10 @@
+{
+  "query": "When did “The West Wing” originally air on NBC?",
+  "response": [
+    "doc_18207.txt",
+    "doc_19917.txt",
+    "doc_4672.txt",
+    "doc_29005.txt",
+    "doc_19913.txt"
+  ]
+}

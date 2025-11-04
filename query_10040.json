@@ -1,0 +1,10 @@
+{
+  "query": "Which international organization did the Commission collaborate with to update guidelines for multinational enterprises, and when were these updated guidelines adopted?",
+  "response": [
+    "doc_15245.txt",
+    "doc_14318.txt",
+    "doc_23885.txt",
+    "doc_35307.txt",
+    "doc_40270.txt"
+  ]
+}

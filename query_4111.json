@@ -1,0 +1,10 @@
+{
+  "query": "What amendment to the Montreal Protocol is the European Parliament addressing in this resolution?",
+  "response": [
+    "doc_37227.txt",
+    "doc_23654.txt",
+    "doc_21969.txt",
+    "doc_19956.txt",
+    "doc_20250.txt"
+  ]
+}

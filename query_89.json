@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided links, what is the Orange Order associated with?",
+  "response": [
+    "doc_27550.txt",
+    "doc_27551.txt",
+    "doc_27552.txt",
+    "doc_27545.txt",
+    "doc_507.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which countries will be most affected by the new tunnel safety standards, specifically mentioning the number of tunnels requiring compliance in Austria and Italy?",
+  "response": [
+    "doc_10137.txt",
+    "doc_25892.txt",
+    "doc_22710.txt",
+    "doc_38730.txt",
+    "doc_17564.txt"
+  ]
+}

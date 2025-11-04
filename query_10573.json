@@ -1,0 +1,10 @@
+{
+  "query": "What is Doug Heffernan’s character known for, according to the provided text?",
+  "response": [
+    "doc_16604.txt",
+    "doc_16605.txt",
+    "doc_16602.txt",
+    "doc_16603.txt",
+    "doc_13242.txt"
+  ]
+}

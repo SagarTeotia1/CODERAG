@@ -1,0 +1,10 @@
+{
+  "query": "What sound did Jack’s snoring increase to?",
+  "response": [
+    "doc_9252.txt",
+    "doc_9251.txt",
+    "doc_34701.txt",
+    "doc_34698.txt",
+    "doc_34697.txt"
+  ]
+}

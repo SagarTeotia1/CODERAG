@@ -1,0 +1,10 @@
+{
+  "query": "Which film features Keira Knightley as the lead role, marking her third collaboration with director Joe Wright?",
+  "response": [
+    "doc_28169.txt",
+    "doc_7999.txt",
+    "doc_8227.txt",
+    "doc_38456.txt",
+    "doc_38454.txt"
+  ]
+}

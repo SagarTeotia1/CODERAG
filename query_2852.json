@@ -1,0 +1,10 @@
+{
+  "query": "When was the review of “The Odd Life of Timothy Green” mentioned?",
+  "response": [
+    "doc_16846.txt",
+    "doc_19317.txt",
+    "doc_16849.txt",
+    "doc_16847.txt",
+    "doc_16845.txt"
+  ]
+}

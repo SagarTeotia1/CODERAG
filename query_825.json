@@ -1,0 +1,10 @@
+{
+  "query": "What is the Chandrasekhar limit, and who named it?",
+  "response": [
+    "doc_2875.txt",
+    "doc_5410.txt",
+    "doc_8595.txt",
+    "doc_5409.txt",
+    "doc_24649.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which actor won the Best Actor Oscar in 1993 and 1994?",
+  "response": [
+    "doc_27321.txt",
+    "doc_27322.txt",
+    "doc_27325.txt",
+    "doc_27330.txt",
+    "doc_27323.txt"
+  ]
+}

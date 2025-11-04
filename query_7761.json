@@ -1,0 +1,10 @@
+{
+  "query": "What year was *Shall We Dance* released?",
+  "response": [
+    "doc_9745.txt",
+    "doc_9743.txt",
+    "doc_9742.txt",
+    "doc_9741.txt",
+    "doc_9739.txt"
+  ]
+}

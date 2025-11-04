@@ -1,0 +1,10 @@
+{
+  "query": "Which museum currently employs Donna De Salvo as Chief Curator and Deputy Director for Programs?",
+  "response": [
+    "doc_6282.txt",
+    "doc_6276.txt",
+    "doc_6278.txt",
+    "doc_6279.txt",
+    "doc_6281.txt"
+  ]
+}

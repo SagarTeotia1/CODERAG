@@ -1,0 +1,10 @@
+{
+  "query": "Which band did David White previously sing in before joining Heathen?",
+  "response": [
+    "doc_40212.txt",
+    "doc_18394.txt",
+    "doc_15903.txt",
+    "doc_18392.txt",
+    "doc_10582.txt"
+  ]
+}

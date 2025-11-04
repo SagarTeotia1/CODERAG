@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided links, what is the relationship between West Flemish and French Flanders?",
+  "response": [
+    "doc_6150.txt",
+    "doc_34251.txt",
+    "doc_34252.txt",
+    "doc_6147.txt",
+    "doc_6151.txt"
+  ]
+}

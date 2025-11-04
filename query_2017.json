@@ -1,0 +1,10 @@
+{
+  "query": "Which cities are listed in the passage (e.g., Bern, Bilbao, Bonn)?",
+  "response": [
+    "doc_32250.txt",
+    "doc_2940.txt",
+    "doc_39584.txt",
+    "doc_32252.txt",
+    "doc_32249.txt"
+  ]
+}

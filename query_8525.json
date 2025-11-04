@@ -1,0 +1,10 @@
+{
+  "query": "Which groups submitted motions regarding the situation of Burmese refugees in Thailand?",
+  "response": [
+    "doc_11652.txt",
+    "doc_8657.txt",
+    "doc_11653.txt",
+    "doc_10736.txt",
+    "doc_8834.txt"
+  ]
+}

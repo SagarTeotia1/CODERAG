@@ -1,0 +1,10 @@
+{
+  "query": "Is the VP/HR aware of the detention of Mr Jiang Tianyong?",
+  "response": [
+    "doc_9915.txt",
+    "doc_27851.txt",
+    "doc_6438.txt",
+    "doc_3725.txt",
+    "doc_31042.txt"
+  ]
+}

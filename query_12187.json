@@ -1,0 +1,10 @@
+{
+  "query": "When was the El Rancho Vegas hotel and casino originally opened?",
+  "response": [
+    "doc_20610.txt",
+    "doc_20611.txt",
+    "doc_37652.txt",
+    "doc_6385.txt",
+    "doc_20540.txt"
+  ]
+}

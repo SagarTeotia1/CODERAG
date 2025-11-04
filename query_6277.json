@@ -1,0 +1,10 @@
+{
+  "query": "Who wrote the song “Bored to Death”?",
+  "response": [
+    "doc_4596.txt",
+    "doc_4600.txt",
+    "doc_27.txt",
+    "doc_26686.txt",
+    "doc_37849.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the purpose of the Shuttle Training Aircraft (STA), and who flew it?",
+  "response": [
+    "doc_32163.txt",
+    "doc_32166.txt",
+    "doc_16692.txt",
+    "doc_16694.txt",
+    "doc_32165.txt"
+  ]
+}

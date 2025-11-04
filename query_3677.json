@@ -1,0 +1,10 @@
+{
+  "query": "Which animated films feature characters voiced by Will Finn?",
+  "response": [
+    "doc_36165.txt",
+    "doc_38686.txt",
+    "doc_4871.txt",
+    "doc_3343.txt",
+    "doc_38687.txt"
+  ]
+}

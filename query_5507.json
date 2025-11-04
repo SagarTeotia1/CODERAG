@@ -1,0 +1,10 @@
+{
+  "query": "What was the first album released by My Chemical Romance?",
+  "response": [
+    "doc_29930.txt",
+    "doc_29928.txt",
+    "doc_29932.txt",
+    "doc_29931.txt",
+    "doc_29929.txt"
+  ]
+}

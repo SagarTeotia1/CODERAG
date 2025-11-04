@@ -1,0 +1,10 @@
+{
+  "query": "Has the United States been explicitly excluded from exporting queen bees to the EU under the relevant decision?",
+  "response": [
+    "doc_23121.txt",
+    "doc_2720.txt",
+    "doc_5287.txt",
+    "doc_5384.txt",
+    "doc_35943.txt"
+  ]
+}

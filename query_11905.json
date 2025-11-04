@@ -1,0 +1,10 @@
+{
+  "query": "What two museums originally comprised China’s National Museum?",
+  "response": [
+    "doc_20023.txt",
+    "doc_20018.txt",
+    "doc_20021.txt",
+    "doc_20025.txt",
+    "doc_20019.txt"
+  ]
+}

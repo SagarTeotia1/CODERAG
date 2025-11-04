@@ -1,0 +1,10 @@
+{
+  "query": "What were some of the coffee offerings available at Starbucks when it first opened in 1971?",
+  "response": [
+    "doc_11132.txt",
+    "doc_11128.txt",
+    "doc_11127.txt",
+    "doc_11130.txt",
+    "doc_11131.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What city is the University of Miami located in?",
+  "response": [
+    "doc_25828.txt",
+    "doc_35776.txt",
+    "doc_25829.txt",
+    "doc_30585.txt",
+    "doc_9372.txt"
+  ]
+}

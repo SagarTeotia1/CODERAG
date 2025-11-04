@@ -1,0 +1,10 @@
+{
+  "query": "What is Flo Mounier's role in the band Cryptopsy?",
+  "response": [
+    "doc_18394.txt",
+    "doc_8995.txt",
+    "doc_1228.txt",
+    "doc_34447.txt",
+    "doc_1229.txt"
+  ]
+}

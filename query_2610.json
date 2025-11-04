@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the semi-desert region in the Northern Cape Province, containing dunes?",
+  "response": [
+    "doc_33783.txt",
+    "doc_33784.txt",
+    "doc_33781.txt",
+    "doc_33780.txt",
+    "doc_33779.txt"
+  ]
+}

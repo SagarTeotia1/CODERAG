@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, when was Comet Halley last observed in the inner Solar System?",
+  "response": [
+    "doc_12236.txt",
+    "doc_12237.txt",
+    "doc_12240.txt",
+    "doc_12239.txt",
+    "doc_12231.txt"
+  ]
+}

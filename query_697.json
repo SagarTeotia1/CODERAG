@@ -1,0 +1,10 @@
+{
+  "query": "The American species in question possesses a 6-segmented tail.",
+  "response": [
+    "doc_28848.txt",
+    "doc_28851.txt",
+    "doc_28850.txt",
+    "doc_28849.txt",
+    "doc_190.txt"
+  ]
+}

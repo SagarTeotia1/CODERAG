@@ -1,0 +1,10 @@
+{
+  "query": "What action did the Commission take regarding Greece following a Court judgment concerning inadequate waste management infrastructure?",
+  "response": [
+    "doc_28274.txt",
+    "doc_13646.txt",
+    "doc_4971.txt",
+    "doc_34250.txt",
+    "doc_5494.txt"
+  ]
+}

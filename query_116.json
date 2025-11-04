@@ -1,0 +1,10 @@
+{
+  "query": "Which television drama earned Sunhwa a nomination for “Best Youth Actress”?",
+  "response": [
+    "doc_27588.txt",
+    "doc_17960.txt",
+    "doc_26273.txt",
+    "doc_27587.txt",
+    "doc_27589.txt"
+  ]
+}

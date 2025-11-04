@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Pavlo Kovzhun die?",
+  "response": [
+    "doc_19295.txt",
+    "doc_19296.txt",
+    "doc_34534.txt",
+    "doc_3200.txt",
+    "doc_34096.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which film adaptation of \"Blue Is the Warmest Color\" received the Palme d'Or at the 2013 Cannes Film Festival?",
+  "response": [
+    "doc_28725.txt",
+    "doc_28726.txt",
+    "doc_20044.txt",
+    "doc_18855.txt",
+    "doc_27026.txt"
+  ]
+}

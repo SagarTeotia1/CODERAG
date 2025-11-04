@@ -1,0 +1,10 @@
+{
+  "query": "What inspired El Greco to create “The Burial of the Count of Orgaz”?",
+  "response": [
+    "doc_26616.txt",
+    "doc_26621.txt",
+    "doc_26629.txt",
+    "doc_26617.txt",
+    "doc_26619.txt"
+  ]
+}

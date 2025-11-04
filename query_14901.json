@@ -1,0 +1,10 @@
+{
+  "query": "What event directly triggered the start of the 1992 Los Angeles riots?",
+  "response": [
+    "doc_27289.txt",
+    "doc_27292.txt",
+    "doc_27290.txt",
+    "doc_27293.txt",
+    "doc_22119.txt"
+  ]
+}

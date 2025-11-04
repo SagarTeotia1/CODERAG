@@ -1,0 +1,10 @@
+{
+  "query": "Which Commission service is responsible for the ‘Human Resources Development’ Operational Programme?",
+  "response": [
+    "doc_8306.txt",
+    "doc_8305.txt",
+    "doc_29363.txt",
+    "doc_2656.txt",
+    "doc_15476.txt"
+  ]
+}

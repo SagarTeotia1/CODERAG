@@ -1,0 +1,10 @@
+{
+  "query": "What was “The Simpsons” initially conceived as before becoming a television series?",
+  "response": [
+    "doc_32694.txt",
+    "doc_32693.txt",
+    "doc_39143.txt",
+    "doc_32695.txt",
+    "doc_5209.txt"
+  ]
+}

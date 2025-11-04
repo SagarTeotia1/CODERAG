@@ -1,0 +1,10 @@
+{
+  "query": "Which actors starred in the series “Zhao Wei, Ruby Lin, Leo Ku, Alec Su”?",
+  "response": [
+    "doc_30488.txt",
+    "doc_26527.txt",
+    "doc_8277.txt",
+    "doc_8274.txt",
+    "doc_8354.txt"
+  ]
+}

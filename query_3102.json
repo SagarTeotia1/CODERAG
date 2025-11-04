@@ -1,0 +1,10 @@
+{
+  "query": "What song is referenced in the “Ocarina Song List - Physics@UCI” passage as being related to “The hills are alive”?",
+  "response": [
+    "doc_3431.txt",
+    "doc_3433.txt",
+    "doc_33118.txt",
+    "doc_33117.txt",
+    "doc_3429.txt"
+  ]
+}

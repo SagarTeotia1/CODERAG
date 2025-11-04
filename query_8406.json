@@ -1,0 +1,10 @@
+{
+  "query": "On what operetta is the 1934 film “March of the Wooden Soldiers” loosely based?",
+  "response": [
+    "doc_11379.txt",
+    "doc_11382.txt",
+    "doc_11385.txt",
+    "doc_11381.txt",
+    "doc_11377.txt"
+  ]
+}

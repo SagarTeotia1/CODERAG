@@ -1,0 +1,10 @@
+{
+  "query": "What is the primary religious affiliation of the majority of residents in Puerto Rico, as indicated in the provided sources?",
+  "response": [
+    "doc_32081.txt",
+    "doc_32080.txt",
+    "doc_32082.txt",
+    "doc_32084.txt",
+    "doc_32083.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What university did Roy Swan attend, and what was his degree?",
+  "response": [
+    "doc_5457.txt",
+    "doc_34162.txt",
+    "doc_21694.txt",
+    "doc_5205.txt",
+    "doc_17709.txt"
+  ]
+}

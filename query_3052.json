@@ -1,0 +1,10 @@
+{
+  "query": "What geographical feature blocks the mouth of the Saint Lawrence River, creating the Gulf of Saint Lawrence?",
+  "response": [
+    "doc_39147.txt",
+    "doc_39155.txt",
+    "doc_39150.txt",
+    "doc_39153.txt",
+    "doc_39146.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was Rodney King’s profession, as described in one of the linked articles?",
+  "response": [
+    "doc_27291.txt",
+    "doc_27289.txt",
+    "doc_27292.txt",
+    "doc_22120.txt",
+    "doc_27290.txt"
+  ]
+}

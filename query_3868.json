@@ -1,0 +1,10 @@
+{
+  "query": "What was William Dalrymple awarded for his work in history?",
+  "response": [
+    "doc_23906.txt",
+    "doc_32944.txt",
+    "doc_23914.txt",
+    "doc_23912.txt",
+    "doc_23907.txt"
+  ]
+}

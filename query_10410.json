@@ -1,0 +1,10 @@
+{
+  "query": "What was featured in the Dawson City, Yukon event on September 29, 2000?",
+  "response": [
+    "doc_9591.txt",
+    "doc_24448.txt",
+    "doc_9589.txt",
+    "doc_17725.txt",
+    "doc_17757.txt"
+  ]
+}

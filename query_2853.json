@@ -1,0 +1,10 @@
+{
+  "query": "According to the text, what were some of the specific items listed in the North West Kent Family History Society journal (March 5)?",
+  "response": [
+    "doc_6119.txt",
+    "doc_6120.txt",
+    "doc_6116.txt",
+    "doc_6117.txt",
+    "doc_6122.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was the resort named San Juan Hot Springs initially named for?",
+  "response": [
+    "doc_9224.txt",
+    "doc_9227.txt",
+    "doc_9225.txt",
+    "doc_36018.txt",
+    "doc_36016.txt"
+  ]
+}

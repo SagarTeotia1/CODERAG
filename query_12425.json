@@ -1,0 +1,10 @@
+{
+  "query": "Which Canadian actor played the role of “Peter” in the film “Goin’ Down the Road”?",
+  "response": [
+    "doc_27007.txt",
+    "doc_6536.txt",
+    "doc_6539.txt",
+    "doc_23272.txt",
+    "doc_3775.txt"
+  ]
+}

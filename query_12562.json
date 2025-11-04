@@ -1,0 +1,10 @@
+{
+  "query": "What was Andy Rooney’s role on “60 Minutes”?",
+  "response": [
+    "doc_21617.txt",
+    "doc_7936.txt",
+    "doc_7935.txt",
+    "doc_7933.txt",
+    "doc_7934.txt"
+  ]
+}

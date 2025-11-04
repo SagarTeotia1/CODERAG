@@ -1,0 +1,10 @@
+{
+  "query": "What kind of music did Los Lobos play in their formative years?",
+  "response": [
+    "doc_2989.txt",
+    "doc_2988.txt",
+    "doc_8175.txt",
+    "doc_17896.txt",
+    "doc_32072.txt"
+  ]
+}

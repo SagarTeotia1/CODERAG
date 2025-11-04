@@ -1,0 +1,10 @@
+{
+  "query": "What was the original location of Brennan’s restaurant before it moved?",
+  "response": [
+    "doc_39886.txt",
+    "doc_11879.txt",
+    "doc_2432.txt",
+    "doc_17480.txt",
+    "doc_26208.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What two new chemical elements did Marie Curie discover?",
+  "response": [
+    "doc_17801.txt",
+    "doc_17806.txt",
+    "doc_17808.txt",
+    "doc_17802.txt",
+    "doc_17809.txt"
+  ]
+}

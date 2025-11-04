@@ -1,0 +1,10 @@
+{
+  "query": "What type of eggs and birds are being developed by the Alimentary Pharmabiotic Centre?",
+  "response": [
+    "doc_32658.txt",
+    "doc_32659.txt",
+    "doc_24154.txt",
+    "doc_32654.txt",
+    "doc_32656.txt"
+  ]
+}

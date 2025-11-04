@@ -1,0 +1,10 @@
+{
+  "query": "What specific action did the OFT take regarding unsolicited and misleading offers from companies in Belgium and the Netherlands?",
+  "response": [
+    "doc_5488.txt",
+    "doc_5483.txt",
+    "doc_30646.txt",
+    "doc_19977.txt",
+    "doc_5486.txt"
+  ]
+}

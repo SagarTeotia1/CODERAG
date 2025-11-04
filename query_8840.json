@@ -1,0 +1,10 @@
+{
+  "query": "What is the approximate number of students attending Indiana University Bloomington?",
+  "response": [
+    "doc_10803.txt",
+    "doc_10801.txt",
+    "doc_10802.txt",
+    "doc_10804.txt",
+    "doc_10805.txt"
+  ]
+}

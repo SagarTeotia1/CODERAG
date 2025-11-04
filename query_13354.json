@@ -1,0 +1,10 @@
+{
+  "query": "How many Olympic gold medals did Michael Phelps earn in total?",
+  "response": [
+    "doc_31476.txt",
+    "doc_18461.txt",
+    "doc_31483.txt",
+    "doc_31477.txt",
+    "doc_31479.txt"
+  ]
+}

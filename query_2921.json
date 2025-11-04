@@ -1,0 +1,10 @@
+{
+  "query": "When was Rock Around the Clock recorded?",
+  "response": [
+    "doc_275.txt",
+    "doc_12203.txt",
+    "doc_11146.txt",
+    "doc_22663.txt",
+    "doc_26681.txt"
+  ]
+}

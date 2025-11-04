@@ -1,0 +1,10 @@
+{
+  "query": "What did Clara Cochrane’s meal consist of?",
+  "response": [
+    "doc_6775.txt",
+    "doc_26595.txt",
+    "doc_27364.txt",
+    "doc_37538.txt",
+    "doc_6774.txt"
+  ]
+}

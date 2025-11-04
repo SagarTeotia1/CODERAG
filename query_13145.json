@@ -1,0 +1,10 @@
+{
+  "query": "What role did the European Food Safety Authority (EFSA) play in assessing the safety of maize MON810?",
+  "response": [
+    "doc_23058.txt",
+    "doc_17400.txt",
+    "doc_38729.txt",
+    "doc_2720.txt",
+    "doc_31740.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of the population of Puerto Rico professes Roman Catholicism, according to The World Factbook?",
+  "response": [
+    "doc_32080.txt",
+    "doc_32081.txt",
+    "doc_32084.txt",
+    "doc_32082.txt",
+    "doc_32083.txt"
+  ]
+}

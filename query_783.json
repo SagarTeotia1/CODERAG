@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Frank Sinatra pass away?",
+  "response": [
+    "doc_29047.txt",
+    "doc_270.txt",
+    "doc_29050.txt",
+    "doc_29054.txt",
+    "doc_29049.txt"
+  ]
+}

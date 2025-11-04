@@ -1,0 +1,10 @@
+{
+  "query": "What ballet was choreographed by Agnes de Mille and based on the Lizzie Borden case?",
+  "response": [
+    "doc_25730.txt",
+    "doc_25731.txt",
+    "doc_25732.txt",
+    "doc_25736.txt",
+    "doc_25737.txt"
+  ]
+}

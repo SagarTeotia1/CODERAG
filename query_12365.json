@@ -1,0 +1,10 @@
+{
+  "query": "Which committee is responsible for considering draft report LIBE/7/03373 ***I 2010/0192(COD)?",
+  "response": [
+    "doc_31726.txt",
+    "doc_29753.txt",
+    "doc_5705.txt",
+    "doc_2085.txt",
+    "doc_2658.txt"
+  ]
+}

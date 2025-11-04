@@ -1,0 +1,10 @@
+{
+  "query": "What year was Duke Ellington born?",
+  "response": [
+    "doc_11478.txt",
+    "doc_11483.txt",
+    "doc_31192.txt",
+    "doc_11476.txt",
+    "doc_11481.txt"
+  ]
+}

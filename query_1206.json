@@ -1,0 +1,10 @@
+{
+  "query": "What action, previously considered a possibility, was removed from consideration following the publication of the US National Intelligence Estimate in December 2007?",
+  "response": [
+    "doc_4320.txt",
+    "doc_30302.txt",
+    "doc_30304.txt",
+    "doc_30301.txt",
+    "doc_12677.txt"
+  ]
+}

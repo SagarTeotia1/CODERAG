@@ -1,0 +1,10 @@
+{
+  "query": "Is advertising to the public of prescribed drugs prohibited in the EU?",
+  "response": [
+    "doc_25294.txt",
+    "doc_30661.txt",
+    "doc_40097.txt",
+    "doc_16437.txt",
+    "doc_7503.txt"
+  ]
+}

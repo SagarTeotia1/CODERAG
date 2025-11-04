@@ -1,0 +1,10 @@
+{
+  "query": "What technology does Lazarus use to search for his daughter’s memories?",
+  "response": [
+    "doc_15044.txt",
+    "doc_15041.txt",
+    "doc_23620.txt",
+    "doc_15043.txt",
+    "doc_580.txt"
+  ]
+}

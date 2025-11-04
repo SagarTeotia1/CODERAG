@@ -1,0 +1,10 @@
+{
+  "query": "What specific improvements does the EU believe are needed for Tibetan refugees who arrived in Nepal before 1990?",
+  "response": [
+    "doc_10675.txt",
+    "doc_25577.txt",
+    "doc_28233.txt",
+    "doc_31043.txt",
+    "doc_11050.txt"
+  ]
+}

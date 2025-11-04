@@ -1,0 +1,10 @@
+{
+  "query": "What is a famous title associated with “Romance of the Three Kingdoms,” translated as “All Men Are Brothers”?",
+  "response": [
+    "doc_30486.txt",
+    "doc_30485.txt",
+    "doc_30488.txt",
+    "doc_34643.txt",
+    "doc_34645.txt"
+  ]
+}

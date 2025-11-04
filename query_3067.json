@@ -1,0 +1,10 @@
+{
+  "query": "Which country did Kurmanbek Bakiyev flee to after the events described in the passage?",
+  "response": [
+    "doc_34799.txt",
+    "doc_34800.txt",
+    "doc_17510.txt",
+    "doc_13559.txt",
+    "doc_25009.txt"
+  ]
+}

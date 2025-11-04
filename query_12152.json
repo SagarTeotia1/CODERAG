@@ -1,0 +1,10 @@
+{
+  "query": "In what city and region was the World Costume Festival held in 2013?",
+  "response": [
+    "doc_20538.txt",
+    "doc_34016.txt",
+    "doc_13930.txt",
+    "doc_18627.txt",
+    "doc_16343.txt"
+  ]
+}

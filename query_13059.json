@@ -1,0 +1,10 @@
+{
+  "query": "Which European standardisation bodies established the harmonised standards for mobile phone chargers?",
+  "response": [
+    "doc_22844.txt",
+    "doc_26608.txt",
+    "doc_34832.txt",
+    "doc_15913.txt",
+    "doc_30313.txt"
+  ]
+}

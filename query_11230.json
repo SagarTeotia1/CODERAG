@@ -1,0 +1,10 @@
+{
+  "query": "What position did Boggs play in football?",
+  "response": [
+    "doc_12463.txt",
+    "doc_12461.txt",
+    "doc_12464.txt",
+    "doc_12460.txt",
+    "doc_12462.txt"
+  ]
+}

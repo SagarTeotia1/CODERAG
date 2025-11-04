@@ -1,0 +1,10 @@
+{
+  "query": "Which director has repeatedly collaborated with Michael Madsen in films?",
+  "response": [
+    "doc_24608.txt",
+    "doc_3327.txt",
+    "doc_7606.txt",
+    "doc_3332.txt",
+    "doc_7607.txt"
+  ]
+}

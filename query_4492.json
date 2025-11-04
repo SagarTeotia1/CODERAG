@@ -1,0 +1,10 @@
+{
+  "query": "How old was Justin Henry when he appeared in *Kramer vs. Kramer*?",
+  "response": [
+    "doc_3778.txt",
+    "doc_3781.txt",
+    "doc_3780.txt",
+    "doc_3779.txt",
+    "doc_3782.txt"
+  ]
+}

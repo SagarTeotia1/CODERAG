@@ -1,0 +1,10 @@
+{
+  "query": "When was the UK Government’s HS2 proposal published?",
+  "response": [
+    "doc_32912.txt",
+    "doc_30932.txt",
+    "doc_22284.txt",
+    "doc_17518.txt",
+    "doc_36220.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what SCR technology has been implemented on Swedish Baltic ferries?",
+  "response": [
+    "doc_5395.txt",
+    "doc_5389.txt",
+    "doc_31165.txt",
+    "doc_22082.txt",
+    "doc_15875.txt"
+  ]
+}

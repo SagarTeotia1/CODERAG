@@ -1,0 +1,10 @@
+{
+  "query": "What is the current estimated production value of the Kaesong industrial complex as of 2007?",
+  "response": [
+    "doc_40305.txt",
+    "doc_8739.txt",
+    "doc_28927.txt",
+    "doc_30144.txt",
+    "doc_32966.txt"
+  ]
+}

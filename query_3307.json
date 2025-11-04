@@ -1,0 +1,10 @@
+{
+  "query": "Which artist did Reid write and produce for, including the song “Soul Man”?",
+  "response": [
+    "doc_35310.txt",
+    "doc_19638.txt",
+    "doc_19645.txt",
+    "doc_15910.txt",
+    "doc_22158.txt"
+  ]
+}

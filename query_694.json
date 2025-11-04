@@ -1,0 +1,10 @@
+{
+  "query": "What was the first year Harper Perennial published *Purple Hibiscus*?",
+  "response": [
+    "doc_1557.txt",
+    "doc_1564.txt",
+    "doc_28538.txt",
+    "doc_1558.txt",
+    "doc_1562.txt"
+  ]
+}

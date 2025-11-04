@@ -1,0 +1,10 @@
+{
+  "query": "Which film series does *The Bourne Supremacy* belong to, and what is its overall genre?",
+  "response": [
+    "doc_21957.txt",
+    "doc_21959.txt",
+    "doc_21960.txt",
+    "doc_21965.txt",
+    "doc_21963.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What action is the Chinese Government taking regarding the allegations raised by the PlayFair 2008 campaign group?",
+  "response": [
+    "doc_37043.txt",
+    "doc_32812.txt",
+    "doc_27852.txt",
+    "doc_30880.txt",
+    "doc_27849.txt"
+  ]
+}

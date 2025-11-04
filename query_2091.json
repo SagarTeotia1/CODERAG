@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of women in the UK were in work prior to incarceration, according to the report?",
+  "response": [
+    "doc_3170.txt",
+    "doc_6717.txt",
+    "doc_3147.txt",
+    "doc_19394.txt",
+    "doc_4490.txt"
+  ]
+}

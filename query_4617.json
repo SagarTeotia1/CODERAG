@@ -1,0 +1,10 @@
+{
+  "query": "What was the population of Newport Beach according to the 2010 United States Census?",
+  "response": [
+    "doc_38491.txt",
+    "doc_38490.txt",
+    "doc_28790.txt",
+    "doc_30032.txt",
+    "doc_35653.txt"
+  ]
+}

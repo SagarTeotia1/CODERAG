@@ -1,0 +1,10 @@
+{
+  "query": "Besides being an astronaut, what other military roles did Fred Haise hold?",
+  "response": [
+    "doc_16691.txt",
+    "doc_16694.txt",
+    "doc_16692.txt",
+    "doc_16695.txt",
+    "doc_16693.txt"
+  ]
+}

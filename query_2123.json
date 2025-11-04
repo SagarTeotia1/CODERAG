@@ -1,0 +1,10 @@
+{
+  "query": "What is the University at Buffalo School of Law's ranking according to U.S. News & World Report for 2018?",
+  "response": [
+    "doc_32509.txt",
+    "doc_32508.txt",
+    "doc_38159.txt",
+    "doc_39407.txt",
+    "doc_38161.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the population of Sarasota recorded as 6,565?",
+  "response": [
+    "doc_12370.txt",
+    "doc_38761.txt",
+    "doc_38757.txt",
+    "doc_10929.txt",
+    "doc_19599.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In 1934 & 1935, what Chinese Communist leader led the Red Army on the “Long March”?",
+  "response": [
+    "doc_12320.txt",
+    "doc_12319.txt",
+    "doc_12315.txt",
+    "doc_12314.txt",
+    "doc_12316.txt"
+  ]
+}

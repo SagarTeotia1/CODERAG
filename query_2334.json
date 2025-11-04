@@ -1,0 +1,10 @@
+{
+  "query": "Where was Gabriel Archer born?",
+  "response": [
+    "doc_20330.txt",
+    "doc_8705.txt",
+    "doc_17604.txt",
+    "doc_20100.txt",
+    "doc_17837.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What television show features Tom Daley as an expert mentor?",
+  "response": [
+    "doc_22321.txt",
+    "doc_12713.txt",
+    "doc_3924.txt",
+    "doc_9199.txt",
+    "doc_25825.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "How many different colored tokens are used to denote armies and industries in Glasnost The Game?",
+  "response": [
+    "doc_4529.txt",
+    "doc_24016.txt",
+    "doc_34096.txt",
+    "doc_17513.txt",
+    "doc_13559.txt"
+  ]
+}

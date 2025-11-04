@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the album “Perverse” released by Jesus Jones?",
+  "response": [
+    "doc_18394.txt",
+    "doc_40124.txt",
+    "doc_17897.txt",
+    "doc_1227.txt",
+    "doc_37337.txt"
+  ]
+}

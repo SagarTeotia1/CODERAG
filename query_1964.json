@@ -1,0 +1,10 @@
+{
+  "query": "What is ASCII abbreviated from?",
+  "response": [
+    "doc_32110.txt",
+    "doc_32116.txt",
+    "doc_32112.txt",
+    "doc_32119.txt",
+    "doc_32115.txt"
+  ]
+}

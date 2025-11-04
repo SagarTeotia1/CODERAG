@@ -1,0 +1,10 @@
+{
+  "query": "In what section of the 2015 Cannes Film Festival did the film “Rams” receive the Prix Un Certain Regard?",
+  "response": [
+    "doc_28602.txt",
+    "doc_20044.txt",
+    "doc_18852.txt",
+    "doc_34718.txt",
+    "doc_34922.txt"
+  ]
+}

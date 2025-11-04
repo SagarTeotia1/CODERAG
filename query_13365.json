@@ -1,0 +1,10 @@
+{
+  "query": "What person was Ogden Nash referring to in his rhyme?",
+  "response": [
+    "doc_38526.txt",
+    "doc_17874.txt",
+    "doc_30356.txt",
+    "doc_17872.txt",
+    "doc_3661.txt"
+  ]
+}

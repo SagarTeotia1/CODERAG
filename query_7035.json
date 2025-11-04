@@ -1,0 +1,10 @@
+{
+  "query": "According to Gerald Ford, what specific amendment would he like to repeal?",
+  "response": [
+    "doc_7946.txt",
+    "doc_18197.txt",
+    "doc_17485.txt",
+    "doc_18201.txt",
+    "doc_18207.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was the Commission’s conclusion regarding whether the construction measures constituted a project requiring an EIA?",
+  "response": [
+    "doc_20820.txt",
+    "doc_14495.txt",
+    "doc_24791.txt",
+    "doc_25871.txt",
+    "doc_18343.txt"
+  ]
+}

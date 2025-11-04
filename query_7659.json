@@ -1,0 +1,10 @@
+{
+  "query": "At what age did Gordie Howe die?",
+  "response": [
+    "doc_9516.txt",
+    "doc_9514.txt",
+    "doc_9515.txt",
+    "doc_9513.txt",
+    "doc_9517.txt"
+  ]
+}

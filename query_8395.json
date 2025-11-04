@@ -1,0 +1,10 @@
+{
+  "query": "Which actors starred in the 1998 movie *Pleasantville*?",
+  "response": [
+    "doc_11332.txt",
+    "doc_11335.txt",
+    "doc_11336.txt",
+    "doc_11333.txt",
+    "doc_11334.txt"
+  ]
+}

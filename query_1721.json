@@ -1,0 +1,10 @@
+{
+  "query": "What mark did Bolt set in the high jump at the 2016 Portland event?",
+  "response": [
+    "doc_31479.txt",
+    "doc_31478.txt",
+    "doc_16068.txt",
+    "doc_31477.txt",
+    "doc_16067.txt"
+  ]
+}

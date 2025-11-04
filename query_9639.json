@@ -1,0 +1,10 @@
+{
+  "query": "During which century did the tale of Cupid and Psyche emerge?",
+  "response": [
+    "doc_14304.txt",
+    "doc_10568.txt",
+    "doc_14305.txt",
+    "doc_670.txt",
+    "doc_671.txt"
+  ]
+}

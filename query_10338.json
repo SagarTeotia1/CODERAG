@@ -1,0 +1,10 @@
+{
+  "query": "Which award did “Everlasting Moments” receive at the 44th Guldbagge Awards?",
+  "response": [
+    "doc_12406.txt",
+    "doc_12410.txt",
+    "doc_12405.txt",
+    "doc_12407.txt",
+    "doc_37168.txt"
+  ]
+}

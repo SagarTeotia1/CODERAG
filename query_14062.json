@@ -1,0 +1,10 @@
+{
+  "query": "By whom was “National Lampoon’s Animal House Book” published?",
+  "response": [
+    "doc_24969.txt",
+    "doc_40221.txt",
+    "doc_40223.txt",
+    "doc_40217.txt",
+    "doc_40216.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Who wrote the song “Lady” for Kenny Rogers?",
+  "response": [
+    "doc_19647.txt",
+    "doc_19642.txt",
+    "doc_19635.txt",
+    "doc_19636.txt",
+    "doc_19640.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the approximate year the 35th Olympiad began?",
+  "response": [
+    "doc_21229.txt",
+    "doc_21230.txt",
+    "doc_7253.txt",
+    "doc_38510.txt",
+    "doc_21227.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the primary characteristic of the American Quarter Horse breed?",
+  "response": [
+    "doc_19307.txt",
+    "doc_22718.txt",
+    "doc_14348.txt",
+    "doc_14263.txt",
+    "doc_22717.txt"
+  ]
+}

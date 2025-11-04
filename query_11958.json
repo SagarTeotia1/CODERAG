@@ -1,0 +1,10 @@
+{
+  "query": "Who designed the new town of Fleetwood?",
+  "response": [
+    "doc_17712.txt",
+    "doc_12392.txt",
+    "doc_12391.txt",
+    "doc_24052.txt",
+    "doc_12393.txt"
+  ]
+}

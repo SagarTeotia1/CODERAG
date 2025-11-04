@@ -1,0 +1,10 @@
+{
+  "query": "When was Adelaide of Italy crowned as the Holy Roman Empress?",
+  "response": [
+    "doc_1880.txt",
+    "doc_16046.txt",
+    "doc_9474.txt",
+    "doc_16047.txt",
+    "doc_9478.txt"
+  ]
+}

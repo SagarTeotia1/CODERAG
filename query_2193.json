@@ -1,0 +1,10 @@
+{
+  "query": "On what television show did the Simpson family first appear?",
+  "response": [
+    "doc_32694.txt",
+    "doc_32693.txt",
+    "doc_32692.txt",
+    "doc_27885.txt",
+    "doc_32695.txt"
+  ]
+}

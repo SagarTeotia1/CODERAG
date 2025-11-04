@@ -1,0 +1,10 @@
+{
+  "query": "Name two songs from the Motley Crue album \"Billion Dollar Babies\".",
+  "response": [
+    "doc_29938.txt",
+    "doc_18602.txt",
+    "doc_29928.txt",
+    "doc_29939.txt",
+    "doc_40124.txt"
+  ]
+}

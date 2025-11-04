@@ -1,0 +1,10 @@
+{
+  "query": "What position did Dianne Feinstein achieve through election?",
+  "response": [
+    "doc_14527.txt",
+    "doc_14522.txt",
+    "doc_14529.txt",
+    "doc_14525.txt",
+    "doc_14528.txt"
+  ]
+}

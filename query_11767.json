@@ -1,0 +1,10 @@
+{
+  "query": "Which song did Lionel Richie write for Kenny Rogers that became a number one hit in 1980?",
+  "response": [
+    "doc_19644.txt",
+    "doc_19645.txt",
+    "doc_19636.txt",
+    "doc_19637.txt",
+    "doc_19647.txt"
+  ]
+}

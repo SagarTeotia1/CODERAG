@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what grants Mario access to Grate Guy’s Casino?",
+  "response": [
+    "doc_3487.txt",
+    "doc_31686.txt",
+    "doc_14802.txt",
+    "doc_26954.txt",
+    "doc_15712.txt"
+  ]
+}

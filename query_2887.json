@@ -1,0 +1,10 @@
+{
+  "query": "During which war was Achilles sulking in his tent?",
+  "response": [
+    "doc_34338.txt",
+    "doc_34339.txt",
+    "doc_34335.txt",
+    "doc_34337.txt",
+    "doc_34336.txt"
+  ]
+}

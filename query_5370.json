@@ -1,0 +1,10 @@
+{
+  "query": "What social activities has the Friends Club organized besides football?",
+  "response": [
+    "doc_40150.txt",
+    "doc_18342.txt",
+    "doc_15119.txt",
+    "doc_31424.txt",
+    "doc_23918.txt"
+  ]
+}

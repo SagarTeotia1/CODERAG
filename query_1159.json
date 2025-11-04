@@ -1,0 +1,10 @@
+{
+  "query": "What type of dialogue does the Commission participate in with Russia?",
+  "response": [
+    "doc_2953.txt",
+    "doc_29782.txt",
+    "doc_9850.txt",
+    "doc_11605.txt",
+    "doc_40163.txt"
+  ]
+}

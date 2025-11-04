@@ -1,0 +1,10 @@
+{
+  "query": "What criteria must a nominee for the Sakharov Prize meet, according to the passage?",
+  "response": [
+    "doc_10904.txt",
+    "doc_21999.txt",
+    "doc_33678.txt",
+    "doc_10903.txt",
+    "doc_24406.txt"
+  ]
+}

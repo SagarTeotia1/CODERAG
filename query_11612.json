@@ -1,0 +1,10 @@
+{
+  "query": "What bone condition does Jennifer Love Hewitt hate, as highlighted in a “Got Milk” advertisement?",
+  "response": [
+    "doc_19214.txt",
+    "doc_22052.txt",
+    "doc_21549.txt",
+    "doc_21548.txt",
+    "doc_21547.txt"
+  ]
+}

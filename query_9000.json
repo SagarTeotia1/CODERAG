@@ -1,0 +1,10 @@
+{
+  "query": "What type of cargo was lost from the Grimaldo Lines cargo ship off the coast of Livorno on December 17, 2011?",
+  "response": [
+    "doc_12837.txt",
+    "doc_34985.txt",
+    "doc_6207.txt",
+    "doc_23284.txt",
+    "doc_14229.txt"
+  ]
+}

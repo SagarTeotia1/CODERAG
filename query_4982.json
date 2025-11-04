@@ -1,0 +1,10 @@
+{
+  "query": "What is the title of the Chief Medical Officer at MassHealth, as listed in the Executive Office of Health and Human Services (EOHHS) directory?",
+  "response": [
+    "doc_39288.txt",
+    "doc_39289.txt",
+    "doc_39295.txt",
+    "doc_39294.txt",
+    "doc_39296.txt"
+  ]
+}

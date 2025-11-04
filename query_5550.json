@@ -1,0 +1,10 @@
+{
+  "query": "How many Texas Tech Red Raiders have been drafted into the NFL since 1936?",
+  "response": [
+    "doc_9436.txt",
+    "doc_20242.txt",
+    "doc_20241.txt",
+    "doc_9450.txt",
+    "doc_5204.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what two award ceremonies did “Mighty Morphin Power Rangers: The Movie” receive recognition?",
+  "response": [
+    "doc_5069.txt",
+    "doc_3237.txt",
+    "doc_22348.txt",
+    "doc_7636.txt",
+    "doc_3235.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of Utah’s population identifies as Mormon?",
+  "response": [
+    "doc_6810.txt",
+    "doc_6809.txt",
+    "doc_6811.txt",
+    "doc_6813.txt",
+    "doc_6812.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was the “de facto” national anthem of Italy before it became the official one, and who was displeased by this designation?",
+  "response": [
+    "doc_10220.txt",
+    "doc_1492.txt",
+    "doc_10221.txt",
+    "doc_10222.txt",
+    "doc_33018.txt"
+  ]
+}

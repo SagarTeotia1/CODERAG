@@ -1,0 +1,10 @@
+{
+  "query": "What type of item was the Murray Ohio Manufacturing Company initially producing in 1869?",
+  "response": [
+    "doc_30283.txt",
+    "doc_31093.txt",
+    "doc_24275.txt",
+    "doc_28528.txt",
+    "doc_36717.txt"
+  ]
+}

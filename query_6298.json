@@ -1,0 +1,10 @@
+{
+  "query": "Which magazine was edited by Charles Olson, Harvey Brown, and Charles Boer, and when was it published?",
+  "response": [
+    "doc_38384.txt",
+    "doc_38383.txt",
+    "doc_38380.txt",
+    "doc_3692.txt",
+    "doc_38388.txt"
+  ]
+}

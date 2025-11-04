@@ -1,0 +1,10 @@
+{
+  "query": "Who wrote the screenplay for the film *A Beautiful Mind*?",
+  "response": [
+    "doc_20688.txt",
+    "doc_20682.txt",
+    "doc_20690.txt",
+    "doc_20685.txt",
+    "doc_20684.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the total sum that the EU has provided since its inception for the growing of tobacco?",
+  "response": [
+    "doc_12906.txt",
+    "doc_30151.txt",
+    "doc_17632.txt",
+    "doc_4986.txt",
+    "doc_15551.txt"
+  ]
+}

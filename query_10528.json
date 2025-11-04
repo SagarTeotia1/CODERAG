@@ -1,0 +1,10 @@
+{
+  "query": "Where and when was Jo Freeman born?",
+  "response": [
+    "doc_24079.txt",
+    "doc_31639.txt",
+    "doc_17297.txt",
+    "doc_34177.txt",
+    "doc_9358.txt"
+  ]
+}

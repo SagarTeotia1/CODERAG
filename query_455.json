@@ -1,0 +1,10 @@
+{
+  "query": "What specific actions did the Director of the Agency take regarding irregularities in a major infrastructure contract?",
+  "response": [
+    "doc_28328.txt",
+    "doc_36193.txt",
+    "doc_28331.txt",
+    "doc_16834.txt",
+    "doc_33646.txt"
+  ]
+}

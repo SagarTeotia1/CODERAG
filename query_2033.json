@@ -1,0 +1,10 @@
+{
+  "query": "What political party is Al Franken a member of?",
+  "response": [
+    "doc_32501.txt",
+    "doc_7.txt",
+    "doc_23055.txt",
+    "doc_13723.txt",
+    "doc_12164.txt"
+  ]
+}

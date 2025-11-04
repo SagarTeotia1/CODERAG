@@ -1,0 +1,10 @@
+{
+  "query": "What time period does the Museum of Country Life primarily exhibit?",
+  "response": [
+    "doc_29572.txt",
+    "doc_27939.txt",
+    "doc_10415.txt",
+    "doc_17993.txt",
+    "doc_10413.txt"
+  ]
+}

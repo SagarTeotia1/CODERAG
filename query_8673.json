@@ -1,0 +1,10 @@
+{
+  "query": "Which airline merged with AirTran Airways following the ValuJet Flight 592 accident?",
+  "response": [
+    "doc_12023.txt",
+    "doc_27108.txt",
+    "doc_16281.txt",
+    "doc_24032.txt",
+    "doc_24037.txt"
+  ]
+}

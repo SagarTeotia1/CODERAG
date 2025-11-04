@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what is Walter Mosley known for writing about?",
+  "response": [
+    "doc_19128.txt",
+    "doc_19126.txt",
+    "doc_19124.txt",
+    "doc_20068.txt",
+    "doc_19129.txt"
+  ]
+}

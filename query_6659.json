@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, has Julian Lewis ever played in a game where the Patriots subsequently lost?",
+  "response": [
+    "doc_277.txt",
+    "doc_278.txt",
+    "doc_22266.txt",
+    "doc_23460.txt",
+    "doc_283.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What type of illness caused Martin Arrowsmith’s death?",
+  "response": [
+    "doc_33312.txt",
+    "doc_16803.txt",
+    "doc_16805.txt",
+    "doc_16804.txt",
+    "doc_7644.txt"
+  ]
+}

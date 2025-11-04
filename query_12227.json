@@ -1,0 +1,10 @@
+{
+  "query": "What river divides the city of Milwaukee into east and west?",
+  "response": [
+    "doc_20679.txt",
+    "doc_20673.txt",
+    "doc_20678.txt",
+    "doc_20672.txt",
+    "doc_20676.txt"
+  ]
+}

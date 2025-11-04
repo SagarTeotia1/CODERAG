@@ -1,0 +1,10 @@
+{
+  "query": "What is the reported import value shortfall identified by Eurostat for 2007, and is the Commission investigating this shortfall in relation to tax fraud?",
+  "response": [
+    "doc_26700.txt",
+    "doc_33295.txt",
+    "doc_17110.txt",
+    "doc_27638.txt",
+    "doc_16472.txt"
+  ]
+}

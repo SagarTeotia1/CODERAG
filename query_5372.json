@@ -1,0 +1,10 @@
+{
+  "query": "Which Nepali national team players are currently associated with the Friends Club?",
+  "response": [
+    "doc_4062.txt",
+    "doc_4063.txt",
+    "doc_27567.txt",
+    "doc_4058.txt",
+    "doc_4064.txt"
+  ]
+}

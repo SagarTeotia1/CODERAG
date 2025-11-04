@@ -1,0 +1,10 @@
+{
+  "query": "Which team was the first women's American Football team in Victoria?",
+  "response": [
+    "doc_7144.txt",
+    "doc_7143.txt",
+    "doc_4275.txt",
+    "doc_22125.txt",
+    "doc_32598.txt"
+  ]
+}

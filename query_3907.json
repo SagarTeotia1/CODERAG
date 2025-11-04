@@ -1,0 +1,10 @@
+{
+  "query": "What was Bobby Keys’ profession, and what instrument did he play?",
+  "response": [
+    "doc_37198.txt",
+    "doc_26680.txt",
+    "doc_11481.txt",
+    "doc_27304.txt",
+    "doc_2481.txt"
+  ]
+}

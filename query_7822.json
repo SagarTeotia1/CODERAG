@@ -1,0 +1,10 @@
+{
+  "query": "What was the Society’s priority rating according to the 1999 scrutiny report?",
+  "response": [
+    "doc_1298.txt",
+    "doc_1290.txt",
+    "doc_1291.txt",
+    "doc_24205.txt",
+    "doc_1295.txt"
+  ]
+}

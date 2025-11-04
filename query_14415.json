@@ -1,0 +1,10 @@
+{
+  "query": "Which band did Jason Aalon Butler form after being the lead singer of Letlive?",
+  "response": [
+    "doc_26148.txt",
+    "doc_18393.txt",
+    "doc_32068.txt",
+    "doc_32069.txt",
+    "doc_13767.txt"
+  ]
+}

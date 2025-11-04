@@ -1,0 +1,10 @@
+{
+  "query": "During which century was the individual known as “Old Three Stars” recognized?",
+  "response": [
+    "doc_12599.txt",
+    "doc_34080.txt",
+    "doc_17877.txt",
+    "doc_34085.txt",
+    "doc_101.txt"
+  ]
+}

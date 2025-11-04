@@ -1,0 +1,10 @@
+{
+  "query": "According to the Chicago Housing Authority, what was their initial response to the conditions in the Robert Taylor Homes?",
+  "response": [
+    "doc_6393.txt",
+    "doc_21657.txt",
+    "doc_6395.txt",
+    "doc_6394.txt",
+    "doc_16642.txt"
+  ]
+}

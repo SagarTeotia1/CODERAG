@@ -1,0 +1,10 @@
+{
+  "query": "What is Bucky Barnes’ secret identity?",
+  "response": [
+    "doc_40067.txt",
+    "doc_40070.txt",
+    "doc_40069.txt",
+    "doc_40068.txt",
+    "doc_40063.txt"
+  ]
+}

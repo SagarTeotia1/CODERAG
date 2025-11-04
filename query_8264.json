@@ -1,0 +1,10 @@
+{
+  "query": "What was Schwarzenegger’s stated priority regarding his governorship, as highlighted in his address?",
+  "response": [
+    "doc_11039.txt",
+    "doc_11040.txt",
+    "doc_21221.txt",
+    "doc_23857.txt",
+    "doc_19360.txt"
+  ]
+}

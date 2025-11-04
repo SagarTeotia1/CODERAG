@@ -1,0 +1,10 @@
+{
+  "query": "What types of lava are found on the Galapagos Islands, and how does their viscosity affect their movement?",
+  "response": [
+    "doc_16293.txt",
+    "doc_16294.txt",
+    "doc_5229.txt",
+    "doc_16295.txt",
+    "doc_16297.txt"
+  ]
+}

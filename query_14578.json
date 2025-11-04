@@ -1,0 +1,10 @@
+{
+  "query": "What award did Laura Hillenbrand’s article about Seabiscuit win?",
+  "response": [
+    "doc_26563.txt",
+    "doc_26562.txt",
+    "doc_26564.txt",
+    "doc_26565.txt",
+    "doc_26561.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was Dave Bowman’s plan after working at his dental lab?",
+  "response": [
+    "doc_8910.txt",
+    "doc_39631.txt",
+    "doc_39614.txt",
+    "doc_23609.txt",
+    "doc_22568.txt"
+  ]
+}

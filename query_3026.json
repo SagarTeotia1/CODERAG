@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of ‘dangerous’ products classified by the European Union originated from China in 2006?",
+  "response": [
+    "doc_34713.txt",
+    "doc_23322.txt",
+    "doc_26003.txt",
+    "doc_4326.txt",
+    "doc_8561.txt"
+  ]
+}

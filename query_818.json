@@ -1,0 +1,10 @@
+{
+  "query": "How many citizens visited the European Parliament in 2010?",
+  "response": [
+    "doc_29174.txt",
+    "doc_40255.txt",
+    "doc_33887.txt",
+    "doc_29232.txt",
+    "doc_29211.txt"
+  ]
+}

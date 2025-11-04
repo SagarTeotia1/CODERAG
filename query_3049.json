@@ -1,0 +1,10 @@
+{
+  "query": "What is Seattle Slew known for specifically in horse racing?",
+  "response": [
+    "doc_34751.txt",
+    "doc_34752.txt",
+    "doc_34748.txt",
+    "doc_34750.txt",
+    "doc_18085.txt"
+  ]
+}

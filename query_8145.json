@@ -1,0 +1,10 @@
+{
+  "query": "According to Article 12 of the Food Law Regulation, what must exporting countries comply with regarding import requirements?",
+  "response": [
+    "doc_10779.txt",
+    "doc_33706.txt",
+    "doc_33704.txt",
+    "doc_33702.txt",
+    "doc_13747.txt"
+  ]
+}

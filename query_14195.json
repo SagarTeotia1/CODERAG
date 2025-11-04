@@ -1,0 +1,10 @@
+{
+  "query": "What type of cuisine does Wolfgang Puck at Hotel Bel-Air serve?",
+  "response": [
+    "doc_25560.txt",
+    "doc_25561.txt",
+    "doc_25558.txt",
+    "doc_25557.txt",
+    "doc_25559.txt"
+  ]
+}

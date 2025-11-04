@@ -1,0 +1,10 @@
+{
+  "query": "Who is Dexter?",
+  "response": [
+    "doc_38950.txt",
+    "doc_38949.txt",
+    "doc_38947.txt",
+    "doc_38948.txt",
+    "doc_38952.txt"
+  ]
+}

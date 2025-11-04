@@ -1,0 +1,10 @@
+{
+  "query": "In what town is the British soap opera Coronation Street set?",
+  "response": [
+    "doc_12685.txt",
+    "doc_29575.txt",
+    "doc_29573.txt",
+    "doc_36776.txt",
+    "doc_17298.txt"
+  ]
+}

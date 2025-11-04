@@ -1,0 +1,10 @@
+{
+  "query": "What constitutional rights does the Sixth Amendment guarantee to an accused person?",
+  "response": [
+    "doc_31213.txt",
+    "doc_17119.txt",
+    "doc_31214.txt",
+    "doc_1791.txt",
+    "doc_31232.txt"
+  ]
+}

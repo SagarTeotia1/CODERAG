@@ -1,0 +1,10 @@
+{
+  "query": "Which band did Rick Nielsen and Tom Petersson write the song “Auf Wiedersehen” for?",
+  "response": [
+    "doc_40124.txt",
+    "doc_31622.txt",
+    "doc_40129.txt",
+    "doc_31621.txt",
+    "doc_33756.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "How many jobs are to be cut in Europe as part of UPM Raflatac’s restructuring plan?",
+  "response": [
+    "doc_29543.txt",
+    "doc_37607.txt",
+    "doc_34319.txt",
+    "doc_10365.txt",
+    "doc_29542.txt"
+  ]
+}

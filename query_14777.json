@@ -1,0 +1,10 @@
+{
+  "query": "Which high school did Talor Battle attend?",
+  "response": [
+    "doc_30947.txt",
+    "doc_32255.txt",
+    "doc_30945.txt",
+    "doc_2396.txt",
+    "doc_30948.txt"
+  ]
+}

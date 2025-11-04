@@ -1,0 +1,10 @@
+{
+  "query": "According to the ‘Ex-post Impact Assessment study’, what percentage of Marie Curie Fellows obtained permanent positions after their fellowships?",
+  "response": [
+    "doc_7612.txt",
+    "doc_34660.txt",
+    "doc_34657.txt",
+    "doc_34663.txt",
+    "doc_34662.txt"
+  ]
+}

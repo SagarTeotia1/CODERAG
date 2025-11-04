@@ -1,0 +1,10 @@
+{
+  "query": "When was McGill University officially founded?",
+  "response": [
+    "doc_11975.txt",
+    "doc_11974.txt",
+    "doc_11971.txt",
+    "doc_33483.txt",
+    "doc_33491.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year did the United States annex the Hawaiian Islands?",
+  "response": [
+    "doc_29836.txt",
+    "doc_24656.txt",
+    "doc_18578.txt",
+    "doc_24660.txt",
+    "doc_29835.txt"
+  ]
+}

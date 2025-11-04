@@ -1,0 +1,10 @@
+{
+  "query": "When did the Bachman station open as part of the Green Line's expansion?",
+  "response": [
+    "doc_31122.txt",
+    "doc_31121.txt",
+    "doc_31123.txt",
+    "doc_12662.txt",
+    "doc_31118.txt"
+  ]
+}

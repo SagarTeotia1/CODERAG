@@ -1,0 +1,10 @@
+{
+  "query": "Which television station in Florida serves the Orlando area and carries the Retro Television Network?",
+  "response": [
+    "doc_26099.txt",
+    "doc_26098.txt",
+    "doc_15037.txt",
+    "doc_15036.txt",
+    "doc_1362.txt"
+  ]
+}

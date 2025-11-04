@@ -1,0 +1,10 @@
+{
+  "query": "What university did Albert James Harno attend before becoming the Dean of the College of Law?",
+  "response": [
+    "doc_38620.txt",
+    "doc_38619.txt",
+    "doc_7633.txt",
+    "doc_1337.txt",
+    "doc_1331.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year and at what location was the 2001 Jeep Seattle Bowl played?",
+  "response": [
+    "doc_4053.txt",
+    "doc_35444.txt",
+    "doc_8308.txt",
+    "doc_38738.txt",
+    "doc_12466.txt"
+  ]
+}

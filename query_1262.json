@@ -1,0 +1,10 @@
+{
+  "query": "Which television series did Marilyn McIntyre appear in as a series regular?",
+  "response": [
+    "doc_13001.txt",
+    "doc_28511.txt",
+    "doc_31636.txt",
+    "doc_26968.txt",
+    "doc_12995.txt"
+  ]
+}

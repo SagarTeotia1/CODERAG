@@ -1,0 +1,10 @@
+{
+  "query": "What was the name of the Matthew Good Band's first EP released on Darktown Records?",
+  "response": [
+    "doc_800.txt",
+    "doc_18393.txt",
+    "doc_19760.txt",
+    "doc_32072.txt",
+    "doc_17897.txt"
+  ]
+}

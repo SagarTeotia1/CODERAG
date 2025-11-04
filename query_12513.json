@@ -1,0 +1,10 @@
+{
+  "query": "What military rank did Joseph Dunford hold as Chairman of the Joint Chiefs of Staff?",
+  "response": [
+    "doc_21490.txt",
+    "doc_37124.txt",
+    "doc_37120.txt",
+    "doc_37122.txt",
+    "doc_37121.txt"
+  ]
+}

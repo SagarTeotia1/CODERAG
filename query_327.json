@@ -1,0 +1,10 @@
+{
+  "query": "In what type of creative person did the Svengali character exert control?",
+  "response": [
+    "doc_28104.txt",
+    "doc_28102.txt",
+    "doc_28101.txt",
+    "doc_28098.txt",
+    "doc_28099.txt"
+  ]
+}

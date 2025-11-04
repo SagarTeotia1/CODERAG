@@ -1,0 +1,10 @@
+{
+  "query": "How many truck/trailer combinations in Finland are currently too long according to the EU directive?",
+  "response": [
+    "doc_39778.txt",
+    "doc_15125.txt",
+    "doc_3240.txt",
+    "doc_17343.txt",
+    "doc_3872.txt"
+  ]
+}

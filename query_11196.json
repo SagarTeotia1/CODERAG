@@ -1,0 +1,10 @@
+{
+  "query": "What international organization has adopted the European Prison Rules?",
+  "response": [
+    "doc_18088.txt",
+    "doc_35028.txt",
+    "doc_22074.txt",
+    "doc_413.txt",
+    "doc_518.txt"
+  ]
+}

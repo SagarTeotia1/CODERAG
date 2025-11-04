@@ -1,0 +1,10 @@
+{
+  "query": "Which competitions did Del Bosque win as a football manager?",
+  "response": [
+    "doc_16967.txt",
+    "doc_16966.txt",
+    "doc_26367.txt",
+    "doc_14700.txt",
+    "doc_5721.txt"
+  ]
+}

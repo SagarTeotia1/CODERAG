@@ -1,0 +1,10 @@
+{
+  "query": "What was the name of Stephen Nicholas’s debut studio album?",
+  "response": [
+    "doc_38411.txt",
+    "doc_31614.txt",
+    "doc_11205.txt",
+    "doc_31621.txt",
+    "doc_15903.txt"
+  ]
+}

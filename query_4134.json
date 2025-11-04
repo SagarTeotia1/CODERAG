@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission currently assessing in Luxembourg’s renewable energy support scheme?",
+  "response": [
+    "doc_37292.txt",
+    "doc_37291.txt",
+    "doc_23166.txt",
+    "doc_16597.txt",
+    "doc_21093.txt"
+  ]
+}

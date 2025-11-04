@@ -1,0 +1,10 @@
+{
+  "query": "What is the title of Carolyn G. Heilbrun’s biography of Gloria Steinem?",
+  "response": [
+    "doc_5172.txt",
+    "doc_5173.txt",
+    "doc_5174.txt",
+    "doc_30738.txt",
+    "doc_30737.txt"
+  ]
+}

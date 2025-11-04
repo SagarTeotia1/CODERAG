@@ -1,0 +1,10 @@
+{
+  "query": "What was the price of Hank Williams' 1947 Martin D-18?",
+  "response": [
+    "doc_38863.txt",
+    "doc_30147.txt",
+    "doc_38862.txt",
+    "doc_17364.txt",
+    "doc_17363.txt"
+  ]
+}

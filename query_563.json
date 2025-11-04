@@ -1,0 +1,10 @@
+{
+  "query": "When was the first canal in New York State built?",
+  "response": [
+    "doc_13348.txt",
+    "doc_13349.txt",
+    "doc_13347.txt",
+    "doc_28529.txt",
+    "doc_13350.txt"
+  ]
+}

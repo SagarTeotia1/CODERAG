@@ -1,0 +1,10 @@
+{
+  "query": "When did the film “100 Men and a Girl” open at the Capitol Theatre?",
+  "response": [
+    "doc_14744.txt",
+    "doc_14745.txt",
+    "doc_14746.txt",
+    "doc_11494.txt",
+    "doc_35455.txt"
+  ]
+}

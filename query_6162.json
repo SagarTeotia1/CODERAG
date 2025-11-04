@@ -1,0 +1,10 @@
+{
+  "query": "What action is the Commission taking to ensure that petroleum companies acting in the European Union behave responsibly in third countries?",
+  "response": [
+    "doc_5750.txt",
+    "doc_5609.txt",
+    "doc_24335.txt",
+    "doc_29150.txt",
+    "doc_22688.txt"
+  ]
+}

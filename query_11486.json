@@ -1,0 +1,10 @@
+{
+  "query": "For how many years has the Douro Valley been producing wine?",
+  "response": [
+    "doc_18807.txt",
+    "doc_18811.txt",
+    "doc_18812.txt",
+    "doc_18808.txt",
+    "doc_18814.txt"
+  ]
+}

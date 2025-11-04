@@ -1,0 +1,10 @@
+{
+  "query": "What type of forest is described in eastern North America?",
+  "response": [
+    "doc_29909.txt",
+    "doc_34490.txt",
+    "doc_8067.txt",
+    "doc_18644.txt",
+    "doc_36837.txt"
+  ]
+}

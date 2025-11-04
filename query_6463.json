@@ -1,0 +1,10 @@
+{
+  "query": "Where was the original Howard Johnson hotel located before the chain expansion?",
+  "response": [
+    "doc_6523.txt",
+    "doc_6526.txt",
+    "doc_6528.txt",
+    "doc_6525.txt",
+    "doc_6527.txt"
+  ]
+}

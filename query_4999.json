@@ -1,0 +1,10 @@
+{
+  "query": "What is the title of Prof. Mashako Mamba’s presentation?",
+  "response": [
+    "doc_11536.txt",
+    "doc_21840.txt",
+    "doc_17796.txt",
+    "doc_21839.txt",
+    "doc_17794.txt"
+  ]
+}

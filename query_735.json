@@ -1,0 +1,10 @@
+{
+  "query": "Which lakes are specifically mentioned as part of a tour route (Lake Orta, Lake Maggiore, Lake Lugano, Lake Como)?",
+  "response": [
+    "doc_28931.txt",
+    "doc_28932.txt",
+    "doc_28933.txt",
+    "doc_23634.txt",
+    "doc_32732.txt"
+  ]
+}

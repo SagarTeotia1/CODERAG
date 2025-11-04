@@ -1,0 +1,10 @@
+{
+  "query": "When did Ringo Brown first appear on “Neighbours”?",
+  "response": [
+    "doc_24288.txt",
+    "doc_4257.txt",
+    "doc_39577.txt",
+    "doc_10810.txt",
+    "doc_8209.txt"
+  ]
+}

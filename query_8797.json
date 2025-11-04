@@ -1,0 +1,10 @@
+{
+  "query": "In what area of Texas was the Spindletop oilfield located?",
+  "response": [
+    "doc_12297.txt",
+    "doc_12295.txt",
+    "doc_12299.txt",
+    "doc_12296.txt",
+    "doc_12298.txt"
+  ]
+}

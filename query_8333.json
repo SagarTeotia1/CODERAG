@@ -1,0 +1,10 @@
+{
+  "query": "What does the UK Financial Services Compensation Scheme (FSCS) provide for customers of authorised financial services firms?",
+  "response": [
+    "doc_946.txt",
+    "doc_1022.txt",
+    "doc_1021.txt",
+    "doc_1044.txt",
+    "doc_976.txt"
+  ]
+}

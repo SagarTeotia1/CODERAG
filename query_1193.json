@@ -1,0 +1,10 @@
+{
+  "query": "Which magazine, published between 1926 and 1932, initially competed with “Weird Tales” and featured stories about ghosts presented as true confessions?",
+  "response": [
+    "doc_25555.txt",
+    "doc_25553.txt",
+    "doc_25549.txt",
+    "doc_2257.txt",
+    "doc_2248.txt"
+  ]
+}

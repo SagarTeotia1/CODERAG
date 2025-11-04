@@ -1,0 +1,10 @@
+{
+  "query": "According to the FAO, what investment would be needed to ensure food security for a world population reaching 9 billion by 2050?",
+  "response": [
+    "doc_1473.txt",
+    "doc_38694.txt",
+    "doc_38693.txt",
+    "doc_22939.txt",
+    "doc_17223.txt"
+  ]
+}

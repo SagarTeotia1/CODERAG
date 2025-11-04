@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of Argentina’s home stadium for football?",
+  "response": [
+    "doc_18342.txt",
+    "doc_18340.txt",
+    "doc_27009.txt",
+    "doc_25344.txt",
+    "doc_25346.txt"
+  ]
+}

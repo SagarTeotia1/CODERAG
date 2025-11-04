@@ -1,0 +1,10 @@
+{
+  "query": "According to the Wyoming State Historical Society’s records, what format are the original records available in?",
+  "response": [
+    "doc_39.txt",
+    "doc_6434.txt",
+    "doc_37.txt",
+    "doc_14085.txt",
+    "doc_14092.txt"
+  ]
+}

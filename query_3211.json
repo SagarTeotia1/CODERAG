@@ -1,0 +1,10 @@
+{
+  "query": "What committee was responsible for the Statute for a European private company?",
+  "response": [
+    "doc_35108.txt",
+    "doc_35117.txt",
+    "doc_35072.txt",
+    "doc_35090.txt",
+    "doc_35109.txt"
+  ]
+}

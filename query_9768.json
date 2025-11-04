@@ -1,0 +1,10 @@
+{
+  "query": "What is the location of all the Abu Dhabi Grand Prix races described in the passage?",
+  "response": [
+    "doc_14608.txt",
+    "doc_14609.txt",
+    "doc_11902.txt",
+    "doc_11901.txt",
+    "doc_24347.txt"
+  ]
+}

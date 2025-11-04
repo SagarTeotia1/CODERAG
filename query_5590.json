@@ -1,0 +1,10 @@
+{
+  "query": "Which film featured Bella Heathcote?",
+  "response": [
+    "doc_34363.txt",
+    "doc_8223.txt",
+    "doc_8222.txt",
+    "doc_8221.txt",
+    "doc_21984.txt"
+  ]
+}

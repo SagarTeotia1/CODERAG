@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided links, what is the estimated amount Johnson & Johnson has committed to recalls related to their products?",
+  "response": [
+    "doc_22588.txt",
+    "doc_22590.txt",
+    "doc_22585.txt",
+    "doc_22589.txt",
+    "doc_22584.txt"
+  ]
+}

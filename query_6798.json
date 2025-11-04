@@ -1,0 +1,10 @@
+{
+  "query": "What was the outcome of the *Smiley v. Citibank* Supreme Court case regarding credit card late fees?",
+  "response": [
+    "doc_36532.txt",
+    "doc_26159.txt",
+    "doc_10579.txt",
+    "doc_35354.txt",
+    "doc_30134.txt"
+  ]
+}

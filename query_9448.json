@@ -1,0 +1,10 @@
+{
+  "query": "What is the approximate length of the Route 13 between Boten and Nateuy, and what larger expressway is it a part of?",
+  "response": [
+    "doc_25263.txt",
+    "doc_12787.txt",
+    "doc_18584.txt",
+    "doc_21015.txt",
+    "doc_18917.txt"
+  ]
+}

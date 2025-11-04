@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided text, how did the Hatfield and McCoy families view each other?",
+  "response": [
+    "doc_33568.txt",
+    "doc_33570.txt",
+    "doc_33567.txt",
+    "doc_33569.txt",
+    "doc_33573.txt"
+  ]
+}

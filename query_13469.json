@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Idi Amin overthrow Milton Obote?",
+  "response": [
+    "doc_23745.txt",
+    "doc_23740.txt",
+    "doc_23741.txt",
+    "doc_23744.txt",
+    "doc_19346.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What award did Aliaksandr Milinkievich receive in 2006?",
+  "response": [
+    "doc_28413.txt",
+    "doc_21074.txt",
+    "doc_13561.txt",
+    "doc_8711.txt",
+    "doc_25894.txt"
+  ]
+}

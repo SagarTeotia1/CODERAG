@@ -1,0 +1,10 @@
+{
+  "query": "What was the event celebrating at Tin Man Brewing Co. on Black Friday?",
+  "response": [
+    "doc_17128.txt",
+    "doc_18453.txt",
+    "doc_20082.txt",
+    "doc_21101.txt",
+    "doc_18451.txt"
+  ]
+}

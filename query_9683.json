@@ -1,0 +1,10 @@
+{
+  "query": "Who is the recognised religious leader of Orthodox Christians worldwide?",
+  "response": [
+    "doc_33409.txt",
+    "doc_36317.txt",
+    "doc_30013.txt",
+    "doc_25305.txt",
+    "doc_33410.txt"
+  ]
+}

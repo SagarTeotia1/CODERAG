@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what is the standard number of horizontal scan lines used in NTSC television?",
+  "response": [
+    "doc_25368.txt",
+    "doc_25369.txt",
+    "doc_25377.txt",
+    "doc_27465.txt",
+    "doc_25373.txt"
+  ]
+}

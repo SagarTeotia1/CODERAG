@@ -1,0 +1,10 @@
+{
+  "query": "When did Peter Wolf join the J. Geils Band?",
+  "response": [
+    "doc_25331.txt",
+    "doc_25328.txt",
+    "doc_25329.txt",
+    "doc_25326.txt",
+    "doc_25330.txt"
+  ]
+}

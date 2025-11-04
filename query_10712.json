@@ -1,0 +1,10 @@
+{
+  "query": "What degree did Drew Correa graduate with, and from which university?",
+  "response": [
+    "doc_1942.txt",
+    "doc_33624.txt",
+    "doc_5620.txt",
+    "doc_39310.txt",
+    "doc_39309.txt"
+  ]
+}

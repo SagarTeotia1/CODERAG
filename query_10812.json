@@ -1,0 +1,10 @@
+{
+  "query": "What types of music were featured at the Riverbend Festival?",
+  "response": [
+    "doc_17126.txt",
+    "doc_18456.txt",
+    "doc_18454.txt",
+    "doc_18451.txt",
+    "doc_32067.txt"
+  ]
+}

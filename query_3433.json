@@ -1,0 +1,10 @@
+{
+  "query": "What year was the album “Legacy of Blood” released?",
+  "response": [
+    "doc_35580.txt",
+    "doc_40212.txt",
+    "doc_21637.txt",
+    "doc_21638.txt",
+    "doc_16742.txt"
+  ]
+}

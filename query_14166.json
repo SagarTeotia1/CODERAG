@@ -1,0 +1,10 @@
+{
+  "query": "Who directed \"Wonderful World\"?",
+  "response": [
+    "doc_11332.txt",
+    "doc_11335.txt",
+    "doc_11334.txt",
+    "doc_11333.txt",
+    "doc_12225.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When was the Spanish Inquisition established?",
+  "response": [
+    "doc_14880.txt",
+    "doc_14877.txt",
+    "doc_1862.txt",
+    "doc_1861.txt",
+    "doc_14876.txt"
+  ]
+}

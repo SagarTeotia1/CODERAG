@@ -1,0 +1,10 @@
+{
+  "query": "What is Parliament’s stance on companies that receive EU aid and relocate their activities within seven years?",
+  "response": [
+    "doc_9080.txt",
+    "doc_33813.txt",
+    "doc_33814.txt",
+    "doc_37647.txt",
+    "doc_30337.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which companies are involved in the proposed acquisition of EMI’s music publishing division?",
+  "response": [
+    "doc_34914.txt",
+    "doc_15979.txt",
+    "doc_26532.txt",
+    "doc_15981.txt",
+    "doc_19765.txt"
+  ]
+}

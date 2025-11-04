@@ -1,0 +1,10 @@
+{
+  "query": "In what year did the pilot episode of “South Park,” featuring Cartman, originally air?",
+  "response": [
+    "doc_4102.txt",
+    "doc_10383.txt",
+    "doc_19164.txt",
+    "doc_34818.txt",
+    "doc_3414.txt"
+  ]
+}

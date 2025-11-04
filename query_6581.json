@@ -1,0 +1,10 @@
+{
+  "query": "What is Sally Brown’s most likely reason for her affection towards Linus?",
+  "response": [
+    "doc_6861.txt",
+    "doc_6862.txt",
+    "doc_37461.txt",
+    "doc_6870.txt",
+    "doc_10715.txt"
+  ]
+}

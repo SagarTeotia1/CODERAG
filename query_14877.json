@@ -1,0 +1,10 @@
+{
+  "query": "According to the African Union, what is the estimated annual cost of corruption in Africa?",
+  "response": [
+    "doc_27228.txt",
+    "doc_40226.txt",
+    "doc_10529.txt",
+    "doc_16601.txt",
+    "doc_5264.txt"
+  ]
+}

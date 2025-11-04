@@ -1,0 +1,10 @@
+{
+  "query": "Which music label released recordings by Peter Holman and his ensemble, The Parley of Instruments?",
+  "response": [
+    "doc_25330.txt",
+    "doc_19765.txt",
+    "doc_25328.txt",
+    "doc_19760.txt",
+    "doc_25327.txt"
+  ]
+}

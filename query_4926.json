@@ -1,0 +1,10 @@
+{
+  "query": "Which South Korean film, directed by Kim Dae-seung, is based on the Sampoong Department Store collapse?",
+  "response": [
+    "doc_39186.txt",
+    "doc_39187.txt",
+    "doc_28596.txt",
+    "doc_12946.txt",
+    "doc_3234.txt"
+  ]
+}

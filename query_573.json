@@ -1,0 +1,10 @@
+{
+  "query": "How much funding was allocated for the Stuttgart-Wendlingen high-speed line, and what is the maximum co-funding percentage?",
+  "response": [
+    "doc_8446.txt",
+    "doc_28542.txt",
+    "doc_679.txt",
+    "doc_33981.txt",
+    "doc_21804.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "For which team did Neil Budworth play in the Super League competition?",
+  "response": [
+    "doc_39468.txt",
+    "doc_39467.txt",
+    "doc_29788.txt",
+    "doc_29789.txt",
+    "doc_18655.txt"
+  ]
+}

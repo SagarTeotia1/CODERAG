@@ -1,0 +1,10 @@
+{
+  "query": "What is the primary profession of the boxer in *Cinderella Man*?",
+  "response": [
+    "doc_36926.txt",
+    "doc_19498.txt",
+    "doc_36925.txt",
+    "doc_36924.txt",
+    "doc_25592.txt"
+  ]
+}

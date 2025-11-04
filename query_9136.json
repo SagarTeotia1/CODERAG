@@ -1,0 +1,10 @@
+{
+  "query": "What films did Constance Carpenter appear in for Lehrman?",
+  "response": [
+    "doc_13200.txt",
+    "doc_13201.txt",
+    "doc_31758.txt",
+    "doc_12530.txt",
+    "doc_30047.txt"
+  ]
+}

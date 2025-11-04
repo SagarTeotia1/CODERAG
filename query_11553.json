@@ -1,0 +1,10 @@
+{
+  "query": "What is the status of the Murat Kanatli case?",
+  "response": [
+    "doc_27258.txt",
+    "doc_38467.txt",
+    "doc_7512.txt",
+    "doc_7602.txt",
+    "doc_36672.txt"
+  ]
+}

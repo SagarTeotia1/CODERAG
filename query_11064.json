@@ -1,0 +1,10 @@
+{
+  "query": "What is the title of the book published in 1955 that was a child’s version of Sandburg’s autobiography?",
+  "response": [
+    "doc_17765.txt",
+    "doc_17764.txt",
+    "doc_17768.txt",
+    "doc_17767.txt",
+    "doc_17766.txt"
+  ]
+}

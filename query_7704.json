@@ -1,0 +1,10 @@
+{
+  "query": "Which film prominently features John Reed and Louise Bryant, chronicling the Russian Revolution?",
+  "response": [
+    "doc_18246.txt",
+    "doc_18245.txt",
+    "doc_18251.txt",
+    "doc_18249.txt",
+    "doc_18250.txt"
+  ]
+}

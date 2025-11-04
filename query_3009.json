@@ -1,0 +1,10 @@
+{
+  "query": "During which era did Donna Summer achieve prominence?",
+  "response": [
+    "doc_34669.txt",
+    "doc_34670.txt",
+    "doc_34675.txt",
+    "doc_34667.txt",
+    "doc_34674.txt"
+  ]
+}

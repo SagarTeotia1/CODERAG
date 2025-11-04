@@ -1,0 +1,10 @@
+{
+  "query": "What was the 1988 Los Angeles Raiders’ record?",
+  "response": [
+    "doc_4192.txt",
+    "doc_32432.txt",
+    "doc_4191.txt",
+    "doc_35378.txt",
+    "doc_12460.txt"
+  ]
+}

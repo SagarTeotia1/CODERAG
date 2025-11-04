@@ -1,0 +1,10 @@
+{
+  "query": "What is the United Kingdom’s ability to apply a reduced VAT rate to hotels, according to the passage?",
+  "response": [
+    "doc_25092.txt",
+    "doc_25091.txt",
+    "doc_5258.txt",
+    "doc_23750.txt",
+    "doc_31724.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "How many companies were interviewed as part of the study regarding debts owed to European firms in Libya?",
+  "response": [
+    "doc_20213.txt",
+    "doc_25753.txt",
+    "doc_25752.txt",
+    "doc_35698.txt",
+    "doc_24069.txt"
+  ]
+}

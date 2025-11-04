@@ -1,0 +1,10 @@
+{
+  "query": "What is Ben Gurion Airport commonly referred to as?",
+  "response": [
+    "doc_23504.txt",
+    "doc_23503.txt",
+    "doc_18338.txt",
+    "doc_14682.txt",
+    "doc_14683.txt"
+  ]
+}

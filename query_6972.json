@@ -1,0 +1,10 @@
+{
+  "query": "What literary magazines did Marianne Moore publish in?",
+  "response": [
+    "doc_1564.txt",
+    "doc_28538.txt",
+    "doc_7789.txt",
+    "doc_1560.txt",
+    "doc_19923.txt"
+  ]
+}

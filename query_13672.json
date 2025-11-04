@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how many one-hit wonders appeared on the Billboard charts during the 1980s, based on the information given?",
+  "response": [
+    "doc_24295.txt",
+    "doc_24296.txt",
+    "doc_24298.txt",
+    "doc_24294.txt",
+    "doc_29935.txt"
+  ]
+}

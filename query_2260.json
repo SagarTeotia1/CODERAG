@@ -1,0 +1,10 @@
+{
+  "query": "Where was Saint Patrick born, according to the provided information?",
+  "response": [
+    "doc_32869.txt",
+    "doc_32871.txt",
+    "doc_32868.txt",
+    "doc_32870.txt",
+    "doc_32872.txt"
+  ]
+}

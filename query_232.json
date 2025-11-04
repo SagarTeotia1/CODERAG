@@ -1,0 +1,10 @@
+{
+  "query": "Who played government agent Eliot Ness in *The Untouchables*?",
+  "response": [
+    "doc_27864.txt",
+    "doc_27856.txt",
+    "doc_27857.txt",
+    "doc_27855.txt",
+    "doc_27854.txt"
+  ]
+}

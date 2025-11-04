@@ -1,0 +1,10 @@
+{
+  "query": "At which university did George Thomas play college football?",
+  "response": [
+    "doc_25164.txt",
+    "doc_29206.txt",
+    "doc_25828.txt",
+    "doc_38617.txt",
+    "doc_21540.txt"
+  ]
+}

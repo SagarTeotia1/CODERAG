@@ -1,0 +1,10 @@
+{
+  "query": "What type of staff were primarily involved in the cases initially taken into account by OLAF?",
+  "response": [
+    "doc_1951.txt",
+    "doc_37981.txt",
+    "doc_10570.txt",
+    "doc_5027.txt",
+    "doc_11294.txt"
+  ]
+}

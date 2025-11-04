@@ -1,0 +1,10 @@
+{
+  "query": "How many studio albums did Heart in Hand release?",
+  "response": [
+    "doc_18380.txt",
+    "doc_31622.txt",
+    "doc_359.txt",
+    "doc_13260.txt",
+    "doc_31614.txt"
+  ]
+}

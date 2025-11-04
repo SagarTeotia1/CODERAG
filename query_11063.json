@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the photography exhibition “The Family of Man” first shown?",
+  "response": [
+    "doc_17765.txt",
+    "doc_17764.txt",
+    "doc_6282.txt",
+    "doc_6275.txt",
+    "doc_6276.txt"
+  ]
+}

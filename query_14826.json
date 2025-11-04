@@ -1,0 +1,10 @@
+{
+  "query": "What was mailed from BC Hydro in 2016?",
+  "response": [
+    "doc_20939.txt",
+    "doc_34583.txt",
+    "doc_6244.txt",
+    "doc_3419.txt",
+    "doc_24416.txt"
+  ]
+}

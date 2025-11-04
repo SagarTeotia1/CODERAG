@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the film *The Best* premiered by Twentieth Century Fox?",
+  "response": [
+    "doc_17864.txt",
+    "doc_19038.txt",
+    "doc_139.txt",
+    "doc_19714.txt",
+    "doc_27329.txt"
+  ]
+}

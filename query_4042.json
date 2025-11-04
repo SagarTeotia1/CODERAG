@@ -1,0 +1,10 @@
+{
+  "query": "Which settlements within the Mandelbachtal municipality are served by a biological waste water treatment plant, and what is the population of Ommersheim?",
+  "response": [
+    "doc_37032.txt",
+    "doc_37033.txt",
+    "doc_31698.txt",
+    "doc_39890.txt",
+    "doc_12303.txt"
+  ]
+}

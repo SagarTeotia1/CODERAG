@@ -1,0 +1,10 @@
+{
+  "query": "What secrets are associated with the Pacific Island featured in the text?",
+  "response": [
+    "doc_14037.txt",
+    "doc_14040.txt",
+    "doc_37746.txt",
+    "doc_12541.txt",
+    "doc_4773.txt"
+  ]
+}

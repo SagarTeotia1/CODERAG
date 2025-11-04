@@ -1,0 +1,10 @@
+{
+  "query": "Which film directed by Arturo Ripstein was selected as the Mexican entry for the Best Foreign Language Film at the 51st Academy Awards?",
+  "response": [
+    "doc_27607.txt",
+    "doc_1652.txt",
+    "doc_4070.txt",
+    "doc_39829.txt",
+    "doc_27611.txt"
+  ]
+}

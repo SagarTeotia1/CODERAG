@@ -1,0 +1,10 @@
+{
+  "query": "Which actors returned with major roles in “The Lost World: Jurassic Park” from the previous film “Jurassic Park”?",
+  "response": [
+    "doc_11253.txt",
+    "doc_27096.txt",
+    "doc_16672.txt",
+    "doc_6941.txt",
+    "doc_11252.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which record label released the album “Lack of Communication” by The Von Bondies?",
+  "response": [
+    "doc_38411.txt",
+    "doc_17901.txt",
+    "doc_28123.txt",
+    "doc_11951.txt",
+    "doc_359.txt"
+  ]
+}

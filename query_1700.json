@@ -1,0 +1,10 @@
+{
+  "query": "Which independent minor league baseball team played at historic Mike Carter Field in Tyler, Texas?",
+  "response": [
+    "doc_31439.txt",
+    "doc_20093.txt",
+    "doc_20094.txt",
+    "doc_22168.txt",
+    "doc_20092.txt"
+  ]
+}

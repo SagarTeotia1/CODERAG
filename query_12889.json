@@ -1,0 +1,10 @@
+{
+  "query": "When was the Louisiana Purchase made?",
+  "response": [
+    "doc_22444.txt",
+    "doc_792.txt",
+    "doc_790.txt",
+    "doc_797.txt",
+    "doc_22447.txt"
+  ]
+}

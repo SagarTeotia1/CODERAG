@@ -1,0 +1,10 @@
+{
+  "query": "What is one specific brand of candy mentioned in the Washington Post article that contains approximately 25 grams of added sugar per 8.6-inch Twizzlers?",
+  "response": [
+    "doc_30155.txt",
+    "doc_30154.txt",
+    "doc_30152.txt",
+    "doc_30159.txt",
+    "doc_30153.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to one of the linked documents, how is the double L in a Celtic language typically pronounced?",
+  "response": [
+    "doc_38732.txt",
+    "doc_31519.txt",
+    "doc_14533.txt",
+    "doc_38733.txt",
+    "doc_31517.txt"
+  ]
+}

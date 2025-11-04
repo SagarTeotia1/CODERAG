@@ -1,0 +1,10 @@
+{
+  "query": "What is the estimated prevalence of the most common type of Familial Hypercholesterolemia, according to the Orphanet database?",
+  "response": [
+    "doc_16866.txt",
+    "doc_221.txt",
+    "doc_7618.txt",
+    "doc_2465.txt",
+    "doc_11890.txt"
+  ]
+}

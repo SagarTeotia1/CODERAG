@@ -1,0 +1,10 @@
+{
+  "query": "Who is LaVar Arrington related to?",
+  "response": [
+    "doc_30605.txt",
+    "doc_30610.txt",
+    "doc_30606.txt",
+    "doc_30608.txt",
+    "doc_30607.txt"
+  ]
+}

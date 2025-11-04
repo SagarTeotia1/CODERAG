@@ -1,0 +1,10 @@
+{
+  "query": "According to the American Kennel Club, what was the popularity ranking of Bulldogs in 2007?",
+  "response": [
+    "doc_35794.txt",
+    "doc_35796.txt",
+    "doc_35791.txt",
+    "doc_35792.txt",
+    "doc_35793.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which manager recommended Paddy to the Singapore National Team and York City?",
+  "response": [
+    "doc_15296.txt",
+    "doc_13433.txt",
+    "doc_7179.txt",
+    "doc_18668.txt",
+    "doc_33843.txt"
+  ]
+}

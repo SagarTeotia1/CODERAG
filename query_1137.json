@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission’s current stance regarding human rights in Russia?",
+  "response": [
+    "doc_2953.txt",
+    "doc_38000.txt",
+    "doc_40163.txt",
+    "doc_34382.txt",
+    "doc_20223.txt"
+  ]
+}

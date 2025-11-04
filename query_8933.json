@@ -1,0 +1,10 @@
+{
+  "query": "According to the WHO report, how many young people are murdered daily in Europe?",
+  "response": [
+    "doc_1205.txt",
+    "doc_28069.txt",
+    "doc_14223.txt",
+    "doc_4686.txt",
+    "doc_3560.txt"
+  ]
+}

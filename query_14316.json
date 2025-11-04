@@ -1,0 +1,10 @@
+{
+  "query": "In what country did Robert Fulton initially use flood valves to equalize pressure?",
+  "response": [
+    "doc_25876.txt",
+    "doc_25873.txt",
+    "doc_25880.txt",
+    "doc_34386.txt",
+    "doc_25883.txt"
+  ]
+}

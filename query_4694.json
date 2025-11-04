@@ -1,0 +1,10 @@
+{
+  "query": "In what year did The Monkees achieve their first number one hit?",
+  "response": [
+    "doc_38659.txt",
+    "doc_38658.txt",
+    "doc_38661.txt",
+    "doc_38660.txt",
+    "doc_30.txt"
+  ]
+}

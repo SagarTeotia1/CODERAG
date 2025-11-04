@@ -1,0 +1,10 @@
+{
+  "query": "Who authored “Dawn’s Family Feud”?",
+  "response": [
+    "doc_11007.txt",
+    "doc_11010.txt",
+    "doc_11008.txt",
+    "doc_11009.txt",
+    "doc_11011.txt"
+  ]
+}

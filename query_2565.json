@@ -1,0 +1,10 @@
+{
+  "query": "In 2008, what specific recommendation remained outstanding from the Internal Audit Service’s report?",
+  "response": [
+    "doc_20268.txt",
+    "doc_8400.txt",
+    "doc_26876.txt",
+    "doc_26875.txt",
+    "doc_28999.txt"
+  ]
+}

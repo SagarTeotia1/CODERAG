@@ -1,0 +1,10 @@
+{
+  "query": "How many persons are deployed by Spain for border control?",
+  "response": [
+    "doc_29917.txt",
+    "doc_38122.txt",
+    "doc_12924.txt",
+    "doc_9228.txt",
+    "doc_8112.txt"
+  ]
+}

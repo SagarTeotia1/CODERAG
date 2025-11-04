@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what did the creator of *Huckleberry Finn* capture well regarding a specific waterway?",
+  "response": [
+    "doc_31367.txt",
+    "doc_31368.txt",
+    "doc_11041.txt",
+    "doc_31374.txt",
+    "doc_31375.txt"
+  ]
+}

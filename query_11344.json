@@ -1,0 +1,10 @@
+{
+  "query": "What is the American Academy of Dermatology’s comprehensive information resource regarding melanoma?",
+  "response": [
+    "doc_18473.txt",
+    "doc_18468.txt",
+    "doc_18474.txt",
+    "doc_18470.txt",
+    "doc_18467.txt"
+  ]
+}

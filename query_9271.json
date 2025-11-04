@@ -1,0 +1,10 @@
+{
+  "query": "What did the Commission confirm regarding the 2009 air quality report for Malta?",
+  "response": [
+    "doc_13527.txt",
+    "doc_9003.txt",
+    "doc_10673.txt",
+    "doc_3341.txt",
+    "doc_35226.txt"
+  ]
+}

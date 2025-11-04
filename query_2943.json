@@ -1,0 +1,10 @@
+{
+  "query": "What position did Steve Bannon hold in the Trump administration?",
+  "response": [
+    "doc_27071.txt",
+    "doc_27062.txt",
+    "doc_27065.txt",
+    "doc_27064.txt",
+    "doc_27066.txt"
+  ]
+}

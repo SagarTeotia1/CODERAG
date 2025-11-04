@@ -1,0 +1,10 @@
+{
+  "query": "What was George Meade's role at Gettysburg?",
+  "response": [
+    "doc_31712.txt",
+    "doc_31714.txt",
+    "doc_25606.txt",
+    "doc_31716.txt",
+    "doc_25604.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What did William Makepeace Thackeray describe *Jane Eyre* as?",
+  "response": [
+    "doc_2363.txt",
+    "doc_2358.txt",
+    "doc_2362.txt",
+    "doc_2356.txt",
+    "doc_2357.txt"
+  ]
+}

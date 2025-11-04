@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, on what day was the Last Supper shared by Jesus and his disciples?",
+  "response": [
+    "doc_11289.txt",
+    "doc_11290.txt",
+    "doc_11292.txt",
+    "doc_11291.txt",
+    "doc_11293.txt"
+  ]
+}

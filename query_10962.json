@@ -1,0 +1,10 @@
+{
+  "query": "In what year will the elected vice-president become the ORCA president?",
+  "response": [
+    "doc_17490.txt",
+    "doc_17491.txt",
+    "doc_28299.txt",
+    "doc_17486.txt",
+    "doc_2592.txt"
+  ]
+}

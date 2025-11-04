@@ -1,0 +1,10 @@
+{
+  "query": "For which club did Sergio Padt play on loan before joining FC Groningen?",
+  "response": [
+    "doc_16.txt",
+    "doc_1528.txt",
+    "doc_20791.txt",
+    "doc_8723.txt",
+    "doc_12559.txt"
+  ]
+}

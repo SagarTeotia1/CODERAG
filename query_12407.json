@@ -1,0 +1,10 @@
+{
+  "query": "Which research projects were funded under the Sixth and Seventh Framework Programmes for Research and Technological Development to investigate molecular mechanisms of aneuploidies?",
+  "response": [
+    "doc_21144.txt",
+    "doc_21047.txt",
+    "doc_705.txt",
+    "doc_33942.txt",
+    "doc_31574.txt"
+  ]
+}

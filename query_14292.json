@@ -1,0 +1,10 @@
+{
+  "query": "Does the Council of the European Union’s budget include a dedicated line item for the European Parliament’s sessions?",
+  "response": [
+    "doc_25827.txt",
+    "doc_13351.txt",
+    "doc_10121.txt",
+    "doc_39130.txt",
+    "doc_13603.txt"
+  ]
+}

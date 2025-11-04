@@ -1,0 +1,10 @@
+{
+  "query": "What European Union legislation, if any, exists regarding the safety of ship-to-ship oil transfers?",
+  "response": [
+    "doc_19847.txt",
+    "doc_14229.txt",
+    "doc_27093.txt",
+    "doc_33988.txt",
+    "doc_6091.txt"
+  ]
+}

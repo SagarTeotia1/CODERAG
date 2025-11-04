@@ -1,0 +1,10 @@
+{
+  "query": "According to Emerson Moser, what was he color-blind?",
+  "response": [
+    "doc_30272.txt",
+    "doc_1564.txt",
+    "doc_24623.txt",
+    "doc_1557.txt",
+    "doc_30271.txt"
+  ]
+}

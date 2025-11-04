@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of the workforce in Russia is employed in small and medium-sized firms?",
+  "response": [
+    "doc_40147.txt",
+    "doc_9910.txt",
+    "doc_9913.txt",
+    "doc_37597.txt",
+    "doc_16415.txt"
+  ]
+}

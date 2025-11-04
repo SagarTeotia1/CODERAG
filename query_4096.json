@@ -1,0 +1,10 @@
+{
+  "query": "For what achievement did Rowan and Martin's Laugh-In receive an Emmy in 1971?",
+  "response": [
+    "doc_37212.txt",
+    "doc_37211.txt",
+    "doc_37214.txt",
+    "doc_37215.txt",
+    "doc_37219.txt"
+  ]
+}

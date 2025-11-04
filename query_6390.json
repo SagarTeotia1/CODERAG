@@ -1,0 +1,10 @@
+{
+  "query": "What international convention is the Protocol of 2003 related to?",
+  "response": [
+    "doc_27716.txt",
+    "doc_7241.txt",
+    "doc_37925.txt",
+    "doc_9159.txt",
+    "doc_6273.txt"
+  ]
+}

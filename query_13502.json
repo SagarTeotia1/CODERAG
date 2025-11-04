@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of researchers in Europe working in industry are women?",
+  "response": [
+    "doc_23810.txt",
+    "doc_25103.txt",
+    "doc_8055.txt",
+    "doc_16873.txt",
+    "doc_23809.txt"
+  ]
+}

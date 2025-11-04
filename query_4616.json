@@ -1,0 +1,10 @@
+{
+  "query": "When did Newport Beach become part of the city of Newport Beach?",
+  "response": [
+    "doc_38491.txt",
+    "doc_38490.txt",
+    "doc_28790.txt",
+    "doc_31459.txt",
+    "doc_31460.txt"
+  ]
+}

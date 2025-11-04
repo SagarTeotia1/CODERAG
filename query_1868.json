@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of the UK Financial Services Authority (FSA) workforce had previously worked in the banking industry they regulated?",
+  "response": [
+    "doc_31827.txt",
+    "doc_1008.txt",
+    "doc_946.txt",
+    "doc_949.txt",
+    "doc_947.txt"
+  ]
+}

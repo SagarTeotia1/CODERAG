@@ -1,0 +1,10 @@
+{
+  "query": "Who founded the first permanent settlement in Michigan?",
+  "response": [
+    "doc_21933.txt",
+    "doc_6565.txt",
+    "doc_9424.txt",
+    "doc_21934.txt",
+    "doc_9423.txt"
+  ]
+}

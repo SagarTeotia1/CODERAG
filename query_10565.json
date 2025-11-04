@@ -1,0 +1,10 @@
+{
+  "query": "What genres of music were incorporated into the album “Christina Aguilera”?",
+  "response": [
+    "doc_38903.txt",
+    "doc_23949.txt",
+    "doc_173.txt",
+    "doc_12176.txt",
+    "doc_171.txt"
+  ]
+}

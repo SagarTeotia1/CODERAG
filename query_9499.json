@@ -1,0 +1,10 @@
+{
+  "query": "Does the passage suggest that Luxembourg’s actions regarding lawyer admittance contradict the judgment of the Court of Justice of the European Union?",
+  "response": [
+    "doc_13979.txt",
+    "doc_18480.txt",
+    "doc_3610.txt",
+    "doc_2176.txt",
+    "doc_23129.txt"
+  ]
+}

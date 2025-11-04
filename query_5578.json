@@ -1,0 +1,10 @@
+{
+  "query": "What specific action is the European Parliament urging the Turkish Government to take regarding prison reform?",
+  "response": [
+    "doc_413.txt",
+    "doc_9606.txt",
+    "doc_14446.txt",
+    "doc_19066.txt",
+    "doc_8709.txt"
+  ]
+}

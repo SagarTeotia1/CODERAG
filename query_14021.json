@@ -1,0 +1,10 @@
+{
+  "query": "Which anime series did Erik Scott Kimerer voice characters in, including Speed o' Sound Sonic?",
+  "response": [
+    "doc_38559.txt",
+    "doc_22397.txt",
+    "doc_22395.txt",
+    "doc_26600.txt",
+    "doc_26179.txt"
+  ]
+}

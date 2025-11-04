@@ -1,0 +1,10 @@
+{
+  "query": "What amenities did Franklin D. Roosevelt have aboard his yacht, specifically for his dog Fala?",
+  "response": [
+    "doc_12981.txt",
+    "doc_12982.txt",
+    "doc_12983.txt",
+    "doc_12985.txt",
+    "doc_12993.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Kiefer Sutherland make his film debut alongside his father, Donald Sutherland, in the movie *Max Dugan Returns*?",
+  "response": [
+    "doc_13240.txt",
+    "doc_13233.txt",
+    "doc_13238.txt",
+    "doc_13231.txt",
+    "doc_13236.txt"
+  ]
+}

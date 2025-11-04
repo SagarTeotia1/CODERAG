@@ -1,0 +1,10 @@
+{
+  "query": "Where is the Ombudsman’s seat located?",
+  "response": [
+    "doc_16356.txt",
+    "doc_16354.txt",
+    "doc_16360.txt",
+    "doc_16358.txt",
+    "doc_16357.txt"
+  ]
+}

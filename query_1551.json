@@ -1,0 +1,10 @@
+{
+  "query": "What was Lee Hoi-chuen’s profession?",
+  "response": [
+    "doc_31082.txt",
+    "doc_38276.txt",
+    "doc_8353.txt",
+    "doc_38279.txt",
+    "doc_38280.txt"
+  ]
+}

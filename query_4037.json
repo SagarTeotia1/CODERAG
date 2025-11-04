@@ -1,0 +1,10 @@
+{
+  "query": "Which firm was responsible for designing the project aimed at ‘regenerating Playa Blanca’?",
+  "response": [
+    "doc_37028.txt",
+    "doc_19072.txt",
+    "doc_10189.txt",
+    "doc_9985.txt",
+    "doc_39523.txt"
+  ]
+}

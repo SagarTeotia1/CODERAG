@@ -1,0 +1,10 @@
+{
+  "query": "Which Irving Berlin songs were introduced by the musical “Watch Your Step”?",
+  "response": [
+    "doc_14739.txt",
+    "doc_9745.txt",
+    "doc_9746.txt",
+    "doc_9747.txt",
+    "doc_9743.txt"
+  ]
+}

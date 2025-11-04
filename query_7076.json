@@ -1,0 +1,10 @@
+{
+  "query": "To what genus does the Cypripedium acaule belong?",
+  "response": [
+    "doc_8081.txt",
+    "doc_8083.txt",
+    "doc_8086.txt",
+    "doc_8084.txt",
+    "doc_8082.txt"
+  ]
+}

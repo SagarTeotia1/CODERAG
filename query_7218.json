@@ -1,0 +1,10 @@
+{
+  "query": "What racial background did Golden have?",
+  "response": [
+    "doc_8393.txt",
+    "doc_32416.txt",
+    "doc_32418.txt",
+    "doc_28682.txt",
+    "doc_31480.txt"
+  ]
+}

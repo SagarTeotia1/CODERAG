@@ -1,0 +1,10 @@
+{
+  "query": "What city is the seat of government for Philadelphia City Hall?",
+  "response": [
+    "doc_6064.txt",
+    "doc_14163.txt",
+    "doc_17476.txt",
+    "doc_19633.txt",
+    "doc_14165.txt"
+  ]
+}

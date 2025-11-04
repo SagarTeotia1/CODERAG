@@ -1,0 +1,10 @@
+{
+  "query": "Which programmes co-finance e-government services in Greece?",
+  "response": [
+    "doc_17435.txt",
+    "doc_17042.txt",
+    "doc_450.txt",
+    "doc_12898.txt",
+    "doc_38543.txt"
+  ]
+}

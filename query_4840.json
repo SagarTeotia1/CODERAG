@@ -1,0 +1,10 @@
+{
+  "query": "Who is responsible for informing the President of the European Parliament about sensitive information?",
+  "response": [
+    "doc_29370.txt",
+    "doc_2666.txt",
+    "doc_2692.txt",
+    "doc_2662.txt",
+    "doc_29368.txt"
+  ]
+}

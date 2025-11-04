@@ -1,0 +1,10 @@
+{
+  "query": "What is the estimated number of researchers the European Community needs to meet the target set by the Barcelona European Council by 2010?",
+  "response": [
+    "doc_7375.txt",
+    "doc_16872.txt",
+    "doc_16435.txt",
+    "doc_22074.txt",
+    "doc_39956.txt"
+  ]
+}

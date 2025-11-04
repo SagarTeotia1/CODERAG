@@ -1,0 +1,10 @@
+{
+  "query": "According to Marvin Minsky, what does he prefer for reading?",
+  "response": [
+    "doc_23318.txt",
+    "doc_32343.txt",
+    "doc_3082.txt",
+    "doc_23319.txt",
+    "doc_23320.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What quantity of alcohol and tobacco can be sent across EU borders, specifically via courier and in the post?",
+  "response": [
+    "doc_36376.txt",
+    "doc_14592.txt",
+    "doc_14589.txt",
+    "doc_16110.txt",
+    "doc_14590.txt"
+  ]
+}

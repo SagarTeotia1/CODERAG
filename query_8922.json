@@ -1,0 +1,10 @@
+{
+  "query": "What specific zones would vessels be directed to use under a proposed traffic separation scheme in the Baltic?",
+  "response": [
+    "doc_1204.txt",
+    "doc_33307.txt",
+    "doc_31165.txt",
+    "doc_10136.txt",
+    "doc_15875.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the statue of Colonel Dennis Nielson depicting him carrying a child to safety created?",
+  "response": [
+    "doc_35801.txt",
+    "doc_35800.txt",
+    "doc_25609.txt",
+    "doc_25605.txt",
+    "doc_35799.txt"
+  ]
+}

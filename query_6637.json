@@ -1,0 +1,10 @@
+{
+  "query": "Who directed “Battle of the Sexes”?",
+  "response": [
+    "doc_6963.txt",
+    "doc_32055.txt",
+    "doc_32057.txt",
+    "doc_23155.txt",
+    "doc_7637.txt"
+  ]
+}

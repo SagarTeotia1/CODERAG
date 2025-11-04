@@ -1,0 +1,10 @@
+{
+  "query": "When did Robert Fair Graff introduce the paperback format?",
+  "response": [
+    "doc_40217.txt",
+    "doc_40215.txt",
+    "doc_40216.txt",
+    "doc_40220.txt",
+    "doc_40221.txt"
+  ]
+}

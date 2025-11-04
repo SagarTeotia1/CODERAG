@@ -1,0 +1,10 @@
+{
+  "query": "What is the maximum permitted hydrogen peroxide concentration in cosmetic products designed to whiten teeth, according to Directive 76/768/EEC?",
+  "response": [
+    "doc_4019.txt",
+    "doc_5222.txt",
+    "doc_22845.txt",
+    "doc_22846.txt",
+    "doc_14321.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was the budget of Voice of America in 2001, as cited by the Commission?",
+  "response": [
+    "doc_13037.txt",
+    "doc_6419.txt",
+    "doc_3934.txt",
+    "doc_14172.txt",
+    "doc_18300.txt"
+  ]
+}

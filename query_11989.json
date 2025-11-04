@@ -1,0 +1,10 @@
+{
+  "query": "Does the Commission believe the Irish government’s intervention in Anglo Irish Bank violates EU competition rules?",
+  "response": [
+    "doc_20182.txt",
+    "doc_24312.txt",
+    "doc_17812.txt",
+    "doc_13789.txt",
+    "doc_35439.txt"
+  ]
+}

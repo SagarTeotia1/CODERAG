@@ -1,0 +1,10 @@
+{
+  "query": "What degree did Joan Hinde Stewart earn from Yale University?",
+  "response": [
+    "doc_5547.txt",
+    "doc_5549.txt",
+    "doc_182.txt",
+    "doc_184.txt",
+    "doc_5545.txt"
+  ]
+}

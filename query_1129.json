@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the film “Monte Carlo” released?",
+  "response": [
+    "doc_33012.txt",
+    "doc_3381.txt",
+    "doc_33008.txt",
+    "doc_33011.txt",
+    "doc_33007.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What newspaper is described as reaching the largest number of adults in Greater Fort Lauderdale/Boca Raton?",
+  "response": [
+    "doc_28671.txt",
+    "doc_28674.txt",
+    "doc_28673.txt",
+    "doc_28672.txt",
+    "doc_28675.txt"
+  ]
+}

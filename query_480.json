@@ -1,0 +1,10 @@
+{
+  "query": "What composers are specifically mentioned as performing in the 2006-07 Memorial Hall concert?",
+  "response": [
+    "doc_30504.txt",
+    "doc_30499.txt",
+    "doc_2790.txt",
+    "doc_30503.txt",
+    "doc_30500.txt"
+  ]
+}

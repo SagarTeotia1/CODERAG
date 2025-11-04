@@ -1,0 +1,10 @@
+{
+  "query": "What specific medals did Cesar win in figure skating?",
+  "response": [
+    "doc_37390.txt",
+    "doc_14948.txt",
+    "doc_14949.txt",
+    "doc_19433.txt",
+    "doc_14947.txt"
+  ]
+}

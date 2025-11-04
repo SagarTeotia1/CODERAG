@@ -1,0 +1,10 @@
+{
+  "query": "What actions did human rights organizations report occurring during the clashes in Egypt?",
+  "response": [
+    "doc_29716.txt",
+    "doc_11850.txt",
+    "doc_26032.txt",
+    "doc_27643.txt",
+    "doc_2982.txt"
+  ]
+}

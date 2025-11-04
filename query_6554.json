@@ -1,0 +1,10 @@
+{
+  "query": "What materials were used in Josephine Cochrane’s 1886 dishwasher?",
+  "response": [
+    "doc_6774.txt",
+    "doc_6776.txt",
+    "doc_6775.txt",
+    "doc_6778.txt",
+    "doc_7737.txt"
+  ]
+}

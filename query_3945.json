@@ -1,0 +1,10 @@
+{
+  "query": "What role did Ted Cassidy play in *The Addams Family*?",
+  "response": [
+    "doc_36820.txt",
+    "doc_36818.txt",
+    "doc_36816.txt",
+    "doc_36817.txt",
+    "doc_36821.txt"
+  ]
+}

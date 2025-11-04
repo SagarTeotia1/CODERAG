@@ -1,0 +1,10 @@
+{
+  "query": "Which U.S. President signed Executive Order 13775, and what change did it make regarding the Department of Justice?",
+  "response": [
+    "doc_63.txt",
+    "doc_27068.txt",
+    "doc_27061.txt",
+    "doc_27070.txt",
+    "doc_27062.txt"
+  ]
+}

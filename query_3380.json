@@ -1,0 +1,10 @@
+{
+  "query": "What risks related to the internet were highlighted in a recent European Union-financed survey?",
+  "response": [
+    "doc_35453.txt",
+    "doc_4425.txt",
+    "doc_4424.txt",
+    "doc_34854.txt",
+    "doc_27613.txt"
+  ]
+}

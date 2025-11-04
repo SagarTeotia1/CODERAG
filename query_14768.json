@@ -1,0 +1,10 @@
+{
+  "query": "Which mountain is the second-tallest in South Korea after Hallasan?",
+  "response": [
+    "doc_16983.txt",
+    "doc_26987.txt",
+    "doc_26986.txt",
+    "doc_16984.txt",
+    "doc_26578.txt"
+  ]
+}

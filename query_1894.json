@@ -1,0 +1,10 @@
+{
+  "query": "For which European institution are the annual accounts for 2003 referenced as “Rapport annuel sur la gestion budgétaire et financière”?",
+  "response": [
+    "doc_31171.txt",
+    "doc_19979.txt",
+    "doc_39128.txt",
+    "doc_37968.txt",
+    "doc_31929.txt"
+  ]
+}

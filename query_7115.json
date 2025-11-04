@@ -1,0 +1,10 @@
+{
+  "query": "According to the text, what is the plot of *Sister Act 2: Back in the Habit*?",
+  "response": [
+    "doc_8187.txt",
+    "doc_8182.txt",
+    "doc_8188.txt",
+    "doc_8186.txt",
+    "doc_8184.txt"
+  ]
+}

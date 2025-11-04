@@ -1,0 +1,10 @@
+{
+  "query": "What award did Rut Tellefsen receive in 1996?",
+  "response": [
+    "doc_20210.txt",
+    "doc_20211.txt",
+    "doc_10693.txt",
+    "doc_16358.txt",
+    "doc_27321.txt"
+  ]
+}

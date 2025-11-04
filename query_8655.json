@@ -1,0 +1,10 @@
+{
+  "query": "What specific type of damages was Equitable Life initially allowed to claim against Ernst & Young?",
+  "response": [
+    "doc_1129.txt",
+    "doc_1130.txt",
+    "doc_1004.txt",
+    "doc_1035.txt",
+    "doc_1034.txt"
+  ]
+}

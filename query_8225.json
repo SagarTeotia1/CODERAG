@@ -1,0 +1,10 @@
+{
+  "query": "Which tax law presents a specific difficulty for charities seeking an exemption from EU legislation?",
+  "response": [
+    "doc_10966.txt",
+    "doc_16049.txt",
+    "doc_31625.txt",
+    "doc_549.txt",
+    "doc_19610.txt"
+  ]
+}

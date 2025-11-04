@@ -1,0 +1,10 @@
+{
+  "query": "What geographical feature did someone observe while on watch at the quarter deck in the Straits of Messina?",
+  "response": [
+    "doc_34983.txt",
+    "doc_34981.txt",
+    "doc_34984.txt",
+    "doc_34982.txt",
+    "doc_34986.txt"
+  ]
+}

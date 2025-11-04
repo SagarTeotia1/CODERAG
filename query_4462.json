@@ -1,0 +1,10 @@
+{
+  "query": "When did Jane Foster first appear in a Marvel comic book?",
+  "response": [
+    "doc_40068.txt",
+    "doc_16421.txt",
+    "doc_40063.txt",
+    "doc_40069.txt",
+    "doc_40071.txt"
+  ]
+}

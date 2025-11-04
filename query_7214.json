@@ -1,0 +1,10 @@
+{
+  "query": "What was the name of the horse that Lin Slone captured?",
+  "response": [
+    "doc_32410.txt",
+    "doc_32417.txt",
+    "doc_32412.txt",
+    "doc_8377.txt",
+    "doc_18799.txt"
+  ]
+}

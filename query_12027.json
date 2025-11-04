@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Indian Motorcycle begin its historical timeline?",
+  "response": [
+    "doc_28705.txt",
+    "doc_3022.txt",
+    "doc_5114.txt",
+    "doc_15725.txt",
+    "doc_25150.txt"
+  ]
+}

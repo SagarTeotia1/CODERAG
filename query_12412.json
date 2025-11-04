@@ -1,0 +1,10 @@
+{
+  "query": "Which group did Bobby Brown previously belong to before reuniting with New Edition?",
+  "response": [
+    "doc_21173.txt",
+    "doc_21175.txt",
+    "doc_21174.txt",
+    "doc_21172.txt",
+    "doc_21176.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What geographical characteristic is mentioned regarding the area where Seoul is located?",
+  "response": [
+    "doc_16983.txt",
+    "doc_16980.txt",
+    "doc_16984.txt",
+    "doc_16981.txt",
+    "doc_16982.txt"
+  ]
+}

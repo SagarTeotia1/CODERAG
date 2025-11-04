@@ -1,0 +1,10 @@
+{
+  "query": "What is the subject of the television show \"Lab Rats\"?",
+  "response": [
+    "doc_10477.txt",
+    "doc_20016.txt",
+    "doc_5895.txt",
+    "doc_8249.txt",
+    "doc_20017.txt"
+  ]
+}

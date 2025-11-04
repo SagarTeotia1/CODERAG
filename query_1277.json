@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Natalie Gumede appear in “Coronation Street”?",
+  "response": [
+    "doc_30440.txt",
+    "doc_3924.txt",
+    "doc_30439.txt",
+    "doc_12256.txt",
+    "doc_12257.txt"
+  ]
+}

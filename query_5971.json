@@ -1,0 +1,10 @@
+{
+  "query": "What awards has Picasso restaurant received?",
+  "response": [
+    "doc_37003.txt",
+    "doc_15308.txt",
+    "doc_36999.txt",
+    "doc_14132.txt",
+    "doc_37002.txt"
+  ]
+}

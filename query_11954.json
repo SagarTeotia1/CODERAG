@@ -1,0 +1,10 @@
+{
+  "query": "When was Cains Brewery founded?",
+  "response": [
+    "doc_12267.txt",
+    "doc_12259.txt",
+    "doc_12266.txt",
+    "doc_29137.txt",
+    "doc_12268.txt"
+  ]
+}

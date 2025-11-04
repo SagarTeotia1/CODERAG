@@ -1,0 +1,10 @@
+{
+  "query": "What is the primary religious symbol of Christianity, and what is it called when it includes a figure of Christ?",
+  "response": [
+    "doc_19545.txt",
+    "doc_19547.txt",
+    "doc_4964.txt",
+    "doc_19553.txt",
+    "doc_25498.txt"
+  ]
+}

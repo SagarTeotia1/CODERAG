@@ -1,0 +1,10 @@
+{
+  "query": "Which actors starred in “Sweet Smell of Success,” a film selected for inclusion in the National Film Registry?",
+  "response": [
+    "doc_6089.txt",
+    "doc_28153.txt",
+    "doc_17868.txt",
+    "doc_17864.txt",
+    "doc_28152.txt"
+  ]
+}

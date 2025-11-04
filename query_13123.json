@@ -1,0 +1,10 @@
+{
+  "query": "What was the population of Mengzhou in 1999?",
+  "response": [
+    "doc_4584.txt",
+    "doc_4588.txt",
+    "doc_4587.txt",
+    "doc_4591.txt",
+    "doc_31415.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What date did Bette Midler attend the Hulaween Bash?",
+  "response": [
+    "doc_18923.txt",
+    "doc_17443.txt",
+    "doc_18451.txt",
+    "doc_11240.txt",
+    "doc_29529.txt"
+  ]
+}

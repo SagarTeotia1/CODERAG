@@ -1,0 +1,10 @@
+{
+  "query": "What role did Joan Mondale’s father have before her marriage?",
+  "response": [
+    "doc_40100.txt",
+    "doc_17150.txt",
+    "doc_19139.txt",
+    "doc_37015.txt",
+    "doc_28241.txt"
+  ]
+}

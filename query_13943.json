@@ -1,0 +1,10 @@
+{
+  "query": "Which literature has been impacted by Spanish writers?",
+  "response": [
+    "doc_24932.txt",
+    "doc_24934.txt",
+    "doc_24933.txt",
+    "doc_12670.txt",
+    "doc_12672.txt"
+  ]
+}

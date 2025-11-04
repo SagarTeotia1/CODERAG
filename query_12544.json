@@ -1,0 +1,10 @@
+{
+  "query": "What is the minimum required weekly rest period stipulated by Regulation (EC) No 561/2006 compared to the previous regulation?",
+  "response": [
+    "doc_21546.txt",
+    "doc_28546.txt",
+    "doc_4755.txt",
+    "doc_3558.txt",
+    "doc_3559.txt"
+  ]
+}

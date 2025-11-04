@@ -1,0 +1,10 @@
+{
+  "query": "According to the text, what specific warning did Thomas Aquinas offer regarding suicide?",
+  "response": [
+    "doc_36417.txt",
+    "doc_1501.txt",
+    "doc_36421.txt",
+    "doc_36428.txt",
+    "doc_36419.txt"
+  ]
+}

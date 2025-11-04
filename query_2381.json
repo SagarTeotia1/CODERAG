@@ -1,0 +1,10 @@
+{
+  "query": "How many times did the INC win elections in the specified constituency?",
+  "response": [
+    "doc_3224.txt",
+    "doc_8115.txt",
+    "doc_18037.txt",
+    "doc_3989.txt",
+    "doc_30598.txt"
+  ]
+}

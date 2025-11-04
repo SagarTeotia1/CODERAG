@@ -1,0 +1,10 @@
+{
+  "query": "What surface were the 2009 Indianapolis Tennis Championships played on?",
+  "response": [
+    "doc_11105.txt",
+    "doc_8356.txt",
+    "doc_4984.txt",
+    "doc_8355.txt",
+    "doc_8359.txt"
+  ]
+}

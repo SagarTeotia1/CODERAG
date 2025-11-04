@@ -1,0 +1,10 @@
+{
+  "query": "When did the Commission receive a letter regarding the nuclear contamination in Spain?",
+  "response": [
+    "doc_14595.txt",
+    "doc_4572.txt",
+    "doc_38050.txt",
+    "doc_31741.txt",
+    "doc_38210.txt"
+  ]
+}

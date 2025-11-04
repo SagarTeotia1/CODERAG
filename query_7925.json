@@ -1,0 +1,10 @@
+{
+  "query": "What specific actions are MEPs expecting the European Commission to take regarding violations of fundamental rights?",
+  "response": [
+    "doc_10161.txt",
+    "doc_27819.txt",
+    "doc_11596.txt",
+    "doc_17123.txt",
+    "doc_33251.txt"
+  ]
+}

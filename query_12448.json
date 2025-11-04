@@ -1,0 +1,10 @@
+{
+  "query": "What date were the burglars arrested at the Watergate office complex?",
+  "response": [
+    "doc_21298.txt",
+    "doc_21300.txt",
+    "doc_6352.txt",
+    "doc_6351.txt",
+    "doc_21304.txt"
+  ]
+}

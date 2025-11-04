@@ -1,0 +1,10 @@
+{
+  "query": "What play was poorly received during Ibsen’s initial production in Christiania?",
+  "response": [
+    "doc_7161.txt",
+    "doc_7160.txt",
+    "doc_2787.txt",
+    "doc_2798.txt",
+    "doc_2789.txt"
+  ]
+}

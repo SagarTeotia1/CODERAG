@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the national park that shares a boundary with Denali National Park and Preserve?",
+  "response": [
+    "doc_40195.txt",
+    "doc_14328.txt",
+    "doc_14325.txt",
+    "doc_14326.txt",
+    "doc_40205.txt"
+  ]
+}

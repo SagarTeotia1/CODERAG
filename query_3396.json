@@ -1,0 +1,10 @@
+{
+  "query": "In August 2013, what candidate did Dan from Squirrelhill write in for President on his blog?",
+  "response": [
+    "doc_35500.txt",
+    "doc_28052.txt",
+    "doc_23512.txt",
+    "doc_28051.txt",
+    "doc_35495.txt"
+  ]
+}

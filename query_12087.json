@@ -1,0 +1,10 @@
+{
+  "query": "What were the two main allegations surrounding the 2012 South Korean presidential election?",
+  "response": [
+    "doc_11407.txt",
+    "doc_36141.txt",
+    "doc_2294.txt",
+    "doc_28359.txt",
+    "doc_4022.txt"
+  ]
+}

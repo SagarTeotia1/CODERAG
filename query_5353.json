@@ -1,0 +1,10 @@
+{
+  "query": "What has been the effect of the European Emissions Trading Scheme since 2005?",
+  "response": [
+    "doc_40117.txt",
+    "doc_21384.txt",
+    "doc_19902.txt",
+    "doc_25793.txt",
+    "doc_35465.txt"
+  ]
+}

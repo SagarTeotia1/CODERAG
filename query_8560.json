@@ -1,0 +1,10 @@
+{
+  "query": "What was the year of the premiere of the film “Play Misty For Me”?",
+  "response": [
+    "doc_23079.txt",
+    "doc_16429.txt",
+    "doc_26856.txt",
+    "doc_11648.txt",
+    "doc_11644.txt"
+  ]
+}

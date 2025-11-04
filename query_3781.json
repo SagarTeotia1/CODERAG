@@ -1,0 +1,10 @@
+{
+  "query": "What notable award was Yukio Mishima considered for in 1968?",
+  "response": [
+    "doc_11562.txt",
+    "doc_7330.txt",
+    "doc_11559.txt",
+    "doc_28242.txt",
+    "doc_11555.txt"
+  ]
+}

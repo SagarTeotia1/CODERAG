@@ -1,0 +1,10 @@
+{
+  "query": "What type of document did the Commission promote to coordinate action regarding the Eyjafjallajökull eruption?",
+  "response": [
+    "doc_15140.txt",
+    "doc_14021.txt",
+    "doc_24987.txt",
+    "doc_2546.txt",
+    "doc_9342.txt"
+  ]
+}

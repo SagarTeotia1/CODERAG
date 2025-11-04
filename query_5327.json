@@ -1,0 +1,10 @@
+{
+  "query": "What facility, located in Ras Tanura, is described as the “world’s largest”?",
+  "response": [
+    "doc_27334.txt",
+    "doc_27337.txt",
+    "doc_27335.txt",
+    "doc_27333.txt",
+    "doc_27336.txt"
+  ]
+}

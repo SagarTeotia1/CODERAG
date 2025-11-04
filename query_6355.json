@@ -1,0 +1,10 @@
+{
+  "query": "What specific concerns does the rapporteur have regarding EU budgetary assistance to Georgia, citing a particular report?",
+  "response": [
+    "doc_22.txt",
+    "doc_19.txt",
+    "doc_21.txt",
+    "doc_23.txt",
+    "doc_20.txt"
+  ]
+}

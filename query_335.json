@@ -1,0 +1,10 @@
+{
+  "query": "What is the ZIP code for Meadowbrook Terrace, Florida, and what is its local area code?",
+  "response": [
+    "doc_10251.txt",
+    "doc_22095.txt",
+    "doc_22098.txt",
+    "doc_10252.txt",
+    "doc_10258.txt"
+  ]
+}

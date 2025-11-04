@@ -1,0 +1,10 @@
+{
+  "query": "What regulations outline the obligations of airlines regarding accident prevention and flight safety, as specified in Regulation (EC) No. 1899/2006?",
+  "response": [
+    "doc_13983.txt",
+    "doc_39001.txt",
+    "doc_3558.txt",
+    "doc_8664.txt",
+    "doc_36346.txt"
+  ]
+}

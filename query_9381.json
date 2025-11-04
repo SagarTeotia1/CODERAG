@@ -1,0 +1,10 @@
+{
+  "query": "What is the address of the website that provides information on over 300 projects financed by the Daphne Programme?",
+  "response": [
+    "doc_13737.txt",
+    "doc_16558.txt",
+    "doc_34528.txt",
+    "doc_13738.txt",
+    "doc_24549.txt"
+  ]
+}

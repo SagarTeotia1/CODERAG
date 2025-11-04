@@ -1,0 +1,10 @@
+{
+  "query": "What is the prize for the student competition related to communicating EU stories?",
+  "response": [
+    "doc_1172.txt",
+    "doc_17527.txt",
+    "doc_14319.txt",
+    "doc_15461.txt",
+    "doc_5423.txt"
+  ]
+}

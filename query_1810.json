@@ -1,0 +1,10 @@
+{
+  "query": "What event is scheduled to take place at the UNWRA (United Nations Work and Relief Agency) exhibition?",
+  "response": [
+    "doc_26056.txt",
+    "doc_26055.txt",
+    "doc_26051.txt",
+    "doc_25675.txt",
+    "doc_12654.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What European protection does the felling of these trees violate?",
+  "response": [
+    "doc_35840.txt",
+    "doc_14495.txt",
+    "doc_37509.txt",
+    "doc_18343.txt",
+    "doc_34825.txt"
+  ]
+}

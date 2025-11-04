@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what is the ranking of Spanish among the world’s most spoken languages?",
+  "response": [
+    "doc_32380.txt",
+    "doc_2492.txt",
+    "doc_28175.txt",
+    "doc_2491.txt",
+    "doc_7615.txt"
+  ]
+}

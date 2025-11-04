@@ -1,0 +1,10 @@
+{
+  "query": "What number does Encyclopedia Americana estimate the world horse population to be?",
+  "response": [
+    "doc_23066.txt",
+    "doc_14261.txt",
+    "doc_14260.txt",
+    "doc_14263.txt",
+    "doc_14264.txt"
+  ]
+}

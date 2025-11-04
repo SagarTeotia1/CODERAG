@@ -1,0 +1,10 @@
+{
+  "query": "What was the final score of the game between the Penn State Nittany Lions and Ohio State, according to the gameball?",
+  "response": [
+    "doc_18829.txt",
+    "doc_19110.txt",
+    "doc_10455.txt",
+    "doc_33560.txt",
+    "doc_19111.txt"
+  ]
+}

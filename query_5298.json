@@ -1,0 +1,10 @@
+{
+  "query": "On what date and location did the execution of Delara Darabi take place?",
+  "response": [
+    "doc_40008.txt",
+    "doc_40009.txt",
+    "doc_23845.txt",
+    "doc_26587.txt",
+    "doc_36586.txt"
+  ]
+}

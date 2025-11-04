@@ -1,0 +1,10 @@
+{
+  "query": "Given that the final price at which pharmaceutical products are sold to patients is stable and fixed regardless of provenance (regular marketing by the pharmaceuticals company or parallel import), is the Commission considering setting up a system for returning part of the profit percentage (rebate) to the insurance funds from pharmaceutical preparations which circulate with parallel exports so that European citizens derive at least some financial benefit?",
+  "response": [
+    "doc_13573.txt",
+    "doc_14198.txt",
+    "doc_19848.txt",
+    "doc_33102.txt",
+    "doc_12340.txt"
+  ]
+}

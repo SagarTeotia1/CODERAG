@@ -1,0 +1,10 @@
+{
+  "query": "Where in Washington, D.C. are Judy Garland’s ruby slippers from *The Wizard of Oz* currently displayed?",
+  "response": [
+    "doc_20371.txt",
+    "doc_20373.txt",
+    "doc_20372.txt",
+    "doc_20374.txt",
+    "doc_20375.txt"
+  ]
+}

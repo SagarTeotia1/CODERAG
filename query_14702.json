@@ -1,0 +1,10 @@
+{
+  "query": "What was Fahd al-Jukhaidib found guilty of?",
+  "response": [
+    "doc_20967.txt",
+    "doc_25836.txt",
+    "doc_39708.txt",
+    "doc_3530.txt",
+    "doc_25834.txt"
+  ]
+}

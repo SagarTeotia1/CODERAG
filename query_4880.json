@@ -1,0 +1,10 @@
+{
+  "query": "What is the reported pricing discrepancy at Tokuda hospital in Sofia, Bulgaria?",
+  "response": [
+    "doc_18960.txt",
+    "doc_18964.txt",
+    "doc_23330.txt",
+    "doc_18965.txt",
+    "doc_24176.txt"
+  ]
+}

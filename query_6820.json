@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how much bluefin tuna is traded annually in the European market?",
+  "response": [
+    "doc_7428.txt",
+    "doc_7427.txt",
+    "doc_28594.txt",
+    "doc_37452.txt",
+    "doc_17579.txt"
+  ]
+}

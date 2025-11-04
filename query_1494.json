@@ -1,0 +1,10 @@
+{
+  "query": "What state is home to the Great Falls of the Passaic River?",
+  "response": [
+    "doc_30924.txt",
+    "doc_30930.txt",
+    "doc_30922.txt",
+    "doc_30925.txt",
+    "doc_30928.txt"
+  ]
+}

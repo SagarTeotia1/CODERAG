@@ -1,0 +1,10 @@
+{
+  "query": "According to Eurostat, how does the youth unemployment rate compare to the overall unemployment rate in the EU?",
+  "response": [
+    "doc_30978.txt",
+    "doc_26836.txt",
+    "doc_38093.txt",
+    "doc_27919.txt",
+    "doc_27572.txt"
+  ]
+}

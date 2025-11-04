@@ -1,0 +1,10 @@
+{
+  "query": "What is the subject of Ms. Sudre’s report?",
+  "response": [
+    "doc_36471.txt",
+    "doc_8350.txt",
+    "doc_29753.txt",
+    "doc_30396.txt",
+    "doc_21891.txt"
+  ]
+}

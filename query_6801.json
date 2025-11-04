@@ -1,0 +1,10 @@
+{
+  "query": "What was Justice Holmes’s age when he retired from the Supreme Court?",
+  "response": [
+    "doc_17880.txt",
+    "doc_17873.txt",
+    "doc_17875.txt",
+    "doc_17874.txt",
+    "doc_17879.txt"
+  ]
+}

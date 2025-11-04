@@ -1,0 +1,10 @@
+{
+  "query": "What action did the EU take regarding anti-dumping taxes on footwear imports from China and Vietnam?",
+  "response": [
+    "doc_29903.txt",
+    "doc_36373.txt",
+    "doc_2160.txt",
+    "doc_15011.txt",
+    "doc_8161.txt"
+  ]
+}

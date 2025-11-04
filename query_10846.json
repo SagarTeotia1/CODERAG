@@ -1,0 +1,10 @@
+{
+  "query": "What documents were used to evaluate Mr. Lucas Papademos’s candidacy for Vice-President of the European Central Bank?",
+  "response": [
+    "doc_17208.txt",
+    "doc_17207.txt",
+    "doc_17219.txt",
+    "doc_17211.txt",
+    "doc_8939.txt"
+  ]
+}

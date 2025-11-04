@@ -1,0 +1,10 @@
+{
+  "query": "In what year was “Xenosaga Episode I: Der Wille zur Macht” released in Japan?",
+  "response": [
+    "doc_2179.txt",
+    "doc_6599.txt",
+    "doc_23249.txt",
+    "doc_16755.txt",
+    "doc_6597.txt"
+  ]
+}

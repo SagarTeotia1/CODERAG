@@ -1,0 +1,10 @@
+{
+  "query": "When was Florida A&M University founded?",
+  "response": [
+    "doc_30585.txt",
+    "doc_38479.txt",
+    "doc_22372.txt",
+    "doc_21820.txt",
+    "doc_12587.txt"
+  ]
+}

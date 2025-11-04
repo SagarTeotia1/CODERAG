@@ -1,0 +1,10 @@
+{
+  "query": "On which Nintendo consoles was NFL Quarterback Club 2000 released?",
+  "response": [
+    "doc_26516.txt",
+    "doc_7315.txt",
+    "doc_5827.txt",
+    "doc_7313.txt",
+    "doc_7314.txt"
+  ]
+}

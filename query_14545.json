@@ -1,0 +1,10 @@
+{
+  "query": "Where does Peterson currently live?",
+  "response": [
+    "doc_26495.txt",
+    "doc_26496.txt",
+    "doc_3391.txt",
+    "doc_3397.txt",
+    "doc_3392.txt"
+  ]
+}

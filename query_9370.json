@@ -1,0 +1,10 @@
+{
+  "query": "Besides Batumi, what other important cities are located along the Black Sea coast?",
+  "response": [
+    "doc_13713.txt",
+    "doc_13714.txt",
+    "doc_13715.txt",
+    "doc_4770.txt",
+    "doc_25293.txt"
+  ]
+}

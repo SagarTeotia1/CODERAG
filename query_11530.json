@@ -1,0 +1,10 @@
+{
+  "query": "When did Jomo Kenyatta become Prime Minister of Kenya?",
+  "response": [
+    "doc_18972.txt",
+    "doc_18971.txt",
+    "doc_18973.txt",
+    "doc_18975.txt",
+    "doc_18974.txt"
+  ]
+}

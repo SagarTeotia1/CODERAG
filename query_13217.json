@@ -1,0 +1,10 @@
+{
+  "query": "Which Swedish astronaut took two copies of “Breathing Your Love” into space, and why?",
+  "response": [
+    "doc_12406.txt",
+    "doc_33756.txt",
+    "doc_37162.txt",
+    "doc_31622.txt",
+    "doc_12404.txt"
+  ]
+}

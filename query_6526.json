@@ -1,0 +1,10 @@
+{
+  "query": "What is the primary cause of the accumulation of decommissioned fishing boats in European ports?",
+  "response": [
+    "doc_6692.txt",
+    "doc_28450.txt",
+    "doc_11331.txt",
+    "doc_28549.txt",
+    "doc_11931.txt"
+  ]
+}

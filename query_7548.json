@@ -1,0 +1,10 @@
+{
+  "query": "When was Series Six of *The Apprentice (UK)* broadcast?",
+  "response": [
+    "doc_38353.txt",
+    "doc_4898.txt",
+    "doc_39263.txt",
+    "doc_4893.txt",
+    "doc_38360.txt"
+  ]
+}

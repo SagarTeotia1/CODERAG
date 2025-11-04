@@ -1,0 +1,10 @@
+{
+  "query": "Who performed the inauguration ceremony for newly elected Mayor Danny Burgess?",
+  "response": [
+    "doc_38857.txt",
+    "doc_19378.txt",
+    "doc_2998.txt",
+    "doc_19388.txt",
+    "doc_27304.txt"
+  ]
+}

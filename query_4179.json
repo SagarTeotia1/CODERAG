@@ -1,0 +1,10 @@
+{
+  "query": "What did Carrasco’s father do?",
+  "response": [
+    "doc_27607.txt",
+    "doc_27602.txt",
+    "doc_8653.txt",
+    "doc_27603.txt",
+    "doc_27609.txt"
+  ]
+}

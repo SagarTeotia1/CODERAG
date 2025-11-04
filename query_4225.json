@@ -1,0 +1,10 @@
+{
+  "query": "What changes were made to the glasses in Tintin stories to make them look less like wine glasses?",
+  "response": [
+    "doc_3740.txt",
+    "doc_3746.txt",
+    "doc_39639.txt",
+    "doc_3744.txt",
+    "doc_3743.txt"
+  ]
+}

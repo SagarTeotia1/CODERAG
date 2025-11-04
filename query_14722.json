@@ -1,0 +1,10 @@
+{
+  "query": "Where is Las Vegas Bay located, and what is a notable consequence of low water levels there?",
+  "response": [
+    "doc_36780.txt",
+    "doc_26855.txt",
+    "doc_2136.txt",
+    "doc_5922.txt",
+    "doc_2139.txt"
+  ]
+}

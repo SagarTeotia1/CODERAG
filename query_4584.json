@@ -1,0 +1,10 @@
+{
+  "query": "What is the primary process used to reduce iron ore using natural gas, as described in the MIDREX Processes document?",
+  "response": [
+    "doc_38372.txt",
+    "doc_38371.txt",
+    "doc_38373.txt",
+    "doc_38366.txt",
+    "doc_18005.txt"
+  ]
+}

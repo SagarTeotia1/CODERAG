@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided text, who narrates the first section of *The Sound and the Fury*?",
+  "response": [
+    "doc_5893.txt",
+    "doc_5892.txt",
+    "doc_5890.txt",
+    "doc_10061.txt",
+    "doc_5887.txt"
+  ]
+}

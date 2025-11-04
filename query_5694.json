@@ -1,0 +1,10 @@
+{
+  "query": "Which European country has decided to dismantle reactors, and how many are they planning to decommission?",
+  "response": [
+    "doc_28283.txt",
+    "doc_4572.txt",
+    "doc_14640.txt",
+    "doc_39455.txt",
+    "doc_28044.txt"
+  ]
+}

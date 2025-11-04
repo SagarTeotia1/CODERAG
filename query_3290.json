@@ -1,0 +1,10 @@
+{
+  "query": "Which sport is honored at the hall of fame in Colorado Springs?",
+  "response": [
+    "doc_35255.txt",
+    "doc_35247.txt",
+    "doc_35248.txt",
+    "doc_35246.txt",
+    "doc_35250.txt"
+  ]
+}

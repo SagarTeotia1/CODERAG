@@ -1,0 +1,10 @@
+{
+  "query": "What are the proposed changes to the European Parliament’s electoral system outlined in the draft report?",
+  "response": [
+    "doc_16921.txt",
+    "doc_12003.txt",
+    "doc_16874.txt",
+    "doc_12004.txt",
+    "doc_12008.txt"
+  ]
+}

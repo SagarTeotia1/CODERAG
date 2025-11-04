@@ -1,0 +1,10 @@
+{
+  "query": "What role did Dan Rather hold at CBS News from 1981 until 1988?",
+  "response": [
+    "doc_7933.txt",
+    "doc_19913.txt",
+    "doc_19914.txt",
+    "doc_19917.txt",
+    "doc_7932.txt"
+  ]
+}

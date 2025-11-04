@@ -1,0 +1,10 @@
+{
+  "query": "What is the Indonesian name of the basketball league?",
+  "response": [
+    "doc_9092.txt",
+    "doc_9091.txt",
+    "doc_19247.txt",
+    "doc_39490.txt",
+    "doc_8525.txt"
+  ]
+}

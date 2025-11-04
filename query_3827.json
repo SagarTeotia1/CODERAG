@@ -1,0 +1,10 @@
+{
+  "query": "In what region of France did the Battle of Canal du Nord take place?",
+  "response": [
+    "doc_12787.txt",
+    "doc_12637.txt",
+    "doc_12640.txt",
+    "doc_9675.txt",
+    "doc_12785.txt"
+  ]
+}

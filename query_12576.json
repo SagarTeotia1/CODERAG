@@ -1,0 +1,10 @@
+{
+  "query": "Where did the Bront sisters live?",
+  "response": [
+    "doc_161.txt",
+    "doc_163.txt",
+    "doc_162.txt",
+    "doc_164.txt",
+    "doc_165.txt"
+  ]
+}

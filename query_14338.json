@@ -1,0 +1,10 @@
+{
+  "query": "For whom did Betty Everett write songs?",
+  "response": [
+    "doc_19645.txt",
+    "doc_27.txt",
+    "doc_31.txt",
+    "doc_30.txt",
+    "doc_28.txt"
+  ]
+}

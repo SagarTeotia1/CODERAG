@@ -1,0 +1,10 @@
+{
+  "query": "Where was Mark Twain born?",
+  "response": [
+    "doc_11042.txt",
+    "doc_11045.txt",
+    "doc_11044.txt",
+    "doc_11041.txt",
+    "doc_11043.txt"
+  ]
+}

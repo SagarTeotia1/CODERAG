@@ -1,0 +1,10 @@
+{
+  "query": "How did Mr. Brok address the initial accusation of tax evasion, as described in the passage?",
+  "response": [
+    "doc_37729.txt",
+    "doc_37733.txt",
+    "doc_37732.txt",
+    "doc_37730.txt",
+    "doc_24840.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which breeds contributed to the development of the Moscow Water Dog?",
+  "response": [
+    "doc_25426.txt",
+    "doc_7166.txt",
+    "doc_25424.txt",
+    "doc_25420.txt",
+    "doc_25425.txt"
+  ]
+}

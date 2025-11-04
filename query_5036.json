@@ -1,0 +1,10 @@
+{
+  "query": "Which series of “Made in Chelsea” featured a “The Aftermath” special hosted by Rick Edwards?",
+  "response": [
+    "doc_3924.txt",
+    "doc_3923.txt",
+    "doc_34066.txt",
+    "doc_9199.txt",
+    "doc_39264.txt"
+  ]
+}

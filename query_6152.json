@@ -1,0 +1,10 @@
+{
+  "query": "What position does David Silva primarily play?",
+  "response": [
+    "doc_5722.txt",
+    "doc_26136.txt",
+    "doc_23918.txt",
+    "doc_38604.txt",
+    "doc_38605.txt"
+  ]
+}

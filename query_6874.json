@@ -1,0 +1,10 @@
+{
+  "query": "What was President Lopez Mateos’s stance on tequila?",
+  "response": [
+    "doc_7539.txt",
+    "doc_14853.txt",
+    "doc_14851.txt",
+    "doc_14852.txt",
+    "doc_27602.txt"
+  ]
+}

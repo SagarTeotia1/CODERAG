@@ -1,0 +1,10 @@
+{
+  "query": "How many people travelled between Vaasa and Umeå annually before the end of tax-free sales, and what was the figure in 2007?",
+  "response": [
+    "doc_26351.txt",
+    "doc_23631.txt",
+    "doc_26347.txt",
+    "doc_23634.txt",
+    "doc_26350.txt"
+  ]
+}

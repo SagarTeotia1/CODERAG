@@ -1,0 +1,10 @@
+{
+  "query": "What position did Billy Williams play in both rugby union and rugby league, as described in the passage?",
+  "response": [
+    "doc_32300.txt",
+    "doc_32304.txt",
+    "doc_32303.txt",
+    "doc_32299.txt",
+    "doc_32302.txt"
+  ]
+}

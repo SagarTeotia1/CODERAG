@@ -1,0 +1,10 @@
+{
+  "query": "What is the highest e-cigarette tax rate in Vermont?",
+  "response": [
+    "doc_38447.txt",
+    "doc_38448.txt",
+    "doc_38449.txt",
+    "doc_38450.txt",
+    "doc_32584.txt"
+  ]
+}

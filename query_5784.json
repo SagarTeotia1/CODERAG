@@ -1,0 +1,10 @@
+{
+  "query": "What is one of the ways the Delhi Police provides assistance to citizens, as described in the police charter?",
+  "response": [
+    "doc_15869.txt",
+    "doc_35542.txt",
+    "doc_34341.txt",
+    "doc_26804.txt",
+    "doc_2613.txt"
+  ]
+}

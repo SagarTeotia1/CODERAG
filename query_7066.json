@@ -1,0 +1,10 @@
+{
+  "query": "Is the Commission aware of any allegations regarding poor treatment of animals in the Alhama region of Spain?",
+  "response": [
+    "doc_769.txt",
+    "doc_751.txt",
+    "doc_36870.txt",
+    "doc_19249.txt",
+    "doc_9039.txt"
+  ]
+}

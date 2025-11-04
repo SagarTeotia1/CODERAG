@@ -1,0 +1,10 @@
+{
+  "query": "When did John F. Kennedy formally announce his candidacy for president?",
+  "response": [
+    "doc_34630.txt",
+    "doc_34635.txt",
+    "doc_34631.txt",
+    "doc_34633.txt",
+    "doc_34640.txt"
+  ]
+}

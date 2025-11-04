@@ -1,0 +1,10 @@
+{
+  "query": "According to the European Community customs code, where are goods deemed to originate when they’ve undergone processing in a third country?",
+  "response": [
+    "doc_13271.txt",
+    "doc_33423.txt",
+    "doc_35914.txt",
+    "doc_40257.txt",
+    "doc_38200.txt"
+  ]
+}

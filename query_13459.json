@@ -1,0 +1,10 @@
+{
+  "query": "Which committee is discussing the legal aspects of the Proposed Directive on the Protection of the Environment through Criminal Law?",
+  "response": [
+    "doc_2660.txt",
+    "doc_5766.txt",
+    "doc_2658.txt",
+    "doc_29366.txt",
+    "doc_3295.txt"
+  ]
+}

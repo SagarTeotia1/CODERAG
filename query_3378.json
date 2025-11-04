@@ -1,0 +1,10 @@
+{
+  "query": "What publication did Harold Schechter edit as part of the Library of America series?",
+  "response": [
+    "doc_11399.txt",
+    "doc_32579.txt",
+    "doc_22106.txt",
+    "doc_40223.txt",
+    "doc_17765.txt"
+  ]
+}

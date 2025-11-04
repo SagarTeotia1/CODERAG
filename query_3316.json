@@ -1,0 +1,10 @@
+{
+  "query": "When was the Commission’s decision regarding the potential state aid to the coal mine methane industry published?",
+  "response": [
+    "doc_35339.txt",
+    "doc_643.txt",
+    "doc_21508.txt",
+    "doc_21509.txt",
+    "doc_35415.txt"
+  ]
+}

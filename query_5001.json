@@ -1,0 +1,10 @@
+{
+  "query": "What decade did \"The Rise of the Krays\" depict the Kray twins’ activities?",
+  "response": [
+    "doc_34721.txt",
+    "doc_27861.txt",
+    "doc_27862.txt",
+    "doc_3385.txt",
+    "doc_27863.txt"
+  ]
+}

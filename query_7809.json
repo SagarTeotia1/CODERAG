@@ -1,0 +1,10 @@
+{
+  "query": "Which state park is accessible via the Palm Springs Aerial Tramway, and what type of terrain does it encompass?",
+  "response": [
+    "doc_9860.txt",
+    "doc_9851.txt",
+    "doc_9859.txt",
+    "doc_9853.txt",
+    "doc_9852.txt"
+  ]
+}

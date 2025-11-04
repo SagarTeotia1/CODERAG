@@ -1,0 +1,10 @@
+{
+  "query": "What was John Barleycorn wrongly convicted of?",
+  "response": [
+    "doc_12158.txt",
+    "doc_18900.txt",
+    "doc_12155.txt",
+    "doc_12160.txt",
+    "doc_18901.txt"
+  ]
+}

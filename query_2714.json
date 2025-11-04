@@ -1,0 +1,10 @@
+{
+  "query": "Between what years did Maersk Commuter operate?",
+  "response": [
+    "doc_10134.txt",
+    "doc_17343.txt",
+    "doc_20048.txt",
+    "doc_20219.txt",
+    "doc_20049.txt"
+  ]
+}

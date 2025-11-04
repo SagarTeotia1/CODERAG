@@ -1,0 +1,10 @@
+{
+  "query": "What year were Julius and Ethel Rosenberg sentenced to death?",
+  "response": [
+    "doc_30416.txt",
+    "doc_30431.txt",
+    "doc_15389.txt",
+    "doc_15390.txt",
+    "doc_36180.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Where is Tivoli Gardens located, and what is it known as?",
+  "response": [
+    "doc_13549.txt",
+    "doc_24774.txt",
+    "doc_16361.txt",
+    "doc_23281.txt",
+    "doc_16358.txt"
+  ]
+}

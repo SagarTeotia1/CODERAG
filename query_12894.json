@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided text, what were the top 10 boys' names in 2000, as listed by the Social Security Administration, and what characteristic did the two names at the end of the list share?",
+  "response": [
+    "doc_22470.txt",
+    "doc_22472.txt",
+    "doc_22474.txt",
+    "doc_22471.txt",
+    "doc_16103.txt"
+  ]
+}

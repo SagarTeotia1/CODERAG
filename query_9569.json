@@ -1,0 +1,10 @@
+{
+  "query": "With what type of music did Grace Kelly achieve success early in her career, as evidenced by the movie *Romance on the High Seas*?",
+  "response": [
+    "doc_14146.txt",
+    "doc_14145.txt",
+    "doc_14144.txt",
+    "doc_14143.txt",
+    "doc_34945.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which countries does the Commission allow to be tax havens within the EU?",
+  "response": [
+    "doc_18598.txt",
+    "doc_37777.txt",
+    "doc_26809.txt",
+    "doc_39132.txt",
+    "doc_31625.txt"
+  ]
+}

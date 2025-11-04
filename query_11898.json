@@ -1,0 +1,10 @@
+{
+  "query": "Where was Earl Hamner Jr.’s boyhood home located?",
+  "response": [
+    "doc_20013.txt",
+    "doc_20014.txt",
+    "doc_20012.txt",
+    "doc_33567.txt",
+    "doc_21513.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Is the Commission aware of the recent WHO findings regarding the potential link between mobile phone use and brain cancer risk?",
+  "response": [
+    "doc_3124.txt",
+    "doc_12122.txt",
+    "doc_39014.txt",
+    "doc_30521.txt",
+    "doc_39176.txt"
+  ]
+}

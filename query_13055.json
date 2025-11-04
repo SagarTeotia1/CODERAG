@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, how many Academy Awards were given to Polish filmmakers or their work as of the 80th Academy Awards ceremony?",
+  "response": [
+    "doc_2200.txt",
+    "doc_28416.txt",
+    "doc_28417.txt",
+    "doc_17862.txt",
+    "doc_9649.txt"
+  ]
+}

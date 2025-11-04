@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Scenic Blast win the Australian Horse Of The Year award?",
+  "response": [
+    "doc_34751.txt",
+    "doc_34748.txt",
+    "doc_34749.txt",
+    "doc_34752.txt",
+    "doc_18086.txt"
+  ]
+}

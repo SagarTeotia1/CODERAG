@@ -1,0 +1,10 @@
+{
+  "query": "What types of stores are located at Woodbridge Center?",
+  "response": [
+    "doc_38890.txt",
+    "doc_36557.txt",
+    "doc_36556.txt",
+    "doc_15355.txt",
+    "doc_27844.txt"
+  ]
+}

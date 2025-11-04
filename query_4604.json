@@ -1,0 +1,10 @@
+{
+  "query": "In what state is Mount Whitney located?",
+  "response": [
+    "doc_38461.txt",
+    "doc_38459.txt",
+    "doc_38460.txt",
+    "doc_1399.txt",
+    "doc_11165.txt"
+  ]
+}

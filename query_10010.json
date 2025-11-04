@@ -1,0 +1,10 @@
+{
+  "query": "What is Randy Roth currently serving a sentence for?",
+  "response": [
+    "doc_1478.txt",
+    "doc_30801.txt",
+    "doc_15393.txt",
+    "doc_70.txt",
+    "doc_30798.txt"
+  ]
+}

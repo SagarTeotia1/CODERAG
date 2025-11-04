@@ -1,0 +1,10 @@
+{
+  "query": "What specific human rights issues is the EU monitoring in Saudi Arabia?",
+  "response": [
+    "doc_1954.txt",
+    "doc_2174.txt",
+    "doc_11782.txt",
+    "doc_8502.txt",
+    "doc_5790.txt"
+  ]
+}

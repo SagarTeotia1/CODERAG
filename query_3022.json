@@ -1,0 +1,10 @@
+{
+  "query": "Which mountain is the highest in the Waputik Mountains?",
+  "response": [
+    "doc_14328.txt",
+    "doc_30909.txt",
+    "doc_30911.txt",
+    "doc_14323.txt",
+    "doc_14327.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was the initial investment plan for the marina project in Greece (public and private contributions)?",
+  "response": [
+    "doc_16045.txt",
+    "doc_2293.txt",
+    "doc_5425.txt",
+    "doc_15811.txt",
+    "doc_15025.txt"
+  ]
+}

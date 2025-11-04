@@ -1,0 +1,10 @@
+{
+  "query": "Who is Vincent Tsui?",
+  "response": [
+    "doc_15372.txt",
+    "doc_5061.txt",
+    "doc_30918.txt",
+    "doc_30914.txt",
+    "doc_16882.txt"
+  ]
+}

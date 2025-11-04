@@ -1,0 +1,10 @@
+{
+  "query": "Did the underground section of line 2 of the tramway in Alicante receive public financial support?",
+  "response": [
+    "doc_20770.txt",
+    "doc_52.txt",
+    "doc_19615.txt",
+    "doc_38075.txt",
+    "doc_36962.txt"
+  ]
+}

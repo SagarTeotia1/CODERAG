@@ -1,0 +1,10 @@
+{
+  "query": "What musical piece inspired the title of Ariel Dorfman’s play, *Death and the Maiden*?",
+  "response": [
+    "doc_19442.txt",
+    "doc_19444.txt",
+    "doc_19452.txt",
+    "doc_19443.txt",
+    "doc_19453.txt"
+  ]
+}

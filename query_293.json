@@ -1,0 +1,10 @@
+{
+  "query": "What type of art is Jessica Rankin best known for creating?",
+  "response": [
+    "doc_7174.txt",
+    "doc_38967.txt",
+    "doc_28090.txt",
+    "doc_28088.txt",
+    "doc_26199.txt"
+  ]
+}

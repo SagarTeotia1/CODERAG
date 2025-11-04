@@ -1,0 +1,10 @@
+{
+  "query": "How many years did Carl Yastrzemski play in Major League Baseball?",
+  "response": [
+    "doc_620.txt",
+    "doc_39728.txt",
+    "doc_39725.txt",
+    "doc_39723.txt",
+    "doc_5518.txt"
+  ]
+}

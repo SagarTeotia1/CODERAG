@@ -1,0 +1,10 @@
+{
+  "query": "Who served as the chairperson of the International Alliance of Research Universities from 2006-2009?",
+  "response": [
+    "doc_38629.txt",
+    "doc_30338.txt",
+    "doc_10904.txt",
+    "doc_14631.txt",
+    "doc_11875.txt"
+  ]
+}

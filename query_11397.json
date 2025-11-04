@@ -1,0 +1,10 @@
+{
+  "query": "What was Tom Fleming's personal best time in the Boston Marathon?",
+  "response": [
+    "doc_35928.txt",
+    "doc_31480.txt",
+    "doc_11352.txt",
+    "doc_14706.txt",
+    "doc_31481.txt"
+  ]
+}

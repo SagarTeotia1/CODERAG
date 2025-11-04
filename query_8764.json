@@ -1,0 +1,10 @@
+{
+  "query": "Approximately what percentage of EU residents are currently subject to light pollution, according to the passage?",
+  "response": [
+    "doc_12228.txt",
+    "doc_12722.txt",
+    "doc_8558.txt",
+    "doc_1663.txt",
+    "doc_15395.txt"
+  ]
+}

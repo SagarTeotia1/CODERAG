@@ -1,0 +1,10 @@
+{
+  "query": "What actions is the European Parliament urging the Commission to take regarding media pluralism?",
+  "response": [
+    "doc_2349.txt",
+    "doc_22728.txt",
+    "doc_10115.txt",
+    "doc_10114.txt",
+    "doc_10113.txt"
+  ]
+}

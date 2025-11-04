@@ -1,0 +1,10 @@
+{
+  "query": "Which film is considered François Truffaut's \"first real film,\" and who made their film debut in it?",
+  "response": [
+    "doc_6601.txt",
+    "doc_23956.txt",
+    "doc_23958.txt",
+    "doc_23957.txt",
+    "doc_6170.txt"
+  ]
+}

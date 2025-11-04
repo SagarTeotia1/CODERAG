@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, were planes connected to the US Central Intelligence Agency mentioned in relation to alleged illegal detention of prisoners?",
+  "response": [
+    "doc_21494.txt",
+    "doc_5904.txt",
+    "doc_5906.txt",
+    "doc_5910.txt",
+    "doc_5905.txt"
+  ]
+}

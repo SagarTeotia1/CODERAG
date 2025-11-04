@@ -1,0 +1,10 @@
+{
+  "query": "According to the draft opinion, which two headings in the PDB for 2007 are partly inspired by the Lisbon strategy?",
+  "response": [
+    "doc_15543.txt",
+    "doc_15482.txt",
+    "doc_15505.txt",
+    "doc_15453.txt",
+    "doc_15479.txt"
+  ]
+}

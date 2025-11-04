@@ -1,0 +1,10 @@
+{
+  "query": "What type of aircraft was Korean Air Cargo Flight 6316?",
+  "response": [
+    "doc_23128.txt",
+    "doc_23127.txt",
+    "doc_35892.txt",
+    "doc_35881.txt",
+    "doc_10015.txt"
+  ]
+}

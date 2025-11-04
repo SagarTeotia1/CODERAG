@@ -1,0 +1,10 @@
+{
+  "query": "What date is the final hearing of the retrial concerning the violence in El Kosheh scheduled for?",
+  "response": [
+    "doc_416.txt",
+    "doc_3530.txt",
+    "doc_32443.txt",
+    "doc_36674.txt",
+    "doc_9275.txt"
+  ]
+}

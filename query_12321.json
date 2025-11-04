@@ -1,0 +1,10 @@
+{
+  "query": "Besides game design, what other profession did Eugene Jarvis hold?",
+  "response": [
+    "doc_28245.txt",
+    "doc_3734.txt",
+    "doc_31502.txt",
+    "doc_28242.txt",
+    "doc_17407.txt"
+  ]
+}

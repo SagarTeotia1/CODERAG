@@ -1,0 +1,10 @@
+{
+  "query": "What session of the International Civil Aviation Organisation (ICAO) Assembly is this European Parliament resolution concerning?",
+  "response": [
+    "doc_21969.txt",
+    "doc_19957.txt",
+    "doc_27714.txt",
+    "doc_19956.txt",
+    "doc_18097.txt"
+  ]
+}

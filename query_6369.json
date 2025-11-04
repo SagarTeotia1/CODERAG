@@ -1,0 +1,10 @@
+{
+  "query": "What is the final date for completing EU-funded farm buildings to qualify for a grant?",
+  "response": [
+    "doc_6210.txt",
+    "doc_4502.txt",
+    "doc_8386.txt",
+    "doc_27690.txt",
+    "doc_15133.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Ted Williams hit .406?",
+  "response": [
+    "doc_17382.txt",
+    "doc_17384.txt",
+    "doc_17386.txt",
+    "doc_17380.txt",
+    "doc_17381.txt"
+  ]
+}

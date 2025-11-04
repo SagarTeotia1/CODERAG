@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of pupils in the EU leave school right after the completion of compulsory education, according to the EU Commissioner?",
+  "response": [
+    "doc_33751.txt",
+    "doc_35167.txt",
+    "doc_31038.txt",
+    "doc_38083.txt",
+    "doc_30979.txt"
+  ]
+}

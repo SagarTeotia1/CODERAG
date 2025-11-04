@@ -1,0 +1,10 @@
+{
+  "query": "How many workshops does Toll Collect have for OBU installation in Germany?",
+  "response": [
+    "doc_37646.txt",
+    "doc_10137.txt",
+    "doc_28124.txt",
+    "doc_16285.txt",
+    "doc_34187.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When did Henry Steinway begin manufacturing his instrument?",
+  "response": [
+    "doc_17015.txt",
+    "doc_17017.txt",
+    "doc_17016.txt",
+    "doc_7689.txt",
+    "doc_15747.txt"
+  ]
+}

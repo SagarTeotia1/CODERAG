@@ -1,0 +1,10 @@
+{
+  "query": "What was Margaret Sanger’s profession?",
+  "response": [
+    "doc_16514.txt",
+    "doc_16511.txt",
+    "doc_5173.txt",
+    "doc_16513.txt",
+    "doc_18235.txt"
+  ]
+}

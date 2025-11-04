@@ -1,0 +1,10 @@
+{
+  "query": "When was “Us Weekly” founded, and by whom?",
+  "response": [
+    "doc_38378.txt",
+    "doc_38384.txt",
+    "doc_38380.txt",
+    "doc_38383.txt",
+    "doc_15036.txt"
+  ]
+}

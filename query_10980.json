@@ -1,0 +1,10 @@
+{
+  "query": "What environment was necessary to better understand the ballcourt at Snaketown?",
+  "response": [
+    "doc_563.txt",
+    "doc_17672.txt",
+    "doc_30129.txt",
+    "doc_27303.txt",
+    "doc_39492.txt"
+  ]
+}

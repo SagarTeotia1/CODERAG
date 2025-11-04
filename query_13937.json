@@ -1,0 +1,10 @@
+{
+  "query": "In 1957, what company did Sarah Caldwell found?",
+  "response": [
+    "doc_24904.txt",
+    "doc_24902.txt",
+    "doc_24903.txt",
+    "doc_24901.txt",
+    "doc_24906.txt"
+  ]
+}

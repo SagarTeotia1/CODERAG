@@ -1,0 +1,10 @@
+{
+  "query": "What countries are planned as stopping points for the air cruise celebrating the Wright Brothers’ first flight?",
+  "response": [
+    "doc_13279.txt",
+    "doc_24073.txt",
+    "doc_29426.txt",
+    "doc_38679.txt",
+    "doc_29428.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "How many members comprised the faculty of the U.S. Naval Academy?",
+  "response": [
+    "doc_12592.txt",
+    "doc_12587.txt",
+    "doc_12589.txt",
+    "doc_12590.txt",
+    "doc_12588.txt"
+  ]
+}

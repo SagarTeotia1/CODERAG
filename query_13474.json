@@ -1,0 +1,10 @@
+{
+  "query": "Where were the three Daewoo factories located?",
+  "response": [
+    "doc_20654.txt",
+    "doc_31257.txt",
+    "doc_36680.txt",
+    "doc_36684.txt",
+    "doc_20660.txt"
+  ]
+}

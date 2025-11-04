@@ -1,0 +1,10 @@
+{
+  "query": "What hospitals are listed in Arkansas?",
+  "response": [
+    "doc_17587.txt",
+    "doc_17586.txt",
+    "doc_18956.txt",
+    "doc_18957.txt",
+    "doc_18958.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What UNESCO resolution is described as a crucial initiative for developing a more inclusive information society?",
+  "response": [
+    "doc_2562.txt",
+    "doc_2558.txt",
+    "doc_1878.txt",
+    "doc_33586.txt",
+    "doc_23805.txt"
+  ]
+}

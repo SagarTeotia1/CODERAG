@@ -1,0 +1,10 @@
+{
+  "query": "What cities are mentioned in the passage as being located at Kerch, Feodosiya, Alushta, and Yalta?",
+  "response": [
+    "doc_31293.txt",
+    "doc_31295.txt",
+    "doc_31294.txt",
+    "doc_31296.txt",
+    "doc_31297.txt"
+  ]
+}

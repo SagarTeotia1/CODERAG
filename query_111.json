@@ -1,0 +1,10 @@
+{
+  "query": "What are the three main causes of fatal accidents according to Mr. Kallas’s statement?",
+  "response": [
+    "doc_27583.txt",
+    "doc_11280.txt",
+    "doc_11284.txt",
+    "doc_4799.txt",
+    "doc_11279.txt"
+  ]
+}

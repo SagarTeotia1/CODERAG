@@ -1,0 +1,10 @@
+{
+  "query": "Where is Abe’s BBQ located, according to the passage?",
+  "response": [
+    "doc_26207.txt",
+    "doc_26211.txt",
+    "doc_29730.txt",
+    "doc_38186.txt",
+    "doc_33396.txt"
+  ]
+}

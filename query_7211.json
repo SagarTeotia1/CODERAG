@@ -1,0 +1,10 @@
+{
+  "query": "What type of music did Will Bradley initially play?",
+  "response": [
+    "doc_3119.txt",
+    "doc_27296.txt",
+    "doc_33022.txt",
+    "doc_14955.txt",
+    "doc_19882.txt"
+  ]
+}

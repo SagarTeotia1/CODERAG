@@ -1,0 +1,10 @@
+{
+  "query": "Where did Martha Stewart receive her degree?",
+  "response": [
+    "doc_30362.txt",
+    "doc_1287.txt",
+    "doc_30366.txt",
+    "doc_1284.txt",
+    "doc_30363.txt"
+  ]
+}

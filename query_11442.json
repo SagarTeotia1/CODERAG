@@ -1,0 +1,10 @@
+{
+  "query": "Which film features Antwan Andre Patton, also known as Big Boi?",
+  "response": [
+    "doc_18699.txt",
+    "doc_18701.txt",
+    "doc_18700.txt",
+    "doc_4405.txt",
+    "doc_13190.txt"
+  ]
+}

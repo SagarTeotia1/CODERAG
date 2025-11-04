@@ -1,0 +1,10 @@
+{
+  "query": "What is the primary concert venue for the Gürzenich Orchestra Cologne?",
+  "response": [
+    "doc_3108.txt",
+    "doc_3110.txt",
+    "doc_3109.txt",
+    "doc_215.txt",
+    "doc_3111.txt"
+  ]
+}

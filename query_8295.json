@@ -1,0 +1,10 @@
+{
+  "query": "In what city and state did the 2009 NECC–ITF Women's Tennis Championships take place?",
+  "response": [
+    "doc_11105.txt",
+    "doc_38943.txt",
+    "doc_38937.txt",
+    "doc_38944.txt",
+    "doc_38939.txt"
+  ]
+}

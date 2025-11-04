@@ -1,0 +1,10 @@
+{
+  "query": "What criteria does CITES use to list a species in Appendix I?",
+  "response": [
+    "doc_24183.txt",
+    "doc_24182.txt",
+    "doc_24186.txt",
+    "doc_24187.txt",
+    "doc_24185.txt"
+  ]
+}

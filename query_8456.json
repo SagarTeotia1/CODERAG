@@ -1,0 +1,10 @@
+{
+  "query": "How many wolves were reported to be living in the Finnish reindeer herding area in August 2011?",
+  "response": [
+    "doc_11487.txt",
+    "doc_15013.txt",
+    "doc_5554.txt",
+    "doc_5559.txt",
+    "doc_5557.txt"
+  ]
+}

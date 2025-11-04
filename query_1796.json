@@ -1,0 +1,10 @@
+{
+  "query": "What sectors, according to the passage, experience restrictions on European companies’ access to public contracts in third countries?",
+  "response": [
+    "doc_31671.txt",
+    "doc_31282.txt",
+    "doc_13612.txt",
+    "doc_31281.txt",
+    "doc_754.txt"
+  ]
+}

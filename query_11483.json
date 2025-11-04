@@ -1,0 +1,10 @@
+{
+  "query": "What specific types of costs is the Commission covering related to the conference?",
+  "response": [
+    "doc_38029.txt",
+    "doc_7883.txt",
+    "doc_21435.txt",
+    "doc_15536.txt",
+    "doc_14835.txt"
+  ]
+}

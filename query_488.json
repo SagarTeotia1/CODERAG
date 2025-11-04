@@ -1,0 +1,10 @@
+{
+  "query": "What teams did Edwards coach at Montclair State?",
+  "response": [
+    "doc_28401.txt",
+    "doc_28400.txt",
+    "doc_25631.txt",
+    "doc_17828.txt",
+    "doc_32808.txt"
+  ]
+}

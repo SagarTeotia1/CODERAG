@@ -1,0 +1,10 @@
+{
+  "query": "Where did Napoleon spend his final years, and what material was suspected to have contributed to his illness?",
+  "response": [
+    "doc_1397.txt",
+    "doc_1395.txt",
+    "doc_1396.txt",
+    "doc_1394.txt",
+    "doc_12637.txt"
+  ]
+}

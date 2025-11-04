@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided text, what is the Paleolithic Period primarily characterized by?",
+  "response": [
+    "doc_27100.txt",
+    "doc_27099.txt",
+    "doc_27104.txt",
+    "doc_27101.txt",
+    "doc_26819.txt"
+  ]
+}

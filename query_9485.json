@@ -1,0 +1,10 @@
+{
+  "query": "What was Hurricane Celia’s intensity when it reached its peak strength?",
+  "response": [
+    "doc_38762.txt",
+    "doc_17695.txt",
+    "doc_17694.txt",
+    "doc_13961.txt",
+    "doc_6334.txt"
+  ]
+}

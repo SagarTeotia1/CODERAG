@@ -1,0 +1,10 @@
+{
+  "query": "Which band did Heartcore Clothing sponsor?",
+  "response": [
+    "doc_28271.txt",
+    "doc_30589.txt",
+    "doc_30587.txt",
+    "doc_800.txt",
+    "doc_799.txt"
+  ]
+}

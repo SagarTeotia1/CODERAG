@@ -1,0 +1,10 @@
+{
+  "query": "In what city was the plenary session held regarding climate change and Erasmus Mundus?",
+  "response": [
+    "doc_34872.txt",
+    "doc_7806.txt",
+    "doc_13672.txt",
+    "doc_13671.txt",
+    "doc_13676.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Who composed at least two songs with L. Frank Baum?",
+  "response": [
+    "doc_398.txt",
+    "doc_399.txt",
+    "doc_8769.txt",
+    "doc_8770.txt",
+    "doc_8766.txt"
+  ]
+}

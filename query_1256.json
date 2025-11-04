@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of the US GDP is devoted to higher education, compared to Europe?",
+  "response": [
+    "doc_24118.txt",
+    "doc_22377.txt",
+    "doc_8284.txt",
+    "doc_22372.txt",
+    "doc_22371.txt"
+  ]
+}

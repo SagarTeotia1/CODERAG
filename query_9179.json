@@ -1,0 +1,10 @@
+{
+  "query": "How many gamebooks are in the Lone Wolf series?",
+  "response": [
+    "doc_10434.txt",
+    "doc_24917.txt",
+    "doc_10433.txt",
+    "doc_33571.txt",
+    "doc_10438.txt"
+  ]
+}

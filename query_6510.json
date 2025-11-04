@@ -1,0 +1,10 @@
+{
+  "query": "What specific action did the Human Rights Sub-Committee propose regarding Liu Xiaobo?",
+  "response": [
+    "doc_6664.txt",
+    "doc_9915.txt",
+    "doc_7816.txt",
+    "doc_30880.txt",
+    "doc_4979.txt"
+  ]
+}

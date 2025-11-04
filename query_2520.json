@@ -1,0 +1,10 @@
+{
+  "query": "During what time of year is the Serpentine lake typically open?",
+  "response": [
+    "doc_33541.txt",
+    "doc_33551.txt",
+    "doc_33545.txt",
+    "doc_33550.txt",
+    "doc_33542.txt"
+  ]
+}

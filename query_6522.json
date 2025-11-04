@@ -1,0 +1,10 @@
+{
+  "query": "Besides European dances, what dance traditions were brought to Cuba by black slaves?",
+  "response": [
+    "doc_629.txt",
+    "doc_4121.txt",
+    "doc_31403.txt",
+    "doc_4119.txt",
+    "doc_26558.txt"
+  ]
+}

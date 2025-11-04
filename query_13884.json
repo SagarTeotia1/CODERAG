@@ -1,0 +1,10 @@
+{
+  "query": "In what World Cricket League divisions did Kobayashi participate?",
+  "response": [
+    "doc_24789.txt",
+    "doc_24790.txt",
+    "doc_22164.txt",
+    "doc_37555.txt",
+    "doc_22165.txt"
+  ]
+}

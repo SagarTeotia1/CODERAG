@@ -1,0 +1,10 @@
+{
+  "query": "What sport did Allison Beckford compete in, and what was her personal best time in the 400 meters?",
+  "response": [
+    "doc_16067.txt",
+    "doc_31478.txt",
+    "doc_11078.txt",
+    "doc_16068.txt",
+    "doc_16066.txt"
+  ]
+}

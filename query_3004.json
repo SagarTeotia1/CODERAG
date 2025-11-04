@@ -1,0 +1,10 @@
+{
+  "query": "Who founded the European Organization for Nuclear Research (CERN)?",
+  "response": [
+    "doc_34658.txt",
+    "doc_16018.txt",
+    "doc_21691.txt",
+    "doc_17809.txt",
+    "doc_16010.txt"
+  ]
+}

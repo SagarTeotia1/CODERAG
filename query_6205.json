@@ -1,0 +1,10 @@
+{
+  "query": "According to Frontex, how many illegal immigrants were estimated to have crossed the border between Turkey and Greece during the first half of 2010?",
+  "response": [
+    "doc_5843.txt",
+    "doc_26937.txt",
+    "doc_362.txt",
+    "doc_1412.txt",
+    "doc_8112.txt"
+  ]
+}

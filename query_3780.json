@@ -1,0 +1,10 @@
+{
+  "query": "When was Shakey's Pizza founded?",
+  "response": [
+    "doc_335.txt",
+    "doc_3900.txt",
+    "doc_3899.txt",
+    "doc_31861.txt",
+    "doc_4936.txt"
+  ]
+}

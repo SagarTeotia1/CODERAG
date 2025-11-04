@@ -1,0 +1,10 @@
+{
+  "query": "Is the Commission aware of reports that the repression of human rights has increased in China for the Olympic Games?",
+  "response": [
+    "doc_32812.txt",
+    "doc_27849.txt",
+    "doc_37043.txt",
+    "doc_30880.txt",
+    "doc_9915.txt"
+  ]
+}

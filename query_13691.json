@@ -1,0 +1,10 @@
+{
+  "query": "According to the 2010 census, what was the population of Harbin’s built-up area?",
+  "response": [
+    "doc_24329.txt",
+    "doc_24330.txt",
+    "doc_5060.txt",
+    "doc_8743.txt",
+    "doc_5061.txt"
+  ]
+}

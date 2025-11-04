@@ -1,0 +1,10 @@
+{
+  "query": "What year was “From Keflavík, With Love” released, and by which record label?",
+  "response": [
+    "doc_27587.txt",
+    "doc_3587.txt",
+    "doc_38903.txt",
+    "doc_19764.txt",
+    "doc_12876.txt"
+  ]
+}

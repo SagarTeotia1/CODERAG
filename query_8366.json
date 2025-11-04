@@ -1,0 +1,10 @@
+{
+  "query": "In what municipality and district of Portugal is the Sakihi — Portugal factory located?",
+  "response": [
+    "doc_18813.txt",
+    "doc_18816.txt",
+    "doc_18811.txt",
+    "doc_18814.txt",
+    "doc_18812.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What types of Magic: The Gathering events does Knight Ware host?",
+  "response": [
+    "doc_18453.txt",
+    "doc_22243.txt",
+    "doc_18451.txt",
+    "doc_34113.txt",
+    "doc_18452.txt"
+  ]
+}

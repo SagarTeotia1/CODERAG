@@ -1,0 +1,10 @@
+{
+  "query": "Which countries were examined in the preliminary study by the European Institute for the Media (EIM)?",
+  "response": [
+    "doc_10114.txt",
+    "doc_34914.txt",
+    "doc_10036.txt",
+    "doc_22728.txt",
+    "doc_2347.txt"
+  ]
+}

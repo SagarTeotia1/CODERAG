@@ -1,0 +1,10 @@
+{
+  "query": "What was the subject of the 1971 novel written by Jack Bickham?",
+  "response": [
+    "doc_28277.txt",
+    "doc_25570.txt",
+    "doc_25574.txt",
+    "doc_25564.txt",
+    "doc_28276.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which ministry succeeded the second Gillard ministry?",
+  "response": [
+    "doc_14442.txt",
+    "doc_26301.txt",
+    "doc_14443.txt",
+    "doc_28507.txt",
+    "doc_32956.txt"
+  ]
+}

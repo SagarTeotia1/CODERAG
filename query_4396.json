@@ -1,0 +1,10 @@
+{
+  "query": "When was the ECON Committee's meeting cancelled?",
+  "response": [
+    "doc_7743.txt",
+    "doc_7750.txt",
+    "doc_2657.txt",
+    "doc_12555.txt",
+    "doc_29365.txt"
+  ]
+}

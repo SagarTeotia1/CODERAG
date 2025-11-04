@@ -1,0 +1,10 @@
+{
+  "query": "What is the approximate percentage of women farmers currently being forced to leave farming in Belgium?",
+  "response": [
+    "doc_15449.txt",
+    "doc_6151.txt",
+    "doc_23426.txt",
+    "doc_3169.txt",
+    "doc_32958.txt"
+  ]
+}

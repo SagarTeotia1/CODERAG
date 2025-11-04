@@ -1,0 +1,10 @@
+{
+  "query": "Who replaced Per Ørum Jørgensen as chairman, and when did that happen?",
+  "response": [
+    "doc_1986.txt",
+    "doc_26535.txt",
+    "doc_26542.txt",
+    "doc_26536.txt",
+    "doc_35520.txt"
+  ]
+}

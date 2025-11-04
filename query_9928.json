@@ -1,0 +1,10 @@
+{
+  "query": "Why has the Spanish Government banned international flights to Barcelona airport?",
+  "response": [
+    "doc_15009.txt",
+    "doc_13404.txt",
+    "doc_22216.txt",
+    "doc_28930.txt",
+    "doc_36962.txt"
+  ]
+}

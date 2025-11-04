@@ -1,0 +1,10 @@
+{
+  "query": "When was Paul A. Goble born, and where did he receive his higher education?",
+  "response": [
+    "doc_17412.txt",
+    "doc_17411.txt",
+    "doc_38165.txt",
+    "doc_12167.txt",
+    "doc_17409.txt"
+  ]
+}

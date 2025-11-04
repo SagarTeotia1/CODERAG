@@ -1,0 +1,10 @@
+{
+  "query": "Against which team did Real Madrid play in its first competitive match?",
+  "response": [
+    "doc_24725.txt",
+    "doc_24727.txt",
+    "doc_18342.txt",
+    "doc_38605.txt",
+    "doc_29509.txt"
+  ]
+}

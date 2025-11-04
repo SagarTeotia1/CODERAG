@@ -1,0 +1,10 @@
+{
+  "query": "Kenneth is the middle name of this economist who wrote “The Affluent Society”?",
+  "response": [
+    "doc_34783.txt",
+    "doc_34778.txt",
+    "doc_34781.txt",
+    "doc_34782.txt",
+    "doc_34780.txt"
+  ]
+}

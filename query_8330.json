@@ -1,0 +1,10 @@
+{
+  "query": "What type of rock is commonly found in Yosemite, and where does it originate?",
+  "response": [
+    "doc_11165.txt",
+    "doc_11167.txt",
+    "doc_11166.txt",
+    "doc_25714.txt",
+    "doc_11168.txt"
+  ]
+}

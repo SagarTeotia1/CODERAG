@@ -1,0 +1,10 @@
+{
+  "query": "What was the primary subject of Alfred Tennyson’s poem, “In Memoriam A.H.H.”?",
+  "response": [
+    "doc_36063.txt",
+    "doc_36066.txt",
+    "doc_36064.txt",
+    "doc_23915.txt",
+    "doc_36065.txt"
+  ]
+}

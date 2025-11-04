@@ -1,0 +1,10 @@
+{
+  "query": "What action is the European Union taking concerning religious freedom at the United Nations?",
+  "response": [
+    "doc_14472.txt",
+    "doc_14473.txt",
+    "doc_28143.txt",
+    "doc_27643.txt",
+    "doc_15058.txt"
+  ]
+}

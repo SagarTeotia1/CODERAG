@@ -1,0 +1,10 @@
+{
+  "query": "In what year was José Carioca created, and for which Disney film?",
+  "response": [
+    "doc_35527.txt",
+    "doc_35526.txt",
+    "doc_18031.txt",
+    "doc_39452.txt",
+    "doc_17030.txt"
+  ]
+}

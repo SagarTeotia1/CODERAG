@@ -1,0 +1,10 @@
+{
+  "query": "How many meetings of the Standing Committee on the Food Chain and Animal Health and the Chief Veterinary Officers (CVO) were held to discuss the dioxin contamination incident?",
+  "response": [
+    "doc_2382.txt",
+    "doc_25260.txt",
+    "doc_3371.txt",
+    "doc_30312.txt",
+    "doc_28294.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What health problems have been observed in children living near the Baikonur Cosmodrome?",
+  "response": [
+    "doc_20957.txt",
+    "doc_17511.txt",
+    "doc_12384.txt",
+    "doc_35026.txt",
+    "doc_18767.txt"
+  ]
+}

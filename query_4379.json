@@ -1,0 +1,10 @@
+{
+  "query": "Who won the 1997 Mr. Olympia contest?",
+  "response": [
+    "doc_37837.txt",
+    "doc_37838.txt",
+    "doc_37839.txt",
+    "doc_36699.txt",
+    "doc_3061.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Cami-Li appear on “Ex on the Beach”?",
+  "response": [
+    "doc_25386.txt",
+    "doc_3923.txt",
+    "doc_3924.txt",
+    "doc_3925.txt",
+    "doc_23623.txt"
+  ]
+}

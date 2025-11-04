@@ -1,0 +1,10 @@
+{
+  "query": "Will the Commission make a statement on bullfighting in Spain?",
+  "response": [
+    "doc_19249.txt",
+    "doc_769.txt",
+    "doc_36870.txt",
+    "doc_16620.txt",
+    "doc_17289.txt"
+  ]
+}

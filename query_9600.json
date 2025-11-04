@@ -1,0 +1,10 @@
+{
+  "query": "What is Dr. Pangloss’s philosophy summarized as, according to the texts?",
+  "response": [
+    "doc_1421.txt",
+    "doc_1422.txt",
+    "doc_35978.txt",
+    "doc_35975.txt",
+    "doc_35974.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year did the Kon-Tiki raft travel from Chile to Rapa Nui?",
+  "response": [
+    "doc_38822.txt",
+    "doc_38824.txt",
+    "doc_38826.txt",
+    "doc_38823.txt",
+    "doc_38825.txt"
+  ]
+}

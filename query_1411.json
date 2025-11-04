@@ -1,0 +1,10 @@
+{
+  "query": "What specific WTO agreement is Argentina’s policy potentially in violation of, as highlighted by the Commission?",
+  "response": [
+    "doc_30713.txt",
+    "doc_18049.txt",
+    "doc_16596.txt",
+    "doc_19946.txt",
+    "doc_3017.txt"
+  ]
+}

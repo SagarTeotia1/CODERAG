@@ -1,0 +1,10 @@
+{
+  "query": "In what year did a new production of “Lovelace: A Rock Musical” debut in the United Kingdom?",
+  "response": [
+    "doc_35993.txt",
+    "doc_35994.txt",
+    "doc_7696.txt",
+    "doc_16822.txt",
+    "doc_7695.txt"
+  ]
+}

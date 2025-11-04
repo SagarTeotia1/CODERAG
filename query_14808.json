@@ -1,0 +1,10 @@
+{
+  "query": "What year did Marcel Duchamp submit the readymade titled “R. Mutt”?",
+  "response": [
+    "doc_27077.txt",
+    "doc_27084.txt",
+    "doc_27076.txt",
+    "doc_27083.txt",
+    "doc_27078.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What year was the Alma Mater officially adopted by Dartmouth College?",
+  "response": [
+    "doc_35753.txt",
+    "doc_35758.txt",
+    "doc_35755.txt",
+    "doc_35757.txt",
+    "doc_35751.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what film did Amos portray Major Grant?",
+  "response": [
+    "doc_20350.txt",
+    "doc_20352.txt",
+    "doc_31757.txt",
+    "doc_26015.txt",
+    "doc_37879.txt"
+  ]
+}

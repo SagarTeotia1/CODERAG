@@ -1,0 +1,10 @@
+{
+  "query": "On what date is there a workshop related to “Empowering EU citizens”?",
+  "response": [
+    "doc_13670.txt",
+    "doc_28314.txt",
+    "doc_31708.txt",
+    "doc_1633.txt",
+    "doc_23697.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When did freezing rain occur in Romania?",
+  "response": [
+    "doc_32363.txt",
+    "doc_37785.txt",
+    "doc_32368.txt",
+    "doc_37787.txt",
+    "doc_32367.txt"
+  ]
+}

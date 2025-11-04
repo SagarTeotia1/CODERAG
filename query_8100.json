@@ -1,0 +1,10 @@
+{
+  "query": "How many European Cups did Bob Paisley and Carlo Ancelotti each win?",
+  "response": [
+    "doc_17084.txt",
+    "doc_1528.txt",
+    "doc_33843.txt",
+    "doc_38075.txt",
+    "doc_16439.txt"
+  ]
+}

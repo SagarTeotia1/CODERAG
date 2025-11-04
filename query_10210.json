@@ -1,0 +1,10 @@
+{
+  "query": "When was the concert movie *The Song Remains the Same* released?",
+  "response": [
+    "doc_1536.txt",
+    "doc_1540.txt",
+    "doc_1542.txt",
+    "doc_1532.txt",
+    "doc_1533.txt"
+  ]
+}

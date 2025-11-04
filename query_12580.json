@@ -1,0 +1,10 @@
+{
+  "query": "What year was Taylor Swift’s debut album, “Taylor Swift,” released?",
+  "response": [
+    "doc_11965.txt",
+    "doc_22213.txt",
+    "doc_21646.txt",
+    "doc_21645.txt",
+    "doc_11964.txt"
+  ]
+}

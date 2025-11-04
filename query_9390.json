@@ -1,0 +1,10 @@
+{
+  "query": "What action is the Commission taking following the slaughtering of lapwings in France?",
+  "response": [
+    "doc_13770.txt",
+    "doc_37415.txt",
+    "doc_11928.txt",
+    "doc_191.txt",
+    "doc_30310.txt"
+  ]
+}

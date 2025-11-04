@@ -1,0 +1,10 @@
+{
+  "query": "Which composer created the opera titled “The Unicorn, the Gorgon, and the Manticore”?",
+  "response": [
+    "doc_16333.txt",
+    "doc_16331.txt",
+    "doc_16332.txt",
+    "doc_1492.txt",
+    "doc_35291.txt"
+  ]
+}

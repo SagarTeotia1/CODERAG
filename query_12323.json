@@ -1,0 +1,10 @@
+{
+  "query": "What body of water does the City Palace overlook?",
+  "response": [
+    "doc_20144.txt",
+    "doc_20914.txt",
+    "doc_1567.txt",
+    "doc_28284.txt",
+    "doc_20148.txt"
+  ]
+}

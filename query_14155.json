@@ -1,0 +1,10 @@
+{
+  "query": "Which actors starred in \"Home Alone: The Holiday Heist\"?",
+  "response": [
+    "doc_2435.txt",
+    "doc_2436.txt",
+    "doc_28865.txt",
+    "doc_3342.txt",
+    "doc_16671.txt"
+  ]
+}

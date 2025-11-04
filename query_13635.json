@@ -1,0 +1,10 @@
+{
+  "query": "What film did Daniel von Bargen appear in alongside George Costanza?",
+  "response": [
+    "doc_24209.txt",
+    "doc_24208.txt",
+    "doc_23685.txt",
+    "doc_20776.txt",
+    "doc_20779.txt"
+  ]
+}

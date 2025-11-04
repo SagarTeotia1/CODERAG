@@ -1,0 +1,10 @@
+{
+  "query": "What specific subheading of goods is egg albumin classified under, according to the Commission?",
+  "response": [
+    "doc_24937.txt",
+    "doc_40304.txt",
+    "doc_5028.txt",
+    "doc_5796.txt",
+    "doc_3371.txt"
+  ]
+}

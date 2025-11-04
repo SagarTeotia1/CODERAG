@@ -1,0 +1,10 @@
+{
+  "query": "What role did Cardinal Francis George hold in San Miguel?",
+  "response": [
+    "doc_34005.txt",
+    "doc_34008.txt",
+    "doc_34009.txt",
+    "doc_34006.txt",
+    "doc_34007.txt"
+  ]
+}

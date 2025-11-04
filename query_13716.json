@@ -1,0 +1,10 @@
+{
+  "query": "What types of violence are reported by the captive refugees in Sinai?",
+  "response": [
+    "doc_31314.txt",
+    "doc_1342.txt",
+    "doc_24372.txt",
+    "doc_11850.txt",
+    "doc_38711.txt"
+  ]
+}

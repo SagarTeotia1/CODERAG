@@ -1,0 +1,10 @@
+{
+  "query": "In what year was Dr. Türk elected President of the Republic of Slovenia?",
+  "response": [
+    "doc_16254.txt",
+    "doc_16253.txt",
+    "doc_16252.txt",
+    "doc_23698.txt",
+    "doc_2202.txt"
+  ]
+}

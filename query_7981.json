@@ -1,0 +1,10 @@
+{
+  "query": "What specific sector does the EGF application relate to?",
+  "response": [
+    "doc_10361.txt",
+    "doc_8317.txt",
+    "doc_12954.txt",
+    "doc_39634.txt",
+    "doc_12955.txt"
+  ]
+}

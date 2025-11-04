@@ -1,0 +1,10 @@
+{
+  "query": "Which assets were excluded from Archduke Franz Ferdinand’s inheritance?",
+  "response": [
+    "doc_3579.txt",
+    "doc_23963.txt",
+    "doc_23962.txt",
+    "doc_3578.txt",
+    "doc_23960.txt"
+  ]
+}

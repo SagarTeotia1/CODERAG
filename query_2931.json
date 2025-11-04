@@ -1,0 +1,10 @@
+{
+  "query": "In what year was Anthony Hopkins born?",
+  "response": [
+    "doc_34454.txt",
+    "doc_34460.txt",
+    "doc_34457.txt",
+    "doc_34455.txt",
+    "doc_34459.txt"
+  ]
+}

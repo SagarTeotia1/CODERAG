@@ -1,0 +1,10 @@
+{
+  "query": "Who wrote the lyrics to “The Old North State,” and in what year were they composed?",
+  "response": [
+    "doc_15348.txt",
+    "doc_15347.txt",
+    "doc_15345.txt",
+    "doc_15351.txt",
+    "doc_15349.txt"
+  ]
+}

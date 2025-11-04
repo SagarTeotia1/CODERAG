@@ -1,0 +1,10 @@
+{
+  "query": "What is the Innovation Union initiative described in the resolution?",
+  "response": [
+    "doc_32663.txt",
+    "doc_4340.txt",
+    "doc_25853.txt",
+    "doc_25850.txt",
+    "doc_4255.txt"
+  ]
+}

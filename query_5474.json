@@ -1,0 +1,10 @@
+{
+  "query": "In *Seinfeld*, what does the text describe as “perpetual insincerity” holding for its characters?",
+  "response": [
+    "doc_4032.txt",
+    "doc_4031.txt",
+    "doc_22484.txt",
+    "doc_4037.txt",
+    "doc_4035.txt"
+  ]
+}

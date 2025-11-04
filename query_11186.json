@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of Shasta Dam’s generating capacity has been lost?",
+  "response": [
+    "doc_30031.txt",
+    "doc_5918.txt",
+    "doc_18078.txt",
+    "doc_30032.txt",
+    "doc_5921.txt"
+  ]
+}

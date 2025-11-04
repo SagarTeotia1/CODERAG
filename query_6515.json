@@ -1,0 +1,10 @@
+{
+  "query": "What film did Koji Steven Sakai co-write the screenplay for in 2006?",
+  "response": [
+    "doc_39549.txt",
+    "doc_39545.txt",
+    "doc_38559.txt",
+    "doc_39544.txt",
+    "doc_39546.txt"
+  ]
+}

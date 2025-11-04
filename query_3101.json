@@ -1,0 +1,10 @@
+{
+  "query": "When did Oliveira make his first feature film?",
+  "response": [
+    "doc_30403.txt",
+    "doc_30400.txt",
+    "doc_30401.txt",
+    "doc_7733.txt",
+    "doc_1629.txt"
+  ]
+}

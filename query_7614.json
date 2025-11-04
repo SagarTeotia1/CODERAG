@@ -1,0 +1,10 @@
+{
+  "query": "Which languages does Hugo, from *First Contact*, fluently speak?",
+  "response": [
+    "doc_11525.txt",
+    "doc_11522.txt",
+    "doc_11523.txt",
+    "doc_11515.txt",
+    "doc_11553.txt"
+  ]
+}

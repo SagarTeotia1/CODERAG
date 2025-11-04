@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the NASA research center located in California’s Silicon Valley, and who is it named after?",
+  "response": [
+    "doc_31695.txt",
+    "doc_19859.txt",
+    "doc_19860.txt",
+    "doc_2153.txt",
+    "doc_2154.txt"
+  ]
+}

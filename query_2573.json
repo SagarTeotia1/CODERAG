@@ -1,0 +1,10 @@
+{
+  "query": "Which two countries were initially designated to send delegations according to the Conference of Presidents’ decision?",
+  "response": [
+    "doc_27799.txt",
+    "doc_19559.txt",
+    "doc_27800.txt",
+    "doc_19558.txt",
+    "doc_21214.txt"
+  ]
+}

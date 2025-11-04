@@ -1,0 +1,10 @@
+{
+  "query": "Which hospital initially purchased the Medical College of Pennsylvania?",
+  "response": [
+    "doc_7630.txt",
+    "doc_7631.txt",
+    "doc_12887.txt",
+    "doc_12891.txt",
+    "doc_12889.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Since 1907 this Oregon city has hosted an annual Rose Festival.",
+  "response": [
+    "doc_5240.txt",
+    "doc_5238.txt",
+    "doc_5237.txt",
+    "doc_5236.txt",
+    "doc_5239.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Who was the manager of Newcastle Utd when Paddy Atkinson scored 12 goals in the Reserves Team?",
+  "response": [
+    "doc_18426.txt",
+    "doc_36669.txt",
+    "doc_18425.txt",
+    "doc_16759.txt",
+    "doc_14700.txt"
+  ]
+}

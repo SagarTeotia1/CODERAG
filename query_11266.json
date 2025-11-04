@@ -1,0 +1,10 @@
+{
+  "query": "What are the required organs for an EGTC, specifically mentioning an assembly and an executive committee?",
+  "response": [
+    "doc_1785.txt",
+    "doc_1784.txt",
+    "doc_1789.txt",
+    "doc_1788.txt",
+    "doc_1787.txt"
+  ]
+}

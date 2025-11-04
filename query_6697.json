@@ -1,0 +1,10 @@
+{
+  "query": "In what decade did Sir Godfrey Hounsfield pioneer computed tomography (CT)?",
+  "response": [
+    "doc_7118.txt",
+    "doc_7122.txt",
+    "doc_7113.txt",
+    "doc_7123.txt",
+    "doc_7112.txt"
+  ]
+}

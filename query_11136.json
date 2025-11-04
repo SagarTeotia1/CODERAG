@@ -1,0 +1,10 @@
+{
+  "query": "What city is WHDH (TV) located in?",
+  "response": [
+    "doc_18967.txt",
+    "doc_18966.txt",
+    "doc_1950.txt",
+    "doc_1949.txt",
+    "doc_18959.txt"
+  ]
+}

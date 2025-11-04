@@ -1,0 +1,10 @@
+{
+  "query": "Which river flows into the Baltic Sea at the town of Šventoji?",
+  "response": [
+    "doc_7239.txt",
+    "doc_2817.txt",
+    "doc_5727.txt",
+    "doc_5728.txt",
+    "doc_26353.txt"
+  ]
+}

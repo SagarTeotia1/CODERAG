@@ -1,0 +1,10 @@
+{
+  "query": "Besides Busted, what other musical career did Charlie Simpson pursue?",
+  "response": [
+    "doc_8234.txt",
+    "doc_36111.txt",
+    "doc_26173.txt",
+    "doc_26181.txt",
+    "doc_26174.txt"
+  ]
+}

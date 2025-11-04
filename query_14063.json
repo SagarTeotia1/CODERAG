@@ -1,0 +1,10 @@
+{
+  "query": "In which country is Mecca located?",
+  "response": [
+    "doc_25259.txt",
+    "doc_25256.txt",
+    "doc_25257.txt",
+    "doc_25258.txt",
+    "doc_30011.txt"
+  ]
+}

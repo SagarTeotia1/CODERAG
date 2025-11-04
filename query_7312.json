@@ -1,0 +1,10 @@
+{
+  "query": "In 1927, what record did George Herman “Babe” Ruth achieve regarding home runs?",
+  "response": [
+    "doc_8627.txt",
+    "doc_8623.txt",
+    "doc_39724.txt",
+    "doc_8624.txt",
+    "doc_8625.txt"
+  ]
+}

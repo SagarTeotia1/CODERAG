@@ -1,0 +1,10 @@
+{
+  "query": "What is Peter Tork’s real last name?",
+  "response": [
+    "doc_2981.txt",
+    "doc_25329.txt",
+    "doc_25331.txt",
+    "doc_25330.txt",
+    "doc_25328.txt"
+  ]
+}

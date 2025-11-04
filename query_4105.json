@@ -1,0 +1,10 @@
+{
+  "query": "Who coached the 2009 Missouri Tigers football team?",
+  "response": [
+    "doc_7392.txt",
+    "doc_37222.txt",
+    "doc_37899.txt",
+    "doc_4051.txt",
+    "doc_15073.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the reported wind speed west of Topeka?",
+  "response": [
+    "doc_6328.txt",
+    "doc_6329.txt",
+    "doc_6334.txt",
+    "doc_17696.txt",
+    "doc_17692.txt"
+  ]
+}

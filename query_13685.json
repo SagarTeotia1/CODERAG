@@ -1,0 +1,10 @@
+{
+  "query": "Where was the 2010 Diamond Head Classic tournament played?",
+  "response": [
+    "doc_25490.txt",
+    "doc_25489.txt",
+    "doc_25485.txt",
+    "doc_25487.txt",
+    "doc_25488.txt"
+  ]
+}

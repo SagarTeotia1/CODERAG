@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission’s stance on prioritizing railways for the carriage of both goods and passengers, as expressed in the question?",
+  "response": [
+    "doc_29200.txt",
+    "doc_17518.txt",
+    "doc_13402.txt",
+    "doc_40316.txt",
+    "doc_12560.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was Hart Goodloe’s role during the Meuse-Argonne Offensive?",
+  "response": [
+    "doc_22725.txt",
+    "doc_5283.txt",
+    "doc_11223.txt",
+    "doc_5522.txt",
+    "doc_9673.txt"
+  ]
+}

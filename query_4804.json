@@ -1,0 +1,10 @@
+{
+  "query": "At what event did Princess Irene serve as a bridesmaid?",
+  "response": [
+    "doc_38916.txt",
+    "doc_38917.txt",
+    "doc_38918.txt",
+    "doc_34949.txt",
+    "doc_38923.txt"
+  ]
+}

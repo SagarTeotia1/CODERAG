@@ -1,0 +1,10 @@
+{
+  "query": "What was AB Bank formerly known as, and when did it officially change its name?",
+  "response": [
+    "doc_38971.txt",
+    "doc_10773.txt",
+    "doc_10767.txt",
+    "doc_10771.txt",
+    "doc_34909.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which film directed by Kiyoshi Kurosawa won the award for Best Film at the 3rd Asian Film Awards?",
+  "response": [
+    "doc_28596.txt",
+    "doc_36232.txt",
+    "doc_16280.txt",
+    "doc_16279.txt",
+    "doc_8515.txt"
+  ]
+}

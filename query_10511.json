@@ -1,0 +1,10 @@
+{
+  "query": "What temperature did the thermometer reach at Greenland Ranch on July 10, 1913?",
+  "response": [
+    "doc_1617.txt",
+    "doc_1618.txt",
+    "doc_1620.txt",
+    "doc_1619.txt",
+    "doc_1616.txt"
+  ]
+}

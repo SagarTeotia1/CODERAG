@@ -1,0 +1,10 @@
+{
+  "query": "Which Richard Scarry book features nursery rhymes and illustrations, including depictions of a woman stuck inside a shoe?",
+  "response": [
+    "doc_23875.txt",
+    "doc_23876.txt",
+    "doc_23881.txt",
+    "doc_23883.txt",
+    "doc_10720.txt"
+  ]
+}

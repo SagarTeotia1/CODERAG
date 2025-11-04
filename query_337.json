@@ -1,0 +1,10 @@
+{
+  "query": "What year was Sheila on 7 formed?",
+  "response": [
+    "doc_19878.txt",
+    "doc_36259.txt",
+    "doc_39065.txt",
+    "doc_38411.txt",
+    "doc_14998.txt"
+  ]
+}

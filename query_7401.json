@@ -1,0 +1,10 @@
+{
+  "query": "When did the situation significantly improve regarding the forest fires in the Moscow region?",
+  "response": [
+    "doc_8846.txt",
+    "doc_8847.txt",
+    "doc_22540.txt",
+    "doc_644.txt",
+    "doc_21790.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Through which three routes does the smuggled garlic reach the EU?",
+  "response": [
+    "doc_39432.txt",
+    "doc_4381.txt",
+    "doc_2921.txt",
+    "doc_2778.txt",
+    "doc_32964.txt"
+  ]
+}

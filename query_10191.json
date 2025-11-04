@@ -1,0 +1,10 @@
+{
+  "query": "What did a recent investigation by the Lithuanian Parliament reveal regarding detention facilities in Lithuania?",
+  "response": [
+    "doc_30921.txt",
+    "doc_30920.txt",
+    "doc_1144.txt",
+    "doc_23440.txt",
+    "doc_1141.txt"
+  ]
+}

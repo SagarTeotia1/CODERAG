@@ -1,0 +1,10 @@
+{
+  "query": "What type of work is “A Child’s Christmas in Wales” described as?",
+  "response": [
+    "doc_16144.txt",
+    "doc_16145.txt",
+    "doc_16146.txt",
+    "doc_16143.txt",
+    "doc_16150.txt"
+  ]
+}

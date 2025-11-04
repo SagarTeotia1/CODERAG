@@ -1,0 +1,10 @@
+{
+  "query": "What scenic train route connects Innsbruck and Bludenz, and is it free with a Eurail pass?",
+  "response": [
+    "doc_32730.txt",
+    "doc_32729.txt",
+    "doc_32731.txt",
+    "doc_32732.txt",
+    "doc_32734.txt"
+  ]
+}

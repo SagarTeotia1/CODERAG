@@ -1,0 +1,10 @@
+{
+  "query": "In what country did Patricia Murillo represent at the Miss Universe pageant?",
+  "response": [
+    "doc_38508.txt",
+    "doc_3860.txt",
+    "doc_2201.txt",
+    "doc_38509.txt",
+    "doc_9066.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which team secured a third consecutive Macau Grand Prix victory in 2009, and who were the drivers who achieved this win?",
+  "response": [
+    "doc_28553.txt",
+    "doc_14608.txt",
+    "doc_28552.txt",
+    "doc_26165.txt",
+    "doc_14609.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Who voiced Grampa Simpson?",
+  "response": [
+    "doc_32695.txt",
+    "doc_27885.txt",
+    "doc_32693.txt",
+    "doc_32694.txt",
+    "doc_12527.txt"
+  ]
+}

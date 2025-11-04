@@ -1,0 +1,10 @@
+{
+  "query": "What is the approximate annual funding commitment for the IIA between 2007 and 2013?",
+  "response": [
+    "doc_10361.txt",
+    "doc_16834.txt",
+    "doc_29853.txt",
+    "doc_15470.txt",
+    "doc_15481.txt"
+  ]
+}

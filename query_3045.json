@@ -1,0 +1,10 @@
+{
+  "query": "Who hosted the “Country Music Greats Radio Show” for its initial period?",
+  "response": [
+    "doc_34744.txt",
+    "doc_34745.txt",
+    "doc_38863.txt",
+    "doc_38861.txt",
+    "doc_38862.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which organization’s guidelines are specifically mentioned as an example of guidelines for the diagnosis and management of Familial Hypercholesterolemia?",
+  "response": [
+    "doc_29068.txt",
+    "doc_16866.txt",
+    "doc_29066.txt",
+    "doc_29065.txt",
+    "doc_39296.txt"
+  ]
+}

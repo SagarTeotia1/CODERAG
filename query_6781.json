@@ -1,0 +1,10 @@
+{
+  "query": "What event did Tom Hayden help organize anti-war demonstrations during?",
+  "response": [
+    "doc_7346.txt",
+    "doc_7347.txt",
+    "doc_7348.txt",
+    "doc_4920.txt",
+    "doc_4921.txt"
+  ]
+}

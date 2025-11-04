@@ -1,0 +1,10 @@
+{
+  "query": "When was the first nominee before the Senate Judiciary Committee testify?",
+  "response": [
+    "doc_34477.txt",
+    "doc_24494.txt",
+    "doc_20855.txt",
+    "doc_34474.txt",
+    "doc_24495.txt"
+  ]
+}

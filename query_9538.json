@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what action does DHS take regarding data received that falls outside the specified data list in the Agreement?",
+  "response": [
+    "doc_14068.txt",
+    "doc_10128.txt",
+    "doc_36919.txt",
+    "doc_10129.txt",
+    "doc_29892.txt"
+  ]
+}

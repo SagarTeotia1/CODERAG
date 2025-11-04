@@ -1,0 +1,10 @@
+{
+  "query": "How many homicides did Ted Bundy confess to?",
+  "response": [
+    "doc_22812.txt",
+    "doc_8881.txt",
+    "doc_22810.txt",
+    "doc_22811.txt",
+    "doc_15393.txt"
+  ]
+}

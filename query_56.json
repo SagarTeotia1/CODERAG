@@ -1,0 +1,10 @@
+{
+  "query": "What is the primary reason Polish farmers are unable to submit their direct payment applications on time?",
+  "response": [
+    "doc_27464.txt",
+    "doc_20398.txt",
+    "doc_1755.txt",
+    "doc_1757.txt",
+    "doc_27690.txt"
+  ]
+}

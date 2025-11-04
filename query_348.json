@@ -1,0 +1,10 @@
+{
+  "query": "What was the title of Sheila on 7’s 2000 music album?",
+  "response": [
+    "doc_12184.txt",
+    "doc_12180.txt",
+    "doc_12177.txt",
+    "doc_36259.txt",
+    "doc_12182.txt"
+  ]
+}

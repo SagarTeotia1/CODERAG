@@ -1,0 +1,10 @@
+{
+  "query": "Where can visitors see manatees at the Columbus Zoo and Aquarium?",
+  "response": [
+    "doc_9709.txt",
+    "doc_6077.txt",
+    "doc_6082.txt",
+    "doc_6078.txt",
+    "doc_6079.txt"
+  ]
+}

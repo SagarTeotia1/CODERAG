@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what specific activity is F&M Agency’s vessels engaged in that is flagged as a violation?",
+  "response": [
+    "doc_9889.txt",
+    "doc_9886.txt",
+    "doc_9890.txt",
+    "doc_20048.txt",
+    "doc_9888.txt"
+  ]
+}

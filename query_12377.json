@@ -1,0 +1,10 @@
+{
+  "query": "What is the Physical Research Laboratory’s primary focus of research?",
+  "response": [
+    "doc_21698.txt",
+    "doc_19861.txt",
+    "doc_19860.txt",
+    "doc_19859.txt",
+    "doc_4006.txt"
+  ]
+}

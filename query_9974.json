@@ -1,0 +1,10 @@
+{
+  "query": "How many people died in the accident involving USAir Flight 405?",
+  "response": [
+    "doc_9329.txt",
+    "doc_24075.txt",
+    "doc_10192.txt",
+    "doc_5205.txt",
+    "doc_31511.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "How much money from the European Regional Development Fund has gone into the construction of mosques in Europe during the current funding period?",
+  "response": [
+    "doc_3011.txt",
+    "doc_8662.txt",
+    "doc_7418.txt",
+    "doc_36609.txt",
+    "doc_15057.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What river does the Tiber Dam receive water from, and where is this location relative to another river?",
+  "response": [
+    "doc_19666.txt",
+    "doc_9074.txt",
+    "doc_14787.txt",
+    "doc_9075.txt",
+    "doc_9073.txt"
+  ]
+}

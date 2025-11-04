@@ -1,0 +1,10 @@
+{
+  "query": "According to the Gill Athletics catalog, what types of platforms are designed for landing systems in track and field?",
+  "response": [
+    "doc_11353.txt",
+    "doc_16067.txt",
+    "doc_25404.txt",
+    "doc_11352.txt",
+    "doc_11354.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the band Ed Roland is currently involved in?",
+  "response": [
+    "doc_19761.txt",
+    "doc_39037.txt",
+    "doc_38863.txt",
+    "doc_39035.txt",
+    "doc_19762.txt"
+  ]
+}

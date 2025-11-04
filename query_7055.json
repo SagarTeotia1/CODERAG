@@ -1,0 +1,10 @@
+{
+  "query": "What gesture did Babe Ruth make after hitting the ball?",
+  "response": [
+    "doc_761.txt",
+    "doc_762.txt",
+    "doc_760.txt",
+    "doc_758.txt",
+    "doc_765.txt"
+  ]
+}

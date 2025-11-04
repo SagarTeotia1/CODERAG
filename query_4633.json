@@ -1,0 +1,10 @@
+{
+  "query": "What does the Latin word “patron” mean, according to the passage?",
+  "response": [
+    "doc_38520.txt",
+    "doc_38519.txt",
+    "doc_38518.txt",
+    "doc_35572.txt",
+    "doc_38521.txt"
+  ]
+}

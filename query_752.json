@@ -1,0 +1,10 @@
+{
+  "query": "What is Stuttgart’s historical connection to the Stuotgarten?",
+  "response": [
+    "doc_28973.txt",
+    "doc_28974.txt",
+    "doc_28975.txt",
+    "doc_35593.txt",
+    "doc_1818.txt"
+  ]
+}

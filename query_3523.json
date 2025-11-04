@@ -1,0 +1,10 @@
+{
+  "query": "How many summers did Daniel Chester French spend creating statues in his Stockbridge studio?",
+  "response": [
+    "doc_35801.txt",
+    "doc_35799.txt",
+    "doc_35800.txt",
+    "doc_35804.txt",
+    "doc_35802.txt"
+  ]
+}

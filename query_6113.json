@@ -1,0 +1,10 @@
+{
+  "query": "What state park did Dick and Gayl visit on Monday, October 24, 2005?",
+  "response": [
+    "doc_30925.txt",
+    "doc_20463.txt",
+    "doc_40196.txt",
+    "doc_40199.txt",
+    "doc_30927.txt"
+  ]
+}

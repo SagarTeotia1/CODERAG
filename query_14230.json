@@ -1,0 +1,10 @@
+{
+  "query": "Which artists’ works are featured in the Old Master prints at the Frances Lehman Loeb Art Center?",
+  "response": [
+    "doc_25684.txt",
+    "doc_25689.txt",
+    "doc_25688.txt",
+    "doc_25686.txt",
+    "doc_25685.txt"
+  ]
+}

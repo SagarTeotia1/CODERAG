@@ -1,0 +1,10 @@
+{
+  "query": "Which country is Dimitrios Sousounis representing in his presentation?",
+  "response": [
+    "doc_17209.txt",
+    "doc_12561.txt",
+    "doc_32559.txt",
+    "doc_20804.txt",
+    "doc_10110.txt"
+  ]
+}

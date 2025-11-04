@@ -1,0 +1,10 @@
+{
+  "query": "Where is the 7 Subway Extension located within Manhattan?",
+  "response": [
+    "doc_36227.txt",
+    "doc_1136.txt",
+    "doc_1139.txt",
+    "doc_1137.txt",
+    "doc_1140.txt"
+  ]
+}

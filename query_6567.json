@@ -1,0 +1,10 @@
+{
+  "query": "According to the articles, what is a common issue related to the opioid painkiller OxyContin?",
+  "response": [
+    "doc_13657.txt",
+    "doc_6798.txt",
+    "doc_13661.txt",
+    "doc_15986.txt",
+    "doc_6803.txt"
+  ]
+}

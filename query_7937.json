@@ -1,0 +1,10 @@
+{
+  "query": "For what anniversary was a fuselage returned to the Garber Facility?",
+  "response": [
+    "doc_10194.txt",
+    "doc_32161.txt",
+    "doc_16692.txt",
+    "doc_10192.txt",
+    "doc_35891.txt"
+  ]
+}

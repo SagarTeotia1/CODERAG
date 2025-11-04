@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Mr. Hayden oppose violent protests and clashes with the Chicago police?",
+  "response": [
+    "doc_7348.txt",
+    "doc_7346.txt",
+    "doc_7347.txt",
+    "doc_7345.txt",
+    "doc_4921.txt"
+  ]
+}

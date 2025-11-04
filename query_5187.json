@@ -1,0 +1,10 @@
+{
+  "query": "What column did William Safire write for the New York Times Magazine?",
+  "response": [
+    "doc_39807.txt",
+    "doc_39808.txt",
+    "doc_13445.txt",
+    "doc_27870.txt",
+    "doc_13444.txt"
+  ]
+}

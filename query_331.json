@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what musical instruments did Erik Balkey add to the mix?",
+  "response": [
+    "doc_23897.txt",
+    "doc_23894.txt",
+    "doc_29770.txt",
+    "doc_23895.txt",
+    "doc_23891.txt"
+  ]
+}

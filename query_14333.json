@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of Morocco’s population relies directly on agriculture?",
+  "response": [
+    "doc_25916.txt",
+    "doc_36026.txt",
+    "doc_37546.txt",
+    "doc_3856.txt",
+    "doc_37547.txt"
+  ]
+}

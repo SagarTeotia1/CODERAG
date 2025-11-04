@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission’s view on compensation for workers injured by occupational accidents?",
+  "response": [
+    "doc_38735.txt",
+    "doc_22016.txt",
+    "doc_8303.txt",
+    "doc_11812.txt",
+    "doc_7528.txt"
+  ]
+}

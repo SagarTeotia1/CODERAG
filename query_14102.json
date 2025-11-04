@@ -1,0 +1,10 @@
+{
+  "query": "Besides being a musician, what other talent did Peter Wolf possess that led to a grant to study at the Boston Museum?",
+  "response": [
+    "doc_15746.txt",
+    "doc_23718.txt",
+    "doc_23719.txt",
+    "doc_23721.txt",
+    "doc_23037.txt"
+  ]
+}

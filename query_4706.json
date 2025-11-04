@@ -1,0 +1,10 @@
+{
+  "query": "What year was “Tinker Bell and the Great Fairy Rescue” released?",
+  "response": [
+    "doc_36668.txt",
+    "doc_36659.txt",
+    "doc_36661.txt",
+    "doc_36665.txt",
+    "doc_37305.txt"
+  ]
+}

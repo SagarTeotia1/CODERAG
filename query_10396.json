@@ -1,0 +1,10 @@
+{
+  "query": "In 2014, what percentage of U.S. GDP did the use of U.S. broadband/ICT goods and services represent?",
+  "response": [
+    "doc_16230.txt",
+    "doc_16231.txt",
+    "doc_2164.txt",
+    "doc_2162.txt",
+    "doc_21266.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which three countries are involved in the ANZUS Treaty?",
+  "response": [
+    "doc_17255.txt",
+    "doc_17256.txt",
+    "doc_6674.txt",
+    "doc_23755.txt",
+    "doc_6680.txt"
+  ]
+}

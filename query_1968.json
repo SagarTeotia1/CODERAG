@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the tallest building in the Western Hemisphere, as mentioned in the passage?",
+  "response": [
+    "doc_12658.txt",
+    "doc_32127.txt",
+    "doc_6071.txt",
+    "doc_12656.txt",
+    "doc_15810.txt"
+  ]
+}

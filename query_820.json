@@ -1,0 +1,10 @@
+{
+  "query": "Which television series features Matthew Fox as the main protagonist, Jack Shephard?",
+  "response": [
+    "doc_29176.txt",
+    "doc_3208.txt",
+    "doc_3209.txt",
+    "doc_3212.txt",
+    "doc_23079.txt"
+  ]
+}

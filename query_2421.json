@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the book *Sybil* first published?",
+  "response": [
+    "doc_33299.txt",
+    "doc_33302.txt",
+    "doc_33298.txt",
+    "doc_33300.txt",
+    "doc_33304.txt"
+  ]
+}

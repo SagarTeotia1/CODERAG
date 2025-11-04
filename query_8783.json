@@ -1,0 +1,10 @@
+{
+  "query": "What television series was “Team Knight Rider” adapted from?",
+  "response": [
+    "doc_33006.txt",
+    "doc_33011.txt",
+    "doc_16130.txt",
+    "doc_33005.txt",
+    "doc_16134.txt"
+  ]
+}

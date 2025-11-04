@@ -1,0 +1,10 @@
+{
+  "query": "For what event is Barbara Tuchman best known for writing, as detailed in “The Guns of August”?",
+  "response": [
+    "doc_21183.txt",
+    "doc_21189.txt",
+    "doc_21186.txt",
+    "doc_21181.txt",
+    "doc_21182.txt"
+  ]
+}

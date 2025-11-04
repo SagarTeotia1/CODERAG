@@ -1,0 +1,10 @@
+{
+  "query": "What action did James F. Blake demand of Rosa Parks on the bus?",
+  "response": [
+    "doc_18488.txt",
+    "doc_18487.txt",
+    "doc_18491.txt",
+    "doc_18486.txt",
+    "doc_18492.txt"
+  ]
+}

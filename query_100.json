@@ -1,0 +1,10 @@
+{
+  "query": "When did the 2010 Pentagon shooting occur?",
+  "response": [
+    "doc_8491.txt",
+    "doc_18207.txt",
+    "doc_31131.txt",
+    "doc_31139.txt",
+    "doc_35271.txt"
+  ]
+}

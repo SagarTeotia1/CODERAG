@@ -1,0 +1,10 @@
+{
+  "query": "Which geographic region is Finance Corporation - African Investment focused on linking?",
+  "response": [
+    "doc_226.txt",
+    "doc_31281.txt",
+    "doc_26435.txt",
+    "doc_15473.txt",
+    "doc_37400.txt"
+  ]
+}

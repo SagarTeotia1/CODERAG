@@ -1,0 +1,10 @@
+{
+  "query": "What factors, according to the World Health Organization (WHO), are associated with the rising trend of liver disease?",
+  "response": [
+    "doc_17236.txt",
+    "doc_27774.txt",
+    "doc_18562.txt",
+    "doc_18563.txt",
+    "doc_5782.txt"
+  ]
+}

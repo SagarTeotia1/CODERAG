@@ -1,0 +1,10 @@
+{
+  "query": "What is BOCOG’s stated approach to any violations of employment regulations discovered during their investigations?",
+  "response": [
+    "doc_1951.txt",
+    "doc_29387.txt",
+    "doc_9337.txt",
+    "doc_2681.txt",
+    "doc_29386.txt"
+  ]
+}

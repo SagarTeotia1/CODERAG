@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission’s position concerning the draft framework decision on data retention by telecom service providers as proposed by France, the UK, Ireland and Sweden?",
+  "response": [
+    "doc_21072.txt",
+    "doc_22869.txt",
+    "doc_29102.txt",
+    "doc_32406.txt",
+    "doc_30209.txt"
+  ]
+}

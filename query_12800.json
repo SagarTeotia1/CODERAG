@@ -1,0 +1,10 @@
+{
+  "query": "Where is the Palomar Observatory located?",
+  "response": [
+    "doc_2154.txt",
+    "doc_2155.txt",
+    "doc_2151.txt",
+    "doc_2153.txt",
+    "doc_2152.txt"
+  ]
+}

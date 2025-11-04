@@ -1,0 +1,10 @@
+{
+  "query": "Which organization funded the water management project visited by the delegation in Rumbek?",
+  "response": [
+    "doc_15857.txt",
+    "doc_9157.txt",
+    "doc_8719.txt",
+    "doc_12304.txt",
+    "doc_9948.txt"
+  ]
+}

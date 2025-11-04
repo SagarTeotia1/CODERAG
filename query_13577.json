@@ -1,0 +1,10 @@
+{
+  "query": "How tall is Jenna Elfman, according to the provided information?",
+  "response": [
+    "doc_2329.txt",
+    "doc_2326.txt",
+    "doc_2327.txt",
+    "doc_2328.txt",
+    "doc_22305.txt"
+  ]
+}

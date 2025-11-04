@@ -1,0 +1,10 @@
+{
+  "query": "What two directives are applicable in the European Union to limit pollution from mines and processing plants?",
+  "response": [
+    "doc_7339.txt",
+    "doc_9160.txt",
+    "doc_33577.txt",
+    "doc_29916.txt",
+    "doc_7805.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When was Huey Long assassinated?",
+  "response": [
+    "doc_32219.txt",
+    "doc_32217.txt",
+    "doc_32218.txt",
+    "doc_32215.txt",
+    "doc_32216.txt"
+  ]
+}

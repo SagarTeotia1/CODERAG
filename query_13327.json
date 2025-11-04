@@ -1,0 +1,10 @@
+{
+  "query": "Who is the Rapporteur for the Consumer Rights Directive briefing paper?",
+  "response": [
+    "doc_15423.txt",
+    "doc_23376.txt",
+    "doc_5765.txt",
+    "doc_13626.txt",
+    "doc_28806.txt"
+  ]
+}

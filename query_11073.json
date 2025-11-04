@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the Ottawa Convention of 1997 established?",
+  "response": [
+    "doc_39919.txt",
+    "doc_17779.txt",
+    "doc_17777.txt",
+    "doc_17780.txt",
+    "doc_10827.txt"
+  ]
+}

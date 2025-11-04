@@ -1,0 +1,10 @@
+{
+  "query": "Who are the brothers who run Miramax Films?",
+  "response": [
+    "doc_13239.txt",
+    "doc_18853.txt",
+    "doc_27663.txt",
+    "doc_22572.txt",
+    "doc_13242.txt"
+  ]
+}

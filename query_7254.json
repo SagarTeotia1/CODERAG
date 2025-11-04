@@ -1,0 +1,10 @@
+{
+  "query": "What was Tom Draper’s nickname?",
+  "response": [
+    "doc_3478.txt",
+    "doc_8375.txt",
+    "doc_3483.txt",
+    "doc_3477.txt",
+    "doc_8589.txt"
+  ]
+}

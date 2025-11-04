@@ -1,0 +1,10 @@
+{
+  "query": "Bethlehem is located in Lehigh Valley near the Poconos.",
+  "response": [
+    "doc_2215.txt",
+    "doc_2214.txt",
+    "doc_2216.txt",
+    "doc_19625.txt",
+    "doc_19631.txt"
+  ]
+}

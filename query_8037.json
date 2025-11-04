@@ -1,0 +1,10 @@
+{
+  "query": "How many pounds of wool were processed through the Davis Brothers?",
+  "response": [
+    "doc_10488.txt",
+    "doc_24274.txt",
+    "doc_28352.txt",
+    "doc_32938.txt",
+    "doc_32939.txt"
+  ]
+}

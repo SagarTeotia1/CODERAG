@@ -1,0 +1,10 @@
+{
+  "query": "How many pianos did the Dresden factory produce annually, starting in 1885?",
+  "response": [
+    "doc_17015.txt",
+    "doc_17017.txt",
+    "doc_13251.txt",
+    "doc_6919.txt",
+    "doc_15961.txt"
+  ]
+}

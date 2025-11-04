@@ -1,0 +1,10 @@
+{
+  "query": "What is the potential value of the Irish government’s support for Anglo Irish Bank?",
+  "response": [
+    "doc_20182.txt",
+    "doc_24312.txt",
+    "doc_17812.txt",
+    "doc_27949.txt",
+    "doc_35439.txt"
+  ]
+}

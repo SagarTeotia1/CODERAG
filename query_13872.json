@@ -1,0 +1,10 @@
+{
+  "query": "What is the oldest continuously-operating amusement park in the United States, and where is it located?",
+  "response": [
+    "doc_28134.txt",
+    "doc_24774.txt",
+    "doc_10381.txt",
+    "doc_37582.txt",
+    "doc_24810.txt"
+  ]
+}

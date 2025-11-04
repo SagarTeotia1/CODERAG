@@ -1,0 +1,10 @@
+{
+  "query": "What year was the Boston Beer built?",
+  "response": [
+    "doc_11678.txt",
+    "doc_17790.txt",
+    "doc_12389.txt",
+    "doc_12394.txt",
+    "doc_30211.txt"
+  ]
+}

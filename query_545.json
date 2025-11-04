@@ -1,0 +1,10 @@
+{
+  "query": "What specific financial figure was tracked by Nicholas Brady’s desk phone?",
+  "response": [
+    "doc_973.txt",
+    "doc_1005.txt",
+    "doc_964.txt",
+    "doc_981.txt",
+    "doc_1006.txt"
+  ]
+}

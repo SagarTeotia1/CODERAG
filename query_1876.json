@@ -1,0 +1,10 @@
+{
+  "query": "Where is Blackjack Pizza based?",
+  "response": [
+    "doc_31861.txt",
+    "doc_3899.txt",
+    "doc_3898.txt",
+    "doc_4936.txt",
+    "doc_335.txt"
+  ]
+}

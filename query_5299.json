@@ -1,0 +1,10 @@
+{
+  "query": "How many people were reportedly arrested during demonstrations in Iran on May 1st?",
+  "response": [
+    "doc_23845.txt",
+    "doc_4321.txt",
+    "doc_28267.txt",
+    "doc_31084.txt",
+    "doc_23846.txt"
+  ]
+}

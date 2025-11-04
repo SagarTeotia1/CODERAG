@@ -1,0 +1,10 @@
+{
+  "query": "Which Monty Python member presented “Terry Jones’ Great Map Mystery”?",
+  "response": [
+    "doc_7650.txt",
+    "doc_35872.txt",
+    "doc_24384.txt",
+    "doc_743.txt",
+    "doc_7643.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What record label did Wildstylez found in 2013?",
+  "response": [
+    "doc_23950.txt",
+    "doc_34448.txt",
+    "doc_28123.txt",
+    "doc_24693.txt",
+    "doc_4942.txt"
+  ]
+}

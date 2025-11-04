@@ -1,0 +1,10 @@
+{
+  "query": "What type of band is Cloud Control, and which record label initially released their debut album?",
+  "response": [
+    "doc_38411.txt",
+    "doc_31846.txt",
+    "doc_17901.txt",
+    "doc_8174.txt",
+    "doc_37166.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to the Vienna Convention, which substances are included in Schedule I?",
+  "response": [
+    "doc_33149.txt",
+    "doc_29472.txt",
+    "doc_8100.txt",
+    "doc_29465.txt",
+    "doc_23658.txt"
+  ]
+}

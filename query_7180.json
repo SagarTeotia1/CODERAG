@@ -1,0 +1,10 @@
+{
+  "query": "Which head coach led the 2012 Washington State Cougars football team?",
+  "response": [
+    "doc_8308.txt",
+    "doc_8307.txt",
+    "doc_15073.txt",
+    "doc_38292.txt",
+    "doc_21538.txt"
+  ]
+}

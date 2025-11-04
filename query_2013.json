@@ -1,0 +1,10 @@
+{
+  "query": "Given that Recital 9 of Regulation (EC) No 1400/2002 sought to prevent a supplier from terminating an agreement because a distributor or a repairer engages in ‘pro-competitive behaviour’, such as active or passive sales to foreign consumers, without ‘objective and transparent’ reasons that are ‘clearly set out in writing’, has the Commission asked Mercedes Benz to indicate in writing why it prevents its distributors from selling car parts ‘abroad’?",
+  "response": [
+    "doc_32247.txt",
+    "doc_18907.txt",
+    "doc_22765.txt",
+    "doc_28124.txt",
+    "doc_21794.txt"
+  ]
+}

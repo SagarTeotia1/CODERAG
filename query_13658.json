@@ -1,0 +1,10 @@
+{
+  "query": "What was Laurence Goldstein’s role as chief editor?",
+  "response": [
+    "doc_38379.txt",
+    "doc_38381.txt",
+    "doc_38385.txt",
+    "doc_38388.txt",
+    "doc_38377.txt"
+  ]
+}

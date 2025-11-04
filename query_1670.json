@@ -1,0 +1,10 @@
+{
+  "query": "How many registered supporters did the MakePovertyHistory campaign have?",
+  "response": [
+    "doc_3077.txt",
+    "doc_28051.txt",
+    "doc_28052.txt",
+    "doc_25145.txt",
+    "doc_28050.txt"
+  ]
+}

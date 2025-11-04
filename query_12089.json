@@ -1,0 +1,10 @@
+{
+  "query": "What was the 2010 Victorian storms described as, and what types of weather events did they bring?",
+  "response": [
+    "doc_20383.txt",
+    "doc_32437.txt",
+    "doc_38764.txt",
+    "doc_38763.txt",
+    "doc_2973.txt"
+  ]
+}

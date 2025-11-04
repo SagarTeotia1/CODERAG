@@ -1,0 +1,10 @@
+{
+  "query": "At what age did Michelangelo become an apprentice to Domenico Ghirlandaio?",
+  "response": [
+    "doc_5859.txt",
+    "doc_5861.txt",
+    "doc_5860.txt",
+    "doc_5857.txt",
+    "doc_5858.txt"
+  ]
+}

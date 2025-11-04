@@ -1,0 +1,10 @@
+{
+  "query": "Where do the Red Raiders play their home games?",
+  "response": [
+    "doc_7487.txt",
+    "doc_7486.txt",
+    "doc_15843.txt",
+    "doc_32261.txt",
+    "doc_15842.txt"
+  ]
+}

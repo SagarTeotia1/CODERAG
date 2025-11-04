@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how long is the Amazon River?",
+  "response": [
+    "doc_13394.txt",
+    "doc_13395.txt",
+    "doc_13398.txt",
+    "doc_13400.txt",
+    "doc_13396.txt"
+  ]
+}

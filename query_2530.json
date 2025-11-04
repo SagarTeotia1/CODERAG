@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the first NFL draft held, and which player was selected?",
+  "response": [
+    "doc_4274.txt",
+    "doc_33565.txt",
+    "doc_4272.txt",
+    "doc_4273.txt",
+    "doc_4277.txt"
+  ]
+}

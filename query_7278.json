@@ -1,0 +1,10 @@
+{
+  "query": "What state was Jeff Bridges born in?",
+  "response": [
+    "doc_820.txt",
+    "doc_818.txt",
+    "doc_819.txt",
+    "doc_817.txt",
+    "doc_816.txt"
+  ]
+}

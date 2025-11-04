@@ -1,0 +1,10 @@
+{
+  "query": "What was the construction material used for Fort Matanzas?",
+  "response": [
+    "doc_9369.txt",
+    "doc_5010.txt",
+    "doc_9372.txt",
+    "doc_9371.txt",
+    "doc_9370.txt"
+  ]
+}

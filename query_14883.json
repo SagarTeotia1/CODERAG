@@ -1,0 +1,10 @@
+{
+  "query": "What is Gary Hobson’s profession, according to the passage?",
+  "response": [
+    "doc_354.txt",
+    "doc_353.txt",
+    "doc_11600.txt",
+    "doc_5203.txt",
+    "doc_14054.txt"
+  ]
+}

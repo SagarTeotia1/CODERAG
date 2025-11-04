@@ -1,0 +1,10 @@
+{
+  "query": "What colors did Syracuse University’s athletic teams wear in the 1920s?",
+  "response": [
+    "doc_10451.txt",
+    "doc_10454.txt",
+    "doc_10448.txt",
+    "doc_10452.txt",
+    "doc_10450.txt"
+  ]
+}

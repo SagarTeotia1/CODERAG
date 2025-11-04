@@ -1,0 +1,10 @@
+{
+  "query": "Who served as Secretary of Labor between 1981 and 1985, and what charges were they later investigated for?",
+  "response": [
+    "doc_5020.txt",
+    "doc_37340.txt",
+    "doc_5018.txt",
+    "doc_5022.txt",
+    "doc_5021.txt"
+  ]
+}

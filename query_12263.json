@@ -1,0 +1,10 @@
+{
+  "query": "What province is Shangri-La City located in?",
+  "response": [
+    "doc_5061.txt",
+    "doc_20768.txt",
+    "doc_3409.txt",
+    "doc_3407.txt",
+    "doc_5056.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What country was Alexander Graham Bell born in?",
+  "response": [
+    "doc_19828.txt",
+    "doc_19831.txt",
+    "doc_25580.txt",
+    "doc_19829.txt",
+    "doc_25582.txt"
+  ]
+}

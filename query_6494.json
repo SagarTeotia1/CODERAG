@@ -1,0 +1,10 @@
+{
+  "query": "What type of game is “The Witch and the Hundred Knight 2”?",
+  "response": [
+    "doc_744.txt",
+    "doc_7386.txt",
+    "doc_742.txt",
+    "doc_14313.txt",
+    "doc_14311.txt"
+  ]
+}

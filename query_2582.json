@@ -1,0 +1,10 @@
+{
+  "query": "Which committees’ references are being replaced by the European Food Authority?",
+  "response": [
+    "doc_33720.txt",
+    "doc_33709.txt",
+    "doc_33707.txt",
+    "doc_33694.txt",
+    "doc_33706.txt"
+  ]
+}

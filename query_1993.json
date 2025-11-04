@@ -1,0 +1,10 @@
+{
+  "query": "What specific meeting did the Turkish civil aviation authorities refuse to participate in?",
+  "response": [
+    "doc_32171.txt",
+    "doc_5064.txt",
+    "doc_37465.txt",
+    "doc_18099.txt",
+    "doc_32446.txt"
+  ]
+}

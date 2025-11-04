@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of NSRF funding is the Greek government unable to contribute?",
+  "response": [
+    "doc_39142.txt",
+    "doc_33348.txt",
+    "doc_450.txt",
+    "doc_16113.txt",
+    "doc_17431.txt"
+  ]
+}

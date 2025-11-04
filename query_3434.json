@@ -1,0 +1,10 @@
+{
+  "query": "Which band released the compilation album “Satanic Blood Angel,” and in what year was it released?",
+  "response": [
+    "doc_35580.txt",
+    "doc_21637.txt",
+    "doc_19231.txt",
+    "doc_21638.txt",
+    "doc_34426.txt"
+  ]
+}

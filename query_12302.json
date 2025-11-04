@@ -1,0 +1,10 @@
+{
+  "query": "What was the BARBARA ship commanded by in 1886?",
+  "response": [
+    "doc_9142.txt",
+    "doc_20860.txt",
+    "doc_9147.txt",
+    "doc_9139.txt",
+    "doc_9144.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "How many studio albums has Volbeat released?",
+  "response": [
+    "doc_30587.txt",
+    "doc_30588.txt",
+    "doc_8995.txt",
+    "doc_38411.txt",
+    "doc_19374.txt"
+  ]
+}

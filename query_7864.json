@@ -1,0 +1,10 @@
+{
+  "query": "Who was the chancellor at the Urbana-Champaign campus after consultation with whom?",
+  "response": [
+    "doc_9957.txt",
+    "doc_9955.txt",
+    "doc_9954.txt",
+    "doc_9958.txt",
+    "doc_9956.txt"
+  ]
+}

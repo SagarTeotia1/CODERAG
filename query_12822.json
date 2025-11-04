@@ -1,0 +1,10 @@
+{
+  "query": "Which institution operates the Palomar Observatory?",
+  "response": [
+    "doc_2155.txt",
+    "doc_2154.txt",
+    "doc_2151.txt",
+    "doc_2152.txt",
+    "doc_2153.txt"
+  ]
+}

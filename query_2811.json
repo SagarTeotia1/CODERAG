@@ -1,0 +1,10 @@
+{
+  "query": "Where and when was the 2015 Music City Bowl played?",
+  "response": [
+    "doc_27295.txt",
+    "doc_7394.txt",
+    "doc_27296.txt",
+    "doc_34200.txt",
+    "doc_19110.txt"
+  ]
+}

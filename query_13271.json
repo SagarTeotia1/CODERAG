@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the radio network that broadcasts Tampa Bay Rays games?",
+  "response": [
+    "doc_40278.txt",
+    "doc_40275.txt",
+    "doc_40279.txt",
+    "doc_40273.txt",
+    "doc_40282.txt"
+  ]
+}

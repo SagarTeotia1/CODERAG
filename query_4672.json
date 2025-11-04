@@ -1,0 +1,10 @@
+{
+  "query": "Which album by Nox Arcana pays musical tribute to Bram Stoker’s “Dracula”?",
+  "response": [
+    "doc_23596.txt",
+    "doc_23595.txt",
+    "doc_23594.txt",
+    "doc_23593.txt",
+    "doc_31937.txt"
+  ]
+}

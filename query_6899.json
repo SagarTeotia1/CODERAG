@@ -1,0 +1,10 @@
+{
+  "query": "What is the role of the FBI’s Criminal Justice Information Services Division (CJIS)?",
+  "response": [
+    "doc_730.txt",
+    "doc_733.txt",
+    "doc_732.txt",
+    "doc_731.txt",
+    "doc_734.txt"
+  ]
+}

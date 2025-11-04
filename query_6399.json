@@ -1,0 +1,10 @@
+{
+  "query": "According to the text, how was oregano historically used in ancient Greece?",
+  "response": [
+    "doc_6314.txt",
+    "doc_6316.txt",
+    "doc_6311.txt",
+    "doc_6317.txt",
+    "doc_6309.txt"
+  ]
+}

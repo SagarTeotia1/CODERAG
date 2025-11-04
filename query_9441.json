@@ -1,0 +1,10 @@
+{
+  "query": "In what year did the Danish State award the contract for transport in the Øresund region to a DSB subsidiary?",
+  "response": [
+    "doc_13874.txt",
+    "doc_22707.txt",
+    "doc_12557.txt",
+    "doc_15297.txt",
+    "doc_16044.txt"
+  ]
+}

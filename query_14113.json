@@ -1,0 +1,10 @@
+{
+  "query": "When did the original Disneyland, featuring rail transport, open?",
+  "response": [
+    "doc_22741.txt",
+    "doc_22737.txt",
+    "doc_17032.txt",
+    "doc_22739.txt",
+    "doc_17028.txt"
+  ]
+}

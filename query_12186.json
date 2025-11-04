@@ -1,0 +1,10 @@
+{
+  "query": "What role did Carl Cohen play in the development of Las Vegas as a resort destination?",
+  "response": [
+    "doc_20610.txt",
+    "doc_37652.txt",
+    "doc_20612.txt",
+    "doc_20611.txt",
+    "doc_14097.txt"
+  ]
+}

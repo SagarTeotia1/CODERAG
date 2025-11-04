@@ -1,0 +1,10 @@
+{
+  "query": "How many individuals were arrested before the parliamentary elections in Bahrain?",
+  "response": [
+    "doc_8997.txt",
+    "doc_19222.txt",
+    "doc_3862.txt",
+    "doc_19227.txt",
+    "doc_19221.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When did the Detroit People Mover open?",
+  "response": [
+    "doc_13212.txt",
+    "doc_13217.txt",
+    "doc_13213.txt",
+    "doc_13216.txt",
+    "doc_13214.txt"
+  ]
+}

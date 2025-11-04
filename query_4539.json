@@ -1,0 +1,10 @@
+{
+  "query": "What action did the High Representative/Vice President demand regarding the events in Gaza?",
+  "response": [
+    "doc_38229.txt",
+    "doc_9521.txt",
+    "doc_24456.txt",
+    "doc_6205.txt",
+    "doc_3157.txt"
+  ]
+}

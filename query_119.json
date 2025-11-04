@@ -1,0 +1,10 @@
+{
+  "query": "What award did Lee Min-ho win for his role in “Boys Over Flowers”?",
+  "response": [
+    "doc_27323.txt",
+    "doc_36343.txt",
+    "doc_17866.txt",
+    "doc_27322.txt",
+    "doc_36342.txt"
+  ]
+}

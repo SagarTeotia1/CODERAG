@@ -1,0 +1,10 @@
+{
+  "query": "According to the Fédération Cynologique Internationale, in what group is the Basenji classified?",
+  "response": [
+    "doc_11532.txt",
+    "doc_27673.txt",
+    "doc_18074.txt",
+    "doc_14046.txt",
+    "doc_35796.txt"
+  ]
+}

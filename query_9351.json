@@ -1,0 +1,10 @@
+{
+  "query": "In the summer of 2012, what event briefly reignited conflict in Khorog?",
+  "response": [
+    "doc_13897.txt",
+    "doc_27453.txt",
+    "doc_50.txt",
+    "doc_28608.txt",
+    "doc_34799.txt"
+  ]
+}

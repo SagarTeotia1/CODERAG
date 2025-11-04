@@ -1,0 +1,10 @@
+{
+  "query": "What did Olsen typically do during quieter moments?",
+  "response": [
+    "doc_19314.txt",
+    "doc_10807.txt",
+    "doc_33311.txt",
+    "doc_13359.txt",
+    "doc_29194.txt"
+  ]
+}

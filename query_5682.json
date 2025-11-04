@@ -1,0 +1,10 @@
+{
+  "query": "What unit of measurement was named after Alexander Graham Bell, and what does it measure?",
+  "response": [
+    "doc_4520.txt",
+    "doc_4521.txt",
+    "doc_25585.txt",
+    "doc_25580.txt",
+    "doc_25582.txt"
+  ]
+}

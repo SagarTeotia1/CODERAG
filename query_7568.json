@@ -1,0 +1,10 @@
+{
+  "query": "What prompted the commission of “Peter Grimes” after a performance in Boston?",
+  "response": [
+    "doc_35289.txt",
+    "doc_35290.txt",
+    "doc_2792.txt",
+    "doc_2788.txt",
+    "doc_2798.txt"
+  ]
+}

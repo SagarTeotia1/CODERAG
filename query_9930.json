@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what is the historical practice of using makeup to portray a Black character in theatrical productions like Othello?",
+  "response": [
+    "doc_15021.txt",
+    "doc_15022.txt",
+    "doc_15020.txt",
+    "doc_39395.txt",
+    "doc_39396.txt"
+  ]
+}

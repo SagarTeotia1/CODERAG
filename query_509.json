@@ -1,0 +1,10 @@
+{
+  "query": "In what Green Lantern comic book issue did the character become a Green Lantern?",
+  "response": [
+    "doc_29585.txt",
+    "doc_7304.txt",
+    "doc_29586.txt",
+    "doc_7305.txt",
+    "doc_33595.txt"
+  ]
+}

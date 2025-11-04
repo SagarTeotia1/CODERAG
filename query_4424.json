@@ -1,0 +1,10 @@
+{
+  "query": "In what year was \"McCartney II\" released, and what was the band's status at the time?",
+  "response": [
+    "doc_37522.txt",
+    "doc_21876.txt",
+    "doc_19878.txt",
+    "doc_38232.txt",
+    "doc_21877.txt"
+  ]
+}

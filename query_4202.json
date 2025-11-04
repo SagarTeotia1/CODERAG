@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the ENIAC completed?",
+  "response": [
+    "doc_3734.txt",
+    "doc_3728.txt",
+    "doc_31501.txt",
+    "doc_3731.txt",
+    "doc_3730.txt"
+  ]
+}

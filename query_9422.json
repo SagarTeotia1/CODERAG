@@ -1,0 +1,10 @@
+{
+  "query": "What was Ryanair’s previous attempt to acquire Aer Lingus, and when did it occur?",
+  "response": [
+    "doc_19790.txt",
+    "doc_9770.txt",
+    "doc_17497.txt",
+    "doc_9775.txt",
+    "doc_1308.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What year was “What a Night! A Christmas Album” released by Harry Connick Jr.?",
+  "response": [
+    "doc_31620.txt",
+    "doc_30575.txt",
+    "doc_31616.txt",
+    "doc_31617.txt",
+    "doc_30759.txt"
+  ]
+}

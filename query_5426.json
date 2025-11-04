@@ -1,0 +1,10 @@
+{
+  "query": "What is the current size of Afghanistan’s law enforcement force, and what is the population of the country?",
+  "response": [
+    "doc_24105.txt",
+    "doc_16999.txt",
+    "doc_35015.txt",
+    "doc_3613.txt",
+    "doc_17002.txt"
+  ]
+}

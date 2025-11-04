@@ -1,0 +1,10 @@
+{
+  "query": "According to the Pew Research Centre, what is the ratio of Christians to the total population in the Middle East and North Africa?",
+  "response": [
+    "doc_35360.txt",
+    "doc_35361.txt",
+    "doc_26525.txt",
+    "doc_17358.txt",
+    "doc_3856.txt"
+  ]
+}

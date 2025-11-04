@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Feyenoord win the UEFA Cup Final, and against which team?",
+  "response": [
+    "doc_14055.txt",
+    "doc_22618.txt",
+    "doc_37465.txt",
+    "doc_36355.txt",
+    "doc_12098.txt"
+  ]
+}

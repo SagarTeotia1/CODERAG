@@ -1,0 +1,10 @@
+{
+  "query": "What are the anticipated increases in workload for the European Medicines Agency (EMEA) due to new legislation?",
+  "response": [
+    "doc_15548.txt",
+    "doc_15549.txt",
+    "doc_5900.txt",
+    "doc_16437.txt",
+    "doc_9487.txt"
+  ]
+}

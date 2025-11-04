@@ -1,0 +1,10 @@
+{
+  "query": "How many EU citizens are estimated to be infected with the Hepatitis C virus?",
+  "response": [
+    "doc_22282.txt",
+    "doc_16483.txt",
+    "doc_3560.txt",
+    "doc_16484.txt",
+    "doc_24190.txt"
+  ]
+}

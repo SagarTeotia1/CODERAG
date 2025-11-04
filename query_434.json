@@ -1,0 +1,10 @@
+{
+  "query": "Who takes the Chair at a sitting for electing the President and Bureau?",
+  "response": [
+    "doc_28299.txt",
+    "doc_29293.txt",
+    "doc_2594.txt",
+    "doc_29348.txt",
+    "doc_29291.txt"
+  ]
+}

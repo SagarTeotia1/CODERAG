@@ -1,0 +1,10 @@
+{
+  "query": "What type of crime can be enhanced by being classified as a Hate Crime?",
+  "response": [
+    "doc_36751.txt",
+    "doc_36236.txt",
+    "doc_36750.txt",
+    "doc_6976.txt",
+    "doc_28909.txt"
+  ]
+}

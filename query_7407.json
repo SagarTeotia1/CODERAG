@@ -1,0 +1,10 @@
+{
+  "query": "Has the EU’s aid policy been associated with fraud problems?",
+  "response": [
+    "doc_8858.txt",
+    "doc_20475.txt",
+    "doc_10676.txt",
+    "doc_3474.txt",
+    "doc_7750.txt"
+  ]
+}

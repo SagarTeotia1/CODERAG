@@ -1,0 +1,10 @@
+{
+  "query": "Which song features excerpts from Natalie Cole’s performance of “Someone That I Used to Love”?",
+  "response": [
+    "doc_30763.txt",
+    "doc_30755.txt",
+    "doc_30757.txt",
+    "doc_30758.txt",
+    "doc_30754.txt"
+  ]
+}

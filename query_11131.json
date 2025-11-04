@@ -1,0 +1,10 @@
+{
+  "query": "In what year and location was the 2013 FIFA Confederations Cup held?",
+  "response": [
+    "doc_17969.txt",
+    "doc_14929.txt",
+    "doc_26374.txt",
+    "doc_31534.txt",
+    "doc_26982.txt"
+  ]
+}

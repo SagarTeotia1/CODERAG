@@ -1,0 +1,10 @@
+{
+  "query": "In what region did Garibaldi fight alongside the Italian Legion?",
+  "response": [
+    "doc_32094.txt",
+    "doc_32093.txt",
+    "doc_34982.txt",
+    "doc_31904.txt",
+    "doc_27410.txt"
+  ]
+}

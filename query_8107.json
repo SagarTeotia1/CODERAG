@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the picture book created by Stanley Donwood and Thom Yorke, and on which albums has it been used?",
+  "response": [
+    "doc_37162.txt",
+    "doc_39064.txt",
+    "doc_23881.txt",
+    "doc_39058.txt",
+    "doc_23877.txt"
+  ]
+}

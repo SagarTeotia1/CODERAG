@@ -1,0 +1,10 @@
+{
+  "query": "According to the text, what are some of the different legends surrounding the founding of Bucharest?",
+  "response": [
+    "doc_37787.txt",
+    "doc_37793.txt",
+    "doc_37785.txt",
+    "doc_37786.txt",
+    "doc_37790.txt"
+  ]
+}

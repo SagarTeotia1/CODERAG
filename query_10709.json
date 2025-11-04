@@ -1,0 +1,10 @@
+{
+  "query": "What was Vijay Singh's total earnings for the year he won the PGA Championship?",
+  "response": [
+    "doc_16899.txt",
+    "doc_16900.txt",
+    "doc_16904.txt",
+    "doc_16897.txt",
+    "doc_16902.txt"
+  ]
+}

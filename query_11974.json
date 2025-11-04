@@ -1,0 +1,10 @@
+{
+  "query": "What investment is Volkswagen making that is contributing to the job losses in Brussels?",
+  "response": [
+    "doc_20171.txt",
+    "doc_33225.txt",
+    "doc_4888.txt",
+    "doc_20116.txt",
+    "doc_3933.txt"
+  ]
+}

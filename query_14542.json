@@ -1,0 +1,10 @@
+{
+  "query": "What was the DM&IR’s highest shipment volume, and in what year did it occur?",
+  "response": [
+    "doc_20048.txt",
+    "doc_10193.txt",
+    "doc_5785.txt",
+    "doc_10192.txt",
+    "doc_27286.txt"
+  ]
+}

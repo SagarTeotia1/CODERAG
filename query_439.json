@@ -1,0 +1,10 @@
+{
+  "query": "What types of financial assistance are covered by this Regulation, according to the text?",
+  "response": [
+    "doc_28306.txt",
+    "doc_33142.txt",
+    "doc_33253.txt",
+    "doc_28307.txt",
+    "doc_29851.txt"
+  ]
+}

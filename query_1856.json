@@ -1,0 +1,10 @@
+{
+  "query": "At what event did a French cheese win the title \"Le Roi du Fromage\"?",
+  "response": [
+    "doc_31791.txt",
+    "doc_29945.txt",
+    "doc_125.txt",
+    "doc_29946.txt",
+    "doc_128.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Where is the Croatian Natural History Museum located?",
+  "response": [
+    "doc_20833.txt",
+    "doc_20835.txt",
+    "doc_20831.txt",
+    "doc_20836.txt",
+    "doc_20832.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was Paul Grimes’ motivation for becoming a police informer?",
+  "response": [
+    "doc_11750.txt",
+    "doc_5965.txt",
+    "doc_27857.txt",
+    "doc_35852.txt",
+    "doc_27864.txt"
+  ]
+}

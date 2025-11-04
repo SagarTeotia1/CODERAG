@@ -1,0 +1,10 @@
+{
+  "query": "According to one of the articles, what does Lashondra Dukes do at Southwest Airlines?",
+  "response": [
+    "doc_27065.txt",
+    "doc_20248.txt",
+    "doc_27069.txt",
+    "doc_32009.txt",
+    "doc_6336.txt"
+  ]
+}

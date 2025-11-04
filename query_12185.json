@@ -1,0 +1,10 @@
+{
+  "query": "Where did the author initially begin their journey related to the Mississippi Blues Trail?",
+  "response": [
+    "doc_20608.txt",
+    "doc_20604.txt",
+    "doc_20606.txt",
+    "doc_20603.txt",
+    "doc_20607.txt"
+  ]
+}

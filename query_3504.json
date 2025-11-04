@@ -1,0 +1,10 @@
+{
+  "query": "How many nationals, according to the passage, were taken prisoner by the Turkish forces during the 1974 invasion of Cyprus?",
+  "response": [
+    "doc_35739.txt",
+    "doc_17198.txt",
+    "doc_9322.txt",
+    "doc_33323.txt",
+    "doc_20473.txt"
+  ]
+}

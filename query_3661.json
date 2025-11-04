@@ -1,0 +1,10 @@
+{
+  "query": "In what year was James Joyce’s “Ulysses” published?",
+  "response": [
+    "doc_18899.txt",
+    "doc_18898.txt",
+    "doc_21440.txt",
+    "doc_18897.txt",
+    "doc_21442.txt"
+  ]
+}

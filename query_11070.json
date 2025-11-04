@@ -1,0 +1,10 @@
+{
+  "query": "Who was involved in the exploratory mission sent to Vietnam?",
+  "response": [
+    "doc_36573.txt",
+    "doc_36579.txt",
+    "doc_29670.txt",
+    "doc_36578.txt",
+    "doc_15067.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Since 2009, how many cases of garlic smuggling from China to the EU has the EU’s Anti-Fraud Office (OLAF) uncovered?",
+  "response": [
+    "doc_37512.txt",
+    "doc_35920.txt",
+    "doc_522.txt",
+    "doc_17110.txt",
+    "doc_27638.txt"
+  ]
+}

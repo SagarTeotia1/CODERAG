@@ -1,0 +1,10 @@
+{
+  "query": "What was the subject of the sixth special session of the UNHRC mentioned in the passage?",
+  "response": [
+    "doc_26530.txt",
+    "doc_26264.txt",
+    "doc_26265.txt",
+    "doc_26266.txt",
+    "doc_26529.txt"
+  ]
+}

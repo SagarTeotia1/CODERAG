@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided texts, what kind of novels did Isaac D'Israeli write?",
+  "response": [
+    "doc_14009.txt",
+    "doc_14005.txt",
+    "doc_14008.txt",
+    "doc_14004.txt",
+    "doc_14006.txt"
+  ]
+}

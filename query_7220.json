@@ -1,0 +1,10 @@
+{
+  "query": "What was the purpose of the Mississippi Freedom Democratic Party?",
+  "response": [
+    "doc_32040.txt",
+    "doc_14422.txt",
+    "doc_4920.txt",
+    "doc_32042.txt",
+    "doc_32044.txt"
+  ]
+}

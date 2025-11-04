@@ -1,0 +1,10 @@
+{
+  "query": "Besides St. Moritz, what other location is mentioned as a “jet-set capital”?",
+  "response": [
+    "doc_15880.txt",
+    "doc_15881.txt",
+    "doc_15878.txt",
+    "doc_15879.txt",
+    "doc_15877.txt"
+  ]
+}

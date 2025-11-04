@@ -1,0 +1,10 @@
+{
+  "query": "What conference did the 2013 Georgia State Panthers football team play in, and what was their record that season?",
+  "response": [
+    "doc_21842.txt",
+    "doc_21843.txt",
+    "doc_15074.txt",
+    "doc_38293.txt",
+    "doc_15159.txt"
+  ]
+}

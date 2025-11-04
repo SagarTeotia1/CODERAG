@@ -1,0 +1,10 @@
+{
+  "query": "Who contributed to the song's musical elements, besides Smokey Robinson?",
+  "response": [
+    "doc_18294.txt",
+    "doc_18293.txt",
+    "doc_19643.txt",
+    "doc_19644.txt",
+    "doc_19636.txt"
+  ]
+}

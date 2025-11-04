@@ -1,0 +1,10 @@
+{
+  "query": "Which film featured 1945 as Li Hai Sheng, Abbot of Justice Office?",
+  "response": [
+    "doc_8354.txt",
+    "doc_11943.txt",
+    "doc_11942.txt",
+    "doc_18851.txt",
+    "doc_8353.txt"
+  ]
+}

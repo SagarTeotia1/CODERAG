@@ -1,0 +1,10 @@
+{
+  "query": "What was the first television drama series starring David Yip, featuring a Chinese lead actor?",
+  "response": [
+    "doc_26527.txt",
+    "doc_8274.txt",
+    "doc_8277.txt",
+    "doc_24198.txt",
+    "doc_8354.txt"
+  ]
+}

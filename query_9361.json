@@ -1,0 +1,10 @@
+{
+  "query": "With whom will President Pöttering meet in Beirut, Lebanon?",
+  "response": [
+    "doc_36674.txt",
+    "doc_2462.txt",
+    "doc_15323.txt",
+    "doc_2454.txt",
+    "doc_2457.txt"
+  ]
+}

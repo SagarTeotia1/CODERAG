@@ -1,0 +1,10 @@
+{
+  "query": "How many signatures were associated with the report from the NSZZ Solidarnosc?",
+  "response": [
+    "doc_8729.txt",
+    "doc_29227.txt",
+    "doc_18536.txt",
+    "doc_29252.txt",
+    "doc_29251.txt"
+  ]
+}

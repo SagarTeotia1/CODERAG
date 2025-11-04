@@ -1,0 +1,10 @@
+{
+  "query": "What does Gatty Drive specialize in regarding vehicles?",
+  "response": [
+    "doc_20227.txt",
+    "doc_20230.txt",
+    "doc_20232.txt",
+    "doc_12277.txt",
+    "doc_26518.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of Catalonia’s coastline is currently totally protected, according to the passage?",
+  "response": [
+    "doc_1173.txt",
+    "doc_16971.txt",
+    "doc_11247.txt",
+    "doc_41.txt",
+    "doc_1441.txt"
+  ]
+}

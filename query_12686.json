@@ -1,0 +1,10 @@
+{
+  "query": "Which committee appointed Catherine Stihler as rapporteur for the report?",
+  "response": [
+    "doc_5536.txt",
+    "doc_21891.txt",
+    "doc_5993.txt",
+    "doc_2085.txt",
+    "doc_29753.txt"
+  ]
+}

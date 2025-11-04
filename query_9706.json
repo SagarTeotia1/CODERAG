@@ -1,0 +1,10 @@
+{
+  "query": "How many times was the title of Viscount Powerscourt created?",
+  "response": [
+    "doc_14449.txt",
+    "doc_24412.txt",
+    "doc_39302.txt",
+    "doc_22676.txt",
+    "doc_16051.txt"
+  ]
+}

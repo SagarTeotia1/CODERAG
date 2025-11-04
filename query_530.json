@@ -1,0 +1,10 @@
+{
+  "query": "Who was the art director for Donald Duck & Co (Egmont Serieforlaget, 1997 series)?",
+  "response": [
+    "doc_21340.txt",
+    "doc_20057.txt",
+    "doc_22398.txt",
+    "doc_32708.txt",
+    "doc_38950.txt"
+  ]
+}

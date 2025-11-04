@@ -1,0 +1,10 @@
+{
+  "query": "What amounts of money were involved in funding small Tacis Programme projects?",
+  "response": [
+    "doc_1579.txt",
+    "doc_15528.txt",
+    "doc_36475.txt",
+    "doc_3774.txt",
+    "doc_7286.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was the subject matter of Aeschylus' play, *The Persians*?",
+  "response": [
+    "doc_36733.txt",
+    "doc_24814.txt",
+    "doc_36737.txt",
+    "doc_36739.txt",
+    "doc_19770.txt"
+  ]
+}

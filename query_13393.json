@@ -1,0 +1,10 @@
+{
+  "query": "In what year did the AquaDuck first open on a Disney cruise ship?",
+  "response": [
+    "doc_23542.txt",
+    "doc_17031.txt",
+    "doc_17032.txt",
+    "doc_36668.txt",
+    "doc_17028.txt"
+  ]
+}

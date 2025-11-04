@@ -1,0 +1,10 @@
+{
+  "query": "Is the Commission aware of the report published by the Danish Maritime Authority regarding the sinking of the Karin Cat?",
+  "response": [
+    "doc_13806.txt",
+    "doc_3702.txt",
+    "doc_37105.txt",
+    "doc_36448.txt",
+    "doc_28498.txt"
+  ]
+}

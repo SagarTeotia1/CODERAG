@@ -1,0 +1,10 @@
+{
+  "query": "What is the primary tool under Community law for addressing incorrect implementation of EU legislation by Member States?",
+  "response": [
+    "doc_1095.txt",
+    "doc_1097.txt",
+    "doc_1495.txt",
+    "doc_1103.txt",
+    "doc_1077.txt"
+  ]
+}

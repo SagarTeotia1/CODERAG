@@ -1,0 +1,10 @@
+{
+  "query": "In what district of New York did Mr. Krantz serve as U.S. Attorney between 1983 and 1989?",
+  "response": [
+    "doc_38155.txt",
+    "doc_38156.txt",
+    "doc_38157.txt",
+    "doc_38159.txt",
+    "doc_38160.txt"
+  ]
+}

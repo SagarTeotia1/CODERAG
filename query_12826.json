@@ -1,0 +1,10 @@
+{
+  "query": "Which actor replaced Gollapudi Maruti Rao in the cast of the film?",
+  "response": [
+    "doc_16919.txt",
+    "doc_30207.txt",
+    "doc_23210.txt",
+    "doc_30078.txt",
+    "doc_11373.txt"
+  ]
+}

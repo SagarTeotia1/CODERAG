@@ -1,0 +1,10 @@
+{
+  "query": "What is the proposed amount of macro-financial assistance (MFA) the Commission intends to provide to Georgia?",
+  "response": [
+    "doc_20.txt",
+    "doc_19.txt",
+    "doc_21.txt",
+    "doc_22.txt",
+    "doc_23.txt"
+  ]
+}

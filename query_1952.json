@@ -1,0 +1,10 @@
+{
+  "query": "Where did Garibaldi learn guerrilla warfare?",
+  "response": [
+    "doc_32093.txt",
+    "doc_32094.txt",
+    "doc_7760.txt",
+    "doc_27410.txt",
+    "doc_16376.txt"
+  ]
+}

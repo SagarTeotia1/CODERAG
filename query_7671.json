@@ -1,0 +1,10 @@
+{
+  "query": "What type of character did Charlie Chaplin create in the early 19th century?",
+  "response": [
+    "doc_9558.txt",
+    "doc_9555.txt",
+    "doc_9564.txt",
+    "doc_9556.txt",
+    "doc_9557.txt"
+  ]
+}

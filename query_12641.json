@@ -1,0 +1,10 @@
+{
+  "query": "Who was the professor named Lowry Nelson?",
+  "response": [
+    "doc_21694.txt",
+    "doc_29678.txt",
+    "doc_29677.txt",
+    "doc_11088.txt",
+    "doc_5246.txt"
+  ]
+}

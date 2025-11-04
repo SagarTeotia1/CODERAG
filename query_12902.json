@@ -1,0 +1,10 @@
+{
+  "query": "What type of novels is Mary Higgins Clark an author of?",
+  "response": [
+    "doc_22494.txt",
+    "doc_22495.txt",
+    "doc_22496.txt",
+    "doc_1926.txt",
+    "doc_1928.txt"
+  ]
+}

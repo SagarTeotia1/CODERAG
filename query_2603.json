@@ -1,0 +1,10 @@
+{
+  "query": "What is the traditional kit worn by Millwall’s football team?",
+  "response": [
+    "doc_3337.txt",
+    "doc_3336.txt",
+    "doc_16759.txt",
+    "doc_16760.txt",
+    "doc_1310.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is Edward Sorel known for in his artistic style?",
+  "response": [
+    "doc_30244.txt",
+    "doc_7174.txt",
+    "doc_14753.txt",
+    "doc_18726.txt",
+    "doc_2306.txt"
+  ]
+}

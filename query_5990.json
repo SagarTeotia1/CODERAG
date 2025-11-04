@@ -1,0 +1,10 @@
+{
+  "query": "How long has Amos been working in the entertainment industry?",
+  "response": [
+    "doc_5342.txt",
+    "doc_37216.txt",
+    "doc_29015.txt",
+    "doc_37215.txt",
+    "doc_1168.txt"
+  ]
+}

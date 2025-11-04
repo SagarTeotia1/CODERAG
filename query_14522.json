@@ -1,0 +1,10 @@
+{
+  "query": "Did the Commission recommend that France be held liable for fines related to the ban on British beef imports?",
+  "response": [
+    "doc_26446.txt",
+    "doc_17418.txt",
+    "doc_3371.txt",
+    "doc_1849.txt",
+    "doc_34322.txt"
+  ]
+}

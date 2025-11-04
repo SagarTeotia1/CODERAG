@@ -1,0 +1,10 @@
+{
+  "query": "On what date did Benjamin Franklin conduct his famous kite experiment?",
+  "response": [
+    "doc_11918.txt",
+    "doc_11921.txt",
+    "doc_11917.txt",
+    "doc_11916.txt",
+    "doc_11920.txt"
+  ]
+}

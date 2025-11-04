@@ -1,0 +1,10 @@
+{
+  "query": "Which groups of Members submitted the joint motion regarding safety problems at Sellafield?",
+  "response": [
+    "doc_35168.txt",
+    "doc_20765.txt",
+    "doc_17546.txt",
+    "doc_35169.txt",
+    "doc_2289.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the maximum amount of compensation the Financial Services Ombudsman can award to a complainant?",
+  "response": [
+    "doc_1060.txt",
+    "doc_1022.txt",
+    "doc_1021.txt",
+    "doc_1029.txt",
+    "doc_1032.txt"
+  ]
+}

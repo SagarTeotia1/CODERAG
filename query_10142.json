@@ -1,0 +1,10 @@
+{
+  "query": "What was the total amount of overall commitments and payments for the PDB 2007?",
+  "response": [
+    "doc_15479.txt",
+    "doc_15504.txt",
+    "doc_15480.txt",
+    "doc_15486.txt",
+    "doc_14630.txt"
+  ]
+}

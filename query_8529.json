@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of payments checked by the Court of Auditors contained errors?",
+  "response": [
+    "doc_16472.txt",
+    "doc_3474.txt",
+    "doc_22149.txt",
+    "doc_33942.txt",
+    "doc_15336.txt"
+  ]
+}

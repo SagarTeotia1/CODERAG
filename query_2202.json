@@ -1,0 +1,10 @@
+{
+  "query": "When was Valery Yudin, a member of the Communist Party of Ukraine, murdered?",
+  "response": [
+    "doc_3194.txt",
+    "doc_5979.txt",
+    "doc_5981.txt",
+    "doc_3200.txt",
+    "doc_20541.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In 2015, what type of suit was described as being designed by San Giorgio and made for a model?",
+  "response": [
+    "doc_25226.txt",
+    "doc_23288.txt",
+    "doc_37457.txt",
+    "doc_23286.txt",
+    "doc_34410.txt"
+  ]
+}

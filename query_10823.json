@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the trivia question about Jacob and Leah featured on Jeopardy?",
+  "response": [
+    "doc_17169.txt",
+    "doc_7156.txt",
+    "doc_646.txt",
+    "doc_8096.txt",
+    "doc_34003.txt"
+  ]
+}

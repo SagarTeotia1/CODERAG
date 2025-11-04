@@ -1,0 +1,10 @@
+{
+  "query": "How many performers were involved in Nik Wallenda’s Stunt Spectacular show?",
+  "response": [
+    "doc_32865.txt",
+    "doc_32860.txt",
+    "doc_25676.txt",
+    "doc_32859.txt",
+    "doc_25674.txt"
+  ]
+}

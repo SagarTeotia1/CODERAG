@@ -1,0 +1,10 @@
+{
+  "query": "Since 2006, what regions have the EMEA conducted inspections related to Good Clinical Practice?",
+  "response": [
+    "doc_5900.txt",
+    "doc_5899.txt",
+    "doc_39502.txt",
+    "doc_6296.txt",
+    "doc_5121.txt"
+  ]
+}

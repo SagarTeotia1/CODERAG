@@ -1,0 +1,10 @@
+{
+  "query": "Is the European health insurance card still valid within the EU?",
+  "response": [
+    "doc_15894.txt",
+    "doc_33402.txt",
+    "doc_6825.txt",
+    "doc_30696.txt",
+    "doc_2537.txt"
+  ]
+}

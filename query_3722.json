@@ -1,0 +1,10 @@
+{
+  "query": "According to the USDA report, which food item was more expensive per calorie than non-diet soda?",
+  "response": [
+    "doc_36268.txt",
+    "doc_36267.txt",
+    "doc_36266.txt",
+    "doc_36269.txt",
+    "doc_36264.txt"
+  ]
+}

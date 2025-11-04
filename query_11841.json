@@ -1,0 +1,10 @@
+{
+  "query": "How much initial funding was allocated by the European Commission for humanitarian support?",
+  "response": [
+    "doc_36231.txt",
+    "doc_24866.txt",
+    "doc_9778.txt",
+    "doc_15493.txt",
+    "doc_15990.txt"
+  ]
+}

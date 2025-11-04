@@ -1,0 +1,10 @@
+{
+  "query": "In 1975, which two teams competed in the Stanley Cup Final, and who ultimately won?",
+  "response": [
+    "doc_32632.txt",
+    "doc_32636.txt",
+    "doc_32629.txt",
+    "doc_32633.txt",
+    "doc_32635.txt"
+  ]
+}

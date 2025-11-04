@@ -1,0 +1,10 @@
+{
+  "query": "Has the company in question received assistance from the European Social Fund?",
+  "response": [
+    "doc_7293.txt",
+    "doc_33127.txt",
+    "doc_10361.txt",
+    "doc_33813.txt",
+    "doc_10365.txt"
+  ]
+}

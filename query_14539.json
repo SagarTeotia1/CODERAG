@@ -1,0 +1,10 @@
+{
+  "query": "What was Marie’s diminutive form of her name?",
+  "response": [
+    "doc_31855.txt",
+    "doc_31854.txt",
+    "doc_35958.txt",
+    "doc_39333.txt",
+    "doc_35959.txt"
+  ]
+}

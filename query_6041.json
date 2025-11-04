@@ -1,0 +1,10 @@
+{
+  "query": "In which league does Inter Leipzig currently compete?",
+  "response": [
+    "doc_5454.txt",
+    "doc_29509.txt",
+    "doc_5453.txt",
+    "doc_35467.txt",
+    "doc_37570.txt"
+  ]
+}

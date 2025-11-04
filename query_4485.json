@@ -1,0 +1,10 @@
+{
+  "query": "What is the range of acres involved in the dredging of the Mermentau River bar?",
+  "response": [
+    "doc_38102.txt",
+    "doc_16202.txt",
+    "doc_36836.txt",
+    "doc_38101.txt",
+    "doc_20677.txt"
+  ]
+}

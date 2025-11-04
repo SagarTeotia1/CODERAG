@@ -1,0 +1,10 @@
+{
+  "query": "Which two diseases necessitate additional guarantees under Directive 64/432/EEC for intra-Community trade?",
+  "response": [
+    "doc_30735.txt",
+    "doc_13745.txt",
+    "doc_23692.txt",
+    "doc_35660.txt",
+    "doc_13747.txt"
+  ]
+}

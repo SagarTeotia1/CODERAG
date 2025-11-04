@@ -1,0 +1,10 @@
+{
+  "query": "According to the text, what was the focus of John Preus’s work as a collaborator?",
+  "response": [
+    "doc_12088.txt",
+    "doc_15263.txt",
+    "doc_12168.txt",
+    "doc_27020.txt",
+    "doc_18232.txt"
+  ]
+}

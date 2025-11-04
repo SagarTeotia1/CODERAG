@@ -1,0 +1,10 @@
+{
+  "query": "What action has the Commission taken regarding Hungary’s measures?",
+  "response": [
+    "doc_26307.txt",
+    "doc_32078.txt",
+    "doc_38395.txt",
+    "doc_37181.txt",
+    "doc_4138.txt"
+  ]
+}

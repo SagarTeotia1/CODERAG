@@ -1,0 +1,10 @@
+{
+  "query": "Besides the Red radish, what other varieties of radishes are mentioned?",
+  "response": [
+    "doc_36508.txt",
+    "doc_36513.txt",
+    "doc_36509.txt",
+    "doc_36510.txt",
+    "doc_36512.txt"
+  ]
+}

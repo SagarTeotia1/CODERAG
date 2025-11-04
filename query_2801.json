@@ -1,0 +1,10 @@
+{
+  "query": "What prompted the European Commission to conduct stress tests on nuclear power plants?",
+  "response": [
+    "doc_38018.txt",
+    "doc_39463.txt",
+    "doc_34188.txt",
+    "doc_34238.txt",
+    "doc_18532.txt"
+  ]
+}

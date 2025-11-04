@@ -1,0 +1,10 @@
+{
+  "query": "What historical area in Omaha, Nebraska, was the basis for the Gold Coast Historic District?",
+  "response": [
+    "doc_11879.txt",
+    "doc_21664.txt",
+    "doc_40301.txt",
+    "doc_6068.txt",
+    "doc_6386.txt"
+  ]
+}

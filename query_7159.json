@@ -1,0 +1,10 @@
+{
+  "query": "Does the proposed ban on children flying contravene existing European Union legislation?",
+  "response": [
+    "doc_8271.txt",
+    "doc_15272.txt",
+    "doc_14589.txt",
+    "doc_36849.txt",
+    "doc_14588.txt"
+  ]
+}

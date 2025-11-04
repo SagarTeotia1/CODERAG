@@ -1,0 +1,10 @@
+{
+  "query": "What civic holiday commemorates the anniversary of the Battles of Lexington and Concord?",
+  "response": [
+    "doc_277.txt",
+    "doc_278.txt",
+    "doc_282.txt",
+    "doc_23092.txt",
+    "doc_23091.txt"
+  ]
+}

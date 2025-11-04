@@ -1,0 +1,10 @@
+{
+  "query": "Which film was adapted from Thornton Wilder’s novel “The Bridge of San Luis Rey”?",
+  "response": [
+    "doc_31757.txt",
+    "doc_18855.txt",
+    "doc_36342.txt",
+    "doc_36341.txt",
+    "doc_6768.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "On what date and time will the vote on the statements regarding the situation in Tibet take place?",
+  "response": [
+    "doc_18303.txt",
+    "doc_18304.txt",
+    "doc_30879.txt",
+    "doc_28233.txt",
+    "doc_30881.txt"
+  ]
+}

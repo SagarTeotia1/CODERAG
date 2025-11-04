@@ -1,0 +1,10 @@
+{
+  "query": "What changes were made to the term \"Banking Advisory Committee\"?",
+  "response": [
+    "doc_18741.txt",
+    "doc_18742.txt",
+    "doc_18739.txt",
+    "doc_7882.txt",
+    "doc_5999.txt"
+  ]
+}

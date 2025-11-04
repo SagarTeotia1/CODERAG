@@ -1,0 +1,10 @@
+{
+  "query": "What does the EU Commission state regarding an exemption from civil court fees for EU citizens receiving social security benefits?",
+  "response": [
+    "doc_9121.txt",
+    "doc_35245.txt",
+    "doc_10145.txt",
+    "doc_16645.txt",
+    "doc_25188.txt"
+  ]
+}

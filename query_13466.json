@@ -1,0 +1,10 @@
+{
+  "query": "When did Claude Monet and Camille marry, and what event preceded this marriage?",
+  "response": [
+    "doc_2303.txt",
+    "doc_2307.txt",
+    "doc_2310.txt",
+    "doc_2309.txt",
+    "doc_2311.txt"
+  ]
+}

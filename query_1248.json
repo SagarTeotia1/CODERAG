@@ -1,0 +1,10 @@
+{
+  "query": "What countries does the U.S. Embassy in Suva, Fiji, have jurisdiction over?",
+  "response": [
+    "doc_2961.txt",
+    "doc_2965.txt",
+    "doc_2963.txt",
+    "doc_2964.txt",
+    "doc_2962.txt"
+  ]
+}

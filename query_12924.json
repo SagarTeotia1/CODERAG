@@ -1,0 +1,10 @@
+{
+  "query": "One of two hyphenated composers who flourished in the 1870s, one with “The Maid of Pskov” and one with “Samson et Dalila”.",
+  "response": [
+    "doc_22543.txt",
+    "doc_31272.txt",
+    "doc_24498.txt",
+    "doc_1490.txt",
+    "doc_1492.txt"
+  ]
+}

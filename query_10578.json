@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the film “Loetoeng Kasaroeng,” the first locally produced film in the Dutch East Indies, released?",
+  "response": [
+    "doc_15411.txt",
+    "doc_9538.txt",
+    "doc_17259.txt",
+    "doc_15413.txt",
+    "doc_8064.txt"
+  ]
+}

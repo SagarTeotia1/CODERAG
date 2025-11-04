@@ -1,0 +1,10 @@
+{
+  "query": "What is the subject of the Greenpeace campaign being conducted in Germany?",
+  "response": [
+    "doc_31155.txt",
+    "doc_22262.txt",
+    "doc_2382.txt",
+    "doc_26863.txt",
+    "doc_1000.txt"
+  ]
+}

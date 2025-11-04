@@ -1,0 +1,10 @@
+{
+  "query": "What city is home to the Colorado Avalanche?",
+  "response": [
+    "doc_17332.txt",
+    "doc_17333.txt",
+    "doc_17334.txt",
+    "doc_17335.txt",
+    "doc_17336.txt"
+  ]
+}

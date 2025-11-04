@@ -1,0 +1,10 @@
+{
+  "query": "What publication is cited as providing scientific evidence regarding the endangerment of the Saimaa ringed seal population?",
+  "response": [
+    "doc_9455.txt",
+    "doc_6081.txt",
+    "doc_21112.txt",
+    "doc_9457.txt",
+    "doc_6079.txt"
+  ]
+}

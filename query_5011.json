@@ -1,0 +1,10 @@
+{
+  "query": "How many times has Switzerland participated in the Eurovision Song Contest?",
+  "response": [
+    "doc_15877.txt",
+    "doc_37040.txt",
+    "doc_39340.txt",
+    "doc_15881.txt",
+    "doc_32954.txt"
+  ]
+}

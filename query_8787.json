@@ -1,0 +1,10 @@
+{
+  "query": "What was the final score of the 2009 Toulon Tournament final?",
+  "response": [
+    "doc_12270.txt",
+    "doc_33680.txt",
+    "doc_7392.txt",
+    "doc_23689.txt",
+    "doc_12271.txt"
+  ]
+}

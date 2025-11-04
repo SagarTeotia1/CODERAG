@@ -1,0 +1,10 @@
+{
+  "query": "What is the location of Turnberry Castle?",
+  "response": [
+    "doc_12260.txt",
+    "doc_12262.txt",
+    "doc_12268.txt",
+    "doc_12263.txt",
+    "doc_12265.txt"
+  ]
+}

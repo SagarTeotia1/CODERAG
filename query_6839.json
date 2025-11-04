@@ -1,0 +1,9 @@
+{
+  "query": "When was Louis XVI born?",
+  "response": [
+    "doc_13386.txt",
+    "doc_13388.txt",
+    "doc_13387.txt",
+    "doc_13385.txt"
+  ]
+}

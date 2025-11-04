@@ -1,0 +1,10 @@
+{
+  "query": "Which countries ratified the Montreal Amendment as of July 28, 2003?",
+  "response": [
+    "doc_33149.txt",
+    "doc_37925.txt",
+    "doc_17529.txt",
+    "doc_9159.txt",
+    "doc_7761.txt"
+  ]
+}

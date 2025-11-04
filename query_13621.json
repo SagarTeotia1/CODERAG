@@ -1,0 +1,10 @@
+{
+  "query": "What are the three songs featured in the “Live from Paisley Park” digital single?",
+  "response": [
+    "doc_12203.txt",
+    "doc_13768.txt",
+    "doc_7975.txt",
+    "doc_13769.txt",
+    "doc_25286.txt"
+  ]
+}

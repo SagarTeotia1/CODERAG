@@ -1,0 +1,10 @@
+{
+  "query": "What is Richard Simmons’ occupation, according to the Wikipedia article about him?",
+  "response": [
+    "doc_37719.txt",
+    "doc_37722.txt",
+    "doc_37723.txt",
+    "doc_37721.txt",
+    "doc_12628.txt"
+  ]
+}

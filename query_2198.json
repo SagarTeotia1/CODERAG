@@ -1,0 +1,10 @@
+{
+  "query": "What types of discrimination are covered by the EU’s non-discrimination and gender equality directives?",
+  "response": [
+    "doc_32702.txt",
+    "doc_1674.txt",
+    "doc_36236.txt",
+    "doc_31943.txt",
+    "doc_7886.txt"
+  ]
+}

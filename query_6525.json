@@ -1,0 +1,10 @@
+{
+  "query": "Since what year has Sal Iacono been an adjunct professor at St. Joseph’s University?",
+  "response": [
+    "doc_9961.txt",
+    "doc_9953.txt",
+    "doc_32425.txt",
+    "doc_25631.txt",
+    "doc_32426.txt"
+  ]
+}

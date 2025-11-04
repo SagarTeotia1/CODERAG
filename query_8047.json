@@ -1,0 +1,10 @@
+{
+  "query": "What nickname was Alexander Nevsky given, and what does it signify based on the text?",
+  "response": [
+    "doc_10507.txt",
+    "doc_10506.txt",
+    "doc_10508.txt",
+    "doc_10509.txt",
+    "doc_10510.txt"
+  ]
+}

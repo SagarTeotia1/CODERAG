@@ -1,0 +1,10 @@
+{
+  "query": "Which film featured Elia Kazan as the director?",
+  "response": [
+    "doc_21982.txt",
+    "doc_39196.txt",
+    "doc_29967.txt",
+    "doc_39219.txt",
+    "doc_21984.txt"
+  ]
+}

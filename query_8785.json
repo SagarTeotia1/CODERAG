@@ -1,0 +1,10 @@
+{
+  "query": "Which teams were part of Group A of the 2014 Toulon Tournament?",
+  "response": [
+    "doc_12270.txt",
+    "doc_25343.txt",
+    "doc_12639.txt",
+    "doc_31015.txt",
+    "doc_12640.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When was the Rams franchise founded?",
+  "response": [
+    "doc_32435.txt",
+    "doc_32432.txt",
+    "doc_32434.txt",
+    "doc_9441.txt",
+    "doc_4272.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What war was fought at the Trebia River?",
+  "response": [
+    "doc_7077.txt",
+    "doc_7080.txt",
+    "doc_7074.txt",
+    "doc_7072.txt",
+    "doc_7075.txt"
+  ]
+}

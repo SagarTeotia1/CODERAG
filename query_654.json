@@ -1,0 +1,10 @@
+{
+  "query": "Which index is equivalent to the Dow Jones?",
+  "response": [
+    "doc_28723.txt",
+    "doc_28719.txt",
+    "doc_28724.txt",
+    "doc_28721.txt",
+    "doc_28720.txt"
+  ]
+}

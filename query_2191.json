@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Prohibition take effect?",
+  "response": [
+    "doc_3191.txt",
+    "doc_3192.txt",
+    "doc_3189.txt",
+    "doc_3190.txt",
+    "doc_3193.txt"
+  ]
+}

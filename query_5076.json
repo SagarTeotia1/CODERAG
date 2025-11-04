@@ -1,0 +1,10 @@
+{
+  "query": "What directives apply to urban development planned within the ‘Sierra de Almenara’ site?",
+  "response": [
+    "doc_39523.txt",
+    "doc_10189.txt",
+    "doc_2015.txt",
+    "doc_22025.txt",
+    "doc_28772.txt"
+  ]
+}

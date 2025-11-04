@@ -1,0 +1,10 @@
+{
+  "query": "What actions are the Spanish authorities reportedly taking to address the illegal landfill situation?",
+  "response": [
+    "doc_28426.txt",
+    "doc_4017.txt",
+    "doc_1722.txt",
+    "doc_38050.txt",
+    "doc_32100.txt"
+  ]
+}

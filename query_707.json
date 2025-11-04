@@ -1,0 +1,10 @@
+{
+  "query": "Which bodies, besides the Commission, are eligible for discharge according to the text?",
+  "response": [
+    "doc_2655.txt",
+    "doc_28896.txt",
+    "doc_28898.txt",
+    "doc_27145.txt",
+    "doc_29362.txt"
+  ]
+}

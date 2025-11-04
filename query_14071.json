@@ -1,0 +1,10 @@
+{
+  "query": "What recreational activities are available at East Potomac Park?",
+  "response": [
+    "doc_25269.txt",
+    "doc_25270.txt",
+    "doc_18014.txt",
+    "doc_18015.txt",
+    "doc_18013.txt"
+  ]
+}

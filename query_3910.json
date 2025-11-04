@@ -1,0 +1,10 @@
+{
+  "query": "What was Samuel Colt’s role on the ship, the Corvo, in 1830?",
+  "response": [
+    "doc_36715.txt",
+    "doc_36716.txt",
+    "doc_36717.txt",
+    "doc_36718.txt",
+    "doc_36721.txt"
+  ]
+}

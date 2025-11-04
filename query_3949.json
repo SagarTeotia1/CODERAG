@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how many square miles does the Okefenokee Swamp cover?",
+  "response": [
+    "doc_36835.txt",
+    "doc_36837.txt",
+    "doc_36836.txt",
+    "doc_36838.txt",
+    "doc_40196.txt"
+  ]
+}

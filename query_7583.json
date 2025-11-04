@@ -1,0 +1,10 @@
+{
+  "query": "In what year and location did Nat Turner lead a rebellion?",
+  "response": [
+    "doc_9291.txt",
+    "doc_9294.txt",
+    "doc_9290.txt",
+    "doc_9289.txt",
+    "doc_9292.txt"
+  ]
+}

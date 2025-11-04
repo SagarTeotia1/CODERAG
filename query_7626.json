@@ -1,0 +1,10 @@
+{
+  "query": "According to KEELPNO, what percentage of illegal migrants are suffering from tuberculosis?",
+  "response": [
+    "doc_9412.txt",
+    "doc_1417.txt",
+    "doc_19342.txt",
+    "doc_12851.txt",
+    "doc_12845.txt"
+  ]
+}

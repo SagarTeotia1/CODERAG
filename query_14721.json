@@ -1,0 +1,10 @@
+{
+  "query": "What type of systems did the AFCO study focus on?",
+  "response": [
+    "doc_5565.txt",
+    "doc_23663.txt",
+    "doc_37548.txt",
+    "doc_7260.txt",
+    "doc_1445.txt"
+  ]
+}

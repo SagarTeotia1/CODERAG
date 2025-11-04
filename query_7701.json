@@ -1,0 +1,10 @@
+{
+  "query": "Who directed the film *Donnie Darko: The Director’s Cut*, and what was a notable aspect of its initial release?",
+  "response": [
+    "doc_19042.txt",
+    "doc_16185.txt",
+    "doc_31161.txt",
+    "doc_14365.txt",
+    "doc_22351.txt"
+  ]
+}

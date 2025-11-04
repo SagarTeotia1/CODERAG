@@ -1,0 +1,10 @@
+{
+  "query": "Which river systems are protected by this Act?",
+  "response": [
+    "doc_24062.txt",
+    "doc_40201.txt",
+    "doc_23304.txt",
+    "doc_19100.txt",
+    "doc_23492.txt"
+  ]
+}

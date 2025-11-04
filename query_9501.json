@@ -1,0 +1,10 @@
+{
+  "query": "What was Dr. Doug Ross’s role in the show, as described in the passages?",
+  "response": [
+    "doc_13981.txt",
+    "doc_13982.txt",
+    "doc_13980.txt",
+    "doc_3480.txt",
+    "doc_32971.txt"
+  ]
+}

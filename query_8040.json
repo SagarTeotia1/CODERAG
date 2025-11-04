@@ -1,0 +1,10 @@
+{
+  "query": "What was John Duncan’s profession?",
+  "response": [
+    "doc_10491.txt",
+    "doc_10490.txt",
+    "doc_10485.txt",
+    "doc_32944.txt",
+    "doc_15748.txt"
+  ]
+}

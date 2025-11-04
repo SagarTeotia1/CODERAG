@@ -1,0 +1,10 @@
+{
+  "query": "What two mountain ranges border the Deccan Plateau?",
+  "response": [
+    "doc_20745.txt",
+    "doc_20752.txt",
+    "doc_20748.txt",
+    "doc_20750.txt",
+    "doc_20743.txt"
+  ]
+}

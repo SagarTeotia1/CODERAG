@@ -1,0 +1,10 @@
+{
+  "query": "What is the title of Samuel Pepys’s diary?",
+  "response": [
+    "doc_1896.txt",
+    "doc_1900.txt",
+    "doc_1899.txt",
+    "doc_1897.txt",
+    "doc_1905.txt"
+  ]
+}

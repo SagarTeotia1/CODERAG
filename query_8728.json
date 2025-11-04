@@ -1,0 +1,10 @@
+{
+  "query": "How many England national team caps has Joe Hart earned?",
+  "response": [
+    "doc_12143.txt",
+    "doc_12142.txt",
+    "doc_26373.txt",
+    "doc_14700.txt",
+    "doc_1310.txt"
+  ]
+}

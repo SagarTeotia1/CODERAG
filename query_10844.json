@@ -1,0 +1,10 @@
+{
+  "query": "What is the purpose of inflections, as described in the \"Language Construction Kit\" excerpt?",
+  "response": [
+    "doc_31242.txt",
+    "doc_31243.txt",
+    "doc_14535.txt",
+    "doc_14533.txt",
+    "doc_33093.txt"
+  ]
+}

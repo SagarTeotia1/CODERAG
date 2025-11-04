@@ -1,0 +1,10 @@
+{
+  "query": "Was there a trial of digital body scanners at London Heathrow?",
+  "response": [
+    "doc_37869.txt",
+    "doc_15084.txt",
+    "doc_38241.txt",
+    "doc_224.txt",
+    "doc_36849.txt"
+  ]
+}

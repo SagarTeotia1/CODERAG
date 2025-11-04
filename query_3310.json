@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of US productivity growth was accounted for by the services sector, specifically wholesale and retail trades, the property sector, and the financial intermediary sector?",
+  "response": [
+    "doc_11893.txt",
+    "doc_31398.txt",
+    "doc_2164.txt",
+    "doc_16234.txt",
+    "doc_16230.txt"
+  ]
+}

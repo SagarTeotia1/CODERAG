@@ -1,0 +1,10 @@
+{
+  "query": "For what crime was Paul Muni convicted?",
+  "response": [
+    "doc_3381.txt",
+    "doc_17139.txt",
+    "doc_35852.txt",
+    "doc_35859.txt",
+    "doc_3386.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Since what year has the Euratom Community cooperated with the International Atomic Energy Agency?",
+  "response": [
+    "doc_2290.txt",
+    "doc_2289.txt",
+    "doc_3680.txt",
+    "doc_16164.txt",
+    "doc_33288.txt"
+  ]
+}

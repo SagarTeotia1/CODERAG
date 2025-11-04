@@ -1,0 +1,10 @@
+{
+  "query": "Where did Martin Luther King Jr. serve as a co-pastor?",
+  "response": [
+    "doc_6906.txt",
+    "doc_6902.txt",
+    "doc_6903.txt",
+    "doc_6905.txt",
+    "doc_6904.txt"
+  ]
+}

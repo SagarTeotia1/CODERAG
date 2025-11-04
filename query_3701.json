@@ -1,0 +1,10 @@
+{
+  "query": "According to Commissioner Georgieva, what is the amount of the Commission’s humanitarian aid for the Libyan refugees?",
+  "response": [
+    "doc_36231.txt",
+    "doc_24069.txt",
+    "doc_25753.txt",
+    "doc_15997.txt",
+    "doc_22466.txt"
+  ]
+}

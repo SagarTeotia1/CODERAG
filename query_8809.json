@@ -1,0 +1,10 @@
+{
+  "query": "According to the Commission, does Community law currently cover discrimination based on nationality regarding access to NHS treatment and drugs in the United Kingdom?",
+  "response": [
+    "doc_12340.txt",
+    "doc_19848.txt",
+    "doc_33841.txt",
+    "doc_23326.txt",
+    "doc_30681.txt"
+  ]
+}

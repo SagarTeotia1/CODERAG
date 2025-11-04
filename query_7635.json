@@ -1,0 +1,10 @@
+{
+  "query": "What was Joe Montana’s highest single-season ANY/A rating, and what was Tom Brady’s?",
+  "response": [
+    "doc_26187.txt",
+    "doc_26188.txt",
+    "doc_9449.txt",
+    "doc_26186.txt",
+    "doc_36526.txt"
+  ]
+}

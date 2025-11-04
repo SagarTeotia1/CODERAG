@@ -1,0 +1,9 @@
+{
+  "query": "According to the text, what does Benedick say about Beatrice’s beauty relative to the first of May?",
+  "response": [
+    "doc_1345.txt",
+    "doc_1346.txt",
+    "doc_1347.txt",
+    "doc_1348.txt"
+  ]
+}

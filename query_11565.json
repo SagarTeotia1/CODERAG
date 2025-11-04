@@ -1,0 +1,10 @@
+{
+  "query": "On which television channel did the first season of “Italian political drama television series” premiere?",
+  "response": [
+    "doc_1854.txt",
+    "doc_2347.txt",
+    "doc_25318.txt",
+    "doc_2348.txt",
+    "doc_5533.txt"
+  ]
+}

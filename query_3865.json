@@ -1,0 +1,10 @@
+{
+  "query": "Which country became the second-largest producer of cocoa beans worldwide in 2006, according to the UN FAO?",
+  "response": [
+    "doc_36585.txt",
+    "doc_16087.txt",
+    "doc_36584.txt",
+    "doc_22800.txt",
+    "doc_22801.txt"
+  ]
+}

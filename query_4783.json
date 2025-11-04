@@ -1,0 +1,10 @@
+{
+  "query": "What does the existing rules on plant varieties allow French farmers to do?",
+  "response": [
+    "doc_38837.txt",
+    "doc_28300.txt",
+    "doc_7763.txt",
+    "doc_29461.txt",
+    "doc_7762.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "How high is the conical mountain on Segula Island?",
+  "response": [
+    "doc_32128.txt",
+    "doc_28786.txt",
+    "doc_27474.txt",
+    "doc_16379.txt",
+    "doc_27473.txt"
+  ]
+}

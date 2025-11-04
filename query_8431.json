@@ -1,0 +1,10 @@
+{
+  "query": "On which U.S. bill will Harriet Tubman appear?",
+  "response": [
+    "doc_11443.txt",
+    "doc_13208.txt",
+    "doc_10958.txt",
+    "doc_13209.txt",
+    "doc_10956.txt"
+  ]
+}

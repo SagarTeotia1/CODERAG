@@ -1,0 +1,10 @@
+{
+  "query": "What is the definition of yarn according to the American Society for Testing and Materials (ASTM)?",
+  "response": [
+    "doc_9230.txt",
+    "doc_9237.txt",
+    "doc_9232.txt",
+    "doc_9231.txt",
+    "doc_9236.txt"
+  ]
+}

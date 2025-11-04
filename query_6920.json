@@ -1,0 +1,10 @@
+{
+  "query": "What year did the 20th Anniversary of the Sakharov Prize take place?",
+  "response": [
+    "doc_10904.txt",
+    "doc_10903.txt",
+    "doc_33678.txt",
+    "doc_9863.txt",
+    "doc_21999.txt"
+  ]
+}

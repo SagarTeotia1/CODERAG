@@ -1,0 +1,10 @@
+{
+  "query": "Who provided the voice for the horse, *Mister Ed*?",
+  "response": [
+    "doc_18799.txt",
+    "doc_18800.txt",
+    "doc_18802.txt",
+    "doc_18803.txt",
+    "doc_18798.txt"
+  ]
+}

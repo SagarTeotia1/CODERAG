@@ -1,0 +1,10 @@
+{
+  "query": "What type of metal is Dutch Gold leaf made from?",
+  "response": [
+    "doc_28957.txt",
+    "doc_28956.txt",
+    "doc_28953.txt",
+    "doc_28952.txt",
+    "doc_28949.txt"
+  ]
+}

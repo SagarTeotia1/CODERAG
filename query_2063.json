@@ -1,0 +1,10 @@
+{
+  "query": "What is the price of the Apple iPod Nano 4th Generation Metallic Pink 8G?",
+  "response": [
+    "doc_32375.txt",
+    "doc_32374.txt",
+    "doc_32371.txt",
+    "doc_32373.txt",
+    "doc_32376.txt"
+  ]
+}

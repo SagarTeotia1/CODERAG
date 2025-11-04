@@ -1,0 +1,10 @@
+{
+  "query": "Which party is Kenan Akin running for in the upcoming elections in the occupied part of Cyprus?",
+  "response": [
+    "doc_10394.txt",
+    "doc_25361.txt",
+    "doc_8848.txt",
+    "doc_8709.txt",
+    "doc_10111.txt"
+  ]
+}

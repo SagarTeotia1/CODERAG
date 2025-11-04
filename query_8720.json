@@ -1,0 +1,10 @@
+{
+  "query": "In what year was “Room for Squares,” John Mayer’s debut album, released?",
+  "response": [
+    "doc_12123.txt",
+    "doc_12124.txt",
+    "doc_25392.txt",
+    "doc_19882.txt",
+    "doc_13765.txt"
+  ]
+}

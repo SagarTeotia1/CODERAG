@@ -1,0 +1,10 @@
+{
+  "query": "In what country was Marie Curie born?",
+  "response": [
+    "doc_17802.txt",
+    "doc_17806.txt",
+    "doc_17801.txt",
+    "doc_17809.txt",
+    "doc_17805.txt"
+  ]
+}

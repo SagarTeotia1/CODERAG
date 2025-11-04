@@ -1,0 +1,10 @@
+{
+  "query": "What type of books does Lippincott Massie McQuilkin & Co. specialize in, as indicated in the provided links?",
+  "response": [
+    "doc_40215.txt",
+    "doc_40222.txt",
+    "doc_40220.txt",
+    "doc_40216.txt",
+    "doc_40217.txt"
+  ]
+}

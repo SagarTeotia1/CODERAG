@@ -1,0 +1,10 @@
+{
+  "query": "What date did Scott make his final diary entry?",
+  "response": [
+    "doc_30617.txt",
+    "doc_30618.txt",
+    "doc_30616.txt",
+    "doc_6446.txt",
+    "doc_6441.txt"
+  ]
+}

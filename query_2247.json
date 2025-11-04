@@ -1,0 +1,10 @@
+{
+  "query": "What is the title of the virtual tour available at the Massachusetts State House?",
+  "response": [
+    "doc_32818.txt",
+    "doc_18967.txt",
+    "doc_7629.txt",
+    "doc_12394.txt",
+    "doc_23092.txt"
+  ]
+}

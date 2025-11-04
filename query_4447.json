@@ -1,0 +1,10 @@
+{
+  "query": "Is the Commission aware of the latest collapse in the Temple of Jupiter in Pompeii?",
+  "response": [
+    "doc_349.txt",
+    "doc_35899.txt",
+    "doc_6016.txt",
+    "doc_39357.txt",
+    "doc_3644.txt"
+  ]
+}

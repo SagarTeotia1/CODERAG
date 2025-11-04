@@ -1,0 +1,10 @@
+{
+  "query": "When did the film \"Louisiana Purchase\" go into general release?",
+  "response": [
+    "doc_26506.txt",
+    "doc_35284.txt",
+    "doc_26501.txt",
+    "doc_26502.txt",
+    "doc_11644.txt"
+  ]
+}

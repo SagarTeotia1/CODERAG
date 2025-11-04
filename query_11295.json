@@ -1,0 +1,10 @@
+{
+  "query": "What directive was the infringement case against the Netherlands related to?",
+  "response": [
+    "doc_18354.txt",
+    "doc_4280.txt",
+    "doc_26863.txt",
+    "doc_1097.txt",
+    "doc_10022.txt"
+  ]
+}

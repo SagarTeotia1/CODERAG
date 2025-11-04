@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the building that currently houses the Liberty Bell?",
+  "response": [
+    "doc_7625.txt",
+    "doc_7630.txt",
+    "doc_7626.txt",
+    "doc_7628.txt",
+    "doc_7629.txt"
+  ]
+}

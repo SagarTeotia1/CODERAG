@@ -1,0 +1,10 @@
+{
+  "query": "Which team won the 2016 Diamond Head Classic?",
+  "response": [
+    "doc_38737.txt",
+    "doc_25624.txt",
+    "doc_14704.txt",
+    "doc_14703.txt",
+    "doc_9021.txt"
+  ]
+}

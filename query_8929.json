@@ -1,0 +1,10 @@
+{
+  "query": "What quantities of solid waste are recycled in each Member State of the EU?",
+  "response": [
+    "doc_12633.txt",
+    "doc_28274.txt",
+    "doc_5494.txt",
+    "doc_9633.txt",
+    "doc_9304.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What year was a letter sent to John McGurn regarding the Virginia Electric and Power Co.?",
+  "response": [
+    "doc_38152.txt",
+    "doc_38153.txt",
+    "doc_11180.txt",
+    "doc_8466.txt",
+    "doc_38150.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What specific health condition does the passage describe that makes Prof. Ibrahim need specialized medical treatment?",
+  "response": [
+    "doc_37283.txt",
+    "doc_27373.txt",
+    "doc_37277.txt",
+    "doc_40046.txt",
+    "doc_27372.txt"
+  ]
+}

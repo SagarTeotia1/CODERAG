@@ -1,0 +1,10 @@
+{
+  "query": "Which books, besides *Dune*, were mentioned as being part of the *Dune* series?",
+  "response": [
+    "doc_39680.txt",
+    "doc_39681.txt",
+    "doc_39673.txt",
+    "doc_39677.txt",
+    "doc_39683.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "How many paid traineeships were provided by the General Secretariat of the Council in 2010 and 2011?",
+  "response": [
+    "doc_14319.txt",
+    "doc_15232.txt",
+    "doc_15779.txt",
+    "doc_36758.txt",
+    "doc_4952.txt"
+  ]
+}

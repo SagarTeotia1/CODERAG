@@ -1,0 +1,10 @@
+{
+  "query": "Which EU Member States experienced the highest increases in real agricultural income per worker in 2011?",
+  "response": [
+    "doc_35506.txt",
+    "doc_14459.txt",
+    "doc_418.txt",
+    "doc_17632.txt",
+    "doc_36749.txt"
+  ]
+}

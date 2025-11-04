@@ -1,0 +1,10 @@
+{
+  "query": "When and where was the mixed martial arts event featuring Matt Hume held?",
+  "response": [
+    "doc_37335.txt",
+    "doc_34246.txt",
+    "doc_32456.txt",
+    "doc_36925.txt",
+    "doc_32457.txt"
+  ]
+}

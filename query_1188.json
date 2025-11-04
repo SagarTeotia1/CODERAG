@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Horace-Benedict de Saussure offer a prize for climbing Mont Blanc?",
+  "response": [
+    "doc_30266.txt",
+    "doc_30267.txt",
+    "doc_30268.txt",
+    "doc_27566.txt",
+    "doc_25955.txt"
+  ]
+}

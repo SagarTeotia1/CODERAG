@@ -1,0 +1,10 @@
+{
+  "query": "What award did Robert Charles Bell’s “Board and Table Games 1 & 2” receive?",
+  "response": [
+    "doc_30655.txt",
+    "doc_30656.txt",
+    "doc_11606.txt",
+    "doc_11607.txt",
+    "doc_11608.txt"
+  ]
+}

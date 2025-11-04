@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what directive governs textile labelling within the European Union?",
+  "response": [
+    "doc_12801.txt",
+    "doc_39343.txt",
+    "doc_24938.txt",
+    "doc_34848.txt",
+    "doc_33471.txt"
+  ]
+}

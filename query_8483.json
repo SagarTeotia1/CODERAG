@@ -1,0 +1,10 @@
+{
+  "query": "According to the text, what does Hugo Gernsback emphasize about science fiction?",
+  "response": [
+    "doc_11558.txt",
+    "doc_11560.txt",
+    "doc_11554.txt",
+    "doc_11559.txt",
+    "doc_11562.txt"
+  ]
+}

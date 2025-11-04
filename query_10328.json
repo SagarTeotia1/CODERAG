@@ -1,0 +1,10 @@
+{
+  "query": "In what century was *The Canterbury Tales* written, and what language was it primarily composed in?",
+  "response": [
+    "doc_16082.txt",
+    "doc_16081.txt",
+    "doc_6972.txt",
+    "doc_6969.txt",
+    "doc_20101.txt"
+  ]
+}

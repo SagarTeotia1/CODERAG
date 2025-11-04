@@ -1,0 +1,10 @@
+{
+  "query": "Which legal charges were formally brought against Ales Bialatski?",
+  "response": [
+    "doc_35461.txt",
+    "doc_35462.txt",
+    "doc_28966.txt",
+    "doc_1146.txt",
+    "doc_1142.txt"
+  ]
+}

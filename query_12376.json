@@ -1,0 +1,10 @@
+{
+  "query": "What event led to the assassination of Alexander II?",
+  "response": [
+    "doc_39330.txt",
+    "doc_21075.txt",
+    "doc_21074.txt",
+    "doc_39326.txt",
+    "doc_39325.txt"
+  ]
+}

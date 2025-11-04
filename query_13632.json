@@ -1,0 +1,10 @@
+{
+  "query": "Which album is described as a “modern incarnation of Madhouse,” but released under Prince’s own name?",
+  "response": [
+    "doc_2336.txt",
+    "doc_3347.txt",
+    "doc_23950.txt",
+    "doc_33759.txt",
+    "doc_23949.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Where did Meryl Streep receive her Master of Fine Arts degree, and what school was it from?",
+  "response": [
+    "doc_37568.txt",
+    "doc_16798.txt",
+    "doc_25634.txt",
+    "doc_31113.txt",
+    "doc_16799.txt"
+  ]
+}

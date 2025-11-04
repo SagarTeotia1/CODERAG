@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the Veterans Readjustment Act of 1952 signed into law?",
+  "response": [
+    "doc_4087.txt",
+    "doc_4085.txt",
+    "doc_4084.txt",
+    "doc_4083.txt",
+    "doc_4088.txt"
+  ]
+}

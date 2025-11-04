@@ -1,0 +1,10 @@
+{
+  "query": "Which organizations oversee the reconstruction of the World Trade Center site?",
+  "response": [
+    "doc_32127.txt",
+    "doc_32126.txt",
+    "doc_27120.txt",
+    "doc_27062.txt",
+    "doc_27122.txt"
+  ]
+}

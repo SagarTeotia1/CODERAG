@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the Jaguar R3 Formula One racing car launched?",
+  "response": [
+    "doc_15193.txt",
+    "doc_12275.txt",
+    "doc_15192.txt",
+    "doc_9505.txt",
+    "doc_12279.txt"
+  ]
+}

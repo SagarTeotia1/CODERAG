@@ -1,0 +1,10 @@
+{
+  "query": "What specific weaknesses did the Court of Auditors identify concerning the Commission’s internal controls on the budget?",
+  "response": [
+    "doc_18792.txt",
+    "doc_8400.txt",
+    "doc_26867.txt",
+    "doc_3473.txt",
+    "doc_15336.txt"
+  ]
+}

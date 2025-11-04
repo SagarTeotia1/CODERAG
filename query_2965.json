@@ -1,0 +1,10 @@
+{
+  "query": "When was the Sherman Antitrust Act passed?",
+  "response": [
+    "doc_34558.txt",
+    "doc_34557.txt",
+    "doc_34561.txt",
+    "doc_34560.txt",
+    "doc_34562.txt"
+  ]
+}

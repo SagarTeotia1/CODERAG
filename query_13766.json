@@ -1,0 +1,10 @@
+{
+  "query": "Which composer wrote a Stabat Mater in 1950 in response to the death of a friend?",
+  "response": [
+    "doc_39120.txt",
+    "doc_39119.txt",
+    "doc_15957.txt",
+    "doc_24498.txt",
+    "doc_4157.txt"
+  ]
+}

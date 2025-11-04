@@ -1,0 +1,10 @@
+{
+  "query": "Which film series features a DeLorean time machine?",
+  "response": [
+    "doc_27022.txt",
+    "doc_5213.txt",
+    "doc_23079.txt",
+    "doc_23081.txt",
+    "doc_23080.txt"
+  ]
+}

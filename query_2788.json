@@ -1,0 +1,10 @@
+{
+  "query": "In what year was “The Running Jumping & Standing Still Film” released?",
+  "response": [
+    "doc_23079.txt",
+    "doc_32056.txt",
+    "doc_2518.txt",
+    "doc_32059.txt",
+    "doc_27117.txt"
+  ]
+}

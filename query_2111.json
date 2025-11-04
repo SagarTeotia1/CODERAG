@@ -1,0 +1,10 @@
+{
+  "query": "What specific ingredient did Madeleine recommend chopping finely in her kitchen?",
+  "response": [
+    "doc_32481.txt",
+    "doc_26593.txt",
+    "doc_26592.txt",
+    "doc_26598.txt",
+    "doc_26596.txt"
+  ]
+}

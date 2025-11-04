@@ -1,0 +1,10 @@
+{
+  "query": "What was the first line of *The Hobbit* that Ann Stephens referenced while grading essays?",
+  "response": [
+    "doc_35952.txt",
+    "doc_35944.txt",
+    "doc_35950.txt",
+    "doc_35951.txt",
+    "doc_35947.txt"
+  ]
+}

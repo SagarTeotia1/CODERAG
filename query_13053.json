@@ -1,0 +1,10 @@
+{
+  "query": "How many battle stars did the USS Enterprise earn during World War II?",
+  "response": [
+    "doc_35188.txt",
+    "doc_35189.txt",
+    "doc_35187.txt",
+    "doc_16134.txt",
+    "doc_35185.txt"
+  ]
+}

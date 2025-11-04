@@ -1,0 +1,10 @@
+{
+  "query": "Which artists influenced The Vox Jaguars’ musical style?",
+  "response": [
+    "doc_2989.txt",
+    "doc_34421.txt",
+    "doc_17901.txt",
+    "doc_359.txt",
+    "doc_2987.txt"
+  ]
+}

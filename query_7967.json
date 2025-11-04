@@ -1,0 +1,10 @@
+{
+  "query": "What is the EU’s stance regarding targeting civilians with weapons in conflict?",
+  "response": [
+    "doc_10310.txt",
+    "doc_36931.txt",
+    "doc_10309.txt",
+    "doc_10311.txt",
+    "doc_24251.txt"
+  ]
+}

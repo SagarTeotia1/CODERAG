@@ -1,0 +1,10 @@
+{
+  "query": "In 1831, what happened to Nicollet’s fortune?",
+  "response": [
+    "doc_30282.txt",
+    "doc_36716.txt",
+    "doc_36718.txt",
+    "doc_20861.txt",
+    "doc_27960.txt"
+  ]
+}

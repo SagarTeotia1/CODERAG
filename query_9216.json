@@ -1,0 +1,10 @@
+{
+  "query": "What was the population of Calala?",
+  "response": [
+    "doc_21487.txt",
+    "doc_34792.txt",
+    "doc_17582.txt",
+    "doc_34793.txt",
+    "doc_34795.txt"
+  ]
+}

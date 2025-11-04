@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Philips introduce the first domestic home video tape recorder?",
+  "response": [
+    "doc_32905.txt",
+    "doc_32907.txt",
+    "doc_32906.txt",
+    "doc_32904.txt",
+    "doc_32902.txt"
+  ]
+}

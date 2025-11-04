@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided text, what architectural movement was exemplified by the Bauhaus school?",
+  "response": [
+    "doc_15263.txt",
+    "doc_15266.txt",
+    "doc_10054.txt",
+    "doc_10056.txt",
+    "doc_10052.txt"
+  ]
+}

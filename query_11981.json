@@ -1,0 +1,10 @@
+{
+  "query": "Who was the band leader and producer of the new Plastic Ono Band featured on “Between My Head and the Sky”?",
+  "response": [
+    "doc_20173.txt",
+    "doc_21877.txt",
+    "doc_21872.txt",
+    "doc_27198.txt",
+    "doc_21876.txt"
+  ]
+}

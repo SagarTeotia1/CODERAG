@@ -1,0 +1,10 @@
+{
+  "query": "In what region does the Colorado River begin its flow?",
+  "response": [
+    "doc_21201.txt",
+    "doc_21202.txt",
+    "doc_21203.txt",
+    "doc_33228.txt",
+    "doc_21733.txt"
+  ]
+}

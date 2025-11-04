@@ -1,0 +1,10 @@
+{
+  "query": "What satellite experienced a failure due to a four-hour separation from Milstar?",
+  "response": [
+    "doc_34835.txt",
+    "doc_34837.txt",
+    "doc_34834.txt",
+    "doc_34836.txt",
+    "doc_34838.txt"
+  ]
+}

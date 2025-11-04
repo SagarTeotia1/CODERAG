@@ -1,0 +1,10 @@
+{
+  "query": "In what year was “American Graffiti” released?",
+  "response": [
+    "doc_7695.txt",
+    "doc_33007.txt",
+    "doc_33006.txt",
+    "doc_22347.txt",
+    "doc_33013.txt"
+  ]
+}

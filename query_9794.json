@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how many Ethiopian Jews immigrated to Israel between 1977 and 1984?",
+  "response": [
+    "doc_14681.txt",
+    "doc_14686.txt",
+    "doc_14677.txt",
+    "doc_14679.txt",
+    "doc_14682.txt"
+  ]
+}

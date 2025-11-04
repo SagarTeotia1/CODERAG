@@ -1,0 +1,10 @@
+{
+  "query": "Who founded the Madison Colored Teachers Institute?",
+  "response": [
+    "doc_40031.txt",
+    "doc_40032.txt",
+    "doc_5718.txt",
+    "doc_10960.txt",
+    "doc_4924.txt"
+  ]
+}

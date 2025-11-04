@@ -1,0 +1,10 @@
+{
+  "query": "Into how many languages has *The Philosopher's Stone* been officially translated as of 2017?",
+  "response": [
+    "doc_32857.txt",
+    "doc_39173.txt",
+    "doc_12420.txt",
+    "doc_39172.txt",
+    "doc_3848.txt"
+  ]
+}

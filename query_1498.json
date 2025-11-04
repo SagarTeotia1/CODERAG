@@ -1,0 +1,10 @@
+{
+  "query": "What EU agreement is the subject of Daniel Caspary’s report (A6-0085/2006)?",
+  "response": [
+    "doc_2278.txt",
+    "doc_15450.txt",
+    "doc_38772.txt",
+    "doc_35072.txt",
+    "doc_14809.txt"
+  ]
+}

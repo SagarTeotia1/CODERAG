@@ -1,0 +1,10 @@
+{
+  "query": "What does the word \"Canberra\" originate from, according to multiple sources?",
+  "response": [
+    "doc_39862.txt",
+    "doc_39861.txt",
+    "doc_39859.txt",
+    "doc_39867.txt",
+    "doc_39865.txt"
+  ]
+}

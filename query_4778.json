@@ -1,0 +1,10 @@
+{
+  "query": "When did Constantin Brancusi first exhibit in Paris?",
+  "response": [
+    "doc_38834.txt",
+    "doc_38833.txt",
+    "doc_38836.txt",
+    "doc_38835.txt",
+    "doc_33035.txt"
+  ]
+}

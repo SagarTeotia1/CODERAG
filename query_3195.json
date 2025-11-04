@@ -1,0 +1,10 @@
+{
+  "query": "What is John T. Cullen known for writing?",
+  "response": [
+    "doc_35060.txt",
+    "doc_35064.txt",
+    "doc_19739.txt",
+    "doc_35065.txt",
+    "doc_5348.txt"
+  ]
+}

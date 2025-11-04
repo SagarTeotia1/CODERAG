@@ -1,0 +1,10 @@
+{
+  "query": "On what date was “The Devil In the Dark” aired?",
+  "response": [
+    "doc_30406.txt",
+    "doc_33739.txt",
+    "doc_25554.txt",
+    "doc_25556.txt",
+    "doc_13525.txt"
+  ]
+}

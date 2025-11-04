@@ -1,0 +1,10 @@
+{
+  "query": "Which Commission Communication from 2004 addressed a European strategy for nanotechnology?",
+  "response": [
+    "doc_4165.txt",
+    "doc_14317.txt",
+    "doc_4167.txt",
+    "doc_4164.txt",
+    "doc_4171.txt"
+  ]
+}

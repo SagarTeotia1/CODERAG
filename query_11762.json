@@ -1,0 +1,10 @@
+{
+  "query": "In what year did the individual graduate from New York University School of Law?",
+  "response": [
+    "doc_16254.txt",
+    "doc_32550.txt",
+    "doc_29278.txt",
+    "doc_192.txt",
+    "doc_17208.txt"
+  ]
+}

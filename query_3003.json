@@ -1,0 +1,10 @@
+{
+  "query": "What was the title of the “Adventure Time” song composed by Lindsay Eriksson and LAKE?",
+  "response": [
+    "doc_3413.txt",
+    "doc_18553.txt",
+    "doc_23183.txt",
+    "doc_12404.txt",
+    "doc_12402.txt"
+  ]
+}

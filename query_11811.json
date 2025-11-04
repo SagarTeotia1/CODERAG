@@ -1,0 +1,10 @@
+{
+  "query": "What publication is associated with Samuel Pepys’s Naval Minutes?",
+  "response": [
+    "doc_1896.txt",
+    "doc_1899.txt",
+    "doc_1900.txt",
+    "doc_1897.txt",
+    "doc_1903.txt"
+  ]
+}

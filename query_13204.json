@@ -1,0 +1,10 @@
+{
+  "query": "What topics will be discussed at the SEDE meeting on September 7th?",
+  "response": [
+    "doc_23160.txt",
+    "doc_14315.txt",
+    "doc_31982.txt",
+    "doc_17168.txt",
+    "doc_25403.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to Eurostat data, how many sheep and cattle were exported from the EU to Turkey in the last 12 months?",
+  "response": [
+    "doc_3350.txt",
+    "doc_4096.txt",
+    "doc_40304.txt",
+    "doc_13405.txt",
+    "doc_12563.txt"
+  ]
+}

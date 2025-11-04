@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Jebbia become Massachusetts’ first Miss USA winner?",
+  "response": [
+    "doc_16619.txt",
+    "doc_1948.txt",
+    "doc_23093.txt",
+    "doc_31585.txt",
+    "doc_1944.txt"
+  ]
+}

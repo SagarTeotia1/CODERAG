@@ -1,0 +1,10 @@
+{
+  "query": "Is the Commission concerned about the state of freedom of the press in Turkey?",
+  "response": [
+    "doc_18084.txt",
+    "doc_7512.txt",
+    "doc_17514.txt",
+    "doc_12098.txt",
+    "doc_27349.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "How much money did France claim in farm subsidies?",
+  "response": [
+    "doc_36081.txt",
+    "doc_12906.txt",
+    "doc_16683.txt",
+    "doc_103.txt",
+    "doc_1849.txt"
+  ]
+}

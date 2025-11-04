@@ -1,0 +1,10 @@
+{
+  "query": "Is one of the UK supermarket chains not adhering to the requirement that faulty electrical goods be replaced within two years of purchase?",
+  "response": [
+    "doc_35595.txt",
+    "doc_9249.txt",
+    "doc_21624.txt",
+    "doc_13626.txt",
+    "doc_9250.txt"
+  ]
+}

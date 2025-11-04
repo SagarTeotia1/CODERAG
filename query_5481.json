@@ -1,0 +1,10 @@
+{
+  "query": "What was the first feature film directed by Doug Langway?",
+  "response": [
+    "doc_19043.txt",
+    "doc_12500.txt",
+    "doc_13233.txt",
+    "doc_13242.txt",
+    "doc_13236.txt"
+  ]
+}

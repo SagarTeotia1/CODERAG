@@ -1,0 +1,10 @@
+{
+  "query": "How many workers are expected to lose their jobs at the Volkswagen plant in Brussels?",
+  "response": [
+    "doc_20171.txt",
+    "doc_33225.txt",
+    "doc_20116.txt",
+    "doc_3933.txt",
+    "doc_4888.txt"
+  ]
+}

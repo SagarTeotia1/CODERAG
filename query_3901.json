@@ -1,0 +1,10 @@
+{
+  "query": "In what city was Henry Ford’s Highland Park, Michigan plant located?",
+  "response": [
+    "doc_36682.txt",
+    "doc_36679.txt",
+    "doc_36686.txt",
+    "doc_36683.txt",
+    "doc_36685.txt"
+  ]
+}

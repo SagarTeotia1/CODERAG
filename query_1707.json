@@ -1,0 +1,10 @@
+{
+  "query": "Which cinematographers are featured in Leonard Maltin’s book, “Behind the Camera”?",
+  "response": [
+    "doc_27113.txt",
+    "doc_27117.txt",
+    "doc_31757.txt",
+    "doc_2180.txt",
+    "doc_27112.txt"
+  ]
+}

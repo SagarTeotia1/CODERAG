@@ -1,0 +1,10 @@
+{
+  "query": "What was the outcome of the presidential elections held in Palestine on January 9, 2005?",
+  "response": [
+    "doc_2453.txt",
+    "doc_2459.txt",
+    "doc_23307.txt",
+    "doc_2455.txt",
+    "doc_2456.txt"
+  ]
+}

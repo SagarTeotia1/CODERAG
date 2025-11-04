@@ -1,0 +1,10 @@
+{
+  "query": "What musical influences are present in Ween’s album, “The Mollusk”?",
+  "response": [
+    "doc_31763.txt",
+    "doc_31765.txt",
+    "doc_31764.txt",
+    "doc_2988.txt",
+    "doc_2989.txt"
+  ]
+}

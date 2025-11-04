@@ -1,0 +1,10 @@
+{
+  "query": "What is the lyric from the Mister Ed theme song?",
+  "response": [
+    "doc_18800.txt",
+    "doc_18798.txt",
+    "doc_18801.txt",
+    "doc_18802.txt",
+    "doc_18799.txt"
+  ]
+}

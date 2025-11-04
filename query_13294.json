@@ -1,0 +1,10 @@
+{
+  "query": "What television shows has Ian Drew appeared on to discuss celebrities, music, and fashion?",
+  "response": [
+    "doc_23273.txt",
+    "doc_36809.txt",
+    "doc_34065.txt",
+    "doc_36810.txt",
+    "doc_2030.txt"
+  ]
+}

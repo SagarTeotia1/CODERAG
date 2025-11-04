@@ -1,0 +1,10 @@
+{
+  "query": "What is Churchill Downs primarily known for?",
+  "response": [
+    "doc_11680.txt",
+    "doc_30670.txt",
+    "doc_18085.txt",
+    "doc_30666.txt",
+    "doc_30672.txt"
+  ]
+}

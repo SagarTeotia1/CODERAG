@@ -1,0 +1,10 @@
+{
+  "query": "What was the score of the film “Second Fiddle” composed by?",
+  "response": [
+    "doc_23734.txt",
+    "doc_37191.txt",
+    "doc_26283.txt",
+    "doc_37194.txt",
+    "doc_23738.txt"
+  ]
+}

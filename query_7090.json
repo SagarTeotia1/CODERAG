@@ -1,0 +1,10 @@
+{
+  "query": "What dishes are mentioned as being eaten at Mon Ami Gabi?",
+  "response": [
+    "doc_8126.txt",
+    "doc_8128.txt",
+    "doc_8123.txt",
+    "doc_8131.txt",
+    "doc_8125.txt"
+  ]
+}

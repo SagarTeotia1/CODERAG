@@ -1,0 +1,10 @@
+{
+  "query": "For which football league did Bridges serve as a co-head coach in 1944?",
+  "response": [
+    "doc_4272.txt",
+    "doc_4273.txt",
+    "doc_14700.txt",
+    "doc_4274.txt",
+    "doc_9446.txt"
+  ]
+}

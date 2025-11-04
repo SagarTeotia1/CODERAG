@@ -1,0 +1,10 @@
+{
+  "query": "According to the texts, what method did Dr. Frankenstein use to bring the monster to life?",
+  "response": [
+    "doc_23620.txt",
+    "doc_23621.txt",
+    "doc_27235.txt",
+    "doc_17918.txt",
+    "doc_27229.txt"
+  ]
+}

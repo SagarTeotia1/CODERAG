@@ -1,0 +1,10 @@
+{
+  "query": "How many contracts were concluded in 2002 between the Commission and management consultants and what is their total value?",
+  "response": [
+    "doc_32106.txt",
+    "doc_14213.txt",
+    "doc_2800.txt",
+    "doc_17742.txt",
+    "doc_4242.txt"
+  ]
+}

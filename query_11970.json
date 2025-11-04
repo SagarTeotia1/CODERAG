@@ -1,0 +1,10 @@
+{
+  "query": "In what year did “Serenity” win the Origins Award Gamer’s Choice Role Playing Game of the Year?",
+  "response": [
+    "doc_20164.txt",
+    "doc_20163.txt",
+    "doc_11773.txt",
+    "doc_11774.txt",
+    "doc_17203.txt"
+  ]
+}

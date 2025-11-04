@@ -1,0 +1,10 @@
+{
+  "query": "What is Lionel Messi’s nationality, and how many FIFA Ballon d’Or awards has he won?",
+  "response": [
+    "doc_38604.txt",
+    "doc_38605.txt",
+    "doc_26367.txt",
+    "doc_26366.txt",
+    "doc_26374.txt"
+  ]
+}

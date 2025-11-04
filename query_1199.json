@@ -1,0 +1,10 @@
+{
+  "query": "What is the approximate age of the historic house known as Portland Place?",
+  "response": [
+    "doc_100.txt",
+    "doc_18015.txt",
+    "doc_7629.txt",
+    "doc_21445.txt",
+    "doc_32326.txt"
+  ]
+}

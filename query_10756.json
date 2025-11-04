@@ -1,0 +1,10 @@
+{
+  "query": "In what year was Del Bosque named among the 10 greatest coaches since UEFA was founded?",
+  "response": [
+    "doc_16967.txt",
+    "doc_5721.txt",
+    "doc_16966.txt",
+    "doc_23918.txt",
+    "doc_21597.txt"
+  ]
+}

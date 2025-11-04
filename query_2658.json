@@ -1,0 +1,10 @@
+{
+  "query": "What year was “The Polar Express” released?",
+  "response": [
+    "doc_3342.txt",
+    "doc_3343.txt",
+    "doc_36302.txt",
+    "doc_3423.txt",
+    "doc_21643.txt"
+  ]
+}

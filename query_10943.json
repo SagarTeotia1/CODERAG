@@ -1,0 +1,10 @@
+{
+  "query": "What percentage increase in solar power usage did Germany experience in 2011?",
+  "response": [
+    "doc_17434.txt",
+    "doc_7819.txt",
+    "doc_36915.txt",
+    "doc_31828.txt",
+    "doc_21093.txt"
+  ]
+}

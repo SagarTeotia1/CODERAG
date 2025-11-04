@@ -1,0 +1,10 @@
+{
+  "query": "What was the date of receipt for the document from Davide Bonacina?",
+  "response": [
+    "doc_20796.txt",
+    "doc_7229.txt",
+    "doc_37971.txt",
+    "doc_7183.txt",
+    "doc_32550.txt"
+  ]
+}

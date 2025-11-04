@@ -1,0 +1,10 @@
+{
+  "query": "What political party did Russell Means run for president under in 1988?",
+  "response": [
+    "doc_25143.txt",
+    "doc_25144.txt",
+    "doc_25145.txt",
+    "doc_25148.txt",
+    "doc_25147.txt"
+  ]
+}

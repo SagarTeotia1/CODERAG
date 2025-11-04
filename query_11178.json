@@ -1,0 +1,10 @@
+{
+  "query": "Which university is Chaudhary Brahm Prakash Government Engineering College affiliated with?",
+  "response": [
+    "doc_18051.txt",
+    "doc_18052.txt",
+    "doc_35844.txt",
+    "doc_18050.txt",
+    "doc_6940.txt"
+  ]
+}

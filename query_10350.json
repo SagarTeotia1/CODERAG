@@ -1,0 +1,10 @@
+{
+  "query": "What was Elizabeth Wilson known for playing in the 1980 film *9 to 5*?",
+  "response": [
+    "doc_16123.txt",
+    "doc_16122.txt",
+    "doc_16121.txt",
+    "doc_11644.txt",
+    "doc_26966.txt"
+  ]
+}

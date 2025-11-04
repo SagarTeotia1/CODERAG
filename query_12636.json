@@ -1,0 +1,10 @@
+{
+  "query": "What does the phrase “je ne sais quoi” literally mean in French?",
+  "response": [
+    "doc_21776.txt",
+    "doc_21777.txt",
+    "doc_21778.txt",
+    "doc_21781.txt",
+    "doc_21783.txt"
+  ]
+}

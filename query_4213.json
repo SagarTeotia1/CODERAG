@@ -1,0 +1,10 @@
+{
+  "query": "According to the Fragrantica article, what scent does Polo Ralph Lauren cologne evoke?",
+  "response": [
+    "doc_10101.txt",
+    "doc_10104.txt",
+    "doc_10103.txt",
+    "doc_10102.txt",
+    "doc_10100.txt"
+  ]
+}

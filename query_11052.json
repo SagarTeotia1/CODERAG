@@ -1,0 +1,10 @@
+{
+  "query": "What is the title under which “A Gun For Sale” was published in the U.S.?",
+  "response": [
+    "doc_17735.txt",
+    "doc_17737.txt",
+    "doc_17734.txt",
+    "doc_17738.txt",
+    "doc_17740.txt"
+  ]
+}

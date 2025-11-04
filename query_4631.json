@@ -1,0 +1,10 @@
+{
+  "query": "What is the primary goal of the Discovery Center?",
+  "response": [
+    "doc_8850.txt",
+    "doc_8849.txt",
+    "doc_8158.txt",
+    "doc_8857.txt",
+    "doc_8159.txt"
+  ]
+}

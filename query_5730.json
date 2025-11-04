@@ -1,0 +1,10 @@
+{
+  "query": "During which month does the observance of Ramadan take place?",
+  "response": [
+    "doc_4703.txt",
+    "doc_4708.txt",
+    "doc_4704.txt",
+    "doc_4706.txt",
+    "doc_4707.txt"
+  ]
+}

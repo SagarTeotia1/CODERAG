@@ -1,0 +1,10 @@
+{
+  "query": "What year did the 2011 UTSA Roadrunners football team begin play?",
+  "response": [
+    "doc_26942.txt",
+    "doc_12462.txt",
+    "doc_7487.txt",
+    "doc_21539.txt",
+    "doc_38293.txt"
+  ]
+}

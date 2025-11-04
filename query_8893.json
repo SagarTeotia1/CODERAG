@@ -1,0 +1,10 @@
+{
+  "query": "Which Fleetwood Mac album did “Love in Store” appear on?",
+  "response": [
+    "doc_12564.txt",
+    "doc_12565.txt",
+    "doc_7978.txt",
+    "doc_7311.txt",
+    "doc_7973.txt"
+  ]
+}

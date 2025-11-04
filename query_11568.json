@@ -1,0 +1,10 @@
+{
+  "query": "Have any of the listed organisations received money from the European Commission since 2005?",
+  "response": [
+    "doc_16737.txt",
+    "doc_12494.txt",
+    "doc_19093.txt",
+    "doc_37584.txt",
+    "doc_27650.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Besides the boat’s name and port of origin, what other details were used to refer to “Archibald”?",
+  "response": [
+    "doc_9147.txt",
+    "doc_20050.txt",
+    "doc_9146.txt",
+    "doc_19240.txt",
+    "doc_9139.txt"
+  ]
+}

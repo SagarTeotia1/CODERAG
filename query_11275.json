@@ -1,0 +1,10 @@
+{
+  "query": "What year was the film *Pocketful of Miracles* released?",
+  "response": [
+    "doc_18323.txt",
+    "doc_18319.txt",
+    "doc_18321.txt",
+    "doc_18318.txt",
+    "doc_18322.txt"
+  ]
+}

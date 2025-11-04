@@ -1,0 +1,10 @@
+{
+  "query": "According to the Globe and Mail article, what was the reported location of the refugees killed at the UNRWA school?",
+  "response": [
+    "doc_32843.txt",
+    "doc_38711.txt",
+    "doc_29187.txt",
+    "doc_32033.txt",
+    "doc_20967.txt"
+  ]
+}

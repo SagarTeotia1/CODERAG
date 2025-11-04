@@ -1,0 +1,10 @@
+{
+  "query": "What film was Randall Miller and Jody Savin working on based on Gregg Allman's autobiography?",
+  "response": [
+    "doc_18393.txt",
+    "doc_16425.txt",
+    "doc_31757.txt",
+    "doc_18394.txt",
+    "doc_26012.txt"
+  ]
+}

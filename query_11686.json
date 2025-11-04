@@ -1,0 +1,10 @@
+{
+  "query": "Through which countries does the majority of irregular migration from Africa reach Italy?",
+  "response": [
+    "doc_19372.txt",
+    "doc_8112.txt",
+    "doc_37485.txt",
+    "doc_12736.txt",
+    "doc_24069.txt"
+  ]
+}

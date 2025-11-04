@@ -1,0 +1,10 @@
+{
+  "query": "What was Garry Kasparov’s nationality at the time of his birth, according to the provided text?",
+  "response": [
+    "doc_13555.txt",
+    "doc_13556.txt",
+    "doc_13558.txt",
+    "doc_13565.txt",
+    "doc_13564.txt"
+  ]
+}

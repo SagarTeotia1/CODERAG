@@ -1,0 +1,10 @@
+{
+  "query": "Which artist collaborated with David Guetta and Chris Willis on the song “Gettin’ Over You”?",
+  "response": [
+    "doc_22519.txt",
+    "doc_9691.txt",
+    "doc_13764.txt",
+    "doc_22516.txt",
+    "doc_22514.txt"
+  ]
+}

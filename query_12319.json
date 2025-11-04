@@ -1,0 +1,10 @@
+{
+  "query": "Which country currently has the second largest Jewish population worldwide?",
+  "response": [
+    "doc_20899.txt",
+    "doc_20900.txt",
+    "doc_20904.txt",
+    "doc_20905.txt",
+    "doc_20906.txt"
+  ]
+}

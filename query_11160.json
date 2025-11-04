@@ -1,0 +1,10 @@
+{
+  "query": "What are the primary sources of information for predicting future Russian gas production volumes, as identified by the Commission?",
+  "response": [
+    "doc_18028.txt",
+    "doc_34798.txt",
+    "doc_29782.txt",
+    "doc_14203.txt",
+    "doc_618.txt"
+  ]
+}

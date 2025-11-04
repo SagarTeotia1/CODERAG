@@ -1,0 +1,10 @@
+{
+  "query": "What prestigious award did “Aki’s” receive consecutively from 2011 to the present?",
+  "response": [
+    "doc_17862.txt",
+    "doc_26665.txt",
+    "doc_26664.txt",
+    "doc_26660.txt",
+    "doc_26663.txt"
+  ]
+}

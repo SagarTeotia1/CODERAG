@@ -1,0 +1,10 @@
+{
+  "query": "Does the Council acknowledge human rights and environmental violations within the cotton industry?",
+  "response": [
+    "doc_35276.txt",
+    "doc_30811.txt",
+    "doc_13519.txt",
+    "doc_30812.txt",
+    "doc_30815.txt"
+  ]
+}

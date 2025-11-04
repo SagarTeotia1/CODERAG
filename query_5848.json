@@ -1,0 +1,10 @@
+{
+  "query": "What types of products did Bethlehem Steel Corporation manufacture?",
+  "response": [
+    "doc_5013.txt",
+    "doc_5009.txt",
+    "doc_5007.txt",
+    "doc_5008.txt",
+    "doc_5014.txt"
+  ]
+}

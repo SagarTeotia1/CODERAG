@@ -1,0 +1,10 @@
+{
+  "query": "According to Pierre Duquesne, what did he describe as an \"optical illusion\"?",
+  "response": [
+    "doc_21609.txt",
+    "doc_17652.txt",
+    "doc_21613.txt",
+    "doc_21611.txt",
+    "doc_21607.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Bob Stewart join Goodson-Todman Productions?",
+  "response": [
+    "doc_1361.txt",
+    "doc_1357.txt",
+    "doc_1363.txt",
+    "doc_1362.txt",
+    "doc_1359.txt"
+  ]
+}

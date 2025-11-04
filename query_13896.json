@@ -1,0 +1,10 @@
+{
+  "query": "What is Amy Rose's primary characteristic as depicted in the \"Sonic the Hedgehog\" series?",
+  "response": [
+    "doc_20063.txt",
+    "doc_20060.txt",
+    "doc_20055.txt",
+    "doc_20056.txt",
+    "doc_20059.txt"
+  ]
+}

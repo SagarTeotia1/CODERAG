@@ -1,0 +1,10 @@
+{
+  "query": "What author wrote “How I Found Livingstone in Central Africa”?",
+  "response": [
+    "doc_21522.txt",
+    "doc_21523.txt",
+    "doc_26723.txt",
+    "doc_26715.txt",
+    "doc_14338.txt"
+  ]
+}

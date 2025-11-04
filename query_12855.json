@@ -1,0 +1,10 @@
+{
+  "query": "Besides Jon Nite, which other artists have recorded songs co-written by Darius Rucker?",
+  "response": [
+    "doc_2159.txt",
+    "doc_19183.txt",
+    "doc_19184.txt",
+    "doc_17364.txt",
+    "doc_19177.txt"
+  ]
+}

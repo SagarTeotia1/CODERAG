@@ -1,0 +1,10 @@
+{
+  "query": "What type of fraud involving EC cards is on the increase in the EU?",
+  "response": [
+    "doc_28419.txt",
+    "doc_8516.txt",
+    "doc_3437.txt",
+    "doc_35475.txt",
+    "doc_14963.txt"
+  ]
+}

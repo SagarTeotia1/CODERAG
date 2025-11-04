@@ -1,0 +1,10 @@
+{
+  "query": "What prize did the book *The Yearling* win in 1939?",
+  "response": [
+    "doc_3980.txt",
+    "doc_3979.txt",
+    "doc_3978.txt",
+    "doc_3975.txt",
+    "doc_3977.txt"
+  ]
+}

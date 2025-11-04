@@ -1,0 +1,10 @@
+{
+  "query": "When was this information reported on SportsBusiness Daily?",
+  "response": [
+    "doc_30609.txt",
+    "doc_3968.txt",
+    "doc_3966.txt",
+    "doc_2937.txt",
+    "doc_4275.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was the increase in chicken exports from the European Union to Cameroon between 1997 and 2003?",
+  "response": [
+    "doc_10778.txt",
+    "doc_10779.txt",
+    "doc_19779.txt",
+    "doc_32587.txt",
+    "doc_12563.txt"
+  ]
+}

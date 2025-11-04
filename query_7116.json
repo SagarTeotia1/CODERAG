@@ -1,0 +1,10 @@
+{
+  "query": "What audio formats are included on the Blu-ray release of *Sister Act 2: Back in the Habit*?",
+  "response": [
+    "doc_8185.txt",
+    "doc_8188.txt",
+    "doc_8186.txt",
+    "doc_8184.txt",
+    "doc_8182.txt"
+  ]
+}

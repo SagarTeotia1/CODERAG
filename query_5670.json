@@ -1,0 +1,10 @@
+{
+  "query": "What was Freddie Steele’s birth name and where was he born?",
+  "response": [
+    "doc_33235.txt",
+    "doc_30294.txt",
+    "doc_33237.txt",
+    "doc_33234.txt",
+    "doc_26012.txt"
+  ]
+}

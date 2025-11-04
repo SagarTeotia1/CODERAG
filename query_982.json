@@ -1,0 +1,10 @@
+{
+  "query": "What was the approximate percentage of agricultural land devoted to organic farming in the EU between 1985 and 2002?",
+  "response": [
+    "doc_29749.txt",
+    "doc_10024.txt",
+    "doc_24070.txt",
+    "doc_8380.txt",
+    "doc_29753.txt"
+  ]
+}

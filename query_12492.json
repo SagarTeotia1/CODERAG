@@ -1,0 +1,10 @@
+{
+  "query": "What type of building is the James Joyce Tower and Museum?",
+  "response": [
+    "doc_21440.txt",
+    "doc_21447.txt",
+    "doc_21442.txt",
+    "doc_21450.txt",
+    "doc_21446.txt"
+  ]
+}

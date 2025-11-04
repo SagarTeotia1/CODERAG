@@ -1,0 +1,10 @@
+{
+  "query": "When was the United States Declaration of Independence approved?",
+  "response": [
+    "doc_14167.txt",
+    "doc_14162.txt",
+    "doc_14169.txt",
+    "doc_14160.txt",
+    "doc_14163.txt"
+  ]
+}

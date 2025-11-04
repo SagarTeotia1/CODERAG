@@ -1,0 +1,10 @@
+{
+  "query": "What was the initial assessment of the Irish rules in 2005?",
+  "response": [
+    "doc_1311.txt",
+    "doc_1310.txt",
+    "doc_32941.txt",
+    "doc_1309.txt",
+    "doc_5497.txt"
+  ]
+}

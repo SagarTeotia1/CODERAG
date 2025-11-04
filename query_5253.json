@@ -1,0 +1,10 @@
+{
+  "query": "What bill is currently being considered in the Sri Lankan Parliament?",
+  "response": [
+    "doc_28125.txt",
+    "doc_38127.txt",
+    "doc_27269.txt",
+    "doc_23255.txt",
+    "doc_39919.txt"
+  ]
+}

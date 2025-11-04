@@ -1,0 +1,10 @@
+{
+  "query": "According to the linked articles, what palindrome did Norvig create that was 17,259 words long?",
+  "response": [
+    "doc_34806.txt",
+    "doc_5364.txt",
+    "doc_13902.txt",
+    "doc_38870.txt",
+    "doc_4459.txt"
+  ]
+}

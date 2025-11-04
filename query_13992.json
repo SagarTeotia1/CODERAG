@@ -1,0 +1,10 @@
+{
+  "query": "What is the proposed solution for EU anti-fraud legislation according to this resolution?",
+  "response": [
+    "doc_25096.txt",
+    "doc_28621.txt",
+    "doc_10120.txt",
+    "doc_25095.txt",
+    "doc_24834.txt"
+  ]
+}

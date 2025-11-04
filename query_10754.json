@@ -1,0 +1,10 @@
+{
+  "query": "When did Del Bosque lead Spain to win their first World Cup?",
+  "response": [
+    "doc_16967.txt",
+    "doc_16966.txt",
+    "doc_26366.txt",
+    "doc_21597.txt",
+    "doc_21593.txt"
+  ]
+}

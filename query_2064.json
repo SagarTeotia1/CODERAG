@@ -1,0 +1,10 @@
+{
+  "query": "How many people worldwide are learning Spanish?",
+  "response": [
+    "doc_2492.txt",
+    "doc_2491.txt",
+    "doc_32380.txt",
+    "doc_10969.txt",
+    "doc_7615.txt"
+  ]
+}

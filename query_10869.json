@@ -1,0 +1,10 @@
+{
+  "query": "What is the ANZUS Treaty, and what region does it cover?",
+  "response": [
+    "doc_17255.txt",
+    "doc_17256.txt",
+    "doc_6674.txt",
+    "doc_9137.txt",
+    "doc_9539.txt"
+  ]
+}

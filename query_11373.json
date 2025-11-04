@@ -1,0 +1,10 @@
+{
+  "query": "During which war did Ernie Pyle serve as a journalist on the front lines?",
+  "response": [
+    "doc_18542.txt",
+    "doc_18543.txt",
+    "doc_13439.txt",
+    "doc_27113.txt",
+    "doc_19538.txt"
+  ]
+}

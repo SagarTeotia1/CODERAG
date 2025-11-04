@@ -1,0 +1,10 @@
+{
+  "query": "When was the first Reptile house at London Zoo opened?",
+  "response": [
+    "doc_17988.txt",
+    "doc_17993.txt",
+    "doc_17990.txt",
+    "doc_17987.txt",
+    "doc_17986.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When did Hershey open Chocolate World, a visitor center and simulated chocolate factory tour?",
+  "response": [
+    "doc_12888.txt",
+    "doc_12887.txt",
+    "doc_2214.txt",
+    "doc_17480.txt",
+    "doc_12883.txt"
+  ]
+}

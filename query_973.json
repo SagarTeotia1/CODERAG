@@ -1,0 +1,10 @@
+{
+  "query": "Which god is Cuchulainn believed to be an incarnation of, according to multiple sources?",
+  "response": [
+    "doc_29733.txt",
+    "doc_29732.txt",
+    "doc_29736.txt",
+    "doc_29735.txt",
+    "doc_29737.txt"
+  ]
+}

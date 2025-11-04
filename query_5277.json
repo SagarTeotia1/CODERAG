@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided links, which submarine from the Barbel class is now preserved as a museum?",
+  "response": [
+    "doc_39966.txt",
+    "doc_39965.txt",
+    "doc_39968.txt",
+    "doc_39969.txt",
+    "doc_39970.txt"
+  ]
+}

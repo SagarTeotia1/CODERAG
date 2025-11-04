@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the railway currently under construction connecting Lijiang and Shangri-La?",
+  "response": [
+    "doc_8745.txt",
+    "doc_21015.txt",
+    "doc_31445.txt",
+    "doc_31442.txt",
+    "doc_31443.txt"
+  ]
+}

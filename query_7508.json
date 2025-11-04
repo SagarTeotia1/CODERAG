@@ -1,0 +1,10 @@
+{
+  "query": "What is the rapporteur’s opinion regarding Parliament’s involvement in matters related to the Europol initiative?",
+  "response": [
+    "doc_9095.txt",
+    "doc_14765.txt",
+    "doc_14764.txt",
+    "doc_14762.txt",
+    "doc_1632.txt"
+  ]
+}

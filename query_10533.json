@@ -1,0 +1,10 @@
+{
+  "query": "Where was the highest temperature of 134 F (56.7 C) recorded, and in what year?",
+  "response": [
+    "doc_1618.txt",
+    "doc_1616.txt",
+    "doc_1615.txt",
+    "doc_1617.txt",
+    "doc_1619.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What type of television series is “Dark Angel”?",
+  "response": [
+    "doc_34281.txt",
+    "doc_34280.txt",
+    "doc_12713.txt",
+    "doc_39999.txt",
+    "doc_40000.txt"
+  ]
+}

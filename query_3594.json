@@ -1,0 +1,10 @@
+{
+  "query": "What phrase did Tolkien write in the margin of a student paper?",
+  "response": [
+    "doc_35950.txt",
+    "doc_35944.txt",
+    "doc_35946.txt",
+    "doc_35949.txt",
+    "doc_35945.txt"
+  ]
+}

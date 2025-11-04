@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Greece win its independence from the Ottoman Empire?",
+  "response": [
+    "doc_3283.txt",
+    "doc_3292.txt",
+    "doc_3284.txt",
+    "doc_3286.txt",
+    "doc_3291.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year did the events of *Singin' in the Rain* take place, and what era of film was it depicting?",
+  "response": [
+    "doc_31831.txt",
+    "doc_31840.txt",
+    "doc_31834.txt",
+    "doc_31830.txt",
+    "doc_31829.txt"
+  ]
+}

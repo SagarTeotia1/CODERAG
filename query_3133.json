@@ -1,0 +1,10 @@
+{
+  "query": "For what action did Audie Murphy receive the Medal of Honor?",
+  "response": [
+    "doc_29857.txt",
+    "doc_29858.txt",
+    "doc_34907.txt",
+    "doc_29855.txt",
+    "doc_29859.txt"
+  ]
+}

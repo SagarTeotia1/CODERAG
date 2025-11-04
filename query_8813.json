@@ -1,0 +1,10 @@
+{
+  "query": "In what city and state did Wesley Englehorn live shortly before his death?",
+  "response": [
+    "doc_27839.txt",
+    "doc_27834.txt",
+    "doc_1605.txt",
+    "doc_32215.txt",
+    "doc_22408.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which driver won the 2016 Berlin ePrix?",
+  "response": [
+    "doc_11901.txt",
+    "doc_11902.txt",
+    "doc_14609.txt",
+    "doc_30889.txt",
+    "doc_28553.txt"
+  ]
+}

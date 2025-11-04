@@ -1,0 +1,10 @@
+{
+  "query": "On what day did Oswald begin his employment at the Texas School Book Depository Building?",
+  "response": [
+    "doc_31139.txt",
+    "doc_31132.txt",
+    "doc_31131.txt",
+    "doc_31133.txt",
+    "doc_31134.txt"
+  ]
+}

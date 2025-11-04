@@ -1,0 +1,10 @@
+{
+  "query": "Where does the play *Light Up the Sky* take place?",
+  "response": [
+    "doc_5829.txt",
+    "doc_29194.txt",
+    "doc_16821.txt",
+    "doc_16822.txt",
+    "doc_16817.txt"
+  ]
+}

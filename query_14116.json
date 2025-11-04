@@ -1,0 +1,10 @@
+{
+  "query": "Where is the Reading School located?",
+  "response": [
+    "doc_25365.txt",
+    "doc_25364.txt",
+    "doc_16619.txt",
+    "doc_35755.txt",
+    "doc_35748.txt"
+  ]
+}

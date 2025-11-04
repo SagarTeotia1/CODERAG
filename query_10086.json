@@ -1,0 +1,10 @@
+{
+  "query": "What is the size of Jasper National Park?",
+  "response": [
+    "doc_15364.txt",
+    "doc_15362.txt",
+    "doc_15359.txt",
+    "doc_15361.txt",
+    "doc_15363.txt"
+  ]
+}

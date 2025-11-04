@@ -1,0 +1,10 @@
+{
+  "query": "What did the Stockholm European Council request in 2001 regarding the security of electronic networks?",
+  "response": [
+    "doc_33586.txt",
+    "doc_23062.txt",
+    "doc_33743.txt",
+    "doc_33588.txt",
+    "doc_29369.txt"
+  ]
+}

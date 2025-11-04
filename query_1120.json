@@ -1,0 +1,10 @@
+{
+  "query": "What are some of the countries from which women are trafficked to South Korea?",
+  "response": [
+    "doc_30061.txt",
+    "doc_22234.txt",
+    "doc_26578.txt",
+    "doc_19526.txt",
+    "doc_19523.txt"
+  ]
+}

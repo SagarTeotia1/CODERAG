@@ -1,0 +1,10 @@
+{
+  "query": "For what award was Matt Charman nominated?",
+  "response": [
+    "doc_7365.txt",
+    "doc_28876.txt",
+    "doc_28869.txt",
+    "doc_27253.txt",
+    "doc_28871.txt"
+  ]
+}

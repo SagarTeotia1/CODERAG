@@ -1,0 +1,10 @@
+{
+  "query": "When did Mustafa Kemal establish the Republic of Turkey?",
+  "response": [
+    "doc_19725.txt",
+    "doc_19728.txt",
+    "doc_37111.txt",
+    "doc_19726.txt",
+    "doc_19722.txt"
+  ]
+}

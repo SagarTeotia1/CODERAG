@@ -1,0 +1,10 @@
+{
+  "query": "What is the approximate time of the comment \"Comment 83 Nick Fitzgerald [:fitzgen] [PDT; UTC-7] 2015-10-19 12:53:57\"?",
+  "response": [
+    "doc_3685.txt",
+    "doc_10897.txt",
+    "doc_21748.txt",
+    "doc_11661.txt",
+    "doc_24599.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What period of painting did Picasso begin with blue tones, starting after his first Paris exhibit?",
+  "response": [
+    "doc_11420.txt",
+    "doc_11417.txt",
+    "doc_11416.txt",
+    "doc_11414.txt",
+    "doc_11415.txt"
+  ]
+}

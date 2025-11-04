@@ -1,0 +1,10 @@
+{
+  "query": "In what year did “I Got You Babe” spend three weeks at number 1 on the Billboard Hot 100 in the United States?",
+  "response": [
+    "doc_448.txt",
+    "doc_449.txt",
+    "doc_29930.txt",
+    "doc_29933.txt",
+    "doc_24355.txt"
+  ]
+}

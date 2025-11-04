@@ -1,0 +1,10 @@
+{
+  "query": "What is the purpose of creating an MD5 file in the context of Hadoop?",
+  "response": [
+    "doc_32114.txt",
+    "doc_32119.txt",
+    "doc_38245.txt",
+    "doc_32120.txt",
+    "doc_38248.txt"
+  ]
+}

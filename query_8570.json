@@ -1,0 +1,10 @@
+{
+  "query": "According to a study, how long does it typically take Portuguese authorities to decide on the funding of new medicines for hospital use?",
+  "response": [
+    "doc_11781.txt",
+    "doc_17535.txt",
+    "doc_12521.txt",
+    "doc_32293.txt",
+    "doc_3355.txt"
+  ]
+}

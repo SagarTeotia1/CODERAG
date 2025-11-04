@@ -1,0 +1,10 @@
+{
+  "query": "Which television critic appeared as a guest in the episode \"Wedding for Disaster\"?",
+  "response": [
+    "doc_27870.txt",
+    "doc_34066.txt",
+    "doc_26960.txt",
+    "doc_26969.txt",
+    "doc_28871.txt"
+  ]
+}

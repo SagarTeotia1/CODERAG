@@ -1,0 +1,10 @@
+{
+  "query": "What specific criminal offences is Viktor Uspaskich accused of in Lithuania?",
+  "response": [
+    "doc_1142.txt",
+    "doc_1141.txt",
+    "doc_23441.txt",
+    "doc_1143.txt",
+    "doc_23440.txt"
+  ]
+}

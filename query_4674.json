@@ -1,0 +1,10 @@
+{
+  "query": "In what city and state is Oglethorpe University located?",
+  "response": [
+    "doc_38610.txt",
+    "doc_38614.txt",
+    "doc_38621.txt",
+    "doc_38612.txt",
+    "doc_38613.txt"
+  ]
+}

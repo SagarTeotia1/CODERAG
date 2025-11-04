@@ -1,0 +1,10 @@
+{
+  "query": "What regulation is referenced as Regulation (EEC) No 1408/71 within this directive?",
+  "response": [
+    "doc_29498.txt",
+    "doc_30704.txt",
+    "doc_18745.txt",
+    "doc_25125.txt",
+    "doc_29497.txt"
+  ]
+}

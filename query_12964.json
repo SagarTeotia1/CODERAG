@@ -1,0 +1,10 @@
+{
+  "query": "When were the “X-Men Fairy Tales,” “Spider-Man Fairy Tales,” and “Avengers Fairy Tales” published?",
+  "response": [
+    "doc_22659.txt",
+    "doc_22660.txt",
+    "doc_14304.txt",
+    "doc_40069.txt",
+    "doc_14305.txt"
+  ]
+}

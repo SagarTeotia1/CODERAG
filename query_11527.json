@@ -1,0 +1,10 @@
+{
+  "query": "Why was Air France allowed a financial subsidy by the Commission?",
+  "response": [
+    "doc_18955.txt",
+    "doc_14069.txt",
+    "doc_21536.txt",
+    "doc_195.txt",
+    "doc_26467.txt"
+  ]
+}

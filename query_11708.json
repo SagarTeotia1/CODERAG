@@ -1,0 +1,10 @@
+{
+  "query": "Kto gra rolę pani Doubtfire w filmie „Pani Doubtfire”?",
+  "response": [
+    "doc_19431.txt",
+    "doc_19432.txt",
+    "doc_19429.txt",
+    "doc_19430.txt",
+    "doc_36385.txt"
+  ]
+}

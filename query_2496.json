@@ -1,0 +1,10 @@
+{
+  "query": "Which international opera venues has Ronald Naldi performed at?",
+  "response": [
+    "doc_3109.txt",
+    "doc_1490.txt",
+    "doc_13849.txt",
+    "doc_35291.txt",
+    "doc_10223.txt"
+  ]
+}

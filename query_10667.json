@@ -1,0 +1,9 @@
+{
+  "query": "In what 1989 movie did Ione Skye play the character Diane Court?",
+  "response": [
+    "doc_16779.txt",
+    "doc_16778.txt",
+    "doc_16781.txt",
+    "doc_16780.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What specific political disagreements are cited as contributing to the tension between the USA and China?",
+  "response": [
+    "doc_40192.txt",
+    "doc_12677.txt",
+    "doc_6664.txt",
+    "doc_8655.txt",
+    "doc_27849.txt"
+  ]
+}

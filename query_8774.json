@@ -1,0 +1,10 @@
+{
+  "query": "Was Chevy Chase offered the role in question?",
+  "response": [
+    "doc_12246.txt",
+    "doc_12247.txt",
+    "doc_31609.txt",
+    "doc_28343.txt",
+    "doc_28873.txt"
+  ]
+}

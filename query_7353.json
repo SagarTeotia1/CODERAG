@@ -1,0 +1,9 @@
+{
+  "query": "What award did Judge Glenda Hatchett receive in 1995 from the NAACP?",
+  "response": [
+    "doc_8757.txt",
+    "doc_8756.txt",
+    "doc_8755.txt",
+    "doc_8758.txt"
+  ]
+}

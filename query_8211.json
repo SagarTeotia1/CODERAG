@@ -1,0 +1,10 @@
+{
+  "query": "In what year was a small colony of Norwegians established in New Jersey?",
+  "response": [
+    "doc_10937.txt",
+    "doc_10936.txt",
+    "doc_10929.txt",
+    "doc_25521.txt",
+    "doc_25982.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "During which parliamentary term did the Coalition of the Liberal and National Parties gain control of the House of Representatives, leading to Malcolm Turnbull becoming Prime Minister?",
+  "response": [
+    "doc_26301.txt",
+    "doc_26303.txt",
+    "doc_30410.txt",
+    "doc_14442.txt",
+    "doc_26302.txt"
+  ]
+}

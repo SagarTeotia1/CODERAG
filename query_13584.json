@@ -1,0 +1,10 @@
+{
+  "query": "In what province of Afghanistan was Task Force Leatherneck operating during its deployment?",
+  "response": [
+    "doc_24105.txt",
+    "doc_5673.txt",
+    "doc_24107.txt",
+    "doc_7872.txt",
+    "doc_23223.txt"
+  ]
+}

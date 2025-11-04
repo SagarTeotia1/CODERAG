@@ -1,0 +1,10 @@
+{
+  "query": "What league was the Knoxville NightHawks a member of?",
+  "response": [
+    "doc_13289.txt",
+    "doc_13290.txt",
+    "doc_20091.txt",
+    "doc_20094.txt",
+    "doc_30112.txt"
+  ]
+}

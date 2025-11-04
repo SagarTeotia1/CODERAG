@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided links, what band did Winwood previously play with, and who was another musician involved in that band?",
+  "response": [
+    "doc_19878.txt",
+    "doc_33024.txt",
+    "doc_34422.txt",
+    "doc_33022.txt",
+    "doc_33023.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was the estimated cost to repair the Nissan’s CVT?",
+  "response": [
+    "doc_35459.txt",
+    "doc_9507.txt",
+    "doc_20231.txt",
+    "doc_29027.txt",
+    "doc_35904.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which tournament did Charlie Pasarell found?",
+  "response": [
+    "doc_35043.txt",
+    "doc_35045.txt",
+    "doc_32458.txt",
+    "doc_35042.txt",
+    "doc_32457.txt"
+  ]
+}

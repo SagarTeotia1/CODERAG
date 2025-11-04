@@ -1,0 +1,10 @@
+{
+  "query": "What animals are fishermen in Reunion reportedly using as bait to catch sharks?",
+  "response": [
+    "doc_25817.txt",
+    "doc_24184.txt",
+    "doc_10030.txt",
+    "doc_14894.txt",
+    "doc_21554.txt"
+  ]
+}

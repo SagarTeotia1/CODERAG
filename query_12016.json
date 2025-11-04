@@ -1,0 +1,10 @@
+{
+  "query": "How many votes did the FEMM committee have in favor of the draft report?",
+  "response": [
+    "doc_20215.txt",
+    "doc_27669.txt",
+    "doc_16874.txt",
+    "doc_31726.txt",
+    "doc_12063.txt"
+  ]
+}

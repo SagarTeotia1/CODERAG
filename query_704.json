@@ -1,0 +1,10 @@
+{
+  "query": "What aid has been granted over the last three years, by country and by programme, including under the Fire 4 pilot project?",
+  "response": [
+    "doc_28879.txt",
+    "doc_26439.txt",
+    "doc_12100.txt",
+    "doc_17431.txt",
+    "doc_15522.txt"
+  ]
+}

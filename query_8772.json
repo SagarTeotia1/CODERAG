@@ -1,0 +1,10 @@
+{
+  "query": "When was “The Warriors” originally published?",
+  "response": [
+    "doc_35509.txt",
+    "doc_27113.txt",
+    "doc_27117.txt",
+    "doc_27116.txt",
+    "doc_39827.txt"
+  ]
+}

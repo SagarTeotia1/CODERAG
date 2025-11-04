@@ -1,0 +1,10 @@
+{
+  "query": "What film documented the first ascent of the Shark's Fin route on Meru Peak, and where did it win an award?",
+  "response": [
+    "doc_15129.txt",
+    "doc_15128.txt",
+    "doc_29888.txt",
+    "doc_27566.txt",
+    "doc_27567.txt"
+  ]
+}

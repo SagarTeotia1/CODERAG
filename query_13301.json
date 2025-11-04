@@ -1,0 +1,10 @@
+{
+  "query": "What was the approximate size of the wildfire that burned southeast of Syringa in the Nez Perce National Forest on March 9th?",
+  "response": [
+    "doc_23305.txt",
+    "doc_23302.txt",
+    "doc_23304.txt",
+    "doc_23303.txt",
+    "doc_29685.txt"
+  ]
+}

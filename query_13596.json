@@ -1,0 +1,10 @@
+{
+  "query": "What specific training topics are offered by the SANS Institute?",
+  "response": [
+    "doc_24134.txt",
+    "doc_24135.txt",
+    "doc_5294.txt",
+    "doc_35776.txt",
+    "doc_10982.txt"
+  ]
+}

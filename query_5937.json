@@ -1,0 +1,10 @@
+{
+  "query": "Which civil parish contains Cholmondeley Castle?",
+  "response": [
+    "doc_3894.txt",
+    "doc_25060.txt",
+    "doc_3892.txt",
+    "doc_14967.txt",
+    "doc_25057.txt"
+  ]
+}

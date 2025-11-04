@@ -1,0 +1,10 @@
+{
+  "query": "What was the first performance included on the album, and when did it later appear on Gilmour’s album?",
+  "response": [
+    "doc_14057.txt",
+    "doc_14059.txt",
+    "doc_14058.txt",
+    "doc_22662.txt",
+    "doc_39921.txt"
+  ]
+}

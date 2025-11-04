@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the Institute of History and Art founded?",
+  "response": [
+    "doc_14289.txt",
+    "doc_6284.txt",
+    "doc_6282.txt",
+    "doc_6280.txt",
+    "doc_6278.txt"
+  ]
+}

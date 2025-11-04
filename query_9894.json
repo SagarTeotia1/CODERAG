@@ -1,0 +1,10 @@
+{
+  "query": "What type of music does Starsailor play, and in what year were they formed?",
+  "response": [
+    "doc_5181.txt",
+    "doc_37165.txt",
+    "doc_30214.txt",
+    "doc_37162.txt",
+    "doc_5183.txt"
+  ]
+}

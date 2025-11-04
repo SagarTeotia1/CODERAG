@@ -1,0 +1,10 @@
+{
+  "query": "Between 1984 and 1987, what practices became common in the Tunisian gendarmerie?",
+  "response": [
+    "doc_27010.txt",
+    "doc_24894.txt",
+    "doc_12881.txt",
+    "doc_17045.txt",
+    "doc_2801.txt"
+  ]
+}

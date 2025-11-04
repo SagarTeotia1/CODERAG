@@ -1,0 +1,10 @@
+{
+  "query": "What was the original use of Tamarama Park before it became an amusement park?",
+  "response": [
+    "doc_21620.txt",
+    "doc_21621.txt",
+    "doc_20052.txt",
+    "doc_21618.txt",
+    "doc_21622.txt"
+  ]
+}

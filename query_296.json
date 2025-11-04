@@ -1,0 +1,10 @@
+{
+  "query": "When did the Piper Alpha explosion occur, and where was the platform located?",
+  "response": [
+    "doc_28015.txt",
+    "doc_28020.txt",
+    "doc_28010.txt",
+    "doc_28021.txt",
+    "doc_28009.txt"
+  ]
+}

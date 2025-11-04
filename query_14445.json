@@ -1,0 +1,10 @@
+{
+  "query": "What type of drinking vessel do Kazakhs use?",
+  "response": [
+    "doc_26114.txt",
+    "doc_26115.txt",
+    "doc_10881.txt",
+    "doc_10878.txt",
+    "doc_10877.txt"
+  ]
+}

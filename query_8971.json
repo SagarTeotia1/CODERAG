@@ -1,0 +1,10 @@
+{
+  "query": "Based on what areas is the Beijing dialect derived from?",
+  "response": [
+    "doc_12772.txt",
+    "doc_12773.txt",
+    "doc_12775.txt",
+    "doc_12774.txt",
+    "doc_31952.txt"
+  ]
+}

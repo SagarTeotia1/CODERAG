@@ -1,0 +1,10 @@
+{
+  "query": "To whom is Vito Corleone referring when he calls Johnny Fontane a “finocchio”?",
+  "response": [
+    "doc_21805.txt",
+    "doc_21806.txt",
+    "doc_21808.txt",
+    "doc_21807.txt",
+    "doc_21809.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "How many digits does a giant panda have on each hand, and how does this compare to Disney characters?",
+  "response": [
+    "doc_21032.txt",
+    "doc_21036.txt",
+    "doc_21035.txt",
+    "doc_21033.txt",
+    "doc_21034.txt"
+  ]
+}

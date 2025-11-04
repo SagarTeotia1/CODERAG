@@ -1,0 +1,10 @@
+{
+  "query": "What was the Food Summit’s pledge regarding the number of hungry people by 2015?",
+  "response": [
+    "doc_14812.txt",
+    "doc_1473.txt",
+    "doc_6590.txt",
+    "doc_38694.txt",
+    "doc_29651.txt"
+  ]
+}

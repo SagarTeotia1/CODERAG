@@ -1,0 +1,10 @@
+{
+  "query": "What legal basis was used by the Greek Competition Commission for its investigation into the Greek Supermarkets’ Association?",
+  "response": [
+    "doc_575.txt",
+    "doc_21794.txt",
+    "doc_9494.txt",
+    "doc_13789.txt",
+    "doc_37702.txt"
+  ]
+}

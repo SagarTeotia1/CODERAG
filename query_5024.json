@@ -1,0 +1,10 @@
+{
+  "query": "What is the Victoria Royals’ recent accomplishment?",
+  "response": [
+    "doc_22168.txt",
+    "doc_14705.txt",
+    "doc_38744.txt",
+    "doc_9022.txt",
+    "doc_14703.txt"
+  ]
+}

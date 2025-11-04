@@ -1,0 +1,10 @@
+{
+  "query": "What era is *Light Up the Sky* set in?",
+  "response": [
+    "doc_5829.txt",
+    "doc_6936.txt",
+    "doc_8120.txt",
+    "doc_18854.txt",
+    "doc_18859.txt"
+  ]
+}

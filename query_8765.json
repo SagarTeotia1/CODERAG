@@ -1,0 +1,10 @@
+{
+  "query": "In what year is Comet Halley predicted to return to the inner Solar System?",
+  "response": [
+    "doc_12236.txt",
+    "doc_12240.txt",
+    "doc_12237.txt",
+    "doc_12231.txt",
+    "doc_12239.txt"
+  ]
+}

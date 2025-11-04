@@ -1,0 +1,10 @@
+{
+  "query": "What was Albert Einstein awarded the Nobel Prize in Physics for, and in what year did he receive it?",
+  "response": [
+    "doc_28229.txt",
+    "doc_8714.txt",
+    "doc_21814.txt",
+    "doc_21691.txt",
+    "doc_27927.txt"
+  ]
+}

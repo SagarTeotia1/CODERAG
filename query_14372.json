@@ -1,0 +1,10 @@
+{
+  "query": "What role did Wyatt play on the television series *Starman*?",
+  "response": [
+    "doc_26000.txt",
+    "doc_16130.txt",
+    "doc_16128.txt",
+    "doc_16132.txt",
+    "doc_16131.txt"
+  ]
+}

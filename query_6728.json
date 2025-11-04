@@ -1,0 +1,10 @@
+{
+  "query": "What color pigments were used by artists to create the color of Venetian paintings?",
+  "response": [
+    "doc_7173.txt",
+    "doc_31363.txt",
+    "doc_16537.txt",
+    "doc_7174.txt",
+    "doc_31358.txt"
+  ]
+}

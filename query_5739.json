@@ -1,0 +1,10 @@
+{
+  "query": "At what age did Robert Johnson die?",
+  "response": [
+    "doc_4729.txt",
+    "doc_4727.txt",
+    "doc_4730.txt",
+    "doc_4734.txt",
+    "doc_4728.txt"
+  ]
+}

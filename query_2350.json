@@ -1,0 +1,10 @@
+{
+  "query": "According to the text, what is the name of the Gaspe Peninsula in the Mi'kmaq language?",
+  "response": [
+    "doc_33094.txt",
+    "doc_33093.txt",
+    "doc_33092.txt",
+    "doc_33091.txt",
+    "doc_33095.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In which city is Tropicana Field, the Tampa Bay Rays’ home venue, located?",
+  "response": [
+    "doc_23275.txt",
+    "doc_7764.txt",
+    "doc_23274.txt",
+    "doc_20003.txt",
+    "doc_20706.txt"
+  ]
+}

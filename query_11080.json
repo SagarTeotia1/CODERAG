@@ -1,0 +1,10 @@
+{
+  "query": "When was the University of Zimbabwe founded?",
+  "response": [
+    "doc_17795.txt",
+    "doc_17792.txt",
+    "doc_17794.txt",
+    "doc_17793.txt",
+    "doc_17797.txt"
+  ]
+}

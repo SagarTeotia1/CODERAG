@@ -1,0 +1,10 @@
+{
+  "query": "When was the Symphony in C by Georges Bizet started and finished?",
+  "response": [
+    "doc_1642.txt",
+    "doc_35288.txt",
+    "doc_27135.txt",
+    "doc_36651.txt",
+    "doc_10685.txt"
+  ]
+}

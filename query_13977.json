@@ -1,0 +1,10 @@
+{
+  "query": "When were two patients infected with HIV during blood transfusions in Greece?",
+  "response": [
+    "doc_2391.txt",
+    "doc_4798.txt",
+    "doc_16483.txt",
+    "doc_31061.txt",
+    "doc_14044.txt"
+  ]
+}

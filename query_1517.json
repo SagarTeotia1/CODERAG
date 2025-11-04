@@ -1,0 +1,10 @@
+{
+  "query": "What legendary birthplace is associated with Tintagel Castle?",
+  "response": [
+    "doc_17165.txt",
+    "doc_17164.txt",
+    "doc_17157.txt",
+    "doc_30966.txt",
+    "doc_5870.txt"
+  ]
+}

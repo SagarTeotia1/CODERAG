@@ -1,0 +1,10 @@
+{
+  "query": "What is the height of the Washington Monument in Washington, D.C.?",
+  "response": [
+    "doc_32813.txt",
+    "doc_32814.txt",
+    "doc_32817.txt",
+    "doc_12662.txt",
+    "doc_32816.txt"
+  ]
+}

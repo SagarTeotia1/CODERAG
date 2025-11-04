@@ -1,0 +1,10 @@
+{
+  "query": "What is the Feast of the Dedication also known as?",
+  "response": [
+    "doc_13875.txt",
+    "doc_13882.txt",
+    "doc_33999.txt",
+    "doc_13881.txt",
+    "doc_13883.txt"
+  ]
+}

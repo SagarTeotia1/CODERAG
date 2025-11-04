@@ -1,0 +1,10 @@
+{
+  "query": "Which classic Chinese novel did Pearl S. Buck translate and publish as “All Men Are Brothers”?",
+  "response": [
+    "doc_34647.txt",
+    "doc_34643.txt",
+    "doc_34648.txt",
+    "doc_34645.txt",
+    "doc_34646.txt"
+  ]
+}

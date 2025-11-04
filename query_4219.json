@@ -1,0 +1,10 @@
+{
+  "query": "For approximately how many years was De Sade incarcerated in prisons and an insane asylum?",
+  "response": [
+    "doc_37479.txt",
+    "doc_37482.txt",
+    "doc_37477.txt",
+    "doc_37480.txt",
+    "doc_37478.txt"
+  ]
+}

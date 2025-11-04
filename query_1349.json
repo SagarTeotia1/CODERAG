@@ -1,0 +1,10 @@
+{
+  "query": "Who produced \"Interplanetary Class Classics\"?",
+  "response": [
+    "doc_16131.txt",
+    "doc_14905.txt",
+    "doc_2402.txt",
+    "doc_13523.txt",
+    "doc_2408.txt"
+  ]
+}

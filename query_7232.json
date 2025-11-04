@@ -1,0 +1,10 @@
+{
+  "query": "What year did Alabama win its first softball National Championship?",
+  "response": [
+    "doc_8424.txt",
+    "doc_8425.txt",
+    "doc_34046.txt",
+    "doc_25629.txt",
+    "doc_21843.txt"
+  ]
+}

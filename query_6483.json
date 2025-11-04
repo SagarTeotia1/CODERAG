@@ -1,0 +1,10 @@
+{
+  "query": "In which regions has the species *Brassica elongata* been identified as an invasive species?",
+  "response": [
+    "doc_17272.txt",
+    "doc_31412.txt",
+    "doc_2720.txt",
+    "doc_37512.txt",
+    "doc_9122.txt"
+  ]
+}

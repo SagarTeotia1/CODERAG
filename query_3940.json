@@ -1,0 +1,10 @@
+{
+  "query": "Which album features the Wally López Remix of “Just a Little More Love”?",
+  "response": [
+    "doc_12183.txt",
+    "doc_12180.txt",
+    "doc_12182.txt",
+    "doc_12184.txt",
+    "doc_12185.txt"
+  ]
+}

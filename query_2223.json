@@ -1,0 +1,10 @@
+{
+  "query": "What was Kirsten Olson’s role in the Disney movie “Ice Princess”?",
+  "response": [
+    "doc_32783.txt",
+    "doc_32781.txt",
+    "doc_35252.txt",
+    "doc_35251.txt",
+    "doc_35250.txt"
+  ]
+}

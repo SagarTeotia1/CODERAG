@@ -1,0 +1,10 @@
+{
+  "query": "What type of Pokmon is associated with the “Rock” type?",
+  "response": [
+    "doc_14605.txt",
+    "doc_25709.txt",
+    "doc_25715.txt",
+    "doc_25710.txt",
+    "doc_25712.txt"
+  ]
+}

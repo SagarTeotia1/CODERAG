@@ -1,0 +1,10 @@
+{
+  "query": "According to the 2011 ILO Report, approximately how many school-aged children in Uzbekistan are estimated to be forced to participate in the cotton harvest annually?",
+  "response": [
+    "doc_30811.txt",
+    "doc_30816.txt",
+    "doc_30815.txt",
+    "doc_30810.txt",
+    "doc_30808.txt"
+  ]
+}

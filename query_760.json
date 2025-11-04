@@ -1,0 +1,10 @@
+{
+  "query": "What is the Joel H. Hubbard House also known as?",
+  "response": [
+    "doc_100.txt",
+    "doc_20482.txt",
+    "doc_10051.txt",
+    "doc_20436.txt",
+    "doc_20483.txt"
+  ]
+}

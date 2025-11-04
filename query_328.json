@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the community radio station located in Richmond Hill, Queens?",
+  "response": [
+    "doc_40278.txt",
+    "doc_1140.txt",
+    "doc_38945.txt",
+    "doc_23953.txt",
+    "doc_5629.txt"
+  ]
+}

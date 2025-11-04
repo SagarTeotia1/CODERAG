@@ -1,0 +1,10 @@
+{
+  "query": "What tour did Run-D.M.C. and the Beastie Boys undertake in 1987?",
+  "response": [
+    "doc_18215.txt",
+    "doc_36280.txt",
+    "doc_11205.txt",
+    "doc_22523.txt",
+    "doc_29934.txt"
+  ]
+}

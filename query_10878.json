@@ -1,0 +1,10 @@
+{
+  "query": "Which regions are currently engaged in substantive EPA negotiations, and when are Western African countries scheduled to meet regarding the EPA?",
+  "response": [
+    "doc_17273.txt",
+    "doc_24242.txt",
+    "doc_19084.txt",
+    "doc_24580.txt",
+    "doc_22232.txt"
+  ]
+}

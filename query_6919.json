@@ -1,0 +1,10 @@
+{
+  "query": "In April 2000, how many school children and one Red Cross Volunteer were allegedly killed in the Gambia?",
+  "response": [
+    "doc_7619.txt",
+    "doc_20962.txt",
+    "doc_20968.txt",
+    "doc_20965.txt",
+    "doc_18585.txt"
+  ]
+}

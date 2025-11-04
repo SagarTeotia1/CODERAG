@@ -1,0 +1,10 @@
+{
+  "query": "What specific word in Hebrew was used to describe the “forbidden fruit,” and what was its intended meaning according to the provided texts?",
+  "response": [
+    "doc_10172.txt",
+    "doc_14231.txt",
+    "doc_10174.txt",
+    "doc_14232.txt",
+    "doc_10173.txt"
+  ]
+}

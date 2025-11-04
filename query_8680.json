@@ -1,0 +1,10 @@
+{
+  "query": "What did Carl Sagan write to accompany the book “Cosmos”?",
+  "response": [
+    "doc_12043.txt",
+    "doc_12044.txt",
+    "doc_12048.txt",
+    "doc_12046.txt",
+    "doc_12040.txt"
+  ]
+}

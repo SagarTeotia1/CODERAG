@@ -1,0 +1,10 @@
+{
+  "query": "Which film did Alan Rickman direct in his debut as a director, and who are two of its stars?",
+  "response": [
+    "doc_25397.txt",
+    "doc_16671.txt",
+    "doc_25398.txt",
+    "doc_25395.txt",
+    "doc_25396.txt"
+  ]
+}

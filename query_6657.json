@@ -1,0 +1,10 @@
+{
+  "query": "At which Super Bowl did Nick Caley participate as a member of the Patriots coaching staff?",
+  "response": [
+    "doc_7017.txt",
+    "doc_12459.txt",
+    "doc_38738.txt",
+    "doc_12466.txt",
+    "doc_38736.txt"
+  ]
+}

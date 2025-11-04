@@ -1,0 +1,10 @@
+{
+  "query": "According to the passages, what instrument did Edvard Grieg’s father initially teach him?",
+  "response": [
+    "doc_2786.txt",
+    "doc_2787.txt",
+    "doc_2790.txt",
+    "doc_2796.txt",
+    "doc_2798.txt"
+  ]
+}

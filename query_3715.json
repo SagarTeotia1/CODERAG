@@ -1,0 +1,10 @@
+{
+  "query": "Which band collaborated with The Rabble on the song “This World is Dead”?",
+  "response": [
+    "doc_36252.txt",
+    "doc_37360.txt",
+    "doc_38412.txt",
+    "doc_25512.txt",
+    "doc_36253.txt"
+  ]
+}

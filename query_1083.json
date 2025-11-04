@@ -1,0 +1,10 @@
+{
+  "query": "What does the Latin phrase “E Pluribus Unum” literally mean?",
+  "response": [
+    "doc_29987.txt",
+    "doc_29988.txt",
+    "doc_29996.txt",
+    "doc_29995.txt",
+    "doc_29993.txt"
+  ]
+}

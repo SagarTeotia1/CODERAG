@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of a product sold at Costco that transitions between three different modes of use?",
+  "response": [
+    "doc_19807.txt",
+    "doc_17175.txt",
+    "doc_23987.txt",
+    "doc_23986.txt",
+    "doc_27439.txt"
+  ]
+}

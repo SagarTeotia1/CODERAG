@@ -1,0 +1,10 @@
+{
+  "query": "What financial support did the European Commission provide to Kyrgyzstan following the crisis?",
+  "response": [
+    "doc_50.txt",
+    "doc_13898.txt",
+    "doc_34801.txt",
+    "doc_13899.txt",
+    "doc_34800.txt"
+  ]
+}

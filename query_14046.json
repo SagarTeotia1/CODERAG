@@ -1,0 +1,10 @@
+{
+  "query": "What reward did the French Government offer to the FARC terrorist?",
+  "response": [
+    "doc_25217.txt",
+    "doc_27933.txt",
+    "doc_22864.txt",
+    "doc_27932.txt",
+    "doc_4910.txt"
+  ]
+}

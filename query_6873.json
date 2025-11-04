@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of newly created jobs in the European Union have been part-time since 2000?",
+  "response": [
+    "doc_13814.txt",
+    "doc_7521.txt",
+    "doc_15102.txt",
+    "doc_11786.txt",
+    "doc_24477.txt"
+  ]
+}

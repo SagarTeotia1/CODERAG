@@ -1,0 +1,10 @@
+{
+  "query": "In what state is Lizard Mound County Park located?",
+  "response": [
+    "doc_24606.txt",
+    "doc_21735.txt",
+    "doc_20462.txt",
+    "doc_32940.txt",
+    "doc_21734.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What horsepower does the Dodge Challenger have with the Hellcat models?",
+  "response": [
+    "doc_33610.txt",
+    "doc_12283.txt",
+    "doc_9502.txt",
+    "doc_9501.txt",
+    "doc_11621.txt"
+  ]
+}

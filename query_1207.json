@@ -1,0 +1,10 @@
+{
+  "query": "Which groups is the European Parliament explicitly supporting in Iran, and how are they advocating for change?",
+  "response": [
+    "doc_30305.txt",
+    "doc_13926.txt",
+    "doc_28266.txt",
+    "doc_6551.txt",
+    "doc_13927.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the poem “A Visit from Saint Nicholas” published?",
+  "response": [
+    "doc_34462.txt",
+    "doc_34466.txt",
+    "doc_34464.txt",
+    "doc_34465.txt",
+    "doc_34463.txt"
+  ]
+}

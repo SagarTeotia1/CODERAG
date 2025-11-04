@@ -1,0 +1,10 @@
+{
+  "query": "What chart did the song “Forbidden Fruit” peak at?",
+  "response": [
+    "doc_36259.txt",
+    "doc_22663.txt",
+    "doc_29932.txt",
+    "doc_29938.txt",
+    "doc_29935.txt"
+  ]
+}

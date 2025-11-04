@@ -1,0 +1,10 @@
+{
+  "query": "In what city was Gypsy Rose Lee born?",
+  "response": [
+    "doc_20238.txt",
+    "doc_20233.txt",
+    "doc_20235.txt",
+    "doc_20234.txt",
+    "doc_20236.txt"
+  ]
+}

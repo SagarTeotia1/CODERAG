@@ -1,0 +1,10 @@
+{
+  "query": "What book did Dorothy Parker begin to write, as mentioned in the passage?",
+  "response": [
+    "doc_12950.txt",
+    "doc_12953.txt",
+    "doc_8661.txt",
+    "doc_12952.txt",
+    "doc_12951.txt"
+  ]
+}

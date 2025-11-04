@@ -1,0 +1,10 @@
+{
+  "query": "Which government body governs the five unincorporated towns located within the Las Vegas Township?",
+  "response": [
+    "doc_37652.txt",
+    "doc_37649.txt",
+    "doc_14097.txt",
+    "doc_27106.txt",
+    "doc_37651.txt"
+  ]
+}

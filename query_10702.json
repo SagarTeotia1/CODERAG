@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how many researchers have benefitted from a Marie Curie grant by the end of the 7th Framework Programme?",
+  "response": [
+    "doc_16872.txt",
+    "doc_39956.txt",
+    "doc_15497.txt",
+    "doc_2428.txt",
+    "doc_24892.txt"
+  ]
+}

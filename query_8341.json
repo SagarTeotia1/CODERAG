@@ -1,0 +1,10 @@
+{
+  "query": "What was the average public awareness of the 112 number across the EU-25?",
+  "response": [
+    "doc_11199.txt",
+    "doc_25013.txt",
+    "doc_5783.txt",
+    "doc_11283.txt",
+    "doc_39882.txt"
+  ]
+}

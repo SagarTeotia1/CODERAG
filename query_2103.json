@@ -1,0 +1,10 @@
+{
+  "query": "What is the municipal seat for the Mazatlán Municipality?",
+  "response": [
+    "doc_27609.txt",
+    "doc_27602.txt",
+    "doc_38624.txt",
+    "doc_24013.txt",
+    "doc_27604.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What additional EU project was funded in 2006 to investigate risk factors for autism and cerebral palsy?",
+  "response": [
+    "doc_13666.txt",
+    "doc_21144.txt",
+    "doc_39176.txt",
+    "doc_3216.txt",
+    "doc_24602.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "How many nurseries have separate nurseries for their baby, according to Baumgartner?",
+  "response": [
+    "doc_26131.txt",
+    "doc_23881.txt",
+    "doc_16033.txt",
+    "doc_26134.txt",
+    "doc_7738.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was the purpose of the Rhind Mathematical Papyrus, as described in one of the linked documents?",
+  "response": [
+    "doc_23901.txt",
+    "doc_21945.txt",
+    "doc_3447.txt",
+    "doc_3448.txt",
+    "doc_9130.txt"
+  ]
+}

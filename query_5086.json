@@ -1,0 +1,10 @@
+{
+  "query": "What happened to Steven as a result of a shockwave?",
+  "response": [
+    "doc_23612.txt",
+    "doc_19742.txt",
+    "doc_30403.txt",
+    "doc_30400.txt",
+    "doc_30404.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "With whom did Diana Krall collaborate on her 2004 album, “The Girl In The Other Room”?",
+  "response": [
+    "doc_39566.txt",
+    "doc_39571.txt",
+    "doc_39567.txt",
+    "doc_39570.txt",
+    "doc_39572.txt"
+  ]
+}

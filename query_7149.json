@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Cher perform “The Star-Spangled Banner” at the Super Bowl?",
+  "response": [
+    "doc_8235.txt",
+    "doc_8229.txt",
+    "doc_8233.txt",
+    "doc_8234.txt",
+    "doc_8232.txt"
+  ]
+}

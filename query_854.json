@@ -1,0 +1,10 @@
+{
+  "query": "Which individuals within the European Parliament can request information related to European security and defence policy, and what committee is involved in this process?",
+  "response": [
+    "doc_39007.txt",
+    "doc_2662.txt",
+    "doc_29370.txt",
+    "doc_2661.txt",
+    "doc_2664.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to the eBay listings, what year was the “Celtic Circle 2” compilation CD released?",
+  "response": [
+    "doc_16160.txt",
+    "doc_16156.txt",
+    "doc_16162.txt",
+    "doc_16153.txt",
+    "doc_16161.txt"
+  ]
+}

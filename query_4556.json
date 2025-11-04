@@ -1,0 +1,10 @@
+{
+  "query": "In what year did KSD first broadcast?",
+  "response": [
+    "doc_38288.txt",
+    "doc_40273.txt",
+    "doc_38289.txt",
+    "doc_40277.txt",
+    "doc_40280.txt"
+  ]
+}

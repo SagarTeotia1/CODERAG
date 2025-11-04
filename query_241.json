@@ -1,0 +1,10 @@
+{
+  "query": "Who voiced the character Barney Gumble, and what is his role in “The Simpsons”?",
+  "response": [
+    "doc_27884.txt",
+    "doc_27885.txt",
+    "doc_32695.txt",
+    "doc_12527.txt",
+    "doc_39143.txt"
+  ]
+}

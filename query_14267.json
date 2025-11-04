@@ -1,0 +1,10 @@
+{
+  "query": "In what context is “Auld Lang Syne” traditionally sung, specifically relating to a holiday celebration?",
+  "response": [
+    "doc_37447.txt",
+    "doc_37449.txt",
+    "doc_25798.txt",
+    "doc_25796.txt",
+    "doc_37450.txt"
+  ]
+}

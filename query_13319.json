@@ -1,0 +1,10 @@
+{
+  "query": "Which two kingdoms resulted from the division of the nation after Solomon’s death?",
+  "response": [
+    "doc_23355.txt",
+    "doc_23356.txt",
+    "doc_23357.txt",
+    "doc_23352.txt",
+    "doc_23353.txt"
+  ]
+}

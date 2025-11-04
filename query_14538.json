@@ -1,0 +1,10 @@
+{
+  "query": "In what year was NIRcam installed into ISIM?",
+  "response": [
+    "doc_27286.txt",
+    "doc_27285.txt",
+    "doc_27281.txt",
+    "doc_27282.txt",
+    "doc_4009.txt"
+  ]
+}

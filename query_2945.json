@@ -1,0 +1,10 @@
+{
+  "query": "What action did Tesco announce regarding carbon ratings for its products?",
+  "response": [
+    "doc_34488.txt",
+    "doc_39157.txt",
+    "doc_33272.txt",
+    "doc_40168.txt",
+    "doc_40167.txt"
+  ]
+}

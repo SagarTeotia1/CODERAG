@@ -1,0 +1,10 @@
+{
+  "query": "What was the overall decline in turnout compared to the 2004 European elections?",
+  "response": [
+    "doc_12009.txt",
+    "doc_40255.txt",
+    "doc_26478.txt",
+    "doc_14779.txt",
+    "doc_12003.txt"
+  ]
+}

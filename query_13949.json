@@ -1,0 +1,10 @@
+{
+  "query": "For which artist did Rico Love write the song “Throwback”?",
+  "response": [
+    "doc_24947.txt",
+    "doc_22516.txt",
+    "doc_22520.txt",
+    "doc_22519.txt",
+    "doc_22517.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What specific diplomatic actions did the Union undertake to pressure both governments involved in the conflict?",
+  "response": [
+    "doc_21208.txt",
+    "doc_37243.txt",
+    "doc_34503.txt",
+    "doc_16998.txt",
+    "doc_5475.txt"
+  ]
+}

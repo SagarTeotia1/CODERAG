@@ -1,0 +1,10 @@
+{
+  "query": "What research programme specifically focuses on preserving the Classical Tradition?",
+  "response": [
+    "doc_30503.txt",
+    "doc_26283.txt",
+    "doc_30504.txt",
+    "doc_38594.txt",
+    "doc_218.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to the text, what was George Pickett’s graduation rank at West Point?",
+  "response": [
+    "doc_31714.txt",
+    "doc_31717.txt",
+    "doc_31713.txt",
+    "doc_31712.txt",
+    "doc_31718.txt"
+  ]
+}

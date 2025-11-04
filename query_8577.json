@@ -1,0 +1,10 @@
+{
+  "query": "What award did The Mavericks win in 1996?",
+  "response": [
+    "doc_4997.txt",
+    "doc_5001.txt",
+    "doc_6898.txt",
+    "doc_4991.txt",
+    "doc_4992.txt"
+  ]
+}

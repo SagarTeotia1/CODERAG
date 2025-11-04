@@ -1,0 +1,10 @@
+{
+  "query": "What is the estimated amount of additional capital needed by five Spanish banks, according to the European Banking Authority?",
+  "response": [
+    "doc_13691.txt",
+    "doc_20474.txt",
+    "doc_9151.txt",
+    "doc_14783.txt",
+    "doc_36465.txt"
+  ]
+}

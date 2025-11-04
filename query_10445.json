@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission’s current knowledge regarding a proposed ten per cent state subsidy for British industrial customers on electricity prices?",
+  "response": [
+    "doc_16336.txt",
+    "doc_11658.txt",
+    "doc_35339.txt",
+    "doc_23166.txt",
+    "doc_22971.txt"
+  ]
+}

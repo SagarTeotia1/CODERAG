@@ -1,0 +1,10 @@
+{
+  "query": "What political party won the majority of seats in the West Bengal Legislative Assembly election of 1967?",
+  "response": [
+    "doc_35662.txt",
+    "doc_3225.txt",
+    "doc_22085.txt",
+    "doc_9534.txt",
+    "doc_13721.txt"
+  ]
+}

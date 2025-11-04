@@ -1,0 +1,10 @@
+{
+  "query": "What action did Italy’s Ministry of the Interior announce regarding the Roma population in Italy?",
+  "response": [
+    "doc_26724.txt",
+    "doc_25323.txt",
+    "doc_2722.txt",
+    "doc_40259.txt",
+    "doc_17123.txt"
+  ]
+}

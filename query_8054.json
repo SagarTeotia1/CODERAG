@@ -1,0 +1,10 @@
+{
+  "query": "Which coaches have won conference championships with the Buckeyes?",
+  "response": [
+    "doc_25625.txt",
+    "doc_25623.txt",
+    "doc_25622.txt",
+    "doc_14701.txt",
+    "doc_25631.txt"
+  ]
+}

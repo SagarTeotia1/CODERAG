@@ -1,0 +1,10 @@
+{
+  "query": "Who was Walt Whitman described as in the first snippet of text?",
+  "response": [
+    "doc_11932.txt",
+    "doc_11933.txt",
+    "doc_11936.txt",
+    "doc_11934.txt",
+    "doc_37917.txt"
+  ]
+}

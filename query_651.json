@@ -1,0 +1,10 @@
+{
+  "query": "What study was referenced in the passage that investigated cancer and mortality rates in the area surrounding the Mol nuclear site?",
+  "response": [
+    "doc_28715.txt",
+    "doc_23130.txt",
+    "doc_28866.txt",
+    "doc_14748.txt",
+    "doc_39176.txt"
+  ]
+}

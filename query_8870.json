@@ -1,0 +1,10 @@
+{
+  "query": "What was Thomas Dodd’s role during the 1995 Congressional Record tribute?",
+  "response": [
+    "doc_12503.txt",
+    "doc_12502.txt",
+    "doc_12504.txt",
+    "doc_12507.txt",
+    "doc_12505.txt"
+  ]
+}

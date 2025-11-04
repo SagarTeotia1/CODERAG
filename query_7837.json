@@ -1,0 +1,10 @@
+{
+  "query": "What are three specific funds managed by the EBRD, as listed in paragraph I?",
+  "response": [
+    "doc_9908.txt",
+    "doc_9912.txt",
+    "doc_9914.txt",
+    "doc_25949.txt",
+    "doc_9909.txt"
+  ]
+}

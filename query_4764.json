@@ -1,0 +1,10 @@
+{
+  "query": "Which bands were members of the Paisley Underground scene, according to the passage?",
+  "response": [
+    "doc_2988.txt",
+    "doc_37165.txt",
+    "doc_36253.txt",
+    "doc_39064.txt",
+    "doc_32068.txt"
+  ]
+}

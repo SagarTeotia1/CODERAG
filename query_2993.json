@@ -1,0 +1,10 @@
+{
+  "query": "Name three musicians Larry Mathews has performed with.",
+  "response": [
+    "doc_38859.txt",
+    "doc_33023.txt",
+    "doc_33024.txt",
+    "doc_19759.txt",
+    "doc_33026.txt"
+  ]
+}

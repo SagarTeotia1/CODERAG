@@ -1,0 +1,10 @@
+{
+  "query": "If a certification procedure is required for Russian and Chinese firms exporting to the EU, which countries and goods are affected?",
+  "response": [
+    "doc_38796.txt",
+    "doc_40257.txt",
+    "doc_8561.txt",
+    "doc_16085.txt",
+    "doc_40256.txt"
+  ]
+}

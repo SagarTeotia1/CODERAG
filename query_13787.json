@@ -1,0 +1,10 @@
+{
+  "query": "What was the title of the book authored by a “Fox ‘Factor’ man” that included the phrase “Okay, Shannon Michaels, off with those pants”?",
+  "response": [
+    "doc_25551.txt",
+    "doc_24630.txt",
+    "doc_22775.txt",
+    "doc_3270.txt",
+    "doc_37514.txt"
+  ]
+}

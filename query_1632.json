@@ -1,0 +1,10 @@
+{
+  "query": "Who is identified as Rapha’s father?",
+  "response": [
+    "doc_31252.txt",
+    "doc_6685.txt",
+    "doc_35335.txt",
+    "doc_38552.txt",
+    "doc_6683.txt"
+  ]
+}

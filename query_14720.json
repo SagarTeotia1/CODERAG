@@ -1,0 +1,10 @@
+{
+  "query": "How far is Lake Mead from the Las Vegas Strip?",
+  "response": [
+    "doc_26855.txt",
+    "doc_37652.txt",
+    "doc_36780.txt",
+    "doc_36779.txt",
+    "doc_14097.txt"
+  ]
+}

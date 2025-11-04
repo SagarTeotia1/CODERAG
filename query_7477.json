@@ -1,0 +1,10 @@
+{
+  "query": "Which actors starred in *Young Man with a Horn*, and who played the character of Rick Martin?",
+  "response": [
+    "doc_9030.txt",
+    "doc_9029.txt",
+    "doc_9028.txt",
+    "doc_9032.txt",
+    "doc_9027.txt"
+  ]
+}

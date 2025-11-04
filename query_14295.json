@@ -1,0 +1,10 @@
+{
+  "query": "Which architectural style is the Coral Gables Congregational Church an example of?",
+  "response": [
+    "doc_31678.txt",
+    "doc_3062.txt",
+    "doc_16204.txt",
+    "doc_39883.txt",
+    "doc_16208.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What band did Tommy Kessler join in 2010?",
+  "response": [
+    "doc_36109.txt",
+    "doc_34414.txt",
+    "doc_40123.txt",
+    "doc_34420.txt",
+    "doc_21638.txt"
+  ]
+}

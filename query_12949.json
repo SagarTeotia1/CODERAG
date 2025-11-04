@@ -1,0 +1,10 @@
+{
+  "query": "What three areas of human health were identified by experts as potentially affected by BPA?",
+  "response": [
+    "doc_39503.txt",
+    "doc_3364.txt",
+    "doc_7736.txt",
+    "doc_32307.txt",
+    "doc_7737.txt"
+  ]
+}

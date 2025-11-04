@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission’s intention regarding early school leaving?",
+  "response": [
+    "doc_35167.txt",
+    "doc_39076.txt",
+    "doc_33751.txt",
+    "doc_31038.txt",
+    "doc_39857.txt"
+  ]
+}

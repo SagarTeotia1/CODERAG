@@ -1,0 +1,10 @@
+{
+  "query": "How many touchdowns did the player notch up at Bournemouth?",
+  "response": [
+    "doc_34201.txt",
+    "doc_30025.txt",
+    "doc_21537.txt",
+    "doc_32261.txt",
+    "doc_32259.txt"
+  ]
+}

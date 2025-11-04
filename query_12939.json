@@ -1,0 +1,10 @@
+{
+  "query": "What specific chemicals did Johnson & Johnson agree to phase out by 2015?",
+  "response": [
+    "doc_22586.txt",
+    "doc_22589.txt",
+    "doc_22584.txt",
+    "doc_22585.txt",
+    "doc_22588.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What movie did Mekhi Phifer star in alongside Brandy?",
+  "response": [
+    "doc_31777.txt",
+    "doc_31778.txt",
+    "doc_31776.txt",
+    "doc_31779.txt",
+    "doc_13190.txt"
+  ]
+}

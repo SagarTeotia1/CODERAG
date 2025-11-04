@@ -1,0 +1,10 @@
+{
+  "query": "Which actor played Luke Taylor in the BBC One drama “The A Word”?",
+  "response": [
+    "doc_9198.txt",
+    "doc_23151.txt",
+    "doc_23688.txt",
+    "doc_21460.txt",
+    "doc_7645.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What type of dog is a Shetland Sheepdog?",
+  "response": [
+    "doc_25723.txt",
+    "doc_25724.txt",
+    "doc_25721.txt",
+    "doc_25725.txt",
+    "doc_25722.txt"
+  ]
+}

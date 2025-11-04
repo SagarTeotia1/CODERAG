@@ -1,0 +1,10 @@
+{
+  "query": "For which video game does Kyrie Irving appear on the cover?",
+  "response": [
+    "doc_23641.txt",
+    "doc_23640.txt",
+    "doc_14403.txt",
+    "doc_5826.txt",
+    "doc_39490.txt"
+  ]
+}

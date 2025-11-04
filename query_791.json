@@ -1,0 +1,10 @@
+{
+  "query": "What country borders Monaco on three sides?",
+  "response": [
+    "doc_29104.txt",
+    "doc_29103.txt",
+    "doc_4578.txt",
+    "doc_29106.txt",
+    "doc_29105.txt"
+  ]
+}

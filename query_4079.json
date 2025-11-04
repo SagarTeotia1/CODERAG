@@ -1,0 +1,10 @@
+{
+  "query": "What was Michael J. Fox’s birth country?",
+  "response": [
+    "doc_37127.txt",
+    "doc_37126.txt",
+    "doc_23078.txt",
+    "doc_23079.txt",
+    "doc_23272.txt"
+  ]
+}

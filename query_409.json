@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the Mishima Yukio Prize established?",
+  "response": [
+    "doc_3608.txt",
+    "doc_3609.txt",
+    "doc_28254.txt",
+    "doc_9863.txt",
+    "doc_10904.txt"
+  ]
+}

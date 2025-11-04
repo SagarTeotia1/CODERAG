@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how far south of Nowra is St Georges Basin?",
+  "response": [
+    "doc_25402.txt",
+    "doc_9137.txt",
+    "doc_9139.txt",
+    "doc_9138.txt",
+    "doc_25401.txt"
+  ]
+}

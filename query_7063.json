@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the painting “Girl with a Pearl Earring” acquired by the Mauritshuis in The Hague?",
+  "response": [
+    "doc_34039.txt",
+    "doc_10413.txt",
+    "doc_18731.txt",
+    "doc_10414.txt",
+    "doc_16532.txt"
+  ]
+}

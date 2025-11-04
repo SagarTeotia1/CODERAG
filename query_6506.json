@@ -1,0 +1,10 @@
+{
+  "query": "What nickname is associated with Patrick Hill, referred to as “Salty”?",
+  "response": [
+    "doc_9442.txt",
+    "doc_20186.txt",
+    "doc_27253.txt",
+    "doc_30111.txt",
+    "doc_20242.txt"
+  ]
+}

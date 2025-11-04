@@ -1,0 +1,10 @@
+{
+  "query": "Which Committee of the Regions resolution, dated 14 December 2000, addresses new forms of governance and citizens' initiative?",
+  "response": [
+    "doc_38022.txt",
+    "doc_38026.txt",
+    "doc_23924.txt",
+    "doc_38032.txt",
+    "doc_23935.txt"
+  ]
+}

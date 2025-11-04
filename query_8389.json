@@ -1,0 +1,10 @@
+{
+  "query": "What specific type of information prevented IFSRA from initially disclosing the requested correspondence?",
+  "response": [
+    "doc_1055.txt",
+    "doc_1054.txt",
+    "doc_866.txt",
+    "doc_990.txt",
+    "doc_1028.txt"
+  ]
+}

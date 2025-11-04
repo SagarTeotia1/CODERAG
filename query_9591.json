@@ -1,0 +1,10 @@
+{
+  "query": "Peter quotes Joel, who said “that before the final day, the sun will turn dark and the moon will turn into” what?",
+  "response": [
+    "doc_31250.txt",
+    "doc_31285.txt",
+    "doc_32797.txt",
+    "doc_611.txt",
+    "doc_19792.txt"
+  ]
+}

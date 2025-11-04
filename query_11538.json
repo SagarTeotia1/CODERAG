@@ -1,0 +1,10 @@
+{
+  "query": "Which specific area of Brittany is currently experiencing a significant economic crisis?",
+  "response": [
+    "doc_34954.txt",
+    "doc_34956.txt",
+    "doc_34953.txt",
+    "doc_34957.txt",
+    "doc_34958.txt"
+  ]
+}

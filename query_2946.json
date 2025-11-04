@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how many miles does the Allegheny Mountain Range run from northeast to southwest?",
+  "response": [
+    "doc_34489.txt",
+    "doc_34490.txt",
+    "doc_34494.txt",
+    "doc_34496.txt",
+    "doc_34492.txt"
+  ]
+}

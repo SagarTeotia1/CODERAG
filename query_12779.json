@@ -1,0 +1,10 @@
+{
+  "query": "In what year did the Western Connecticut State University Colonials win the LEC Tournament championship?",
+  "response": [
+    "doc_22165.txt",
+    "doc_22163.txt",
+    "doc_22169.txt",
+    "doc_22168.txt",
+    "doc_1948.txt"
+  ]
+}

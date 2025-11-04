@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the internationally acclaimed theater located in Balboa Park?",
+  "response": [
+    "doc_22851.txt",
+    "doc_3110.txt",
+    "doc_22853.txt",
+    "doc_23969.txt",
+    "doc_5804.txt"
+  ]
+}

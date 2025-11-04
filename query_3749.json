@@ -1,0 +1,10 @@
+{
+  "query": "According to the text, what did Knute Rockne tell his team to do?",
+  "response": [
+    "doc_36347.txt",
+    "doc_4273.txt",
+    "doc_4272.txt",
+    "doc_36350.txt",
+    "doc_12466.txt"
+  ]
+}

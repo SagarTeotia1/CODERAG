@@ -1,0 +1,10 @@
+{
+  "query": "What is referenced as the “beginning” in relation to Brookdale Community College?",
+  "response": [
+    "doc_777.txt",
+    "doc_6198.txt",
+    "doc_6199.txt",
+    "doc_775.txt",
+    "doc_12590.txt"
+  ]
+}

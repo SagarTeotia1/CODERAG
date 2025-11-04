@@ -1,0 +1,9 @@
+{
+  "query": "Did Thomas Jefferson write “Notes on the State of Virginia”?",
+  "response": [
+    "doc_38152.txt",
+    "doc_38153.txt",
+    "doc_38151.txt",
+    "doc_38150.txt"
+  ]
+}

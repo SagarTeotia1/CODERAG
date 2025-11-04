@@ -1,0 +1,10 @@
+{
+  "query": "By whom was the City of Dover founded?",
+  "response": [
+    "doc_24043.txt",
+    "doc_24044.txt",
+    "doc_24046.txt",
+    "doc_24050.txt",
+    "doc_17835.txt"
+  ]
+}

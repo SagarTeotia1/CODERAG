@@ -1,0 +1,10 @@
+{
+  "query": "What did Derviş Eroğlu, the leader of the National Unity Party, declare in support of following his victory?",
+  "response": [
+    "doc_25361.txt",
+    "doc_6663.txt",
+    "doc_19066.txt",
+    "doc_19441.txt",
+    "doc_16681.txt"
+  ]
+}

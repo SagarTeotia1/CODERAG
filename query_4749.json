@@ -1,0 +1,10 @@
+{
+  "query": "What was Shelby’s blood alcohol concentration (BAC)?",
+  "response": [
+    "doc_38779.txt",
+    "doc_38780.txt",
+    "doc_38785.txt",
+    "doc_38782.txt",
+    "doc_38781.txt"
+  ]
+}

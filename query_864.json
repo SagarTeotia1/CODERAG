@@ -1,0 +1,10 @@
+{
+  "query": "What was Wilson Hicks's primary role during his time at *Life* magazine?",
+  "response": [
+    "doc_38383.txt",
+    "doc_38384.txt",
+    "doc_38382.txt",
+    "doc_38387.txt",
+    "doc_38385.txt"
+  ]
+}

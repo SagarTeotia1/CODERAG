@@ -1,0 +1,10 @@
+{
+  "query": "When did the first airplane successfully land at the South Pole?",
+  "response": [
+    "doc_31510.txt",
+    "doc_31511.txt",
+    "doc_31512.txt",
+    "doc_31513.txt",
+    "doc_31514.txt"
+  ]
+}

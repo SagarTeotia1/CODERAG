@@ -1,0 +1,10 @@
+{
+  "query": "In what country did the Dalmatian likely acquire this nickname?",
+  "response": [
+    "doc_38799.txt",
+    "doc_38798.txt",
+    "doc_6728.txt",
+    "doc_38800.txt",
+    "doc_27673.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to the passages, what is the relationship between yoga and Ayurveda regarding “life-force”?",
+  "response": [
+    "doc_5501.txt",
+    "doc_5502.txt",
+    "doc_5505.txt",
+    "doc_5500.txt",
+    "doc_5503.txt"
+  ]
+}

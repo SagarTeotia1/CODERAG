@@ -1,0 +1,10 @@
+{
+  "query": "When was the house acquired by Giorgio de Chirico?",
+  "response": [
+    "doc_4763.txt",
+    "doc_4762.txt",
+    "doc_18537.txt",
+    "doc_18538.txt",
+    "doc_10051.txt"
+  ]
+}

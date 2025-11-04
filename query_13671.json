@@ -1,0 +1,10 @@
+{
+  "query": "What types of food are available at the Borgata Baking Company and other restaurants mentioned?",
+  "response": [
+    "doc_4724.txt",
+    "doc_26211.txt",
+    "doc_33398.txt",
+    "doc_33455.txt",
+    "doc_12900.txt"
+  ]
+}

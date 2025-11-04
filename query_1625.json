@@ -1,0 +1,10 @@
+{
+  "query": "According to the text, what decorative motifs were frequently used in Rococo style?",
+  "response": [
+    "doc_3063.txt",
+    "doc_3062.txt",
+    "doc_3064.txt",
+    "doc_4680.txt",
+    "doc_4679.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What edifice did Phileas Fogg visit at the Reform Club?",
+  "response": [
+    "doc_38267.txt",
+    "doc_36774.txt",
+    "doc_36770.txt",
+    "doc_17983.txt",
+    "doc_38266.txt"
+  ]
+}

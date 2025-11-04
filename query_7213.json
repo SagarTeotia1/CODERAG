@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the horse associated with Hopalong Cassidy?",
+  "response": [
+    "doc_8367.txt",
+    "doc_8368.txt",
+    "doc_8374.txt",
+    "doc_8377.txt",
+    "doc_32417.txt"
+  ]
+}

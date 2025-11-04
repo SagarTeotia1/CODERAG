@@ -1,0 +1,10 @@
+{
+  "query": "On the Great Seal of the U.S., the eagle holds this many arrows in its left talon?",
+  "response": [
+    "doc_4677.txt",
+    "doc_4676.txt",
+    "doc_4672.txt",
+    "doc_4675.txt",
+    "doc_4671.txt"
+  ]
+}

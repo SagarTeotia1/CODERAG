@@ -1,0 +1,10 @@
+{
+  "query": "In what year did the National Football League first hold a championship game?",
+  "response": [
+    "doc_12651.txt",
+    "doc_36889.txt",
+    "doc_34391.txt",
+    "doc_36888.txt",
+    "doc_16918.txt"
+  ]
+}

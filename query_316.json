@@ -1,0 +1,10 @@
+{
+  "query": "What was the title of the film featuring Robert Indiana eating a mushroom?",
+  "response": [
+    "doc_28085.txt",
+    "doc_28084.txt",
+    "doc_28086.txt",
+    "doc_28090.txt",
+    "doc_28092.txt"
+  ]
+}

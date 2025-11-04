@@ -1,0 +1,10 @@
+{
+  "query": "What was Karl Schwarzschild’s profession?",
+  "response": [
+    "doc_2873.txt",
+    "doc_2876.txt",
+    "doc_2869.txt",
+    "doc_2871.txt",
+    "doc_2875.txt"
+  ]
+}

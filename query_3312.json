@@ -1,0 +1,10 @@
+{
+  "query": "In what sectors does the US have an unchallenged lead, according to the passage?",
+  "response": [
+    "doc_27775.txt",
+    "doc_2164.txt",
+    "doc_18040.txt",
+    "doc_18046.txt",
+    "doc_18041.txt"
+  ]
+}

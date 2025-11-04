@@ -1,0 +1,10 @@
+{
+  "query": "At which Summer Olympics did Wu Shugen lose to Ryoko Tani?",
+  "response": [
+    "doc_17819.txt",
+    "doc_38282.txt",
+    "doc_38278.txt",
+    "doc_38280.txt",
+    "doc_38276.txt"
+  ]
+}

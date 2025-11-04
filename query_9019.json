@@ -1,0 +1,10 @@
+{
+  "query": "In what year was Rachmaninoff's Symphony No. 2 written?",
+  "response": [
+    "doc_12879.txt",
+    "doc_2389.txt",
+    "doc_27131.txt",
+    "doc_8190.txt",
+    "doc_36974.txt"
+  ]
+}

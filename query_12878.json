@@ -1,0 +1,10 @@
+{
+  "query": "What was the full name of Frau Metzger’s son?",
+  "response": [
+    "doc_15961.txt",
+    "doc_1824.txt",
+    "doc_15960.txt",
+    "doc_15959.txt",
+    "doc_15957.txt"
+  ]
+}

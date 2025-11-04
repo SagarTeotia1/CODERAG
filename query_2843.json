@@ -1,0 +1,10 @@
+{
+  "query": "Could Christopher Walken be a suitable choice for a Bond villain?",
+  "response": [
+    "doc_34264.txt",
+    "doc_34261.txt",
+    "doc_34262.txt",
+    "doc_34265.txt",
+    "doc_34260.txt"
+  ]
+}

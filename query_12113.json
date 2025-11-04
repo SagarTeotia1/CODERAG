@@ -1,0 +1,10 @@
+{
+  "query": "Which teams advanced to the championship round of the 2017 World Baseball Classic?",
+  "response": [
+    "doc_20456.txt",
+    "doc_4756.txt",
+    "doc_22164.txt",
+    "doc_22168.txt",
+    "doc_22165.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Sepp Allgeier begin his career as a cameraman?",
+  "response": [
+    "doc_20500.txt",
+    "doc_7934.txt",
+    "doc_15036.txt",
+    "doc_30863.txt",
+    "doc_20499.txt"
+  ]
+}

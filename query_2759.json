@@ -1,0 +1,10 @@
+{
+  "query": "What is the Council’s stance regarding Israel’s obligations under international law?",
+  "response": [
+    "doc_15100.txt",
+    "doc_15236.txt",
+    "doc_9521.txt",
+    "doc_17468.txt",
+    "doc_34103.txt"
+  ]
+}

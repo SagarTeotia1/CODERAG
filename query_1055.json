@@ -1,0 +1,10 @@
+{
+  "query": "What type of reports has the Commission published regarding financial assistance to Greece?",
+  "response": [
+    "doc_16026.txt",
+    "doc_19392.txt",
+    "doc_7126.txt",
+    "doc_29907.txt",
+    "doc_14675.txt"
+  ]
+}

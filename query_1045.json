@@ -1,0 +1,10 @@
+{
+  "query": "What is Ireland’s productivity-gain rate per year?",
+  "response": [
+    "doc_29719.txt",
+    "doc_29722.txt",
+    "doc_9776.txt",
+    "doc_1315.txt",
+    "doc_36489.txt"
+  ]
+}

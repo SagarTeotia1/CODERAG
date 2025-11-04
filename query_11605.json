@@ -1,0 +1,10 @@
+{
+  "query": "Where is Scottsdale Fashion Square located, and what is its approximate size?",
+  "response": [
+    "doc_27844.txt",
+    "doc_36557.txt",
+    "doc_19174.txt",
+    "doc_24838.txt",
+    "doc_11582.txt"
+  ]
+}

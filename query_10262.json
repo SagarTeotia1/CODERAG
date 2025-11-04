@@ -1,0 +1,10 @@
+{
+  "query": "What is happening in St-Moritz regarding snow?",
+  "response": [
+    "doc_15878.txt",
+    "doc_15880.txt",
+    "doc_15877.txt",
+    "doc_15879.txt",
+    "doc_15881.txt"
+  ]
+}

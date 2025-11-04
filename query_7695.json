@@ -1,0 +1,10 @@
+{
+  "query": "Who founded Alcoholics Anonymous in 1935?",
+  "response": [
+    "doc_9597.txt",
+    "doc_9600.txt",
+    "doc_9603.txt",
+    "doc_9601.txt",
+    "doc_9598.txt"
+  ]
+}

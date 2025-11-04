@@ -1,0 +1,10 @@
+{
+  "query": "In what film did Serge Merlin play the role of Raymond Dufayel?",
+  "response": [
+    "doc_23956.txt",
+    "doc_32283.txt",
+    "doc_32281.txt",
+    "doc_32285.txt",
+    "doc_32282.txt"
+  ]
+}

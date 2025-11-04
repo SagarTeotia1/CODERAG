@@ -1,0 +1,10 @@
+{
+  "query": "What was Ruby Dee’s profession?",
+  "response": [
+    "doc_1575.txt",
+    "doc_1573.txt",
+    "doc_1572.txt",
+    "doc_1576.txt",
+    "doc_1574.txt"
+  ]
+}

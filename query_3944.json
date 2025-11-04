@@ -1,0 +1,10 @@
+{
+  "query": "What countries were involved in the agreement to build the gas pipeline under the Baltic Sea?",
+  "response": [
+    "doc_36815.txt",
+    "doc_39074.txt",
+    "doc_23404.txt",
+    "doc_22710.txt",
+    "doc_17568.txt"
+  ]
+}

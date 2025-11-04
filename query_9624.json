@@ -1,0 +1,10 @@
+{
+  "query": "What is the title of the Temple University magazine article?",
+  "response": [
+    "doc_10095.txt",
+    "doc_6066.txt",
+    "doc_10096.txt",
+    "doc_7631.txt",
+    "doc_10098.txt"
+  ]
+}

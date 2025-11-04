@@ -1,0 +1,10 @@
+{
+  "query": "What was the European Centre for Disease Prevention and Control’s (ECDC) conclusion regarding the potential link between the xenotropic murine leukemia virus-related virus (XMRV) and human disease?",
+  "response": [
+    "doc_30654.txt",
+    "doc_39176.txt",
+    "doc_12852.txt",
+    "doc_12853.txt",
+    "doc_2087.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which hip-hop group released “Guerrilla Warfare,” and when was it released?",
+  "response": [
+    "doc_16908.txt",
+    "doc_16907.txt",
+    "doc_9987.txt",
+    "doc_14562.txt",
+    "doc_14732.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which song is specifically referenced as being recorded by Lee Ann Womack?",
+  "response": [
+    "doc_22333.txt",
+    "doc_22339.txt",
+    "doc_22338.txt",
+    "doc_22340.txt",
+    "doc_22337.txt"
+  ]
+}

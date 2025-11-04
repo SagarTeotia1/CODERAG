@@ -1,0 +1,10 @@
+{
+  "query": "In 2000, what was the 6th best-selling film’s admission count in Seoul?",
+  "response": [
+    "doc_2035.txt",
+    "doc_31789.txt",
+    "doc_3234.txt",
+    "doc_31790.txt",
+    "doc_14914.txt"
+  ]
+}

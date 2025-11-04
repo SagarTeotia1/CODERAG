@@ -1,0 +1,10 @@
+{
+  "query": "What was the Great Yasa, and what type of guide or law code was it?",
+  "response": [
+    "doc_1799.txt",
+    "doc_1796.txt",
+    "doc_1803.txt",
+    "doc_1792.txt",
+    "doc_1802.txt"
+  ]
+}

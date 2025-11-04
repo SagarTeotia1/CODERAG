@@ -1,0 +1,10 @@
+{
+  "query": "What newspaper reported on the situation involving women street sweepers in Turkey?",
+  "response": [
+    "doc_8557.txt",
+    "doc_32379.txt",
+    "doc_29545.txt",
+    "doc_17514.txt",
+    "doc_8845.txt"
+  ]
+}

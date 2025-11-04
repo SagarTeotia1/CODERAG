@@ -1,0 +1,10 @@
+{
+  "query": "Why does the passage state that East Jerusalem is excluded from Palestinian territory by the wall?",
+  "response": [
+    "doc_7092.txt",
+    "doc_33423.txt",
+    "doc_31190.txt",
+    "doc_20469.txt",
+    "doc_18846.txt"
+  ]
+}

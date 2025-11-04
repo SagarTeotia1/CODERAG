@@ -1,0 +1,10 @@
+{
+  "query": "What type of race is Leg #3 of the Ironman Triathlon?",
+  "response": [
+    "doc_25407.txt",
+    "doc_25408.txt",
+    "doc_30066.txt",
+    "doc_20205.txt",
+    "doc_25415.txt"
+  ]
+}

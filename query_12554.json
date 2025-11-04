@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of Utah State University’s student body is comprised of out-of-state students?",
+  "response": [
+    "doc_6809.txt",
+    "doc_6810.txt",
+    "doc_6813.txt",
+    "doc_6812.txt",
+    "doc_6811.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Who created the puppets used in the show “Kukla, Fran, and Ollie”?",
+  "response": [
+    "doc_39938.txt",
+    "doc_39937.txt",
+    "doc_39940.txt",
+    "doc_39941.txt",
+    "doc_39939.txt"
+  ]
+}

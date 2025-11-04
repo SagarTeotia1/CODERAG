@@ -1,0 +1,10 @@
+{
+  "query": "How many American soldiers were involved in the Meuse-Argonne Offensive?",
+  "response": [
+    "doc_5522.txt",
+    "doc_5527.txt",
+    "doc_5526.txt",
+    "doc_9669.txt",
+    "doc_22725.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is Michael Corleone dressed as in the passage?",
+  "response": [
+    "doc_4519.txt",
+    "doc_4514.txt",
+    "doc_4517.txt",
+    "doc_4518.txt",
+    "doc_4512.txt"
+  ]
+}

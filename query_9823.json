@@ -1,0 +1,10 @@
+{
+  "query": "Which film featured the song “White Christmas” written by Irving Berlin?",
+  "response": [
+    "doc_14740.txt",
+    "doc_11385.txt",
+    "doc_9745.txt",
+    "doc_29974.txt",
+    "doc_29973.txt"
+  ]
+}

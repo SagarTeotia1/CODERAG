@@ -1,0 +1,10 @@
+{
+  "query": "From which Shakespearean play does Faulkner draw an allusion in the title of *Absalom! Absalom!*?",
+  "response": [
+    "doc_10065.txt",
+    "doc_10067.txt",
+    "doc_10066.txt",
+    "doc_10062.txt",
+    "doc_10064.txt"
+  ]
+}

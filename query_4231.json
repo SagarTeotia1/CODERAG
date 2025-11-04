@@ -1,0 +1,10 @@
+{
+  "query": "The passage mentions a band associated with the “Live and Let Die” song. What is the name of this band?",
+  "response": [
+    "doc_37524.txt",
+    "doc_37522.txt",
+    "doc_37523.txt",
+    "doc_37520.txt",
+    "doc_37521.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "For which country and how many conurbations is the EU Urban Waste Water Treatment Directive still not fully implemented?",
+  "response": [
+    "doc_39796.txt",
+    "doc_24757.txt",
+    "doc_12303.txt",
+    "doc_3249.txt",
+    "doc_37032.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Who is considered “the Royal Historian of Oz”?",
+  "response": [
+    "doc_8770.txt",
+    "doc_8768.txt",
+    "doc_8769.txt",
+    "doc_8766.txt",
+    "doc_8771.txt"
+  ]
+}

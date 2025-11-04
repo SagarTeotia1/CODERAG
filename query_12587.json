@@ -1,0 +1,10 @@
+{
+  "query": "What was built next to the modern-day site of the Michigan Street bridge?",
+  "response": [
+    "doc_31117.txt",
+    "doc_31116.txt",
+    "doc_31122.txt",
+    "doc_31121.txt",
+    "doc_31119.txt"
+  ]
+}

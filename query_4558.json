@@ -1,0 +1,10 @@
+{
+  "query": "What was Larry Harmon’s stage name, and what type of performer was he?",
+  "response": [
+    "doc_19646.txt",
+    "doc_23953.txt",
+    "doc_38112.txt",
+    "doc_12582.txt",
+    "doc_13700.txt"
+  ]
+}

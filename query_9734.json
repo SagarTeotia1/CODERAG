@@ -1,0 +1,10 @@
+{
+  "query": "How many people utilize Fort Benning on a daily basis?",
+  "response": [
+    "doc_14518.txt",
+    "doc_21980.txt",
+    "doc_37382.txt",
+    "doc_21977.txt",
+    "doc_14064.txt"
+  ]
+}

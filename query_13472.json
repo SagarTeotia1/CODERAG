@@ -1,0 +1,10 @@
+{
+  "query": "Which countries were involved in the North American Free Trade Agreement (NAFTA)?",
+  "response": [
+    "doc_23753.txt",
+    "doc_23757.txt",
+    "doc_23756.txt",
+    "doc_23752.txt",
+    "doc_23754.txt"
+  ]
+}

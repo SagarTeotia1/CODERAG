@@ -1,0 +1,10 @@
+{
+  "query": "Who were the main protagonists in the film \"Días de odio\"?",
+  "response": [
+    "doc_12670.txt",
+    "doc_12667.txt",
+    "doc_12671.txt",
+    "doc_12672.txt",
+    "doc_12664.txt"
+  ]
+}

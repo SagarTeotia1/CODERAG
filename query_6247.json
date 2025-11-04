@@ -1,0 +1,10 @@
+{
+  "query": "Which board game series does Bill Dixon design?",
+  "response": [
+    "doc_11606.txt",
+    "doc_30655.txt",
+    "doc_5927.txt",
+    "doc_31334.txt",
+    "doc_24916.txt"
+  ]
+}

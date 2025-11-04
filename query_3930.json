@@ -1,0 +1,10 @@
+{
+  "query": "When did Aung San marry Khin Kyi?",
+  "response": [
+    "doc_36793.txt",
+    "doc_36791.txt",
+    "doc_36794.txt",
+    "doc_36797.txt",
+    "doc_36799.txt"
+  ]
+}

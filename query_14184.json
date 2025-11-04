@@ -1,0 +1,10 @@
+{
+  "query": "Which tribe did Peter Minuit negotiate with to sell Manhattan Island?",
+  "response": [
+    "doc_25516.txt",
+    "doc_25518.txt",
+    "doc_25519.txt",
+    "doc_25521.txt",
+    "doc_25517.txt"
+  ]
+}

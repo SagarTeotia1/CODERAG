@@ -1,0 +1,10 @@
+{
+  "query": "When did Yakutia attend school in Krasnoyarsk and then move to Tomsk?",
+  "response": [
+    "doc_28174.txt",
+    "doc_26116.txt",
+    "doc_28173.txt",
+    "doc_25445.txt",
+    "doc_25446.txt"
+  ]
+}

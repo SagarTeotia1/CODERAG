@@ -1,0 +1,10 @@
+{
+  "query": "How many consecutive U.S. National Championships did Bill Tilden win between 1920 and 1926?",
+  "response": [
+    "doc_32299.txt",
+    "doc_32300.txt",
+    "doc_32303.txt",
+    "doc_32302.txt",
+    "doc_32301.txt"
+  ]
+}

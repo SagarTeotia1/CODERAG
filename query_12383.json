@@ -1,0 +1,10 @@
+{
+  "query": "What is Martin Jol’s birthdate?",
+  "response": [
+    "doc_23918.txt",
+    "doc_21092.txt",
+    "doc_23919.txt",
+    "doc_21091.txt",
+    "doc_38603.txt"
+  ]
+}

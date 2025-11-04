@@ -1,0 +1,10 @@
+{
+  "query": "What is the primary purpose of the news summary report compiled by the EC delegation?",
+  "response": [
+    "doc_16475.txt",
+    "doc_2695.txt",
+    "doc_1124.txt",
+    "doc_2708.txt",
+    "doc_38090.txt"
+  ]
+}

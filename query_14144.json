@@ -1,0 +1,10 @@
+{
+  "query": "What is the runtime of the film *Seven Beauties*?",
+  "response": [
+    "doc_2430.txt",
+    "doc_12438.txt",
+    "doc_12439.txt",
+    "doc_32282.txt",
+    "doc_12441.txt"
+  ]
+}

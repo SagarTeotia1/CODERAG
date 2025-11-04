@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the novel “When We Were Orphans” published?",
+  "response": [
+    "doc_28538.txt",
+    "doc_28535.txt",
+    "doc_1557.txt",
+    "doc_184.txt",
+    "doc_4303.txt"
+  ]
+}

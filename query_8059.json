@@ -1,0 +1,10 @@
+{
+  "query": "What is the subject of Warsan Shire’s writing?",
+  "response": [
+    "doc_10522.txt",
+    "doc_1564.txt",
+    "doc_1560.txt",
+    "doc_3349.txt",
+    "doc_7788.txt"
+  ]
+}

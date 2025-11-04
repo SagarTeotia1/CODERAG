@@ -1,0 +1,10 @@
+{
+  "query": "What was the full title of Charles Dickens’s first novel?",
+  "response": [
+    "doc_38268.txt",
+    "doc_38266.txt",
+    "doc_38269.txt",
+    "doc_1317.txt",
+    "doc_38271.txt"
+  ]
+}

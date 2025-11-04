@@ -1,0 +1,10 @@
+{
+  "query": "What are some of the guarantees provided by the MVBER concerning car distribution and servicing?",
+  "response": [
+    "doc_26521.txt",
+    "doc_35459.txt",
+    "doc_31263.txt",
+    "doc_21055.txt",
+    "doc_26520.txt"
+  ]
+}

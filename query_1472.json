@@ -1,0 +1,10 @@
+{
+  "query": "How old was *Close Encounters of the Third Kind* when it was released in 1977?",
+  "response": [
+    "doc_30861.txt",
+    "doc_30863.txt",
+    "doc_30866.txt",
+    "doc_30867.txt",
+    "doc_30864.txt"
+  ]
+}

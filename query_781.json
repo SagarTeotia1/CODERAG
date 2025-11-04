@@ -1,0 +1,10 @@
+{
+  "query": "Who was the eldest son of President Taft who died in Washington, D. C.?",
+  "response": [
+    "doc_2861.txt",
+    "doc_2850.txt",
+    "doc_2849.txt",
+    "doc_2858.txt",
+    "doc_2853.txt"
+  ]
+}

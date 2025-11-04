@@ -1,0 +1,10 @@
+{
+  "query": "Who inspired Rosalie Abella to become a lawyer?",
+  "response": [
+    "doc_5805.txt",
+    "doc_36532.txt",
+    "doc_39404.txt",
+    "doc_38165.txt",
+    "doc_39407.txt"
+  ]
+}

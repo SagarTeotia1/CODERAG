@@ -1,0 +1,10 @@
+{
+  "query": "Which Juno Awards did the Matthew Good Band win, and in what year?",
+  "response": [
+    "doc_9310.txt",
+    "doc_9306.txt",
+    "doc_9309.txt",
+    "doc_9311.txt",
+    "doc_9308.txt"
+  ]
+}

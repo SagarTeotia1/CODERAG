@@ -1,0 +1,10 @@
+{
+  "query": "What specific legal reforms has the Chilean government initiated?",
+  "response": [
+    "doc_23757.txt",
+    "doc_23754.txt",
+    "doc_23753.txt",
+    "doc_23756.txt",
+    "doc_23755.txt"
+  ]
+}

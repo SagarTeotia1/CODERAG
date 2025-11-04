@@ -1,0 +1,10 @@
+{
+  "query": "In what year did the Cloud Gap program begin, according to the provided text?",
+  "response": [
+    "doc_27284.txt",
+    "doc_16692.txt",
+    "doc_21264.txt",
+    "doc_21629.txt",
+    "doc_21263.txt"
+  ]
+}

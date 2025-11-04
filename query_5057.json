@@ -1,0 +1,10 @@
+{
+  "query": "Which artist is known for humorous images of his dogs and shared insights with New York Film Academy Photography students?",
+  "response": [
+    "doc_28090.txt",
+    "doc_25684.txt",
+    "doc_13931.txt",
+    "doc_25687.txt",
+    "doc_25688.txt"
+  ]
+}

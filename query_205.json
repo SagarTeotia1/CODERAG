@@ -1,0 +1,10 @@
+{
+  "query": "What is the antenna shape of Tinky Winky?",
+  "response": [
+    "doc_27787.txt",
+    "doc_27788.txt",
+    "doc_27789.txt",
+    "doc_27790.txt",
+    "doc_27791.txt"
+  ]
+}

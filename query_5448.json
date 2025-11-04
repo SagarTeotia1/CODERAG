@@ -1,0 +1,10 @@
+{
+  "query": "What is the current condition of the sculptured cross from the Church of St Mary of Justinian?",
+  "response": [
+    "doc_40287.txt",
+    "doc_30015.txt",
+    "doc_31524.txt",
+    "doc_10661.txt",
+    "doc_30014.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was the status of Robert E. Lee regarding the Confederacy?",
+  "response": [
+    "doc_37877.txt",
+    "doc_32238.txt",
+    "doc_19471.txt",
+    "doc_37872.txt",
+    "doc_37873.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the film “Bounty Hunters” released?",
+  "response": [
+    "doc_35861.txt",
+    "doc_23149.txt",
+    "doc_34075.txt",
+    "doc_3330.txt",
+    "doc_11643.txt"
+  ]
+}

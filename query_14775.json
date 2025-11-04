@@ -1,0 +1,10 @@
+{
+  "query": "What is Gregor Hrovat’s height and position?",
+  "response": [
+    "doc_10238.txt",
+    "doc_23919.txt",
+    "doc_2541.txt",
+    "doc_3203.txt",
+    "doc_26377.txt"
+  ]
+}

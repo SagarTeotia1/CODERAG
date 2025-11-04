@@ -1,0 +1,10 @@
+{
+  "query": "What types of materials are preserved at the John F. Kennedy Presidential Library and Museum?",
+  "response": [
+    "doc_10075.txt",
+    "doc_34640.txt",
+    "doc_40025.txt",
+    "doc_20119.txt",
+    "doc_13721.txt"
+  ]
+}

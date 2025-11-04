@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the 2005 film “Back By Midnight” actually produced and completed?",
+  "response": [
+    "doc_33438.txt",
+    "doc_33439.txt",
+    "doc_23079.txt",
+    "doc_26508.txt",
+    "doc_23080.txt"
+  ]
+}

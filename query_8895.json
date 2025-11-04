@@ -1,0 +1,10 @@
+{
+  "query": "Which band members were formerly part of Buckingham Nicks, and now comprise Sinai 48?",
+  "response": [
+    "doc_12565.txt",
+    "doc_36109.txt",
+    "doc_15903.txt",
+    "doc_37167.txt",
+    "doc_7973.txt"
+  ]
+}

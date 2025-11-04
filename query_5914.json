@@ -1,0 +1,10 @@
+{
+  "query": "When did Rosa Parks refuse to give up her seat on a bus?",
+  "response": [
+    "doc_5147.txt",
+    "doc_5144.txt",
+    "doc_5141.txt",
+    "doc_5151.txt",
+    "doc_5148.txt"
+  ]
+}

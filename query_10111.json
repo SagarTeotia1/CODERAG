@@ -1,0 +1,10 @@
+{
+  "query": "What recommendation has the Social Platform issued regarding social services?",
+  "response": [
+    "doc_15540.txt",
+    "doc_33374.txt",
+    "doc_7336.txt",
+    "doc_22279.txt",
+    "doc_38675.txt"
+  ]
+}

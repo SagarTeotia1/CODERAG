@@ -1,0 +1,10 @@
+{
+  "query": "Where are gun salutes performed in the United Kingdom, besides Westminster Abbey?",
+  "response": [
+    "doc_12579.txt",
+    "doc_29573.txt",
+    "doc_29571.txt",
+    "doc_29575.txt",
+    "doc_29582.txt"
+  ]
+}

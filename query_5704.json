@@ -1,0 +1,10 @@
+{
+  "query": "What specific regulation in Spain, enacted in 2006, requires amateur radio antennae to be installed by a professional?",
+  "response": [
+    "doc_4630.txt",
+    "doc_38050.txt",
+    "doc_13912.txt",
+    "doc_2784.txt",
+    "doc_39215.txt"
+  ]
+}

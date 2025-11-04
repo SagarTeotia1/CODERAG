@@ -1,0 +1,10 @@
+{
+  "query": "For which brands did Ruby Aldridge serve as the “face” between 2008 and 2012?",
+  "response": [
+    "doc_8998.txt",
+    "doc_1573.txt",
+    "doc_4192.txt",
+    "doc_1575.txt",
+    "doc_25228.txt"
+  ]
+}

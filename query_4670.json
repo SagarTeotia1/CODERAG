@@ -1,0 +1,10 @@
+{
+  "query": "What musical key is “The Sir Douglas Band Texas Tornado”?",
+  "response": [
+    "doc_3835.txt",
+    "doc_13808.txt",
+    "doc_13807.txt",
+    "doc_12198.txt",
+    "doc_13809.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What type of blouse was often labeled with the term “Basque-bodice”?",
+  "response": [
+    "doc_16343.txt",
+    "doc_16342.txt",
+    "doc_9380.txt",
+    "doc_9381.txt",
+    "doc_16348.txt"
+  ]
+}

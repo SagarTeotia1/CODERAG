@@ -1,0 +1,10 @@
+{
+  "query": "What television series earned Angel Locsin an International Emmy Award nomination for best performance?",
+  "response": [
+    "doc_17866.txt",
+    "doc_27251.txt",
+    "doc_11499.txt",
+    "doc_11643.txt",
+    "doc_23685.txt"
+  ]
+}

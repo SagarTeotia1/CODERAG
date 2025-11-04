@@ -1,0 +1,10 @@
+{
+  "query": "Which international organization adopted the Global Code of Ethics for Tourism?",
+  "response": [
+    "doc_37437.txt",
+    "doc_37435.txt",
+    "doc_37436.txt",
+    "doc_37434.txt",
+    "doc_26578.txt"
+  ]
+}

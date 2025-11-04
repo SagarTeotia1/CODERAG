@@ -1,0 +1,10 @@
+{
+  "query": "What award did Joe DiMaggio receive in 1941, and how was it related to his performance during the hitting streak?",
+  "response": [
+    "doc_1958.txt",
+    "doc_1957.txt",
+    "doc_1956.txt",
+    "doc_1961.txt",
+    "doc_1959.txt"
+  ]
+}

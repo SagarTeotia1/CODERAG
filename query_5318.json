@@ -1,0 +1,10 @@
+{
+  "query": "What medical condition led Elizabeth Blackwell to lose sight in one eye?",
+  "response": [
+    "doc_40041.txt",
+    "doc_40042.txt",
+    "doc_40043.txt",
+    "doc_24349.txt",
+    "doc_17652.txt"
+  ]
+}

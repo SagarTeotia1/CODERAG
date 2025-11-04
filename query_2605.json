@@ -1,0 +1,10 @@
+{
+  "query": "Which countries does the EU regularly engage with regarding Burma/Myanmar?",
+  "response": [
+    "doc_1955.txt",
+    "doc_33764.txt",
+    "doc_13039.txt",
+    "doc_5618.txt",
+    "doc_32967.txt"
+  ]
+}

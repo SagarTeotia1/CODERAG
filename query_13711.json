@@ -1,0 +1,10 @@
+{
+  "query": "Which actress initially played the role of “Hot Lips” Houlihan before Loretta Swit?",
+  "response": [
+    "doc_24361.txt",
+    "doc_24362.txt",
+    "doc_24365.txt",
+    "doc_24366.txt",
+    "doc_24363.txt"
+  ]
+}

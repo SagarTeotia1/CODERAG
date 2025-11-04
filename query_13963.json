@@ -1,0 +1,10 @@
+{
+  "query": "What does the Mayo Clinic note about the circulatory system?",
+  "response": [
+    "doc_32264.txt",
+    "doc_24980.txt",
+    "doc_32263.txt",
+    "doc_24982.txt",
+    "doc_24984.txt"
+  ]
+}

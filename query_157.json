@@ -1,0 +1,10 @@
+{
+  "query": "When was the *Spirit of Humanity* aid ship commandeered and detained by Israeli authorities?",
+  "response": [
+    "doc_14681.txt",
+    "doc_14684.txt",
+    "doc_14687.txt",
+    "doc_14682.txt",
+    "doc_14686.txt"
+  ]
+}

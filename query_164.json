@@ -1,0 +1,10 @@
+{
+  "query": "For which sector does the municipality of Asti need funding, according to the passage?",
+  "response": [
+    "doc_27700.txt",
+    "doc_32575.txt",
+    "doc_12495.txt",
+    "doc_38075.txt",
+    "doc_13249.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What telephone number was provided by the Commission for a public information service regarding the European Union?",
+  "response": [
+    "doc_6975.txt",
+    "doc_29396.txt",
+    "doc_37995.txt",
+    "doc_2692.txt",
+    "doc_7905.txt"
+  ]
+}

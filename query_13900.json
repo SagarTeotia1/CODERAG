@@ -1,0 +1,10 @@
+{
+  "query": "What types of stores are located at Bay Plaza Shopping Center?",
+  "response": [
+    "doc_27844.txt",
+    "doc_10253.txt",
+    "doc_10256.txt",
+    "doc_19174.txt",
+    "doc_10257.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which river does Redmond O’Hanlon travel between in the book “In Trouble Again”?",
+  "response": [
+    "doc_14337.txt",
+    "doc_14338.txt",
+    "doc_14335.txt",
+    "doc_14336.txt",
+    "doc_14334.txt"
+  ]
+}

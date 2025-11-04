@@ -1,0 +1,10 @@
+{
+  "query": "In approximately what year was Lifris of Llancarfan’s *Life of Saint Cadoc* written?",
+  "response": [
+    "doc_31767.txt",
+    "doc_31775.txt",
+    "doc_31768.txt",
+    "doc_31770.txt",
+    "doc_31771.txt"
+  ]
+}

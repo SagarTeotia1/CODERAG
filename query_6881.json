@@ -1,0 +1,10 @@
+{
+  "query": "Where was Franz Schmidberger born?",
+  "response": [
+    "doc_23963.txt",
+    "doc_2873.txt",
+    "doc_436.txt",
+    "doc_8203.txt",
+    "doc_439.txt"
+  ]
+}

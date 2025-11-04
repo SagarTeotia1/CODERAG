@@ -1,0 +1,10 @@
+{
+  "query": "What happened to Bobby Ewing in the 1985-1986 season of Dallas?",
+  "response": [
+    "doc_33310.txt",
+    "doc_719.txt",
+    "doc_718.txt",
+    "doc_721.txt",
+    "doc_722.txt"
+  ]
+}

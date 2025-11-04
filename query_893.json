@@ -1,0 +1,10 @@
+{
+  "query": "Which animation studio produced “Duckman”?",
+  "response": [
+    "doc_4103.txt",
+    "doc_29512.txt",
+    "doc_29513.txt",
+    "doc_38949.txt",
+    "doc_22397.txt"
+  ]
+}

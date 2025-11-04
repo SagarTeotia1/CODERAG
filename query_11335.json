@@ -1,0 +1,10 @@
+{
+  "query": "What events are scheduled for Labor Day Weekend?",
+  "response": [
+    "doc_18451.txt",
+    "doc_18450.txt",
+    "doc_12652.txt",
+    "doc_18454.txt",
+    "doc_12650.txt"
+  ]
+}

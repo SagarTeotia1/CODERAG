@@ -1,0 +1,10 @@
+{
+  "query": "What is the current situation regarding the evaluation of nilotinib for hospital use in Portugal?",
+  "response": [
+    "doc_32293.txt",
+    "doc_11781.txt",
+    "doc_17535.txt",
+    "doc_12521.txt",
+    "doc_39750.txt"
+  ]
+}

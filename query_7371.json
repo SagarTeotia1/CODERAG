@@ -1,0 +1,10 @@
+{
+  "query": "What was the Commission’s initial target for invoice payments by 2002?",
+  "response": [
+    "doc_8780.txt",
+    "doc_8779.txt",
+    "doc_22946.txt",
+    "doc_14173.txt",
+    "doc_7312.txt"
+  ]
+}

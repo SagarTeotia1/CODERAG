@@ -1,0 +1,10 @@
+{
+  "query": "Which member of The Beach Boys is credited with the primary guitar riff and solo in the song “Dance, Dance, Dance”?",
+  "response": [
+    "doc_39442.txt",
+    "doc_39443.txt",
+    "doc_36281.txt",
+    "doc_36278.txt",
+    "doc_2371.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which newspaper serves Fort Lauderdale, Florida?",
+  "response": [
+    "doc_28673.txt",
+    "doc_28674.txt",
+    "doc_28671.txt",
+    "doc_28672.txt",
+    "doc_28675.txt"
+  ]
+}

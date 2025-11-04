@@ -1,0 +1,10 @@
+{
+  "query": "What odor is associated with the gas line near the Country Club Plaza?",
+  "response": [
+    "doc_40299.txt",
+    "doc_24606.txt",
+    "doc_6252.txt",
+    "doc_6395.txt",
+    "doc_6250.txt"
+  ]
+}

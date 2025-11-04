@@ -1,0 +1,10 @@
+{
+  "query": "What was the original planned completion date for Met 3?",
+  "response": [
+    "doc_31121.txt",
+    "doc_12390.txt",
+    "doc_10690.txt",
+    "doc_13939.txt",
+    "doc_6066.txt"
+  ]
+}

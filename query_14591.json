@@ -1,0 +1,10 @@
+{
+  "query": "Which television shows did Brad Falchuk co-create with Ryan Murphy?",
+  "response": [
+    "doc_26589.txt",
+    "doc_29529.txt",
+    "doc_7368.txt",
+    "doc_27251.txt",
+    "doc_26590.txt"
+  ]
+}

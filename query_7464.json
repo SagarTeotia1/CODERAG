@@ -1,0 +1,10 @@
+{
+  "query": "In what years did the actress appear in the films “CQ,” “Kiss Kiss Bang Bang,” and “Small Apartments”?",
+  "response": [
+    "doc_16667.txt",
+    "doc_16778.txt",
+    "doc_35454.txt",
+    "doc_23957.txt",
+    "doc_35456.txt"
+  ]
+}

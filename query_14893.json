@@ -1,0 +1,10 @@
+{
+  "query": "Which Governor of South Dakota was the first to move into the Governor’s office?",
+  "response": [
+    "doc_8925.txt",
+    "doc_8927.txt",
+    "doc_14092.txt",
+    "doc_14094.txt",
+    "doc_8921.txt"
+  ]
+}

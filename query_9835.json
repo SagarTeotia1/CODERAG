@@ -1,0 +1,10 @@
+{
+  "query": "Which magazines did Norman Rockwell contribute covers to?",
+  "response": [
+    "doc_14756.txt",
+    "doc_14760.txt",
+    "doc_14752.txt",
+    "doc_14757.txt",
+    "doc_14758.txt"
+  ]
+}

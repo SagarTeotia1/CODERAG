@@ -1,0 +1,10 @@
+{
+  "query": "What was Steve Friesen’s finishing position at the Nelson Memorial Golf Championship?",
+  "response": [
+    "doc_35043.txt",
+    "doc_28481.txt",
+    "doc_8911.txt",
+    "doc_28480.txt",
+    "doc_35045.txt"
+  ]
+}

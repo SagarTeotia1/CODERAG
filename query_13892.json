@@ -1,0 +1,10 @@
+{
+  "query": "What specific Nike running shoe model is mentioned as being available at Eastbay?",
+  "response": [
+    "doc_24824.txt",
+    "doc_24825.txt",
+    "doc_24826.txt",
+    "doc_24828.txt",
+    "doc_24823.txt"
+  ]
+}

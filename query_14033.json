@@ -1,0 +1,10 @@
+{
+  "query": "According to the Primary Chronicle, who was chosen as ruler of Novgorod?",
+  "response": [
+    "doc_2398.txt",
+    "doc_2399.txt",
+    "doc_33409.txt",
+    "doc_2400.txt",
+    "doc_2397.txt"
+  ]
+}

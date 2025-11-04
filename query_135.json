@@ -1,0 +1,10 @@
+{
+  "query": "Which Puerto Rican basketball player was a member of the 2004 Puerto Rican National Basketball Team that defeated the United States?",
+  "response": [
+    "doc_16462.txt",
+    "doc_15793.txt",
+    "doc_8338.txt",
+    "doc_4336.txt",
+    "doc_27654.txt"
+  ]
+}

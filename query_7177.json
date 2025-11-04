@@ -1,0 +1,10 @@
+{
+  "query": "Which Directorates-General (DGs) are explicitly included in the fourth Action Programme aimed at improving gender balance?",
+  "response": [
+    "doc_8306.txt",
+    "doc_8305.txt",
+    "doc_33141.txt",
+    "doc_25103.txt",
+    "doc_18359.txt"
+  ]
+}

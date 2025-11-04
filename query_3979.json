@@ -1,0 +1,10 @@
+{
+  "query": "What country was Cornelius Gurlitt born in?",
+  "response": [
+    "doc_34044.txt",
+    "doc_10050.txt",
+    "doc_28982.txt",
+    "doc_10416.txt",
+    "doc_4470.txt"
+  ]
+}

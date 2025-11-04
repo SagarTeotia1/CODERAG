@@ -1,0 +1,10 @@
+{
+  "query": "What technological advancements, specifically related to energy, contributed to the Great Divergence?",
+  "response": [
+    "doc_1837.txt",
+    "doc_1838.txt",
+    "doc_1841.txt",
+    "doc_1715.txt",
+    "doc_1840.txt"
+  ]
+}

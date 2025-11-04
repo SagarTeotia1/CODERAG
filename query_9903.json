@@ -1,0 +1,10 @@
+{
+  "query": "For what crimes were Dzmitry Kanavalau and Uladzislau Kavalyou sentenced to death?",
+  "response": [
+    "doc_14962.txt",
+    "doc_31047.txt",
+    "doc_31048.txt",
+    "doc_32362.txt",
+    "doc_27453.txt"
+  ]
+}

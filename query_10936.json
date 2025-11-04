@@ -1,0 +1,10 @@
+{
+  "query": "Which teams played in the 1945 NFL Championship Game, and what was the final score?",
+  "response": [
+    "doc_32929.txt",
+    "doc_4192.txt",
+    "doc_9448.txt",
+    "doc_9444.txt",
+    "doc_12468.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What forms of payment have been made to the Commission’s special advisers (e.g., fees, salary, expenses)?",
+  "response": [
+    "doc_678.txt",
+    "doc_21435.txt",
+    "doc_36471.txt",
+    "doc_8394.txt",
+    "doc_25826.txt"
+  ]
+}

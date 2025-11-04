@@ -1,0 +1,10 @@
+{
+  "query": "If a court is located in a Member State lacking provisions for divorce, which Member State’s law would be applied?",
+  "response": [
+    "doc_19059.txt",
+    "doc_19052.txt",
+    "doc_2232.txt",
+    "doc_19050.txt",
+    "doc_19055.txt"
+  ]
+}

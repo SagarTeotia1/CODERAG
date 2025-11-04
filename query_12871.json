@@ -1,0 +1,10 @@
+{
+  "query": "On what date was Marilyn Monroe found dead?",
+  "response": [
+    "doc_25864.txt",
+    "doc_36892.txt",
+    "doc_19383.txt",
+    "doc_2999.txt",
+    "doc_19385.txt"
+  ]
+}

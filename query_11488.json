@@ -1,0 +1,10 @@
+{
+  "query": "In 1940, when did Francisco Franco live in the palace?",
+  "response": [
+    "doc_1846.txt",
+    "doc_9933.txt",
+    "doc_9938.txt",
+    "doc_21596.txt",
+    "doc_9932.txt"
+  ]
+}

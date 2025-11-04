@@ -1,0 +1,10 @@
+{
+  "query": "What Academy Award did Morgan Freeman win?",
+  "response": [
+    "doc_3626.txt",
+    "doc_20015.txt",
+    "doc_27318.txt",
+    "doc_27329.txt",
+    "doc_36341.txt"
+  ]
+}

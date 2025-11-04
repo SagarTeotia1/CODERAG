@@ -1,0 +1,10 @@
+{
+  "query": "What specific areas of public health does the Commission currently focus on, according to the passage?",
+  "response": [
+    "doc_3418.txt",
+    "doc_18691.txt",
+    "doc_30691.txt",
+    "doc_30555.txt",
+    "doc_18689.txt"
+  ]
+}

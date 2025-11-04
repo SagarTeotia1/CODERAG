@@ -1,0 +1,10 @@
+{
+  "query": "Which country's Minister of Labour, Family and Social Affairs will open the seminar on gender mainstreaming?",
+  "response": [
+    "doc_28315.txt",
+    "doc_28314.txt",
+    "doc_28313.txt",
+    "doc_3845.txt",
+    "doc_28311.txt"
+  ]
+}

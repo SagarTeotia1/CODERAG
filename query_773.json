@@ -1,0 +1,10 @@
+{
+  "query": "What is the approximate percentage of Ford Crown Victorias purchased for police fleets?",
+  "response": [
+    "doc_29026.txt",
+    "doc_29017.txt",
+    "doc_29027.txt",
+    "doc_29018.txt",
+    "doc_29024.txt"
+  ]
+}

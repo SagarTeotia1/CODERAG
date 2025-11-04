@@ -1,0 +1,10 @@
+{
+  "query": "Which actor appeared in David Rabe’s “In the Boom Boom Room” in 1973?",
+  "response": [
+    "doc_23684.txt",
+    "doc_17868.txt",
+    "doc_23683.txt",
+    "doc_17864.txt",
+    "doc_19039.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What song did Elena Ionescu perform at the Eurovision Song Contest 2012?",
+  "response": [
+    "doc_34676.txt",
+    "doc_34672.txt",
+    "doc_12211.txt",
+    "doc_12412.txt",
+    "doc_14997.txt"
+  ]
+}

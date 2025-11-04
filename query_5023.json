@@ -1,0 +1,10 @@
+{
+  "query": "What was the reason for the split of the school in Hackney?",
+  "response": [
+    "doc_36223.txt",
+    "doc_27484.txt",
+    "doc_37147.txt",
+    "doc_37142.txt",
+    "doc_17714.txt"
+  ]
+}

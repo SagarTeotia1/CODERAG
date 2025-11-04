@@ -1,0 +1,10 @@
+{
+  "query": "In what year was *The Day of the Locust* published?",
+  "response": [
+    "doc_33062.txt",
+    "doc_3980.txt",
+    "doc_33068.txt",
+    "doc_20379.txt",
+    "doc_3979.txt"
+  ]
+}

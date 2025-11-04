@@ -1,0 +1,10 @@
+{
+  "query": "How far away do the speaker’s parents live from Gillette Stadium?",
+  "response": [
+    "doc_19999.txt",
+    "doc_20002.txt",
+    "doc_37528.txt",
+    "doc_37994.txt",
+    "doc_37531.txt"
+  ]
+}

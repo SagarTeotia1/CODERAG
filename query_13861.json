@@ -1,0 +1,10 @@
+{
+  "query": "What is Sweden’s stance regarding tuition fees for master’s programmes?",
+  "response": [
+    "doc_13430.txt",
+    "doc_31113.txt",
+    "doc_17527.txt",
+    "doc_36955.txt",
+    "doc_23812.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What color is mentioned in the title of a Sherlock Holmes story referenced in the passage?",
+  "response": [
+    "doc_4410.txt",
+    "doc_10089.txt",
+    "doc_10086.txt",
+    "doc_10085.txt",
+    "doc_4411.txt"
+  ]
+}

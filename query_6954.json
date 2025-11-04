@@ -1,0 +1,10 @@
+{
+  "query": "Where is the Chester A. Arthur sculpture located, and when was it dedicated?",
+  "response": [
+    "doc_35801.txt",
+    "doc_35800.txt",
+    "doc_35799.txt",
+    "doc_35806.txt",
+    "doc_35804.txt"
+  ]
+}

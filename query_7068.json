@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of the resident population of Kosovo are Albanian Muslims?",
+  "response": [
+    "doc_8045.txt",
+    "doc_13864.txt",
+    "doc_8240.txt",
+    "doc_13391.txt",
+    "doc_32233.txt"
+  ]
+}

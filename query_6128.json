@@ -1,0 +1,10 @@
+{
+  "query": "Where did Cheryl of the Clue Crew win the contest?",
+  "response": [
+    "doc_5681.txt",
+    "doc_201.txt",
+    "doc_5682.txt",
+    "doc_7279.txt",
+    "doc_205.txt"
+  ]
+}

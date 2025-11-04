@@ -1,0 +1,10 @@
+{
+  "query": "Where is the Mill on Carding Mill Pond located?",
+  "response": [
+    "doc_100.txt",
+    "doc_28529.txt",
+    "doc_35934.txt",
+    "doc_28527.txt",
+    "doc_31547.txt"
+  ]
+}

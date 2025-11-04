@@ -1,0 +1,10 @@
+{
+  "query": "According to the text, what did William Douglas enjoy doing in his free time?",
+  "response": [
+    "doc_31597.txt",
+    "doc_31596.txt",
+    "doc_31598.txt",
+    "doc_31595.txt",
+    "doc_11446.txt"
+  ]
+}

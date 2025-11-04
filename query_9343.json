@@ -1,0 +1,10 @@
+{
+  "query": "What architectural firm designed the Francis Dewey House, and in what year was it built?",
+  "response": [
+    "doc_10052.txt",
+    "doc_10051.txt",
+    "doc_100.txt",
+    "doc_15263.txt",
+    "doc_27020.txt"
+  ]
+}

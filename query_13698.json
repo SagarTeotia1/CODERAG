@@ -1,0 +1,10 @@
+{
+  "query": "What prompted the Commission’s action regarding oil extraction and exploration?",
+  "response": [
+    "doc_4021.txt",
+    "doc_25461.txt",
+    "doc_23502.txt",
+    "doc_24335.txt",
+    "doc_39657.txt"
+  ]
+}

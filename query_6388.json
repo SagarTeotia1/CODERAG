@@ -1,0 +1,10 @@
+{
+  "query": "According to the Kaiser Permanente guide, what are some healthier choices available at fast food restaurants?",
+  "response": [
+    "doc_24855.txt",
+    "doc_24856.txt",
+    "doc_6258.txt",
+    "doc_20325.txt",
+    "doc_3716.txt"
+  ]
+}

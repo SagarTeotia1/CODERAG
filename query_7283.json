@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how tall is El Morro?",
+  "response": [
+    "doc_12662.txt",
+    "doc_12661.txt",
+    "doc_12658.txt",
+    "doc_18353.txt",
+    "doc_12659.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When was responsibility for financial supervision in Germany transferred to BaFin, and what was it previously held by?",
+  "response": [
+    "doc_1056.txt",
+    "doc_1055.txt",
+    "doc_997.txt",
+    "doc_1064.txt",
+    "doc_1057.txt"
+  ]
+}

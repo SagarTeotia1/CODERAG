@@ -1,0 +1,10 @@
+{
+  "query": "When was the Partido Revolucionario Institucional (PRI) founded?",
+  "response": [
+    "doc_6124.txt",
+    "doc_6128.txt",
+    "doc_6125.txt",
+    "doc_6129.txt",
+    "doc_6127.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the current status of the Rynchophorus ferrugineus (red palm weevil) in Europe, and how many palm trees has it already destroyed?",
+  "response": [
+    "doc_33601.txt",
+    "doc_7258.txt",
+    "doc_7257.txt",
+    "doc_33602.txt",
+    "doc_33607.txt"
+  ]
+}

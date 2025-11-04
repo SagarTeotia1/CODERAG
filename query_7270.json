@@ -1,0 +1,10 @@
+{
+  "query": "What was Hakeem Olajuwon’s role in the “Phi Slama Jama” basketball team?",
+  "response": [
+    "doc_8518.txt",
+    "doc_8520.txt",
+    "doc_8526.txt",
+    "doc_8519.txt",
+    "doc_8517.txt"
+  ]
+}

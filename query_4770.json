@@ -1,0 +1,10 @@
+{
+  "query": "Which award did Colson Whitehead receive in 2016 for his novel “The Underground Railroad”?",
+  "response": [
+    "doc_38816.txt",
+    "doc_38815.txt",
+    "doc_33065.txt",
+    "doc_13988.txt",
+    "doc_1557.txt"
+  ]
+}

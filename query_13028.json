@@ -1,0 +1,9 @@
+{
+  "query": "What ingredients are traditionally used to flavor the apricot jam in the Sacher Torte recipe?",
+  "response": [
+    "doc_22744.txt",
+    "doc_22746.txt",
+    "doc_22743.txt",
+    "doc_22745.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What does the Italian word “terracotta” mean?",
+  "response": [
+    "doc_19325.txt",
+    "doc_19322.txt",
+    "doc_19323.txt",
+    "doc_19324.txt",
+    "doc_19326.txt"
+  ]
+}

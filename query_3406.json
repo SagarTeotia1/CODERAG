@@ -1,0 +1,10 @@
+{
+  "query": "What types of requests did the artist behind “Sweet Valley High” covers take?",
+  "response": [
+    "doc_35512.txt",
+    "doc_35513.txt",
+    "doc_7305.txt",
+    "doc_20057.txt",
+    "doc_7303.txt"
+  ]
+}

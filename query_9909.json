@@ -1,0 +1,10 @@
+{
+  "query": "What is the European Commission’s stance on the World Trade Organisation (WTO)?",
+  "response": [
+    "doc_19948.txt",
+    "doc_14972.txt",
+    "doc_1551.txt",
+    "doc_19947.txt",
+    "doc_16274.txt"
+  ]
+}

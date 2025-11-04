@@ -1,0 +1,10 @@
+{
+  "query": "What is Jeff Rice receiving?",
+  "response": [
+    "doc_9443.txt",
+    "doc_19282.txt",
+    "doc_9450.txt",
+    "doc_32260.txt",
+    "doc_32257.txt"
+  ]
+}

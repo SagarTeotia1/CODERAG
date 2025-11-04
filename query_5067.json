@@ -1,0 +1,10 @@
+{
+  "query": "According to the Santa Clara County quarry listings, what material was mined in the Guadalupe mine?",
+  "response": [
+    "doc_33908.txt",
+    "doc_33905.txt",
+    "doc_33903.txt",
+    "doc_26482.txt",
+    "doc_9831.txt"
+  ]
+}

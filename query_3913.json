@@ -1,0 +1,10 @@
+{
+  "query": "What type of dramas did Aeschylus, Sophocles, and Euripides write?",
+  "response": [
+    "doc_36735.txt",
+    "doc_36734.txt",
+    "doc_36733.txt",
+    "doc_36737.txt",
+    "doc_36736.txt"
+  ]
+}

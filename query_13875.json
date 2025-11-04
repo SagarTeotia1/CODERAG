@@ -1,0 +1,10 @@
+{
+  "query": "Which comedy duo comprised Dean Martin and Jerry Lewis?",
+  "response": [
+    "doc_13699.txt",
+    "doc_13701.txt",
+    "doc_13700.txt",
+    "doc_24778.txt",
+    "doc_24777.txt"
+  ]
+}

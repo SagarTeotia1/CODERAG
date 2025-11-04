@@ -1,0 +1,10 @@
+{
+  "query": "In what year was Roxburgh first seen from a distance by Ludwig Krapf?",
+  "response": [
+    "doc_19518.txt",
+    "doc_19519.txt",
+    "doc_19515.txt",
+    "doc_19516.txt",
+    "doc_19517.txt"
+  ]
+}

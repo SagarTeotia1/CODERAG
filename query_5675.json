@@ -1,0 +1,10 @@
+{
+  "query": "Which organizations co-organize the Open Days event?",
+  "response": [
+    "doc_33887.txt",
+    "doc_32095.txt",
+    "doc_31704.txt",
+    "doc_4145.txt",
+    "doc_28314.txt"
+  ]
+}

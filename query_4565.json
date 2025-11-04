@@ -1,0 +1,10 @@
+{
+  "query": "What was the original TV movie that Michael Mann reworked into the film “L.A. Takedown”?",
+  "response": [
+    "doc_7003.txt",
+    "doc_23150.txt",
+    "doc_7005.txt",
+    "doc_19041.txt",
+    "doc_27854.txt"
+  ]
+}

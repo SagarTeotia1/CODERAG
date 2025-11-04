@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission's response to research indicating that statins could play a pivotal part in combating a flu pandemic?",
+  "response": [
+    "doc_28420.txt",
+    "doc_28168.txt",
+    "doc_32511.txt",
+    "doc_25278.txt",
+    "doc_12554.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was the lowest round score recorded on Saturday during the Bridgestone Invitational?",
+  "response": [
+    "doc_35638.txt",
+    "doc_35641.txt",
+    "doc_35647.txt",
+    "doc_35646.txt",
+    "doc_35644.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to the Vientiane Times, what charges were the 11 Lao Christians arrested on accused of?",
+  "response": [
+    "doc_18565.txt",
+    "doc_27276.txt",
+    "doc_8833.txt",
+    "doc_8832.txt",
+    "doc_8834.txt"
+  ]
+}

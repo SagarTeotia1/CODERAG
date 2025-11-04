@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how many miles is Moweaqua located from US Highway 51?",
+  "response": [
+    "doc_5569.txt",
+    "doc_24891.txt",
+    "doc_5568.txt",
+    "doc_4631.txt",
+    "doc_24890.txt"
+  ]
+}

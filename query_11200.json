@@ -1,0 +1,10 @@
+{
+  "query": "When was the final event under the One Night Stand name held?",
+  "response": [
+    "doc_18090.txt",
+    "doc_18091.txt",
+    "doc_35008.txt",
+    "doc_19165.txt",
+    "doc_35007.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What does the acronym EFT stand for?",
+  "response": [
+    "doc_6041.txt",
+    "doc_6042.txt",
+    "doc_36119.txt",
+    "doc_23178.txt",
+    "doc_36120.txt"
+  ]
+}

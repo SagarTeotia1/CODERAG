@@ -1,0 +1,10 @@
+{
+  "query": "In what comic universe does Wing exist?",
+  "response": [
+    "doc_2485.txt",
+    "doc_2484.txt",
+    "doc_29585.txt",
+    "doc_29586.txt",
+    "doc_40064.txt"
+  ]
+}

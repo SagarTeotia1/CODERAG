@@ -1,0 +1,10 @@
+{
+  "query": "What is the proposed size of the new camp intended for the residents of Camp Ashraf, relative to Camp Liberty?",
+  "response": [
+    "doc_2461.txt",
+    "doc_2462.txt",
+    "doc_2453.txt",
+    "doc_2454.txt",
+    "doc_2460.txt"
+  ]
+}

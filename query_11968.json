@@ -1,0 +1,10 @@
+{
+  "query": "Which company published *The Mistborn Adventure Game*, and what novel series is it based upon?",
+  "response": [
+    "doc_39684.txt",
+    "doc_39683.txt",
+    "doc_39681.txt",
+    "doc_32775.txt",
+    "doc_32778.txt"
+  ]
+}

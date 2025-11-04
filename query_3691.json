@@ -1,0 +1,10 @@
+{
+  "query": "Which band released the album “Animal Boy,” and through which record label?",
+  "response": [
+    "doc_36156.txt",
+    "doc_36218.txt",
+    "doc_38411.txt",
+    "doc_8363.txt",
+    "doc_16742.txt"
+  ]
+}

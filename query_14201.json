@@ -1,0 +1,10 @@
+{
+  "query": "What was the title of the movie featuring Jake LaMotta?",
+  "response": [
+    "doc_25592.txt",
+    "doc_25593.txt",
+    "doc_25591.txt",
+    "doc_25595.txt",
+    "doc_25596.txt"
+  ]
+}

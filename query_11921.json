@@ -1,0 +1,10 @@
+{
+  "query": "According to Curt Knox, what does his daughter miss?",
+  "response": [
+    "doc_718.txt",
+    "doc_4667.txt",
+    "doc_26046.txt",
+    "doc_5809.txt",
+    "doc_27257.txt"
+  ]
+}

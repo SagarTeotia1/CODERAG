@@ -1,0 +1,10 @@
+{
+  "query": "Who is responsible for the decisions regarding the organization of the London 2012 Olympic and Paralympic Games?",
+  "response": [
+    "doc_33266.txt",
+    "doc_13226.txt",
+    "doc_33400.txt",
+    "doc_39991.txt",
+    "doc_5760.txt"
+  ]
+}

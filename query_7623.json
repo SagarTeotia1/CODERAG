@@ -1,0 +1,10 @@
+{
+  "query": "What is the elevation of Lake Gogebic?",
+  "response": [
+    "doc_9394.txt",
+    "doc_9392.txt",
+    "doc_9388.txt",
+    "doc_9390.txt",
+    "doc_9396.txt"
+  ]
+}

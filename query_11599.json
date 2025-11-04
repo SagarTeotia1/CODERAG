@@ -1,0 +1,10 @@
+{
+  "query": "According to the text, what is a key aspect of the Greenlandic language?",
+  "response": [
+    "doc_19159.txt",
+    "doc_19155.txt",
+    "doc_19158.txt",
+    "doc_19160.txt",
+    "doc_19162.txt"
+  ]
+}

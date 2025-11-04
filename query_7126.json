@@ -1,0 +1,10 @@
+{
+  "query": "According to Rabobank, what is the current price of wheat per tonne?",
+  "response": [
+    "doc_8200.txt",
+    "doc_38696.txt",
+    "doc_22935.txt",
+    "doc_35506.txt",
+    "doc_22936.txt"
+  ]
+}

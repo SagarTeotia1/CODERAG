@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of a Hugo Gernsback science fiction story was dedicated to literature?",
+  "response": [
+    "doc_11558.txt",
+    "doc_11559.txt",
+    "doc_11561.txt",
+    "doc_11560.txt",
+    "doc_11562.txt"
+  ]
+}

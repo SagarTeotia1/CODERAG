@@ -1,0 +1,10 @@
+{
+  "query": "How many people per EU Member State are there who simultaneously have both Turkish nationality and the nationality of an EU Member State?",
+  "response": [
+    "doc_33323.txt",
+    "doc_19744.txt",
+    "doc_15134.txt",
+    "doc_37609.txt",
+    "doc_19745.txt"
+  ]
+}

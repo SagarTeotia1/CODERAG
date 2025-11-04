@@ -1,0 +1,10 @@
+{
+  "query": "How long was Wendy Francis sentenced to for her murder?",
+  "response": [
+    "doc_29118.txt",
+    "doc_29119.txt",
+    "doc_15393.txt",
+    "doc_30800.txt",
+    "doc_15392.txt"
+  ]
+}

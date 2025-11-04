@@ -1,0 +1,10 @@
+{
+  "query": "What is the current percentage decline in the number of available organs in Belgium compared to 2003?",
+  "response": [
+    "doc_40251.txt",
+    "doc_40246.txt",
+    "doc_40250.txt",
+    "doc_40247.txt",
+    "doc_40249.txt"
+  ]
+}

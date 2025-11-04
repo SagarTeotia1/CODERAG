@@ -1,0 +1,10 @@
+{
+  "query": "What year was “Despicable Me” released?",
+  "response": [
+    "doc_388.txt",
+    "doc_29012.txt",
+    "doc_381.txt",
+    "doc_7985.txt",
+    "doc_29014.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Chester Gillette drown Grace Brown near Big Moose Lake?",
+  "response": [
+    "doc_1736.txt",
+    "doc_1734.txt",
+    "doc_1741.txt",
+    "doc_1742.txt",
+    "doc_1735.txt"
+  ]
+}

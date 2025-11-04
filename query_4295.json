@@ -1,0 +1,10 @@
+{
+  "query": "How long did Alice Herz-Sommer live?",
+  "response": [
+    "doc_13087.txt",
+    "doc_28244.txt",
+    "doc_15960.txt",
+    "doc_439.txt",
+    "doc_30054.txt"
+  ]
+}

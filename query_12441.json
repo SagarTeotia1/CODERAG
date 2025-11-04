@@ -1,0 +1,10 @@
+{
+  "query": "In what year was “The Castle of Fu Manchu” released, and who portrayed the title character?",
+  "response": [
+    "doc_21287.txt",
+    "doc_21286.txt",
+    "doc_8354.txt",
+    "doc_33197.txt",
+    "doc_8277.txt"
+  ]
+}

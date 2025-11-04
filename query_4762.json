@@ -1,0 +1,10 @@
+{
+  "query": "What colors are the inkblots in the Rorschach test, specifically regarding the initial set?",
+  "response": [
+    "doc_38808.txt",
+    "doc_38807.txt",
+    "doc_38805.txt",
+    "doc_38803.txt",
+    "doc_38806.txt"
+  ]
+}

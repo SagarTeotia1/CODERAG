@@ -1,0 +1,10 @@
+{
+  "query": "Can the Commission provide a list of the traffic fines received in 2005, 2006 and 2007?",
+  "response": [
+    "doc_2822.txt",
+    "doc_24213.txt",
+    "doc_21435.txt",
+    "doc_25826.txt",
+    "doc_22632.txt"
+  ]
+}

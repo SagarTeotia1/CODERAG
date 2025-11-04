@@ -1,0 +1,10 @@
+{
+  "query": "Where does the passage mention a “Freedom House” is located?",
+  "response": [
+    "doc_19632.txt",
+    "doc_19633.txt",
+    "doc_19631.txt",
+    "doc_14159.txt",
+    "doc_14160.txt"
+  ]
+}

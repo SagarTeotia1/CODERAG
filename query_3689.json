@@ -1,0 +1,9 @@
+{
+  "query": "What kind of storyteller is John Le Carre described as?",
+  "response": [
+    "doc_36217.txt",
+    "doc_36215.txt",
+    "doc_36216.txt",
+    "doc_36214.txt"
+  ]
+}

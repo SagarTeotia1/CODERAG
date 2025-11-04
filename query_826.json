@@ -1,0 +1,10 @@
+{
+  "query": "What was Mr. Cox’s final sentiment regarding the future of Europe?",
+  "response": [
+    "doc_29183.txt",
+    "doc_3152.txt",
+    "doc_8637.txt",
+    "doc_1752.txt",
+    "doc_4789.txt"
+  ]
+}

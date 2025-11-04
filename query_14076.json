@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Kynaston McShine organize the first museum survey of minimalist art?",
+  "response": [
+    "doc_6284.txt",
+    "doc_6276.txt",
+    "doc_6278.txt",
+    "doc_6286.txt",
+    "doc_6275.txt"
+  ]
+}

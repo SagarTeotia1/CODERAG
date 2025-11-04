@@ -1,0 +1,10 @@
+{
+  "query": "Who was appointed as the Sporting Director of New York City FC?",
+  "response": [
+    "doc_6874.txt",
+    "doc_14700.txt",
+    "doc_26136.txt",
+    "doc_23918.txt",
+    "doc_6875.txt"
+  ]
+}

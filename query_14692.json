@@ -1,0 +1,10 @@
+{
+  "query": "Besides testicular cancer, what other types of cancers can Cisplatin be used to treat?",
+  "response": [
+    "doc_26807.txt",
+    "doc_26808.txt",
+    "doc_21428.txt",
+    "doc_14781.txt",
+    "doc_39434.txt"
+  ]
+}

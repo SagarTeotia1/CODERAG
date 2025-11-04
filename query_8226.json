@@ -1,0 +1,10 @@
+{
+  "query": "Which committee delivered an opinion on the draft Annual Action Programmes on 10 June 2008?",
+  "response": [
+    "doc_39526.txt",
+    "doc_20797.txt",
+    "doc_32158.txt",
+    "doc_5605.txt",
+    "doc_29747.txt"
+  ]
+}

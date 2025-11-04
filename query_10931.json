@@ -1,0 +1,10 @@
+{
+  "query": "In 1983, what was the EAA staff covering regarding a vintage airplane?",
+  "response": [
+    "doc_17411.txt",
+    "doc_8966.txt",
+    "doc_17406.txt",
+    "doc_8963.txt",
+    "doc_3583.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to one article, what does Erin Stern’s Elite Body Trainer promise to help users achieve in four weeks?",
+  "response": [
+    "doc_37720.txt",
+    "doc_19581.txt",
+    "doc_37723.txt",
+    "doc_37721.txt",
+    "doc_20826.txt"
+  ]
+}

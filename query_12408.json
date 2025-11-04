@@ -1,0 +1,10 @@
+{
+  "query": "What band is Doyle Wolfgang von Frankenstein best known for?",
+  "response": [
+    "doc_36624.txt",
+    "doc_36626.txt",
+    "doc_2987.txt",
+    "doc_2988.txt",
+    "doc_36109.txt"
+  ]
+}

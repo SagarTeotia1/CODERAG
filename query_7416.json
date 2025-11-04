@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what slogan was associated with Apple Computers?",
+  "response": [
+    "doc_8885.txt",
+    "doc_8884.txt",
+    "doc_8118.txt",
+    "doc_8889.txt",
+    "doc_8117.txt"
+  ]
+}

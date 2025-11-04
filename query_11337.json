@@ -1,0 +1,10 @@
+{
+  "query": "Which event is held in Boone, IA, and when does it occur?",
+  "response": [
+    "doc_6185.txt",
+    "doc_18455.txt",
+    "doc_6181.txt",
+    "doc_18451.txt",
+    "doc_6184.txt"
+  ]
+}

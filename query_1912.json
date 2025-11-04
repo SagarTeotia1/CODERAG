@@ -1,0 +1,10 @@
+{
+  "query": "What rank did Harrison Ford achieve in the Boy Scouts of America?",
+  "response": [
+    "doc_31988.txt",
+    "doc_31991.txt",
+    "doc_31987.txt",
+    "doc_31990.txt",
+    "doc_31989.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In 2001, how many seals were slaughtered in the Russian Federation?",
+  "response": [
+    "doc_37406.txt",
+    "doc_35597.txt",
+    "doc_17069.txt",
+    "doc_5914.txt",
+    "doc_10243.txt"
+  ]
+}

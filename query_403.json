@@ -1,0 +1,10 @@
+{
+  "query": "Who was Kurt Gödel and what was his connection to theoretical computer science?",
+  "response": [
+    "doc_2751.txt",
+    "doc_2752.txt",
+    "doc_30496.txt",
+    "doc_33773.txt",
+    "doc_2869.txt"
+  ]
+}

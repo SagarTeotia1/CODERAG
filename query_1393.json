@@ -1,0 +1,10 @@
+{
+  "query": "What is the annual steamboat race that takes place as part of the Kentucky Derby Festival?",
+  "response": [
+    "doc_30669.txt",
+    "doc_30665.txt",
+    "doc_30666.txt",
+    "doc_30667.txt",
+    "doc_30672.txt"
+  ]
+}

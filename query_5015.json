@@ -1,0 +1,10 @@
+{
+  "query": "Which singer represented Luxembourg in the Eurovision Song Contest of 1974, and what language was their song performed in?",
+  "response": [
+    "doc_22662.txt",
+    "doc_19640.txt",
+    "doc_19636.txt",
+    "doc_19643.txt",
+    "doc_19645.txt"
+  ]
+}

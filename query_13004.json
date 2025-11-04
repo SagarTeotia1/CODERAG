@@ -1,0 +1,10 @@
+{
+  "query": "Which submarine cable connects northern Germany (UCTE) to southern Norway (NORDEL)?",
+  "response": [
+    "doc_25263.txt",
+    "doc_25264.txt",
+    "doc_25262.txt",
+    "doc_25266.txt",
+    "doc_25261.txt"
+  ]
+}

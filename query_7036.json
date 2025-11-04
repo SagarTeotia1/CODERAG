@@ -1,0 +1,10 @@
+{
+  "query": "What is the latitude of the Pine River?",
+  "response": [
+    "doc_1402.txt",
+    "doc_9388.txt",
+    "doc_9392.txt",
+    "doc_9389.txt",
+    "doc_1404.txt"
+  ]
+}

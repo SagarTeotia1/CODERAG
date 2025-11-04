@@ -1,0 +1,10 @@
+{
+  "query": "According to the article, how did Siemens’ 2011 profit forecasts change?",
+  "response": [
+    "doc_5272.txt",
+    "doc_5276.txt",
+    "doc_12754.txt",
+    "doc_7357.txt",
+    "doc_21159.txt"
+  ]
+}

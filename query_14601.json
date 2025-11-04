@@ -1,0 +1,10 @@
+{
+  "query": "What style of art is El Greco known for?",
+  "response": [
+    "doc_26616.txt",
+    "doc_26621.txt",
+    "doc_26617.txt",
+    "doc_26619.txt",
+    "doc_26620.txt"
+  ]
+}

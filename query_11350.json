@@ -1,0 +1,10 @@
+{
+  "query": "When was Hans Christian Andersen’s childhood home opened as a museum?",
+  "response": [
+    "doc_715.txt",
+    "doc_35203.txt",
+    "doc_35204.txt",
+    "doc_7160.txt",
+    "doc_35205.txt"
+  ]
+}

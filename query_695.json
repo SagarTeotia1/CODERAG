@@ -1,0 +1,10 @@
+{
+  "query": "What was Maddy doing during the “long exposure”?",
+  "response": [
+    "doc_8006.txt",
+    "doc_31922.txt",
+    "doc_31921.txt",
+    "doc_9528.txt",
+    "doc_25225.txt"
+  ]
+}

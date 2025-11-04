@@ -1,0 +1,10 @@
+{
+  "query": "What is the current head coach of the Ottawa Senators?",
+  "response": [
+    "doc_7063.txt",
+    "doc_27225.txt",
+    "doc_20187.txt",
+    "doc_7064.txt",
+    "doc_32637.txt"
+  ]
+}

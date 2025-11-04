@@ -1,0 +1,10 @@
+{
+  "query": "What type of ice cream chain introduced the “Fear Factor” sundae?",
+  "response": [
+    "doc_37301.txt",
+    "doc_4936.txt",
+    "doc_4935.txt",
+    "doc_28159.txt",
+    "doc_4933.txt"
+  ]
+}

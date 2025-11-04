@@ -1,0 +1,10 @@
+{
+  "query": "What year did Bob Citron die, and what was the cause of his death?",
+  "response": [
+    "doc_1361.txt",
+    "doc_12527.txt",
+    "doc_14050.txt",
+    "doc_1357.txt",
+    "doc_31208.txt"
+  ]
+}

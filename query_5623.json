@@ -1,0 +1,10 @@
+{
+  "query": "When was *The Big Sleep*, the novel introducing Philip Marlowe, first published?",
+  "response": [
+    "doc_4342.txt",
+    "doc_4344.txt",
+    "doc_4341.txt",
+    "doc_4346.txt",
+    "doc_4345.txt"
+  ]
+}

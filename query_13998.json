@@ -1,0 +1,10 @@
+{
+  "query": "When did CNE make a decision regarding voting rights in Spanish energy companies?",
+  "response": [
+    "doc_25119.txt",
+    "doc_602.txt",
+    "doc_316.txt",
+    "doc_17553.txt",
+    "doc_35114.txt"
+  ]
+}

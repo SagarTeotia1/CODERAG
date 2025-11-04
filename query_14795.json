@@ -1,0 +1,10 @@
+{
+  "query": "In what year was *An Angel at My Table* released?",
+  "response": [
+    "doc_12715.txt",
+    "doc_18323.txt",
+    "doc_12713.txt",
+    "doc_27034.txt",
+    "doc_13262.txt"
+  ]
+}

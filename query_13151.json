@@ -1,0 +1,10 @@
+{
+  "query": "What is the proposed tax rate on unoccupied second homes in France for non-residents?",
+  "response": [
+    "doc_23061.txt",
+    "doc_30753.txt",
+    "doc_28645.txt",
+    "doc_30596.txt",
+    "doc_35210.txt"
+  ]
+}

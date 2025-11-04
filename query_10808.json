@@ -1,0 +1,10 @@
+{
+  "query": "What has President Ahmadinejad stated regarding Israel?",
+  "response": [
+    "doc_37397.txt",
+    "doc_37398.txt",
+    "doc_37396.txt",
+    "doc_15321.txt",
+    "doc_37395.txt"
+  ]
+}

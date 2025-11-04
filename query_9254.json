@@ -1,0 +1,10 @@
+{
+  "query": "Since the first reading, what has caused problems for the Council regarding the software patents text?",
+  "response": [
+    "doc_34769.txt",
+    "doc_8381.txt",
+    "doc_37604.txt",
+    "doc_25121.txt",
+    "doc_28550.txt"
+  ]
+}

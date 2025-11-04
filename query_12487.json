@@ -1,0 +1,10 @@
+{
+  "query": "Which artists did Selena Gomez cite as influences on the *Stars Dance* album?",
+  "response": [
+    "doc_21423.txt",
+    "doc_21424.txt",
+    "doc_21422.txt",
+    "doc_11191.txt",
+    "doc_30762.txt"
+  ]
+}

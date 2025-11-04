@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how many commercial firms in Greece are reportedly subject to inadequate or no checks related to organic products?",
+  "response": [
+    "doc_10823.txt",
+    "doc_15876.txt",
+    "doc_24070.txt",
+    "doc_10024.txt",
+    "doc_8380.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the approximate size of Willapa Bay in square miles?",
+  "response": [
+    "doc_30909.txt",
+    "doc_28787.txt",
+    "doc_40202.txt",
+    "doc_38101.txt",
+    "doc_28786.txt"
+  ]
+}

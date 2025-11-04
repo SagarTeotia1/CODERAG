@@ -1,0 +1,10 @@
+{
+  "query": "What led to the creation of the “Metal Mickey” television show?",
+  "response": [
+    "doc_35872.txt",
+    "doc_22397.txt",
+    "doc_35866.txt",
+    "doc_20761.txt",
+    "doc_35870.txt"
+  ]
+}

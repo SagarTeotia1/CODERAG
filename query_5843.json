@@ -1,0 +1,10 @@
+{
+  "query": "What were the reported proportions of Streptococcus pneumoniae that were non-susceptible to penicillin across different Member States in 2005?",
+  "response": [
+    "doc_4989.txt",
+    "doc_19555.txt",
+    "doc_26824.txt",
+    "doc_15840.txt",
+    "doc_19252.txt"
+  ]
+}

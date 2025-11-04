@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what transformation did Gregor Samsa experience?",
+  "response": [
+    "doc_39137.txt",
+    "doc_39138.txt",
+    "doc_39140.txt",
+    "doc_29517.txt",
+    "doc_39141.txt"
+  ]
+}

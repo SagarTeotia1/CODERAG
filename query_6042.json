@@ -1,0 +1,10 @@
+{
+  "query": "What region is the city of Leipzig located in?",
+  "response": [
+    "doc_39585.txt",
+    "doc_36208.txt",
+    "doc_28973.txt",
+    "doc_39584.txt",
+    "doc_39583.txt"
+  ]
+}

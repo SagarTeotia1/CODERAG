@@ -1,0 +1,10 @@
+{
+  "query": "What is the approximate size of coral or seagrass that is protected within the Florida Keys National Marine Sanctuary?",
+  "response": [
+    "doc_310.txt",
+    "doc_309.txt",
+    "doc_313.txt",
+    "doc_20296.txt",
+    "doc_20301.txt"
+  ]
+}

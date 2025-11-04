@@ -1,0 +1,10 @@
+{
+  "query": "What is Seth Rogen’s profession according to the second passage?",
+  "response": [
+    "doc_26466.txt",
+    "doc_39633.txt",
+    "doc_24208.txt",
+    "doc_22486.txt",
+    "doc_353.txt"
+  ]
+}

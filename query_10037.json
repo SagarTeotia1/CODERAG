@@ -1,0 +1,10 @@
+{
+  "query": "When did the Bureau of Investigation begin its operations?",
+  "response": [
+    "doc_5959.txt",
+    "doc_5965.txt",
+    "doc_15243.txt",
+    "doc_731.txt",
+    "doc_730.txt"
+  ]
+}

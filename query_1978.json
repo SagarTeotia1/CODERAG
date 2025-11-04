@@ -1,0 +1,10 @@
+{
+  "query": "In what year was Heston inducted into the College Football Hall of Fame?",
+  "response": [
+    "doc_32146.txt",
+    "doc_32145.txt",
+    "doc_32258.txt",
+    "doc_35375.txt",
+    "doc_5204.txt"
+  ]
+}

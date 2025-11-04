@@ -1,0 +1,10 @@
+{
+  "query": "What is the distance between Bhopal and Bahari?",
+  "response": [
+    "doc_33321.txt",
+    "doc_33320.txt",
+    "doc_20393.txt",
+    "doc_20389.txt",
+    "doc_20391.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What colors were the versions of the limited-edition vinyl record available from the Jesus Jones website?",
+  "response": [
+    "doc_3582.txt",
+    "doc_3581.txt",
+    "doc_3580.txt",
+    "doc_578.txt",
+    "doc_23530.txt"
+  ]
+}

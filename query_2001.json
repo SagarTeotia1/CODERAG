@@ -1,0 +1,10 @@
+{
+  "query": "Who convened the Berlin meeting, and how was its outcome communicated to EU leaders?",
+  "response": [
+    "doc_32198.txt",
+    "doc_18304.txt",
+    "doc_13010.txt",
+    "doc_37925.txt",
+    "doc_9159.txt"
+  ]
+}

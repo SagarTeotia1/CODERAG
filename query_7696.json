@@ -1,0 +1,10 @@
+{
+  "query": "What significant assessment is scheduled to take place in September that could impact ICCAT’s deliberations?",
+  "response": [
+    "doc_1973.txt",
+    "doc_31572.txt",
+    "doc_2703.txt",
+    "doc_3680.txt",
+    "doc_1759.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Besides grilling, what is one other way hot dogs in Montreal are cooked?",
+  "response": [
+    "doc_31814.txt",
+    "doc_34029.txt",
+    "doc_31817.txt",
+    "doc_34025.txt",
+    "doc_34028.txt"
+  ]
+}

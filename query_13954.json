@@ -1,0 +1,10 @@
+{
+  "query": "According to several sources, what instrument do individuals like Roger Kellaway and Randy Porter play?",
+  "response": [
+    "doc_19763.txt",
+    "doc_15746.txt",
+    "doc_27303.txt",
+    "doc_19767.txt",
+    "doc_23894.txt"
+  ]
+}

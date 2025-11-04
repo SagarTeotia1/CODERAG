@@ -1,0 +1,10 @@
+{
+  "query": "What is the current status of Sde Dov Airport, and where will commercial flights be moving to?",
+  "response": [
+    "doc_23503.txt",
+    "doc_18338.txt",
+    "doc_23504.txt",
+    "doc_36831.txt",
+    "doc_36832.txt"
+  ]
+}

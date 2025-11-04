@@ -1,0 +1,10 @@
+{
+  "query": "What crime resulted in James Butler serving a 29-year and four-month prison sentence?",
+  "response": [
+    "doc_30416.txt",
+    "doc_24173.txt",
+    "doc_4949.txt",
+    "doc_21301.txt",
+    "doc_15393.txt"
+  ]
+}

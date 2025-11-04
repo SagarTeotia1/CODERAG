@@ -1,0 +1,10 @@
+{
+  "query": "What genre does Steve Thayer’s writing fall under?",
+  "response": [
+    "doc_19740.txt",
+    "doc_19739.txt",
+    "doc_19738.txt",
+    "doc_35061.txt",
+    "doc_31145.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When was the Golden Gate Bridge built?",
+  "response": [
+    "doc_5010.txt",
+    "doc_5006.txt",
+    "doc_5007.txt",
+    "doc_5015.txt",
+    "doc_5011.txt"
+  ]
+}

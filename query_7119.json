@@ -1,0 +1,10 @@
+{
+  "query": "When did Arnold Schoenberg emigrate to the United States of America?",
+  "response": [
+    "doc_13156.txt",
+    "doc_33362.txt",
+    "doc_33363.txt",
+    "doc_36974.txt",
+    "doc_13157.txt"
+  ]
+}

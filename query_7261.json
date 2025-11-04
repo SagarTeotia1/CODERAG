@@ -1,0 +1,10 @@
+{
+  "query": "Which record label signed Danny Brown after the release of “The Hybrid”?",
+  "response": [
+    "doc_8504.txt",
+    "doc_8505.txt",
+    "doc_1582.txt",
+    "doc_23532.txt",
+    "doc_9987.txt"
+  ]
+}

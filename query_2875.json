@@ -1,0 +1,10 @@
+{
+  "query": "How many journalists and press photographers were arrested in Egypt recently, according to the article?",
+  "response": [
+    "doc_34327.txt",
+    "doc_11850.txt",
+    "doc_29716.txt",
+    "doc_31314.txt",
+    "doc_26031.txt"
+  ]
+}

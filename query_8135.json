@@ -1,0 +1,10 @@
+{
+  "query": "What was the initial location of the Younkers department store chain?",
+  "response": [
+    "doc_27494.txt",
+    "doc_27503.txt",
+    "doc_27504.txt",
+    "doc_29438.txt",
+    "doc_5111.txt"
+  ]
+}

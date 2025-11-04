@@ -1,0 +1,10 @@
+{
+  "query": "What claim did Mr. JOSEPHS assert about the UK prudential regulatory system starting in the 1980s?",
+  "response": [
+    "doc_931.txt",
+    "doc_969.txt",
+    "doc_932.txt",
+    "doc_1042.txt",
+    "doc_1001.txt"
+  ]
+}

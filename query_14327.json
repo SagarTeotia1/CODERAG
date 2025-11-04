@@ -1,0 +1,10 @@
+{
+  "query": "What film is Brigitte Auber best known for?",
+  "response": [
+    "doc_6169.txt",
+    "doc_6170.txt",
+    "doc_6168.txt",
+    "doc_6167.txt",
+    "doc_6171.txt"
+  ]
+}

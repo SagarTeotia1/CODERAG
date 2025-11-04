@@ -1,0 +1,10 @@
+{
+  "query": "In what area is discrimination primarily occurring in Belgium, according to the report?",
+  "response": [
+    "doc_16198.txt",
+    "doc_10093.txt",
+    "doc_5078.txt",
+    "doc_2176.txt",
+    "doc_32702.txt"
+  ]
+}

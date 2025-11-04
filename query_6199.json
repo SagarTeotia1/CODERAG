@@ -1,0 +1,10 @@
+{
+  "query": "What video game features Wayne Gretzky on the cover?",
+  "response": [
+    "doc_5827.txt",
+    "doc_5828.txt",
+    "doc_5826.txt",
+    "doc_9514.txt",
+    "doc_23640.txt"
+  ]
+}

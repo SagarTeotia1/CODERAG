@@ -1,0 +1,10 @@
+{
+  "query": "Who collaborated with Burt Bacharach to write the theme song for *What’s New Pussycat*?",
+  "response": [
+    "doc_37844.txt",
+    "doc_37845.txt",
+    "doc_37848.txt",
+    "doc_37846.txt",
+    "doc_37850.txt"
+  ]
+}

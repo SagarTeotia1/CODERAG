@@ -1,0 +1,10 @@
+{
+  "query": "Why did the Swedish Government take action regarding the press aid regulation?",
+  "response": [
+    "doc_5428.txt",
+    "doc_5427.txt",
+    "doc_8918.txt",
+    "doc_10114.txt",
+    "doc_36801.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what percentage of humanitarian aid is currently provided by the United States?",
+  "response": [
+    "doc_16998.txt",
+    "doc_20322.txt",
+    "doc_20321.txt",
+    "doc_16997.txt",
+    "doc_16999.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which ocean liner was Herbert Haddock captain of at the time of the Titanic sinking?",
+  "response": [
+    "doc_5071.txt",
+    "doc_5075.txt",
+    "doc_5076.txt",
+    "doc_5072.txt",
+    "doc_5074.txt"
+  ]
+}

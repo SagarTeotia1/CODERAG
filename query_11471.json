@@ -1,0 +1,10 @@
+{
+  "query": "Which band released the single \"Saw a New Morning\" and on what record label was it initially released?",
+  "response": [
+    "doc_21172.txt",
+    "doc_21176.txt",
+    "doc_21173.txt",
+    "doc_38411.txt",
+    "doc_22663.txt"
+  ]
+}

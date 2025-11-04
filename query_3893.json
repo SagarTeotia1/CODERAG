@@ -1,0 +1,10 @@
+{
+  "query": "Which interactive midway-style ride is described as a predecessor to Toy Story Mania?",
+  "response": [
+    "doc_36662.txt",
+    "doc_36668.txt",
+    "doc_36664.txt",
+    "doc_36666.txt",
+    "doc_36663.txt"
+  ]
+}

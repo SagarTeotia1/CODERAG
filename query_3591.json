@@ -1,0 +1,10 @@
+{
+  "query": "Can the Commission confirm the veracity of reports linking the recent E. coli outbreak in Germany to a virulent strain resistant to most antibiotics?",
+  "response": [
+    "doc_35943.txt",
+    "doc_7700.txt",
+    "doc_15840.txt",
+    "doc_5026.txt",
+    "doc_2382.txt"
+  ]
+}

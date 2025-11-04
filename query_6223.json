@@ -1,0 +1,10 @@
+{
+  "query": "What was Pletcher’s age when Obama visited his son?",
+  "response": [
+    "doc_5879.txt",
+    "doc_5878.txt",
+    "doc_19683.txt",
+    "doc_5884.txt",
+    "doc_20992.txt"
+  ]
+}

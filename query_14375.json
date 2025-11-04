@@ -1,0 +1,10 @@
+{
+  "query": "What song does the text identify as a song where the narrator confesses to killing Sheriff John Brown?",
+  "response": [
+    "doc_26007.txt",
+    "doc_26006.txt",
+    "doc_26016.txt",
+    "doc_26009.txt",
+    "doc_26010.txt"
+  ]
+}

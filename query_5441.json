@@ -1,0 +1,10 @@
+{
+  "query": "In what year did William S. Paley acquire 16 radio stations?",
+  "response": [
+    "doc_40276.txt",
+    "doc_40274.txt",
+    "doc_40272.txt",
+    "doc_40282.txt",
+    "doc_40275.txt"
+  ]
+}

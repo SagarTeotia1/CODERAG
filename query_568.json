@@ -1,0 +1,10 @@
+{
+  "query": "What title did Michael Bentt win in 1993?",
+  "response": [
+    "doc_30891.txt",
+    "doc_30897.txt",
+    "doc_30896.txt",
+    "doc_30894.txt",
+    "doc_30900.txt"
+  ]
+}

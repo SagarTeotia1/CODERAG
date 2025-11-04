@@ -1,0 +1,10 @@
+{
+  "query": "According to the text, what literary work was inspired by Arnold Rothstein and the events surrounding the 1919 World Series?",
+  "response": [
+    "doc_31909.txt",
+    "doc_31911.txt",
+    "doc_31910.txt",
+    "doc_31906.txt",
+    "doc_31908.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the maximum spectator capacity of Saitama Super Arena?",
+  "response": [
+    "doc_19265.txt",
+    "doc_19263.txt",
+    "doc_35008.txt",
+    "doc_35007.txt",
+    "doc_35009.txt"
+  ]
+}

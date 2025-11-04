@@ -1,0 +1,10 @@
+{
+  "query": "What types of music did Bob Cummings and The Reflections perform, according to the passage?",
+  "response": [
+    "doc_8176.txt",
+    "doc_274.txt",
+    "doc_3470.txt",
+    "doc_12211.txt",
+    "doc_10392.txt"
+  ]
+}

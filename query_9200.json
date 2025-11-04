@@ -1,0 +1,10 @@
+{
+  "query": "What was \"Minage\" a tribute album to?",
+  "response": [
+    "doc_14597.txt",
+    "doc_3347.txt",
+    "doc_37162.txt",
+    "doc_2788.txt",
+    "doc_3432.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the primary concern regarding birdlife in the Tøndermarsken area?",
+  "response": [
+    "doc_15354.txt",
+    "doc_14520.txt",
+    "doc_10189.txt",
+    "doc_27760.txt",
+    "doc_4280.txt"
+  ]
+}

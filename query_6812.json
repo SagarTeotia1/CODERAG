@@ -1,0 +1,10 @@
+{
+  "query": "What was the final score of the 2012 Orange Bowl game?",
+  "response": [
+    "doc_7392.txt",
+    "doc_7393.txt",
+    "doc_38292.txt",
+    "doc_5460.txt",
+    "doc_10448.txt"
+  ]
+}

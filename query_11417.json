@@ -1,0 +1,10 @@
+{
+  "query": "Where was Calvin Coolidge born?",
+  "response": [
+    "doc_18659.txt",
+    "doc_18658.txt",
+    "doc_18662.txt",
+    "doc_12601.txt",
+    "doc_12598.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When and where did Students for a Democratic Society (SDS) hold its first meeting?",
+  "response": [
+    "doc_4920.txt",
+    "doc_4921.txt",
+    "doc_4926.txt",
+    "doc_4930.txt",
+    "doc_4922.txt"
+  ]
+}

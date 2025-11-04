@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how many passenger car tyres does the EU import from China annually?",
+  "response": [
+    "doc_36479.txt",
+    "doc_40169.txt",
+    "doc_23322.txt",
+    "doc_16351.txt",
+    "doc_40167.txt"
+  ]
+}

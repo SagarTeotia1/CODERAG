@@ -1,0 +1,10 @@
+{
+  "query": "What type of address did Obama deliver before his “farewell tour”?",
+  "response": [
+    "doc_29003.txt",
+    "doc_29008.txt",
+    "doc_29009.txt",
+    "doc_1730.txt",
+    "doc_29002.txt"
+  ]
+}

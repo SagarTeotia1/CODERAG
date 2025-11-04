@@ -1,0 +1,10 @@
+{
+  "query": "Why is unemployment higher in the eurozone than in the other Member States?",
+  "response": [
+    "doc_14183.txt",
+    "doc_38093.txt",
+    "doc_15102.txt",
+    "doc_30017.txt",
+    "doc_38256.txt"
+  ]
+}

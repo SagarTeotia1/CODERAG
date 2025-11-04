@@ -1,0 +1,10 @@
+{
+  "query": "When was the last time there was any news regarding Pastor Reyes’s whereabouts?",
+  "response": [
+    "doc_24502.txt",
+    "doc_16550.txt",
+    "doc_34008.txt",
+    "doc_10443.txt",
+    "doc_6906.txt"
+  ]
+}

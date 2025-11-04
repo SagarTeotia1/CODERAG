@@ -1,0 +1,10 @@
+{
+  "query": "Which Directorate-General (DG) was designated as the lead department for the Economic Partnership Agreement (EPA) negotiations?",
+  "response": [
+    "doc_3338.txt",
+    "doc_17273.txt",
+    "doc_26254.txt",
+    "doc_24242.txt",
+    "doc_19084.txt"
+  ]
+}

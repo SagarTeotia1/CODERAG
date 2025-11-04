@@ -1,0 +1,10 @@
+{
+  "query": "What was James Cunningham’s role while living in the house described?",
+  "response": [
+    "doc_21444.txt",
+    "doc_21445.txt",
+    "doc_5114.txt",
+    "doc_32360.txt",
+    "doc_3654.txt"
+  ]
+}

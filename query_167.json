@@ -1,0 +1,10 @@
+{
+  "query": "What albums were added to Kiss’s setlist on the Farewell Tour?",
+  "response": [
+    "doc_18601.txt",
+    "doc_40126.txt",
+    "doc_40123.txt",
+    "doc_18602.txt",
+    "doc_40124.txt"
+  ]
+}

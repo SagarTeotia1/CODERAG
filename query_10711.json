@@ -1,0 +1,10 @@
+{
+  "query": "Besides Pad Thai, what other noodle dishes are listed on the Foodler.com website?",
+  "response": [
+    "doc_1666.txt",
+    "doc_1669.txt",
+    "doc_1670.txt",
+    "doc_1672.txt",
+    "doc_1673.txt"
+  ]
+}

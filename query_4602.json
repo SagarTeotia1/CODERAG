@@ -1,0 +1,10 @@
+{
+  "query": "What award did Emma Thompson place on top of her own?",
+  "response": [
+    "doc_38457.txt",
+    "doc_38454.txt",
+    "doc_38452.txt",
+    "doc_38458.txt",
+    "doc_38456.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What organizations are covered by the European Anti-Fraud Office’s investigative responsibilities?",
+  "response": [
+    "doc_2680.txt",
+    "doc_1352.txt",
+    "doc_29387.txt",
+    "doc_13613.txt",
+    "doc_2681.txt"
+  ]
+}

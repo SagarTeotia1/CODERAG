@@ -1,0 +1,10 @@
+{
+  "query": "For the period of 2000-2006, what funding has been requested by the Spanish central government for hydrological infrastructure schemes?",
+  "response": [
+    "doc_2178.txt",
+    "doc_21744.txt",
+    "doc_35119.txt",
+    "doc_23422.txt",
+    "doc_12097.txt"
+  ]
+}

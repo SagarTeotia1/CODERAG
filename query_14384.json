@@ -1,0 +1,10 @@
+{
+  "query": "Which months were designated as having 31 days according to the Roman calendar, and consequently had the Ides on the 15th?",
+  "response": [
+    "doc_26049.txt",
+    "doc_26048.txt",
+    "doc_26050.txt",
+    "doc_5579.txt",
+    "doc_10625.txt"
+  ]
+}

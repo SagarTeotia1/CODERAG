@@ -1,0 +1,10 @@
+{
+  "query": "What is Chen Kun’s nationality?",
+  "response": [
+    "doc_11942.txt",
+    "doc_30488.txt",
+    "doc_11943.txt",
+    "doc_39769.txt",
+    "doc_5811.txt"
+  ]
+}

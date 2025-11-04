@@ -1,0 +1,10 @@
+{
+  "query": "What geographical feature borders the Republic of Somaliland in the northwest?",
+  "response": [
+    "doc_18586.txt",
+    "doc_18582.txt",
+    "doc_17180.txt",
+    "doc_9317.txt",
+    "doc_17181.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is mentioned as a characteristic associated with Diogenes, as highlighted in one of the linked texts?",
+  "response": [
+    "doc_32602.txt",
+    "doc_32607.txt",
+    "doc_29087.txt",
+    "doc_18566.txt",
+    "doc_32605.txt"
+  ]
+}

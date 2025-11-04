@@ -1,0 +1,10 @@
+{
+  "query": "What band was Brian Connolly the lead singer of?",
+  "response": [
+    "doc_16155.txt",
+    "doc_16161.txt",
+    "doc_27217.txt",
+    "doc_32071.txt",
+    "doc_25328.txt"
+  ]
+}

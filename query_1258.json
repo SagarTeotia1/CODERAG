@@ -1,0 +1,10 @@
+{
+  "query": "What was the total cost of the Siemens equipment purchased by the San Camillo-Forlanini hospital?",
+  "response": [
+    "doc_30408.txt",
+    "doc_27781.txt",
+    "doc_8804.txt",
+    "doc_39052.txt",
+    "doc_27782.txt"
+  ]
+}

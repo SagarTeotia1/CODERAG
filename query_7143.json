@@ -1,0 +1,10 @@
+{
+  "query": "In what year did La Salle reach the mouth of the Mississippi?",
+  "response": [
+    "doc_8212.txt",
+    "doc_8214.txt",
+    "doc_8217.txt",
+    "doc_8216.txt",
+    "doc_8213.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the Irish brand name associated with Kerrygold Irish Cream Liqueur?",
+  "response": [
+    "doc_4936.txt",
+    "doc_14107.txt",
+    "doc_14106.txt",
+    "doc_7417.txt",
+    "doc_11678.txt"
+  ]
+}

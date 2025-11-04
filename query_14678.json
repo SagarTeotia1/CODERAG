@@ -1,0 +1,10 @@
+{
+  "query": "What did the Little Red Hen ask multiple animals about threshing the wheat?",
+  "response": [
+    "doc_26792.txt",
+    "doc_26793.txt",
+    "doc_23877.txt",
+    "doc_28858.txt",
+    "doc_28859.txt"
+  ]
+}

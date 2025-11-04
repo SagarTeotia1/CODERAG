@@ -1,0 +1,10 @@
+{
+  "query": "Which Danish scientists have contributed to the field of quantum physics, specifically involving the stopping of light?",
+  "response": [
+    "doc_28227.txt",
+    "doc_2020.txt",
+    "doc_20348.txt",
+    "doc_17006.txt",
+    "doc_21691.txt"
+  ]
+}

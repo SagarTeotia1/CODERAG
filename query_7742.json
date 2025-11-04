@@ -1,0 +1,10 @@
+{
+  "query": "What awards did \"Brooklyn Heights\" receive?",
+  "response": [
+    "doc_37582.txt",
+    "doc_11879.txt",
+    "doc_37580.txt",
+    "doc_11880.txt",
+    "doc_37581.txt"
+  ]
+}

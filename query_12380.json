@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how many stars are estimated to be within the Milky Way galaxy?",
+  "response": [
+    "doc_21081.txt",
+    "doc_21088.txt",
+    "doc_21087.txt",
+    "doc_21080.txt",
+    "doc_21086.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What type of music was the soundtrack “Dangerous Ground” composed of?",
+  "response": [
+    "doc_23591.txt",
+    "doc_23598.txt",
+    "doc_23592.txt",
+    "doc_23594.txt",
+    "doc_22713.txt"
+  ]
+}

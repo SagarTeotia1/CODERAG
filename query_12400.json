@@ -1,0 +1,10 @@
+{
+  "query": "What values are cited as important in preventing terrorism, such as those expressed in the Copenhagen criteria?",
+  "response": [
+    "doc_21122.txt",
+    "doc_21121.txt",
+    "doc_21968.txt",
+    "doc_21124.txt",
+    "doc_21120.txt"
+  ]
+}

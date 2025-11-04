@@ -1,0 +1,10 @@
+{
+  "query": "What is the relationship between Greek letters and their numeric equivalents, as suggested by the included resources?",
+  "response": [
+    "doc_1691.txt",
+    "doc_8590.txt",
+    "doc_1693.txt",
+    "doc_1692.txt",
+    "doc_1689.txt"
+  ]
+}

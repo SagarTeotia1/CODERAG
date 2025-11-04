@@ -1,0 +1,10 @@
+{
+  "query": "Which NHL team acquired Jimmy Vesey on June 20, 2016?",
+  "response": [
+    "doc_8474.txt",
+    "doc_32634.txt",
+    "doc_32636.txt",
+    "doc_32638.txt",
+    "doc_32639.txt"
+  ]
+}

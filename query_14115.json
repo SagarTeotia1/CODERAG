@@ -1,0 +1,10 @@
+{
+  "query": "Where is Brandeis International Business School located?",
+  "response": [
+    "doc_25364.txt",
+    "doc_25365.txt",
+    "doc_15798.txt",
+    "doc_14283.txt",
+    "doc_16619.txt"
+  ]
+}

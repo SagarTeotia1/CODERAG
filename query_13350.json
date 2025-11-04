@@ -1,0 +1,10 @@
+{
+  "query": "What did the European Parliament call for regarding cancer research across Europe?",
+  "response": [
+    "doc_23425.txt",
+    "doc_4668.txt",
+    "doc_21047.txt",
+    "doc_24241.txt",
+    "doc_12122.txt"
+  ]
+}

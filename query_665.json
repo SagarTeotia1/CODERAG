@@ -1,0 +1,10 @@
+{
+  "query": "What types of businesses did the Mira Godard Gallery *not* carry?",
+  "response": [
+    "doc_28746.txt",
+    "doc_28747.txt",
+    "doc_19077.txt",
+    "doc_6284.txt",
+    "doc_13943.txt"
+  ]
+}

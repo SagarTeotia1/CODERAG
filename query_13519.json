@@ -1,0 +1,10 @@
+{
+  "query": "What was the population of Minsk in 2001?",
+  "response": [
+    "doc_23801.txt",
+    "doc_28966.txt",
+    "doc_24867.txt",
+    "doc_16765.txt",
+    "doc_18711.txt"
+  ]
+}

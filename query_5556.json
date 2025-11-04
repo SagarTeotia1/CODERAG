@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of Spaniards voted in favour of the Constitution, according to President Borrell?",
+  "response": [
+    "doc_6548.txt",
+    "doc_25544.txt",
+    "doc_25547.txt",
+    "doc_21596.txt",
+    "doc_25545.txt"
+  ]
+}

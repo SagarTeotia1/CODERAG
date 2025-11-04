@@ -1,0 +1,10 @@
+{
+  "query": "When was “Band on the Run” released?",
+  "response": [
+    "doc_38661.txt",
+    "doc_22663.txt",
+    "doc_1540.txt",
+    "doc_38658.txt",
+    "doc_38659.txt"
+  ]
+}

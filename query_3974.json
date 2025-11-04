@@ -1,0 +1,10 @@
+{
+  "query": "Which band did Moses Mayfield open for on several nationwide tours prior to releasing their first album?",
+  "response": [
+    "doc_36874.txt",
+    "doc_36875.txt",
+    "doc_32068.txt",
+    "doc_34422.txt",
+    "doc_38661.txt"
+  ]
+}

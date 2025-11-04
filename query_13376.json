@@ -1,0 +1,10 @@
+{
+  "query": "What types of cargo does CAL Cargo Air Lines typically transport?",
+  "response": [
+    "doc_8908.txt",
+    "doc_24038.txt",
+    "doc_24034.txt",
+    "doc_5034.txt",
+    "doc_36444.txt"
+  ]
+}

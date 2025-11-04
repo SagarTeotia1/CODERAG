@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how much does an adult California Condor weigh?",
+  "response": [
+    "doc_19800.txt",
+    "doc_152.txt",
+    "doc_153.txt",
+    "doc_19799.txt",
+    "doc_19802.txt"
+  ]
+}

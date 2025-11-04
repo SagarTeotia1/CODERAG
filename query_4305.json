@@ -1,0 +1,10 @@
+{
+  "query": "What was the total revenue of Xerox Corp. in 2003, as listed in the USATODAY.com article?",
+  "response": [
+    "doc_37666.txt",
+    "doc_37676.txt",
+    "doc_37674.txt",
+    "doc_37667.txt",
+    "doc_37672.txt"
+  ]
+}

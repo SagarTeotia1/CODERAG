@@ -1,0 +1,10 @@
+{
+  "query": "In what year was Alpha Phi, one of the sororities comprising the Syracuse Triad, founded?",
+  "response": [
+    "doc_10451.txt",
+    "doc_10454.txt",
+    "doc_2144.txt",
+    "doc_10452.txt",
+    "doc_2143.txt"
+  ]
+}

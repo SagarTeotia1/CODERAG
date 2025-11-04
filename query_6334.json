@@ -1,0 +1,10 @@
+{
+  "query": "What was Ms. Mehajer’s profession in 2009?",
+  "response": [
+    "doc_30364.txt",
+    "doc_39404.txt",
+    "doc_24079.txt",
+    "doc_13556.txt",
+    "doc_12938.txt"
+  ]
+}

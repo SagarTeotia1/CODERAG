@@ -1,0 +1,10 @@
+{
+  "query": "What architectural styles is the Joseph Mission Church built in?",
+  "response": [
+    "doc_31456.txt",
+    "doc_31455.txt",
+    "doc_16204.txt",
+    "doc_31457.txt",
+    "doc_3062.txt"
+  ]
+}

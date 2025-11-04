@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Antonakis Andreou place 9th at the Summer Olympic Games?",
+  "response": [
+    "doc_12312.txt",
+    "doc_175.txt",
+    "doc_22323.txt",
+    "doc_21230.txt",
+    "doc_12313.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the age of Gretchen, the teenager mentioned in the text?",
+  "response": [
+    "doc_5884.txt",
+    "doc_35729.txt",
+    "doc_5882.txt",
+    "doc_20129.txt",
+    "doc_27834.txt"
+  ]
+}

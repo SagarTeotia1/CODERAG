@@ -1,0 +1,10 @@
+{
+  "query": "Which university in Spain was ranked first amongst Spanish universities in 2012 according to El Mundo?",
+  "response": [
+    "doc_28182.txt",
+    "doc_22373.txt",
+    "doc_22374.txt",
+    "doc_22368.txt",
+    "doc_22369.txt"
+  ]
+}

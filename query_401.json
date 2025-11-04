@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided links, what role did Anna Eleanor Roosevelt play in the 1932 presidential campaign?",
+  "response": [
+    "doc_28239.txt",
+    "doc_28241.txt",
+    "doc_23189.txt",
+    "doc_1750.txt",
+    "doc_40099.txt"
+  ]
+}

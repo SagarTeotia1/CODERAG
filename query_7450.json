@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the Waterford Hills Road Racing club founded?",
+  "response": [
+    "doc_8969.txt",
+    "doc_30067.txt",
+    "doc_10426.txt",
+    "doc_10427.txt",
+    "doc_10425.txt"
+  ]
+}

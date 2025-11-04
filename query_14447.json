@@ -1,0 +1,10 @@
+{
+  "query": "According to the Commission, what specific freedoms have been consistently reported to be deteriorating in Ukraine?",
+  "response": [
+    "doc_26232.txt",
+    "doc_24109.txt",
+    "doc_24110.txt",
+    "doc_24111.txt",
+    "doc_25429.txt"
+  ]
+}

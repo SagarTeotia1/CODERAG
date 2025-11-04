@@ -1,0 +1,10 @@
+{
+  "query": "Which film, directed by Royston Tan, is based on a 2002 short film of the same name and features brief nudity?",
+  "response": [
+    "doc_11944.txt",
+    "doc_11943.txt",
+    "doc_11945.txt",
+    "doc_22361.txt",
+    "doc_11947.txt"
+  ]
+}

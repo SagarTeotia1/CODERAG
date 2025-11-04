@@ -1,0 +1,10 @@
+{
+  "query": "What words appear alongside the term “Coke”?",
+  "response": [
+    "doc_6878.txt",
+    "doc_6880.txt",
+    "doc_6881.txt",
+    "doc_6879.txt",
+    "doc_6876.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which television network sold the “The Girl from U.N.C.L.E.” spin-off to NBC?",
+  "response": [
+    "doc_11706.txt",
+    "doc_11708.txt",
+    "doc_11710.txt",
+    "doc_11707.txt",
+    "doc_15037.txt"
+  ]
+}

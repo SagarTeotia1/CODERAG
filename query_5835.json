@@ -1,0 +1,10 @@
+{
+  "query": "Which king commissioned the Shah Abbas Mosque in Yerevan?",
+  "response": [
+    "doc_13682.txt",
+    "doc_25837.txt",
+    "doc_19726.txt",
+    "doc_25201.txt",
+    "doc_23872.txt"
+  ]
+}

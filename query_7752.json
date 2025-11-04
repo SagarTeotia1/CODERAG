@@ -1,0 +1,10 @@
+{
+  "query": "What brands of footwear does Pou Sheng International sell?",
+  "response": [
+    "doc_20713.txt",
+    "doc_24828.txt",
+    "doc_24825.txt",
+    "doc_20714.txt",
+    "doc_20712.txt"
+  ]
+}

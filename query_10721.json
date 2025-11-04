@@ -1,0 +1,10 @@
+{
+  "query": "Which university is classified as an “R-1: Doctoral Universities – Highest Research Activity” according to the Carnegie Classification?",
+  "response": [
+    "doc_22373.txt",
+    "doc_35775.txt",
+    "doc_22375.txt",
+    "doc_35776.txt",
+    "doc_22374.txt"
+  ]
+}

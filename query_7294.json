@@ -1,0 +1,10 @@
+{
+  "query": "What dance does Alberto Hidalgo perform?",
+  "response": [
+    "doc_8565.txt",
+    "doc_8562.txt",
+    "doc_4117.txt",
+    "doc_4121.txt",
+    "doc_32975.txt"
+  ]
+}

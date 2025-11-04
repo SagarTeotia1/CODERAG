@@ -1,0 +1,10 @@
+{
+  "query": "Which film featured Robert Goulet in a significant role, specifically as Sir Lancelot?",
+  "response": [
+    "doc_20867.txt",
+    "doc_29446.txt",
+    "doc_29447.txt",
+    "doc_32282.txt",
+    "doc_24126.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what country was “The Beatles’ Long Tall Sally” released on May 1964?",
+  "response": [
+    "doc_1745.txt",
+    "doc_1746.txt",
+    "doc_38231.txt",
+    "doc_38232.txt",
+    "doc_39064.txt"
+  ]
+}

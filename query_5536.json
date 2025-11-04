@@ -1,0 +1,10 @@
+{
+  "query": "At what age did Schumann begin to compose music?",
+  "response": [
+    "doc_4155.txt",
+    "doc_27130.txt",
+    "doc_4159.txt",
+    "doc_4157.txt",
+    "doc_27136.txt"
+  ]
+}

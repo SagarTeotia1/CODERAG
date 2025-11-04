@@ -1,0 +1,10 @@
+{
+  "query": "Where is Restaurant Andrew Fairlie located?",
+  "response": [
+    "doc_5288.txt",
+    "doc_38181.txt",
+    "doc_38186.txt",
+    "doc_33397.txt",
+    "doc_33396.txt"
+  ]
+}

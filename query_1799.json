@@ -1,0 +1,10 @@
+{
+  "query": "Which Indian song, featured in the 1998 film \"Dil Se,\" gained cult status due to its filming on a moving train?",
+  "response": [
+    "doc_31682.txt",
+    "doc_39243.txt",
+    "doc_39242.txt",
+    "doc_11371.txt",
+    "doc_7007.txt"
+  ]
+}

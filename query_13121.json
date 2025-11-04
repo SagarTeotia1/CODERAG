@@ -1,0 +1,10 @@
+{
+  "query": "Where did the Amsterdam Admirals play their home games during the 2005 season?",
+  "response": [
+    "doc_17335.txt",
+    "doc_20093.txt",
+    "doc_20094.txt",
+    "doc_38742.txt",
+    "doc_17332.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how many residents lived in the Port St. Lucie, Florida Metropolitan Statistical Area in 2013?",
+  "response": [
+    "doc_10560.txt",
+    "doc_10251.txt",
+    "doc_10252.txt",
+    "doc_9370.txt",
+    "doc_9371.txt"
+  ]
+}

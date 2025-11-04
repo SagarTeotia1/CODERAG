@@ -1,0 +1,10 @@
+{
+  "query": "According to Article 6 of the Data Protection Directive, what are the key requirements for processing personal data?",
+  "response": [
+    "doc_39575.txt",
+    "doc_3003.txt",
+    "doc_3001.txt",
+    "doc_17321.txt",
+    "doc_12780.txt"
+  ]
+}

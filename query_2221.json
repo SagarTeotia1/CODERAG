@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the album “Ibigay Mo Na” released?",
+  "response": [
+    "doc_12180.txt",
+    "doc_12184.txt",
+    "doc_12182.txt",
+    "doc_21454.txt",
+    "doc_12181.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Where did James Marshall discover gold?",
+  "response": [
+    "doc_18817.txt",
+    "doc_18823.txt",
+    "doc_18818.txt",
+    "doc_18820.txt",
+    "doc_18822.txt"
+  ]
+}

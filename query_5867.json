@@ -1,0 +1,10 @@
+{
+  "query": "What city is Busch Stadium located in?",
+  "response": [
+    "doc_5036.txt",
+    "doc_5037.txt",
+    "doc_5040.txt",
+    "doc_5038.txt",
+    "doc_5039.txt"
+  ]
+}

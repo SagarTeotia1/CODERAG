@@ -1,0 +1,10 @@
+{
+  "query": "According to TIME magazine, what were the initial reactions to the Second Symphony’s premiere?",
+  "response": [
+    "doc_30498.txt",
+    "doc_28389.txt",
+    "doc_36972.txt",
+    "doc_33363.txt",
+    "doc_36974.txt"
+  ]
+}

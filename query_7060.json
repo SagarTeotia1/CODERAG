@@ -1,0 +1,10 @@
+{
+  "query": "Which artist collaborated with Roberta Flack on the song “The Closer I Get to You,” and who wrote the song?",
+  "response": [
+    "doc_8039.txt",
+    "doc_12876.txt",
+    "doc_12874.txt",
+    "doc_12868.txt",
+    "doc_12873.txt"
+  ]
+}

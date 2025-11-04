@@ -1,0 +1,10 @@
+{
+  "query": "Who played Edward in the “Twilight” film series?",
+  "response": [
+    "doc_30489.txt",
+    "doc_1922.txt",
+    "doc_1923.txt",
+    "doc_25718.txt",
+    "doc_28394.txt"
+  ]
+}

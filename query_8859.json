@@ -1,0 +1,10 @@
+{
+  "query": "How is Rigoletto physically described in the passages?",
+  "response": [
+    "doc_12472.txt",
+    "doc_12476.txt",
+    "doc_12477.txt",
+    "doc_12474.txt",
+    "doc_12481.txt"
+  ]
+}

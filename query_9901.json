@@ -1,0 +1,10 @@
+{
+  "query": "Who did Eli Kassner study with?",
+  "response": [
+    "doc_28958.txt",
+    "doc_28388.txt",
+    "doc_14011.txt",
+    "doc_26513.txt",
+    "doc_14010.txt"
+  ]
+}

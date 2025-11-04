@@ -1,0 +1,10 @@
+{
+  "query": "Who repeatedly responded “Not I” to the Little Red Hen’s question?",
+  "response": [
+    "doc_26792.txt",
+    "doc_26793.txt",
+    "doc_23877.txt",
+    "doc_28861.txt",
+    "doc_34703.txt"
+  ]
+}

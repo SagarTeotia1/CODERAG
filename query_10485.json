@@ -1,0 +1,10 @@
+{
+  "query": "What was Lefroy aiding Ryerson to buy equipment for?",
+  "response": [
+    "doc_16447.txt",
+    "doc_34156.txt",
+    "doc_34155.txt",
+    "doc_34165.txt",
+    "doc_34157.txt"
+  ]
+}

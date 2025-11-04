@@ -1,0 +1,10 @@
+{
+  "query": "What significant event led to the closure of the Holiday Inn Lake Buena Vista Downtown in 2004?",
+  "response": [
+    "doc_26980.txt",
+    "doc_26614.txt",
+    "doc_13871.txt",
+    "doc_36661.txt",
+    "doc_36668.txt"
+  ]
+}

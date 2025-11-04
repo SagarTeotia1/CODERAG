@@ -1,0 +1,9 @@
+{
+  "query": "When did Hernando de Soto pass through Alabama?",
+  "response": [
+    "doc_32468.txt",
+    "doc_32466.txt",
+    "doc_32469.txt",
+    "doc_32467.txt"
+  ]
+}

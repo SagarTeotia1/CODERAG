@@ -1,0 +1,10 @@
+{
+  "query": "During which period were the Il-28 aircraft produced?",
+  "response": [
+    "doc_10016.txt",
+    "doc_10019.txt",
+    "doc_10015.txt",
+    "doc_5910.txt",
+    "doc_10013.txt"
+  ]
+}

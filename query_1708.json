@@ -1,0 +1,10 @@
+{
+  "query": "What concerns did the EU express regarding Iranian policies?",
+  "response": [
+    "doc_4323.txt",
+    "doc_31448.txt",
+    "doc_30306.txt",
+    "doc_25366.txt",
+    "doc_33844.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the Benton MacKaye Trail, and who is it named after?",
+  "response": [
+    "doc_6433.txt",
+    "doc_19139.txt",
+    "doc_24234.txt",
+    "doc_24224.txt",
+    "doc_19140.txt"
+  ]
+}

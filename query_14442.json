@@ -1,0 +1,10 @@
+{
+  "query": "Who is the ex-husband of Ali MacGraw mentioned in relation to the film?",
+  "response": [
+    "doc_26205.txt",
+    "doc_16427.txt",
+    "doc_13260.txt",
+    "doc_23735.txt",
+    "doc_16431.txt"
+  ]
+}

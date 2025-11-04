@@ -1,0 +1,10 @@
+{
+  "query": "According to the text, what were some of the details included in the Little Lord Fauntleroy suits worn by boys?",
+  "response": [
+    "doc_16342.txt",
+    "doc_16344.txt",
+    "doc_16347.txt",
+    "doc_16346.txt",
+    "doc_16348.txt"
+  ]
+}

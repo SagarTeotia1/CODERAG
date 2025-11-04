@@ -1,0 +1,10 @@
+{
+  "query": "What was the release date of The Fiery Furnaces’ album *Bitter Tea*?",
+  "response": [
+    "doc_23162.txt",
+    "doc_36257.txt",
+    "doc_19373.txt",
+    "doc_32069.txt",
+    "doc_36258.txt"
+  ]
+}

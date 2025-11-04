@@ -1,0 +1,9 @@
+{
+  "query": "What is Mariska Hargitay’s role on the television show *Law & Order: SVU*?",
+  "response": [
+    "doc_5689.txt",
+    "doc_5688.txt",
+    "doc_5686.txt",
+    "doc_5687.txt"
+  ]
+}

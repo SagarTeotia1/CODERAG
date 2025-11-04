@@ -1,0 +1,10 @@
+{
+  "query": "What is Naval Air Station Pensacola commonly known as, and what types of training does it provide?",
+  "response": [
+    "doc_12151.txt",
+    "doc_21972.txt",
+    "doc_12370.txt",
+    "doc_12590.txt",
+    "doc_19601.txt"
+  ]
+}

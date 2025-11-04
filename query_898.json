@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of medical complications resulting from silicone implants in Europe are caused by ruptures, infections, or contracture?",
+  "response": [
+    "doc_29546.txt",
+    "doc_21895.txt",
+    "doc_21892.txt",
+    "doc_21896.txt",
+    "doc_21901.txt"
+  ]
+}

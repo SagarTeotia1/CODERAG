@@ -1,0 +1,10 @@
+{
+  "query": "What year was “The Bachelor and the Bobby-Soxer” released?",
+  "response": [
+    "doc_14099.txt",
+    "doc_9035.txt",
+    "doc_39219.txt",
+    "doc_23272.txt",
+    "doc_39224.txt"
+  ]
+}

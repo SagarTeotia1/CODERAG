@@ -1,0 +1,10 @@
+{
+  "query": "Which countries committed to participate in the European nuclear risk and safety assessment?",
+  "response": [
+    "doc_13403.txt",
+    "doc_18532.txt",
+    "doc_2290.txt",
+    "doc_2289.txt",
+    "doc_37427.txt"
+  ]
+}

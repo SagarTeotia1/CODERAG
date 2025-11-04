@@ -1,0 +1,10 @@
+{
+  "query": "How many players are typically on each of the two lineups of the All-Rookie Team?",
+  "response": [
+    "doc_20246.txt",
+    "doc_22127.txt",
+    "doc_9261.txt",
+    "doc_20241.txt",
+    "doc_29201.txt"
+  ]
+}

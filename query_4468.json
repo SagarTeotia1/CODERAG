@@ -1,0 +1,10 @@
+{
+  "query": "Which studio did Leprous use to record “Bilateral”?",
+  "response": [
+    "doc_8995.txt",
+    "doc_37167.txt",
+    "doc_38411.txt",
+    "doc_15906.txt",
+    "doc_15907.txt"
+  ]
+}

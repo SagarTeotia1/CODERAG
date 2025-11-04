@@ -1,0 +1,10 @@
+{
+  "query": "Which region in Italy is known for having the highest elevated vineyards in Europe?",
+  "response": [
+    "doc_33852.txt",
+    "doc_26194.txt",
+    "doc_33849.txt",
+    "doc_33845.txt",
+    "doc_33851.txt"
+  ]
+}

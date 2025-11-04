@@ -1,0 +1,10 @@
+{
+  "query": "Which flower was named after Kim Jong-il, and what is its scientific classification?",
+  "response": [
+    "doc_34330.txt",
+    "doc_21952.txt",
+    "doc_8081.txt",
+    "doc_8086.txt",
+    "doc_8647.txt"
+  ]
+}

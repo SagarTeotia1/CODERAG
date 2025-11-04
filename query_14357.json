@@ -1,0 +1,10 @@
+{
+  "query": "According to Europol, what percentage of the total CO 2 quota market in some countries has been accounted for by fraud?",
+  "response": [
+    "doc_25951.txt",
+    "doc_38893.txt",
+    "doc_39099.txt",
+    "doc_12324.txt",
+    "doc_30140.txt"
+  ]
+}

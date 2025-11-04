@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission’s best estimate of the CO2 emissions released as a result of producing and burning shale gas for electricity production?",
+  "response": [
+    "doc_1281.txt",
+    "doc_35388.txt",
+    "doc_21508.txt",
+    "doc_5280.txt",
+    "doc_16114.txt"
+  ]
+}

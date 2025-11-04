@@ -1,0 +1,10 @@
+{
+  "query": "Which director did Danny Cohen collaborate with on five films?",
+  "response": [
+    "doc_27865.txt",
+    "doc_27096.txt",
+    "doc_19037.txt",
+    "doc_18853.txt",
+    "doc_33537.txt"
+  ]
+}

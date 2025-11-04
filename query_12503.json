@@ -1,0 +1,10 @@
+{
+  "query": "What did Pete Bishop describe the song as having?",
+  "response": [
+    "doc_19815.txt",
+    "doc_35734.txt",
+    "doc_33757.txt",
+    "doc_15926.txt",
+    "doc_19814.txt"
+  ]
+}

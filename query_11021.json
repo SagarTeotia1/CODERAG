@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Jean Francois die?",
+  "response": [
+    "doc_132.txt",
+    "doc_33558.txt",
+    "doc_1208.txt",
+    "doc_23044.txt",
+    "doc_1846.txt"
+  ]
+}

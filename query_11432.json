@@ -1,0 +1,10 @@
+{
+  "query": "What is the prize money offered in the Australian game show “1 vs. 100”?",
+  "response": [
+    "doc_38357.txt",
+    "doc_38359.txt",
+    "doc_38354.txt",
+    "doc_26064.txt",
+    "doc_38356.txt"
+  ]
+}

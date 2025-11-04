@@ -1,0 +1,10 @@
+{
+  "query": "Which train line serves Vyasarpadi in Chennai, India, and where does it ultimately lead?",
+  "response": [
+    "doc_24087.txt",
+    "doc_20746.txt",
+    "doc_20745.txt",
+    "doc_20753.txt",
+    "doc_18338.txt"
+  ]
+}

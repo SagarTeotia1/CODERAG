@@ -1,0 +1,10 @@
+{
+  "query": "What type of fuel does the Torrens Island Power Station burn?",
+  "response": [
+    "doc_11868.txt",
+    "doc_11867.txt",
+    "doc_1720.txt",
+    "doc_34168.txt",
+    "doc_1716.txt"
+  ]
+}

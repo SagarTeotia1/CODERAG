@@ -1,0 +1,10 @@
+{
+  "query": "What fine was imposed on the Greek police regarding the operation of surveillance cameras?",
+  "response": [
+    "doc_40130.txt",
+    "doc_5376.txt",
+    "doc_28265.txt",
+    "doc_34104.txt",
+    "doc_34129.txt"
+  ]
+}

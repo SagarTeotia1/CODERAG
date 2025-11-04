@@ -1,0 +1,10 @@
+{
+  "query": "Where is bovine tuberculosis most concentrated within the United Kingdom?",
+  "response": [
+    "doc_12866.txt",
+    "doc_12865.txt",
+    "doc_12685.txt",
+    "doc_24244.txt",
+    "doc_7916.txt"
+  ]
+}

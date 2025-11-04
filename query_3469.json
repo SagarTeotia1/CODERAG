@@ -1,0 +1,10 @@
+{
+  "query": "In 2011, what scoring records did Rory McIlroy break at the US Open?",
+  "response": [
+    "doc_35641.txt",
+    "doc_35642.txt",
+    "doc_35648.txt",
+    "doc_35643.txt",
+    "doc_35040.txt"
+  ]
+}

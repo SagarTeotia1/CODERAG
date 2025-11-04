@@ -1,0 +1,10 @@
+{
+  "query": "How many teams did the Illini defeat?",
+  "response": [
+    "doc_25625.txt",
+    "doc_14703.txt",
+    "doc_25627.txt",
+    "doc_25628.txt",
+    "doc_25623.txt"
+  ]
+}

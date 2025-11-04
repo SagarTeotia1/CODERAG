@@ -1,0 +1,10 @@
+{
+  "query": "What was Richard Brown’s primary academic role at the University of Oxford?",
+  "response": [
+    "doc_38974.txt",
+    "doc_33502.txt",
+    "doc_33509.txt",
+    "doc_33508.txt",
+    "doc_26719.txt"
+  ]
+}

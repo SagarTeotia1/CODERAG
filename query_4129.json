@@ -1,0 +1,10 @@
+{
+  "query": "What type of music does the band Black Cat Music play?",
+  "response": [
+    "doc_17897.txt",
+    "doc_32069.txt",
+    "doc_359.txt",
+    "doc_16161.txt",
+    "doc_37164.txt"
+  ]
+}

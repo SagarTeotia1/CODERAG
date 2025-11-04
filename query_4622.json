@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, who were the fathers of Tithonus and King Priam?",
+  "response": [
+    "doc_20592.txt",
+    "doc_38500.txt",
+    "doc_21853.txt",
+    "doc_21852.txt",
+    "doc_18162.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to the text, when was Andorra’s first UNESCO World Heritage Site designated?",
+  "response": [
+    "doc_25544.txt",
+    "doc_25539.txt",
+    "doc_25540.txt",
+    "doc_25542.txt",
+    "doc_25545.txt"
+  ]
+}

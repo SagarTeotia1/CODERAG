@@ -1,0 +1,10 @@
+{
+  "query": "What is James Northcote’s profession, as stated in the passage?",
+  "response": [
+    "doc_8705.txt",
+    "doc_8108.txt",
+    "doc_8107.txt",
+    "doc_1513.txt",
+    "doc_8106.txt"
+  ]
+}

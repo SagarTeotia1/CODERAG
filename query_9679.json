@@ -1,0 +1,10 @@
+{
+  "query": "According to estimates, what percentage of EU egg production was expected not to comply with the rules on 1 January 2012?",
+  "response": [
+    "doc_9196.txt",
+    "doc_35379.txt",
+    "doc_14389.txt",
+    "doc_8386.txt",
+    "doc_3371.txt"
+  ]
+}

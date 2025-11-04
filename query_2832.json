@@ -1,0 +1,10 @@
+{
+  "query": "What was the estimated financial impact of the 53 cases involving agricultural expenditure closed by OLAF in 2006?",
+  "response": [
+    "doc_37981.txt",
+    "doc_34233.txt",
+    "doc_30942.txt",
+    "doc_35508.txt",
+    "doc_16473.txt"
+  ]
+}

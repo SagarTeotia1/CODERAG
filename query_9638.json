@@ -1,0 +1,10 @@
+{
+  "query": "Who illustrated the edition of “Household Stories” by Taylor?",
+  "response": [
+    "doc_14304.txt",
+    "doc_14302.txt",
+    "doc_23877.txt",
+    "doc_23876.txt",
+    "doc_23880.txt"
+  ]
+}

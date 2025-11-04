@@ -1,0 +1,10 @@
+{
+  "query": "In what year was Ernie Pyle killed by Japanese gunfire?",
+  "response": [
+    "doc_18543.txt",
+    "doc_18542.txt",
+    "doc_19538.txt",
+    "doc_13439.txt",
+    "doc_19535.txt"
+  ]
+}

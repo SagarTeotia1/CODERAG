@@ -1,0 +1,10 @@
+{
+  "query": "Which airport is named after Jesse L. Reno and Lake Tahoe?",
+  "response": [
+    "doc_1213.txt",
+    "doc_14096.txt",
+    "doc_10610.txt",
+    "doc_1214.txt",
+    "doc_10611.txt"
+  ]
+}

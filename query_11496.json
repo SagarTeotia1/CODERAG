@@ -1,0 +1,10 @@
+{
+  "query": "In the case of Stephen Harper, what was a key factor in his success leading to three consecutive election wins?",
+  "response": [
+    "doc_18839.txt",
+    "doc_18836.txt",
+    "doc_31436.txt",
+    "doc_31435.txt",
+    "doc_18838.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which French football club launched a channel called Girondins TV dedicated to FC Girondins de Bordeaux?",
+  "response": [
+    "doc_20615.txt",
+    "doc_18342.txt",
+    "doc_11769.txt",
+    "doc_11770.txt",
+    "doc_23637.txt"
+  ]
+}

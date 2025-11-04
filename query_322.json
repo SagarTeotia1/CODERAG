@@ -1,0 +1,10 @@
+{
+  "query": "Which groups submitted motions regarding the situation in Mauritania?",
+  "response": [
+    "doc_28095.txt",
+    "doc_28096.txt",
+    "doc_38105.txt",
+    "doc_29956.txt",
+    "doc_32394.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which constellation contains the stars Pollux and Castor, and what are their respective designations according to the Bayer system?",
+  "response": [
+    "doc_38170.txt",
+    "doc_38169.txt",
+    "doc_38175.txt",
+    "doc_38171.txt",
+    "doc_38177.txt"
+  ]
+}

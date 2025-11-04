@@ -1,0 +1,10 @@
+{
+  "query": "What specific concerns did the Scientific Committee on Food express about stevioside in 1999?",
+  "response": [
+    "doc_5441.txt",
+    "doc_20718.txt",
+    "doc_28035.txt",
+    "doc_40304.txt",
+    "doc_28039.txt"
+  ]
+}

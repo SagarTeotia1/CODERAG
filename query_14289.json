@@ -1,0 +1,10 @@
+{
+  "query": "For which role was Charlie Murphy awarded the 2013 Irish Film and Television Award for Best TV Actress?",
+  "response": [
+    "doc_32013.txt",
+    "doc_32012.txt",
+    "doc_12713.txt",
+    "doc_32018.txt",
+    "doc_12999.txt"
+  ]
+}

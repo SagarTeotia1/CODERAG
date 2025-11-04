@@ -1,0 +1,10 @@
+{
+  "query": "What decisions regarding the Common Agricultural Policy (CAP) informed the Commission's position?",
+  "response": [
+    "doc_22536.txt",
+    "doc_5379.txt",
+    "doc_3171.txt",
+    "doc_3296.txt",
+    "doc_38809.txt"
+  ]
+}

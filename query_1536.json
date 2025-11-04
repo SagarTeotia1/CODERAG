@@ -1,0 +1,10 @@
+{
+  "query": "What goods were shipped from Autauga Creek to Birmingham and Gadsden?",
+  "response": [
+    "doc_3020.txt",
+    "doc_19088.txt",
+    "doc_32468.txt",
+    "doc_32466.txt",
+    "doc_32467.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the EU’s position on judicial reform in Romania?",
+  "response": [
+    "doc_24199.txt",
+    "doc_7494.txt",
+    "doc_22070.txt",
+    "doc_11595.txt",
+    "doc_5578.txt"
+  ]
+}

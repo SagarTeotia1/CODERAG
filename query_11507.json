@@ -1,0 +1,10 @@
+{
+  "query": "What was Owney’s role related to the postal service?",
+  "response": [
+    "doc_37378.txt",
+    "doc_17415.txt",
+    "doc_13147.txt",
+    "doc_6915.txt",
+    "doc_37381.txt"
+  ]
+}

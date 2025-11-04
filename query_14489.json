@@ -1,0 +1,10 @@
+{
+  "query": "Which university initiated the Green Campus Initiative?",
+  "response": [
+    "doc_4924.txt",
+    "doc_26811.txt",
+    "doc_4928.txt",
+    "doc_39313.txt",
+    "doc_39311.txt"
+  ]
+}

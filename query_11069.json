@@ -1,0 +1,10 @@
+{
+  "query": "What action has the Commission taken regarding poverty in the Central Highlands?",
+  "response": [
+    "doc_9537.txt",
+    "doc_33276.txt",
+    "doc_4362.txt",
+    "doc_9533.txt",
+    "doc_2962.txt"
+  ]
+}

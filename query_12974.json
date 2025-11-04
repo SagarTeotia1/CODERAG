@@ -1,0 +1,10 @@
+{
+  "query": "In what year did the IC&E commence operations?",
+  "response": [
+    "doc_731.txt",
+    "doc_733.txt",
+    "doc_732.txt",
+    "doc_27065.txt",
+    "doc_10001.txt"
+  ]
+}

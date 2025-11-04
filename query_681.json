@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what is a key characteristic of Claude Monet’s paintings regarding their subjects?",
+  "response": [
+    "doc_2844.txt",
+    "doc_2311.txt",
+    "doc_2309.txt",
+    "doc_2840.txt",
+    "doc_2304.txt"
+  ]
+}

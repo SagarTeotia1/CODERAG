@@ -1,0 +1,10 @@
+{
+  "query": "What is the Erinnerungsort Olympia-Attentat and what event is it commemorating?",
+  "response": [
+    "doc_23124.txt",
+    "doc_11222.txt",
+    "doc_31762.txt",
+    "doc_15266.txt",
+    "doc_23125.txt"
+  ]
+}

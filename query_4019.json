@@ -1,0 +1,10 @@
+{
+  "query": "What is the approximate length of an adult Sea Lamprey?",
+  "response": [
+    "doc_36982.txt",
+    "doc_36983.txt",
+    "doc_34587.txt",
+    "doc_28848.txt",
+    "doc_7962.txt"
+  ]
+}

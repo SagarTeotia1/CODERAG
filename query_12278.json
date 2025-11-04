@@ -1,0 +1,10 @@
+{
+  "query": "What was the subject of Vladimír Železný’s written declaration?",
+  "response": [
+    "doc_18544.txt",
+    "doc_18545.txt",
+    "doc_18546.txt",
+    "doc_18551.txt",
+    "doc_18548.txt"
+  ]
+}

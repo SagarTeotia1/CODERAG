@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what happened regarding the results of the 2000 election in Florida?",
+  "response": [
+    "doc_25114.txt",
+    "doc_25115.txt",
+    "doc_25113.txt",
+    "doc_25118.txt",
+    "doc_25116.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "On which television show did Gary Anthony Williams provide the voice of Uncle Ruckus?",
+  "response": [
+    "doc_31385.txt",
+    "doc_4102.txt",
+    "doc_2439.txt",
+    "doc_5342.txt",
+    "doc_11527.txt"
+  ]
+}

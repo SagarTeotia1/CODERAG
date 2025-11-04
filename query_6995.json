@@ -1,0 +1,10 @@
+{
+  "query": "When was the VIth Meeting of Euro-Mediterranean Ministers of Foreign Affairs scheduled to take place?",
+  "response": [
+    "doc_39904.txt",
+    "doc_39911.txt",
+    "doc_20983.txt",
+    "doc_39914.txt",
+    "doc_39906.txt"
+  ]
+}

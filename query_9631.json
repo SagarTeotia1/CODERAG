@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, who founded the Institute of History and Art?",
+  "response": [
+    "doc_14289.txt",
+    "doc_15256.txt",
+    "doc_15255.txt",
+    "doc_15248.txt",
+    "doc_15251.txt"
+  ]
+}

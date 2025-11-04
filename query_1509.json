@@ -1,0 +1,10 @@
+{
+  "query": "Which universities are listed as being part of the Alabama Youth Leadership Development Program?",
+  "response": [
+    "doc_30947.txt",
+    "doc_30948.txt",
+    "doc_30944.txt",
+    "doc_30946.txt",
+    "doc_30949.txt"
+  ]
+}

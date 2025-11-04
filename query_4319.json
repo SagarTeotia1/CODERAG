@@ -1,0 +1,10 @@
+{
+  "query": "What is the estimated cost to the British economy of implementing new EU regulations and directives over the last 10 years?",
+  "response": [
+    "doc_37701.txt",
+    "doc_19960.txt",
+    "doc_31532.txt",
+    "doc_36803.txt",
+    "doc_1102.txt"
+  ]
+}

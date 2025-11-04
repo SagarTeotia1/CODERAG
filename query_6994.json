@@ -1,0 +1,10 @@
+{
+  "query": "How many planets are in our Solar System?",
+  "response": [
+    "doc_22958.txt",
+    "doc_22962.txt",
+    "doc_22959.txt",
+    "doc_22964.txt",
+    "doc_22966.txt"
+  ]
+}

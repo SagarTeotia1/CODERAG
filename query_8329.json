@@ -1,0 +1,9 @@
+{
+  "query": "What is the elevation range of Yosemite National Park?",
+  "response": [
+    "doc_11165.txt",
+    "doc_11167.txt",
+    "doc_11168.txt",
+    "doc_11166.txt"
+  ]
+}

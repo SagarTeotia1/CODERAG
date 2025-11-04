@@ -1,0 +1,10 @@
+{
+  "query": "What action did Mller take regarding his quarry?",
+  "response": [
+    "doc_21799.txt",
+    "doc_12790.txt",
+    "doc_129.txt",
+    "doc_30873.txt",
+    "doc_15286.txt"
+  ]
+}

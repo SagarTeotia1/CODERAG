@@ -1,0 +1,10 @@
+{
+  "query": "What is the estimated weight of scrap metal contained within the New Flame shipwreck?",
+  "response": [
+    "doc_28888.txt",
+    "doc_25666.txt",
+    "doc_25671.txt",
+    "doc_25667.txt",
+    "doc_25672.txt"
+  ]
+}

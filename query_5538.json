@@ -1,0 +1,10 @@
+{
+  "query": "At what age did Niccol Paganini begin playing the mandolin?",
+  "response": [
+    "doc_4150.txt",
+    "doc_4156.txt",
+    "doc_4151.txt",
+    "doc_4158.txt",
+    "doc_4154.txt"
+  ]
+}

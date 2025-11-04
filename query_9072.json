@@ -1,0 +1,10 @@
+{
+  "query": "When did Harry Norris retire?",
+  "response": [
+    "doc_28245.txt",
+    "doc_37592.txt",
+    "doc_24404.txt",
+    "doc_37593.txt",
+    "doc_37594.txt"
+  ]
+}

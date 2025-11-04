@@ -1,0 +1,10 @@
+{
+  "query": "When was a letter of formal notice sent to the UK authorities regarding the changes in legislation?",
+  "response": [
+    "doc_32289.txt",
+    "doc_14514.txt",
+    "doc_7712.txt",
+    "doc_878.txt",
+    "doc_29498.txt"
+  ]
+}

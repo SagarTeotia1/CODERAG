@@ -1,0 +1,10 @@
+{
+  "query": "In what year was Miss Teen USA 2010 held, and at which location?",
+  "response": [
+    "doc_15440.txt",
+    "doc_15441.txt",
+    "doc_37834.txt",
+    "doc_37835.txt",
+    "doc_38508.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which independent country is located just south of Bahrain?",
+  "response": [
+    "doc_19223.txt",
+    "doc_19222.txt",
+    "doc_19226.txt",
+    "doc_19221.txt",
+    "doc_19225.txt"
+  ]
+}

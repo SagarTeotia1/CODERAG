@@ -1,0 +1,10 @@
+{
+  "query": "Which American heavy metal band released the compilation album “Garage Inc.”?",
+  "response": [
+    "doc_14596.txt",
+    "doc_14597.txt",
+    "doc_34426.txt",
+    "doc_18604.txt",
+    "doc_18394.txt"
+  ]
+}

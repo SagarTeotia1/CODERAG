@@ -1,0 +1,10 @@
+{
+  "query": "Which club does Timo Schultz currently serve as an assistant coach for?",
+  "response": [
+    "doc_37570.txt",
+    "doc_26136.txt",
+    "doc_35467.txt",
+    "doc_23918.txt",
+    "doc_26370.txt"
+  ]
+}

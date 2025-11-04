@@ -1,0 +1,10 @@
+{
+  "query": "What was John Fremont’s relationship to Senator Thomas Hart Benton?",
+  "response": [
+    "doc_19138.txt",
+    "doc_19140.txt",
+    "doc_19141.txt",
+    "doc_19139.txt",
+    "doc_19142.txt"
+  ]
+}

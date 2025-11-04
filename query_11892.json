@@ -1,0 +1,10 @@
+{
+  "query": "Has the Polish Minister for Education refused to condemn a provocative and unscientific approach regarding the theory of evolution?",
+  "response": [
+    "doc_8806.txt",
+    "doc_38721.txt",
+    "doc_38720.txt",
+    "doc_40309.txt",
+    "doc_12045.txt"
+  ]
+}

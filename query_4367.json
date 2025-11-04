@@ -1,0 +1,10 @@
+{
+  "query": "Which city, formerly known as Thonburi, is now incorporated into Greater Bangkok?",
+  "response": [
+    "doc_37803.txt",
+    "doc_37804.txt",
+    "doc_37807.txt",
+    "doc_37805.txt",
+    "doc_37806.txt"
+  ]
+}

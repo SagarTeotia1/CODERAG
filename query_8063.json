@@ -1,0 +1,10 @@
+{
+  "query": "Which public address announcer was chosen to serve as the PA announcer at the 2007 NBA All-Star Game in Las Vegas?",
+  "response": [
+    "doc_10535.txt",
+    "doc_10536.txt",
+    "doc_37222.txt",
+    "doc_14929.txt",
+    "doc_14699.txt"
+  ]
+}

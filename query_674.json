@@ -1,0 +1,10 @@
+{
+  "query": "Which two Natura 2000 sites are included in the Regional Government of Valencia’s natural resources and land use management plan?",
+  "response": [
+    "doc_28772.txt",
+    "doc_13637.txt",
+    "doc_12173.txt",
+    "doc_10189.txt",
+    "doc_16493.txt"
+  ]
+}

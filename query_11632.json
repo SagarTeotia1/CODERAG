@@ -1,0 +1,10 @@
+{
+  "query": "What was the initial assessment of the nptII gene by EFSA in 2007, and what subsequent action did the Commission take based on this assessment?",
+  "response": [
+    "doc_19252.txt",
+    "doc_9875.txt",
+    "doc_17401.txt",
+    "doc_29455.txt",
+    "doc_29492.txt"
+  ]
+}

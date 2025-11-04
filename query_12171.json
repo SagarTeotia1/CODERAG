@@ -1,0 +1,10 @@
+{
+  "query": "What was the approximate movement of the Point Reyes Peninsula during the 1906 earthquake?",
+  "response": [
+    "doc_2061.txt",
+    "doc_9548.txt",
+    "doc_9546.txt",
+    "doc_2060.txt",
+    "doc_2059.txt"
+  ]
+}

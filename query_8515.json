@@ -1,0 +1,10 @@
+{
+  "query": "What was the mileage on the Z28 when it was traded in?",
+  "response": [
+    "doc_11623.txt",
+    "doc_11621.txt",
+    "doc_11622.txt",
+    "doc_11620.txt",
+    "doc_11624.txt"
+  ]
+}

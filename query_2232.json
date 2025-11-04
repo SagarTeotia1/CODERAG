@@ -1,0 +1,10 @@
+{
+  "query": "From whom does the EUMS Intelligence Directorate primarily receive its information?",
+  "response": [
+    "doc_32794.txt",
+    "doc_6645.txt",
+    "doc_26638.txt",
+    "doc_5676.txt",
+    "doc_39009.txt"
+  ]
+}

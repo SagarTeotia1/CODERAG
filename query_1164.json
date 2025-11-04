@@ -1,0 +1,10 @@
+{
+  "query": "What specific action is the passage condemning regarding the political climate in Guinea?",
+  "response": [
+    "doc_30162.txt",
+    "doc_26004.txt",
+    "doc_26005.txt",
+    "doc_30163.txt",
+    "doc_8149.txt"
+  ]
+}

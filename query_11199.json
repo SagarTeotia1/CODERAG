@@ -1,0 +1,10 @@
+{
+  "query": "When was the \"Save-the-Redwoods League\" established, and what role did it play in conservation efforts?",
+  "response": [
+    "doc_1776.txt",
+    "doc_1774.txt",
+    "doc_1775.txt",
+    "doc_1777.txt",
+    "doc_1778.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which European countries do not provide data on the value of arms exports?",
+  "response": [
+    "doc_24253.txt",
+    "doc_24252.txt",
+    "doc_24254.txt",
+    "doc_24249.txt",
+    "doc_34321.txt"
+  ]
+}

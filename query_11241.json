@@ -1,0 +1,10 @@
+{
+  "query": "Where in South Island can you take a short walk from the beach?",
+  "response": [
+    "doc_18226.txt",
+    "doc_18222.txt",
+    "doc_18224.txt",
+    "doc_18223.txt",
+    "doc_18225.txt"
+  ]
+}

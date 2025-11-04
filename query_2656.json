@@ -1,0 +1,10 @@
+{
+  "query": "Has the High Representative/Vice-President Ashton issued statements regarding Iran’s human rights situation recently?",
+  "response": [
+    "doc_33844.txt",
+    "doc_22215.txt",
+    "doc_25366.txt",
+    "doc_31084.txt",
+    "doc_30306.txt"
+  ]
+}

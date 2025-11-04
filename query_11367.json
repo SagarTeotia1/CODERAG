@@ -1,0 +1,10 @@
+{
+  "query": "What specific legal framework is the European Commission urging Turkey to adopt regarding nuclear safety?",
+  "response": [
+    "doc_18532.txt",
+    "doc_36431.txt",
+    "doc_13403.txt",
+    "doc_40304.txt",
+    "doc_37427.txt"
+  ]
+}

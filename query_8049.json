@@ -1,0 +1,10 @@
+{
+  "query": "Where are the EU Operational Headquarters located for Atalanta?",
+  "response": [
+    "doc_23771.txt",
+    "doc_23770.txt",
+    "doc_37210.txt",
+    "doc_23775.txt",
+    "doc_6363.txt"
+  ]
+}

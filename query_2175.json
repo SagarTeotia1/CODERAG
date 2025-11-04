@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the air national guard base located at Yeager Airport?",
+  "response": [
+    "doc_37766.txt",
+    "doc_1453.txt",
+    "doc_10610.txt",
+    "doc_10603.txt",
+    "doc_32161.txt"
+  ]
+}

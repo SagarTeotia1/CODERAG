@@ -1,0 +1,10 @@
+{
+  "query": "What musical pieces are mentioned as part of “Contemporary and Classic Popular Hits”?",
+  "response": [
+    "doc_3428.txt",
+    "doc_3429.txt",
+    "doc_3426.txt",
+    "doc_3433.txt",
+    "doc_36810.txt"
+  ]
+}

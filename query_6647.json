@@ -1,0 +1,10 @@
+{
+  "query": "What did Giovanni Gabrieli teach Anfossi in?",
+  "response": [
+    "doc_5860.txt",
+    "doc_5858.txt",
+    "doc_15380.txt",
+    "doc_5857.txt",
+    "doc_5861.txt"
+  ]
+}

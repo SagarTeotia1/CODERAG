@@ -1,0 +1,10 @@
+{
+  "query": "When was M-Girls formed, and what type of albums did they primarily release?",
+  "response": [
+    "doc_14998.txt",
+    "doc_25923.txt",
+    "doc_171.txt",
+    "doc_173.txt",
+    "doc_26172.txt"
+  ]
+}

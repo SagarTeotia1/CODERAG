@@ -1,0 +1,10 @@
+{
+  "query": "When was Lillian Wald enrolled in the nursing program at the New York Hospital Training School?",
+  "response": [
+    "doc_19595.txt",
+    "doc_1611.txt",
+    "doc_1609.txt",
+    "doc_19596.txt",
+    "doc_1613.txt"
+  ]
+}

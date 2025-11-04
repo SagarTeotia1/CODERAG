@@ -1,0 +1,10 @@
+{
+  "query": "Where did USAir Flight 405 crash?",
+  "response": [
+    "doc_3844.txt",
+    "doc_26673.txt",
+    "doc_3211.txt",
+    "doc_10192.txt",
+    "doc_35892.txt"
+  ]
+}

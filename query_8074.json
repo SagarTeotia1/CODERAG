@@ -1,0 +1,10 @@
+{
+  "query": "When was the Greek alphabet influenced by the Phoenician alphabet?",
+  "response": [
+    "doc_1691.txt",
+    "doc_1690.txt",
+    "doc_1689.txt",
+    "doc_1693.txt",
+    "doc_1692.txt"
+  ]
+}

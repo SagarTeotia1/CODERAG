@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what section explains why ELAS did not have to reserve for un-guaranteed bonuses?",
+  "response": [
+    "doc_882.txt",
+    "doc_893.txt",
+    "doc_937.txt",
+    "doc_979.txt",
+    "doc_938.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What film served as the basis for the musical *Thoroughly Modern Millie*?",
+  "response": [
+    "doc_26856.txt",
+    "doc_26857.txt",
+    "doc_26859.txt",
+    "doc_26858.txt",
+    "doc_26860.txt"
+  ]
+}

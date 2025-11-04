@@ -1,0 +1,10 @@
+{
+  "query": "Who was responsible for devising and maintaining the North Wales Path?",
+  "response": [
+    "doc_9572.txt",
+    "doc_3892.txt",
+    "doc_3894.txt",
+    "doc_36070.txt",
+    "doc_31775.txt"
+  ]
+}

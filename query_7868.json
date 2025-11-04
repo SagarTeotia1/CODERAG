@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what is Mary Stewart known for writing?",
+  "response": [
+    "doc_9966.txt",
+    "doc_9964.txt",
+    "doc_9972.txt",
+    "doc_9963.txt",
+    "doc_9967.txt"
+  ]
+}

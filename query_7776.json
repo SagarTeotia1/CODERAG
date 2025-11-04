@@ -1,0 +1,10 @@
+{
+  "query": "By what profession was Joseph Taylor, the founder of the college, employed?",
+  "response": [
+    "doc_9798.txt",
+    "doc_9799.txt",
+    "doc_9801.txt",
+    "doc_1333.txt",
+    "doc_1944.txt"
+  ]
+}

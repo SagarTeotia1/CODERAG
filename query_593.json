@@ -1,0 +1,10 @@
+{
+  "query": "What prompted the Commission to announce the closure of the bluefin tuna fishery?",
+  "response": [
+    "doc_28594.txt",
+    "doc_37452.txt",
+    "doc_7428.txt",
+    "doc_7427.txt",
+    "doc_37813.txt"
+  ]
+}

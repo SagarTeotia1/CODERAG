@@ -1,0 +1,10 @@
+{
+  "query": "When was the hearing on Tibet held?",
+  "response": [
+    "doc_28250.txt",
+    "doc_28234.txt",
+    "doc_28233.txt",
+    "doc_18304.txt",
+    "doc_38227.txt"
+  ]
+}

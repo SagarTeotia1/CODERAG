@@ -1,0 +1,10 @@
+{
+  "query": "In what year did James Clerk Maxwell receive the Adams prize for his essay on Saturn’s rings?",
+  "response": [
+    "doc_3034.txt",
+    "doc_3030.txt",
+    "doc_3029.txt",
+    "doc_3028.txt",
+    "doc_3035.txt"
+  ]
+}

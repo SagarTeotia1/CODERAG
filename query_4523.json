@@ -1,0 +1,10 @@
+{
+  "query": "According to the Spoiled NYC article, what kind of atmosphere does the Rose Bar offer?",
+  "response": [
+    "doc_38202.txt",
+    "doc_38201.txt",
+    "doc_10635.txt",
+    "doc_33398.txt",
+    "doc_22424.txt"
+  ]
+}

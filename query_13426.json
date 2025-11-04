@@ -1,0 +1,10 @@
+{
+  "query": "What academic degrees did Goble earn?",
+  "response": [
+    "doc_18838.txt",
+    "doc_25788.txt",
+    "doc_38165.txt",
+    "doc_25764.txt",
+    "doc_38158.txt"
+  ]
+}

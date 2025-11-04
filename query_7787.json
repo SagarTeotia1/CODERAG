@@ -1,0 +1,10 @@
+{
+  "query": "Which organization owns the Northwest Plano Park & Ride station?",
+  "response": [
+    "doc_22097.txt",
+    "doc_10603.txt",
+    "doc_10606.txt",
+    "doc_10611.txt",
+    "doc_28791.txt"
+  ]
+}

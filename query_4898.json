@@ -1,0 +1,10 @@
+{
+  "query": "Where was the final report for the ‘Bee mortality and bee surveillance in Europe’ project published?",
+  "response": [
+    "doc_39122.txt",
+    "doc_39121.txt",
+    "doc_6420.txt",
+    "doc_33292.txt",
+    "doc_35208.txt"
+  ]
+}

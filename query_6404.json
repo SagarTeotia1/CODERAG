@@ -1,0 +1,10 @@
+{
+  "query": "What is happening in D.C.?",
+  "response": [
+    "doc_20372.txt",
+    "doc_8490.txt",
+    "doc_32813.txt",
+    "doc_8492.txt",
+    "doc_27687.txt"
+  ]
+}

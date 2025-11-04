@@ -1,0 +1,10 @@
+{
+  "query": "Which Six Flags parks currently feature The Joker roller coaster?",
+  "response": [
+    "doc_36881.txt",
+    "doc_36883.txt",
+    "doc_14662.txt",
+    "doc_32705.txt",
+    "doc_36880.txt"
+  ]
+}

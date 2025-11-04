@@ -1,0 +1,10 @@
+{
+  "query": "What country is Uppsala University located in?",
+  "response": [
+    "doc_22370.txt",
+    "doc_22369.txt",
+    "doc_22367.txt",
+    "doc_22371.txt",
+    "doc_22372.txt"
+  ]
+}

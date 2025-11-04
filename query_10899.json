@@ -1,0 +1,10 @@
+{
+  "query": "According to The Daily Dot, what metric was used to rank U.S. presidents by the number of executive orders they issued?",
+  "response": [
+    "doc_1726.txt",
+    "doc_1727.txt",
+    "doc_1725.txt",
+    "doc_1729.txt",
+    "doc_63.txt"
+  ]
+}

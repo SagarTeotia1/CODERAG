@@ -1,0 +1,10 @@
+{
+  "query": "What type of recreation area is located on the southern section of Larch Mountain?",
+  "response": [
+    "doc_30910.txt",
+    "doc_30909.txt",
+    "doc_30911.txt",
+    "doc_9227.txt",
+    "doc_11167.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Where did the killings involving Starkweather and Fugate ultimately end?",
+  "response": [
+    "doc_39843.txt",
+    "doc_39840.txt",
+    "doc_39841.txt",
+    "doc_39845.txt",
+    "doc_39844.txt"
+  ]
+}

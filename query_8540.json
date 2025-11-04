@@ -1,0 +1,10 @@
+{
+  "query": "What is the mailing address of the Base Chapel at Robins Air Force Base?",
+  "response": [
+    "doc_11700.txt",
+    "doc_11701.txt",
+    "doc_5247.txt",
+    "doc_5245.txt",
+    "doc_39184.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to one article, which country outside of Israel currently houses the largest Jewish population in the Middle East?",
+  "response": [
+    "doc_20899.txt",
+    "doc_20900.txt",
+    "doc_20906.txt",
+    "doc_20902.txt",
+    "doc_20903.txt"
+  ]
+}

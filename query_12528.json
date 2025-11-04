@@ -1,0 +1,10 @@
+{
+  "query": "Who commanded the Apollo 13 lunar landing mission?",
+  "response": [
+    "doc_21518.txt",
+    "doc_16694.txt",
+    "doc_20954.txt",
+    "doc_20957.txt",
+    "doc_3310.txt"
+  ]
+}

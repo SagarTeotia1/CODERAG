@@ -1,0 +1,10 @@
+{
+  "query": "How many bronze statues of the Little Dancer were cast by the Valsuani foundry in 1997 and 1998?",
+  "response": [
+    "doc_23328.txt",
+    "doc_38835.txt",
+    "doc_31889.txt",
+    "doc_31890.txt",
+    "doc_31894.txt"
+  ]
+}

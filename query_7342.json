@@ -1,0 +1,10 @@
+{
+  "query": "What specific type of support did the European Commission provide to the Mekong River Commission (MRC)?",
+  "response": [
+    "doc_8719.txt",
+    "doc_8720.txt",
+    "doc_17774.txt",
+    "doc_238.txt",
+    "doc_10888.txt"
+  ]
+}

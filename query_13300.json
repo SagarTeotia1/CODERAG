@@ -1,0 +1,10 @@
+{
+  "query": "What area of the Salmon National Forest is described as being in remote areas?",
+  "response": [
+    "doc_23302.txt",
+    "doc_23303.txt",
+    "doc_23304.txt",
+    "doc_23305.txt",
+    "doc_2206.txt"
+  ]
+}

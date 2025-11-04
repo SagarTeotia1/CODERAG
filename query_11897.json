@@ -1,0 +1,10 @@
+{
+  "query": "What is the title of the document \"PANADOL OSTEO\"?",
+  "response": [
+    "doc_20009.txt",
+    "doc_20008.txt",
+    "doc_20010.txt",
+    "doc_20007.txt",
+    "doc_20011.txt"
+  ]
+}

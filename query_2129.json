@@ -1,0 +1,10 @@
+{
+  "query": "What types of dishes are mentioned as being served for dinner at Palo Alto Online’s “Mini Restaurant Reviews”?",
+  "response": [
+    "doc_32532.txt",
+    "doc_1669.txt",
+    "doc_1671.txt",
+    "doc_1670.txt",
+    "doc_1667.txt"
+  ]
+}

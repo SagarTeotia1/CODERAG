@@ -1,0 +1,10 @@
+{
+  "query": "Which record labels did Alan Robbins work with between 1974 and 1977?",
+  "response": [
+    "doc_12873.txt",
+    "doc_37167.txt",
+    "doc_12582.txt",
+    "doc_12876.txt",
+    "doc_3349.txt"
+  ]
+}

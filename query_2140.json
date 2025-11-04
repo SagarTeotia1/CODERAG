@@ -1,0 +1,10 @@
+{
+  "query": "What are the names of Bird Bryant’s uncles?",
+  "response": [
+    "doc_32563.txt",
+    "doc_37017.txt",
+    "doc_6905.txt",
+    "doc_37018.txt",
+    "doc_20160.txt"
+  ]
+}

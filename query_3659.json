@@ -1,0 +1,10 @@
+{
+  "query": "What was the *Press-Register’s* circulation, and in which cities was it distributed?",
+  "response": [
+    "doc_13776.txt",
+    "doc_13777.txt",
+    "doc_13775.txt",
+    "doc_36932.txt",
+    "doc_28673.txt"
+  ]
+}

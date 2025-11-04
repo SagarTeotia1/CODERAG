@@ -1,0 +1,10 @@
+{
+  "query": "Who invited the experts to advise the Commission President?",
+  "response": [
+    "doc_23933.txt",
+    "doc_4641.txt",
+    "doc_38636.txt",
+    "doc_23936.txt",
+    "doc_23928.txt"
+  ]
+}

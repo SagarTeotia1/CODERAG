@@ -1,0 +1,10 @@
+{
+  "query": "What state seal does the city of Eureka use?",
+  "response": [
+    "doc_13062.txt",
+    "doc_13063.txt",
+    "doc_13065.txt",
+    "doc_13068.txt",
+    "doc_13066.txt"
+  ]
+}

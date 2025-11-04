@@ -1,0 +1,10 @@
+{
+  "query": "Which band released the album “King James Version”?",
+  "response": [
+    "doc_10581.txt",
+    "doc_34426.txt",
+    "doc_18394.txt",
+    "doc_36873.txt",
+    "doc_21639.txt"
+  ]
+}

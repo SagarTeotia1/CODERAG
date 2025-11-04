@@ -1,0 +1,10 @@
+{
+  "query": "Why is Mr. Amarantides ineligible for parole under Belgian law?",
+  "response": [
+    "doc_28301.txt",
+    "doc_34204.txt",
+    "doc_36355.txt",
+    "doc_24667.txt",
+    "doc_10093.txt"
+  ]
+}

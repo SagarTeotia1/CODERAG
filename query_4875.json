@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what did Tony Schwartz say he put on a pig?",
+  "response": [
+    "doc_39081.txt",
+    "doc_39082.txt",
+    "doc_34697.txt",
+    "doc_34699.txt",
+    "doc_9467.txt"
+  ]
+}

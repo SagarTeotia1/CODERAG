@@ -1,0 +1,10 @@
+{
+  "query": "Which actor voiced Granny in “I Tawt I Taw a Puddy Tat”?",
+  "response": [
+    "doc_30463.txt",
+    "doc_30464.txt",
+    "doc_30462.txt",
+    "doc_30466.txt",
+    "doc_18327.txt"
+  ]
+}

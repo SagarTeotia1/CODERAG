@@ -1,0 +1,10 @@
+{
+  "query": "Where was Pythagoras born, and what initiation did he receive as a young man?",
+  "response": [
+    "doc_20180.txt",
+    "doc_20177.txt",
+    "doc_20176.txt",
+    "doc_20179.txt",
+    "doc_20178.txt"
+  ]
+}

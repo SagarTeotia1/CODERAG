@@ -1,0 +1,10 @@
+{
+  "query": "When and where was Juan Manuel Fangio II born?",
+  "response": [
+    "doc_37560.txt",
+    "doc_37559.txt",
+    "doc_1846.txt",
+    "doc_19276.txt",
+    "doc_19271.txt"
+  ]
+}

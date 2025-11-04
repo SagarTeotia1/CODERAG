@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided links, what was invented in 1947 at Bell Labs that allowed for the separation of circuit design and chip manufacturing processes?",
+  "response": [
+    "doc_11232.txt",
+    "doc_11233.txt",
+    "doc_11226.txt",
+    "doc_11227.txt",
+    "doc_11228.txt"
+  ]
+}

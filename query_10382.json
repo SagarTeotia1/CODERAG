@@ -1,0 +1,10 @@
+{
+  "query": "What television series did Chad Everett star in as Dr. Joe Gannon?",
+  "response": [
+    "doc_16196.txt",
+    "doc_16195.txt",
+    "doc_32968.txt",
+    "doc_3476.txt",
+    "doc_32969.txt"
+  ]
+}

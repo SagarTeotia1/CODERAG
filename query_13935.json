@@ -1,0 +1,10 @@
+{
+  "query": "To whom was the UN Secretary-General reporting the situation in Cambodia?",
+  "response": [
+    "doc_4196.txt",
+    "doc_6667.txt",
+    "doc_4195.txt",
+    "doc_16765.txt",
+    "doc_36163.txt"
+  ]
+}

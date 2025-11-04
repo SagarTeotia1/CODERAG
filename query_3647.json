@@ -1,0 +1,10 @@
+{
+  "query": "Who co-wrote the album that featured production from Tino Oac and Giuseppe Porrello?",
+  "response": [
+    "doc_39572.txt",
+    "doc_15907.txt",
+    "doc_39567.txt",
+    "doc_39566.txt",
+    "doc_39569.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the Round Tower opened?",
+  "response": [
+    "doc_16352.txt",
+    "doc_16355.txt",
+    "doc_16354.txt",
+    "doc_16361.txt",
+    "doc_16365.txt"
+  ]
+}

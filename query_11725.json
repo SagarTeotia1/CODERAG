@@ -1,0 +1,10 @@
+{
+  "query": "What event occurred on December 16, 1773, involving tea and Bostonians?",
+  "response": [
+    "doc_19461.txt",
+    "doc_30328.txt",
+    "doc_30327.txt",
+    "doc_30323.txt",
+    "doc_30326.txt"
+  ]
+}

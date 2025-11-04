@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission currently assessing as potential measures to reduce plastic carrier bag use?",
+  "response": [
+    "doc_31747.txt",
+    "doc_37229.txt",
+    "doc_37228.txt",
+    "doc_13632.txt",
+    "doc_21628.txt"
+  ]
+}

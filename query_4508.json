@@ -1,0 +1,10 @@
+{
+  "query": "What are the three pillars of the ASEM process, according to the text?",
+  "response": [
+    "doc_9342.txt",
+    "doc_16223.txt",
+    "doc_20491.txt",
+    "doc_20492.txt",
+    "doc_19948.txt"
+  ]
+}

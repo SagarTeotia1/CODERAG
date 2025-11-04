@@ -1,0 +1,10 @@
+{
+  "query": "At what elevation above sea level is the city of Quito located?",
+  "response": [
+    "doc_4213.txt",
+    "doc_2940.txt",
+    "doc_1868.txt",
+    "doc_25046.txt",
+    "doc_15099.txt"
+  ]
+}

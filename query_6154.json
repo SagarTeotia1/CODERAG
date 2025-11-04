@@ -1,0 +1,10 @@
+{
+  "query": "Which committee produced the report titled “Confiscation of automobiles by the Greek authorities”?",
+  "response": [
+    "doc_26433.txt",
+    "doc_857.txt",
+    "doc_9093.txt",
+    "doc_33528.txt",
+    "doc_3006.txt"
+  ]
+}

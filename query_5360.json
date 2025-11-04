@@ -1,0 +1,10 @@
+{
+  "query": "What are the Italian national laws that prohibit exclusive agency contracts in the field of damage insurance?",
+  "response": [
+    "doc_40132.txt",
+    "doc_25272.txt",
+    "doc_25738.txt",
+    "doc_28425.txt",
+    "doc_3610.txt"
+  ]
+}

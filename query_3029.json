@@ -1,0 +1,10 @@
+{
+  "query": "Which filmmaker served as President of the Jury at the 67th Berlin International Film Festival?",
+  "response": [
+    "doc_34717.txt",
+    "doc_34718.txt",
+    "doc_33001.txt",
+    "doc_28603.txt",
+    "doc_18855.txt"
+  ]
+}

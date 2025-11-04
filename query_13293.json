@@ -1,0 +1,10 @@
+{
+  "query": "What magazine did Sally Kirkland serve as the only fashion editor for between 1947 and 1969?",
+  "response": [
+    "doc_23298.txt",
+    "doc_9638.txt",
+    "doc_25228.txt",
+    "doc_25226.txt",
+    "doc_9637.txt"
+  ]
+}

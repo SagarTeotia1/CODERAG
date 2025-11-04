@@ -1,0 +1,10 @@
+{
+  "query": "Which conference does the Oklahoma Sooners men’s basketball team play in?",
+  "response": [
+    "doc_10450.txt",
+    "doc_10454.txt",
+    "doc_15445.txt",
+    "doc_10456.txt",
+    "doc_24327.txt"
+  ]
+}

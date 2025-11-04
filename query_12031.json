@@ -1,0 +1,10 @@
+{
+  "query": "Is the British standard mark number for fireproofing fabric, BS5867 PART 2B, equivalent to the French mark number M1?",
+  "response": [
+    "doc_20249.txt",
+    "doc_22694.txt",
+    "doc_22695.txt",
+    "doc_12101.txt",
+    "doc_39343.txt"
+  ]
+}

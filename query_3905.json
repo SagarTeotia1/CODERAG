@@ -1,0 +1,10 @@
+{
+  "query": "What was Balinda Browning’s score in the bowling game mentioned in the article from The Spectrum?",
+  "response": [
+    "doc_36707.txt",
+    "doc_36706.txt",
+    "doc_36711.txt",
+    "doc_36712.txt",
+    "doc_36713.txt"
+  ]
+}

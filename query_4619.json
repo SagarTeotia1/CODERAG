@@ -1,0 +1,10 @@
+{
+  "query": "What is the date of the European Parliament resolution regarding rising food prices?",
+  "response": [
+    "doc_38493.txt",
+    "doc_22935.txt",
+    "doc_38693.txt",
+    "doc_20838.txt",
+    "doc_38499.txt"
+  ]
+}

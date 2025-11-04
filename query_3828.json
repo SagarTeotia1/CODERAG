@@ -1,0 +1,10 @@
+{
+  "query": "Which vegetables are recommended for planting in Maryland?",
+  "response": [
+    "doc_36511.txt",
+    "doc_36510.txt",
+    "doc_36509.txt",
+    "doc_36513.txt",
+    "doc_36507.txt"
+  ]
+}

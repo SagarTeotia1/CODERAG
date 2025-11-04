@@ -1,0 +1,10 @@
+{
+  "query": "Which actors appeared in the film *Pittsburgh*?",
+  "response": [
+    "doc_25941.txt",
+    "doc_24289.txt",
+    "doc_19040.txt",
+    "doc_31812.txt",
+    "doc_22352.txt"
+  ]
+}

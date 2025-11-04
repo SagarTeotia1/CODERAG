@@ -1,0 +1,10 @@
+{
+  "query": "What period did this Zen sect’s music tradition extend from?",
+  "response": [
+    "doc_1432.txt",
+    "doc_1431.txt",
+    "doc_1436.txt",
+    "doc_1438.txt",
+    "doc_1434.txt"
+  ]
+}

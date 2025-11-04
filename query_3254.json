@@ -1,0 +1,10 @@
+{
+  "query": "What is the European Parliament’s stance on the reprocessing of spent fuel at Sellafield?",
+  "response": [
+    "doc_35168.txt",
+    "doc_20765.txt",
+    "doc_39455.txt",
+    "doc_28041.txt",
+    "doc_3568.txt"
+  ]
+}

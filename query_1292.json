@@ -1,0 +1,10 @@
+{
+  "query": "What specific event occurred with the schooner Rising Stakes off Cape Henry, described in one of the linked documents?",
+  "response": [
+    "doc_17311.txt",
+    "doc_8347.txt",
+    "doc_30327.txt",
+    "doc_17305.txt",
+    "doc_30325.txt"
+  ]
+}

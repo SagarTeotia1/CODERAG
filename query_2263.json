@@ -1,0 +1,10 @@
+{
+  "query": "Which films featured Peter Sellers in the role of Inspector Clouseau?",
+  "response": [
+    "doc_32885.txt",
+    "doc_32884.txt",
+    "doc_21286.txt",
+    "doc_20499.txt",
+    "doc_33198.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What types of learning does Cedefop research, specifically mentioning those relevant for migrants?",
+  "response": [
+    "doc_7618.txt",
+    "doc_6152.txt",
+    "doc_6153.txt",
+    "doc_24025.txt",
+    "doc_37753.txt"
+  ]
+}

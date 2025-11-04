@@ -1,0 +1,10 @@
+{
+  "query": "What event did Keith Jarrett perform at on May 14th, 1967?",
+  "response": [
+    "doc_11481.txt",
+    "doc_19882.txt",
+    "doc_9309.txt",
+    "doc_18456.txt",
+    "doc_11480.txt"
+  ]
+}

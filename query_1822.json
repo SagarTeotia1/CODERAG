@@ -1,0 +1,10 @@
+{
+  "query": "According to the text, what condition did Robert Browning’s will place on Elizabeth Barrett’s inheritance?",
+  "response": [
+    "doc_31722.txt",
+    "doc_90.txt",
+    "doc_89.txt",
+    "doc_91.txt",
+    "doc_92.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What specific changes to German law, as a result of the health reform, have made competition between pharmaceutical medicines and natural remedies difficult?",
+  "response": [
+    "doc_25787.txt",
+    "doc_19266.txt",
+    "doc_33000.txt",
+    "doc_38317.txt",
+    "doc_27584.txt"
+  ]
+}

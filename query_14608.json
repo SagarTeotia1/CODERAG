@@ -1,0 +1,10 @@
+{
+  "query": "Who did Novak Djokovic defeat in the final match?",
+  "response": [
+    "doc_26635.txt",
+    "doc_26634.txt",
+    "doc_34118.txt",
+    "doc_1464.txt",
+    "doc_30897.txt"
+  ]
+}

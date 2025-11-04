@@ -1,0 +1,10 @@
+{
+  "query": "What percentage were all Gibraltar pensions revalued on April 1, 2007?",
+  "response": [
+    "doc_1200.txt",
+    "doc_7573.txt",
+    "doc_7572.txt",
+    "doc_36542.txt",
+    "doc_1197.txt"
+  ]
+}

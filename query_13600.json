@@ -1,0 +1,10 @@
+{
+  "query": "What is Keanu Reeves’s net worth?",
+  "response": [
+    "doc_24139.txt",
+    "doc_24141.txt",
+    "doc_24138.txt",
+    "doc_24140.txt",
+    "doc_24143.txt"
+  ]
+}

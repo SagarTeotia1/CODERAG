@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how many Ulfberht blades have been discovered?",
+  "response": [
+    "doc_3894.txt",
+    "doc_3893.txt",
+    "doc_26127.txt",
+    "doc_26128.txt",
+    "doc_26214.txt"
+  ]
+}

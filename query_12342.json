@@ -1,0 +1,10 @@
+{
+  "query": "When did the Project Gemini program begin and conclude?",
+  "response": [
+    "doc_21635.txt",
+    "doc_21629.txt",
+    "doc_20953.txt",
+    "doc_21636.txt",
+    "doc_21632.txt"
+  ]
+}

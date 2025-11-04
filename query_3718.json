@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Hanson achieve their third top 10 album according to the provided text?",
+  "response": [
+    "doc_25987.txt",
+    "doc_36256.txt",
+    "doc_36255.txt",
+    "doc_36259.txt",
+    "doc_31620.txt"
+  ]
+}

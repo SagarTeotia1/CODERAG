@@ -1,0 +1,10 @@
+{
+  "query": "What species are currently prohibited from being fished under Council Regulation (EU) No 23/2010?",
+  "response": [
+    "doc_14098.txt",
+    "doc_19746.txt",
+    "doc_28565.txt",
+    "doc_9894.txt",
+    "doc_36867.txt"
+  ]
+}

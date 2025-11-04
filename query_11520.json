@@ -1,0 +1,10 @@
+{
+  "query": "When was the 5th Joint Parliamentary Committee Meeting in Skopje held?",
+  "response": [
+    "doc_18920.txt",
+    "doc_13864.txt",
+    "doc_31703.txt",
+    "doc_16442.txt",
+    "doc_8384.txt"
+  ]
+}

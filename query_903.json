@@ -1,0 +1,10 @@
+{
+  "query": "What dish does La Habichuela offer that includes shrimp and lobster?",
+  "response": [
+    "doc_2899.txt",
+    "doc_2901.txt",
+    "doc_2898.txt",
+    "doc_2900.txt",
+    "doc_2902.txt"
+  ]
+}

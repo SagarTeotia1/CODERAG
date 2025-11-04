@@ -1,0 +1,10 @@
+{
+  "query": "What is Sydney's Taronga Zoo famous for?",
+  "response": [
+    "doc_21621.txt",
+    "doc_21620.txt",
+    "doc_21618.txt",
+    "doc_21619.txt",
+    "doc_21622.txt"
+  ]
+}

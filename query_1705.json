@@ -1,0 +1,10 @@
+{
+  "query": "At what altitude is the Potala Palace located above sea level?",
+  "response": [
+    "doc_31441.txt",
+    "doc_31442.txt",
+    "doc_31445.txt",
+    "doc_31444.txt",
+    "doc_31443.txt"
+  ]
+}

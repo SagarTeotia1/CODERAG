@@ -1,0 +1,10 @@
+{
+  "query": "Who directed the music videos for “Tim McGraw,” “Teardrops on My Guitar,” “Our Song,” and “Picture to Burn”?",
+  "response": [
+    "doc_21646.txt",
+    "doc_22213.txt",
+    "doc_21647.txt",
+    "doc_11963.txt",
+    "doc_11964.txt"
+  ]
+}

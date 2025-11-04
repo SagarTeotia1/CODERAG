@@ -1,0 +1,10 @@
+{
+  "query": "Has the BBC received funding from the EIB?",
+  "response": [
+    "doc_8805.txt",
+    "doc_3934.txt",
+    "doc_29921.txt",
+    "doc_16258.txt",
+    "doc_1676.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the official language of Greenland?",
+  "response": [
+    "doc_19158.txt",
+    "doc_19155.txt",
+    "doc_19159.txt",
+    "doc_19156.txt",
+    "doc_19160.txt"
+  ]
+}

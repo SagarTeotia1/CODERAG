@@ -1,0 +1,10 @@
+{
+  "query": "What is the approximate cost of a carafe of hot sake at Sushi Sasa?",
+  "response": [
+    "doc_693.txt",
+    "doc_694.txt",
+    "doc_695.txt",
+    "doc_692.txt",
+    "doc_688.txt"
+  ]
+}

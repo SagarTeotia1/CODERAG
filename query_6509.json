@@ -1,0 +1,10 @@
+{
+  "query": "Who publicly disapproved of the closure case against the DTP party, as mentioned in the passage?",
+  "response": [
+    "doc_28890.txt",
+    "doc_34855.txt",
+    "doc_15914.txt",
+    "doc_7744.txt",
+    "doc_35825.txt"
+  ]
+}

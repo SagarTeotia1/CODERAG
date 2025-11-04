@@ -1,0 +1,10 @@
+{
+  "query": "How many times did Dr. Death win the World Tag Team Championship?",
+  "response": [
+    "doc_18348.txt",
+    "doc_35695.txt",
+    "doc_18347.txt",
+    "doc_35697.txt",
+    "doc_35696.txt"
+  ]
+}

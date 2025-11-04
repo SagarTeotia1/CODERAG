@@ -1,0 +1,10 @@
+{
+  "query": "Which institutions are involved in the multi-donor trust fund financing the CDC study?",
+  "response": [
+    "doc_34661.txt",
+    "doc_34657.txt",
+    "doc_28794.txt",
+    "doc_23138.txt",
+    "doc_24205.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What record did Vaughn Dunbar set during the 1991 season, as described in the passage?",
+  "response": [
+    "doc_31484.txt",
+    "doc_7465.txt",
+    "doc_32258.txt",
+    "doc_9262.txt",
+    "doc_2939.txt"
+  ]
+}

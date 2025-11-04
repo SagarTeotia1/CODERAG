@@ -1,0 +1,10 @@
+{
+  "query": "What international agreement does the Dutch measure potentially infringe upon?",
+  "response": [
+    "doc_10022.txt",
+    "doc_10023.txt",
+    "doc_2076.txt",
+    "doc_36101.txt",
+    "doc_603.txt"
+  ]
+}

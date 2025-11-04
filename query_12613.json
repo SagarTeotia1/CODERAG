@@ -1,0 +1,10 @@
+{
+  "query": "What television show did Lucille Ball star in?",
+  "response": [
+    "doc_8578.txt",
+    "doc_34358.txt",
+    "doc_11977.txt",
+    "doc_34139.txt",
+    "doc_34143.txt"
+  ]
+}

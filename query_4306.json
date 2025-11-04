@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided texts, what is NVR, Inc.’s current ranking among homebuilders?",
+  "response": [
+    "doc_37670.txt",
+    "doc_26976.txt",
+    "doc_11893.txt",
+    "doc_26536.txt",
+    "doc_26974.txt"
+  ]
+}

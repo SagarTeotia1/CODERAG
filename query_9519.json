@@ -1,0 +1,10 @@
+{
+  "query": "Who is the Hawaiian goddess mentioned in the passage?",
+  "response": [
+    "doc_14040.txt",
+    "doc_14037.txt",
+    "doc_14038.txt",
+    "doc_14036.txt",
+    "doc_14039.txt"
+  ]
+}

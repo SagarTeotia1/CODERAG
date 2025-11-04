@@ -1,0 +1,10 @@
+{
+  "query": "What was the approximate value of the ECSC assets in liquidation, according to the Commission’s estimates?",
+  "response": [
+    "doc_943.txt",
+    "doc_920.txt",
+    "doc_28326.txt",
+    "doc_15332.txt",
+    "doc_18741.txt"
+  ]
+}

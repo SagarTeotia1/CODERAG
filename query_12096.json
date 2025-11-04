@@ -1,0 +1,10 @@
+{
+  "query": "What is the definition of “launch” according to the Dictionary of English Nautical Language?",
+  "response": [
+    "doc_20416.txt",
+    "doc_20408.txt",
+    "doc_20411.txt",
+    "doc_20410.txt",
+    "doc_20415.txt"
+  ]
+}

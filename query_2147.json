@@ -1,0 +1,10 @@
+{
+  "query": "Which actress portrays Tiffany Valentine-Ray in “Bride of Chucky” and “Seed of Chucky”?",
+  "response": [
+    "doc_12255.txt",
+    "doc_16666.txt",
+    "doc_20417.txt",
+    "doc_12257.txt",
+    "doc_31639.txt"
+  ]
+}

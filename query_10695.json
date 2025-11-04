@@ -1,0 +1,10 @@
+{
+  "query": "In 2005, what were the actual horse mackerel catches around the Azores compared to the total allowable catch?",
+  "response": [
+    "doc_16853.txt",
+    "doc_25870.txt",
+    "doc_17788.txt",
+    "doc_21362.txt",
+    "doc_13288.txt"
+  ]
+}

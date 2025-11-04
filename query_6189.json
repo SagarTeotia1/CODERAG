@@ -1,0 +1,10 @@
+{
+  "query": "Where is the Pink Dolphin Monument located, and what community does it commemorate?",
+  "response": [
+    "doc_29641.txt",
+    "doc_27186.txt",
+    "doc_32525.txt",
+    "doc_32526.txt",
+    "doc_32528.txt"
+  ]
+}

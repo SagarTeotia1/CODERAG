@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how many researchers have come to Europe on Marie Curie fellowships since 2002?",
+  "response": [
+    "doc_39956.txt",
+    "doc_16872.txt",
+    "doc_16873.txt",
+    "doc_17527.txt",
+    "doc_22074.txt"
+  ]
+}

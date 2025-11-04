@@ -1,0 +1,10 @@
+{
+  "query": "Besides Physics, what are the other categories of Nobel Prizes?",
+  "response": [
+    "doc_38707.txt",
+    "doc_28229.txt",
+    "doc_28228.txt",
+    "doc_2019.txt",
+    "doc_8711.txt"
+  ]
+}

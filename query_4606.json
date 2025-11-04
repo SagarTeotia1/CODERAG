@@ -1,0 +1,10 @@
+{
+  "query": "What is a narrow strip of land connecting two larger masses of land, as exemplified by the Panama Canal?",
+  "response": [
+    "doc_38463.txt",
+    "doc_38465.txt",
+    "doc_38462.txt",
+    "doc_38466.txt",
+    "doc_38464.txt"
+  ]
+}

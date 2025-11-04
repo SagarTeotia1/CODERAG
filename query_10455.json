@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what was the EU’s trade deficit with China in 2010?",
+  "response": [
+    "doc_16351.txt",
+    "doc_8655.txt",
+    "doc_12677.txt",
+    "doc_40192.txt",
+    "doc_24572.txt"
+  ]
+}

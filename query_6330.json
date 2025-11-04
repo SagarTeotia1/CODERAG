@@ -1,0 +1,10 @@
+{
+  "query": "What was William Short’s relationship with Thomas Jefferson?",
+  "response": [
+    "doc_32231.txt",
+    "doc_32230.txt",
+    "doc_38151.txt",
+    "doc_38407.txt",
+    "doc_38152.txt"
+  ]
+}

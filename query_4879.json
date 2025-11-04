@@ -1,0 +1,10 @@
+{
+  "query": "How many Wimbledon singles titles did Venus and Serena Williams collectively win?",
+  "response": [
+    "doc_39093.txt",
+    "doc_1463.txt",
+    "doc_1464.txt",
+    "doc_1466.txt",
+    "doc_1467.txt"
+  ]
+}

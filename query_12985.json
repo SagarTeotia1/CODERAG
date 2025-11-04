@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission’s stated goal regarding the Cyprus problem?",
+  "response": [
+    "doc_26458.txt",
+    "doc_21743.txt",
+    "doc_13951.txt",
+    "doc_30519.txt",
+    "doc_5499.txt"
+  ]
+}

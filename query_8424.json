@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how many paintings are part of Picasso’s work?",
+  "response": [
+    "doc_11417.txt",
+    "doc_11414.txt",
+    "doc_15308.txt",
+    "doc_11420.txt",
+    "doc_11421.txt"
+  ]
+}

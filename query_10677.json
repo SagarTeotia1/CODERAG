@@ -1,0 +1,10 @@
+{
+  "query": "What was the subject of a 2012 World Championship of Cheese, and which cheese brand received an award at the event?",
+  "response": [
+    "doc_1661.txt",
+    "doc_1659.txt",
+    "doc_1655.txt",
+    "doc_9492.txt",
+    "doc_29946.txt"
+  ]
+}

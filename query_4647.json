@@ -1,0 +1,10 @@
+{
+  "query": "What is the subject matter of “Betty Zane”?",
+  "response": [
+    "doc_18326.txt",
+    "doc_18327.txt",
+    "doc_26067.txt",
+    "doc_18321.txt",
+    "doc_18328.txt"
+  ]
+}

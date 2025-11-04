@@ -1,0 +1,10 @@
+{
+  "query": "What role did Jack Starrett play in the 1974 film “Blazing Saddles”?",
+  "response": [
+    "doc_32409.txt",
+    "doc_32413.txt",
+    "doc_33014.txt",
+    "doc_22348.txt",
+    "doc_22349.txt"
+  ]
+}

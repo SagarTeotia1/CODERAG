@@ -1,0 +1,10 @@
+{
+  "query": "What types of items are displayed at the Hans Christian Andersen Museum to illustrate Andersen’s life?",
+  "response": [
+    "doc_715.txt",
+    "doc_716.txt",
+    "doc_16363.txt",
+    "doc_16358.txt",
+    "doc_28407.txt"
+  ]
+}

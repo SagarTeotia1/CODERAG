@@ -1,0 +1,10 @@
+{
+  "query": "During what time period did Steady Nelson specialize in Jazz and Swing music?",
+  "response": [
+    "doc_11481.txt",
+    "doc_274.txt",
+    "doc_11478.txt",
+    "doc_270.txt",
+    "doc_271.txt"
+  ]
+}

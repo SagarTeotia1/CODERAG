@@ -1,0 +1,10 @@
+{
+  "query": "In what city is Stewart McCrae based?",
+  "response": [
+    "doc_19760.txt",
+    "doc_15907.txt",
+    "doc_39035.txt",
+    "doc_26178.txt",
+    "doc_32071.txt"
+  ]
+}

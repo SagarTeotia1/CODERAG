@@ -1,0 +1,10 @@
+{
+  "query": "Which article of the EC Treaty supports the right of Bulgarian citizens to move freely within the EU?",
+  "response": [
+    "doc_4189.txt",
+    "doc_15771.txt",
+    "doc_39136.txt",
+    "doc_33318.txt",
+    "doc_2197.txt"
+  ]
+}

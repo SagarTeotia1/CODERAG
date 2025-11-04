@@ -1,0 +1,10 @@
+{
+  "query": "What is the Moroccan Foreign Minister’s response to the reports of abandonment by the Moroccan police?",
+  "response": [
+    "doc_5139.txt",
+    "doc_39819.txt",
+    "doc_22122.txt",
+    "doc_28347.txt",
+    "doc_4082.txt"
+  ]
+}

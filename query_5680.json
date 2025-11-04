@@ -1,0 +1,10 @@
+{
+  "query": "Which actor portrayed Michael Corleone in “The Godfather” and “The Godfather Part II”?",
+  "response": [
+    "doc_4514.txt",
+    "doc_4512.txt",
+    "doc_4513.txt",
+    "doc_4515.txt",
+    "doc_4517.txt"
+  ]
+}

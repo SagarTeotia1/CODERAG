@@ -1,0 +1,10 @@
+{
+  "query": "Who originally performed the song “Luck Be a Lady”?",
+  "response": [
+    "doc_19640.txt",
+    "doc_19641.txt",
+    "doc_19647.txt",
+    "doc_36356.txt",
+    "doc_19636.txt"
+  ]
+}

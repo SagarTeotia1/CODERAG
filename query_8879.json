@@ -1,0 +1,10 @@
+{
+  "query": "What did Johnny Carson say about Johnny Mathis?",
+  "response": [
+    "doc_12536.txt",
+    "doc_27868.txt",
+    "doc_12527.txt",
+    "doc_12535.txt",
+    "doc_12534.txt"
+  ]
+}

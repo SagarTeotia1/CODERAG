@@ -1,0 +1,10 @@
+{
+  "query": "What year was Charles Lloyd’s first publication released?",
+  "response": [
+    "doc_13773.txt",
+    "doc_304.txt",
+    "doc_6967.txt",
+    "doc_1325.txt",
+    "doc_38268.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What happened to Burton's family?",
+  "response": [
+    "doc_23370.txt",
+    "doc_10807.txt",
+    "doc_32563.txt",
+    "doc_14871.txt",
+    "doc_20494.txt"
+  ]
+}

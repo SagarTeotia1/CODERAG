@@ -1,0 +1,10 @@
+{
+  "query": "Where is Eastern Hills Mall located, and what geographical feature does its name reference?",
+  "response": [
+    "doc_20745.txt",
+    "doc_5054.txt",
+    "doc_18843.txt",
+    "doc_20746.txt",
+    "doc_20748.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the marine science centre located near Dunbeg?",
+  "response": [
+    "doc_36304.txt",
+    "doc_7720.txt",
+    "doc_17069.txt",
+    "doc_31731.txt",
+    "doc_12737.txt"
+  ]
+}

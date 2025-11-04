@@ -1,0 +1,10 @@
+{
+  "query": "What musical style is described as being “Hungarian Gypsy Style in the Lisztian Spirit” within the text?",
+  "response": [
+    "doc_35403.txt",
+    "doc_12979.txt",
+    "doc_35402.txt",
+    "doc_12977.txt",
+    "doc_36647.txt"
+  ]
+}

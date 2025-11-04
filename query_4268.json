@@ -1,0 +1,10 @@
+{
+  "query": "What was the title of the widely read 1977 novel by Marilyn French?",
+  "response": [
+    "doc_37577.txt",
+    "doc_13771.txt",
+    "doc_182.txt",
+    "doc_12952.txt",
+    "doc_37326.txt"
+  ]
+}

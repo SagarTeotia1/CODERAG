@@ -1,0 +1,10 @@
+{
+  "query": "Who created the Raggedy Ann and Raggedy Andy dolls?",
+  "response": [
+    "doc_11894.txt",
+    "doc_11899.txt",
+    "doc_11896.txt",
+    "doc_11895.txt",
+    "doc_11898.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What sentence length was the individual convicted of sex tourism in Italy given?",
+  "response": [
+    "doc_17249.txt",
+    "doc_32327.txt",
+    "doc_33291.txt",
+    "doc_32279.txt",
+    "doc_36502.txt"
+  ]
+}

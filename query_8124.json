@@ -1,0 +1,10 @@
+{
+  "query": "What types of characters are frequently found in Dr. Seuss’s books?",
+  "response": [
+    "doc_32855.txt",
+    "doc_10715.txt",
+    "doc_32854.txt",
+    "doc_10713.txt",
+    "doc_32847.txt"
+  ]
+}

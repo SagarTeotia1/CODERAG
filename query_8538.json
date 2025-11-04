@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Andrew Jackson pay off the national debt?",
+  "response": [
+    "doc_11689.txt",
+    "doc_11687.txt",
+    "doc_11695.txt",
+    "doc_11688.txt",
+    "doc_11693.txt"
+  ]
+}

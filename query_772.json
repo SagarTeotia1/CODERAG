@@ -1,0 +1,10 @@
+{
+  "query": "What type of vehicle did the Florida Highway Patrol (FHP) currently purchase?",
+  "response": [
+    "doc_29020.txt",
+    "doc_29018.txt",
+    "doc_29017.txt",
+    "doc_29026.txt",
+    "doc_29024.txt"
+  ]
+}

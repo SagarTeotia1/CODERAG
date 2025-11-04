@@ -1,0 +1,10 @@
+{
+  "query": "What author is known for writing the story of Wilbur the pig?",
+  "response": [
+    "doc_18128.txt",
+    "doc_18124.txt",
+    "doc_18127.txt",
+    "doc_18118.txt",
+    "doc_18121.txt"
+  ]
+}

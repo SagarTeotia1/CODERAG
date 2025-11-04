@@ -1,0 +1,10 @@
+{
+  "query": "According to Hugo Gernsback, what percentage of a science fiction story should be literature versus science?",
+  "response": [
+    "doc_11558.txt",
+    "doc_11559.txt",
+    "doc_11561.txt",
+    "doc_11562.txt",
+    "doc_11565.txt"
+  ]
+}

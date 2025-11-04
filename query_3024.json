@@ -1,0 +1,10 @@
+{
+  "query": "What country is the main source of problematic products imported into the European Union?",
+  "response": [
+    "doc_23322.txt",
+    "doc_34713.txt",
+    "doc_5384.txt",
+    "doc_4326.txt",
+    "doc_26003.txt"
+  ]
+}

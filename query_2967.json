@@ -1,0 +1,10 @@
+{
+  "query": "What specific types of documents does the European Parliament publish on its website that the Bulgarian National Assembly does not?",
+  "response": [
+    "doc_34565.txt",
+    "doc_2695.txt",
+    "doc_2586.txt",
+    "doc_28196.txt",
+    "doc_29399.txt"
+  ]
+}

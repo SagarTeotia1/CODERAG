@@ -1,0 +1,10 @@
+{
+  "query": "What is the approximate location of the Seabrook Nuclear Power Plant, and how many megawatts of electrical output does Unit 1 provide?",
+  "response": [
+    "doc_8151.txt",
+    "doc_32306.txt",
+    "doc_19330.txt",
+    "doc_39971.txt",
+    "doc_39968.txt"
+  ]
+}

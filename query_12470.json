@@ -1,0 +1,10 @@
+{
+  "query": "When did George Bernard Shaw begin writing art and music criticism?",
+  "response": [
+    "doc_21389.txt",
+    "doc_21385.txt",
+    "doc_21388.txt",
+    "doc_21387.txt",
+    "doc_21386.txt"
+  ]
+}

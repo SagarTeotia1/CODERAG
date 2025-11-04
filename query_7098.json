@@ -1,0 +1,9 @@
+{
+  "query": "How many individual meteorite specimens are housed in the world’s largest university-based meteorite collection at ASU?",
+  "response": [
+    "doc_8157.txt",
+    "doc_8159.txt",
+    "doc_8160.txt",
+    "doc_8158.txt"
+  ]
+}

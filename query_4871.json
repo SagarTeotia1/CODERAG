@@ -1,0 +1,10 @@
+{
+  "query": "What types of sanctions has the European Union imposed in response to human rights violations?",
+  "response": [
+    "doc_39077.txt",
+    "doc_30382.txt",
+    "doc_30144.txt",
+    "doc_10903.txt",
+    "doc_11940.txt"
+  ]
+}

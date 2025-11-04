@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Holden Ltd become known as GM Holden Ltd?",
+  "response": [
+    "doc_9145.txt",
+    "doc_33487.txt",
+    "doc_33492.txt",
+    "doc_33490.txt",
+    "doc_33491.txt"
+  ]
+}

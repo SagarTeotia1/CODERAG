@@ -1,0 +1,10 @@
+{
+  "query": "What year was \"Bob Boyer, Imago for a dying buffalo and lost treaties\" created?",
+  "response": [
+    "doc_30244.txt",
+    "doc_28090.txt",
+    "doc_21145.txt",
+    "doc_17764.txt",
+    "doc_32525.txt"
+  ]
+}

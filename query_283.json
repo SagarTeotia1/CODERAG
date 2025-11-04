@@ -1,0 +1,10 @@
+{
+  "query": "How much electricity does Seneca Meadows produce today, and approximately how many homes does it power?",
+  "response": [
+    "doc_36395.txt",
+    "doc_35635.txt",
+    "doc_38450.txt",
+    "doc_35632.txt",
+    "doc_34494.txt"
+  ]
+}

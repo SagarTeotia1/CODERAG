@@ -1,0 +1,10 @@
+{
+  "query": "Which music festivals has Hunter Siegel appeared in since 2015?",
+  "response": [
+    "doc_38575.txt",
+    "doc_18451.txt",
+    "doc_18454.txt",
+    "doc_18452.txt",
+    "doc_17126.txt"
+  ]
+}

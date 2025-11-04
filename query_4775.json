@@ -1,0 +1,10 @@
+{
+  "query": "What is the European Parliament’s stance regarding Taiwan’s participation in international health organizations?",
+  "response": [
+    "doc_38821.txt",
+    "doc_34892.txt",
+    "doc_34642.txt",
+    "doc_16913.txt",
+    "doc_19286.txt"
+  ]
+}

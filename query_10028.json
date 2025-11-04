@@ -1,0 +1,10 @@
+{
+  "query": "What is the purpose of the hearing regarding the Great Lakes region?",
+  "response": [
+    "doc_20785.txt",
+    "doc_13675.txt",
+    "doc_7372.txt",
+    "doc_28311.txt",
+    "doc_9896.txt"
+  ]
+}

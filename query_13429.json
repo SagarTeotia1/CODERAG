@@ -1,0 +1,10 @@
+{
+  "query": "Who was the cover athlete for the “NCAA Football 06” video game?",
+  "response": [
+    "doc_5826.txt",
+    "doc_5827.txt",
+    "doc_30025.txt",
+    "doc_5204.txt",
+    "doc_10516.txt"
+  ]
+}

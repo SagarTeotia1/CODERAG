@@ -1,0 +1,10 @@
+{
+  "query": "When did the European Commission propose a directive on reduced VAT rates?",
+  "response": [
+    "doc_23750.txt",
+    "doc_4149.txt",
+    "doc_25092.txt",
+    "doc_5258.txt",
+    "doc_35605.txt"
+  ]
+}

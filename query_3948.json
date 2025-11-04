@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission’s position concerning intervention in the matter?",
+  "response": [
+    "doc_36834.txt",
+    "doc_37770.txt",
+    "doc_13789.txt",
+    "doc_11815.txt",
+    "doc_30409.txt"
+  ]
+}

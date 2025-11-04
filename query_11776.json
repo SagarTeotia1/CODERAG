@@ -1,0 +1,10 @@
+{
+  "query": "Which groups submitted motions regarding the EU-US Summit and Transatlantic Economic Council?",
+  "response": [
+    "doc_19656.txt",
+    "doc_12675.txt",
+    "doc_2728.txt",
+    "doc_16923.txt",
+    "doc_27711.txt"
+  ]
+}

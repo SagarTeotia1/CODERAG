@@ -1,0 +1,10 @@
+{
+  "query": "What television network provided coverage of the 2009 Florida vs. Oklahoma national championship game?",
+  "response": [
+    "doc_4051.txt",
+    "doc_4052.txt",
+    "doc_32258.txt",
+    "doc_19109.txt",
+    "doc_7392.txt"
+  ]
+}

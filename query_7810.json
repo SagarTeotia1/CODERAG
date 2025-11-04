@@ -1,0 +1,10 @@
+{
+  "query": "To what elevation does the Palm Springs Aerial Tramway transport passengers?",
+  "response": [
+    "doc_9859.txt",
+    "doc_9852.txt",
+    "doc_9851.txt",
+    "doc_9855.txt",
+    "doc_9860.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What band did Robin Simon initially play guitar in around Halifax?",
+  "response": [
+    "doc_12575.txt",
+    "doc_37167.txt",
+    "doc_39039.txt",
+    "doc_39035.txt",
+    "doc_4205.txt"
+  ]
+}

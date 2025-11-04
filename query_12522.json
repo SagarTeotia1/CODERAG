@@ -1,0 +1,10 @@
+{
+  "query": "Which European programs have European coal mining businesses participated in for research and development support?",
+  "response": [
+    "doc_21509.txt",
+    "doc_21508.txt",
+    "doc_4449.txt",
+    "doc_14344.txt",
+    "doc_2422.txt"
+  ]
+}

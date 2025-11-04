@@ -1,0 +1,10 @@
+{
+  "query": "When was the report on Human Rights in China in the run-up to the Olympic Games 2008 created?",
+  "response": [
+    "doc_32812.txt",
+    "doc_27849.txt",
+    "doc_38227.txt",
+    "doc_30880.txt",
+    "doc_37043.txt"
+  ]
+}

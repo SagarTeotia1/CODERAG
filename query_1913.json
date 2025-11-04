@@ -1,0 +1,10 @@
+{
+  "query": "What is Lookout Mountain Park known for, and where is it located?",
+  "response": [
+    "doc_14328.txt",
+    "doc_20462.txt",
+    "doc_24802.txt",
+    "doc_30909.txt",
+    "doc_32815.txt"
+  ]
+}

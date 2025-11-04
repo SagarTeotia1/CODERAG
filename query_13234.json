@@ -1,0 +1,10 @@
+{
+  "query": "Which European countries have joined the ‘European Alliance for the Family’ initiated by Italy?",
+  "response": [
+    "doc_19046.txt",
+    "doc_23185.txt",
+    "doc_11025.txt",
+    "doc_17971.txt",
+    "doc_22001.txt"
+  ]
+}

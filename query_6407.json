@@ -1,0 +1,10 @@
+{
+  "query": "According to the text, what term regarding the Watergate break-in did Ron Ziegler describe it as?",
+  "response": [
+    "doc_6350.txt",
+    "doc_6354.txt",
+    "doc_6349.txt",
+    "doc_6352.txt",
+    "doc_6351.txt"
+  ]
+}

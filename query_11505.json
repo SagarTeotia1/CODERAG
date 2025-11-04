@@ -1,0 +1,10 @@
+{
+  "query": "What is the amount of damages the Odyssey treasure-hunting company is demanding?",
+  "response": [
+    "doc_28012.txt",
+    "doc_4532.txt",
+    "doc_38683.txt",
+    "doc_4531.txt",
+    "doc_28015.txt"
+  ]
+}

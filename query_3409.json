@@ -1,0 +1,10 @@
+{
+  "query": "In what film did Panchito Pistoles first appear?",
+  "response": [
+    "doc_35526.txt",
+    "doc_3379.txt",
+    "doc_34075.txt",
+    "doc_34073.txt",
+    "doc_3387.txt"
+  ]
+}

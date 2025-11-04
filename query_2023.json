@@ -1,0 +1,10 @@
+{
+  "query": "What does the term “Cardiovascular” mean, according to the Texas Heart Institute?",
+  "response": [
+    "doc_32265.txt",
+    "doc_32263.txt",
+    "doc_32264.txt",
+    "doc_24982.txt",
+    "doc_24980.txt"
+  ]
+}

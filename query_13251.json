@@ -1,0 +1,10 @@
+{
+  "query": "In what cities are the design offices of Tailgate Clothing Company located?",
+  "response": [
+    "doc_20243.txt",
+    "doc_32684.txt",
+    "doc_20245.txt",
+    "doc_39313.txt",
+    "doc_31105.txt"
+  ]
+}

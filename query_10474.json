@@ -1,0 +1,10 @@
+{
+  "query": "What illness did Ethel Ann’s husband suffer from before his death?",
+  "response": [
+    "doc_16427.txt",
+    "doc_14874.txt",
+    "doc_18799.txt",
+    "doc_30464.txt",
+    "doc_231.txt"
+  ]
+}

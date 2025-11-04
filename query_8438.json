@@ -1,0 +1,10 @@
+{
+  "query": "What was the title of the Duran Duran song featured in the music video?",
+  "response": [
+    "doc_8140.txt",
+    "doc_37140.txt",
+    "doc_25922.txt",
+    "doc_37148.txt",
+    "doc_8145.txt"
+  ]
+}

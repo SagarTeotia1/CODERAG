@@ -1,0 +1,10 @@
+{
+  "query": "What were the GDP declines in Ukraine between 1996 and 1999?",
+  "response": [
+    "doc_38261.txt",
+    "doc_39232.txt",
+    "doc_24477.txt",
+    "doc_16839.txt",
+    "doc_38262.txt"
+  ]
+}

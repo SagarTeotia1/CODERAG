@@ -1,0 +1,10 @@
+{
+  "query": "Which Beatles song is featured on Barry Manilow’s “The Greatest Songs of the Sixties” album?",
+  "response": [
+    "doc_18361.txt",
+    "doc_2370.txt",
+    "doc_2371.txt",
+    "doc_2372.txt",
+    "doc_2369.txt"
+  ]
+}

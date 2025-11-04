@@ -1,0 +1,10 @@
+{
+  "query": "What specific action did the European Parliament call for regarding food from cloned animals?",
+  "response": [
+    "doc_39459.txt",
+    "doc_24839.txt",
+    "doc_30619.txt",
+    "doc_17400.txt",
+    "doc_9875.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What did Betty Ford do to raise awareness about breast cancer?",
+  "response": [
+    "doc_13539.txt",
+    "doc_13541.txt",
+    "doc_13543.txt",
+    "doc_18205.txt",
+    "doc_13547.txt"
+  ]
+}

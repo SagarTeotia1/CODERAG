@@ -1,0 +1,10 @@
+{
+  "query": "What is happening inside the Shinkansen at the end of each trip?",
+  "response": [
+    "doc_20648.txt",
+    "doc_33927.txt",
+    "doc_39875.txt",
+    "doc_15898.txt",
+    "doc_20649.txt"
+  ]
+}

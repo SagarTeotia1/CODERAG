@@ -1,0 +1,10 @@
+{
+  "query": "What was the earliest genre of fiction Barbara Cartland wrote before her more famous romance novels?",
+  "response": [
+    "doc_12612.txt",
+    "doc_12614.txt",
+    "doc_12606.txt",
+    "doc_12607.txt",
+    "doc_12610.txt"
+  ]
+}

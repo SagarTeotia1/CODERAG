@@ -1,0 +1,10 @@
+{
+  "query": "Which film featured Sproles?",
+  "response": [
+    "doc_24723.txt",
+    "doc_17666.txt",
+    "doc_23022.txt",
+    "doc_17668.txt",
+    "doc_7003.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which university does Michael Green currently work at, and what is his role there?",
+  "response": [
+    "doc_4925.txt",
+    "doc_23078.txt",
+    "doc_39311.txt",
+    "doc_39312.txt",
+    "doc_23978.txt"
+  ]
+}

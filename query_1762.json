@@ -1,0 +1,10 @@
+{
+  "query": "When was Robert Frost’s “Mountain Interval” published?",
+  "response": [
+    "doc_31561.txt",
+    "doc_31559.txt",
+    "doc_31560.txt",
+    "doc_31562.txt",
+    "doc_25135.txt"
+  ]
+}

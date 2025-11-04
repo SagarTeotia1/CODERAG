@@ -1,0 +1,10 @@
+{
+  "query": "What transportation link did Hesketh-Fleetwood financially support?",
+  "response": [
+    "doc_17712.txt",
+    "doc_39874.txt",
+    "doc_27599.txt",
+    "doc_9752.txt",
+    "doc_31120.txt"
+  ]
+}

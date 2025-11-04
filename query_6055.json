@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of municipal waste in Greece was landfilled in 2009, and how does this compare to the EU average?",
+  "response": [
+    "doc_5494.txt",
+    "doc_12633.txt",
+    "doc_855.txt",
+    "doc_28274.txt",
+    "doc_13646.txt"
+  ]
+}

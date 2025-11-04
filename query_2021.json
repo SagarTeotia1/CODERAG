@@ -1,0 +1,10 @@
+{
+  "query": "What record did Adrian Peterson achieve during his season?",
+  "response": [
+    "doc_32259.txt",
+    "doc_26188.txt",
+    "doc_32927.txt",
+    "doc_32258.txt",
+    "doc_32434.txt"
+  ]
+}

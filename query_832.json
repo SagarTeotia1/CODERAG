@@ -1,0 +1,10 @@
+{
+  "query": "Which players lost in the quarterfinals of the 1985 Wimbledon Championships – Mixed Doubles?",
+  "response": [
+    "doc_1466.txt",
+    "doc_30896.txt",
+    "doc_30899.txt",
+    "doc_1463.txt",
+    "doc_30901.txt"
+  ]
+}

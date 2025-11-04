@@ -1,0 +1,10 @@
+{
+  "query": "On what date did the film “The Song Remains the Same” premiere?",
+  "response": [
+    "doc_1536.txt",
+    "doc_1540.txt",
+    "doc_1541.txt",
+    "doc_1532.txt",
+    "doc_1542.txt"
+  ]
+}

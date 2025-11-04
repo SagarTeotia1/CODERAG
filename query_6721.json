@@ -1,0 +1,10 @@
+{
+  "query": "What is the origin of the Spanish Water Dog?",
+  "response": [
+    "doc_25426.txt",
+    "doc_25425.txt",
+    "doc_25424.txt",
+    "doc_25419.txt",
+    "doc_25420.txt"
+  ]
+}

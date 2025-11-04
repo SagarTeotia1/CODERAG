@@ -1,0 +1,10 @@
+{
+  "query": "Who sculpted the World Cup Sculpture, and where is it located?",
+  "response": [
+    "doc_33030.txt",
+    "doc_33034.txt",
+    "doc_33031.txt",
+    "doc_38835.txt",
+    "doc_22225.txt"
+  ]
+}

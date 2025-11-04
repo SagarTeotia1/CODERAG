@@ -1,0 +1,10 @@
+{
+  "query": "When did Bob Hope begin his overseas tours to entertain U.S. troops?",
+  "response": [
+    "doc_31203.txt",
+    "doc_31201.txt",
+    "doc_31206.txt",
+    "doc_31205.txt",
+    "doc_31209.txt"
+  ]
+}

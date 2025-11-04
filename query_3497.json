@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of South Africa’s land area does Gauteng province represent, making it the smallest province?",
+  "response": [
+    "doc_35720.txt",
+    "doc_35719.txt",
+    "doc_35718.txt",
+    "doc_21840.txt",
+    "doc_33784.txt"
+  ]
+}

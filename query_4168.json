@@ -1,0 +1,10 @@
+{
+  "query": "Which album was produced by Blag Dahlia?",
+  "response": [
+    "doc_15909.txt",
+    "doc_15910.txt",
+    "doc_15906.txt",
+    "doc_15902.txt",
+    "doc_12874.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "How many legislative reports were included in the Post 2013 legislative package?",
+  "response": [
+    "doc_29299.txt",
+    "doc_27358.txt",
+    "doc_2705.txt",
+    "doc_2706.txt",
+    "doc_27366.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What year was the Martin Frobisher rose released?",
+  "response": [
+    "doc_25952.txt",
+    "doc_13489.txt",
+    "doc_13488.txt",
+    "doc_26308.txt",
+    "doc_25953.txt"
+  ]
+}

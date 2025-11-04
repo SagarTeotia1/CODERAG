@@ -1,0 +1,10 @@
+{
+  "query": "What age requirement is necessary to receive concessionary tickets for monuments in the UK?",
+  "response": [
+    "doc_29571.txt",
+    "doc_13457.txt",
+    "doc_10384.txt",
+    "doc_13452.txt",
+    "doc_12841.txt"
+  ]
+}

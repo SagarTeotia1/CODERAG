@@ -1,0 +1,10 @@
+{
+  "query": "When did Poland previously purchase aircraft from the United States?",
+  "response": [
+    "doc_28976.txt",
+    "doc_10013.txt",
+    "doc_20292.txt",
+    "doc_5910.txt",
+    "doc_10017.txt"
+  ]
+}

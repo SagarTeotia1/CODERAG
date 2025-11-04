@@ -1,0 +1,10 @@
+{
+  "query": "What committee was proposed to handle the disputes surrounding the election of Marie-Line Reynaud and Pierre Moscovici?",
+  "response": [
+    "doc_29345.txt",
+    "doc_2601.txt",
+    "doc_25832.txt",
+    "doc_2644.txt",
+    "doc_2703.txt"
+  ]
+}

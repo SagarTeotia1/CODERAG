@@ -1,0 +1,10 @@
+{
+  "query": "In what county is Florida International University located?",
+  "response": [
+    "doc_30585.txt",
+    "doc_9371.txt",
+    "doc_35777.txt",
+    "doc_22098.txt",
+    "doc_9372.txt"
+  ]
+}

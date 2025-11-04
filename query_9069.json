@@ -1,0 +1,10 @@
+{
+  "query": "Who was the principal of Charleston High School as of the 2007-08 school year?",
+  "response": [
+    "doc_5718.txt",
+    "doc_5716.txt",
+    "doc_27303.txt",
+    "doc_8756.txt",
+    "doc_16552.txt"
+  ]
+}

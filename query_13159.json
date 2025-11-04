@@ -1,0 +1,10 @@
+{
+  "query": "Which organizations, besides the European Parliament, support Côte d'Ivoire’s democratically-elected President Alassane Ouattara?",
+  "response": [
+    "doc_16087.txt",
+    "doc_18411.txt",
+    "doc_21179.txt",
+    "doc_18410.txt",
+    "doc_36755.txt"
+  ]
+}

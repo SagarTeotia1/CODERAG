@@ -1,0 +1,10 @@
+{
+  "query": "In what year was Berry College founded?",
+  "response": [
+    "doc_38613.txt",
+    "doc_38610.txt",
+    "doc_1331.txt",
+    "doc_35751.txt",
+    "doc_19592.txt"
+  ]
+}

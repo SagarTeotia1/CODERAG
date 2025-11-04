@@ -1,0 +1,10 @@
+{
+  "query": "Where are the headquarters of South African Airways located?",
+  "response": [
+    "doc_17186.txt",
+    "doc_17185.txt",
+    "doc_4714.txt",
+    "doc_21838.txt",
+    "doc_4711.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, by what percentage did healthcare spending in North Carolina rise between 1973 and the period covered?",
+  "response": [
+    "doc_16231.txt",
+    "doc_16232.txt",
+    "doc_16229.txt",
+    "doc_16228.txt",
+    "doc_17238.txt"
+  ]
+}

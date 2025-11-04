@@ -1,0 +1,10 @@
+{
+  "query": "What was the name of the dog who won Best in Show in 2006?",
+  "response": [
+    "doc_35797.txt",
+    "doc_35794.txt",
+    "doc_35796.txt",
+    "doc_35793.txt",
+    "doc_35791.txt"
+  ]
+}

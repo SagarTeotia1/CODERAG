@@ -1,0 +1,10 @@
+{
+  "query": "What is the approximate weight of Buck, the main character?",
+  "response": [
+    "doc_16455.txt",
+    "doc_16456.txt",
+    "doc_16453.txt",
+    "doc_16454.txt",
+    "doc_16458.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to the text, what is one characteristic that makes Marc Maron's podcast accessible?",
+  "response": [
+    "doc_32343.txt",
+    "doc_15341.txt",
+    "doc_7272.txt",
+    "doc_23317.txt",
+    "doc_27870.txt"
+  ]
+}

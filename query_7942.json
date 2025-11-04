@@ -1,0 +1,10 @@
+{
+  "query": "What editions of books are listed as acquisitions for Princeton University Library?",
+  "response": [
+    "doc_1559.txt",
+    "doc_300.txt",
+    "doc_12420.txt",
+    "doc_17768.txt",
+    "doc_30273.txt"
+  ]
+}

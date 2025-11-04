@@ -1,0 +1,10 @@
+{
+  "query": "In what year was Scarlett Johansson’s debut album, *Anywhere I Lay My Head*, released?",
+  "response": [
+    "doc_8042.txt",
+    "doc_36875.txt",
+    "doc_8041.txt",
+    "doc_172.txt",
+    "doc_38900.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which game was developed by Game Republic and based on “The Settlers of Catan”?",
+  "response": [
+    "doc_31334.txt",
+    "doc_31335.txt",
+    "doc_30655.txt",
+    "doc_11463.txt",
+    "doc_11464.txt"
+  ]
+}

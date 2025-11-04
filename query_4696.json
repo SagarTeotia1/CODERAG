@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission’s stance regarding the IIGEP’s recent statements?",
+  "response": [
+    "doc_38669.txt",
+    "doc_16774.txt",
+    "doc_22798.txt",
+    "doc_21544.txt",
+    "doc_35243.txt"
+  ]
+}

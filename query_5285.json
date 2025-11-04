@@ -1,0 +1,10 @@
+{
+  "query": "What historical event significantly influenced the context in which T.S. Eliot wrote “The Hollow Men”?",
+  "response": [
+    "doc_39980.txt",
+    "doc_39984.txt",
+    "doc_39982.txt",
+    "doc_39989.txt",
+    "doc_39983.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What phrase did William Safire coin?",
+  "response": [
+    "doc_39807.txt",
+    "doc_39808.txt",
+    "doc_22490.txt",
+    "doc_14013.txt",
+    "doc_36190.txt"
+  ]
+}

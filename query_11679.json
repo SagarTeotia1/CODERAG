@@ -1,0 +1,10 @@
+{
+  "query": "How many novels are part of Lemony Snicket’s “A Series of Unfortunate Events” franchise?",
+  "response": [
+    "doc_19363.txt",
+    "doc_19365.txt",
+    "doc_32853.txt",
+    "doc_19364.txt",
+    "doc_32854.txt"
+  ]
+}

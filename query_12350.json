@@ -1,0 +1,10 @@
+{
+  "query": "How much funding did the EU invest in arthritis research as part of the 6th Framework Programme (FP6)?",
+  "response": [
+    "doc_20994.txt",
+    "doc_10761.txt",
+    "doc_21686.txt",
+    "doc_12522.txt",
+    "doc_595.txt"
+  ]
+}

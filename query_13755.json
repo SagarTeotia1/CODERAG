@@ -1,0 +1,10 @@
+{
+  "query": "What album did the song “All the Love in the World” by The Corrs originate from?",
+  "response": [
+    "doc_15906.txt",
+    "doc_15907.txt",
+    "doc_39565.txt",
+    "doc_20516.txt",
+    "doc_39568.txt"
+  ]
+}

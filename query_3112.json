@@ -1,0 +1,10 @@
+{
+  "query": "What is Owen described as being difficult to read?",
+  "response": [
+    "doc_31734.txt",
+    "doc_31736.txt",
+    "doc_36631.txt",
+    "doc_31738.txt",
+    "doc_27223.txt"
+  ]
+}

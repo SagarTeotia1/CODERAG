@@ -1,0 +1,10 @@
+{
+  "query": "Which artists collaborated with Joan Osborne on the album “Natural Act”?",
+  "response": [
+    "doc_20810.txt",
+    "doc_20811.txt",
+    "doc_15907.txt",
+    "doc_15904.txt",
+    "doc_13765.txt"
+  ]
+}

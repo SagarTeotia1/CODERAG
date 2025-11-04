@@ -1,0 +1,10 @@
+{
+  "query": "What were the specific directives cited that France was found to be in violation of?",
+  "response": [
+    "doc_1849.txt",
+    "doc_26446.txt",
+    "doc_17123.txt",
+    "doc_1097.txt",
+    "doc_26863.txt"
+  ]
+}

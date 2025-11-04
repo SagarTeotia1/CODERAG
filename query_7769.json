@@ -1,0 +1,10 @@
+{
+  "query": "What degree does Dan Lieb hold?",
+  "response": [
+    "doc_25788.txt",
+    "doc_38158.txt",
+    "doc_39407.txt",
+    "doc_38164.txt",
+    "doc_38165.txt"
+  ]
+}

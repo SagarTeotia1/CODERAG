@@ -1,0 +1,9 @@
+{
+  "query": "In what country does the Atbara River originate?",
+  "response": [
+    "doc_14788.txt",
+    "doc_14786.txt",
+    "doc_14787.txt",
+    "doc_14785.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What types of performances are featured in the University of Colorado Boulder summary view?",
+  "response": [
+    "doc_16332.txt",
+    "doc_30504.txt",
+    "doc_18456.txt",
+    "doc_1605.txt",
+    "doc_214.txt"
+  ]
+}

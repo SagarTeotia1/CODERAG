@@ -1,0 +1,10 @@
+{
+  "query": "What legal action was filed against the DTP party in November 2007?",
+  "response": [
+    "doc_20762.txt",
+    "doc_3956.txt",
+    "doc_34857.txt",
+    "doc_35879.txt",
+    "doc_4495.txt"
+  ]
+}

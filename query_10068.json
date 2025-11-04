@@ -1,0 +1,10 @@
+{
+  "query": "What have Amnesty International and other humanitarian organizations reported regarding the disappearance of children in Haiti?",
+  "response": [
+    "doc_15330.txt",
+    "doc_18686.txt",
+    "doc_28766.txt",
+    "doc_8309.txt",
+    "doc_34726.txt"
+  ]
+}

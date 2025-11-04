@@ -1,0 +1,10 @@
+{
+  "query": "What nationality was Claudio Arrau?",
+  "response": [
+    "doc_19272.txt",
+    "doc_19270.txt",
+    "doc_19271.txt",
+    "doc_21600.txt",
+    "doc_19276.txt"
+  ]
+}

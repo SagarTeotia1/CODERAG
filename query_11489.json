@@ -1,0 +1,10 @@
+{
+  "query": "What division did the 2014 Penn State Nittany Lions football team play in?",
+  "response": [
+    "doc_38293.txt",
+    "doc_7393.txt",
+    "doc_38743.txt",
+    "doc_19110.txt",
+    "doc_38294.txt"
+  ]
+}

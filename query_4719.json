@@ -1,0 +1,10 @@
+{
+  "query": "How bad is the situation of Palestinians in Gaza and the West Bank?",
+  "response": [
+    "doc_32443.txt",
+    "doc_18847.txt",
+    "doc_2460.txt",
+    "doc_2461.txt",
+    "doc_2456.txt"
+  ]
+}

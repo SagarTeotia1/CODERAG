@@ -1,0 +1,10 @@
+{
+  "query": "What software or app is suggested for creating stories based on Dr. Seuss books like *Green Eggs and Ham*?",
+  "response": [
+    "doc_10719.txt",
+    "doc_10718.txt",
+    "doc_32858.txt",
+    "doc_32854.txt",
+    "doc_10717.txt"
+  ]
+}

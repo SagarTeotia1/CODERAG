@@ -1,0 +1,10 @@
+{
+  "query": "How many Council decisions in 2006 were based on a Commission proposal?",
+  "response": [
+    "doc_19868.txt",
+    "doc_28910.txt",
+    "doc_15485.txt",
+    "doc_3296.txt",
+    "doc_33248.txt"
+  ]
+}

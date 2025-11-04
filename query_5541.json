@@ -1,0 +1,10 @@
+{
+  "query": "On what date did the General Affairs and External Relations Council meet?",
+  "response": [
+    "doc_23697.txt",
+    "doc_28313.txt",
+    "doc_31702.txt",
+    "doc_16440.txt",
+    "doc_13110.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What kind of reception did “Small Talk at 125th and Lenox” receive from music critics?",
+  "response": [
+    "doc_37191.txt",
+    "doc_23953.txt",
+    "doc_31196.txt",
+    "doc_13156.txt",
+    "doc_26643.txt"
+  ]
+}

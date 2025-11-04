@@ -1,0 +1,10 @@
+{
+  "query": "Where did Paul come to after leaving Athens?",
+  "response": [
+    "doc_37347.txt",
+    "doc_37350.txt",
+    "doc_37348.txt",
+    "doc_37349.txt",
+    "doc_37353.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to US Department of Agriculture statistics, what proportion of US cereal production is used for biofuels?",
+  "response": [
+    "doc_22799.txt",
+    "doc_16892.txt",
+    "doc_32311.txt",
+    "doc_16888.txt",
+    "doc_31661.txt"
+  ]
+}

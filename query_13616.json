@@ -1,0 +1,10 @@
+{
+  "query": "When and where did PSY perform before the Lazio and Roma match?",
+  "response": [
+    "doc_26991.txt",
+    "doc_35020.txt",
+    "doc_35019.txt",
+    "doc_35022.txt",
+    "doc_10690.txt"
+  ]
+}

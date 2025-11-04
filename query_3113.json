@@ -1,0 +1,10 @@
+{
+  "query": "What series was the 2004 American League Championship Series a rematch of?",
+  "response": [
+    "doc_22161.txt",
+    "doc_22166.txt",
+    "doc_22162.txt",
+    "doc_324.txt",
+    "doc_4756.txt"
+  ]
+}

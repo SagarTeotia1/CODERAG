@@ -1,0 +1,10 @@
+{
+  "query": "What prison was located on the Hudson River near Sing Sing?",
+  "response": [
+    "doc_38777.txt",
+    "doc_38778.txt",
+    "doc_28529.txt",
+    "doc_12160.txt",
+    "doc_25523.txt"
+  ]
+}

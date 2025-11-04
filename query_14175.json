@@ -1,0 +1,10 @@
+{
+  "query": "What type of attraction is Doris Duke’s estate now?",
+  "response": [
+    "doc_25489.txt",
+    "doc_25486.txt",
+    "doc_25490.txt",
+    "doc_25485.txt",
+    "doc_25488.txt"
+  ]
+}

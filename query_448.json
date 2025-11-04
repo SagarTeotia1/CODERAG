@@ -1,0 +1,10 @@
+{
+  "query": "Which football club did Peter Everitt play for during the early 1990s?",
+  "response": [
+    "doc_2765.txt",
+    "doc_2766.txt",
+    "doc_31200.txt",
+    "doc_16759.txt",
+    "doc_18426.txt"
+  ]
+}

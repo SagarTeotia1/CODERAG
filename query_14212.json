@@ -1,0 +1,10 @@
+{
+  "query": "What was Wesley Burghardt’s batting average?",
+  "response": [
+    "doc_25627.txt",
+    "doc_18188.txt",
+    "doc_25626.txt",
+    "doc_18192.txt",
+    "doc_31473.txt"
+  ]
+}

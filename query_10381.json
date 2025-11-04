@@ -1,0 +1,10 @@
+{
+  "query": "Which Member State is responsible for 48% of the total outstanding amount in the EU, and how much has the Commission charged it under the 50/50 rule?",
+  "response": [
+    "doc_16194.txt",
+    "doc_16193.txt",
+    "doc_33135.txt",
+    "doc_5875.txt",
+    "doc_7312.txt"
+  ]
+}

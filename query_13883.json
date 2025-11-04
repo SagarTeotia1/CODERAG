@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how many cities, towns, and villages did the Lincoln Highway pass through?",
+  "response": [
+    "doc_24787.txt",
+    "doc_24788.txt",
+    "doc_24889.txt",
+    "doc_31124.txt",
+    "doc_38589.txt"
+  ]
+}

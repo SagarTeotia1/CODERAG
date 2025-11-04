@@ -1,0 +1,10 @@
+{
+  "query": "In what year were the Red Hot Chili Peppers inducted into the Rock and Roll Hall of Fame?",
+  "response": [
+    "doc_33932.txt",
+    "doc_36257.txt",
+    "doc_36258.txt",
+    "doc_33755.txt",
+    "doc_33757.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided links, what are some nuts commonly found in Southern Appalachian cuisine?",
+  "response": [
+    "doc_22034.txt",
+    "doc_22030.txt",
+    "doc_22033.txt",
+    "doc_22031.txt",
+    "doc_22029.txt"
+  ]
+}

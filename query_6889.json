@@ -1,0 +1,10 @@
+{
+  "query": "What was William T. Sewell known for building?",
+  "response": [
+    "doc_27591.txt",
+    "doc_27601.txt",
+    "doc_27595.txt",
+    "doc_27594.txt",
+    "doc_27597.txt"
+  ]
+}

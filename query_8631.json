@@ -1,0 +1,10 @@
+{
+  "query": "Which driver won the first race of the 2017 Montreal ePrix?",
+  "response": [
+    "doc_11974.txt",
+    "doc_14949.txt",
+    "doc_31014.txt",
+    "doc_30279.txt",
+    "doc_34159.txt"
+  ]
+}

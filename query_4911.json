@@ -1,0 +1,10 @@
+{
+  "query": "Which gulf does Prince Edward Island belong to?",
+  "response": [
+    "doc_39149.txt",
+    "doc_39147.txt",
+    "doc_39151.txt",
+    "doc_39150.txt",
+    "doc_39146.txt"
+  ]
+}

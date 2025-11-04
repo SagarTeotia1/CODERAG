@@ -1,0 +1,10 @@
+{
+  "query": "What was John Weaver known for creating?",
+  "response": [
+    "doc_37516.txt",
+    "doc_6839.txt",
+    "doc_6841.txt",
+    "doc_5602.txt",
+    "doc_5348.txt"
+  ]
+}

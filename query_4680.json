@@ -1,0 +1,10 @@
+{
+  "query": "What type of volcanic features make up Cerro Tipas?",
+  "response": [
+    "doc_25043.txt",
+    "doc_3511.txt",
+    "doc_3512.txt",
+    "doc_25044.txt",
+    "doc_25046.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When was the Cleveland Foundation established?",
+  "response": [
+    "doc_23138.txt",
+    "doc_23139.txt",
+    "doc_23140.txt",
+    "doc_23137.txt",
+    "doc_23142.txt"
+  ]
+}

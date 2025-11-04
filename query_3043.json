@@ -1,0 +1,10 @@
+{
+  "query": "Besides APM-affiliated stations, where else is the organ music program available?",
+  "response": [
+    "doc_36966.txt",
+    "doc_36973.txt",
+    "doc_36974.txt",
+    "doc_36970.txt",
+    "doc_36967.txt"
+  ]
+}

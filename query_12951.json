@@ -1,0 +1,10 @@
+{
+  "query": "How many clients did Garrett Madison guide to the summit of Mount Everest between 2006 and 2016?",
+  "response": [
+    "doc_22602.txt",
+    "doc_29887.txt",
+    "doc_29886.txt",
+    "doc_29891.txt",
+    "doc_29888.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "How much was allocated to occupied Palestinian territory for 2011?",
+  "response": [
+    "doc_32101.txt",
+    "doc_29711.txt",
+    "doc_36361.txt",
+    "doc_3562.txt",
+    "doc_15491.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year did the Freedom Rides occur?",
+  "response": [
+    "doc_32040.txt",
+    "doc_465.txt",
+    "doc_5151.txt",
+    "doc_32043.txt",
+    "doc_37296.txt"
+  ]
+}

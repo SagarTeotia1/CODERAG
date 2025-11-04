@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what is Eliezer’s belief about prayer?",
+  "response": [
+    "doc_3999.txt",
+    "doc_8090.txt",
+    "doc_3996.txt",
+    "doc_12632.txt",
+    "doc_3992.txt"
+  ]
+}

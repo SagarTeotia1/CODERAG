@@ -1,0 +1,10 @@
+{
+  "query": "How much does the Commission cumulatively spend annually on EU orchestras, including specific examples like the European Union Youth Orchestra and the European Union Baroque Orchestra?",
+  "response": [
+    "doc_38586.txt",
+    "doc_32075.txt",
+    "doc_12494.txt",
+    "doc_25727.txt",
+    "doc_15567.txt"
+  ]
+}

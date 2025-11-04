@@ -1,0 +1,10 @@
+{
+  "query": "What was Rudy Ruettiger’s dream?",
+  "response": [
+    "doc_23022.txt",
+    "doc_23019.txt",
+    "doc_23016.txt",
+    "doc_23013.txt",
+    "doc_23015.txt"
+  ]
+}

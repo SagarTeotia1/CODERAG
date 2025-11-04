@@ -1,0 +1,10 @@
+{
+  "query": "What religious festival is celebrated annually in the Serer calendar?",
+  "response": [
+    "doc_20699.txt",
+    "doc_1802.txt",
+    "doc_20694.txt",
+    "doc_1799.txt",
+    "doc_25504.txt"
+  ]
+}

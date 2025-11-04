@@ -1,0 +1,10 @@
+{
+  "query": "What is the normal surface area of Lake Okeechobee in Florida?",
+  "response": [
+    "doc_36779.txt",
+    "doc_36780.txt",
+    "doc_36835.txt",
+    "doc_1909.txt",
+    "doc_36781.txt"
+  ]
+}

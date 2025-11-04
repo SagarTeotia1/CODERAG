@@ -1,0 +1,10 @@
+{
+  "query": "When was DePaul University officially opened?",
+  "response": [
+    "doc_36434.txt",
+    "doc_36436.txt",
+    "doc_36437.txt",
+    "doc_36432.txt",
+    "doc_36435.txt"
+  ]
+}

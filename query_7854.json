@@ -1,0 +1,10 @@
+{
+  "query": "When was the Alhambra palace completed?",
+  "response": [
+    "doc_9937.txt",
+    "doc_9938.txt",
+    "doc_9940.txt",
+    "doc_9939.txt",
+    "doc_9934.txt"
+  ]
+}

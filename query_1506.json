@@ -1,0 +1,10 @@
+{
+  "query": "What universities are listed as part of the Alabama LSAMP Alliance?",
+  "response": [
+    "doc_30947.txt",
+    "doc_30945.txt",
+    "doc_30946.txt",
+    "doc_30948.txt",
+    "doc_30949.txt"
+  ]
+}

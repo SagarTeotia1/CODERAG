@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the .38-56 Winchester Center Fire cartridge introduced?",
+  "response": [
+    "doc_31094.txt",
+    "doc_31092.txt",
+    "doc_31093.txt",
+    "doc_36718.txt",
+    "doc_36716.txt"
+  ]
+}

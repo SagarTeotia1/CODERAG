@@ -1,0 +1,10 @@
+{
+  "query": "What type of action did the Commission take regarding the tax measure in Gibraltar?",
+  "response": [
+    "doc_39132.txt",
+    "doc_35985.txt",
+    "doc_39661.txt",
+    "doc_31873.txt",
+    "doc_31315.txt"
+  ]
+}

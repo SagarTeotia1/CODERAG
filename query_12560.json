@@ -1,0 +1,10 @@
+{
+  "query": "What event led to the city of Barcelona expanding beyond its historic limits?",
+  "response": [
+    "doc_21593.txt",
+    "doc_21595.txt",
+    "doc_21594.txt",
+    "doc_21597.txt",
+    "doc_21600.txt"
+  ]
+}

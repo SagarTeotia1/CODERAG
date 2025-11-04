@@ -1,0 +1,10 @@
+{
+  "query": "According to the article about Elizabeth Schuyler Hamilton, what event did she participate in as a young girl?",
+  "response": [
+    "doc_14872.txt",
+    "doc_14868.txt",
+    "doc_14870.txt",
+    "doc_11801.txt",
+    "doc_11802.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the subject of the INI report being discussed at the hearing?",
+  "response": [
+    "doc_1111.txt",
+    "doc_859.txt",
+    "doc_1112.txt",
+    "doc_29344.txt",
+    "doc_857.txt"
+  ]
+}

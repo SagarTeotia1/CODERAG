@@ -1,0 +1,10 @@
+{
+  "query": "Which NBA teams did Holton play for during his career?",
+  "response": [
+    "doc_7363.txt",
+    "doc_17981.txt",
+    "doc_17980.txt",
+    "doc_8518.txt",
+    "doc_7364.txt"
+  ]
+}

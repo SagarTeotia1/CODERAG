@@ -1,0 +1,10 @@
+{
+  "query": "What specific problem with airline IT systems did the UK authorities highlight?",
+  "response": [
+    "doc_3927.txt",
+    "doc_34104.txt",
+    "doc_32199.txt",
+    "doc_29892.txt",
+    "doc_3558.txt"
+  ]
+}

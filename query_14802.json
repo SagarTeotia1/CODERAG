@@ -1,0 +1,10 @@
+{
+  "query": "When was the new Roosevelt Bridge completed?",
+  "response": [
+    "doc_31122.txt",
+    "doc_31123.txt",
+    "doc_31117.txt",
+    "doc_31115.txt",
+    "doc_31116.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What type of event is being described in the document from the Florida Sentinel Bulletin?",
+  "response": [
+    "doc_35320.txt",
+    "doc_38758.txt",
+    "doc_38760.txt",
+    "doc_22098.txt",
+    "doc_15141.txt"
+  ]
+}

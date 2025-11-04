@@ -1,0 +1,10 @@
+{
+  "query": "What legal directives does the Commission cite as potentially relevant to the restructuring situation at General Motors?",
+  "response": [
+    "doc_25049.txt",
+    "doc_36501.txt",
+    "doc_25050.txt",
+    "doc_315.txt",
+    "doc_37911.txt"
+  ]
+}

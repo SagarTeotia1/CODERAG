@@ -1,0 +1,10 @@
+{
+  "query": "What temperature did Death Valley, California reach on July 10, 1913?",
+  "response": [
+    "doc_1618.txt",
+    "doc_1620.txt",
+    "doc_1615.txt",
+    "doc_1619.txt",
+    "doc_1617.txt"
+  ]
+}

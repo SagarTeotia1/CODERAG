@@ -1,0 +1,10 @@
+{
+  "query": "Does the European Commission collect statistics broken down by ethnic origin?",
+  "response": [
+    "doc_39737.txt",
+    "doc_7886.txt",
+    "doc_28967.txt",
+    "doc_20830.txt",
+    "doc_11591.txt"
+  ]
+}

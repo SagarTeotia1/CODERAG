@@ -1,0 +1,10 @@
+{
+  "query": "What was Buzz Aldrin’s mother’s maiden name?",
+  "response": [
+    "doc_14112.txt",
+    "doc_14113.txt",
+    "doc_14111.txt",
+    "doc_14117.txt",
+    "doc_14114.txt"
+  ]
+}

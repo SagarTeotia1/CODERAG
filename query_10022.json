@@ -1,0 +1,10 @@
+{
+  "query": "In what year was Randy Roth convicted of murdering Cynthia Baumgartner Roth?",
+  "response": [
+    "doc_1478.txt",
+    "doc_15393.txt",
+    "doc_15392.txt",
+    "doc_15389.txt",
+    "doc_15391.txt"
+  ]
+}

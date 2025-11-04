@@ -1,0 +1,10 @@
+{
+  "query": "Which studio produced the film featuring Dick Powell, Ann Dvorak and Fred Allen?",
+  "response": [
+    "doc_5217.txt",
+    "doc_14745.txt",
+    "doc_23686.txt",
+    "doc_18328.txt",
+    "doc_18323.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What architectural styles are represented in the Irving Park Historic District?",
+  "response": [
+    "doc_31678.txt",
+    "doc_11879.txt",
+    "doc_11880.txt",
+    "doc_31679.txt",
+    "doc_31680.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is Henrik Sedin’s primary role on the Vancouver Canucks?",
+  "response": [
+    "doc_7063.txt",
+    "doc_7064.txt",
+    "doc_20186.txt",
+    "doc_20187.txt",
+    "doc_5827.txt"
+  ]
+}

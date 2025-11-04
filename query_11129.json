@@ -1,0 +1,10 @@
+{
+  "query": "When did Turkey last appear at the finals?",
+  "response": [
+    "doc_8301.txt",
+    "doc_29618.txt",
+    "doc_17969.txt",
+    "doc_8300.txt",
+    "doc_8302.txt"
+  ]
+}

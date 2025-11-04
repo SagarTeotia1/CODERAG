@@ -1,0 +1,10 @@
+{
+  "query": "What is Blue, and what is his role with the Indianapolis Colts?",
+  "response": [
+    "doc_20247.txt",
+    "doc_20248.txt",
+    "doc_29205.txt",
+    "doc_33561.txt",
+    "doc_9443.txt"
+  ]
+}

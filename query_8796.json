@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how many barrels of oil did Spindletop produce in its first year?",
+  "response": [
+    "doc_12297.txt",
+    "doc_12295.txt",
+    "doc_12298.txt",
+    "doc_12300.txt",
+    "doc_12301.txt"
+  ]
+}

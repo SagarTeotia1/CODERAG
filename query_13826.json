@@ -1,0 +1,10 @@
+{
+  "query": "What role did Heinrich Himmler hold within the Nazi Party?",
+  "response": [
+    "doc_24317.txt",
+    "doc_24653.txt",
+    "doc_6129.txt",
+    "doc_24315.txt",
+    "doc_8205.txt"
+  ]
+}

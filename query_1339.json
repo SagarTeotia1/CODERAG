@@ -1,0 +1,10 @@
+{
+  "query": "Who changed the penultimate line of the journal “America”?",
+  "response": [
+    "doc_28762.txt",
+    "doc_1819.txt",
+    "doc_28757.txt",
+    "doc_28764.txt",
+    "doc_38671.txt"
+  ]
+}

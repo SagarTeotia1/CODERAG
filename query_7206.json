@@ -1,0 +1,10 @@
+{
+  "query": "What is the location of the All England Club, and what other events are held there besides tennis?",
+  "response": [
+    "doc_8357.txt",
+    "doc_8358.txt",
+    "doc_8359.txt",
+    "doc_8356.txt",
+    "doc_8355.txt"
+  ]
+}

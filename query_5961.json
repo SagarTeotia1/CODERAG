@@ -1,0 +1,10 @@
+{
+  "query": "What type of legislative procedure is being used for this amendment to the Schengen Information System?",
+  "response": [
+    "doc_5265.txt",
+    "doc_5267.txt",
+    "doc_5271.txt",
+    "doc_5269.txt",
+    "doc_5266.txt"
+  ]
+}

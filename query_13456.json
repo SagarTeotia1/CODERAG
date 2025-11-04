@@ -1,0 +1,10 @@
+{
+  "query": "Which committee was meeting with José Vieira da Silva, Minister for Labour and Social Solidarity, and what was the subject of their discussion?",
+  "response": [
+    "doc_29365.txt",
+    "doc_2658.txt",
+    "doc_30478.txt",
+    "doc_8731.txt",
+    "doc_20294.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which award did Tony Leung win at the 12th Hong Kong Film Awards?",
+  "response": [
+    "doc_16279.txt",
+    "doc_16280.txt",
+    "doc_11944.txt",
+    "doc_8353.txt",
+    "doc_11943.txt"
+  ]
+}

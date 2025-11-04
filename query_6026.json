@@ -1,0 +1,10 @@
+{
+  "query": "What was the Swedish Government’s intention regarding the regulation?",
+  "response": [
+    "doc_33900.txt",
+    "doc_11395.txt",
+    "doc_11567.txt",
+    "doc_35243.txt",
+    "doc_34870.txt"
+  ]
+}

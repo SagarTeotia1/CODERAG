@@ -1,0 +1,10 @@
+{
+  "query": "How is Mao Zedong’s image viewed in China?",
+  "response": [
+    "doc_37915.txt",
+    "doc_12315.txt",
+    "doc_37916.txt",
+    "doc_12317.txt",
+    "doc_37913.txt"
+  ]
+}

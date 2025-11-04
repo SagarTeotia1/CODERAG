@@ -1,0 +1,10 @@
+{
+  "query": "What were the findings of the High Level Expert Group on the dairy sector announced in?",
+  "response": [
+    "doc_31537.txt",
+    "doc_13953.txt",
+    "doc_25602.txt",
+    "doc_29915.txt",
+    "doc_3172.txt"
+  ]
+}

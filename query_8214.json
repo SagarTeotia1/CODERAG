@@ -1,0 +1,10 @@
+{
+  "query": "Which Italian football clubs did Klaus Bachlechner play for?",
+  "response": [
+    "doc_10943.txt",
+    "doc_6874.txt",
+    "doc_10944.txt",
+    "doc_29508.txt",
+    "doc_5453.txt"
+  ]
+}

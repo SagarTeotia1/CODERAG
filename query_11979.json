@@ -1,0 +1,10 @@
+{
+  "query": "When did Yoko Ono release “Between My Head and the Sky”?",
+  "response": [
+    "doc_20173.txt",
+    "doc_21877.txt",
+    "doc_21876.txt",
+    "doc_21872.txt",
+    "doc_21871.txt"
+  ]
+}

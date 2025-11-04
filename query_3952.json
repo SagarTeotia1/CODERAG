@@ -1,0 +1,10 @@
+{
+  "query": "When was the Abu Dhabi National Exhibition Centre opened?",
+  "response": [
+    "doc_24346.txt",
+    "doc_24345.txt",
+    "doc_24749.txt",
+    "doc_24754.txt",
+    "doc_24347.txt"
+  ]
+}

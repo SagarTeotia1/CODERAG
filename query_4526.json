@@ -1,0 +1,10 @@
+{
+  "query": "In what town did Hubert Humphrey grow up, where his father was a pharmacist and community leader?",
+  "response": [
+    "doc_38206.txt",
+    "doc_38205.txt",
+    "doc_38207.txt",
+    "doc_20435.txt",
+    "doc_38209.txt"
+  ]
+}

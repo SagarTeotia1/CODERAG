@@ -1,0 +1,10 @@
+{
+  "query": "Who was the leader of the new Italian Government?",
+  "response": [
+    "doc_32094.txt",
+    "doc_29564.txt",
+    "doc_32093.txt",
+    "doc_19290.txt",
+    "doc_19288.txt"
+  ]
+}

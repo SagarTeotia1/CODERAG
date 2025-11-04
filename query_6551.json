@@ -1,0 +1,10 @@
+{
+  "query": "Who directed the 1987 film *The Dead*?",
+  "response": [
+    "doc_6764.txt",
+    "doc_6767.txt",
+    "doc_6765.txt",
+    "doc_27854.txt",
+    "doc_6766.txt"
+  ]
+}

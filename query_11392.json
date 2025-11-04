@@ -1,0 +1,10 @@
+{
+  "query": "What type of vessel is the flagship of the Royal Bahrain Naval Force?",
+  "response": [
+    "doc_19222.txt",
+    "doc_20413.txt",
+    "doc_20412.txt",
+    "doc_20415.txt",
+    "doc_19226.txt"
+  ]
+}

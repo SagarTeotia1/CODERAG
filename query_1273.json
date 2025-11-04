@@ -1,0 +1,10 @@
+{
+  "query": "What was the appearance and performance of the Deer Valley workers described in the passage?",
+  "response": [
+    "doc_4186.txt",
+    "doc_31735.txt",
+    "doc_25384.txt",
+    "doc_33629.txt",
+    "doc_37657.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the concept album by Leaves’ Eyes that tells the story of Leif Erikson’s voyage?",
+  "response": [
+    "doc_38677.txt",
+    "doc_15739.txt",
+    "doc_21113.txt",
+    "doc_25983.txt",
+    "doc_38676.txt"
+  ]
+}

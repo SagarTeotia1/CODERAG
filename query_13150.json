@@ -1,0 +1,10 @@
+{
+  "query": "What is the stated potential benefit of introducing an EU-wide financial transactions tax according to the question?",
+  "response": [
+    "doc_23060.txt",
+    "doc_7150.txt",
+    "doc_25970.txt",
+    "doc_15443.txt",
+    "doc_15442.txt"
+  ]
+}

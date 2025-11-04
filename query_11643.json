@@ -1,0 +1,10 @@
+{
+  "query": "What is the Global Workspace Alliance’s headquarters?",
+  "response": [
+    "doc_37670.txt",
+    "doc_21664.txt",
+    "doc_7634.txt",
+    "doc_12392.txt",
+    "doc_12662.txt"
+  ]
+}

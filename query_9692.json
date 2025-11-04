@@ -1,0 +1,10 @@
+{
+  "query": "What is the primary purpose of the Budweiser Clydesdales?",
+  "response": [
+    "doc_38798.txt",
+    "doc_38799.txt",
+    "doc_14348.txt",
+    "doc_20205.txt",
+    "doc_38800.txt"
+  ]
+}

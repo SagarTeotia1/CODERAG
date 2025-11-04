@@ -1,0 +1,10 @@
+{
+  "query": "What type of bridge is the Pont de Normandie?",
+  "response": [
+    "doc_12786.txt",
+    "doc_12784.txt",
+    "doc_12785.txt",
+    "doc_12788.txt",
+    "doc_12787.txt"
+  ]
+}

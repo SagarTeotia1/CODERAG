@@ -1,0 +1,10 @@
+{
+  "query": "What was the basis for the European arrest warrant issued by Lithuanian prosecutors in this case?",
+  "response": [
+    "doc_1142.txt",
+    "doc_1141.txt",
+    "doc_23440.txt",
+    "doc_34204.txt",
+    "doc_32460.txt"
+  ]
+}

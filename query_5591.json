@@ -1,0 +1,10 @@
+{
+  "query": "Who is currently responsible for securing the country and protecting the population in Iraq, according to the passage?",
+  "response": [
+    "doc_4259.txt",
+    "doc_9872.txt",
+    "doc_12452.txt",
+    "doc_26993.txt",
+    "doc_12451.txt"
+  ]
+}

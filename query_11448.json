@@ -1,0 +1,10 @@
+{
+  "query": "Which artistic movement is associated with vivid color and overlapping figures, as exemplified by Peter Paul Rubens?",
+  "response": [
+    "doc_18722.txt",
+    "doc_18723.txt",
+    "doc_18731.txt",
+    "doc_18725.txt",
+    "doc_3062.txt"
+  ]
+}

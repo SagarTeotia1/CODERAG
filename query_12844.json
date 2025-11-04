@@ -1,0 +1,10 @@
+{
+  "query": "To which of the above categories does the Commission assign regions with a GDP per capita of 90.0 %?",
+  "response": [
+    "doc_2158.txt",
+    "doc_25742.txt",
+    "doc_26444.txt",
+    "doc_23122.txt",
+    "doc_33630.txt"
+  ]
+}

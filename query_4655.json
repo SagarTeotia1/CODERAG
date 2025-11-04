@@ -1,0 +1,10 @@
+{
+  "query": "According to the text, what is one notable characteristic of a HostGator office?",
+  "response": [
+    "doc_2162.txt",
+    "doc_37672.txt",
+    "doc_38568.txt",
+    "doc_37675.txt",
+    "doc_2167.txt"
+  ]
+}

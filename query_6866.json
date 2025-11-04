@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the character played by Linda Gray in “Dallas”?",
+  "response": [
+    "doc_725.txt",
+    "doc_719.txt",
+    "doc_717.txt",
+    "doc_718.txt",
+    "doc_721.txt"
+  ]
+}

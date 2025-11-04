@@ -1,0 +1,10 @@
+{
+  "query": "Where does the Amazon River ultimately flow into?",
+  "response": [
+    "doc_19095.txt",
+    "doc_19096.txt",
+    "doc_19101.txt",
+    "doc_13395.txt",
+    "doc_19098.txt"
+  ]
+}

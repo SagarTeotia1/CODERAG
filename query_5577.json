@@ -1,0 +1,10 @@
+{
+  "query": "Which television series featured Michelle Dockery as Lady Mary Crawley?",
+  "response": [
+    "doc_15.txt",
+    "doc_14.txt",
+    "doc_38453.txt",
+    "doc_12713.txt",
+    "doc_38452.txt"
+  ]
+}

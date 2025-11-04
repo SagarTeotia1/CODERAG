@@ -1,0 +1,10 @@
+{
+  "query": "What type of research institution is RIKEN?",
+  "response": [
+    "doc_34660.txt",
+    "doc_34661.txt",
+    "doc_34662.txt",
+    "doc_38704.txt",
+    "doc_34659.txt"
+  ]
+}

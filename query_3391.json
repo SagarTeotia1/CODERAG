@@ -1,0 +1,10 @@
+{
+  "query": "When was the album rereleased by Majik Ninja Entertainment?",
+  "response": [
+    "doc_21176.txt",
+    "doc_12183.txt",
+    "doc_21175.txt",
+    "doc_12180.txt",
+    "doc_21173.txt"
+  ]
+}

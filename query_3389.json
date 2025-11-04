@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission’s policy regarding fisheries off the west coast of Africa?",
+  "response": [
+    "doc_35464.txt",
+    "doc_28836.txt",
+    "doc_35609.txt",
+    "doc_15312.txt",
+    "doc_24721.txt"
+  ]
+}

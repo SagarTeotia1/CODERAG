@@ -1,0 +1,10 @@
+{
+  "query": "According to one of the linked documents, what grade level did David Vetter attend when he was studying the topic referenced?",
+  "response": [
+    "doc_5324.txt",
+    "doc_5328.txt",
+    "doc_5327.txt",
+    "doc_5321.txt",
+    "doc_5320.txt"
+  ]
+}

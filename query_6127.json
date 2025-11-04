@@ -1,0 +1,10 @@
+{
+  "query": "What song did Cheryl of the Clue Crew perform to win the contest in 1942?",
+  "response": [
+    "doc_5681.txt",
+    "doc_5682.txt",
+    "doc_25923.txt",
+    "doc_25920.txt",
+    "doc_11494.txt"
+  ]
+}

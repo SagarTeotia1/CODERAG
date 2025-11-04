@@ -1,0 +1,10 @@
+{
+  "query": "According to the Institute of Gender Equality, what percentage of ambassadors do women make up?",
+  "response": [
+    "doc_5837.txt",
+    "doc_4315.txt",
+    "doc_25103.txt",
+    "doc_3845.txt",
+    "doc_4314.txt"
+  ]
+}

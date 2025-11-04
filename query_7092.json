@@ -1,0 +1,10 @@
+{
+  "query": "What countries submitted a joint declaration to the European Commission regarding tomato imports?",
+  "response": [
+    "doc_8133.txt",
+    "doc_37546.txt",
+    "doc_3012.txt",
+    "doc_38499.txt",
+    "doc_14125.txt"
+  ]
+}

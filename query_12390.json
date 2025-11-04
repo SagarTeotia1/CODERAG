@@ -1,0 +1,10 @@
+{
+  "query": "What was Rita Hayworth’s original name?",
+  "response": [
+    "doc_21107.txt",
+    "doc_21104.txt",
+    "doc_21106.txt",
+    "doc_21109.txt",
+    "doc_21105.txt"
+  ]
+}

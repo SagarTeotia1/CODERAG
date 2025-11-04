@@ -1,0 +1,10 @@
+{
+  "query": "What prompted Admiral Toyoda to order his army to begin a long retreat?",
+  "response": [
+    "doc_16744.txt",
+    "doc_38678.txt",
+    "doc_5743.txt",
+    "doc_19535.txt",
+    "doc_19536.txt"
+  ]
+}

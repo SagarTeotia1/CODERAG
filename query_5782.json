@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission monitoring regarding Community funds related to combating forest fires in the EU?",
+  "response": [
+    "doc_12100.txt",
+    "doc_13106.txt",
+    "doc_644.txt",
+    "doc_4843.txt",
+    "doc_17528.txt"
+  ]
+}

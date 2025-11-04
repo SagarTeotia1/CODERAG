@@ -1,0 +1,10 @@
+{
+  "query": "In which East Asian countries is *G. amansii* considered an important food source?",
+  "response": [
+    "doc_13163.txt",
+    "doc_2769.txt",
+    "doc_2767.txt",
+    "doc_10913.txt",
+    "doc_24147.txt"
+  ]
+}

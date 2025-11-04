@@ -1,0 +1,10 @@
+{
+  "query": "Who co-founded Dow Jones & Company, alongside Charles Bergstresser and Edward Jones?",
+  "response": [
+    "doc_13775.txt",
+    "doc_13773.txt",
+    "doc_13774.txt",
+    "doc_13777.txt",
+    "doc_10483.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What organization did the individual offered asylum by the French Government belong to?",
+  "response": [
+    "doc_26091.txt",
+    "doc_13836.txt",
+    "doc_14192.txt",
+    "doc_2837.txt",
+    "doc_26090.txt"
+  ]
+}

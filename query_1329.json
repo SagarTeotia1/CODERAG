@@ -1,0 +1,10 @@
+{
+  "query": "What was the primary action the EU Council of Finance Ministers decided to take regarding rising oil prices?",
+  "response": [
+    "doc_30544.txt",
+    "doc_37293.txt",
+    "doc_16812.txt",
+    "doc_7137.txt",
+    "doc_7552.txt"
+  ]
+}

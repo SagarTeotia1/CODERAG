@@ -1,0 +1,10 @@
+{
+  "query": "Which song topped the New Zealand top 50 singles chart of 2016?",
+  "response": [
+    "doc_17351.txt",
+    "doc_37447.txt",
+    "doc_12872.txt",
+    "doc_17350.txt",
+    "doc_35298.txt"
+  ]
+}

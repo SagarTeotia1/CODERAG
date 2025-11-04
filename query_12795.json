@@ -1,0 +1,10 @@
+{
+  "query": "When was the original formula for Mountain Dew invented?",
+  "response": [
+    "doc_22229.txt",
+    "doc_26951.txt",
+    "doc_36262.txt",
+    "doc_22230.txt",
+    "doc_6887.txt"
+  ]
+}

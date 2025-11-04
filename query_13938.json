@@ -1,0 +1,10 @@
+{
+  "query": "Based on whom is the movie “Jumanji” based?",
+  "response": [
+    "doc_24916.txt",
+    "doc_24914.txt",
+    "doc_24915.txt",
+    "doc_24911.txt",
+    "doc_24910.txt"
+  ]
+}

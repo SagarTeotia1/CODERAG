@@ -1,0 +1,10 @@
+{
+  "query": "Which groups of organizations have adopted the HK417 for use?",
+  "response": [
+    "doc_36871.txt",
+    "doc_24257.txt",
+    "doc_18143.txt",
+    "doc_2572.txt",
+    "doc_24246.txt"
+  ]
+}

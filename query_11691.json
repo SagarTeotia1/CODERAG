@@ -1,0 +1,10 @@
+{
+  "query": "How many studio albums does “Weird Al” Yankovic have in his discography?",
+  "response": [
+    "doc_36257.txt",
+    "doc_15933.txt",
+    "doc_31622.txt",
+    "doc_15902.txt",
+    "doc_38899.txt"
+  ]
+}

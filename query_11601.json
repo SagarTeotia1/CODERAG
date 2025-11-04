@@ -1,0 +1,10 @@
+{
+  "query": "When did “Truth and Advertising” premiere?",
+  "response": [
+    "doc_1681.txt",
+    "doc_1680.txt",
+    "doc_1679.txt",
+    "doc_1682.txt",
+    "doc_1678.txt"
+  ]
+}

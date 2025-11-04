@@ -1,0 +1,10 @@
+{
+  "query": "What kind of drink is considered the national drink of Peru?",
+  "response": [
+    "doc_10918.txt",
+    "doc_14853.txt",
+    "doc_14852.txt",
+    "doc_10912.txt",
+    "doc_10916.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "How many patents did Edison acquire?",
+  "response": [
+    "doc_3681.txt",
+    "doc_19830.txt",
+    "doc_19828.txt",
+    "doc_19829.txt",
+    "doc_3686.txt"
+  ]
+}

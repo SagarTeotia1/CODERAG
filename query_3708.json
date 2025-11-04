@@ -1,0 +1,10 @@
+{
+  "query": "What article of the Treaty of Lisbon explicitly mentions the respect for the rights of persons belonging to minorities?",
+  "response": [
+    "doc_36236.txt",
+    "doc_29745.txt",
+    "doc_7878.txt",
+    "doc_25180.txt",
+    "doc_29742.txt"
+  ]
+}

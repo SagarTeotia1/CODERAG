@@ -1,0 +1,10 @@
+{
+  "query": "What date was the Italian Interior Ministry decree establishing the Identification and Expulsion Centre at Santa Maria Capua Vetere?",
+  "response": [
+    "doc_28610.txt",
+    "doc_12099.txt",
+    "doc_32279.txt",
+    "doc_12736.txt",
+    "doc_33648.txt"
+  ]
+}

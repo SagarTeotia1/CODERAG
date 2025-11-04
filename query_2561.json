@@ -1,0 +1,10 @@
+{
+  "query": "Has the funding secured by the municipality of Pesaro been used?",
+  "response": [
+    "doc_33631.txt",
+    "doc_11764.txt",
+    "doc_14270.txt",
+    "doc_26679.txt",
+    "doc_18768.txt"
+  ]
+}

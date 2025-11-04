@@ -1,0 +1,10 @@
+{
+  "query": "What high school records did John Minardi hold, and with whom did he play alongside?",
+  "response": [
+    "doc_14702.txt",
+    "doc_29206.txt",
+    "doc_8294.txt",
+    "doc_14705.txt",
+    "doc_32184.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Who replaced Margaret Mountford in the role of advisor on *The Apprentice (UK)*?",
+  "response": [
+    "doc_26174.txt",
+    "doc_39257.txt",
+    "doc_30366.txt",
+    "doc_33190.txt",
+    "doc_33193.txt"
+  ]
+}

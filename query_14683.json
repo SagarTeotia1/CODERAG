@@ -1,0 +1,10 @@
+{
+  "query": "Which amusement park is home to the Steel Dragon 2000, and what company built it?",
+  "response": [
+    "doc_26796.txt",
+    "doc_18407.txt",
+    "doc_26798.txt",
+    "doc_28134.txt",
+    "doc_18408.txt"
+  ]
+}

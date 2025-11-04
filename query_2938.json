@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Day O’Connor graduate from Stanford Law School?",
+  "response": [
+    "doc_34475.txt",
+    "doc_34474.txt",
+    "doc_34479.txt",
+    "doc_34477.txt",
+    "doc_34476.txt"
+  ]
+}

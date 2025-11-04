@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission’s complaint regarding waste water treatment at Greystones, Ireland?",
+  "response": [
+    "doc_12962.txt",
+    "doc_3249.txt",
+    "doc_36304.txt",
+    "doc_32100.txt",
+    "doc_25481.txt"
+  ]
+}

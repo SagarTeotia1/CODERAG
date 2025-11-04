@@ -1,0 +1,10 @@
+{
+  "query": "Which musical genres did Samantha Fox experiment with on her 1991 album?",
+  "response": [
+    "doc_38903.txt",
+    "doc_25921.txt",
+    "doc_15910.txt",
+    "doc_25288.txt",
+    "doc_38902.txt"
+  ]
+}

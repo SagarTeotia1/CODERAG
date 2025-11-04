@@ -1,0 +1,10 @@
+{
+  "query": "What role did Arturo Toscanini have with the NBC Symphony Orchestra?",
+  "response": [
+    "doc_36970.txt",
+    "doc_36969.txt",
+    "doc_36967.txt",
+    "doc_36968.txt",
+    "doc_36965.txt"
+  ]
+}

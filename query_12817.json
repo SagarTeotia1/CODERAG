@@ -1,0 +1,10 @@
+{
+  "query": "Which substances, besides those already banned under the RoHS Directive, did the Environment Committee recommend further evaluation for?",
+  "response": [
+    "doc_22276.txt",
+    "doc_26407.txt",
+    "doc_22277.txt",
+    "doc_15786.txt",
+    "doc_26406.txt"
+  ]
+}

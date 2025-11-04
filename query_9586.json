@@ -1,0 +1,10 @@
+{
+  "query": "Which organizations condemn the restrictions placed on the National League for Democracy and other political parties?",
+  "response": [
+    "doc_14185.txt",
+    "doc_2227.txt",
+    "doc_26032.txt",
+    "doc_23846.txt",
+    "doc_14186.txt"
+  ]
+}

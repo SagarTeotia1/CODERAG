@@ -1,0 +1,10 @@
+{
+  "query": "What specific agreement, initialled on December 4, 1995, governs trade in textile products under Chapters 50 to 63 of the Combined Nomenclature?",
+  "response": [
+    "doc_30807.txt",
+    "doc_31727.txt",
+    "doc_30808.txt",
+    "doc_30809.txt",
+    "doc_24572.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Has the sale in question been discussed within the Common European Security and Defence Policy?",
+  "response": [
+    "doc_34383.txt",
+    "doc_17524.txt",
+    "doc_9920.txt",
+    "doc_12293.txt",
+    "doc_17523.txt"
+  ]
+}

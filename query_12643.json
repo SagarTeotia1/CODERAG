@@ -1,0 +1,10 @@
+{
+  "query": "What is the maximum financial contribution the European Union will provide to the EDCTP Programme?",
+  "response": [
+    "doc_2100.txt",
+    "doc_2104.txt",
+    "doc_2092.txt",
+    "doc_2090.txt",
+    "doc_2108.txt"
+  ]
+}

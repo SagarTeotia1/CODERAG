@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how large is the Gum Nebula in terms of degrees across the sky?",
+  "response": [
+    "doc_31234.txt",
+    "doc_31236.txt",
+    "doc_31235.txt",
+    "doc_31233.txt",
+    "doc_31237.txt"
+  ]
+}

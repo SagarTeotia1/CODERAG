@@ -1,0 +1,10 @@
+{
+  "query": "What is the FAA LID for Friedman Memorial Airport?",
+  "response": [
+    "doc_5708.txt",
+    "doc_22544.txt",
+    "doc_24039.txt",
+    "doc_10606.txt",
+    "doc_17790.txt"
+  ]
+}

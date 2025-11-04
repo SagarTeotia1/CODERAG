@@ -1,0 +1,10 @@
+{
+  "query": "What was the origin of the 1989 Loma Prieta earthquake?",
+  "response": [
+    "doc_9547.txt",
+    "doc_9546.txt",
+    "doc_9544.txt",
+    "doc_9548.txt",
+    "doc_9545.txt"
+  ]
+}

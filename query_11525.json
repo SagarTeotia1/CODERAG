@@ -1,0 +1,10 @@
+{
+  "query": "Which documentary, starring Agata Kulesza, explored issues of beauty and self-perception?",
+  "response": [
+    "doc_12438.txt",
+    "doc_12441.txt",
+    "doc_2182.txt",
+    "doc_12436.txt",
+    "doc_12439.txt"
+  ]
+}

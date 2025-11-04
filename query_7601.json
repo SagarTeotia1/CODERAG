@@ -1,0 +1,10 @@
+{
+  "query": "Which soap opera did Rita Sullivan originally appear in, and when?",
+  "response": [
+    "doc_5593.txt",
+    "doc_21107.txt",
+    "doc_30462.txt",
+    "doc_5589.txt",
+    "doc_21104.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which company, Roller Derby (brand), is the second-largest supplier of inline skates in the U.S.?",
+  "response": [
+    "doc_35435.txt",
+    "doc_35436.txt",
+    "doc_3424.txt",
+    "doc_3422.txt",
+    "doc_3423.txt"
+  ]
+}

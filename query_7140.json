@@ -1,0 +1,10 @@
+{
+  "query": "In the Flanders region, how has the number of whooping cough cases changed over the last 10 years?",
+  "response": [
+    "doc_8210.txt",
+    "doc_22144.txt",
+    "doc_22143.txt",
+    "doc_22145.txt",
+    "doc_25905.txt"
+  ]
+}

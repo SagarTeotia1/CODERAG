@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what other food products does Chip Company produce besides potato chips?",
+  "response": [
+    "doc_5191.txt",
+    "doc_28058.txt",
+    "doc_5192.txt",
+    "doc_5187.txt",
+    "doc_5186.txt"
+  ]
+}

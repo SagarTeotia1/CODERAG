@@ -1,0 +1,10 @@
+{
+  "query": "What was the number of fatalities on Europe’s roads in 2001?",
+  "response": [
+    "doc_22634.txt",
+    "doc_4799.txt",
+    "doc_29793.txt",
+    "doc_20864.txt",
+    "doc_22635.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "How many banks are located in the Cayman Islands, according to the provided text?",
+  "response": [
+    "doc_1197.txt",
+    "doc_1201.txt",
+    "doc_1198.txt",
+    "doc_1199.txt",
+    "doc_1196.txt"
+  ]
+}

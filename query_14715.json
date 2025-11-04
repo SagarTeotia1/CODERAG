@@ -1,0 +1,10 @@
+{
+  "query": "Which EU programmes might be of interest for erecting a statue in Ireland?",
+  "response": [
+    "doc_26850.txt",
+    "doc_21452.txt",
+    "doc_37431.txt",
+    "doc_27357.txt",
+    "doc_9984.txt"
+  ]
+}

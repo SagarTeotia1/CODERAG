@@ -1,0 +1,10 @@
+{
+  "query": "Who led the NAACP to achieve school desegregation?",
+  "response": [
+    "doc_37296.txt",
+    "doc_30539.txt",
+    "doc_30538.txt",
+    "doc_30537.txt",
+    "doc_467.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year was Mercy College of Ohio originally established, and by whom?",
+  "response": [
+    "doc_1944.txt",
+    "doc_1946.txt",
+    "doc_1947.txt",
+    "doc_36434.txt",
+    "doc_1949.txt"
+  ]
+}

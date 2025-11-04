@@ -1,0 +1,10 @@
+{
+  "query": "What text is inscribed on the stone and bronze rail fence surrounding the Abraham Lincoln statue?",
+  "response": [
+    "doc_35801.txt",
+    "doc_35800.txt",
+    "doc_35799.txt",
+    "doc_38588.txt",
+    "doc_33962.txt"
+  ]
+}

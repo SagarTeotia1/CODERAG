@@ -1,0 +1,10 @@
+{
+  "query": "Which artistic movement is associated with the “national images, life-asserting spirit and vivid forms” of the Small Hermitage building?",
+  "response": [
+    "doc_18725.txt",
+    "doc_18726.txt",
+    "doc_4680.txt",
+    "doc_4679.txt",
+    "doc_38964.txt"
+  ]
+}

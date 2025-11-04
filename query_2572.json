@@ -1,0 +1,10 @@
+{
+  "query": "What charge was Zola convicted of?",
+  "response": [
+    "doc_18545.txt",
+    "doc_30796.txt",
+    "doc_10116.txt",
+    "doc_71.txt",
+    "doc_30798.txt"
+  ]
+}

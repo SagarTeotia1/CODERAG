@@ -1,0 +1,10 @@
+{
+  "query": "At what age was Elizabeth I crowned queen?",
+  "response": [
+    "doc_31036.txt",
+    "doc_31031.txt",
+    "doc_31037.txt",
+    "doc_31032.txt",
+    "doc_31027.txt"
+  ]
+}

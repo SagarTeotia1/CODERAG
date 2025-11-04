@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, can German adjectives sometimes function as adverbs?",
+  "response": [
+    "doc_31240.txt",
+    "doc_31245.txt",
+    "doc_31241.txt",
+    "doc_31242.txt",
+    "doc_31244.txt"
+  ]
+}

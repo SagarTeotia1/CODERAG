@@ -1,0 +1,10 @@
+{
+  "query": "What is the Council’s position regarding revising the Treaty’s text?",
+  "response": [
+    "doc_37604.txt",
+    "doc_1790.txt",
+    "doc_2653.txt",
+    "doc_1759.txt",
+    "doc_8606.txt"
+  ]
+}

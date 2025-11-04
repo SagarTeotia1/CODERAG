@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Ortiz earn a scholarship to Wellesley College?",
+  "response": [
+    "doc_23432.txt",
+    "doc_1950.txt",
+    "doc_18956.txt",
+    "doc_1948.txt",
+    "doc_17828.txt"
+  ]
+}

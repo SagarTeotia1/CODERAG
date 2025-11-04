@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, how has the percentage of women standing for and being elected to the European Parliament changed between 1997 and 2008?",
+  "response": [
+    "doc_3845.txt",
+    "doc_4314.txt",
+    "doc_25103.txt",
+    "doc_7238.txt",
+    "doc_4781.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What event is described as being dominated by Arnold Rothstein?",
+  "response": [
+    "doc_31909.txt",
+    "doc_31911.txt",
+    "doc_31910.txt",
+    "doc_31906.txt",
+    "doc_31907.txt"
+  ]
+}

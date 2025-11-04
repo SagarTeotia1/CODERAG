@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what specific patient groups are highlighted as benefiting from eHealth solutions?",
+  "response": [
+    "doc_30555.txt",
+    "doc_18687.txt",
+    "doc_19327.txt",
+    "doc_3181.txt",
+    "doc_18995.txt"
+  ]
+}

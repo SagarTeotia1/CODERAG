@@ -1,0 +1,10 @@
+{
+  "query": "Which film won the first award in the newly established Best Asian Film category?",
+  "response": [
+    "doc_16279.txt",
+    "doc_16280.txt",
+    "doc_28596.txt",
+    "doc_18856.txt",
+    "doc_11944.txt"
+  ]
+}

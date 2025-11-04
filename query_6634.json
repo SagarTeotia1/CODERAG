@@ -1,0 +1,10 @@
+{
+  "query": "Which film, based on a memoir, stars Jason Clarke as Rob Hall?",
+  "response": [
+    "doc_19039.txt",
+    "doc_36926.txt",
+    "doc_5635.txt",
+    "doc_23735.txt",
+    "doc_25591.txt"
+  ]
+}

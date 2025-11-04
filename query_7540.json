@@ -1,0 +1,10 @@
+{
+  "query": "How many demonstrators were detained in Moscow and St Petersburg on January 31, 2011?",
+  "response": [
+    "doc_9190.txt",
+    "doc_3177.txt",
+    "doc_5087.txt",
+    "doc_29696.txt",
+    "doc_29697.txt"
+  ]
+}

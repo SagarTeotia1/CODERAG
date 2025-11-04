@@ -1,0 +1,10 @@
+{
+  "query": "Which group will the Commission consult to analyze current knowledge of childhood cancer and leukaemia?",
+  "response": [
+    "doc_23130.txt",
+    "doc_39176.txt",
+    "doc_23425.txt",
+    "doc_38544.txt",
+    "doc_25014.txt"
+  ]
+}

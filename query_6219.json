@@ -1,0 +1,10 @@
+{
+  "query": "What is the title of the table contained on page 87 of the revised IMF-EU Memorandum of Understanding?",
+  "response": [
+    "doc_34225.txt",
+    "doc_15503.txt",
+    "doc_33392.txt",
+    "doc_16476.txt",
+    "doc_35876.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which artist did Hannah Lux Davis direct music videos for, besides Ariana Grande?",
+  "response": [
+    "doc_16906.txt",
+    "doc_6894.txt",
+    "doc_378.txt",
+    "doc_6895.txt",
+    "doc_8505.txt"
+  ]
+}

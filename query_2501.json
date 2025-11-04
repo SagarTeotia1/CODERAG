@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what is the origin of the Klingon language?",
+  "response": [
+    "doc_33495.txt",
+    "doc_31783.txt",
+    "doc_31785.txt",
+    "doc_31784.txt",
+    "doc_35192.txt"
+  ]
+}

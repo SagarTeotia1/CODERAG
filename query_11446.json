@@ -1,0 +1,10 @@
+{
+  "query": "Which groups were involved in debates regarding the EU-Russia Summit (B6-0631/2006, B6-0633/2006, B6-0636/2006, B6-0638/2006, B6-0641/2006)?",
+  "response": [
+    "doc_18708.txt",
+    "doc_32400.txt",
+    "doc_32401.txt",
+    "doc_18709.txt",
+    "doc_34130.txt"
+  ]
+}

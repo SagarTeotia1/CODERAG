@@ -1,0 +1,10 @@
+{
+  "query": "In a 1901 edition of Mother Goose Song, who illustrated the rhyme “There was an Old Woman Who Lived in a Shoe”?",
+  "response": [
+    "doc_23876.txt",
+    "doc_23875.txt",
+    "doc_23881.txt",
+    "doc_23877.txt",
+    "doc_23883.txt"
+  ]
+}

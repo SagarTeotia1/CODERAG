@@ -1,0 +1,10 @@
+{
+  "query": "Which directive lists the Mountain Hare as requiring conservation measures?",
+  "response": [
+    "doc_14320.txt",
+    "doc_16494.txt",
+    "doc_16493.txt",
+    "doc_28429.txt",
+    "doc_27760.txt"
+  ]
+}

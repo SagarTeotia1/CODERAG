@@ -1,0 +1,10 @@
+{
+  "query": "Which Hungarian comedy film, directed by Béla Gaál, was based on “The Dream Car”?",
+  "response": [
+    "doc_33010.txt",
+    "doc_33008.txt",
+    "doc_33007.txt",
+    "doc_32998.txt",
+    "doc_7955.txt"
+  ]
+}

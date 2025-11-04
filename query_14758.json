@@ -1,0 +1,10 @@
+{
+  "query": "What was Leni Riefenstahl’s first screen appearance?",
+  "response": [
+    "doc_26979.txt",
+    "doc_31052.txt",
+    "doc_14745.txt",
+    "doc_34355.txt",
+    "doc_26978.txt"
+  ]
+}

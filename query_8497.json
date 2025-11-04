@@ -1,0 +1,10 @@
+{
+  "query": "When did *The Pact* premiere at the Sundance Film Festival?",
+  "response": [
+    "doc_31969.txt",
+    "doc_18856.txt",
+    "doc_12500.txt",
+    "doc_19042.txt",
+    "doc_26508.txt"
+  ]
+}

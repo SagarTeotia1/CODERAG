@@ -1,0 +1,10 @@
+{
+  "query": "For which Slovenian League team do Bojan Radulović and Devin Oliver both play?",
+  "response": [
+    "doc_27005.txt",
+    "doc_14938.txt",
+    "doc_14939.txt",
+    "doc_2202.txt",
+    "doc_33438.txt"
+  ]
+}

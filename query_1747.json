@@ -1,0 +1,10 @@
+{
+  "query": "What was Bob Starkey’s role with the LSU Lady Tigers basketball team?",
+  "response": [
+    "doc_3085.txt",
+    "doc_3086.txt",
+    "doc_25629.txt",
+    "doc_32599.txt",
+    "doc_5199.txt"
+  ]
+}

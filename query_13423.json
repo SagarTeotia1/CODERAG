@@ -1,0 +1,10 @@
+{
+  "query": "Which lakes are mentioned as significant features in Sweden, and which is the largest?",
+  "response": [
+    "doc_23632.txt",
+    "doc_23633.txt",
+    "doc_23631.txt",
+    "doc_23634.txt",
+    "doc_15363.txt"
+  ]
+}

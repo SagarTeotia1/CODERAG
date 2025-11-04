@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Max Jean win the Formule France championship?",
+  "response": [
+    "doc_17224.txt",
+    "doc_17225.txt",
+    "doc_37559.txt",
+    "doc_11901.txt",
+    "doc_34750.txt"
+  ]
+}

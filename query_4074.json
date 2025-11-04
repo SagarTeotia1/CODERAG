@@ -1,0 +1,10 @@
+{
+  "query": "If funds were obtained by the municipality of Siena, were they used within the stipulated period?",
+  "response": [
+    "doc_37104.txt",
+    "doc_29811.txt",
+    "doc_12495.txt",
+    "doc_5514.txt",
+    "doc_8955.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What award did “Fight Life” win in 2013?",
+  "response": [
+    "doc_36925.txt",
+    "doc_16185.txt",
+    "doc_36926.txt",
+    "doc_25592.txt",
+    "doc_2031.txt"
+  ]
+}

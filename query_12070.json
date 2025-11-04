@@ -1,0 +1,10 @@
+{
+  "query": "What was Antonie Brentano’s marital status and where did she live with her husband?",
+  "response": [
+    "doc_20339.txt",
+    "doc_20342.txt",
+    "doc_20338.txt",
+    "doc_20341.txt",
+    "doc_20343.txt"
+  ]
+}

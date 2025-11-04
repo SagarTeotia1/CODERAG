@@ -1,0 +1,10 @@
+{
+  "query": "What area of Northern Iraq has been the target of recent Turkish military attacks?",
+  "response": [
+    "doc_24410.txt",
+    "doc_5168.txt",
+    "doc_37111.txt",
+    "doc_37114.txt",
+    "doc_37113.txt"
+  ]
+}

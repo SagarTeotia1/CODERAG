@@ -1,0 +1,10 @@
+{
+  "query": "How did Rhett, the Boston University mascot, receive his name?",
+  "response": [
+    "doc_37532.txt",
+    "doc_10451.txt",
+    "doc_37528.txt",
+    "doc_37529.txt",
+    "doc_10454.txt"
+  ]
+}

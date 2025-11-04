@@ -1,0 +1,10 @@
+{
+  "query": "What was Richard A. Teague’s role in the design of the Jeep Cherokee XJ?",
+  "response": [
+    "doc_36474.txt",
+    "doc_36473.txt",
+    "doc_26518.txt",
+    "doc_26517.txt",
+    "doc_26522.txt"
+  ]
+}

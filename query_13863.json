@@ -1,0 +1,10 @@
+{
+  "query": "Where was the Egyptian Antiquities Museum located before its move to Tahrir Square?",
+  "response": [
+    "doc_24746.txt",
+    "doc_24754.txt",
+    "doc_24750.txt",
+    "doc_24748.txt",
+    "doc_24753.txt"
+  ]
+}

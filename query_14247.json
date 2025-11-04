@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the ballet “Fall River Legend” created?",
+  "response": [
+    "doc_25736.txt",
+    "doc_25732.txt",
+    "doc_25737.txt",
+    "doc_25735.txt",
+    "doc_25730.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When was Kleenex introduced?",
+  "response": [
+    "doc_12569.txt",
+    "doc_12566.txt",
+    "doc_12568.txt",
+    "doc_12570.txt",
+    "doc_12567.txt"
+  ]
+}

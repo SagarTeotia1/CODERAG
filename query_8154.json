@@ -1,0 +1,10 @@
+{
+  "query": "Who holds the record for the most wins at the Logie Hall of Fame, and how many wins do they have?",
+  "response": [
+    "doc_17868.txt",
+    "doc_27329.txt",
+    "doc_37212.txt",
+    "doc_37214.txt",
+    "doc_26067.txt"
+  ]
+}

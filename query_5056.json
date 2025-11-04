@@ -1,0 +1,10 @@
+{
+  "query": "Which actress portrayed Erica Kane?",
+  "response": [
+    "doc_11644.txt",
+    "doc_31637.txt",
+    "doc_5593.txt",
+    "doc_31639.txt",
+    "doc_20422.txt"
+  ]
+}

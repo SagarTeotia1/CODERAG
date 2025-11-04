@@ -1,0 +1,10 @@
+{
+  "query": "What is the annual amount of aid paid by the Union to Laos?",
+  "response": [
+    "doc_38133.txt",
+    "doc_25417.txt",
+    "doc_18565.txt",
+    "doc_8834.txt",
+    "doc_12431.txt"
+  ]
+}

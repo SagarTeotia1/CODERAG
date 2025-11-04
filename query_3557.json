@@ -1,0 +1,10 @@
+{
+  "query": "What countries are students from non-EU countries experiencing difficulties with the EU visa regime?",
+  "response": [
+    "doc_35877.txt",
+    "doc_26918.txt",
+    "doc_17492.txt",
+    "doc_25634.txt",
+    "doc_26899.txt"
+  ]
+}

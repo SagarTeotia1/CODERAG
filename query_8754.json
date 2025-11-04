@@ -1,0 +1,10 @@
+{
+  "query": "What was David Collison’s role within the Reform Party?",
+  "response": [
+    "doc_31429.txt",
+    "doc_25152.txt",
+    "doc_31431.txt",
+    "doc_31434.txt",
+    "doc_31436.txt"
+  ]
+}

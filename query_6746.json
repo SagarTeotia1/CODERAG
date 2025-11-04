@@ -1,0 +1,10 @@
+{
+  "query": "How many people died in the crash involving aircraft TU-154?",
+  "response": [
+    "doc_7243.txt",
+    "doc_23540.txt",
+    "doc_23127.txt",
+    "doc_39107.txt",
+    "doc_28019.txt"
+  ]
+}

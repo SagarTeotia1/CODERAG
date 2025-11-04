@@ -1,0 +1,10 @@
+{
+  "query": "What term does Humbert Humbert use to describe Lolita, and what is the origin of that term?",
+  "response": [
+    "doc_20123.txt",
+    "doc_20128.txt",
+    "doc_20127.txt",
+    "doc_20126.txt",
+    "doc_20125.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which company did Hershey Chocolate Corporation acquire in 1963?",
+  "response": [
+    "doc_4858.txt",
+    "doc_4864.txt",
+    "doc_30154.txt",
+    "doc_4863.txt",
+    "doc_30152.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the European Parliament’s stance on the use of primates in scientific experiments?",
+  "response": [
+    "doc_5789.txt",
+    "doc_18860.txt",
+    "doc_36800.txt",
+    "doc_9341.txt",
+    "doc_5537.txt"
+  ]
+}

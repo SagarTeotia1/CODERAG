@@ -1,0 +1,10 @@
+{
+  "query": "What orchestra did David Lockington direct from 1999 to 2015?",
+  "response": [
+    "doc_22601.txt",
+    "doc_36970.txt",
+    "doc_28323.txt",
+    "doc_218.txt",
+    "doc_9254.txt"
+  ]
+}

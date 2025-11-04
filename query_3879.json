@@ -1,0 +1,10 @@
+{
+  "query": "What directive was ILVA SpA failing to comply with, and what was the consequence of this failure?",
+  "response": [
+    "doc_36621.txt",
+    "doc_30068.txt",
+    "doc_25871.txt",
+    "doc_24791.txt",
+    "doc_26640.txt"
+  ]
+}

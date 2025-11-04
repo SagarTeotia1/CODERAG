@@ -1,0 +1,10 @@
+{
+  "query": "What type of book does John Updike’s 1996 book “Golf Dreams: Writings On Golf” include?",
+  "response": [
+    "doc_2974.txt",
+    "doc_2975.txt",
+    "doc_2976.txt",
+    "doc_5347.txt",
+    "doc_5346.txt"
+  ]
+}

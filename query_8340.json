@@ -1,0 +1,10 @@
+{
+  "query": "What proportion of the EU market’s fish supply does the Commission anticipate will be imported?",
+  "response": [
+    "doc_11186.txt",
+    "doc_11370.txt",
+    "doc_5384.txt",
+    "doc_11931.txt",
+    "doc_7428.txt"
+  ]
+}

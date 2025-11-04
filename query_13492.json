@@ -1,0 +1,10 @@
+{
+  "query": "What was Mercedes Ruehl’s father’s profession?",
+  "response": [
+    "doc_23792.txt",
+    "doc_15960.txt",
+    "doc_14870.txt",
+    "doc_15961.txt",
+    "doc_1824.txt"
+  ]
+}

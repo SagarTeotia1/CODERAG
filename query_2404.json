@@ -1,0 +1,10 @@
+{
+  "query": "Who supervised the construction of Chicago Pile-1, the world’s first nuclear reactor, and when did it achieve criticality?",
+  "response": [
+    "doc_35026.txt",
+    "doc_22551.txt",
+    "doc_33263.txt",
+    "doc_22550.txt",
+    "doc_18767.txt"
+  ]
+}

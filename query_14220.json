@@ -1,0 +1,10 @@
+{
+  "query": "What action is the Indonesian Police Chief characterizing the recent events in Poso as?",
+  "response": [
+    "doc_25645.txt",
+    "doc_39079.txt",
+    "doc_6571.txt",
+    "doc_14187.txt",
+    "doc_5380.txt"
+  ]
+}

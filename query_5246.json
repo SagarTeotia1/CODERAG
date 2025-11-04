@@ -1,0 +1,10 @@
+{
+  "query": "How many singles did Eric Clapton release as a solo artist from 1970 to date?",
+  "response": [
+    "doc_39900.txt",
+    "doc_33022.txt",
+    "doc_33023.txt",
+    "doc_33026.txt",
+    "doc_33025.txt"
+  ]
+}

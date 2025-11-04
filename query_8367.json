@@ -1,0 +1,10 @@
+{
+  "query": "What specific legislation, according to Statutory Instrument 360 of 1994, required Irish insurers to comply with?",
+  "response": [
+    "doc_1054.txt",
+    "doc_1060.txt",
+    "doc_867.txt",
+    "doc_25738.txt",
+    "doc_914.txt"
+  ]
+}

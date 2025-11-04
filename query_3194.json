@@ -1,0 +1,10 @@
+{
+  "query": "Who played Ada McGrath in The Piano (1993)?",
+  "response": [
+    "doc_35057.txt",
+    "doc_27025.txt",
+    "doc_27030.txt",
+    "doc_27027.txt",
+    "doc_27026.txt"
+  ]
+}

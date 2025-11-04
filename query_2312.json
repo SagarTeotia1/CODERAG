@@ -1,0 +1,10 @@
+{
+  "query": "What organization is Ferguson currently involved with?",
+  "response": [
+    "doc_32985.txt",
+    "doc_32984.txt",
+    "doc_23142.txt",
+    "doc_27068.txt",
+    "doc_1993.txt"
+  ]
+}

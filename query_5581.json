@@ -1,0 +1,10 @@
+{
+  "query": "What is the origin of the name \"Scarlett\"?",
+  "response": [
+    "doc_12417.txt",
+    "doc_15170.txt",
+    "doc_15168.txt",
+    "doc_37008.txt",
+    "doc_12416.txt"
+  ]
+}

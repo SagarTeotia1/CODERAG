@@ -1,0 +1,10 @@
+{
+  "query": "Which song by R.E.M. was influenced by “The Lion Sleeps Tonight”?",
+  "response": [
+    "doc_19636.txt",
+    "doc_12875.txt",
+    "doc_19641.txt",
+    "doc_22663.txt",
+    "doc_38651.txt"
+  ]
+}

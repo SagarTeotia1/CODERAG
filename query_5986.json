@@ -1,0 +1,10 @@
+{
+  "query": "What are the names of two plays written by Thornton Wilder mentioned in the passage?",
+  "response": [
+    "doc_29191.txt",
+    "doc_5334.txt",
+    "doc_5337.txt",
+    "doc_5336.txt",
+    "doc_5339.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When was the Inn at Old Faithful established?",
+  "response": [
+    "doc_24803.txt",
+    "doc_24804.txt",
+    "doc_24808.txt",
+    "doc_24809.txt",
+    "doc_24810.txt"
+  ]
+}

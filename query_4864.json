@@ -1,0 +1,10 @@
+{
+  "query": "Who is considered the \"founding father of UT Athletics\"?",
+  "response": [
+    "doc_13702.txt",
+    "doc_20242.txt",
+    "doc_4272.txt",
+    "doc_32304.txt",
+    "doc_14698.txt"
+  ]
+}

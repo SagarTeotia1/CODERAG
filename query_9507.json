@@ -1,0 +1,10 @@
+{
+  "query": "What was the primary fault identified regarding the Corvair’s suspension?",
+  "response": [
+    "doc_14003.txt",
+    "doc_4747.txt",
+    "doc_4750.txt",
+    "doc_4746.txt",
+    "doc_9506.txt"
+  ]
+}

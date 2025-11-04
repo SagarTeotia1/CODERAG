@@ -1,0 +1,10 @@
+{
+  "query": "How many nuclear power plants in Member States have been decommissioned, and where are they located?",
+  "response": [
+    "doc_28283.txt",
+    "doc_14640.txt",
+    "doc_37427.txt",
+    "doc_14637.txt",
+    "doc_28044.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which record label was founded by Gene Russell and Dick Schory, and what was its primary goal?",
+  "response": [
+    "doc_19760.txt",
+    "doc_275.txt",
+    "doc_19768.txt",
+    "doc_37856.txt",
+    "doc_40121.txt"
+  ]
+}

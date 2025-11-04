@@ -1,0 +1,10 @@
+{
+  "query": "How much did the Metropolitan Museum of Art pay for the artwork in 1961?",
+  "response": [
+    "doc_35143.txt",
+    "doc_35144.txt",
+    "doc_35145.txt",
+    "doc_35142.txt",
+    "doc_35148.txt"
+  ]
+}

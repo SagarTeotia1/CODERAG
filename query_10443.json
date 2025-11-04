@@ -1,0 +1,10 @@
+{
+  "query": "What themes were reported on by CBC Radio News from September 3rd to 10th?",
+  "response": [
+    "doc_289.txt",
+    "doc_25004.txt",
+    "doc_3419.txt",
+    "doc_25866.txt",
+    "doc_293.txt"
+  ]
+}

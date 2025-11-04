@@ -1,0 +1,10 @@
+{
+  "query": "What specific types of fishing methods are prohibited in the area around the Canaries?",
+  "response": [
+    "doc_36552.txt",
+    "doc_25870.txt",
+    "doc_41.txt",
+    "doc_2186.txt",
+    "doc_7406.txt"
+  ]
+}

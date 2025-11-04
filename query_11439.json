@@ -1,0 +1,10 @@
+{
+  "query": "Does Adobe sell the same version of its software in both Europe and the US?",
+  "response": [
+    "doc_18697.txt",
+    "doc_28642.txt",
+    "doc_15018.txt",
+    "doc_15987.txt",
+    "doc_3984.txt"
+  ]
+}

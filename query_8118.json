@@ -1,0 +1,10 @@
+{
+  "query": "How many studio albums did Kelly Rowland release?",
+  "response": [
+    "doc_170.txt",
+    "doc_172.txt",
+    "doc_171.txt",
+    "doc_169.txt",
+    "doc_36257.txt"
+  ]
+}

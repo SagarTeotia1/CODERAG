@@ -1,0 +1,10 @@
+{
+  "query": "What programming language was Ray Game Designer 2 written with?",
+  "response": [
+    "doc_2024.txt",
+    "doc_2025.txt",
+    "doc_20163.txt",
+    "doc_20162.txt",
+    "doc_23249.txt"
+  ]
+}

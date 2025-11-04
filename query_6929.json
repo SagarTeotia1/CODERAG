@@ -1,0 +1,10 @@
+{
+  "query": "What is James Lyon Fremantle’s birth year?",
+  "response": [
+    "doc_39206.txt",
+    "doc_8702.txt",
+    "doc_7646.txt",
+    "doc_9142.txt",
+    "doc_9147.txt"
+  ]
+}

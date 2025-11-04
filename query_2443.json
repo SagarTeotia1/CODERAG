@@ -1,0 +1,10 @@
+{
+  "query": "Who primarily provides security for the White House?",
+  "response": [
+    "doc_27909.txt",
+    "doc_27908.txt",
+    "doc_27914.txt",
+    "doc_27911.txt",
+    "doc_27913.txt"
+  ]
+}

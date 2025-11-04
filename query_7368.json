@@ -1,0 +1,10 @@
+{
+  "query": "What phrase, associated with the Lindy Chamberlain case, was referenced in the film *Evil Angels*?",
+  "response": [
+    "doc_12999.txt",
+    "doc_34722.txt",
+    "doc_8602.txt",
+    "doc_39844.txt",
+    "doc_16927.txt"
+  ]
+}

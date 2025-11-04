@@ -1,0 +1,10 @@
+{
+  "query": "How long was J. Edgar Hoover the FBI director?",
+  "response": [
+    "doc_5959.txt",
+    "doc_5965.txt",
+    "doc_5960.txt",
+    "doc_5963.txt",
+    "doc_5961.txt"
+  ]
+}

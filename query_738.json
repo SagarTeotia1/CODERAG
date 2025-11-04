@@ -1,0 +1,10 @@
+{
+  "query": "How many Italian employees were affected by collective redundancy procedures?",
+  "response": [
+    "doc_28934.txt",
+    "doc_2380.txt",
+    "doc_315.txt",
+    "doc_370.txt",
+    "doc_34319.txt"
+  ]
+}

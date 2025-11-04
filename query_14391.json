@@ -1,0 +1,10 @@
+{
+  "query": "What organization provides scientific and technical support for EU policy making?",
+  "response": [
+    "doc_16436.txt",
+    "doc_2658.txt",
+    "doc_29365.txt",
+    "doc_2290.txt",
+    "doc_2659.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In 1841, where did people gather to hear news about the fate of Little Nell?",
+  "response": [
+    "doc_5372.txt",
+    "doc_5374.txt",
+    "doc_5373.txt",
+    "doc_5375.txt",
+    "doc_12159.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of road accidents in the EU occur in towns?",
+  "response": [
+    "doc_4799.txt",
+    "doc_20864.txt",
+    "doc_22635.txt",
+    "doc_11278.txt",
+    "doc_11277.txt"
+  ]
+}

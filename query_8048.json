@@ -1,0 +1,10 @@
+{
+  "query": "What legal basis does the EU military operation Atalanta rely on?",
+  "response": [
+    "doc_10511.txt",
+    "doc_4977.txt",
+    "doc_28282.txt",
+    "doc_16396.txt",
+    "doc_3195.txt"
+  ]
+}

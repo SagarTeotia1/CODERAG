@@ -1,0 +1,10 @@
+{
+  "query": "What action is being called for regarding the Government of Gambia?",
+  "response": [
+    "doc_7619.txt",
+    "doc_26004.txt",
+    "doc_26005.txt",
+    "doc_36755.txt",
+    "doc_36756.txt"
+  ]
+}

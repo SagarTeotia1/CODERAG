@@ -1,0 +1,10 @@
+{
+  "query": "Which body or organisation carried out quality controls on EU co-funded projects in Greece during the intervening period?",
+  "response": [
+    "doc_39916.txt",
+    "doc_13911.txt",
+    "doc_28465.txt",
+    "doc_450.txt",
+    "doc_2293.txt"
+  ]
+}

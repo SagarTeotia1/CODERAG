@@ -1,0 +1,10 @@
+{
+  "query": "Which consultancy firms has the Commission engaged to assess the deregulation of the postal market in the EU?",
+  "response": [
+    "doc_13667.txt",
+    "doc_3852.txt",
+    "doc_34323.txt",
+    "doc_26823.txt",
+    "doc_13368.txt"
+  ]
+}

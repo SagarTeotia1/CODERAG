@@ -1,0 +1,10 @@
+{
+  "query": "What are the titles of the books that make up the Snopes trilogy?",
+  "response": [
+    "doc_19742.txt",
+    "doc_35065.txt",
+    "doc_35513.txt",
+    "doc_14859.txt",
+    "doc_35516.txt"
+  ]
+}

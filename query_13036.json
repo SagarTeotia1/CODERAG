@@ -1,0 +1,10 @@
+{
+  "query": "What was the date of John Murray Steele’s registration (No 895/2004)?",
+  "response": [
+    "doc_32948.txt",
+    "doc_27594.txt",
+    "doc_32944.txt",
+    "doc_27592.txt",
+    "doc_17712.txt"
+  ]
+}

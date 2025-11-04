@@ -1,0 +1,10 @@
+{
+  "query": "What role did the individual described in the first passage hold in the National Assembly for Wales?",
+  "response": [
+    "doc_22762.txt",
+    "doc_20802.txt",
+    "doc_32557.txt",
+    "doc_22067.txt",
+    "doc_192.txt"
+  ]
+}

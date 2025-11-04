@@ -1,0 +1,10 @@
+{
+  "query": "When was “Flaming Pie,” Paul McCartney’s tenth solo album, first released?",
+  "response": [
+    "doc_13305.txt",
+    "doc_21876.txt",
+    "doc_12202.txt",
+    "doc_37522.txt",
+    "doc_19566.txt"
+  ]
+}

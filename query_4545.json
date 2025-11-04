@@ -1,0 +1,10 @@
+{
+  "query": "According to the DEA report, what percentage of drug intelligence information is utilized by DEA field divisions?",
+  "response": [
+    "doc_9379.txt",
+    "doc_2530.txt",
+    "doc_10825.txt",
+    "doc_11196.txt",
+    "doc_16269.txt"
+  ]
+}

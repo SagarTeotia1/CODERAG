@@ -1,0 +1,10 @@
+{
+  "query": "What was the name of the character based on Meyer Wolfsheim, as mentioned in the text?",
+  "response": [
+    "doc_31910.txt",
+    "doc_31912.txt",
+    "doc_31908.txt",
+    "doc_31909.txt",
+    "doc_31914.txt"
+  ]
+}

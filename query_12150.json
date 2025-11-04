@@ -1,0 +1,10 @@
+{
+  "query": "What amenities are included in a free meal at the asia restaurant?",
+  "response": [
+    "doc_6759.txt",
+    "doc_20535.txt",
+    "doc_6761.txt",
+    "doc_22422.txt",
+    "doc_22420.txt"
+  ]
+}

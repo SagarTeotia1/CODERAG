@@ -1,0 +1,10 @@
+{
+  "query": "What type of establishment did Al Yeganeh, the inspiration for the Soup Nazi, operate in New York City?",
+  "response": [
+    "doc_4036.txt",
+    "doc_4038.txt",
+    "doc_4034.txt",
+    "doc_4030.txt",
+    "doc_4033.txt"
+  ]
+}

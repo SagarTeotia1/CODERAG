@@ -1,0 +1,10 @@
+{
+  "query": "What type of professional is Cunningham Wilson?",
+  "response": [
+    "doc_27119.txt",
+    "doc_18237.txt",
+    "doc_37675.txt",
+    "doc_38161.txt",
+    "doc_27118.txt"
+  ]
+}

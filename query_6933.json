@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided documents, what is the purpose of the ATF’s National Tracing Center?",
+  "response": [
+    "doc_734.txt",
+    "doc_732.txt",
+    "doc_731.txt",
+    "doc_733.txt",
+    "doc_730.txt"
+  ]
+}

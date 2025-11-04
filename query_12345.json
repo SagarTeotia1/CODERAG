@@ -1,0 +1,10 @@
+{
+  "query": "When was Grape-Nuts cereal first introduced?",
+  "response": [
+    "doc_20973.txt",
+    "doc_20971.txt",
+    "doc_20970.txt",
+    "doc_20972.txt",
+    "doc_20974.txt"
+  ]
+}

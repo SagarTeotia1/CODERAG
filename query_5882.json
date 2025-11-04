@@ -1,0 +1,10 @@
+{
+  "query": "Who was detained in Moscow, according to President Buzek?",
+  "response": [
+    "doc_5087.txt",
+    "doc_7141.txt",
+    "doc_9190.txt",
+    "doc_809.txt",
+    "doc_4333.txt"
+  ]
+}

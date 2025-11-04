@@ -1,0 +1,10 @@
+{
+  "query": "How many units did “Always On Time” sell in its first week after release?",
+  "response": [
+    "doc_22521.txt",
+    "doc_22520.txt",
+    "doc_22518.txt",
+    "doc_22524.txt",
+    "doc_22523.txt"
+  ]
+}

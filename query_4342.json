@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided links, what political stance is described for the New Hampshire Union Leader?",
+  "response": [
+    "doc_37757.txt",
+    "doc_37760.txt",
+    "doc_37758.txt",
+    "doc_37762.txt",
+    "doc_37761.txt"
+  ]
+}

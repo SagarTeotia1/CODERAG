@@ -1,0 +1,10 @@
+{
+  "query": "Which Italian film director is known for directing “The Lovemakers”?",
+  "response": [
+    "doc_2878.txt",
+    "doc_33536.txt",
+    "doc_2430.txt",
+    "doc_12438.txt",
+    "doc_1161.txt"
+  ]
+}

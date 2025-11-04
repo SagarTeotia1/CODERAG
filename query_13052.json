@@ -1,0 +1,10 @@
+{
+  "query": "Who is Robert David Keppel?",
+  "response": [
+    "doc_21576.txt",
+    "doc_21577.txt",
+    "doc_39040.txt",
+    "doc_21580.txt",
+    "doc_39035.txt"
+  ]
+}

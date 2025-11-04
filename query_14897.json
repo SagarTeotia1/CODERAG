@@ -1,0 +1,10 @@
+{
+  "query": "In what month and year was a report transcribed by FBIS and Xinhua Reports regarding Russian Doctrine?",
+  "response": [
+    "doc_37931.txt",
+    "doc_6680.txt",
+    "doc_3200.txt",
+    "doc_25439.txt",
+    "doc_25441.txt"
+  ]
+}

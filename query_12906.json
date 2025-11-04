@@ -1,0 +1,10 @@
+{
+  "query": "What type of assistance was the retired German judge entitled to?",
+  "response": [
+    "doc_22499.txt",
+    "doc_31214.txt",
+    "doc_9121.txt",
+    "doc_34856.txt",
+    "doc_31228.txt"
+  ]
+}

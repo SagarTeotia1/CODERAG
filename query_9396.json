@@ -1,0 +1,10 @@
+{
+  "query": "What was the primary difference between the “fat” and “lean” cows described in Pharaoh’s dream?",
+  "response": [
+    "doc_13782.txt",
+    "doc_13785.txt",
+    "doc_13783.txt",
+    "doc_13786.txt",
+    "doc_13787.txt"
+  ]
+}

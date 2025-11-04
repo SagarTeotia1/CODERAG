@@ -1,0 +1,10 @@
+{
+  "query": "Which band released the song “Ho Hey,” and how many weeks did it spend at number one on the “Billboard” Rock Songs chart?",
+  "response": [
+    "doc_1537.txt",
+    "doc_1447.txt",
+    "doc_34421.txt",
+    "doc_29931.txt",
+    "doc_22662.txt"
+  ]
+}

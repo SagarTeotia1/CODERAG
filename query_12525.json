@@ -1,0 +1,10 @@
+{
+  "query": "What mission did Ken Mattingly fly on that took him to the Moon?",
+  "response": [
+    "doc_20952.txt",
+    "doc_20955.txt",
+    "doc_16692.txt",
+    "doc_21635.txt",
+    "doc_21629.txt"
+  ]
+}

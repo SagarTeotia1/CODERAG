@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the pirate in \"SquarePants Movie\", and what did he steal?",
+  "response": [
+    "doc_4534.txt",
+    "doc_4533.txt",
+    "doc_8650.txt",
+    "doc_4531.txt",
+    "doc_8586.txt"
+  ]
+}

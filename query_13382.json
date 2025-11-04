@@ -1,0 +1,10 @@
+{
+  "query": "Which record label released the album \"Forgiveness Rock Record\"?",
+  "response": [
+    "doc_3349.txt",
+    "doc_9306.txt",
+    "doc_19760.txt",
+    "doc_36259.txt",
+    "doc_38411.txt"
+  ]
+}

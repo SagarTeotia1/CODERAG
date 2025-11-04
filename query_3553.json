@@ -1,0 +1,10 @@
+{
+  "query": "When did *The Muppet Show* premiere?",
+  "response": [
+    "doc_35872.txt",
+    "doc_35870.txt",
+    "doc_35867.txt",
+    "doc_35866.txt",
+    "doc_35871.txt"
+  ]
+}

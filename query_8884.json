@@ -1,0 +1,10 @@
+{
+  "query": "When was Pandemrix authorized by the Commission?",
+  "response": [
+    "doc_12554.txt",
+    "doc_24571.txt",
+    "doc_24720.txt",
+    "doc_27745.txt",
+    "doc_18312.txt"
+  ]
+}

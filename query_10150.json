@@ -1,0 +1,10 @@
+{
+  "query": "What was the proposed increase in funding for Title 18 between 2007 and 2006, and what was the actual allocation in the 2006 budget?",
+  "response": [
+    "doc_15500.txt",
+    "doc_15501.txt",
+    "doc_15569.txt",
+    "doc_29853.txt",
+    "doc_15554.txt"
+  ]
+}

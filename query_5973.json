@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Maison Pic first earn its third Michelin star?",
+  "response": [
+    "doc_5288.txt",
+    "doc_5289.txt",
+    "doc_21100.txt",
+    "doc_28651.txt",
+    "doc_28648.txt"
+  ]
+}

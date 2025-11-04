@@ -1,0 +1,10 @@
+{
+  "query": "What was the Bulls' overall record for the 1995-96 season?",
+  "response": [
+    "doc_4997.txt",
+    "doc_4991.txt",
+    "doc_4999.txt",
+    "doc_4992.txt",
+    "doc_5002.txt"
+  ]
+}

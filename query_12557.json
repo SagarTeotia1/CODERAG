@@ -1,0 +1,9 @@
+{
+  "query": "What is Nancy Lopez's birthdate and place?",
+  "response": [
+    "doc_21582.txt",
+    "doc_21583.txt",
+    "doc_21584.txt",
+    "doc_21585.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What genres are combined in the film “La ley de Herodes”?",
+  "response": [
+    "doc_26283.txt",
+    "doc_39544.txt",
+    "doc_7733.txt",
+    "doc_39545.txt",
+    "doc_33600.txt"
+  ]
+}

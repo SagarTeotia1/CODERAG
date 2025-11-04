@@ -1,0 +1,10 @@
+{
+  "query": "On what type of court was the 2017 City of Onkaparinga ATP Challenger played?",
+  "response": [
+    "doc_31945.txt",
+    "doc_31946.txt",
+    "doc_8355.txt",
+    "doc_8356.txt",
+    "doc_38944.txt"
+  ]
+}

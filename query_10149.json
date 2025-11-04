@@ -1,0 +1,10 @@
+{
+  "query": "What changes occurred to budget lines under Title 18 between the 2006 budget and the 2007 preliminary draft budget (PDB)?",
+  "response": [
+    "doc_15500.txt",
+    "doc_15501.txt",
+    "doc_15569.txt",
+    "doc_15570.txt",
+    "doc_15502.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to the text, where is the seat of the national government for Cascadia located?",
+  "response": [
+    "doc_30909.txt",
+    "doc_1403.txt",
+    "doc_1400.txt",
+    "doc_1401.txt",
+    "doc_1404.txt"
+  ]
+}

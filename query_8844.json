@@ -1,0 +1,10 @@
+{
+  "query": "What system will be used by the European Commission to assess compliance with the 2005 deadline for waste water treatment?",
+  "response": [
+    "doc_12303.txt",
+    "doc_1174.txt",
+    "doc_17226.txt",
+    "doc_21288.txt",
+    "doc_31698.txt"
+  ]
+}

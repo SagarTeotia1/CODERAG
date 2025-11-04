@@ -1,0 +1,10 @@
+{
+  "query": "Does the passage suggest that a large surplus in the EU budget could negatively impact the EU’s credibility?",
+  "response": [
+    "doc_16259.txt",
+    "doc_13343.txt",
+    "doc_13342.txt",
+    "doc_14559.txt",
+    "doc_33400.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which album features Harry Chapin's performance of \"Let Time Go Lightly\"?",
+  "response": [
+    "doc_30575.txt",
+    "doc_31622.txt",
+    "doc_30574.txt",
+    "doc_31620.txt",
+    "doc_31617.txt"
+  ]
+}

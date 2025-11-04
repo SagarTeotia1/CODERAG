@@ -1,0 +1,10 @@
+{
+  "query": "When was Adam Smith’s *The Wealth of Nations* published?",
+  "response": [
+    "doc_7025.txt",
+    "doc_1899.txt",
+    "doc_308.txt",
+    "doc_38268.txt",
+    "doc_1898.txt"
+  ]
+}

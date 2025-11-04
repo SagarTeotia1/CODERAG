@@ -1,0 +1,10 @@
+{
+  "query": "According to “The Lone Star,” who was originally intended as the target of John Connally’s assassination attempt?",
+  "response": [
+    "doc_16307.txt",
+    "doc_31136.txt",
+    "doc_31137.txt",
+    "doc_31139.txt",
+    "doc_31140.txt"
+  ]
+}

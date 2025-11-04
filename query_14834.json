@@ -1,0 +1,10 @@
+{
+  "query": "What event, held annually in Burnaby Heights, involves merchants taking their hats off as a gesture of community appreciation?",
+  "response": [
+    "doc_31521.txt",
+    "doc_27179.txt",
+    "doc_9590.txt",
+    "doc_9588.txt",
+    "doc_20539.txt"
+  ]
+}

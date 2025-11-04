@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the NNS (Naval Ship) operating at Port Harcourt?",
+  "response": [
+    "doc_20415.txt",
+    "doc_39970.txt",
+    "doc_20049.txt",
+    "doc_20050.txt",
+    "doc_20046.txt"
+  ]
+}

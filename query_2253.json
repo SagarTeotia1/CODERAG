@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how many copies have Dr. Seuss’s collection of titles sold?",
+  "response": [
+    "doc_32853.txt",
+    "doc_32854.txt",
+    "doc_32850.txt",
+    "doc_32852.txt",
+    "doc_10713.txt"
+  ]
+}

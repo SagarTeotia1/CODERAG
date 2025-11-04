@@ -1,0 +1,10 @@
+{
+  "query": "What types of animals are housed at the Secret Garden?",
+  "response": [
+    "doc_16032.txt",
+    "doc_16033.txt",
+    "doc_16036.txt",
+    "doc_16037.txt",
+    "doc_16043.txt"
+  ]
+}

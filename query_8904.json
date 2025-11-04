@@ -1,0 +1,10 @@
+{
+  "query": "What did Theresa May say about Queen Elizabeth II’s service?",
+  "response": [
+    "doc_36365.txt",
+    "doc_36364.txt",
+    "doc_36363.txt",
+    "doc_9288.txt",
+    "doc_36371.txt"
+  ]
+}

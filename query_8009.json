@@ -1,0 +1,10 @@
+{
+  "query": "What are the titles of the “Leatherstocking Tales” mentioned in the passage?",
+  "response": [
+    "doc_10434.txt",
+    "doc_10437.txt",
+    "doc_25458.txt",
+    "doc_10439.txt",
+    "doc_10436.txt"
+  ]
+}

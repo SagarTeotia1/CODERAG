@@ -1,0 +1,10 @@
+{
+  "query": "How do vowel combinations affect pronunciation in Japanese, specifically regarding the interaction of vowels following each other?",
+  "response": [
+    "doc_14531.txt",
+    "doc_14541.txt",
+    "doc_14537.txt",
+    "doc_14533.txt",
+    "doc_14532.txt"
+  ]
+}

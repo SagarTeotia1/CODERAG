@@ -1,0 +1,10 @@
+{
+  "query": "What natural feature is associated with Mount Hood?",
+  "response": [
+    "doc_30905.txt",
+    "doc_30911.txt",
+    "doc_30912.txt",
+    "doc_30908.txt",
+    "doc_30906.txt"
+  ]
+}

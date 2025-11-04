@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how many Shakey's Pizza locations are there globally?",
+  "response": [
+    "doc_335.txt",
+    "doc_3900.txt",
+    "doc_16676.txt",
+    "doc_33945.txt",
+    "doc_16678.txt"
+  ]
+}

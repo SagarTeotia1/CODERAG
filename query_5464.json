@@ -1,0 +1,10 @@
+{
+  "query": "In what region of Portugal did public companies dump 320,000 tonnes of hazardous waste between May 2001 and March 2002?",
+  "response": [
+    "doc_4017.txt",
+    "doc_22102.txt",
+    "doc_7293.txt",
+    "doc_33813.txt",
+    "doc_32100.txt"
+  ]
+}

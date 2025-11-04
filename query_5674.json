@@ -1,0 +1,10 @@
+{
+  "query": "Which birds are now known to pollinate the Canarian plants mentioned in the passage?",
+  "response": [
+    "doc_4494.txt",
+    "doc_2920.txt",
+    "doc_22510.txt",
+    "doc_2921.txt",
+    "doc_2924.txt"
+  ]
+}

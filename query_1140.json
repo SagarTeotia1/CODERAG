@@ -1,0 +1,10 @@
+{
+  "query": "What was the date of the Battle of the Somme, as described in one of the provided links?",
+  "response": [
+    "doc_30116.txt",
+    "doc_30117.txt",
+    "doc_9672.txt",
+    "doc_9676.txt",
+    "doc_32690.txt"
+  ]
+}

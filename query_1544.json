@@ -1,0 +1,10 @@
+{
+  "query": "Which UFC divisions did Quinton “Rampage” Penn compete in?",
+  "response": [
+    "doc_31065.txt",
+    "doc_11866.txt",
+    "doc_31066.txt",
+    "doc_37335.txt",
+    "doc_37336.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the maximum weight that Saturn V could lift to the moon?",
+  "response": [
+    "doc_24123.txt",
+    "doc_21635.txt",
+    "doc_24122.txt",
+    "doc_21636.txt",
+    "doc_20958.txt"
+  ]
+}

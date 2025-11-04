@@ -1,0 +1,10 @@
+{
+  "query": "Which countries have already signed the ACTA agreement?",
+  "response": [
+    "doc_27164.txt",
+    "doc_27166.txt",
+    "doc_28642.txt",
+    "doc_27165.txt",
+    "doc_8530.txt"
+  ]
+}

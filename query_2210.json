@@ -1,0 +1,10 @@
+{
+  "query": "Which scenic train lines in Austria are covered by Eurail Passes?",
+  "response": [
+    "doc_32730.txt",
+    "doc_32729.txt",
+    "doc_32731.txt",
+    "doc_32732.txt",
+    "doc_32734.txt"
+  ]
+}

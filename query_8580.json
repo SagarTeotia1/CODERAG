@@ -1,0 +1,10 @@
+{
+  "query": "What is the current rate of industrial deaths in Italy, and what is this phenomenon referred to as?",
+  "response": [
+    "doc_11812.txt",
+    "doc_35899.txt",
+    "doc_22016.txt",
+    "doc_37312.txt",
+    "doc_8303.txt"
+  ]
+}

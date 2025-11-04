@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided documents, what items might a Scout or leader carry for life-threatening conditions?",
+  "response": [
+    "doc_16030.txt",
+    "doc_16029.txt",
+    "doc_16028.txt",
+    "doc_4983.txt",
+    "doc_4982.txt"
+  ]
+}

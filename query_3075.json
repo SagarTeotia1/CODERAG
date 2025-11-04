@@ -1,0 +1,10 @@
+{
+  "query": "What was Captain Edward Berry’s role on the “Leander” during the engagement?",
+  "response": [
+    "doc_17309.txt",
+    "doc_17311.txt",
+    "doc_17302.txt",
+    "doc_17304.txt",
+    "doc_17306.txt"
+  ]
+}

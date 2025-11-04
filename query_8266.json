@@ -1,0 +1,10 @@
+{
+  "query": "What name did Mark Twain adopt during the 1850s?",
+  "response": [
+    "doc_11046.txt",
+    "doc_11045.txt",
+    "doc_11042.txt",
+    "doc_31373.txt",
+    "doc_11041.txt"
+  ]
+}

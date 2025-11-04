@@ -1,0 +1,10 @@
+{
+  "query": "What film featured Judy Garland wearing the ruby slippers, and in what year was it released?",
+  "response": [
+    "doc_20371.txt",
+    "doc_20373.txt",
+    "doc_20375.txt",
+    "doc_20372.txt",
+    "doc_5382.txt"
+  ]
+}

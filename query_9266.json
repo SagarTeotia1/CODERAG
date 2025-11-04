@@ -1,0 +1,10 @@
+{
+  "query": "In what city and country is the Fresh Film Fest held annually?",
+  "response": [
+    "doc_37216.txt",
+    "doc_11452.txt",
+    "doc_1161.txt",
+    "doc_35771.txt",
+    "doc_35772.txt"
+  ]
+}

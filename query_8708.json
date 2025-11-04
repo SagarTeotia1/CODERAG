@@ -1,0 +1,10 @@
+{
+  "query": "Why did the Commission criticize the fine imposed on Dogan Yayin?",
+  "response": [
+    "doc_12098.txt",
+    "doc_13789.txt",
+    "doc_13074.txt",
+    "doc_7512.txt",
+    "doc_17514.txt"
+  ]
+}

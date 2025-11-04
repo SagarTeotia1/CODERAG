@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the album “Canción Animal” released by Soda Stereo?",
+  "response": [
+    "doc_7355.txt",
+    "doc_7354.txt",
+    "doc_23242.txt",
+    "doc_13764.txt",
+    "doc_20206.txt"
+  ]
+}

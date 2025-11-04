@@ -1,0 +1,10 @@
+{
+  "query": "During which concert did Carlos Santana join the stage on the “Fire Meets the Fury Tour”?",
+  "response": [
+    "doc_33023.txt",
+    "doc_27702.txt",
+    "doc_27703.txt",
+    "doc_33024.txt",
+    "doc_2336.txt"
+  ]
+}

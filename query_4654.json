@@ -1,0 +1,10 @@
+{
+  "query": "What advertising campaign is associated with the Corona Extra brand, as highlighted in a 2006 Chron.com article?",
+  "response": [
+    "doc_8585.txt",
+    "doc_12527.txt",
+    "doc_26180.txt",
+    "doc_26179.txt",
+    "doc_24631.txt"
+  ]
+}

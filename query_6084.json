@@ -1,0 +1,10 @@
+{
+  "query": "What happened to Bauer, the former CEO of Terre Haute Regional Hospital?",
+  "response": [
+    "doc_5570.txt",
+    "doc_5573.txt",
+    "doc_5572.txt",
+    "doc_5568.txt",
+    "doc_18965.txt"
+  ]
+}

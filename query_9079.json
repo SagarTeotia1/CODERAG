@@ -1,0 +1,10 @@
+{
+  "query": "Who founded Magrudy’s bookstore?",
+  "response": [
+    "doc_25762.txt",
+    "doc_34620.txt",
+    "doc_21447.txt",
+    "doc_23362.txt",
+    "doc_25760.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What subject did Vincent van Gogh frequently paint from the window of his cell at the Saint-Paul asylum?",
+  "response": [
+    "doc_3846.txt",
+    "doc_3847.txt",
+    "doc_30085.txt",
+    "doc_30081.txt",
+    "doc_30082.txt"
+  ]
+}

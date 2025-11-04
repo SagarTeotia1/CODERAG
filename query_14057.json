@@ -1,0 +1,10 @@
+{
+  "query": "In what country is Crayke Castle located?",
+  "response": [
+    "doc_25222.txt",
+    "doc_25221.txt",
+    "doc_12262.txt",
+    "doc_12263.txt",
+    "doc_12260.txt"
+  ]
+}

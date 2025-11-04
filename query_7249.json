@@ -1,0 +1,10 @@
+{
+  "query": "Which NHL team drafted Ryan Duthie twice?",
+  "response": [
+    "doc_8472.txt",
+    "doc_32635.txt",
+    "doc_8473.txt",
+    "doc_32638.txt",
+    "doc_32630.txt"
+  ]
+}

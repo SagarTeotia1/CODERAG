@@ -1,0 +1,10 @@
+{
+  "query": "In what year did George Romero write ‘The Hollow Men’?",
+  "response": [
+    "doc_31149.txt",
+    "doc_31147.txt",
+    "doc_31145.txt",
+    "doc_31146.txt",
+    "doc_31151.txt"
+  ]
+}

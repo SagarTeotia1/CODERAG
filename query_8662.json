@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the Rare Book Library moved to Saint-Jrme?",
+  "response": [
+    "doc_11973.txt",
+    "doc_11971.txt",
+    "doc_11975.txt",
+    "doc_11972.txt",
+    "doc_11974.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to the EBRD report, what is the projected trend for GDP growth in central and south-east Europe during 2011 and 2012?",
+  "response": [
+    "doc_27657.txt",
+    "doc_9910.txt",
+    "doc_25949.txt",
+    "doc_9914.txt",
+    "doc_9912.txt"
+  ]
+}

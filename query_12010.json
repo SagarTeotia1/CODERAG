@@ -1,0 +1,10 @@
+{
+  "query": "Does the EU currently have a trade agreement with Myanmar?",
+  "response": [
+    "doc_1955.txt",
+    "doc_12431.txt",
+    "doc_14186.txt",
+    "doc_12432.txt",
+    "doc_13039.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the title of a symphonic poem by Debussy, and in what year was it originally published?",
+  "response": [
+    "doc_1642.txt",
+    "doc_1637.txt",
+    "doc_1639.txt",
+    "doc_1636.txt",
+    "doc_1641.txt"
+  ]
+}

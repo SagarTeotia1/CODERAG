@@ -1,0 +1,10 @@
+{
+  "query": "What other Tamayo works are mentioned as being comparable to this mural?",
+  "response": [
+    "doc_30247.txt",
+    "doc_2189.txt",
+    "doc_3703.txt",
+    "doc_2192.txt",
+    "doc_2191.txt"
+  ]
+}

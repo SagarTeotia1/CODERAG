@@ -1,0 +1,10 @@
+{
+  "query": "During what time period did Faurot serve as the athletic director at Missouri?",
+  "response": [
+    "doc_37223.txt",
+    "doc_25627.txt",
+    "doc_14701.txt",
+    "doc_25624.txt",
+    "doc_27296.txt"
+  ]
+}

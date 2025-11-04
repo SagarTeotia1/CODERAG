@@ -1,0 +1,10 @@
+{
+  "query": "What is the quality of Fischer-Dieskau’s musical decisions described in the passage?",
+  "response": [
+    "doc_19451.txt",
+    "doc_24953.txt",
+    "doc_19447.txt",
+    "doc_218.txt",
+    "doc_24954.txt"
+  ]
+}

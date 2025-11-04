@@ -1,0 +1,10 @@
+{
+  "query": "What is the population of Bucharest’s urban zone?",
+  "response": [
+    "doc_37796.txt",
+    "doc_37795.txt",
+    "doc_37793.txt",
+    "doc_37785.txt",
+    "doc_37784.txt"
+  ]
+}

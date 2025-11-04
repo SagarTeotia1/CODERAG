@@ -1,0 +1,10 @@
+{
+  "query": "Who was Raymond J. Donovan’s role as Secretary of Labor?",
+  "response": [
+    "doc_5020.txt",
+    "doc_5025.txt",
+    "doc_5024.txt",
+    "doc_5018.txt",
+    "doc_5021.txt"
+  ]
+}

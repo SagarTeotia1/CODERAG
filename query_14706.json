@@ -1,0 +1,10 @@
+{
+  "query": "Which five Joint Technology Initiatives (JTIs) have been established as Joint Undertakings (JUs)?",
+  "response": [
+    "doc_26826.txt",
+    "doc_2417.txt",
+    "doc_23783.txt",
+    "doc_10388.txt",
+    "doc_28044.txt"
+  ]
+}

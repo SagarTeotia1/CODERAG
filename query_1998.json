@@ -1,0 +1,10 @@
+{
+  "query": "What was the final major league victory of Cy Young?",
+  "response": [
+    "doc_32182.txt",
+    "doc_32179.txt",
+    "doc_32180.txt",
+    "doc_2758.txt",
+    "doc_32181.txt"
+  ]
+}

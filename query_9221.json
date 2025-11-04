@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the park where the Bantry Blues v Clonakilty match took place?",
+  "response": [
+    "doc_1313.txt",
+    "doc_1315.txt",
+    "doc_1312.txt",
+    "doc_1311.txt",
+    "doc_1309.txt"
+  ]
+}

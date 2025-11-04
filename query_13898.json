@@ -1,0 +1,10 @@
+{
+  "query": "For which franchise is Taeko Kawata known for voicing Amy Rose?",
+  "response": [
+    "doc_24833.txt",
+    "doc_24832.txt",
+    "doc_9870.txt",
+    "doc_32987.txt",
+    "doc_9871.txt"
+  ]
+}

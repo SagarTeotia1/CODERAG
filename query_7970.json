@@ -1,0 +1,10 @@
+{
+  "query": "Where does the Cinca River rise?",
+  "response": [
+    "doc_10327.txt",
+    "doc_10328.txt",
+    "doc_10329.txt",
+    "doc_10330.txt",
+    "doc_10326.txt"
+  ]
+}

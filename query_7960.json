@@ -1,0 +1,10 @@
+{
+  "query": "Which television series featured Tisha Campbell-Martin as Janet “Jay” Marie Johnson-Kyle?",
+  "response": [
+    "doc_5594.txt",
+    "doc_28511.txt",
+    "doc_26966.txt",
+    "doc_5589.txt",
+    "doc_5587.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the origin of the name \"Purple Numbers\"?",
+  "response": [
+    "doc_39758.txt",
+    "doc_5367.txt",
+    "doc_14777.txt",
+    "doc_6915.txt",
+    "doc_5361.txt"
+  ]
+}

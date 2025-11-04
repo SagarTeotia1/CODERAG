@@ -1,0 +1,10 @@
+{
+  "query": "Which company currently holds the record for being the longest continuously listed stock on the NYSE, and when was it incorporated?",
+  "response": [
+    "doc_27495.txt",
+    "doc_27494.txt",
+    "doc_27505.txt",
+    "doc_27496.txt",
+    "doc_27497.txt"
+  ]
+}

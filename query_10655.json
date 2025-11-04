@@ -1,0 +1,10 @@
+{
+  "query": "When was Mariano Azuela’s novel, *Los de Abajo* (The Underdogs), written?",
+  "response": [
+    "doc_1651.txt",
+    "doc_1652.txt",
+    "doc_1650.txt",
+    "doc_1653.txt",
+    "doc_1586.txt"
+  ]
+}

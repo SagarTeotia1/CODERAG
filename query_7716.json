@@ -1,0 +1,10 @@
+{
+  "query": "Which organization does not recognize the name “Bermuda Triangle”?",
+  "response": [
+    "doc_24040.txt",
+    "doc_24039.txt",
+    "doc_24037.txt",
+    "doc_24034.txt",
+    "doc_24038.txt"
+  ]
+}

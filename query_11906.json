@@ -1,0 +1,10 @@
+{
+  "query": "What is a “discophile,” according to the Merriam-Webster dictionary?",
+  "response": [
+    "doc_20027.txt",
+    "doc_20029.txt",
+    "doc_11309.txt",
+    "doc_20028.txt",
+    "doc_32899.txt"
+  ]
+}

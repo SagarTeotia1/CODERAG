@@ -1,0 +1,10 @@
+{
+  "query": "When was the Seventeenth Amendment ratified?",
+  "response": [
+    "doc_20845.txt",
+    "doc_20843.txt",
+    "doc_20849.txt",
+    "doc_20853.txt",
+    "doc_20846.txt"
+  ]
+}

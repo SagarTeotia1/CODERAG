@@ -1,0 +1,10 @@
+{
+  "query": "Which countries currently have partners within the Enterprise Europe Network?",
+  "response": [
+    "doc_35579.txt",
+    "doc_37600.txt",
+    "doc_8835.txt",
+    "doc_19900.txt",
+    "doc_19977.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When was the 2014 NHL Heritage Classic game played?",
+  "response": [
+    "doc_38743.txt",
+    "doc_17335.txt",
+    "doc_32639.txt",
+    "doc_38747.txt",
+    "doc_17332.txt"
+  ]
+}

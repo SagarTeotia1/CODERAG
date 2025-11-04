@@ -1,0 +1,10 @@
+{
+  "query": "Which album featured the song “Warm and Beautiful” and who originally performed it?",
+  "response": [
+    "doc_21929.txt",
+    "doc_19814.txt",
+    "doc_31613.txt",
+    "doc_19639.txt",
+    "doc_31616.txt"
+  ]
+}

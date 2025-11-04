@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what were the average daily viewership numbers for TVNET.EU and Euronews?",
+  "response": [
+    "doc_39255.txt",
+    "doc_3934.txt",
+    "doc_1676.txt",
+    "doc_18716.txt",
+    "doc_5841.txt"
+  ]
+}

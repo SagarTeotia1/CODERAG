@@ -1,0 +1,10 @@
+{
+  "query": "Which motorcycle racing championship did Mat Mladin win in 2009?",
+  "response": [
+    "doc_26166.txt",
+    "doc_26165.txt",
+    "doc_11903.txt",
+    "doc_6875.txt",
+    "doc_22287.txt"
+  ]
+}

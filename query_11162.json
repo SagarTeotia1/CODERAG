@@ -1,0 +1,10 @@
+{
+  "query": "When did the division known as Walt Disney Pictures adopt its current name?",
+  "response": [
+    "doc_26923.txt",
+    "doc_18029.txt",
+    "doc_18031.txt",
+    "doc_26928.txt",
+    "doc_18030.txt"
+  ]
+}

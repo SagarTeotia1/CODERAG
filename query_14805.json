@@ -1,0 +1,10 @@
+{
+  "query": "Who was the former Director of Central Intelligence mentioned in the passage?",
+  "response": [
+    "doc_5965.txt",
+    "doc_27071.txt",
+    "doc_29671.txt",
+    "doc_27066.txt",
+    "doc_27064.txt"
+  ]
+}

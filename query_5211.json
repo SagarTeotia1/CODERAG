@@ -1,0 +1,10 @@
+{
+  "query": "How many FA Cup finals had Arsenal played before the 2014 final?",
+  "response": [
+    "doc_33811.txt",
+    "doc_39834.txt",
+    "doc_14700.txt",
+    "doc_29619.txt",
+    "doc_15783.txt"
+  ]
+}

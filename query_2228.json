@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the song by Richard Rodgers and Lorenz Hart featured in “The Boys from Syracuse”?",
+  "response": [
+    "doc_9739.txt",
+    "doc_11493.txt",
+    "doc_31750.txt",
+    "doc_39420.txt",
+    "doc_31837.txt"
+  ]
+}

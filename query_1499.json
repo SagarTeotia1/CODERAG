@@ -1,0 +1,10 @@
+{
+  "query": "Which committee produced a report titled \"Strengthening security and fundamental freedoms on the Internet\"?",
+  "response": [
+    "doc_2561.txt",
+    "doc_7601.txt",
+    "doc_23803.txt",
+    "doc_4424.txt",
+    "doc_4426.txt"
+  ]
+}

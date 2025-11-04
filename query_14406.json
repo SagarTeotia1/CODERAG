@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what are the Ossetian languages related to in terms of phonemes?",
+  "response": [
+    "doc_14539.txt",
+    "doc_14537.txt",
+    "doc_31956.txt",
+    "doc_1380.txt",
+    "doc_1379.txt"
+  ]
+}

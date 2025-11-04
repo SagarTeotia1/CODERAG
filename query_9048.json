@@ -1,0 +1,10 @@
+{
+  "query": "What are the key features of the AES92 reactor design compared to previous VVER reactors?",
+  "response": [
+    "doc_18767.txt",
+    "doc_35023.txt",
+    "doc_35026.txt",
+    "doc_35024.txt",
+    "doc_35025.txt"
+  ]
+}

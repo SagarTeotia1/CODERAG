@@ -1,0 +1,10 @@
+{
+  "query": "Which political groups submitted motions for resolutions regarding the case of Ai WeiWei?",
+  "response": [
+    "doc_15914.txt",
+    "doc_27848.txt",
+    "doc_30880.txt",
+    "doc_30879.txt",
+    "doc_4978.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Joe Montana throw the winning touchdown pass that became known as “The Catch”?",
+  "response": [
+    "doc_26183.txt",
+    "doc_26185.txt",
+    "doc_26184.txt",
+    "doc_26188.txt",
+    "doc_26186.txt"
+  ]
+}

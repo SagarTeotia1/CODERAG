@@ -1,0 +1,10 @@
+{
+  "query": "What film awards did George Eastman receive?",
+  "response": [
+    "doc_30238.txt",
+    "doc_2556.txt",
+    "doc_3681.txt",
+    "doc_30233.txt",
+    "doc_30232.txt"
+  ]
+}

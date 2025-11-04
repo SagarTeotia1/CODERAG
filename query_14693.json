@@ -1,0 +1,10 @@
+{
+  "query": "What is the acronym DAM in the context of chemotherapy?",
+  "response": [
+    "doc_26808.txt",
+    "doc_26807.txt",
+    "doc_21428.txt",
+    "doc_21427.txt",
+    "doc_21426.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What title is Andreas Vesalius commonly referred to as?",
+  "response": [
+    "doc_1980.txt",
+    "doc_1979.txt",
+    "doc_1978.txt",
+    "doc_1981.txt",
+    "doc_1983.txt"
+  ]
+}

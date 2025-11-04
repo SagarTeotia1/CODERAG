@@ -1,0 +1,10 @@
+{
+  "query": "On what type of calendar were Muslim holy days included starting in 2011?",
+  "response": [
+    "doc_4706.txt",
+    "doc_4701.txt",
+    "doc_4705.txt",
+    "doc_4709.txt",
+    "doc_4704.txt"
+  ]
+}

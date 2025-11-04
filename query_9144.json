@@ -1,0 +1,10 @@
+{
+  "query": "What trade-related benefit has the EU recently offered to Palestinian exports?",
+  "response": [
+    "doc_1283.txt",
+    "doc_27719.txt",
+    "doc_20469.txt",
+    "doc_27718.txt",
+    "doc_32361.txt"
+  ]
+}

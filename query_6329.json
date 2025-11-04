@@ -1,0 +1,10 @@
+{
+  "query": "What was John Elliott’s position in the government of Georgia?",
+  "response": [
+    "doc_6130.txt",
+    "doc_38610.txt",
+    "doc_6860.txt",
+    "doc_6852.txt",
+    "doc_6859.txt"
+  ]
+}

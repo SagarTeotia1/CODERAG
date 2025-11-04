@@ -1,0 +1,10 @@
+{
+  "query": "What materials were used to construct the Mausoleum of Sir Richard and Lady Burton?",
+  "response": [
+    "doc_27596.txt",
+    "doc_26714.txt",
+    "doc_33502.txt",
+    "doc_33501.txt",
+    "doc_26719.txt"
+  ]
+}

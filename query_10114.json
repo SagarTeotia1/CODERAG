@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Kovas Communications surrender the station's license?",
+  "response": [
+    "doc_38288.txt",
+    "doc_29092.txt",
+    "doc_40273.txt",
+    "doc_40276.txt",
+    "doc_15037.txt"
+  ]
+}

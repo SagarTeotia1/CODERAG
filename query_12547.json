@@ -1,0 +1,10 @@
+{
+  "query": "Where did the individual hold the Division of Medical Genetics for 20 years?",
+  "response": [
+    "doc_38704.txt",
+    "doc_28796.txt",
+    "doc_38702.txt",
+    "doc_28794.txt",
+    "doc_28795.txt"
+  ]
+}

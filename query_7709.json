@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission’s estimate of the amount of food wasted each week in each Member State?",
+  "response": [
+    "doc_9633.txt",
+    "doc_9304.txt",
+    "doc_40133.txt",
+    "doc_40134.txt",
+    "doc_25924.txt"
+  ]
+}

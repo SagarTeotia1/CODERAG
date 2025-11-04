@@ -1,0 +1,10 @@
+{
+  "query": "In what year did the 1972 North Carolina Tar Heels football team win their second consecutive ACC championship?",
+  "response": [
+    "doc_15073.txt",
+    "doc_15074.txt",
+    "doc_17448.txt",
+    "doc_17829.txt",
+    "doc_17455.txt"
+  ]
+}

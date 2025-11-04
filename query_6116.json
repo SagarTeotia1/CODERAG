@@ -1,0 +1,10 @@
+{
+  "query": "Is it aware of the existence of the flag in question in this mountain chain in Cyprus?",
+  "response": [
+    "doc_5660.txt",
+    "doc_34436.txt",
+    "doc_34431.txt",
+    "doc_34432.txt",
+    "doc_34435.txt"
+  ]
+}

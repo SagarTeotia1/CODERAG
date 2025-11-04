@@ -1,0 +1,10 @@
+{
+  "query": "On what album did Kirsty MacColl collaborate with Steve Lillywhite to record “Fairytale of New York”?",
+  "response": [
+    "doc_38130.txt",
+    "doc_38131.txt",
+    "doc_15907.txt",
+    "doc_30763.txt",
+    "doc_30762.txt"
+  ]
+}

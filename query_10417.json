@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the first Hong Kong Film Award for Best Director presented?",
+  "response": [
+    "doc_16279.txt",
+    "doc_16280.txt",
+    "doc_11944.txt",
+    "doc_8354.txt",
+    "doc_11943.txt"
+  ]
+}

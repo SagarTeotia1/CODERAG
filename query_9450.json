@@ -1,0 +1,10 @@
+{
+  "query": "What is the primary direction of National Route A17 Portrush Road?",
+  "response": [
+    "doc_29722.txt",
+    "doc_29719.txt",
+    "doc_30649.txt",
+    "doc_25263.txt",
+    "doc_39874.txt"
+  ]
+}

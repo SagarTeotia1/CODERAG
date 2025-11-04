@@ -1,0 +1,10 @@
+{
+  "query": "When did Largo Town Center station open, and what lines does it serve?",
+  "response": [
+    "doc_36556.txt",
+    "doc_22097.txt",
+    "doc_22092.txt",
+    "doc_9816.txt",
+    "doc_28399.txt"
+  ]
+}

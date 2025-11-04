@@ -1,0 +1,10 @@
+{
+  "query": "What did Jack, Kate, and others do to render the Smoke Monster mortal?",
+  "response": [
+    "doc_33116.txt",
+    "doc_33123.txt",
+    "doc_29686.txt",
+    "doc_34703.txt",
+    "doc_29689.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is stated about the religious practices of people from Taiwan?",
+  "response": [
+    "doc_29865.txt",
+    "doc_29864.txt",
+    "doc_29866.txt",
+    "doc_10497.txt",
+    "doc_10499.txt"
+  ]
+}

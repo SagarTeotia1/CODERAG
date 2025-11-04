@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of all asylum requests registered in 2003 were made by unaccompanied children, based on data from the UNHCR report?",
+  "response": [
+    "doc_33391.txt",
+    "doc_7338.txt",
+    "doc_1253.txt",
+    "doc_28631.txt",
+    "doc_35135.txt"
+  ]
+}

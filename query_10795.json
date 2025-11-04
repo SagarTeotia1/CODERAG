@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of all breast cancers in the EU25 affect men, according to the data collected by ENCR?",
+  "response": [
+    "doc_17096.txt",
+    "doc_21047.txt",
+    "doc_24241.txt",
+    "doc_4668.txt",
+    "doc_16467.txt"
+  ]
+}

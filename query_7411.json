@@ -1,0 +1,10 @@
+{
+  "query": "In Greece, what proportion of hazardous waste produced is stored temporarily before final disposal?",
+  "response": [
+    "doc_855.txt",
+    "doc_5494.txt",
+    "doc_12633.txt",
+    "doc_34250.txt",
+    "doc_4971.txt"
+  ]
+}

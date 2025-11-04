@@ -1,0 +1,10 @@
+{
+  "query": "What was the Commission’s assessment of the Dutch new Health Insurance Act regarding European Union competition policy?",
+  "response": [
+    "doc_603.txt",
+    "doc_604.txt",
+    "doc_3418.txt",
+    "doc_14055.txt",
+    "doc_5290.txt"
+  ]
+}

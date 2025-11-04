@@ -1,0 +1,10 @@
+{
+  "query": "What year was Macalester College founded?",
+  "response": [
+    "doc_35758.txt",
+    "doc_35757.txt",
+    "doc_35750.txt",
+    "doc_35752.txt",
+    "doc_35751.txt"
+  ]
+}

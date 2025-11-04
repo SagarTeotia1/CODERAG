@@ -1,0 +1,10 @@
+{
+  "query": "What was Vitaliy’s role at Valve?",
+  "response": [
+    "doc_13560.txt",
+    "doc_13556.txt",
+    "doc_13563.txt",
+    "doc_33409.txt",
+    "doc_21864.txt"
+  ]
+}

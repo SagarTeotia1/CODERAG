@@ -1,0 +1,10 @@
+{
+  "query": "What decision did the Dutch authorities announce regarding ‘depolderisation’ as a nature restoration measure?",
+  "response": [
+    "doc_3227.txt",
+    "doc_19005.txt",
+    "doc_4280.txt",
+    "doc_37563.txt",
+    "doc_34825.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was the vote count regarding the proposal for a European Year for combating violence against women?",
+  "response": [
+    "doc_2339.txt",
+    "doc_15951.txt",
+    "doc_15918.txt",
+    "doc_39106.txt",
+    "doc_26803.txt"
+  ]
+}

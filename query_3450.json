@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided links, which film features Carol Connelly (Helen Hunt) delivering the quote, “When I first saw you, I thought you were handsome. Then, of course, you spoke”?",
+  "response": [
+    "doc_35607.txt",
+    "doc_35608.txt",
+    "doc_35606.txt",
+    "doc_8223.txt",
+    "doc_32880.txt"
+  ]
+}

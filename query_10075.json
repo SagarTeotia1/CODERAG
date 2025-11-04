@@ -1,0 +1,10 @@
+{
+  "query": "How long does the speaker spend in Delhi while making a movie?",
+  "response": [
+    "doc_36591.txt",
+    "doc_36590.txt",
+    "doc_36597.txt",
+    "doc_10814.txt",
+    "doc_11957.txt"
+  ]
+}

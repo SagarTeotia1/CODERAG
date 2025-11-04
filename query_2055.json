@@ -1,0 +1,10 @@
+{
+  "query": "Who was the president of the Scarab Club in 1938?",
+  "response": [
+    "doc_28244.txt",
+    "doc_1751.txt",
+    "doc_19275.txt",
+    "doc_35803.txt",
+    "doc_28239.txt"
+  ]
+}

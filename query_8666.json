@@ -1,0 +1,10 @@
+{
+  "query": "In what month and year did Equitable’s claim against its former auditors, Ernst & Young, get settled?",
+  "response": [
+    "doc_1130.txt",
+    "doc_1129.txt",
+    "doc_1035.txt",
+    "doc_1004.txt",
+    "doc_861.txt"
+  ]
+}

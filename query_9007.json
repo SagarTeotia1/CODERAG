@@ -1,0 +1,10 @@
+{
+  "query": "Which organization created the Veterinary Medical College Application Service?",
+  "response": [
+    "doc_21822.txt",
+    "doc_17796.txt",
+    "doc_12590.txt",
+    "doc_12587.txt",
+    "doc_36434.txt"
+  ]
+}

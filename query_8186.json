@@ -1,0 +1,10 @@
+{
+  "query": "Who introduced Mr. Schenck to Mr. Wilkins and Miss Schenck?",
+  "response": [
+    "doc_2357.txt",
+    "doc_8965.txt",
+    "doc_9928.txt",
+    "doc_17711.txt",
+    "doc_2361.txt"
+  ]
+}

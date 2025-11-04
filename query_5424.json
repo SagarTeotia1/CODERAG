@@ -1,0 +1,10 @@
+{
+  "query": "What was the name of Jan Marini Alano’s debut album?",
+  "response": [
+    "doc_9308.txt",
+    "doc_38900.txt",
+    "doc_38895.txt",
+    "doc_38894.txt",
+    "doc_38903.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what country did Kearen Pang produce the play “Sylvia”?",
+  "response": [
+    "doc_19926.txt",
+    "doc_19925.txt",
+    "doc_35218.txt",
+    "doc_35212.txt",
+    "doc_11496.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What has been the European Court of Auditors’ performance regarding a statement of assurance on the EU accounts over the past ten years?",
+  "response": [
+    "doc_24172.txt",
+    "doc_13622.txt",
+    "doc_3473.txt",
+    "doc_18792.txt",
+    "doc_16472.txt"
+  ]
+}

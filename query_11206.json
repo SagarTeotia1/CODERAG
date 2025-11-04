@@ -1,0 +1,10 @@
+{
+  "query": "Which emperor banned Christians from teaching the pagan classics?",
+  "response": [
+    "doc_18116.txt",
+    "doc_18115.txt",
+    "doc_18114.txt",
+    "doc_18113.txt",
+    "doc_27809.txt"
+  ]
+}

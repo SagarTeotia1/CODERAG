@@ -1,0 +1,10 @@
+{
+  "query": "What is the minimum number of Members required to constitute a quorum in the Chamber?",
+  "response": [
+    "doc_2628.txt",
+    "doc_29335.txt",
+    "doc_33403.txt",
+    "doc_33404.txt",
+    "doc_33405.txt"
+  ]
+}

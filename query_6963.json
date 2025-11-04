@@ -1,0 +1,10 @@
+{
+  "query": "Is the Commission aware that, in the Czech Republic, there is one large and several smaller health insurance companies?",
+  "response": [
+    "doc_7740.txt",
+    "doc_603.txt",
+    "doc_34627.txt",
+    "doc_19848.txt",
+    "doc_604.txt"
+  ]
+}

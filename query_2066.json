@@ -1,0 +1,10 @@
+{
+  "query": "Which dance company did Teri Weksler dance with between 1988 and 1990?",
+  "response": [
+    "doc_32391.txt",
+    "doc_32392.txt",
+    "doc_32387.txt",
+    "doc_32390.txt",
+    "doc_32384.txt"
+  ]
+}

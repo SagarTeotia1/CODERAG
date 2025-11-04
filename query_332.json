@@ -1,0 +1,10 @@
+{
+  "query": "What is Tom Morello famous for?",
+  "response": [
+    "doc_28113.txt",
+    "doc_28114.txt",
+    "doc_34416.txt",
+    "doc_34415.txt",
+    "doc_37167.txt"
+  ]
+}

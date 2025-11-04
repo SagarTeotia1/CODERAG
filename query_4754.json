@@ -1,0 +1,10 @@
+{
+  "query": "What was Samantha Mooney’s first choice of occupation?",
+  "response": [
+    "doc_12934.txt",
+    "doc_11646.txt",
+    "doc_38794.txt",
+    "doc_31636.txt",
+    "doc_30365.txt"
+  ]
+}

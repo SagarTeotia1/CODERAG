@@ -1,0 +1,10 @@
+{
+  "query": "What is the role of the Dean of Portsmouth within Portsmouth Cathedral?",
+  "response": [
+    "doc_13145.txt",
+    "doc_13144.txt",
+    "doc_16933.txt",
+    "doc_36317.txt",
+    "doc_17837.txt"
+  ]
+}

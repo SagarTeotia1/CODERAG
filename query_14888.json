@@ -1,0 +1,10 @@
+{
+  "query": "What new measures is the European Commission supporting to combat illegal drug importations into the EU?",
+  "response": [
+    "doc_27259.txt",
+    "doc_9379.txt",
+    "doc_2530.txt",
+    "doc_11198.txt",
+    "doc_10825.txt"
+  ]
+}

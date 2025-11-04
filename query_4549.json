@@ -1,0 +1,10 @@
+{
+  "query": "What was the decline in Europe’s economy’s GDP percentage between 2000 and 2003?",
+  "response": [
+    "doc_38261.txt",
+    "doc_24477.txt",
+    "doc_38257.txt",
+    "doc_38256.txt",
+    "doc_39232.txt"
+  ]
+}

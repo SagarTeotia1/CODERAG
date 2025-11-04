@@ -1,0 +1,10 @@
+{
+  "query": "According to the text, what is “Single White Female” described as?",
+  "response": [
+    "doc_26390.txt",
+    "doc_26389.txt",
+    "doc_806.txt",
+    "doc_11981.txt",
+    "doc_29554.txt"
+  ]
+}

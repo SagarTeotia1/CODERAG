@@ -1,0 +1,10 @@
+{
+  "query": "What ingredients are listed in the recipe for Ball Park cheese franks?",
+  "response": [
+    "doc_3218.txt",
+    "doc_3219.txt",
+    "doc_34028.txt",
+    "doc_3222.txt",
+    "doc_34025.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to the BBC, which hospital is currently utilizing ultrasound technology to treat broken bones?",
+  "response": [
+    "doc_24545.txt",
+    "doc_24544.txt",
+    "doc_7118.txt",
+    "doc_24546.txt",
+    "doc_7117.txt"
+  ]
+}

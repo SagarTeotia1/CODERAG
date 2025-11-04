@@ -1,0 +1,10 @@
+{
+  "query": "What is the population of Maplewood Park, Ohio, according to the 2000 census?",
+  "response": [
+    "doc_37766.txt",
+    "doc_23144.txt",
+    "doc_23137.txt",
+    "doc_10380.txt",
+    "doc_10378.txt"
+  ]
+}

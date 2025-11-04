@@ -1,0 +1,10 @@
+{
+  "query": "In what time period is “The Last Sentence” set, and what was the focus of the film’s narrative?",
+  "response": [
+    "doc_3328.txt",
+    "doc_35857.txt",
+    "doc_35856.txt",
+    "doc_35858.txt",
+    "doc_35852.txt"
+  ]
+}

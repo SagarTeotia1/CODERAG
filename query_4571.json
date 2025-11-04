@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what did Richard Henry Lee say when he suspected something was amiss?",
+  "response": [
+    "doc_32241.txt",
+    "doc_19471.txt",
+    "doc_32242.txt",
+    "doc_38311.txt",
+    "doc_8864.txt"
+  ]
+}

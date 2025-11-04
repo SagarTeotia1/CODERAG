@@ -1,0 +1,10 @@
+{
+  "query": "In “World War Z”, who plays the main character, Gerry Lane?",
+  "response": [
+    "doc_18856.txt",
+    "doc_27326.txt",
+    "doc_23735.txt",
+    "doc_18854.txt",
+    "doc_18852.txt"
+  ]
+}

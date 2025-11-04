@@ -1,0 +1,10 @@
+{
+  "query": "Which foundation supports the work of the European Organization for Nuclear Research (CERN)?",
+  "response": [
+    "doc_34658.txt",
+    "doc_34665.txt",
+    "doc_34657.txt",
+    "doc_34662.txt",
+    "doc_8714.txt"
+  ]
+}

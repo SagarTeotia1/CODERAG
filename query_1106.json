@@ -1,0 +1,10 @@
+{
+  "query": "When did the 1927 flood in Perris, California occur?",
+  "response": [
+    "doc_30031.txt",
+    "doc_5922.txt",
+    "doc_18519.txt",
+    "doc_18515.txt",
+    "doc_18514.txt"
+  ]
+}

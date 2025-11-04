@@ -1,0 +1,10 @@
+{
+  "query": "When was the Fifth EU-India Summit held?",
+  "response": [
+    "doc_15858.txt",
+    "doc_10389.txt",
+    "doc_15860.txt",
+    "doc_26884.txt",
+    "doc_15861.txt"
+  ]
+}

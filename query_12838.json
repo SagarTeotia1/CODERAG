@@ -1,0 +1,10 @@
+{
+  "query": "Which three cities are home to nearly one-third of all Arab Americans?",
+  "response": [
+    "doc_20903.txt",
+    "doc_20900.txt",
+    "doc_25257.txt",
+    "doc_1139.txt",
+    "doc_25256.txt"
+  ]
+}

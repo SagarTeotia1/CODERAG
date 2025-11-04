@@ -1,0 +1,10 @@
+{
+  "query": "What was the initial pledge made by the European Commission President regarding aid for trade, and when was it intended to be fulfilled?",
+  "response": [
+    "doc_15474.txt",
+    "doc_15542.txt",
+    "doc_19754.txt",
+    "doc_15473.txt",
+    "doc_19751.txt"
+  ]
+}

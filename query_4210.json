@@ -1,0 +1,10 @@
+{
+  "query": "What action has the Commission taken regarding Member States that exceeded their bluefin tuna quotas in 2007?",
+  "response": [
+    "doc_37452.txt",
+    "doc_28594.txt",
+    "doc_7427.txt",
+    "doc_37813.txt",
+    "doc_17579.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was Day O’Connor’s ranking in her class at Stanford Law School?",
+  "response": [
+    "doc_34475.txt",
+    "doc_34479.txt",
+    "doc_34477.txt",
+    "doc_34478.txt",
+    "doc_34480.txt"
+  ]
+}

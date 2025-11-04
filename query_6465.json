@@ -1,0 +1,10 @@
+{
+  "query": "What role did James Caan portray in the 1971 film *Brian’s Song*?",
+  "response": [
+    "doc_6538.txt",
+    "doc_6540.txt",
+    "doc_6536.txt",
+    "doc_6534.txt",
+    "doc_6539.txt"
+  ]
+}

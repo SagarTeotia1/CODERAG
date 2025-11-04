@@ -1,0 +1,10 @@
+{
+  "query": "Which television series, directed by Alfred R. Kelman, focused on aspects of the human body rather than nature or human origins?",
+  "response": [
+    "doc_8250.txt",
+    "doc_8249.txt",
+    "doc_3483.txt",
+    "doc_8248.txt",
+    "doc_32970.txt"
+  ]
+}

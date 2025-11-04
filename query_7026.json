@@ -1,0 +1,10 @@
+{
+  "query": "What region is experiencing rainforest destruction due to the Commission’s biofuel policy?",
+  "response": [
+    "doc_7929.txt",
+    "doc_23135.txt",
+    "doc_19312.txt",
+    "doc_19712.txt",
+    "doc_23165.txt"
+  ]
+}

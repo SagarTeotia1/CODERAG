@@ -1,0 +1,10 @@
+{
+  "query": "On what date did the Boston Tea Party occur?",
+  "response": [
+    "doc_19461.txt",
+    "doc_30326.txt",
+    "doc_30327.txt",
+    "doc_30328.txt",
+    "doc_30323.txt"
+  ]
+}

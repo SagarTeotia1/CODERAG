@@ -1,0 +1,10 @@
+{
+  "query": "Which ten ACP countries are included in the Banana Accompanying Measures programme?",
+  "response": [
+    "doc_3014.txt",
+    "doc_3015.txt",
+    "doc_3016.txt",
+    "doc_3017.txt",
+    "doc_3013.txt"
+  ]
+}

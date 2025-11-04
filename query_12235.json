@@ -1,0 +1,10 @@
+{
+  "query": "When did the Seattle Mariners begin playing professional baseball?",
+  "response": [
+    "doc_20707.txt",
+    "doc_20706.txt",
+    "doc_22162.txt",
+    "doc_11128.txt",
+    "doc_32183.txt"
+  ]
+}

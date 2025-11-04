@@ -1,0 +1,10 @@
+{
+  "query": "What song inspired a “bikini-buying spree” following the events at Bikini Atoll?",
+  "response": [
+    "doc_2889.txt",
+    "doc_2890.txt",
+    "doc_2887.txt",
+    "doc_2881.txt",
+    "doc_2880.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the film \"The 36th Chamber of Shaolin\" released, starring 1945?",
+  "response": [
+    "doc_8354.txt",
+    "doc_8353.txt",
+    "doc_8352.txt",
+    "doc_8278.txt",
+    "doc_8274.txt"
+  ]
+}

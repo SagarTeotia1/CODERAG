@@ -1,0 +1,10 @@
+{
+  "query": "What was Emily Estes’s job, and where did she work?",
+  "response": [
+    "doc_17648.txt",
+    "doc_36319.txt",
+    "doc_8110.txt",
+    "doc_17649.txt",
+    "doc_101.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was the first successful print produced by Currier & Ives, and what depicted it?",
+  "response": [
+    "doc_8104.txt",
+    "doc_19083.txt",
+    "doc_8105.txt",
+    "doc_30930.txt",
+    "doc_8106.txt"
+  ]
+}

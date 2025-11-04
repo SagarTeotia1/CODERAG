@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the acquisition of BNL by BNP Paribas authorized by the Commission?",
+  "response": [
+    "doc_316.txt",
+    "doc_18741.txt",
+    "doc_18745.txt",
+    "doc_6619.txt",
+    "doc_602.txt"
+  ]
+}

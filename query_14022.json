@@ -1,0 +1,10 @@
+{
+  "query": "In what city is the main campus of Northwest Mississippi Community College located?",
+  "response": [
+    "doc_2395.txt",
+    "doc_2394.txt",
+    "doc_2396.txt",
+    "doc_24888.txt",
+    "doc_9363.txt"
+  ]
+}

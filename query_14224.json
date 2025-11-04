@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of electricity generation in Europe currently comes from nuclear energy?",
+  "response": [
+    "doc_14637.txt",
+    "doc_28283.txt",
+    "doc_25652.txt",
+    "doc_18761.txt",
+    "doc_2289.txt"
+  ]
+}

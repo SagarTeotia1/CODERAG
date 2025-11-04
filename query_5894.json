@@ -1,0 +1,10 @@
+{
+  "query": "What year was Sth. Mall, Cork made?",
+  "response": [
+    "doc_5106.txt",
+    "doc_21103.txt",
+    "doc_21100.txt",
+    "doc_5107.txt",
+    "doc_3682.txt"
+  ]
+}

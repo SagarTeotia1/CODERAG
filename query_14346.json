@@ -1,0 +1,10 @@
+{
+  "query": "In what year did the episode \"Tooth and Claw\" from \"Doctor Who\" first air?",
+  "response": [
+    "doc_13522.txt",
+    "doc_12818.txt",
+    "doc_35192.txt",
+    "doc_35191.txt",
+    "doc_3068.txt"
+  ]
+}

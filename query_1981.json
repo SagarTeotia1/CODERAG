@@ -1,0 +1,10 @@
+{
+  "query": "Who was honored with the Martin Luther King, Jr. Nonviolent Peace Prize, according to the information provided?",
+  "response": [
+    "doc_32149.txt",
+    "doc_23496.txt",
+    "doc_37297.txt",
+    "doc_37296.txt",
+    "doc_32150.txt"
+  ]
+}

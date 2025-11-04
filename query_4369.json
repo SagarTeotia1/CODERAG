@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of Black Sea pollution is attributed to the Danube River?",
+  "response": [
+    "doc_25289.txt",
+    "doc_25290.txt",
+    "doc_25291.txt",
+    "doc_25293.txt",
+    "doc_25292.txt"
+  ]
+}

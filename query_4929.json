@@ -1,0 +1,10 @@
+{
+  "query": "Which artistic movement derived from postmodernism in the 1990s and took its name from a Lester Bowie album?",
+  "response": [
+    "doc_26198.txt",
+    "doc_25215.txt",
+    "doc_27080.txt",
+    "doc_34448.txt",
+    "doc_37704.txt"
+  ]
+}

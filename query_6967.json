@@ -1,0 +1,10 @@
+{
+  "query": "What phrase did Jackie Gleason frequently use to introduce the musical portion of his show?",
+  "response": [
+    "doc_7751.txt",
+    "doc_7755.txt",
+    "doc_7756.txt",
+    "doc_7752.txt",
+    "doc_21985.txt"
+  ]
+}

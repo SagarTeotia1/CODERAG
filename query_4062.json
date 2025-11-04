@@ -1,0 +1,10 @@
+{
+  "query": "What was the winner of the 2000 Newbery Medal?",
+  "response": [
+    "doc_3980.txt",
+    "doc_3979.txt",
+    "doc_3977.txt",
+    "doc_3978.txt",
+    "doc_3976.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What event is described in the document as “The Last Bridge Over the Han River at Seoul Is Demolished”?",
+  "response": [
+    "doc_16981.txt",
+    "doc_16982.txt",
+    "doc_35892.txt",
+    "doc_16980.txt",
+    "doc_16983.txt"
+  ]
+}

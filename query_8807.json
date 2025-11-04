@@ -1,0 +1,10 @@
+{
+  "query": "What is the title of a publication related to the International Buddhist Conference held in 2011?",
+  "response": [
+    "doc_38503.txt",
+    "doc_1435.txt",
+    "doc_16657.txt",
+    "doc_1436.txt",
+    "doc_6376.txt"
+  ]
+}

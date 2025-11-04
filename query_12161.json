@@ -1,0 +1,10 @@
+{
+  "query": "Dick Vitale is a college basketball color commentator and has written nine books.",
+  "response": [
+    "doc_20555.txt",
+    "doc_20556.txt",
+    "doc_20557.txt",
+    "doc_20550.txt",
+    "doc_20553.txt"
+  ]
+}

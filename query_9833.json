@@ -1,0 +1,10 @@
+{
+  "query": "What album did the song “Love Bites” by Def Leppard release in 1987?",
+  "response": [
+    "doc_1447.txt",
+    "doc_1448.txt",
+    "doc_18602.txt",
+    "doc_18601.txt",
+    "doc_18604.txt"
+  ]
+}

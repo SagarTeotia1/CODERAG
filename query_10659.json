@@ -1,0 +1,10 @@
+{
+  "query": "What event was the closure of the Centre for Human Rights Defenders (CHRD) scheduled to commemorate?",
+  "response": [
+    "doc_4526.txt",
+    "doc_27552.txt",
+    "doc_4525.txt",
+    "doc_4524.txt",
+    "doc_4528.txt"
+  ]
+}

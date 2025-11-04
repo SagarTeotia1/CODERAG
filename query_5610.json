@@ -1,0 +1,10 @@
+{
+  "query": "Name at least three actors who appeared in “Miss Bishop.”",
+  "response": [
+    "doc_4318.txt",
+    "doc_4317.txt",
+    "doc_10208.txt",
+    "doc_33206.txt",
+    "doc_37308.txt"
+  ]
+}

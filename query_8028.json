@@ -1,0 +1,10 @@
+{
+  "query": "How many Iraqi citizens have petitioned against the deportation of the Camp Ashraf residents?",
+  "response": [
+    "doc_10475.txt",
+    "doc_39835.txt",
+    "doc_1917.txt",
+    "doc_5938.txt",
+    "doc_12932.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is Paul Chua’s profession according to the passage?",
+  "response": [
+    "doc_14970.txt",
+    "doc_21026.txt",
+    "doc_37745.txt",
+    "doc_29961.txt",
+    "doc_31278.txt"
+  ]
+}

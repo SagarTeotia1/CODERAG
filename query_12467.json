@@ -1,0 +1,10 @@
+{
+  "query": "What tectonic events contributed to the formation of the South China Sea Basin?",
+  "response": [
+    "doc_21382.txt",
+    "doc_21380.txt",
+    "doc_23493.txt",
+    "doc_32024.txt",
+    "doc_29723.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What amount of funding was applied for by the Irish Government, and what amount of the total available was returned unspent by the Irish Government?",
+  "response": [
+    "doc_37431.txt",
+    "doc_24574.txt",
+    "doc_36229.txt",
+    "doc_8316.txt",
+    "doc_24071.txt"
+  ]
+}

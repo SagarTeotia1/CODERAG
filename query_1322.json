@@ -1,0 +1,10 @@
+{
+  "query": "What is Parliament requesting the President of the European Council to do regarding information about European Council meetings?",
+  "response": [
+    "doc_2692.txt",
+    "doc_29370.txt",
+    "doc_2664.txt",
+    "doc_2688.txt",
+    "doc_29396.txt"
+  ]
+}

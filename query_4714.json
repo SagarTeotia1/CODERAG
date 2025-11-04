@@ -1,0 +1,10 @@
+{
+  "query": "Which author wrote the biographical novel *Lust for Life* based on Vincent van Gogh’s life?",
+  "response": [
+    "doc_3846.txt",
+    "doc_3847.txt",
+    "doc_3849.txt",
+    "doc_3848.txt",
+    "doc_3851.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Besides being a detective, what other profession is Adam Dalgliesh known for?",
+  "response": [
+    "doc_5083.txt",
+    "doc_5084.txt",
+    "doc_5082.txt",
+    "doc_5079.txt",
+    "doc_5085.txt"
+  ]
+}

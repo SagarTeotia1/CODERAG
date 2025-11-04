@@ -1,0 +1,10 @@
+{
+  "query": "What is the estimated equivalent domestic retail value of goods intercepted by customs in 2010, according to the Commission’s report?",
+  "response": [
+    "doc_621.txt",
+    "doc_23692.txt",
+    "doc_24213.txt",
+    "doc_35605.txt",
+    "doc_7902.txt"
+  ]
+}

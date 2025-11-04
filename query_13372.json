@@ -1,0 +1,10 @@
+{
+  "query": "In what year was Archbishop Desmond Tutu awarded the Nobel Peace Prize?",
+  "response": [
+    "doc_23497.txt",
+    "doc_23498.txt",
+    "doc_23496.txt",
+    "doc_23499.txt",
+    "doc_23501.txt"
+  ]
+}

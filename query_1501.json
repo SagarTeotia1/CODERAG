@@ -1,0 +1,10 @@
+{
+  "query": "What misleading information is the bread being labelled with in Italy?",
+  "response": [
+    "doc_30938.txt",
+    "doc_25820.txt",
+    "doc_650.txt",
+    "doc_11813.txt",
+    "doc_28035.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Can you list some of the fungi mentioned in the passages, such as the Shaggy Parasol or Horse Hair Fungus?",
+  "response": [
+    "doc_19937.txt",
+    "doc_19942.txt",
+    "doc_19938.txt",
+    "doc_19939.txt",
+    "doc_19936.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which city is referred to as Yezo, Ezo, or Ezo-ga-Shima?",
+  "response": [
+    "doc_36495.txt",
+    "doc_14933.txt",
+    "doc_14936.txt",
+    "doc_36494.txt",
+    "doc_36496.txt"
+  ]
+}

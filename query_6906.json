@@ -1,0 +1,10 @@
+{
+  "query": "Which film, directed by David Leitch, is based on a 2012 graphic novel about a spy during the fall of the Berlin Wall?",
+  "response": [
+    "doc_36217.txt",
+    "doc_24126.txt",
+    "doc_24125.txt",
+    "doc_24129.txt",
+    "doc_7603.txt"
+  ]
+}

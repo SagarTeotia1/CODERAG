@@ -1,0 +1,10 @@
+{
+  "query": "How many external staff were requested for the EU-10 and EU-2 in 2007, according to PDB document I?",
+  "response": [
+    "doc_15494.txt",
+    "doc_17104.txt",
+    "doc_15493.txt",
+    "doc_15507.txt",
+    "doc_17420.txt"
+  ]
+}

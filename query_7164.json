@@ -1,0 +1,10 @@
+{
+  "query": "When was the TV series “Kung Fu” purchased by Warner Bros.?",
+  "response": [
+    "doc_8277.txt",
+    "doc_8275.txt",
+    "doc_8274.txt",
+    "doc_8276.txt",
+    "doc_8278.txt"
+  ]
+}

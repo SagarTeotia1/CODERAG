@@ -1,0 +1,10 @@
+{
+  "query": "What type of museum is the Danish Museum of Art & Design?",
+  "response": [
+    "doc_16794.txt",
+    "doc_6280.txt",
+    "doc_18917.txt",
+    "doc_16795.txt",
+    "doc_16363.txt"
+  ]
+}

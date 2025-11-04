@@ -1,0 +1,10 @@
+{
+  "query": "How many people have already lost their lives in Darfur?",
+  "response": [
+    "doc_20960.txt",
+    "doc_20966.txt",
+    "doc_20968.txt",
+    "doc_20961.txt",
+    "doc_20964.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which film, part of a trilogy directed by Denys Arcand, featured Danny Gilmore?",
+  "response": [
+    "doc_19040.txt",
+    "doc_26507.txt",
+    "doc_5638.txt",
+    "doc_31757.txt",
+    "doc_5632.txt"
+  ]
+}

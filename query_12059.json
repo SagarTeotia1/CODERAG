@@ -1,0 +1,10 @@
+{
+  "query": "Where did Saint Francis of Assisi create the first crib?",
+  "response": [
+    "doc_20309.txt",
+    "doc_20310.txt",
+    "doc_20308.txt",
+    "doc_20313.txt",
+    "doc_20312.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When did the musical referenced in the passage open in New York?",
+  "response": [
+    "doc_7698.txt",
+    "doc_7695.txt",
+    "doc_5731.txt",
+    "doc_16817.txt",
+    "doc_7694.txt"
+  ]
+}

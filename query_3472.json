@@ -1,0 +1,10 @@
+{
+  "query": "What record did Tiger Woods break when he won the 1997 Masters?",
+  "response": [
+    "doc_35645.txt",
+    "doc_35636.txt",
+    "doc_35643.txt",
+    "doc_35649.txt",
+    "doc_35646.txt"
+  ]
+}

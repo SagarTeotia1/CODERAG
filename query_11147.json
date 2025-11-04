@@ -1,0 +1,10 @@
+{
+  "query": "What river does Mount Vernon lie on?",
+  "response": [
+    "doc_18011.txt",
+    "doc_18015.txt",
+    "doc_18012.txt",
+    "doc_18013.txt",
+    "doc_18014.txt"
+  ]
+}

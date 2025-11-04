@@ -1,0 +1,10 @@
+{
+  "query": "In what type of media does Rich Keeble appear?",
+  "response": [
+    "doc_5637.txt",
+    "doc_29529.txt",
+    "doc_16819.txt",
+    "doc_27250.txt",
+    "doc_13523.txt"
+  ]
+}

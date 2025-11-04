@@ -1,0 +1,10 @@
+{
+  "query": "Which actress played Sadie Thompson in the 1953 musical film “Miss Sadie Thompson,” based on a W. Somerset Maugham short story?",
+  "response": [
+    "doc_10208.txt",
+    "doc_10213.txt",
+    "doc_10209.txt",
+    "doc_18327.txt",
+    "doc_33209.txt"
+  ]
+}

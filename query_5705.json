@@ -1,0 +1,10 @@
+{
+  "query": "Which states are explicitly listed as not participating in Columbus Day celebrations according to the provided text?",
+  "response": [
+    "doc_4633.txt",
+    "doc_26051.txt",
+    "doc_26053.txt",
+    "doc_4632.txt",
+    "doc_36892.txt"
+  ]
+}

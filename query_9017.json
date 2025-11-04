@@ -1,0 +1,10 @@
+{
+  "query": "In what year did The Fugees release a reworked version of “Killing Me Softly”?",
+  "response": [
+    "doc_12868.txt",
+    "doc_12870.txt",
+    "doc_12874.txt",
+    "doc_12872.txt",
+    "doc_12875.txt"
+  ]
+}

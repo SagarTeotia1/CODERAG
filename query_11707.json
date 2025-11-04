@@ -1,0 +1,10 @@
+{
+  "query": "What happened to Enron’s debt rating according to the provided documents?",
+  "response": [
+    "doc_19421.txt",
+    "doc_19422.txt",
+    "doc_19423.txt",
+    "doc_19424.txt",
+    "doc_39409.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which prestigious drama school did Meryl Streep attend after graduating from Vassar College?",
+  "response": [
+    "doc_5550.txt",
+    "doc_5545.txt",
+    "doc_5544.txt",
+    "doc_5546.txt",
+    "doc_5549.txt"
+  ]
+}

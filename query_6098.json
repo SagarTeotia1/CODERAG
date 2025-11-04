@@ -1,0 +1,10 @@
+{
+  "query": "What was Daryl holding when he hit the ground?",
+  "response": [
+    "doc_20884.txt",
+    "doc_6271.txt",
+    "doc_33325.txt",
+    "doc_5617.txt",
+    "doc_205.txt"
+  ]
+}

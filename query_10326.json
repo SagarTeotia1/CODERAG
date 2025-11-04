@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the James Thurber episode aired?",
+  "response": [
+    "doc_16077.txt",
+    "doc_16076.txt",
+    "doc_16080.txt",
+    "doc_16079.txt",
+    "doc_16078.txt"
+  ]
+}

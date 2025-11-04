@@ -1,0 +1,10 @@
+{
+  "query": "When did the Hatfield-McCoy feud originate?",
+  "response": [
+    "doc_33568.txt",
+    "doc_33570.txt",
+    "doc_33569.txt",
+    "doc_33567.txt",
+    "doc_33573.txt"
+  ]
+}

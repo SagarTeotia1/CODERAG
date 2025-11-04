@@ -1,0 +1,10 @@
+{
+  "query": "In what city and province was Desmond Tutu born?",
+  "response": [
+    "doc_23499.txt",
+    "doc_23498.txt",
+    "doc_23501.txt",
+    "doc_23497.txt",
+    "doc_23496.txt"
+  ]
+}

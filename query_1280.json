@@ -1,0 +1,10 @@
+{
+  "query": "Can the Council provide a breakdown of Scottish Executive Minister speaking instances by date and type of Council meeting?",
+  "response": [
+    "doc_30451.txt",
+    "doc_29333.txt",
+    "doc_29398.txt",
+    "doc_29413.txt",
+    "doc_14615.txt"
+  ]
+}

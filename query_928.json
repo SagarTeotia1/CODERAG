@@ -1,0 +1,10 @@
+{
+  "query": "How many goals did Juventus score in total across the two legs of the 1996 UEFA Super Cup?",
+  "response": [
+    "doc_29620.txt",
+    "doc_29619.txt",
+    "doc_23689.txt",
+    "doc_26991.txt",
+    "doc_29618.txt"
+  ]
+}

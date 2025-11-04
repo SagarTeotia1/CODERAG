@@ -1,0 +1,10 @@
+{
+  "query": "What amenities does the St. Augustine Hotel & Suites offer?",
+  "response": [
+    "doc_16507.txt",
+    "doc_16508.txt",
+    "doc_38081.txt",
+    "doc_16506.txt",
+    "doc_20535.txt"
+  ]
+}

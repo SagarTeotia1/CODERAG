@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of drugs on the world market, according to the WHO, are estimated to be counterfeit?",
+  "response": [
+    "doc_3560.txt",
+    "doc_11093.txt",
+    "doc_39812.txt",
+    "doc_9645.txt",
+    "doc_35738.txt"
+  ]
+}

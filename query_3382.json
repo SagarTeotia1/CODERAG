@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of children between the ages of 9 and 16 in the EU use the internet without parental supervision?",
+  "response": [
+    "doc_35453.txt",
+    "doc_4424.txt",
+    "doc_4425.txt",
+    "doc_30664.txt",
+    "doc_7802.txt"
+  ]
+}

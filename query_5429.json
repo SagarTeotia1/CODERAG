@@ -1,0 +1,10 @@
+{
+  "query": "What organization estimates that at least 73,300 new Israeli housing units will be built?",
+  "response": [
+    "doc_36674.txt",
+    "doc_11030.txt",
+    "doc_2461.txt",
+    "doc_32443.txt",
+    "doc_14677.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to the documents, how is the appearance of painted objects, like those described in “Asian lacquers,” often achieved?",
+  "response": [
+    "doc_29694.txt",
+    "doc_29693.txt",
+    "doc_29692.txt",
+    "doc_24261.txt",
+    "doc_31362.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What type of novel is “The Bone Season,” and who wrote it?",
+  "response": [
+    "doc_35065.txt",
+    "doc_35062.txt",
+    "doc_31148.txt",
+    "doc_35066.txt",
+    "doc_35061.txt"
+  ]
+}

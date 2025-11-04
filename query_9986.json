@@ -1,0 +1,10 @@
+{
+  "query": "What novel did Gillian Flynn adapt into the screenplay for “Gone Girl”?",
+  "response": [
+    "doc_4304.txt",
+    "doc_1739.txt",
+    "doc_35068.txt",
+    "doc_30676.txt",
+    "doc_27030.txt"
+  ]
+}

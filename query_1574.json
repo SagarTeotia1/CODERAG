@@ -1,0 +1,10 @@
+{
+  "query": "What job did someone with the username “I work at the Texas School Book Depository Building” have?",
+  "response": [
+    "doc_31139.txt",
+    "doc_31131.txt",
+    "doc_31132.txt",
+    "doc_31137.txt",
+    "doc_31136.txt"
+  ]
+}

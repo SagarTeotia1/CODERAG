@@ -1,0 +1,10 @@
+{
+  "query": "Which four countries are covered by this Delegation’s remit?",
+  "response": [
+    "doc_29308.txt",
+    "doc_29364.txt",
+    "doc_29363.txt",
+    "doc_2643.txt",
+    "doc_2656.txt"
+  ]
+}

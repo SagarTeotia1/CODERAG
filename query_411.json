@@ -1,0 +1,10 @@
+{
+  "query": "For which novel did Bolaño receive the Rómulo Gallegos Prize?",
+  "response": [
+    "doc_28256.txt",
+    "doc_28255.txt",
+    "doc_24932.txt",
+    "doc_1587.txt",
+    "doc_1588.txt"
+  ]
+}

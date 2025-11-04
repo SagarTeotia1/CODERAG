@@ -1,0 +1,10 @@
+{
+  "query": "For which college basketball team did Napier play?",
+  "response": [
+    "doc_27646.txt",
+    "doc_27645.txt",
+    "doc_17722.txt",
+    "doc_8522.txt",
+    "doc_8518.txt"
+  ]
+}

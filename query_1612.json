@@ -1,0 +1,10 @@
+{
+  "query": "What actions does the resolution call on the Israeli Government to immediately stop?",
+  "response": [
+    "doc_31190.txt",
+    "doc_37172.txt",
+    "doc_9520.txt",
+    "doc_15100.txt",
+    "doc_17517.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was the original last name of the Three Stooges’ family?",
+  "response": [
+    "doc_17094.txt",
+    "doc_17092.txt",
+    "doc_17093.txt",
+    "doc_17090.txt",
+    "doc_17091.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Besides Bobby Brown, name one other member of New Edition featured on the \"Home Again\" album.",
+  "response": [
+    "doc_21172.txt",
+    "doc_21175.txt",
+    "doc_21174.txt",
+    "doc_21176.txt",
+    "doc_21173.txt"
+  ]
+}

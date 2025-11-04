@@ -1,0 +1,10 @@
+{
+  "query": "How many languages have the \"Twilight\" novels been translated into?",
+  "response": [
+    "doc_30491.txt",
+    "doc_30490.txt",
+    "doc_30489.txt",
+    "doc_1922.txt",
+    "doc_28393.txt"
+  ]
+}

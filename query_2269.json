@@ -1,0 +1,10 @@
+{
+  "query": "Which company, later renamed International Business Machines, was founded in 1948 and introduced materials for compact sound grooves?",
+  "response": [
+    "doc_32906.txt",
+    "doc_32905.txt",
+    "doc_32897.txt",
+    "doc_32899.txt",
+    "doc_32898.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What specific items was Mr. Kyarizov’s wife permitted to bring him during her visits to the prison?",
+  "response": [
+    "doc_25009.txt",
+    "doc_37139.txt",
+    "doc_26383.txt",
+    "doc_27453.txt",
+    "doc_28623.txt"
+  ]
+}

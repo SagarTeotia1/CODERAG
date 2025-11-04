@@ -1,0 +1,9 @@
+{
+  "query": "What method did Socrates use to teach?",
+  "response": [
+    "doc_26386.txt",
+    "doc_26387.txt",
+    "doc_26385.txt",
+    "doc_26384.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What specific financial information did the Society’s board possess that contradicted the scheme documentation’s claims?",
+  "response": [
+    "doc_965.txt",
+    "doc_961.txt",
+    "doc_962.txt",
+    "doc_1010.txt",
+    "doc_963.txt"
+  ]
+}

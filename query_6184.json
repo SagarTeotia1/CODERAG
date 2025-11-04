@@ -1,0 +1,10 @@
+{
+  "query": "What was the original purpose of the “112” European emergency number?",
+  "response": [
+    "doc_5783.txt",
+    "doc_25013.txt",
+    "doc_11199.txt",
+    "doc_11283.txt",
+    "doc_39882.txt"
+  ]
+}

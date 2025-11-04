@@ -1,0 +1,10 @@
+{
+  "query": "What Egyptian peninsula is defined by borders including the Mediterranean Sea to the west, the Gulf of Suez to the south, and the Gulf of Aqaba to the east?",
+  "response": [
+    "doc_36832.txt",
+    "doc_36827.txt",
+    "doc_36828.txt",
+    "doc_36833.txt",
+    "doc_36831.txt"
+  ]
+}

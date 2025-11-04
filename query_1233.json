@@ -1,0 +1,10 @@
+{
+  "query": "What is the title of a book read by Nancy Newell-Kline?",
+  "response": [
+    "doc_3394.txt",
+    "doc_33070.txt",
+    "doc_22495.txt",
+    "doc_14861.txt",
+    "doc_10522.txt"
+  ]
+}

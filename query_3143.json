@@ -1,0 +1,10 @@
+{
+  "query": "Who directed the film “The Fifth Element”?",
+  "response": [
+    "doc_11644.txt",
+    "doc_12221.txt",
+    "doc_2518.txt",
+    "doc_11643.txt",
+    "doc_2049.txt"
+  ]
+}

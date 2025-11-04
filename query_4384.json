@@ -1,0 +1,10 @@
+{
+  "query": "Who wrote the song “Yankee Rose,” and what was its purpose?",
+  "response": [
+    "doc_39420.txt",
+    "doc_39419.txt",
+    "doc_39421.txt",
+    "doc_39416.txt",
+    "doc_39415.txt"
+  ]
+}

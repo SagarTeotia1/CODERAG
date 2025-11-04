@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, by how much is Lithuania’s GDP predicted to fall this year?",
+  "response": [
+    "doc_5724.txt",
+    "doc_5725.txt",
+    "doc_26353.txt",
+    "doc_26351.txt",
+    "doc_5727.txt"
+  ]
+}

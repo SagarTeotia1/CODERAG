@@ -1,0 +1,10 @@
+{
+  "query": "Which organizations were targeted by the Supreme Council of the Armed Forces (SCAF) in Egypt, and when did these actions occur?",
+  "response": [
+    "doc_29716.txt",
+    "doc_36141.txt",
+    "doc_29717.txt",
+    "doc_26031.txt",
+    "doc_26032.txt"
+  ]
+}

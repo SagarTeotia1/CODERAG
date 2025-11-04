@@ -1,0 +1,10 @@
+{
+  "query": "Besides John Cage, which other artist frequently had photographs of them featured in “Unmuzzled OX”?",
+  "response": [
+    "doc_27088.txt",
+    "doc_37704.txt",
+    "doc_37705.txt",
+    "doc_37706.txt",
+    "doc_12534.txt"
+  ]
+}

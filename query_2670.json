@@ -1,0 +1,10 @@
+{
+  "query": "Who directed “Quest for Camelot”?",
+  "response": [
+    "doc_29446.txt",
+    "doc_9972.txt",
+    "doc_30967.txt",
+    "doc_30968.txt",
+    "doc_737.txt"
+  ]
+}

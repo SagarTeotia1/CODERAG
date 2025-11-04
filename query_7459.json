@@ -1,0 +1,10 @@
+{
+  "query": "What musical direction did After Forever take with their album “Invisible Circles”?",
+  "response": [
+    "doc_8995.txt",
+    "doc_38411.txt",
+    "doc_17898.txt",
+    "doc_18394.txt",
+    "doc_37162.txt"
+  ]
+}

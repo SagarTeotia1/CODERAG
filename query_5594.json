@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the band Black Cherry formed, and by whom?",
+  "response": [
+    "doc_36257.txt",
+    "doc_359.txt",
+    "doc_37167.txt",
+    "doc_36109.txt",
+    "doc_25329.txt"
+  ]
+}

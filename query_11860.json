@@ -1,0 +1,10 @@
+{
+  "query": "How many investee SMEs received an investment from the ETF Start-up facility before the end of 1999 or early 2000, and what was the average number of new jobs created per company as a result?",
+  "response": [
+    "doc_19901.txt",
+    "doc_28548.txt",
+    "doc_40147.txt",
+    "doc_14368.txt",
+    "doc_4339.txt"
+  ]
+}

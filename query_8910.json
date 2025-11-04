@@ -1,0 +1,10 @@
+{
+  "query": "Who directed \"SquarePants Movie\"?",
+  "response": [
+    "doc_68.txt",
+    "doc_67.txt",
+    "doc_66.txt",
+    "doc_32708.txt",
+    "doc_19039.txt"
+  ]
+}

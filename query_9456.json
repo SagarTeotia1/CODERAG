@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what specific products are subject to examination by the Foreign-Trade Inspection Service upon import into Spain?",
+  "response": [
+    "doc_13912.txt",
+    "doc_5384.txt",
+    "doc_40257.txt",
+    "doc_16285.txt",
+    "doc_37975.txt"
+  ]
+}

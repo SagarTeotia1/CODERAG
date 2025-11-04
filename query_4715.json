@@ -1,0 +1,10 @@
+{
+  "query": "What is the estimated number of deaths attributed to the conflict in the Democratic Republic of Congo since 1998?",
+  "response": [
+    "doc_38701.txt",
+    "doc_35230.txt",
+    "doc_12191.txt",
+    "doc_38699.txt",
+    "doc_26002.txt"
+  ]
+}

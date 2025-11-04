@@ -1,0 +1,10 @@
+{
+  "query": "Paddy Chayefsky was a brilliant screen writer.",
+  "response": [
+    "doc_29709.txt",
+    "doc_29710.txt",
+    "doc_29706.txt",
+    "doc_29704.txt",
+    "doc_29705.txt"
+  ]
+}

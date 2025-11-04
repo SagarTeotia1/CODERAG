@@ -1,0 +1,10 @@
+{
+  "query": "What charges were Pastor Fernando Kutino and his co-defendants accused of?",
+  "response": [
+    "doc_8429.txt",
+    "doc_36314.txt",
+    "doc_8431.txt",
+    "doc_22860.txt",
+    "doc_32423.txt"
+  ]
+}

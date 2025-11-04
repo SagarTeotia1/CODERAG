@@ -1,0 +1,10 @@
+{
+  "query": "What is the location of the Bar Mouth, where the River Bann flows into the sea?",
+  "response": [
+    "doc_29723.txt",
+    "doc_29719.txt",
+    "doc_29607.txt",
+    "doc_29606.txt",
+    "doc_29722.txt"
+  ]
+}

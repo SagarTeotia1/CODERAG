@@ -1,0 +1,10 @@
+{
+  "query": "What is the cost of a one-horse carriage to and from Abbotsford?",
+  "response": [
+    "doc_12265.txt",
+    "doc_9590.txt",
+    "doc_14348.txt",
+    "doc_31744.txt",
+    "doc_15124.txt"
+  ]
+}

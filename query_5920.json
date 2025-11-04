@@ -1,0 +1,10 @@
+{
+  "query": "What is the reported reason for Turkey’s troop deployment near the Iraqi border, according to the article?",
+  "response": [
+    "doc_5168.txt",
+    "doc_13243.txt",
+    "doc_24410.txt",
+    "doc_33323.txt",
+    "doc_21968.txt"
+  ]
+}

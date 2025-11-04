@@ -1,0 +1,10 @@
+{
+  "query": "What regulation governs trade across the line between the areas controlled by the Cypriot government and the Turkish Cypriot areas?",
+  "response": [
+    "doc_15174.txt",
+    "doc_8666.txt",
+    "doc_20169.txt",
+    "doc_34693.txt",
+    "doc_21626.txt"
+  ]
+}

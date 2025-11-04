@@ -1,0 +1,10 @@
+{
+  "query": "What was the primary role of the Portuguese Water Dog in its region of origin?",
+  "response": [
+    "doc_8180.txt",
+    "doc_36870.txt",
+    "doc_2187.txt",
+    "doc_8541.txt",
+    "doc_33762.txt"
+  ]
+}

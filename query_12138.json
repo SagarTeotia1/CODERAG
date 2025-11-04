@@ -1,0 +1,10 @@
+{
+  "query": "What was the name of John Glenn’s space capsule?",
+  "response": [
+    "doc_20508.txt",
+    "doc_20507.txt",
+    "doc_20506.txt",
+    "doc_20509.txt",
+    "doc_20511.txt"
+  ]
+}

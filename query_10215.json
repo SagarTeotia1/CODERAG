@@ -1,0 +1,10 @@
+{
+  "query": "What actions does the European Parliament call for regarding political prisoners in the country?",
+  "response": [
+    "doc_5371.txt",
+    "doc_15793.txt",
+    "doc_4323.txt",
+    "doc_15794.txt",
+    "doc_413.txt"
+  ]
+}

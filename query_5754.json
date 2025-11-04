@@ -1,0 +1,10 @@
+{
+  "query": "What country shares a 723 km northern border with Georgia?",
+  "response": [
+    "doc_4769.txt",
+    "doc_4768.txt",
+    "doc_4770.txt",
+    "doc_4767.txt",
+    "doc_4771.txt"
+  ]
+}

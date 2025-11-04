@@ -1,0 +1,10 @@
+{
+  "query": "What types of animals can be found in the herpetarium in Costa Rica?",
+  "response": [
+    "doc_35600.txt",
+    "doc_35601.txt",
+    "doc_35603.txt",
+    "doc_35602.txt",
+    "doc_7475.txt"
+  ]
+}

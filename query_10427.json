@@ -1,0 +1,10 @@
+{
+  "query": "Which railway company opened Portgordon railway station in 1886?",
+  "response": [
+    "doc_16287.txt",
+    "doc_16289.txt",
+    "doc_16288.txt",
+    "doc_18670.txt",
+    "doc_7921.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was Lyndon B. Johnson’s campaign slogan in 1964?",
+  "response": [
+    "doc_29652.txt",
+    "doc_29656.txt",
+    "doc_29657.txt",
+    "doc_29653.txt",
+    "doc_29655.txt"
+  ]
+}

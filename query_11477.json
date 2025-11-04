@@ -1,0 +1,10 @@
+{
+  "query": "What honor was Eva Perón awarded by Francisco Franco in 1947?",
+  "response": [
+    "doc_1844.txt",
+    "doc_1843.txt",
+    "doc_1845.txt",
+    "doc_1846.txt",
+    "doc_19270.txt"
+  ]
+}

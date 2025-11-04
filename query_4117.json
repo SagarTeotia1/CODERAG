@@ -1,0 +1,10 @@
+{
+  "query": "Which cities were chosen as cultural capitals of Europe for 2010?",
+  "response": [
+    "doc_37230.txt",
+    "doc_25888.txt",
+    "doc_22727.txt",
+    "doc_10152.txt",
+    "doc_25889.txt"
+  ]
+}

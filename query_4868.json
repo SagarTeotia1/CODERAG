@@ -1,0 +1,10 @@
+{
+  "query": "Has the Council formally approved the construction of a German-Russian gas pipeline running under the Baltic Sea?",
+  "response": [
+    "doc_39074.txt",
+    "doc_36815.txt",
+    "doc_23404.txt",
+    "doc_32810.txt",
+    "doc_39358.txt"
+  ]
+}

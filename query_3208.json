@@ -1,0 +1,10 @@
+{
+  "query": "Where must an SPE have its registered office and central administration or principal place of business located?",
+  "response": [
+    "doc_35098.txt",
+    "doc_35075.txt",
+    "doc_35110.txt",
+    "doc_35097.txt",
+    "doc_35093.txt"
+  ]
+}

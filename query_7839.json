@@ -1,0 +1,10 @@
+{
+  "query": "Which countries received the most investment from the EBRD, and which received the least?",
+  "response": [
+    "doc_9914.txt",
+    "doc_9912.txt",
+    "doc_9908.txt",
+    "doc_9913.txt",
+    "doc_9910.txt"
+  ]
+}

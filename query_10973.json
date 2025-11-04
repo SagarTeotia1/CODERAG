@@ -1,0 +1,10 @@
+{
+  "query": "According to the report, what percentage of total emissions from non-road mobile machinery can be attributed to NOx and carcinogenic particles in some Member States?",
+  "response": [
+    "doc_36963.txt",
+    "doc_5398.txt",
+    "doc_5386.txt",
+    "doc_32419.txt",
+    "doc_5399.txt"
+  ]
+}

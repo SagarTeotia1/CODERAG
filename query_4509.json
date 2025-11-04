@@ -1,0 +1,10 @@
+{
+  "query": "Which countries participated in the ASEM III process?",
+  "response": [
+    "doc_38090.txt",
+    "doc_12432.txt",
+    "doc_22617.txt",
+    "doc_32156.txt",
+    "doc_12431.txt"
+  ]
+}

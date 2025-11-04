@@ -1,0 +1,10 @@
+{
+  "query": "According to one source, how many major leaguers have played in the Cape Cod league?",
+  "response": [
+    "doc_18193.txt",
+    "doc_18195.txt",
+    "doc_8292.txt",
+    "doc_8296.txt",
+    "doc_22163.txt"
+  ]
+}

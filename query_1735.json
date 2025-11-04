@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what is the market share held by Cruise America in the US recreational vehicle rental operations market?",
+  "response": [
+    "doc_31504.txt",
+    "doc_26536.txt",
+    "doc_32308.txt",
+    "doc_2162.txt",
+    "doc_2164.txt"
+  ]
+}

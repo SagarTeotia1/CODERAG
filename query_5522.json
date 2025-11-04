@@ -1,0 +1,10 @@
+{
+  "query": "What type of fish is Dory, and what is her primary characteristic?",
+  "response": [
+    "doc_384.txt",
+    "doc_390.txt",
+    "doc_386.txt",
+    "doc_381.txt",
+    "doc_382.txt"
+  ]
+}

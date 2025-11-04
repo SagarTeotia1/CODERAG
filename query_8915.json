@@ -1,0 +1,10 @@
+{
+  "query": "When was the first U.S. coin featuring a living president issued?",
+  "response": [
+    "doc_12596.txt",
+    "doc_39109.txt",
+    "doc_12600.txt",
+    "doc_39112.txt",
+    "doc_12601.txt"
+  ]
+}

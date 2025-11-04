@@ -1,0 +1,10 @@
+{
+  "query": "Which writer penned 19 of the first 25 Hardy Boys books?",
+  "response": [
+    "doc_35509.txt",
+    "doc_35512.txt",
+    "doc_35514.txt",
+    "doc_35511.txt",
+    "doc_35510.txt"
+  ]
+}

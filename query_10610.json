@@ -1,0 +1,10 @@
+{
+  "query": "Which fast-food brands are included in the list of brands associated with Tricon Global Restaurants?",
+  "response": [
+    "doc_16676.txt",
+    "doc_16677.txt",
+    "doc_16678.txt",
+    "doc_16675.txt",
+    "doc_16674.txt"
+  ]
+}

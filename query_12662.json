@@ -1,0 +1,10 @@
+{
+  "query": "Between what years was the Agra Fort built?",
+  "response": [
+    "doc_21829.txt",
+    "doc_21830.txt",
+    "doc_21826.txt",
+    "doc_21825.txt",
+    "doc_21828.txt"
+  ]
+}

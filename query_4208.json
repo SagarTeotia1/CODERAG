@@ -1,0 +1,10 @@
+{
+  "query": "In what city was James Galway born?",
+  "response": [
+    "doc_37438.txt",
+    "doc_37440.txt",
+    "doc_36489.txt",
+    "doc_21440.txt",
+    "doc_21442.txt"
+  ]
+}

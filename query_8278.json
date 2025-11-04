@@ -1,0 +1,10 @@
+{
+  "query": "What specific group solicited the 30 cases examined by Lord Neill, and how did this impact the representativeness of his findings?",
+  "response": [
+    "doc_1033.txt",
+    "doc_1029.txt",
+    "doc_1031.txt",
+    "doc_1030.txt",
+    "doc_1032.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what city and state is Blaine Island located?",
+  "response": [
+    "doc_28785.txt",
+    "doc_21917.txt",
+    "doc_22092.txt",
+    "doc_27206.txt",
+    "doc_21918.txt"
+  ]
+}

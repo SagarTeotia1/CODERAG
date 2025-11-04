@@ -1,0 +1,10 @@
+{
+  "query": "According to electronic tagging surveys, what is the typical migration pattern of bluefin tuna between the Atlantic and Mediterranean?",
+  "response": [
+    "doc_8406.txt",
+    "doc_7428.txt",
+    "doc_7427.txt",
+    "doc_28594.txt",
+    "doc_37452.txt"
+  ]
+}

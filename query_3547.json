@@ -1,0 +1,10 @@
+{
+  "query": "When did Mubarak announce he would not seek another term as president?",
+  "response": [
+    "doc_3530.txt",
+    "doc_3529.txt",
+    "doc_3538.txt",
+    "doc_3531.txt",
+    "doc_3537.txt"
+  ]
+}

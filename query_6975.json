@@ -1,0 +1,10 @@
+{
+  "query": "What role did Fred Dryer have in the TV movie *For Ladies Only*?",
+  "response": [
+    "doc_7793.txt",
+    "doc_7792.txt",
+    "doc_12374.txt",
+    "doc_13027.txt",
+    "doc_18326.txt"
+  ]
+}

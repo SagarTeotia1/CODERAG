@@ -1,0 +1,10 @@
+{
+  "query": "What type of film is “Apollo 13”?",
+  "response": [
+    "doc_21520.txt",
+    "doc_21519.txt",
+    "doc_21632.txt",
+    "doc_20952.txt",
+    "doc_16696.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "How far is Voyager 1 from the planet?",
+  "response": [
+    "doc_32721.txt",
+    "doc_32720.txt",
+    "doc_32718.txt",
+    "doc_32719.txt",
+    "doc_32722.txt"
+  ]
+}

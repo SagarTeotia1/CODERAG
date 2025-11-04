@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the album “Running, Jumping, Standing Still” by Spider John Koerner and Willie Murphy released?",
+  "response": [
+    "doc_2481.txt",
+    "doc_11494.txt",
+    "doc_27300.txt",
+    "doc_13765.txt",
+    "doc_19767.txt"
+  ]
+}

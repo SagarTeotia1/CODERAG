@@ -1,0 +1,10 @@
+{
+  "query": "What year was Warp 9's album, “It’s a Beat Wave,” released?",
+  "response": [
+    "doc_34425.txt",
+    "doc_24297.txt",
+    "doc_23950.txt",
+    "doc_24294.txt",
+    "doc_24298.txt"
+  ]
+}

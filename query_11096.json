@@ -1,0 +1,10 @@
+{
+  "query": "What award did Joan Fontaine win?",
+  "response": [
+    "doc_17864.txt",
+    "doc_33285.txt",
+    "doc_29975.txt",
+    "doc_33283.txt",
+    "doc_20499.txt"
+  ]
+}

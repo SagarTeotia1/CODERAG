@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided links, what was Shere Khan’s role in the 1990 Disney Afternoon series *Talespin*?",
+  "response": [
+    "doc_22576.txt",
+    "doc_22579.txt",
+    "doc_22577.txt",
+    "doc_22581.txt",
+    "doc_22578.txt"
+  ]
+}

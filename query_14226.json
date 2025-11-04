@@ -1,0 +1,10 @@
+{
+  "query": "What is the focus of the legal case referenced in the “NATTA v. HOGAN” document?",
+  "response": [
+    "doc_25322.txt",
+    "doc_25658.txt",
+    "doc_25319.txt",
+    "doc_25320.txt",
+    "doc_25321.txt"
+  ]
+}

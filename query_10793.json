@@ -1,0 +1,10 @@
+{
+  "query": "What was Moe Howard’s original name before he became known as “Moe”?",
+  "response": [
+    "doc_17093.txt",
+    "doc_17090.txt",
+    "doc_17094.txt",
+    "doc_17091.txt",
+    "doc_17092.txt"
+  ]
+}

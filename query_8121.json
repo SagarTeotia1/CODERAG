@@ -1,0 +1,10 @@
+{
+  "query": "What legal advice influenced the Board’s decision regarding the claims?",
+  "response": [
+    "doc_954.txt",
+    "doc_1011.txt",
+    "doc_1015.txt",
+    "doc_1010.txt",
+    "doc_1012.txt"
+  ]
+}

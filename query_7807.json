@@ -1,0 +1,10 @@
+{
+  "query": "What type of transportation is used to travel to the top of Mount San Jacinto via the Palm Springs Aerial Tramway?",
+  "response": [
+    "doc_9859.txt",
+    "doc_9852.txt",
+    "doc_9851.txt",
+    "doc_9855.txt",
+    "doc_9853.txt"
+  ]
+}

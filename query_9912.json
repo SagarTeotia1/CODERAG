@@ -1,0 +1,10 @@
+{
+  "query": "What river does the River Calder flow into near Great Mitton?",
+  "response": [
+    "doc_6118.txt",
+    "doc_3892.txt",
+    "doc_3894.txt",
+    "doc_36067.txt",
+    "doc_3893.txt"
+  ]
+}

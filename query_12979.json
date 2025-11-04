@@ -1,0 +1,10 @@
+{
+  "query": "Who are the guests of honor at the Energy Globe Awards gala?",
+  "response": [
+    "doc_35519.txt",
+    "doc_2165.txt",
+    "doc_35521.txt",
+    "doc_24655.txt",
+    "doc_26976.txt"
+  ]
+}

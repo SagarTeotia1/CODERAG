@@ -1,0 +1,10 @@
+{
+  "query": "How many Jews did Oskar Schindler save during the Holocaust, and where were his factories located?",
+  "response": [
+    "doc_11030.txt",
+    "doc_11029.txt",
+    "doc_37623.txt",
+    "doc_11032.txt",
+    "doc_11036.txt"
+  ]
+}

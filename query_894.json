@@ -1,0 +1,10 @@
+{
+  "query": "Which studio was responsible for creating clay-animated TV commercials for Disney and Cartoon Network?",
+  "response": [
+    "doc_29513.txt",
+    "doc_29512.txt",
+    "doc_23761.txt",
+    "doc_22397.txt",
+    "doc_22398.txt"
+  ]
+}

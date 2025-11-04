@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what is the mortality rate for chronic liver disease in the EU-27, and how does it compare to the mortality rate for diabetes?",
+  "response": [
+    "doc_9829.txt",
+    "doc_24104.txt",
+    "doc_22282.txt",
+    "doc_13275.txt",
+    "doc_16484.txt"
+  ]
+}

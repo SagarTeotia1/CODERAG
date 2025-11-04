@@ -1,0 +1,10 @@
+{
+  "query": "What is the primary composition of the Kaʻū Desert?",
+  "response": [
+    "doc_16201.txt",
+    "doc_7864.txt",
+    "doc_5229.txt",
+    "doc_5230.txt",
+    "doc_5225.txt"
+  ]
+}

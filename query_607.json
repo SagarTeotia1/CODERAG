@@ -1,0 +1,10 @@
+{
+  "query": "What specific crimes with a cross-border dimension does the passage suggest the Commission should clarify definitions for?",
+  "response": [
+    "doc_35475.txt",
+    "doc_35337.txt",
+    "doc_11108.txt",
+    "doc_11196.txt",
+    "doc_24834.txt"
+  ]
+}

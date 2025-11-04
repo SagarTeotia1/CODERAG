@@ -1,0 +1,10 @@
+{
+  "query": "When was Paul Baloff’s death?",
+  "response": [
+    "doc_4878.txt",
+    "doc_23687.txt",
+    "doc_33316.txt",
+    "doc_33312.txt",
+    "doc_7331.txt"
+  ]
+}

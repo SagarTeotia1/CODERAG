@@ -1,0 +1,10 @@
+{
+  "query": "Where did Saint Cadoc establish his first monastery?",
+  "response": [
+    "doc_31767.txt",
+    "doc_31768.txt",
+    "doc_31770.txt",
+    "doc_31772.txt",
+    "doc_31771.txt"
+  ]
+}

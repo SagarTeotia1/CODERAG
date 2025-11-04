@@ -1,0 +1,10 @@
+{
+  "query": "Besides singing, what other musical roles did Johnny Gill play on the album “Heart Break”?",
+  "response": [
+    "doc_21177.txt",
+    "doc_21172.txt",
+    "doc_39259.txt",
+    "doc_27492.txt",
+    "doc_21176.txt"
+  ]
+}

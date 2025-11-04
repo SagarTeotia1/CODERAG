@@ -1,0 +1,10 @@
+{
+  "query": "Which American Folk artists influenced Frank Hannon’s songwriting?",
+  "response": [
+    "doc_16154.txt",
+    "doc_16155.txt",
+    "doc_16158.txt",
+    "doc_16153.txt",
+    "doc_16159.txt"
+  ]
+}

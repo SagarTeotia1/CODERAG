@@ -1,0 +1,10 @@
+{
+  "query": "Which bowl games has The University of Mississippi Band attended besides the Sugar Bowl?",
+  "response": [
+    "doc_34200.txt",
+    "doc_34201.txt",
+    "doc_27295.txt",
+    "doc_27296.txt",
+    "doc_34051.txt"
+  ]
+}

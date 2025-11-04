@@ -1,0 +1,10 @@
+{
+  "query": "What constellation does the Big Dipper belong to?",
+  "response": [
+    "doc_10472.txt",
+    "doc_10470.txt",
+    "doc_10469.txt",
+    "doc_10468.txt",
+    "doc_10471.txt"
+  ]
+}

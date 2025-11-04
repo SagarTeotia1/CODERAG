@@ -1,0 +1,10 @@
+{
+  "query": "According to the MoU, what are the key responsibilities of the FOS regarding potential regulatory issues identified by the organization?",
+  "response": [
+    "doc_1023.txt",
+    "doc_1022.txt",
+    "doc_1028.txt",
+    "doc_1021.txt",
+    "doc_6610.txt"
+  ]
+}

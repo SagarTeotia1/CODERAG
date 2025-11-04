@@ -1,0 +1,10 @@
+{
+  "query": "What is the primary purpose of the McPassport, according to the Commission?",
+  "response": [
+    "doc_36500.txt",
+    "doc_24571.txt",
+    "doc_36328.txt",
+    "doc_13628.txt",
+    "doc_24720.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Where did the very first Mustang debut at the 1964 World’s Fair?",
+  "response": [
+    "doc_33610.txt",
+    "doc_9502.txt",
+    "doc_33612.txt",
+    "doc_33613.txt",
+    "doc_9501.txt"
+  ]
+}

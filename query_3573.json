@@ -1,0 +1,10 @@
+{
+  "query": "What is the 0-60 mph time for the 1999 Honda Accord Type R?",
+  "response": [
+    "doc_35906.txt",
+    "doc_35905.txt",
+    "doc_35900.txt",
+    "doc_35902.txt",
+    "doc_35901.txt"
+  ]
+}

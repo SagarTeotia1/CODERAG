@@ -1,0 +1,10 @@
+{
+  "query": "What publications did Henry Sloane Coffin edit?",
+  "response": [
+    "doc_16518.txt",
+    "doc_38381.txt",
+    "doc_38379.txt",
+    "doc_38384.txt",
+    "doc_38378.txt"
+  ]
+}

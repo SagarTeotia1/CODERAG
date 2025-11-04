@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of university qualifications awarded in the European Union are received by women?",
+  "response": [
+    "doc_30978.txt",
+    "doc_3845.txt",
+    "doc_25103.txt",
+    "doc_5837.txt",
+    "doc_7238.txt"
+  ]
+}

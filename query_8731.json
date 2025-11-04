@@ -1,0 +1,10 @@
+{
+  "query": "Where is Fort Morgan located?",
+  "response": [
+    "doc_12148.txt",
+    "doc_19151.txt",
+    "doc_19154.txt",
+    "doc_6250.txt",
+    "doc_12147.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided texts, what is the first feast mentioned by the LORD in Leviticus 23?",
+  "response": [
+    "doc_13882.txt",
+    "doc_13875.txt",
+    "doc_13883.txt",
+    "doc_13877.txt",
+    "doc_13876.txt"
+  ]
+}

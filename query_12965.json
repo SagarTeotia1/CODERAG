@@ -1,0 +1,10 @@
+{
+  "query": "What was the status of the “Fantastic Four Fairy Tales” series?",
+  "response": [
+    "doc_22659.txt",
+    "doc_22660.txt",
+    "doc_14304.txt",
+    "doc_14305.txt",
+    "doc_8770.txt"
+  ]
+}

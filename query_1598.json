@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Kingfisher Airlines initially attempt to join the Oneworld airline alliance?",
+  "response": [
+    "doc_31170.txt",
+    "doc_31169.txt",
+    "doc_24037.txt",
+    "doc_24038.txt",
+    "doc_24032.txt"
+  ]
+}

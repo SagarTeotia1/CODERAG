@@ -1,0 +1,10 @@
+{
+  "query": "What fines did the European Commission impose on Microsoft?",
+  "response": [
+    "doc_2719.txt",
+    "doc_3984.txt",
+    "doc_24213.txt",
+    "doc_13789.txt",
+    "doc_12781.txt"
+  ]
+}

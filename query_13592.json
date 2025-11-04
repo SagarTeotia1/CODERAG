@@ -1,0 +1,10 @@
+{
+  "query": "Was a worker in Dublin sacked for wearing a trade union badge?",
+  "response": [
+    "doc_4856.txt",
+    "doc_9943.txt",
+    "doc_18406.txt",
+    "doc_18398.txt",
+    "doc_18402.txt"
+  ]
+}

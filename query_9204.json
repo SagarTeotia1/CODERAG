@@ -1,0 +1,10 @@
+{
+  "query": "What was the proposed budget for the European Parliament in 2008, and how does it compare to the 2007 budget?",
+  "response": [
+    "doc_13351.txt",
+    "doc_14559.txt",
+    "doc_13352.txt",
+    "doc_15503.txt",
+    "doc_15705.txt"
+  ]
+}

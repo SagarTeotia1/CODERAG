@@ -1,0 +1,10 @@
+{
+  "query": "In what city and state is the Puente Hills Mall located?",
+  "response": [
+    "doc_24838.txt",
+    "doc_11582.txt",
+    "doc_19174.txt",
+    "doc_19175.txt",
+    "doc_11583.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Who was illegally imprisoned by Israel, according to the passage?",
+  "response": [
+    "doc_12525.txt",
+    "doc_2392.txt",
+    "doc_35334.txt",
+    "doc_15236.txt",
+    "doc_37170.txt"
+  ]
+}

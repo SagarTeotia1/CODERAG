@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided links, what is a primary way the Ebola virus is spread?",
+  "response": [
+    "doc_12845.txt",
+    "doc_12853.txt",
+    "doc_12847.txt",
+    "doc_12844.txt",
+    "doc_12852.txt"
+  ]
+}

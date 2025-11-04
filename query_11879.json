@@ -1,0 +1,10 @@
+{
+  "query": "Which Southern Mediterranean countries are specifically mentioned as starting points for the proposed Dialogue?",
+  "response": [
+    "doc_19962.txt",
+    "doc_26906.txt",
+    "doc_19023.txt",
+    "doc_26889.txt",
+    "doc_27426.txt"
+  ]
+}

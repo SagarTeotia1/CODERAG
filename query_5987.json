@@ -1,0 +1,10 @@
+{
+  "query": "Besides being an actress, what other professions does Cassandra Cass have?",
+  "response": [
+    "doc_12256.txt",
+    "doc_12254.txt",
+    "doc_5341.txt",
+    "doc_23155.txt",
+    "doc_36819.txt"
+  ]
+}

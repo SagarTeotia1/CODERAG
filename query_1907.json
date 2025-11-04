@@ -1,0 +1,10 @@
+{
+  "query": "What did Giotto draw to impress Pope Benedict?",
+  "response": [
+    "doc_31974.txt",
+    "doc_31978.txt",
+    "doc_31975.txt",
+    "doc_33019.txt",
+    "doc_31976.txt"
+  ]
+}

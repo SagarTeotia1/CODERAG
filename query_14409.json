@@ -1,0 +1,10 @@
+{
+  "query": "From which record label is Twin Stumps’ debut 12'' being released?",
+  "response": [
+    "doc_11497.txt",
+    "doc_17901.txt",
+    "doc_32069.txt",
+    "doc_19185.txt",
+    "doc_28123.txt"
+  ]
+}

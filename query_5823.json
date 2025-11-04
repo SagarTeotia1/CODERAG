@@ -1,0 +1,10 @@
+{
+  "query": "How many Albanian children are reported to be missing?",
+  "response": [
+    "doc_4945.txt",
+    "doc_26491.txt",
+    "doc_26588.txt",
+    "doc_23653.txt",
+    "doc_28171.txt"
+  ]
+}

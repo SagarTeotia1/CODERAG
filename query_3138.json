@@ -1,0 +1,10 @@
+{
+  "query": "What nickname was John Gotti given due to his ability to evade conviction?",
+  "response": [
+    "doc_34913.txt",
+    "doc_34912.txt",
+    "doc_21805.txt",
+    "doc_21806.txt",
+    "doc_9217.txt"
+  ]
+}

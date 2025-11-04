@@ -1,0 +1,10 @@
+{
+  "query": "Where is Dubliner Cheese manufactured, and by whom?",
+  "response": [
+    "doc_1657.txt",
+    "doc_37424.txt",
+    "doc_29951.txt",
+    "doc_29949.txt",
+    "doc_29948.txt"
+  ]
+}

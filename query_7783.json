@@ -1,0 +1,10 @@
+{
+  "query": "What is the primary purpose of the U.S. Constitution, as described in the preamble?",
+  "response": [
+    "doc_3100.txt",
+    "doc_3103.txt",
+    "doc_3102.txt",
+    "doc_3101.txt",
+    "doc_9810.txt"
+  ]
+}

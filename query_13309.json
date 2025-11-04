@@ -1,0 +1,10 @@
+{
+  "query": "What was the library in Alexandria part of?",
+  "response": [
+    "doc_23473.txt",
+    "doc_24754.txt",
+    "doc_23474.txt",
+    "doc_3143.txt",
+    "doc_24755.txt"
+  ]
+}

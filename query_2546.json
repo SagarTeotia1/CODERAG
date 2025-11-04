@@ -1,0 +1,10 @@
+{
+  "query": "What is the approximate size range (in inches) of adult *Periplaneta americana* (Palmetto Bugs)?",
+  "response": [
+    "doc_33601.txt",
+    "doc_33607.txt",
+    "doc_33603.txt",
+    "doc_33602.txt",
+    "doc_7257.txt"
+  ]
+}

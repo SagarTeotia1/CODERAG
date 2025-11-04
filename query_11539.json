@@ -1,0 +1,10 @@
+{
+  "query": "What type of data does the Commission collect regarding healthcare services?",
+  "response": [
+    "doc_30703.txt",
+    "doc_24719.txt",
+    "doc_18995.txt",
+    "doc_3418.txt",
+    "doc_23326.txt"
+  ]
+}

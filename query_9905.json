@@ -1,0 +1,10 @@
+{
+  "query": "How does tax fraud and evasion negatively impact the EU economy?",
+  "response": [
+    "doc_26700.txt",
+    "doc_14963.txt",
+    "doc_24840.txt",
+    "doc_38264.txt",
+    "doc_20030.txt"
+  ]
+}

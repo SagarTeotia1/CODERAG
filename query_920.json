@@ -1,0 +1,10 @@
+{
+  "query": "Who did Javier Mora lose to in Berlin, Germany?",
+  "response": [
+    "doc_1468.txt",
+    "doc_30896.txt",
+    "doc_30890.txt",
+    "doc_25600.txt",
+    "doc_30892.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What hotel opened in Old Havana on September 01, 2005, according to one of the links?",
+  "response": [
+    "doc_22035.txt",
+    "doc_22036.txt",
+    "doc_22038.txt",
+    "doc_22039.txt",
+    "doc_6047.txt"
+  ]
+}

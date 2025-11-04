@@ -1,0 +1,10 @@
+{
+  "query": "What is the current amount of EU imports of agricultural products from Mercosur, and how does this compare to EU exports?",
+  "response": [
+    "doc_34322.txt",
+    "doc_40159.txt",
+    "doc_1974.txt",
+    "doc_10248.txt",
+    "doc_7070.txt"
+  ]
+}

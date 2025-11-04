@@ -1,0 +1,10 @@
+{
+  "query": "How many airlines did the Commission initially request information from?",
+  "response": [
+    "doc_10370.txt",
+    "doc_3809.txt",
+    "doc_39001.txt",
+    "doc_13447.txt",
+    "doc_35575.txt"
+  ]
+}

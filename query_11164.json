@@ -1,0 +1,10 @@
+{
+  "query": "When was Lucasfilm founded?",
+  "response": [
+    "doc_26036.txt",
+    "doc_26040.txt",
+    "doc_18031.txt",
+    "doc_26034.txt",
+    "doc_26038.txt"
+  ]
+}

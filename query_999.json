@@ -1,0 +1,10 @@
+{
+  "query": "What publishing company was created by the creator of “The Simpsons” due to the success of a one-shot comic book?",
+  "response": [
+    "doc_32694.txt",
+    "doc_32693.txt",
+    "doc_29177.txt",
+    "doc_29790.txt",
+    "doc_28994.txt"
+  ]
+}

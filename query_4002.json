@@ -1,0 +1,10 @@
+{
+  "query": "In what city is Shakey's Pizza based?",
+  "response": [
+    "doc_335.txt",
+    "doc_3900.txt",
+    "doc_31861.txt",
+    "doc_3899.txt",
+    "doc_15356.txt"
+  ]
+}

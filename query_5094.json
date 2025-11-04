@@ -1,0 +1,10 @@
+{
+  "query": "Which album released in 2014 featured Diana Krall covering pop songs from the 1960s onward?",
+  "response": [
+    "doc_39571.txt",
+    "doc_39567.txt",
+    "doc_39572.txt",
+    "doc_39566.txt",
+    "doc_39569.txt"
+  ]
+}

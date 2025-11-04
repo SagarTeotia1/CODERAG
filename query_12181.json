@@ -1,0 +1,10 @@
+{
+  "query": "Which of Laomedon’s wives begot King Priam?",
+  "response": [
+    "doc_20592.txt",
+    "doc_38500.txt",
+    "doc_37361.txt",
+    "doc_20591.txt",
+    "doc_9171.txt"
+  ]
+}

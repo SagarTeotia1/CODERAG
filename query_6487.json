@@ -1,0 +1,10 @@
+{
+  "query": "What specific report from the European Environment Agency is highlighted for providing user-friendly information on the environment?",
+  "response": [
+    "doc_6588.txt",
+    "doc_36203.txt",
+    "doc_6587.txt",
+    "doc_39157.txt",
+    "doc_39158.txt"
+  ]
+}

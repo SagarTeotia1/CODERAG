@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the song “You’re the Voice” awarded the ARIA Award for “Single of the Year”?",
+  "response": [
+    "doc_4900.txt",
+    "doc_4898.txt",
+    "doc_22155.txt",
+    "doc_22159.txt",
+    "doc_4901.txt"
+  ]
+}

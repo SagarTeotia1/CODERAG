@@ -1,0 +1,10 @@
+{
+  "query": "What is the Macquarie University Hospital’s relationship with Macquarie University?",
+  "response": [
+    "doc_33791.txt",
+    "doc_38772.txt",
+    "doc_3418.txt",
+    "doc_16872.txt",
+    "doc_16798.txt"
+  ]
+}

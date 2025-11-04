@@ -1,0 +1,10 @@
+{
+  "query": "What was the population of Kapp Heights, Pennsylvania, according to the 2010 census?",
+  "response": [
+    "doc_2214.txt",
+    "doc_17335.txt",
+    "doc_2215.txt",
+    "doc_12887.txt",
+    "doc_11286.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What nickname did Johan Cruyff receive, and where was he born?",
+  "response": [
+    "doc_23918.txt",
+    "doc_23919.txt",
+    "doc_23920.txt",
+    "doc_26136.txt",
+    "doc_16967.txt"
+  ]
+}

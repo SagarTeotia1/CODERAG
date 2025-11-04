@@ -1,0 +1,10 @@
+{
+  "query": "What is the typical length of an American Roach?",
+  "response": [
+    "doc_33606.txt",
+    "doc_33603.txt",
+    "doc_33607.txt",
+    "doc_33601.txt",
+    "doc_33602.txt"
+  ]
+}

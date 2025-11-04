@@ -1,0 +1,10 @@
+{
+  "query": "Who portrays Jenna Hamilton in “Awkward”?",
+  "response": [
+    "doc_37544.txt",
+    "doc_22305.txt",
+    "doc_22304.txt",
+    "doc_16757.txt",
+    "doc_22299.txt"
+  ]
+}

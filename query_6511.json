@@ -1,0 +1,10 @@
+{
+  "query": "What dance styles emerged in Cuba after the Spanish colonization?",
+  "response": [
+    "doc_629.txt",
+    "doc_4121.txt",
+    "doc_14562.txt",
+    "doc_31403.txt",
+    "doc_31891.txt"
+  ]
+}

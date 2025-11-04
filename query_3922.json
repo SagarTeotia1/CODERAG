@@ -1,0 +1,10 @@
+{
+  "query": "How many teambuilding seminars were held by the GSC since 2006?",
+  "response": [
+    "doc_36758.txt",
+    "doc_15232.txt",
+    "doc_14319.txt",
+    "doc_15779.txt",
+    "doc_15518.txt"
+  ]
+}

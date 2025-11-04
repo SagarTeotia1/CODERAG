@@ -1,0 +1,10 @@
+{
+  "query": "What political office did John F. Kennedy first seek in 1946?",
+  "response": [
+    "doc_34635.txt",
+    "doc_34630.txt",
+    "doc_34633.txt",
+    "doc_34629.txt",
+    "doc_34640.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Is the lawsuit concerning alleged irregularities in the processing of assistance from the European Social Fund in Catalonia being heard by the High Court in Catalonia?",
+  "response": [
+    "doc_1446.txt",
+    "doc_10366.txt",
+    "doc_37489.txt",
+    "doc_10365.txt",
+    "doc_10363.txt"
+  ]
+}

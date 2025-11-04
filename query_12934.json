@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Fairest Gunderson Medal winner receive the award?",
+  "response": [
+    "doc_1313.txt",
+    "doc_35928.txt",
+    "doc_32261.txt",
+    "doc_1312.txt",
+    "doc_1311.txt"
+  ]
+}

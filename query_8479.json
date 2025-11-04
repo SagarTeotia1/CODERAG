@@ -1,0 +1,10 @@
+{
+  "query": "When was Aung San Suu Kyi released from house arrest?",
+  "response": [
+    "doc_11546.txt",
+    "doc_11543.txt",
+    "doc_11548.txt",
+    "doc_11550.txt",
+    "doc_11545.txt"
+  ]
+}

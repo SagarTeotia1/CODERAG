@@ -1,0 +1,10 @@
+{
+  "query": "Which committee produced a report regarding the 2006 Consolidated Maritime Labour Convention?",
+  "response": [
+    "doc_30470.txt",
+    "doc_36448.txt",
+    "doc_28232.txt",
+    "doc_2085.txt",
+    "doc_2386.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year were there 3,190 students at Brisbane State High School?",
+  "response": [
+    "doc_18016.txt",
+    "doc_2038.txt",
+    "doc_35714.txt",
+    "doc_37145.txt",
+    "doc_7994.txt"
+  ]
+}

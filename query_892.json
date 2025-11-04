@@ -1,0 +1,10 @@
+{
+  "query": "Where can one find La Habichuela Restaurante located?",
+  "response": [
+    "doc_2901.txt",
+    "doc_2898.txt",
+    "doc_2899.txt",
+    "doc_2900.txt",
+    "doc_2902.txt"
+  ]
+}

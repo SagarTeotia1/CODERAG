@@ -1,0 +1,10 @@
+{
+  "query": "Which Scottish musician collaborated with Eddi Reader on the album “Uam”, and what does the title of the album mean in Scottish Gaelic?",
+  "response": [
+    "doc_20515.txt",
+    "doc_20516.txt",
+    "doc_21728.txt",
+    "doc_21729.txt",
+    "doc_16161.txt"
+  ]
+}

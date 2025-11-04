@@ -1,0 +1,10 @@
+{
+  "query": "What are the main subjects of the September Parliamentary session taking place in Strasbourg?",
+  "response": [
+    "doc_16438.txt",
+    "doc_20838.txt",
+    "doc_17783.txt",
+    "doc_20839.txt",
+    "doc_5769.txt"
+  ]
+}

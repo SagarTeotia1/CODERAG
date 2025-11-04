@@ -1,0 +1,10 @@
+{
+  "query": "Umberto Eco’s novel *The Name of the Rose* portrays a library designed as what?",
+  "response": [
+    "doc_23863.txt",
+    "doc_23860.txt",
+    "doc_31679.txt",
+    "doc_23862.txt",
+    "doc_7035.txt"
+  ]
+}

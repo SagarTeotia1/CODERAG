@@ -1,0 +1,10 @@
+{
+  "query": "Of the three oil spill incidents reported on the Canadian side of Lake Erie since 1959, which were contaminated by crude oil, produced water, or other materials?",
+  "response": [
+    "doc_26029.txt",
+    "doc_26028.txt",
+    "doc_15363.txt",
+    "doc_32308.txt",
+    "doc_32311.txt"
+  ]
+}

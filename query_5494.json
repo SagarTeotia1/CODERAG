@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of general function claims on botanical substances has the NDA rejected?",
+  "response": [
+    "doc_19300.txt",
+    "doc_16392.txt",
+    "doc_19301.txt",
+    "doc_6562.txt",
+    "doc_19302.txt"
+  ]
+}

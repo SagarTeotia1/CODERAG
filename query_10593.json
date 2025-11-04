@@ -1,0 +1,10 @@
+{
+  "query": "Which railway line does Bomaderry railway station serve?",
+  "response": [
+    "doc_16640.txt",
+    "doc_16639.txt",
+    "doc_25401.txt",
+    "doc_16288.txt",
+    "doc_10191.txt"
+  ]
+}

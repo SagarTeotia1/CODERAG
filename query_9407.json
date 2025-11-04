@@ -1,0 +1,10 @@
+{
+  "query": "Who announced the establishment of the Firestone Plantation Company?",
+  "response": [
+    "doc_38409.txt",
+    "doc_19380.txt",
+    "doc_19383.txt",
+    "doc_19381.txt",
+    "doc_34397.txt"
+  ]
+}

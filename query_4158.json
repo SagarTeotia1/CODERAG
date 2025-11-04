@@ -1,0 +1,10 @@
+{
+  "query": "What item did Charles Didelot introduce to ballet, as indicated in the provided text?",
+  "response": [
+    "doc_3722.txt",
+    "doc_3723.txt",
+    "doc_31403.txt",
+    "doc_31891.txt",
+    "doc_31892.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What year did the first commencement take place at the auditorium in Virginia Tech?",
+  "response": [
+    "doc_773.txt",
+    "doc_12589.txt",
+    "doc_32256.txt",
+    "doc_32262.txt",
+    "doc_12590.txt"
+  ]
+}

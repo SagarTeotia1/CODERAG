@@ -1,0 +1,10 @@
+{
+  "query": "Which Mafia member is the subject of “The Valachi Papers”?",
+  "response": [
+    "doc_35846.txt",
+    "doc_35845.txt",
+    "doc_34913.txt",
+    "doc_34912.txt",
+    "doc_9219.txt"
+  ]
+}

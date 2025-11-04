@@ -1,0 +1,10 @@
+{
+  "query": "What major softball tournaments did Lexi Davis win medals at in 2016?",
+  "response": [
+    "doc_25629.txt",
+    "doc_22165.txt",
+    "doc_25624.txt",
+    "doc_32760.txt",
+    "doc_32757.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What type of game is “Mag Blast”?",
+  "response": [
+    "doc_28601.txt",
+    "doc_38713.txt",
+    "doc_24917.txt",
+    "doc_34578.txt",
+    "doc_11463.txt"
+  ]
+}

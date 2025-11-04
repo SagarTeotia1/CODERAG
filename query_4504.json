@@ -1,0 +1,10 @@
+{
+  "query": "Which album released in 1975 is referred to as \"G. G. (or \\\"Gary Glitter\\\")\"?",
+  "response": [
+    "doc_1530.txt",
+    "doc_22662.txt",
+    "doc_4600.txt",
+    "doc_22663.txt",
+    "doc_31622.txt"
+  ]
+}

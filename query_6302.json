@@ -1,0 +1,10 @@
+{
+  "query": "What type of entertainment does Jim Michaels produce?",
+  "response": [
+    "doc_6053.txt",
+    "doc_23272.txt",
+    "doc_37218.txt",
+    "doc_5637.txt",
+    "doc_28874.txt"
+  ]
+}

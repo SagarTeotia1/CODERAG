@@ -1,0 +1,10 @@
+{
+  "query": "What is the title of Joyce C. Hall’s autobiography?",
+  "response": [
+    "doc_32049.txt",
+    "doc_32050.txt",
+    "doc_32047.txt",
+    "doc_32048.txt",
+    "doc_32052.txt"
+  ]
+}

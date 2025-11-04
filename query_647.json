@@ -1,0 +1,10 @@
+{
+  "query": "Who wrote the letter “J’accuse”?",
+  "response": [
+    "doc_2833.txt",
+    "doc_2834.txt",
+    "doc_33673.txt",
+    "doc_33671.txt",
+    "doc_33672.txt"
+  ]
+}

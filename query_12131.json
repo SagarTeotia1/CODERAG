@@ -1,0 +1,10 @@
+{
+  "query": "What was the primary goal of the film *The Blue Max*, as described in the provided text?",
+  "response": [
+    "doc_20498.txt",
+    "doc_20500.txt",
+    "doc_20502.txt",
+    "doc_20499.txt",
+    "doc_4695.txt"
+  ]
+}

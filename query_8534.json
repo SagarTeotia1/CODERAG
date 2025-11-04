@@ -1,0 +1,10 @@
+{
+  "query": "Besides Carlsberg, what other beer brand is manufactured by the company?",
+  "response": [
+    "doc_11676.txt",
+    "doc_11675.txt",
+    "doc_11679.txt",
+    "doc_11678.txt",
+    "doc_11677.txt"
+  ]
+}

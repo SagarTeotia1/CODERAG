@@ -1,0 +1,10 @@
+{
+  "query": "How does the landform known as the Whipple Mountains affect the Colorado River’s flow?",
+  "response": [
+    "doc_21201.txt",
+    "doc_23492.txt",
+    "doc_21733.txt",
+    "doc_21202.txt",
+    "doc_5921.txt"
+  ]
+}

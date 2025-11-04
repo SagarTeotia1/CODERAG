@@ -1,0 +1,10 @@
+{
+  "query": "Who is Padre Garces?",
+  "response": [
+    "doc_20887.txt",
+    "doc_20893.txt",
+    "doc_7539.txt",
+    "doc_2066.txt",
+    "doc_34006.txt"
+  ]
+}

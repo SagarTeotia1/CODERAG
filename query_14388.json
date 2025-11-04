@@ -1,0 +1,10 @@
+{
+  "query": "What geographical feature gave the location of Thermopylae its name?",
+  "response": [
+    "doc_2486.txt",
+    "doc_19772.txt",
+    "doc_19775.txt",
+    "doc_19776.txt",
+    "doc_19770.txt"
+  ]
+}

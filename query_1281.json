@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided links, who directed *Serial Mom*?",
+  "response": [
+    "doc_2967.txt",
+    "doc_2968.txt",
+    "doc_2969.txt",
+    "doc_12999.txt",
+    "doc_2971.txt"
+  ]
+}

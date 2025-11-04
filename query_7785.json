@@ -1,0 +1,10 @@
+{
+  "query": "What is the current status of the Mediterranean diet’s potential UNESCO World Heritage listing?",
+  "response": [
+    "doc_14298.txt",
+    "doc_25154.txt",
+    "doc_37118.txt",
+    "doc_37116.txt",
+    "doc_32147.txt"
+  ]
+}

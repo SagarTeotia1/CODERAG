@@ -1,0 +1,10 @@
+{
+  "query": "Is the European Union aware of the growing trend of the theft of trade secrets?",
+  "response": [
+    "doc_9983.txt",
+    "doc_34628.txt",
+    "doc_28793.txt",
+    "doc_12537.txt",
+    "doc_3568.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what country is the Toyota Prius currently manufactured and sold in significant quantities?",
+  "response": [
+    "doc_31262.txt",
+    "doc_31260.txt",
+    "doc_31256.txt",
+    "doc_31254.txt",
+    "doc_31257.txt"
+  ]
+}

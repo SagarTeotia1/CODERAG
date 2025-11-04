@@ -1,0 +1,10 @@
+{
+  "query": "What newspaper reported the allegation of a new refugee camp being authorized by the Calais mayor?",
+  "response": [
+    "doc_35358.txt",
+    "doc_40259.txt",
+    "doc_18242.txt",
+    "doc_28610.txt",
+    "doc_20073.txt"
+  ]
+}

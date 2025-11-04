@@ -1,0 +1,10 @@
+{
+  "query": "What was Elbridge Gerry’s profession, according to the provided text?",
+  "response": [
+    "doc_22248.txt",
+    "doc_22249.txt",
+    "doc_22250.txt",
+    "doc_5719.txt",
+    "doc_29678.txt"
+  ]
+}

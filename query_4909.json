@@ -1,0 +1,10 @@
+{
+  "query": "Which actor voiced Apu Nahasapeemapetilon in “The Simpsons”?",
+  "response": [
+    "doc_39144.txt",
+    "doc_29175.txt",
+    "doc_32695.txt",
+    "doc_39143.txt",
+    "doc_29177.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When was the 44th Parliament of Australia opened?",
+  "response": [
+    "doc_26301.txt",
+    "doc_26303.txt",
+    "doc_26302.txt",
+    "doc_30410.txt",
+    "doc_39868.txt"
+  ]
+}

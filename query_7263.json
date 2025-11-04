@@ -1,0 +1,10 @@
+{
+  "query": "What colors are featured on Iraq’s flag?",
+  "response": [
+    "doc_8506.txt",
+    "doc_19222.txt",
+    "doc_18416.txt",
+    "doc_18414.txt",
+    "doc_21210.txt"
+  ]
+}

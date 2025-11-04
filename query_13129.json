@@ -1,0 +1,10 @@
+{
+  "query": "What dream is Rodriguez striving to achieve?",
+  "response": [
+    "doc_23018.txt",
+    "doc_23013.txt",
+    "doc_23022.txt",
+    "doc_23012.txt",
+    "doc_23019.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which countries have enacted mandatory origin-marking requirements that the EU is considering?",
+  "response": [
+    "doc_25869.txt",
+    "doc_30028.txt",
+    "doc_34597.txt",
+    "doc_33423.txt",
+    "doc_24938.txt"
+  ]
+}

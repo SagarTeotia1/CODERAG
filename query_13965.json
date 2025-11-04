@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the original film starring Boris Karloff titled “The Mummy”?",
+  "response": [
+    "doc_25001.txt",
+    "doc_24997.txt",
+    "doc_24998.txt",
+    "doc_24989.txt",
+    "doc_24996.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Is it aware of the number of cars with spent catalytic converters in Greece?",
+  "response": [
+    "doc_27778.txt",
+    "doc_21794.txt",
+    "doc_855.txt",
+    "doc_12633.txt",
+    "doc_10598.txt"
+  ]
+}

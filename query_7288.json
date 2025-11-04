@@ -1,0 +1,10 @@
+{
+  "query": "Who joined the musical when it came to Broadway?",
+  "response": [
+    "doc_7695.txt",
+    "doc_16822.txt",
+    "doc_16817.txt",
+    "doc_16821.txt",
+    "doc_7694.txt"
+  ]
+}

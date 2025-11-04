@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Alanis Morissette’s album “Jagged Little Pill” reach the #1 spot on the Billboard Top 200 chart?",
+  "response": [
+    "doc_38895.txt",
+    "doc_38899.txt",
+    "doc_38896.txt",
+    "doc_38894.txt",
+    "doc_38897.txt"
+  ]
+}

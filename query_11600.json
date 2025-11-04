@@ -1,0 +1,10 @@
+{
+  "query": "When did the Italian authorities inform the Commission about the dioxin contamination of buffalo mozzarella cheese?",
+  "response": [
+    "doc_1858.txt",
+    "doc_2382.txt",
+    "doc_25260.txt",
+    "doc_30312.txt",
+    "doc_11813.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year was “The Bottom of the Bottle” released?",
+  "response": [
+    "doc_11203.txt",
+    "doc_21175.txt",
+    "doc_38895.txt",
+    "doc_15901.txt",
+    "doc_31779.txt"
+  ]
+}

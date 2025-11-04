@@ -1,0 +1,10 @@
+{
+  "query": "In what year was Angela Bassett scheduled to debut her first film?",
+  "response": [
+    "doc_39105.txt",
+    "doc_39104.txt",
+    "doc_39103.txt",
+    "doc_24723.txt",
+    "doc_1565.txt"
+  ]
+}

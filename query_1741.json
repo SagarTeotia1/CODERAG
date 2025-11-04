@@ -1,0 +1,10 @@
+{
+  "query": "What was the name of the plane that first landed at the South Pole in 1956?",
+  "response": [
+    "doc_31510.txt",
+    "doc_31512.txt",
+    "doc_31511.txt",
+    "doc_31513.txt",
+    "doc_10194.txt"
+  ]
+}

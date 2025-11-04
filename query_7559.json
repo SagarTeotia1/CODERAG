@@ -1,0 +1,10 @@
+{
+  "query": "What type of trees are associated with the Springs named Cherry Springs?",
+  "response": [
+    "doc_9225.txt",
+    "doc_9227.txt",
+    "doc_9224.txt",
+    "doc_20462.txt",
+    "doc_8070.txt"
+  ]
+}

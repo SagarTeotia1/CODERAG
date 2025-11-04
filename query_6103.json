@@ -1,0 +1,10 @@
+{
+  "query": "What types of degrees are offered at Walden University?",
+  "response": [
+    "doc_5622.txt",
+    "doc_5623.txt",
+    "doc_5620.txt",
+    "doc_5621.txt",
+    "doc_39311.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which actors voiced the main characters in the “Madagascar” film series?",
+  "response": [
+    "doc_35933.txt",
+    "doc_35932.txt",
+    "doc_39144.txt",
+    "doc_3343.txt",
+    "doc_27884.txt"
+  ]
+}

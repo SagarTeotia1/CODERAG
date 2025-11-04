@@ -1,0 +1,10 @@
+{
+  "query": "What are the operating hours for the farmers’ market in Roselle Park?",
+  "response": [
+    "doc_16506.txt",
+    "doc_16507.txt",
+    "doc_25558.txt",
+    "doc_25557.txt",
+    "doc_26056.txt"
+  ]
+}

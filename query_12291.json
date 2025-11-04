@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what was a notable event regarding Fortress Investment Group’s initial public offering (IPO)?",
+  "response": [
+    "doc_20821.txt",
+    "doc_17910.txt",
+    "doc_19423.txt",
+    "doc_13774.txt",
+    "doc_13777.txt"
+  ]
+}

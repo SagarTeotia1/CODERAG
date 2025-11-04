@@ -1,0 +1,10 @@
+{
+  "query": "What is Caroline’s relationship to the father of three of her children?",
+  "response": [
+    "doc_34948.txt",
+    "doc_39445.txt",
+    "doc_39444.txt",
+    "doc_34946.txt",
+    "doc_12608.txt"
+  ]
+}

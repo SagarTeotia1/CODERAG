@@ -1,0 +1,10 @@
+{
+  "query": "Who played the role of the \"little girl\" in \"The Restoration\"?",
+  "response": [
+    "doc_26501.txt",
+    "doc_27025.txt",
+    "doc_28339.txt",
+    "doc_18322.txt",
+    "doc_37303.txt"
+  ]
+}

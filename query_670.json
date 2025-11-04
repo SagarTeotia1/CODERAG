@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided information, what was Claude Monet's initial approach to painting, and how did he later change this approach?",
+  "response": [
+    "doc_2844.txt",
+    "doc_2840.txt",
+    "doc_2842.txt",
+    "doc_2304.txt",
+    "doc_2841.txt"
+  ]
+}

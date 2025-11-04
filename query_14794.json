@@ -1,0 +1,10 @@
+{
+  "query": "Who directed the film *An Angel at My Table*?",
+  "response": [
+    "doc_27034.txt",
+    "doc_27031.txt",
+    "doc_27026.txt",
+    "doc_18323.txt",
+    "doc_18319.txt"
+  ]
+}

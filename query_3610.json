@@ -1,0 +1,10 @@
+{
+  "query": "What band wrote the song \"Chestnut Mare,\" and for what unproduced musical was it originally intended?",
+  "response": [
+    "doc_12520.txt",
+    "doc_1606.txt",
+    "doc_14157.txt",
+    "doc_12510.txt",
+    "doc_12516.txt"
+  ]
+}

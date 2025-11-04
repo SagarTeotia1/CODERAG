@@ -1,0 +1,10 @@
+{
+  "query": "Which magician’s stage name was Tommy Wonder, and where did he perform?",
+  "response": [
+    "doc_268.txt",
+    "doc_267.txt",
+    "doc_270.txt",
+    "doc_269.txt",
+    "doc_273.txt"
+  ]
+}

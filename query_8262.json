@@ -1,0 +1,10 @@
+{
+  "query": "When did Saul Zaentz receive the Irving Thalberg Award?",
+  "response": [
+    "doc_17862.txt",
+    "doc_29964.txt",
+    "doc_140.txt",
+    "doc_2555.txt",
+    "doc_3235.txt"
+  ]
+}

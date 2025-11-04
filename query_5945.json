@@ -1,0 +1,10 @@
+{
+  "query": "When was the Portland Rose Festival first held?",
+  "response": [
+    "doc_5240.txt",
+    "doc_5238.txt",
+    "doc_5236.txt",
+    "doc_5237.txt",
+    "doc_5241.txt"
+  ]
+}

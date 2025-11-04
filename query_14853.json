@@ -1,0 +1,10 @@
+{
+  "query": "What two phrases are included in James Rogers’ “Dictionary of”?",
+  "response": [
+    "doc_27383.txt",
+    "doc_21778.txt",
+    "doc_12752.txt",
+    "doc_12492.txt",
+    "doc_14013.txt"
+  ]
+}

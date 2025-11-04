@@ -1,0 +1,10 @@
+{
+  "query": "What is the approximate square mileage of the Truckee River Basin?",
+  "response": [
+    "doc_22887.txt",
+    "doc_36393.txt",
+    "doc_11168.txt",
+    "doc_11167.txt",
+    "doc_11165.txt"
+  ]
+}

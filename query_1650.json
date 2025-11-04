@@ -1,0 +1,10 @@
+{
+  "query": "What peninsula lies directly opposite the Kerch Peninsula?",
+  "response": [
+    "doc_31293.txt",
+    "doc_31294.txt",
+    "doc_31295.txt",
+    "doc_31297.txt",
+    "doc_31292.txt"
+  ]
+}

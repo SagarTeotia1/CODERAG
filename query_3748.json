@@ -1,0 +1,10 @@
+{
+  "query": "What was George Gipp’s nickname?",
+  "response": [
+    "doc_36347.txt",
+    "doc_36349.txt",
+    "doc_33620.txt",
+    "doc_8375.txt",
+    "doc_8366.txt"
+  ]
+}

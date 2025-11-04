@@ -1,0 +1,10 @@
+{
+  "query": "Which author’s work, “Maria Western,” was published in 1749, according to one of the linked documents?",
+  "response": [
+    "doc_12423.txt",
+    "doc_22876.txt",
+    "doc_30240.txt",
+    "doc_12425.txt",
+    "doc_30246.txt"
+  ]
+}

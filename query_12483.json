@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the bird featured at Hawkstone Park?",
+  "response": [
+    "doc_150.txt",
+    "doc_33333.txt",
+    "doc_156.txt",
+    "doc_33331.txt",
+    "doc_13861.txt"
+  ]
+}

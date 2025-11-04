@@ -1,0 +1,10 @@
+{
+  "query": "Where is AirAsia's registered office located?",
+  "response": [
+    "doc_12894.txt",
+    "doc_31170.txt",
+    "doc_31169.txt",
+    "doc_24032.txt",
+    "doc_12895.txt"
+  ]
+}

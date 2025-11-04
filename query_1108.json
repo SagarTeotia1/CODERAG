@@ -1,0 +1,10 @@
+{
+  "query": "For what event was Mary Phelps Jacob designing an undergarment when she invented the first bra?",
+  "response": [
+    "doc_30036.txt",
+    "doc_30035.txt",
+    "doc_30037.txt",
+    "doc_30034.txt",
+    "doc_30040.txt"
+  ]
+}

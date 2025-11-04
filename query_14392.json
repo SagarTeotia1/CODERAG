@@ -1,0 +1,10 @@
+{
+  "query": "In which two areas will the JRC support EU policies related to security?",
+  "response": [
+    "doc_14640.txt",
+    "doc_14624.txt",
+    "doc_26059.txt",
+    "doc_26058.txt",
+    "doc_14628.txt"
+  ]
+}

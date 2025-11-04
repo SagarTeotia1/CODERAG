@@ -1,0 +1,10 @@
+{
+  "query": "Which firehouse was the first built in Nevada City, and what were the competing factions vying for its construction?",
+  "response": [
+    "doc_6385.txt",
+    "doc_6384.txt",
+    "doc_27058.txt",
+    "doc_23145.txt",
+    "doc_100.txt"
+  ]
+}

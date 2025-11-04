@@ -1,0 +1,10 @@
+{
+  "query": "During which period did a particular individual head the Ukrainian Communist Party?",
+  "response": [
+    "doc_10240.txt",
+    "doc_10236.txt",
+    "doc_3200.txt",
+    "doc_10235.txt",
+    "doc_10237.txt"
+  ]
+}

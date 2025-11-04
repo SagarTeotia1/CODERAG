@@ -1,0 +1,10 @@
+{
+  "query": "In what year did the Space Shuttle Enterprise make a short flight?",
+  "response": [
+    "doc_16692.txt",
+    "doc_16696.txt",
+    "doc_20958.txt",
+    "doc_16693.txt",
+    "doc_20952.txt"
+  ]
+}

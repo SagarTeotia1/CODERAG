@@ -1,0 +1,10 @@
+{
+  "query": "Which actress was discovered by a fashion editor at Ebony magazine?",
+  "response": [
+    "doc_1575.txt",
+    "doc_1168.txt",
+    "doc_1160.txt",
+    "doc_39104.txt",
+    "doc_1162.txt"
+  ]
+}

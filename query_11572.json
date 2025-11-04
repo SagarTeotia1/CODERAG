@@ -1,0 +1,10 @@
+{
+  "query": "Where did the 2011 European Diving Championships take place?",
+  "response": [
+    "doc_21401.txt",
+    "doc_6298.txt",
+    "doc_33887.txt",
+    "doc_15921.txt",
+    "doc_5756.txt"
+  ]
+}

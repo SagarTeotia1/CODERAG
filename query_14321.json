@@ -1,0 +1,10 @@
+{
+  "query": "Which HBO comedy series did Danny McBride and Jody Hill co-create?",
+  "response": [
+    "doc_7368.txt",
+    "doc_37211.txt",
+    "doc_802.txt",
+    "doc_27867.txt",
+    "doc_9726.txt"
+  ]
+}

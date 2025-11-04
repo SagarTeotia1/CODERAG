@@ -1,0 +1,10 @@
+{
+  "query": "Which committee produced the report titled \"The Impact of the New Financial Services Framework, Country Rep. MT, NL, PL, PT, SK, SL, ES, SV, UK\"?",
+  "response": [
+    "doc_6003.txt",
+    "doc_18735.txt",
+    "doc_5994.txt",
+    "doc_5993.txt",
+    "doc_1119.txt"
+  ]
+}

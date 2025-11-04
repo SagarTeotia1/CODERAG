@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided links, what was the name of Jules Verne’s submarine featured in his novel *Twenty Thousand Leagues Under the Sea*?",
+  "response": [
+    "doc_12361.txt",
+    "doc_25877.txt",
+    "doc_25879.txt",
+    "doc_25881.txt",
+    "doc_25876.txt"
+  ]
+}

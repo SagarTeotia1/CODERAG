@@ -1,0 +1,10 @@
+{
+  "query": "Before merging, which police force operated in Londonderry?",
+  "response": [
+    "doc_14695.txt",
+    "doc_9773.txt",
+    "doc_14693.txt",
+    "doc_27553.txt",
+    "doc_9769.txt"
+  ]
+}

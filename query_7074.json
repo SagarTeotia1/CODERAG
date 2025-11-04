@@ -1,0 +1,10 @@
+{
+  "query": "According to Stedman’s Narrative, how much money was lent to him by Mrs. Godefroy?",
+  "response": [
+    "doc_15286.txt",
+    "doc_8065.txt",
+    "doc_15287.txt",
+    "doc_35625.txt",
+    "doc_4537.txt"
+  ]
+}

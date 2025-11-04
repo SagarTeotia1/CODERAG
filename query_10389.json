@@ -1,0 +1,10 @@
+{
+  "query": "Besides Humble Pie, with which other musicians did Peter Frampton collaborate?",
+  "response": [
+    "doc_16218.txt",
+    "doc_16219.txt",
+    "doc_33024.txt",
+    "doc_33022.txt",
+    "doc_40124.txt"
+  ]
+}

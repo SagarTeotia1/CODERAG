@@ -1,0 +1,10 @@
+{
+  "query": "According to the report, what percentage of Europe’s plants are predicted to be classified as endangered by 2080?",
+  "response": [
+    "doc_38179.txt",
+    "doc_21134.txt",
+    "doc_27016.txt",
+    "doc_21133.txt",
+    "doc_40085.txt"
+  ]
+}

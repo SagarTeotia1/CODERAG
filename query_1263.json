@@ -1,0 +1,10 @@
+{
+  "query": "What degree did Marilyn McIntyre receive for her training in acting?",
+  "response": [
+    "doc_30415.txt",
+    "doc_5545.txt",
+    "doc_30048.txt",
+    "doc_30051.txt",
+    "doc_16115.txt"
+  ]
+}

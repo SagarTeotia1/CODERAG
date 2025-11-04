@@ -1,0 +1,10 @@
+{
+  "query": "Where did John F. Kennedy deliver the “Ich bin ein Berliner” speech?",
+  "response": [
+    "doc_20708.txt",
+    "doc_20709.txt",
+    "doc_34640.txt",
+    "doc_36180.txt",
+    "doc_31140.txt"
+  ]
+}

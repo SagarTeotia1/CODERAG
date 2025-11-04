@@ -1,0 +1,10 @@
+{
+  "query": "What organization provided information to the Commission regarding the women’s rights activists?",
+  "response": [
+    "doc_6892.txt",
+    "doc_25015.txt",
+    "doc_15127.txt",
+    "doc_6938.txt",
+    "doc_39241.txt"
+  ]
+}

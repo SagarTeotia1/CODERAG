@@ -1,0 +1,10 @@
+{
+  "query": "Who proposed the motion for a resolution regarding Nepal?",
+  "response": [
+    "doc_20593.txt",
+    "doc_21206.txt",
+    "doc_10736.txt",
+    "doc_15914.txt",
+    "doc_28234.txt"
+  ]
+}

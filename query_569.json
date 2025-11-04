@@ -1,0 +1,10 @@
+{
+  "query": "Morrison published her first novel, *The Bluest Eye*, in 1970.",
+  "response": [
+    "doc_28538.txt",
+    "doc_28535.txt",
+    "doc_28534.txt",
+    "doc_28536.txt",
+    "doc_28537.txt"
+  ]
+}

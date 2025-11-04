@@ -1,0 +1,10 @@
+{
+  "query": "What was the primary reason Marmarth was founded?",
+  "response": [
+    "doc_30283.txt",
+    "doc_10051.txt",
+    "doc_8964.txt",
+    "doc_15263.txt",
+    "doc_12093.txt"
+  ]
+}

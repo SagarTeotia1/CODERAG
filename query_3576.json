@@ -1,0 +1,10 @@
+{
+  "query": "What specific information must be included in the registration published in the Official Journal of the European Union?",
+  "response": [
+    "doc_35915.txt",
+    "doc_35916.txt",
+    "doc_35076.txt",
+    "doc_35098.txt",
+    "doc_29249.txt"
+  ]
+}

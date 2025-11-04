@@ -1,0 +1,10 @@
+{
+  "query": "Which death metal band did Steve Swanson previously play with Terry Butler?",
+  "response": [
+    "doc_35406.txt",
+    "doc_35407.txt",
+    "doc_19231.txt",
+    "doc_21638.txt",
+    "doc_40212.txt"
+  ]
+}

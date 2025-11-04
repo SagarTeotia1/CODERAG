@@ -1,0 +1,10 @@
+{
+  "query": "Who led the army troops that assaulted Manila, and when did this occur?",
+  "response": [
+    "doc_39365.txt",
+    "doc_39370.txt",
+    "doc_39368.txt",
+    "doc_39363.txt",
+    "doc_19836.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the total amount of funding allocated to the ‘Construction of the sewage collectors in the municipality of Zivinice’ project?",
+  "response": [
+    "doc_15592.txt",
+    "doc_15623.txt",
+    "doc_15577.txt",
+    "doc_15578.txt",
+    "doc_5425.txt"
+  ]
+}

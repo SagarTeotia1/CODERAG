@@ -1,0 +1,10 @@
+{
+  "query": "How many Palestinian houses are currently slated for demolition according to the passage?",
+  "response": [
+    "doc_40254.txt",
+    "doc_5353.txt",
+    "doc_14425.txt",
+    "doc_770.txt",
+    "doc_15100.txt"
+  ]
+}

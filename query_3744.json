@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Dennis Fimple pass away?",
+  "response": [
+    "doc_33311.txt",
+    "doc_24210.txt",
+    "doc_20761.txt",
+    "doc_10442.txt",
+    "doc_5855.txt"
+  ]
+}

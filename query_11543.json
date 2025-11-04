@@ -1,0 +1,10 @@
+{
+  "query": "Which television series featured Jimmy Smits as the character Matt Santos?",
+  "response": [
+    "doc_26970.txt",
+    "doc_26961.txt",
+    "doc_23154.txt",
+    "doc_26963.txt",
+    "doc_26964.txt"
+  ]
+}

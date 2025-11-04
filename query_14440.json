@@ -1,0 +1,10 @@
+{
+  "query": "How many times was Robert Evans married according to the provided text?",
+  "response": [
+    "doc_33806.txt",
+    "doc_33805.txt",
+    "doc_31722.txt",
+    "doc_37034.txt",
+    "doc_37037.txt"
+  ]
+}

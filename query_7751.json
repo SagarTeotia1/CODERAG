@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the football team originally known as the Pittsburgh Gladiators?",
+  "response": [
+    "doc_4272.txt",
+    "doc_38737.txt",
+    "doc_29201.txt",
+    "doc_20241.txt",
+    "doc_9441.txt"
+  ]
+}

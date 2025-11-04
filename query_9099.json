@@ -1,0 +1,10 @@
+{
+  "query": "Which royal residence was once the summer residence of Prince William Henry Duke of Gloucester and Edinburgh?",
+  "response": [
+    "doc_29571.txt",
+    "doc_36771.txt",
+    "doc_36774.txt",
+    "doc_36769.txt",
+    "doc_25060.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which playwright wrote the play “The Duchess of Malfi,” and in what year was it first performed?",
+  "response": [
+    "doc_22975.txt",
+    "doc_4127.txt",
+    "doc_22973.txt",
+    "doc_4126.txt",
+    "doc_23956.txt"
+  ]
+}

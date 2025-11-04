@@ -1,0 +1,10 @@
+{
+  "query": "What university is the story of “Rudy” based on?",
+  "response": [
+    "doc_23013.txt",
+    "doc_23020.txt",
+    "doc_23021.txt",
+    "doc_23016.txt",
+    "doc_23022.txt"
+  ]
+}

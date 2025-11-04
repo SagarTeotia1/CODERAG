@@ -1,0 +1,10 @@
+{
+  "query": "In what year did George McGovern first serve in the United States House of Representatives?",
+  "response": [
+    "doc_12825.txt",
+    "doc_14341.txt",
+    "doc_14342.txt",
+    "doc_34639.txt",
+    "doc_12118.txt"
+  ]
+}

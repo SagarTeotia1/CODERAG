@@ -1,0 +1,10 @@
+{
+  "query": "What award did Vance receive in 1954?",
+  "response": [
+    "doc_17867.txt",
+    "doc_24002.txt",
+    "doc_6838.txt",
+    "doc_24000.txt",
+    "doc_24005.txt"
+  ]
+}

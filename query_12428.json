@@ -1,0 +1,10 @@
+{
+  "query": "What event did F.R. Bie win at the 1912 Olympic Games?",
+  "response": [
+    "doc_21232.txt",
+    "doc_21225.txt",
+    "doc_21231.txt",
+    "doc_21230.txt",
+    "doc_21227.txt"
+  ]
+}

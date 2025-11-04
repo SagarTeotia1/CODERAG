@@ -1,0 +1,10 @@
+{
+  "query": "What are some of Cole Porter’s well-known songs mentioned in the provided texts?",
+  "response": [
+    "doc_30628.txt",
+    "doc_30630.txt",
+    "doc_30632.txt",
+    "doc_30629.txt",
+    "doc_30627.txt"
+  ]
+}

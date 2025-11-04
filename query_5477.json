@@ -1,0 +1,10 @@
+{
+  "query": "Did Royal Mail charge a fee for assigning the new postcode?",
+  "response": [
+    "doc_39762.txt",
+    "doc_14209.txt",
+    "doc_7403.txt",
+    "doc_25061.txt",
+    "doc_14210.txt"
+  ]
+}

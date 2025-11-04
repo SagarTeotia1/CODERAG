@@ -1,0 +1,10 @@
+{
+  "query": "Besides Kelly Rowland, who co-wrote “Mama Told Me”?",
+  "response": [
+    "doc_172.txt",
+    "doc_170.txt",
+    "doc_171.txt",
+    "doc_169.txt",
+    "doc_15909.txt"
+  ]
+}

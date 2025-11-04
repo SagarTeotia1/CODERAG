@@ -1,0 +1,10 @@
+{
+  "query": "Have payments to the United Kingdom been suspended?",
+  "response": [
+    "doc_3164.txt",
+    "doc_1070.txt",
+    "doc_14210.txt",
+    "doc_925.txt",
+    "doc_867.txt"
+  ]
+}

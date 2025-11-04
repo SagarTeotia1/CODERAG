@@ -1,0 +1,10 @@
+{
+  "query": "What was the aim of the European Commission’s proposal regarding counterfeit medicines?",
+  "response": [
+    "doc_3620.txt",
+    "doc_9645.txt",
+    "doc_11093.txt",
+    "doc_39812.txt",
+    "doc_35738.txt"
+  ]
+}

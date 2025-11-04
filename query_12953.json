@@ -1,0 +1,10 @@
+{
+  "query": "How many Free Trade Agreements does the EU have with non-EU countries?",
+  "response": [
+    "doc_22617.txt",
+    "doc_30844.txt",
+    "doc_26853.txt",
+    "doc_14125.txt",
+    "doc_12431.txt"
+  ]
+}

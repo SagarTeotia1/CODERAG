@@ -1,0 +1,10 @@
+{
+  "query": "Which band was Mark Rankin the lead vocalist for?",
+  "response": [
+    "doc_28001.txt",
+    "doc_26172.txt",
+    "doc_28000.txt",
+    "doc_26171.txt",
+    "doc_28002.txt"
+  ]
+}

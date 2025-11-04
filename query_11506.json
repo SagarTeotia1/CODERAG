@@ -1,0 +1,10 @@
+{
+  "query": "What was the subject of a stamp issued in honor of Paul Robeson?",
+  "response": [
+    "doc_10964.txt",
+    "doc_18891.txt",
+    "doc_10958.txt",
+    "doc_10965.txt",
+    "doc_14790.txt"
+  ]
+}

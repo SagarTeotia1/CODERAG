@@ -1,0 +1,10 @@
+{
+  "query": "From which region were horses imported to improve the quality of the Mughal army?",
+  "response": [
+    "doc_25202.txt",
+    "doc_25192.txt",
+    "doc_25203.txt",
+    "doc_25197.txt",
+    "doc_25201.txt"
+  ]
+}

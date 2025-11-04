@@ -1,0 +1,10 @@
+{
+  "query": "What historical event does the film “Fire Over England” depict?",
+  "response": [
+    "doc_16006.txt",
+    "doc_16005.txt",
+    "doc_23454.txt",
+    "doc_14969.txt",
+    "doc_23455.txt"
+  ]
+}

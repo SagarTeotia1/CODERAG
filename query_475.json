@@ -1,0 +1,10 @@
+{
+  "query": "What prize did Steve Martin win in 2005?",
+  "response": [
+    "doc_23612.txt",
+    "doc_37212.txt",
+    "doc_23611.txt",
+    "doc_23610.txt",
+    "doc_28380.txt"
+  ]
+}

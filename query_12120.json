@@ -1,0 +1,10 @@
+{
+  "query": "What is the European Parliament’s primary action regarding the Committee on Missing Persons in Cyprus, as outlined in paragraph 1?",
+  "response": [
+    "doc_29284.txt",
+    "doc_1075.txt",
+    "doc_14764.txt",
+    "doc_2695.txt",
+    "doc_29367.txt"
+  ]
+}

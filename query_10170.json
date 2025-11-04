@@ -1,0 +1,10 @@
+{
+  "query": "What programmes fall under Heading 2 regarding RAL for the 2000-2006 period?",
+  "response": [
+    "doc_15486.txt",
+    "doc_14180.txt",
+    "doc_15485.txt",
+    "doc_15558.txt",
+    "doc_7285.txt"
+  ]
+}

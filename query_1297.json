@@ -1,0 +1,10 @@
+{
+  "query": "What social problems existed in the areas of Attica affected by the 1999 earthquakes, specifically regarding housing and unemployment?",
+  "response": [
+    "doc_30484.txt",
+    "doc_39794.txt",
+    "doc_35390.txt",
+    "doc_34107.txt",
+    "doc_17431.txt"
+  ]
+}

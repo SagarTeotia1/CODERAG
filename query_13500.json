@@ -1,0 +1,10 @@
+{
+  "query": "What specific groups of women are the passage urging particular attention to regarding access to the Information Society?",
+  "response": [
+    "doc_23807.txt",
+    "doc_23811.txt",
+    "doc_23808.txt",
+    "doc_23806.txt",
+    "doc_23805.txt"
+  ]
+}

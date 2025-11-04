@@ -1,0 +1,10 @@
+{
+  "query": "What is the Commission’s proposed action regarding telephone number accessibility for EU citizens?",
+  "response": [
+    "doc_6975.txt",
+    "doc_37840.txt",
+    "doc_39882.txt",
+    "doc_37995.txt",
+    "doc_37841.txt"
+  ]
+}

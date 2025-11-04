@@ -1,0 +1,10 @@
+{
+  "query": "What is the current status of Pastor Zhang Rongliang, including where he is believed to be held?",
+  "response": [
+    "doc_39184.txt",
+    "doc_24509.txt",
+    "doc_32796.txt",
+    "doc_24501.txt",
+    "doc_39183.txt"
+  ]
+}

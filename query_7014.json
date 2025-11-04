@@ -1,0 +1,10 @@
+{
+  "query": "What are the criteria a question must meet to be considered admissible during Question Time?",
+  "response": [
+    "doc_29357.txt",
+    "doc_7900.txt",
+    "doc_7901.txt",
+    "doc_2650.txt",
+    "doc_29349.txt"
+  ]
+}

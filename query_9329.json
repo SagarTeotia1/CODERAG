@@ -1,0 +1,10 @@
+{
+  "query": "What roles did Jim Backus portray on *Gilligan’s Island*?",
+  "response": [
+    "doc_13654.txt",
+    "doc_13652.txt",
+    "doc_13653.txt",
+    "doc_13651.txt",
+    "doc_13655.txt"
+  ]
+}

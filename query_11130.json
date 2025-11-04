@@ -1,0 +1,10 @@
+{
+  "query": "Which country guided Mexico to their first win in a FIFA World Cup?",
+  "response": [
+    "doc_17968.txt",
+    "doc_17969.txt",
+    "doc_30843.txt",
+    "doc_26366.txt",
+    "doc_25343.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What color are the flowers of the Flamboyan tree, as described in one of the passages?",
+  "response": [
+    "doc_39270.txt",
+    "doc_7041.txt",
+    "doc_7046.txt",
+    "doc_29912.txt",
+    "doc_29909.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how old is the young cluster NGC 6231?",
+  "response": [
+    "doc_31234.txt",
+    "doc_31235.txt",
+    "doc_31236.txt",
+    "doc_31233.txt",
+    "doc_31237.txt"
+  ]
+}

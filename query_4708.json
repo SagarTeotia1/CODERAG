@@ -1,0 +1,10 @@
+{
+  "query": "Who directed “The Lorax” alongside Chris Renaud?",
+  "response": [
+    "doc_5632.txt",
+    "doc_29013.txt",
+    "doc_11649.txt",
+    "doc_28874.txt",
+    "doc_19043.txt"
+  ]
+}

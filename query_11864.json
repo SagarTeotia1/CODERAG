@@ -1,0 +1,10 @@
+{
+  "query": "Who brought Tefnut to Egypt?",
+  "response": [
+    "doc_19907.txt",
+    "doc_19908.txt",
+    "doc_27616.txt",
+    "doc_27617.txt",
+    "doc_27619.txt"
+  ]
+}

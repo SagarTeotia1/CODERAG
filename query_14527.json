@@ -1,0 +1,10 @@
+{
+  "query": "Who was responsible for the content of the ‘The image of Europe’ exhibition?",
+  "response": [
+    "doc_4789.txt",
+    "doc_27357.txt",
+    "doc_6548.txt",
+    "doc_33564.txt",
+    "doc_3152.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In 2011, how many inmates committed suicide in Italian prisons?",
+  "response": [
+    "doc_15112.txt",
+    "doc_35028.txt",
+    "doc_26631.txt",
+    "doc_32279.txt",
+    "doc_33291.txt"
+  ]
+}

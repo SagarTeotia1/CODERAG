@@ -1,0 +1,10 @@
+{
+  "query": "Who was the first American champion at The Open in six years?",
+  "response": [
+    "doc_35040.txt",
+    "doc_16417.txt",
+    "doc_35045.txt",
+    "doc_35038.txt",
+    "doc_16419.txt"
+  ]
+}

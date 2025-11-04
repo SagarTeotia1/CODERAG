@@ -1,0 +1,10 @@
+{
+  "query": "How many soldiers are estimated to have fought in the Battle of Waterloo?",
+  "response": [
+    "doc_8163.txt",
+    "doc_40136.txt",
+    "doc_22468.txt",
+    "doc_30728.txt",
+    "doc_25026.txt"
+  ]
+}

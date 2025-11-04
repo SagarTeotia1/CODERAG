@@ -1,0 +1,10 @@
+{
+  "query": "What historical shift led to the expansion of hazelnut production in some regions of the EU?",
+  "response": [
+    "doc_17236.txt",
+    "doc_2776.txt",
+    "doc_1838.txt",
+    "doc_28027.txt",
+    "doc_34955.txt"
+  ]
+}

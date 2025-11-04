@@ -1,0 +1,10 @@
+{
+  "query": "What was the primary purpose of “The Cake Sale” album?",
+  "response": [
+    "doc_15900.txt",
+    "doc_31618.txt",
+    "doc_15910.txt",
+    "doc_38897.txt",
+    "doc_15902.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What EU legislation prohibits the capture or killing of cetaceans?",
+  "response": [
+    "doc_39195.txt",
+    "doc_25182.txt",
+    "doc_37105.txt",
+    "doc_25183.txt",
+    "doc_37206.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was the outcome of the trial of Tariq Aziz, and what subsequent sentence was he initially given?",
+  "response": [
+    "doc_30801.txt",
+    "doc_71.txt",
+    "doc_30802.txt",
+    "doc_30800.txt",
+    "doc_30806.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of motorists surveyed expressed a desire for greater harmonization of road signs across Europe?",
+  "response": [
+    "doc_11283.txt",
+    "doc_11282.txt",
+    "doc_4800.txt",
+    "doc_4799.txt",
+    "doc_11281.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which Frenchman laid the cornerstone of the Bunker Hill Monument in 1825?",
+  "response": [
+    "doc_5983.txt",
+    "doc_5987.txt",
+    "doc_5982.txt",
+    "doc_5984.txt",
+    "doc_5985.txt"
+  ]
+}

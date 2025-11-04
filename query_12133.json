@@ -1,0 +1,10 @@
+{
+  "query": "Which committee did Senator Ted Stevens chair during portions of his time in the Senate, including the Commerce, Science, and Transportation Committee and the Committee on Governmental Affairs?",
+  "response": [
+    "doc_1993.txt",
+    "doc_1991.txt",
+    "doc_1988.txt",
+    "doc_1986.txt",
+    "doc_1985.txt"
+  ]
+}

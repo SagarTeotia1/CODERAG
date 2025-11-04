@@ -1,0 +1,10 @@
+{
+  "query": "What is the reported change in healthcare access for expatriates in France?",
+  "response": [
+    "doc_28645.txt",
+    "doc_15222.txt",
+    "doc_23326.txt",
+    "doc_30698.txt",
+    "doc_30696.txt"
+  ]
+}

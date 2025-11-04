@@ -1,0 +1,10 @@
+{
+  "query": "Besides producing albums, what other profession has Steve Chapin held?",
+  "response": [
+    "doc_4878.txt",
+    "doc_37167.txt",
+    "doc_15910.txt",
+    "doc_13767.txt",
+    "doc_39037.txt"
+  ]
+}

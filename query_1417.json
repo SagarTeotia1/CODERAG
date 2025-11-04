@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided links, what significant event or period is referenced in *The Heidi Chronicles*?",
+  "response": [
+    "doc_30736.txt",
+    "doc_30747.txt",
+    "doc_30746.txt",
+    "doc_30745.txt",
+    "doc_30738.txt"
+  ]
+}

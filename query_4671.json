@@ -1,0 +1,10 @@
+{
+  "query": "Which television series featured a Madonna-themed episode titled “The Power of Madonna”?",
+  "response": [
+    "doc_11189.txt",
+    "doc_11188.txt",
+    "doc_25225.txt",
+    "doc_9529.txt",
+    "doc_11190.txt"
+  ]
+}

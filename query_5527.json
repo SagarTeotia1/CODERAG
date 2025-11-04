@@ -1,0 +1,10 @@
+{
+  "query": "Under what circumstances should a member inform the President or OLAF about potential illegal activity?",
+  "response": [
+    "doc_12060.txt",
+    "doc_35501.txt",
+    "doc_30122.txt",
+    "doc_27069.txt",
+    "doc_7548.txt"
+  ]
+}

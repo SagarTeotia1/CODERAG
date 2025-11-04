@@ -1,0 +1,10 @@
+{
+  "query": "What was the subject of the Commission’s second progress report that the Council reviewed?",
+  "response": [
+    "doc_8350.txt",
+    "doc_11567.txt",
+    "doc_24720.txt",
+    "doc_36471.txt",
+    "doc_39526.txt"
+  ]
+}

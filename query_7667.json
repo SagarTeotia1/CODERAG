@@ -1,0 +1,10 @@
+{
+  "query": "What type of structures were most severely damaged during the 1989 Loma Prieta earthquake, and where were they primarily located?",
+  "response": [
+    "doc_9546.txt",
+    "doc_9547.txt",
+    "doc_9543.txt",
+    "doc_9545.txt",
+    "doc_9544.txt"
+  ]
+}

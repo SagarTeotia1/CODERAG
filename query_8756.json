@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what is the proposed timeline for mandatory sulphur-free fuels in the EU?",
+  "response": [
+    "doc_22082.txt",
+    "doc_12193.txt",
+    "doc_22081.txt",
+    "doc_9471.txt",
+    "doc_5390.txt"
+  ]
+}

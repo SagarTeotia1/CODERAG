@@ -1,0 +1,10 @@
+{
+  "query": "What was the cause of Ronnie Paris’s death?",
+  "response": [
+    "doc_3347.txt",
+    "doc_23706.txt",
+    "doc_33311.txt",
+    "doc_23702.txt",
+    "doc_12583.txt"
+  ]
+}

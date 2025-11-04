@@ -1,0 +1,10 @@
+{
+  "query": "What is the primary focus of the Task Force for Greece (TFGR)?",
+  "response": [
+    "doc_450.txt",
+    "doc_17042.txt",
+    "doc_39142.txt",
+    "doc_13106.txt",
+    "doc_35682.txt"
+  ]
+}

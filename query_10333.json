@@ -1,0 +1,10 @@
+{
+  "query": "Who will Gérard Longuet be meeting with?",
+  "response": [
+    "doc_11972.txt",
+    "doc_25005.txt",
+    "doc_25007.txt",
+    "doc_19710.txt",
+    "doc_11769.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What specific actions has the European Union taken to combat discrimination following the Amsterdam Treaty?",
+  "response": [
+    "doc_19822.txt",
+    "doc_7885.txt",
+    "doc_25749.txt",
+    "doc_20898.txt",
+    "doc_25180.txt"
+  ]
+}

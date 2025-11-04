@@ -1,0 +1,10 @@
+{
+  "query": "According to multiple sources, what phrase does Julie London sing about in her song “The Sweetest Sounds”?",
+  "response": [
+    "doc_27160.txt",
+    "doc_27158.txt",
+    "doc_27157.txt",
+    "doc_27159.txt",
+    "doc_27161.txt"
+  ]
+}

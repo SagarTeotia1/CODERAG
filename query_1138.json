@@ -1,0 +1,10 @@
+{
+  "query": "What is the context of the exchange of views with Michel Barnier?",
+  "response": [
+    "doc_32559.txt",
+    "doc_21544.txt",
+    "doc_4796.txt",
+    "doc_15916.txt",
+    "doc_32198.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which Filmfare Award did Rekha receive in 1981 for “Khubsoorat”?",
+  "response": [
+    "doc_30206.txt",
+    "doc_11372.txt",
+    "doc_30207.txt",
+    "doc_8088.txt",
+    "doc_39243.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What was the approximate number of hardback copies “The Closing of the American Mind” sold?",
+  "response": [
+    "doc_40222.txt",
+    "doc_34619.txt",
+    "doc_38058.txt",
+    "doc_40224.txt",
+    "doc_40216.txt"
+  ]
+}

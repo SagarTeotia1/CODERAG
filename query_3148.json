@@ -1,0 +1,10 @@
+{
+  "query": "How many American cosmetics are imported into the EU annually, and what is their share of the European market?",
+  "response": [
+    "doc_39396.txt",
+    "doc_15980.txt",
+    "doc_23626.txt",
+    "doc_15981.txt",
+    "doc_30158.txt"
+  ]
+}

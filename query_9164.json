@@ -1,0 +1,10 @@
+{
+  "query": "What type of transportation did the Jiangsu Satellite TV director rush to?",
+  "response": [
+    "doc_16885.txt",
+    "doc_21015.txt",
+    "doc_32998.txt",
+    "doc_8746.txt",
+    "doc_3409.txt"
+  ]
+}

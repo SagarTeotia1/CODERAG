@@ -1,0 +1,10 @@
+{
+  "query": "What museum is located near the end of Basin Road, offering a short stroll for visitors?",
+  "response": [
+    "doc_13939.txt",
+    "doc_22099.txt",
+    "doc_6278.txt",
+    "doc_6285.txt",
+    "doc_17993.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Where is the World Figure Skating Hall of Fame located?",
+  "response": [
+    "doc_35246.txt",
+    "doc_35248.txt",
+    "doc_35247.txt",
+    "doc_35249.txt",
+    "doc_35250.txt"
+  ]
+}

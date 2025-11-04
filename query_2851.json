@@ -1,0 +1,10 @@
+{
+  "query": "For what award did “The Odd Life of Timothy Green” receive a nomination?",
+  "response": [
+    "doc_27329.txt",
+    "doc_16846.txt",
+    "doc_16843.txt",
+    "doc_16849.txt",
+    "doc_27321.txt"
+  ]
+}

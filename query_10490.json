@@ -1,0 +1,10 @@
+{
+  "query": "What two breeds is Buck’s lineage described as?",
+  "response": [
+    "doc_16453.txt",
+    "doc_16455.txt",
+    "doc_16456.txt",
+    "doc_16454.txt",
+    "doc_22718.txt"
+  ]
+}

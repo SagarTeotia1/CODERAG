@@ -1,0 +1,10 @@
+{
+  "query": "When did Frank Sinatra make his Las Vegas debut?",
+  "response": [
+    "doc_270.txt",
+    "doc_269.txt",
+    "doc_268.txt",
+    "doc_267.txt",
+    "doc_272.txt"
+  ]
+}

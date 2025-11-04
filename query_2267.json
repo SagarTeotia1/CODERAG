@@ -1,0 +1,10 @@
+{
+  "query": "Which organizations are involved in addressing the tension between Georgia and Russia?",
+  "response": [
+    "doc_32894.txt",
+    "doc_16433.txt",
+    "doc_32893.txt",
+    "doc_11273.txt",
+    "doc_16434.txt"
+  ]
+}

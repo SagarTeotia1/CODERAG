@@ -1,0 +1,10 @@
+{
+  "query": "What types of courses can be found through the Kenyon College searchable schedule?",
+  "response": [
+    "doc_25790.txt",
+    "doc_10976.txt",
+    "doc_23430.txt",
+    "doc_25800.txt",
+    "doc_28493.txt"
+  ]
+}

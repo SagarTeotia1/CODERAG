@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of Big Cypress is covered with cypress trees?",
+  "response": [
+    "doc_1778.txt",
+    "doc_20462.txt",
+    "doc_20463.txt",
+    "doc_1777.txt",
+    "doc_20458.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Who played Cecily in \"The Pigeon Sisters\"?",
+  "response": [
+    "doc_18327.txt",
+    "doc_37308.txt",
+    "doc_37302.txt",
+    "doc_37305.txt",
+    "doc_27035.txt"
+  ]
+}

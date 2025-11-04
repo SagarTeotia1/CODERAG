@@ -1,0 +1,10 @@
+{
+  "query": "What is Sneferu’s Hellenized name, as mentioned by Manetho?",
+  "response": [
+    "doc_33879.txt",
+    "doc_33882.txt",
+    "doc_33880.txt",
+    "doc_3451.txt",
+    "doc_3455.txt"
+  ]
+}

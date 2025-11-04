@@ -1,0 +1,10 @@
+{
+  "query": "What are the potential reasons a state might withdraw or refuse to renew an EU Blue Card?",
+  "response": [
+    "doc_12747.txt",
+    "doc_12746.txt",
+    "doc_16480.txt",
+    "doc_12748.txt",
+    "doc_16481.txt"
+  ]
+}

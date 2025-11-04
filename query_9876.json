@@ -1,0 +1,10 @@
+{
+  "query": "What was one commission completed by Pedro Berruguete in 1460, as specified by Queen Isabella?",
+  "response": [
+    "doc_14882.txt",
+    "doc_14881.txt",
+    "doc_9936.txt",
+    "doc_9931.txt",
+    "doc_9938.txt"
+  ]
+}

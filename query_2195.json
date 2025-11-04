@@ -1,0 +1,10 @@
+{
+  "query": "When did “The Simpsons” begin airing as a half-hour prime time series?",
+  "response": [
+    "doc_32694.txt",
+    "doc_32695.txt",
+    "doc_39143.txt",
+    "doc_32693.txt",
+    "doc_35869.txt"
+  ]
+}

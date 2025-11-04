@@ -1,0 +1,10 @@
+{
+  "query": "In what years was Hosni Mubarak re-elected as president?",
+  "response": [
+    "doc_3530.txt",
+    "doc_3529.txt",
+    "doc_416.txt",
+    "doc_3531.txt",
+    "doc_3537.txt"
+  ]
+}

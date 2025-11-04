@@ -1,0 +1,10 @@
+{
+  "query": "Who was the Director of the Brussels office of ClientEarth?",
+  "response": [
+    "doc_25635.txt",
+    "doc_22690.txt",
+    "doc_857.txt",
+    "doc_5385.txt",
+    "doc_2085.txt"
+  ]
+}

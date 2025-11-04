@@ -1,0 +1,10 @@
+{
+  "query": "What type of battery was used to try and fix the Timex Electric?",
+  "response": [
+    "doc_12075.txt",
+    "doc_12074.txt",
+    "doc_25584.txt",
+    "doc_6241.txt",
+    "doc_11229.txt"
+  ]
+}

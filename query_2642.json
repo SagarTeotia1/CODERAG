@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the University of Exeter founded and received its Royal Charter?",
+  "response": [
+    "doc_33818.txt",
+    "doc_33819.txt",
+    "doc_32680.txt",
+    "doc_1944.txt",
+    "doc_32677.txt"
+  ]
+}

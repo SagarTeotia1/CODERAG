@@ -1,0 +1,10 @@
+{
+  "query": "In 1874, a major rail crossing, the Eads Bridge, was completed across this river at St. Louis.",
+  "response": [
+    "doc_31116.txt",
+    "doc_31126.txt",
+    "doc_31122.txt",
+    "doc_31123.txt",
+    "doc_31115.txt"
+  ]
+}

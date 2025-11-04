@@ -1,0 +1,10 @@
+{
+  "query": "In what country is the International Center for Journalists located?",
+  "response": [
+    "doc_5756.txt",
+    "doc_11836.txt",
+    "doc_36936.txt",
+    "doc_28981.txt",
+    "doc_10319.txt"
+  ]
+}

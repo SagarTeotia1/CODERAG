@@ -1,0 +1,10 @@
+{
+  "query": "Which clan is described as one of the oldest in Scotland?",
+  "response": [
+    "doc_11847.txt",
+    "doc_12264.txt",
+    "doc_12260.txt",
+    "doc_12266.txt",
+    "doc_12269.txt"
+  ]
+}

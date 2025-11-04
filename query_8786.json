@@ -1,0 +1,10 @@
+{
+  "query": "When was the 2017 Toulon Tournament held, and which team won it?",
+  "response": [
+    "doc_6377.txt",
+    "doc_29111.txt",
+    "doc_38776.txt",
+    "doc_128.txt",
+    "doc_38774.txt"
+  ]
+}

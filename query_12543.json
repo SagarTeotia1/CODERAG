@@ -1,0 +1,10 @@
+{
+  "query": "What specific action did the European Commission propose to take regarding bilateral energy deals between EU Member States and non-EU countries?",
+  "response": [
+    "doc_2076.txt",
+    "doc_2077.txt",
+    "doc_7686.txt",
+    "doc_18749.txt",
+    "doc_38002.txt"
+  ]
+}

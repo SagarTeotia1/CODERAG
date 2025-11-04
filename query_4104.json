@@ -1,0 +1,10 @@
+{
+  "query": "In what year did the 1949 Maryland Terrapins football team play in the Gator Bowl?",
+  "response": [
+    "doc_12459.txt",
+    "doc_12466.txt",
+    "doc_12460.txt",
+    "doc_19110.txt",
+    "doc_19109.txt"
+  ]
+}

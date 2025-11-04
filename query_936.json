@@ -1,0 +1,10 @@
+{
+  "query": "Which ancient city features a virtual tour using Oculus Rift?",
+  "response": [
+    "doc_9152.txt",
+    "doc_24751.txt",
+    "doc_38219.txt",
+    "doc_31565.txt",
+    "doc_24749.txt"
+  ]
+}

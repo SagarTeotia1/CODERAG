@@ -1,0 +1,10 @@
+{
+  "query": "How many World Series titles have the St. Louis Cardinals won as an NL team?",
+  "response": [
+    "doc_4756.txt",
+    "doc_37700.txt",
+    "doc_22161.txt",
+    "doc_4757.txt",
+    "doc_4758.txt"
+  ]
+}

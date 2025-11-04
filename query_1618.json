@@ -1,0 +1,10 @@
+{
+  "query": "Which Welsh amateur football players were capped by Wales at amateur level?",
+  "response": [
+    "doc_15296.txt",
+    "doc_14613.txt",
+    "doc_16.txt",
+    "doc_6020.txt",
+    "doc_28560.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What specific issue regarding taxi fares has been reported in Crete, Greece, involving significantly higher prices for tourists compared to locals?",
+  "response": [
+    "doc_12428.txt",
+    "doc_10598.txt",
+    "doc_37702.txt",
+    "doc_36327.txt",
+    "doc_39658.txt"
+  ]
+}

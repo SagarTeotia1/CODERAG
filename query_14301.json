@@ -1,0 +1,10 @@
+{
+  "query": "Which record label released the album “Sweet Freedom” by Michael McDonald?",
+  "response": [
+    "doc_21172.txt",
+    "doc_22154.txt",
+    "doc_15908.txt",
+    "doc_21176.txt",
+    "doc_36258.txt"
+  ]
+}

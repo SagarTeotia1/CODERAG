@@ -1,0 +1,10 @@
+{
+  "query": "According to Mr. Figel, will the overall number of linguistic staff be reduced?",
+  "response": [
+    "doc_6152.txt",
+    "doc_10971.txt",
+    "doc_2491.txt",
+    "doc_37753.txt",
+    "doc_10981.txt"
+  ]
+}

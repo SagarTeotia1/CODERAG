@@ -1,0 +1,10 @@
+{
+  "query": "What was the outcome of the battle between Israel and the Philistines, according to the provided text?",
+  "response": [
+    "doc_526.txt",
+    "doc_525.txt",
+    "doc_527.txt",
+    "doc_524.txt",
+    "doc_31251.txt"
+  ]
+}

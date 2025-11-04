@@ -1,0 +1,10 @@
+{
+  "query": "What happened to Washington, D.C. in August 1814?",
+  "response": [
+    "doc_18494.txt",
+    "doc_18493.txt",
+    "doc_18495.txt",
+    "doc_18498.txt",
+    "doc_18496.txt"
+  ]
+}

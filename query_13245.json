@@ -1,0 +1,10 @@
+{
+  "query": "Did the Colombian prosecutor’s office report on espionage carried out by Colombian intelligence services in Madrid and other Spanish cities?",
+  "response": [
+    "doc_23209.txt",
+    "doc_15031.txt",
+    "doc_13973.txt",
+    "doc_27932.txt",
+    "doc_35121.txt"
+  ]
+}

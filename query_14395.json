@@ -1,0 +1,10 @@
+{
+  "query": "Which Turkish pop singer collaborated with İzel on the song “Dayan”?",
+  "response": [
+    "doc_9691.txt",
+    "doc_26075.txt",
+    "doc_22521.txt",
+    "doc_13764.txt",
+    "doc_10710.txt"
+  ]
+}

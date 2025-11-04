@@ -1,0 +1,10 @@
+{
+  "query": "Has the Polish State Secretary for Education stated that the theory of evolution is a “literary fable”?",
+  "response": [
+    "doc_8806.txt",
+    "doc_38720.txt",
+    "doc_38721.txt",
+    "doc_2082.txt",
+    "doc_12045.txt"
+  ]
+}

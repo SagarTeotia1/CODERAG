@@ -1,0 +1,10 @@
+{
+  "query": "What architectural style was Cedar Street designed in?",
+  "response": [
+    "doc_31678.txt",
+    "doc_7626.txt",
+    "doc_100.txt",
+    "doc_15256.txt",
+    "doc_13937.txt"
+  ]
+}

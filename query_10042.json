@@ -1,0 +1,10 @@
+{
+  "query": "What architectural style did Richard Morris Hunt learn about at the Ecole des Beaux-Arts in Paris?",
+  "response": [
+    "doc_15247.txt",
+    "doc_15253.txt",
+    "doc_15252.txt",
+    "doc_15248.txt",
+    "doc_15250.txt"
+  ]
+}

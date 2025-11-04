@@ -1,0 +1,10 @@
+{
+  "query": "Which film received three Magritte Awards, including Best Film and Best Director?",
+  "response": [
+    "doc_11075.txt",
+    "doc_31750.txt",
+    "doc_25898.txt",
+    "doc_11068.txt",
+    "doc_12438.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "When was Erich Honecker forced to resign?",
+  "response": [
+    "doc_4526.txt",
+    "doc_4527.txt",
+    "doc_4524.txt",
+    "doc_4525.txt",
+    "doc_4528.txt"
+  ]
+}

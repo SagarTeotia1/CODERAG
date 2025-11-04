@@ -1,0 +1,10 @@
+{
+  "query": "Which artists collaborated on Travie McCoy’s song “Billionaire”?",
+  "response": [
+    "doc_23531.txt",
+    "doc_23532.txt",
+    "doc_9987.txt",
+    "doc_35267.txt",
+    "doc_18700.txt"
+  ]
+}

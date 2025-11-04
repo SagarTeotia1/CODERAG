@@ -1,0 +1,10 @@
+{
+  "query": "According to the lawsuit, what was Sabrina Ali’s company accused of?",
+  "response": [
+    "doc_10579.txt",
+    "doc_10577.txt",
+    "doc_10574.txt",
+    "doc_15979.txt",
+    "doc_1414.txt"
+  ]
+}

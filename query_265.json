@@ -1,0 +1,10 @@
+{
+  "query": "What academic degrees did Peter Johan Lor receive from the University of Pretoria?",
+  "response": [
+    "doc_10997.txt",
+    "doc_8941.txt",
+    "doc_8940.txt",
+    "doc_192.txt",
+    "doc_2006.txt"
+  ]
+}

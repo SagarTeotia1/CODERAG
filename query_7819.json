@@ -1,0 +1,10 @@
+{
+  "query": "What is the expected date for a general review mission to Greece regarding beef traceability?",
+  "response": [
+    "doc_9868.txt",
+    "doc_38627.txt",
+    "doc_6418.txt",
+    "doc_3371.txt",
+    "doc_14599.txt"
+  ]
+}

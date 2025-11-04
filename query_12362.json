@@ -1,0 +1,10 @@
+{
+  "query": "In what year did the U.S. officially enter the war?",
+  "response": [
+    "doc_21042.txt",
+    "doc_21041.txt",
+    "doc_21040.txt",
+    "doc_21039.txt",
+    "doc_21037.txt"
+  ]
+}

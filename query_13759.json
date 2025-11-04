@@ -1,0 +1,10 @@
+{
+  "query": "What is Will Mannon’s description in the passage?",
+  "response": [
+    "doc_24050.txt",
+    "doc_10096.txt",
+    "doc_15820.txt",
+    "doc_24682.txt",
+    "doc_15285.txt"
+  ]
+}

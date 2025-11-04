@@ -1,0 +1,10 @@
+{
+  "query": "Who directed \"Bunshinsaba 3\"?",
+  "response": [
+    "doc_37304.txt",
+    "doc_8189.txt",
+    "doc_2970.txt",
+    "doc_7733.txt",
+    "doc_5633.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What country awarded Rigoberta Mench Tum the Nobel Peace Prize in 1992?",
+  "response": [
+    "doc_18990.txt",
+    "doc_18978.txt",
+    "doc_18982.txt",
+    "doc_18980.txt",
+    "doc_18986.txt"
+  ]
+}

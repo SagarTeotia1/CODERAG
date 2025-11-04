@@ -1,0 +1,10 @@
+{
+  "query": "Which record label initially signed Warp 9 before Island Records?",
+  "response": [
+    "doc_23950.txt",
+    "doc_34448.txt",
+    "doc_33756.txt",
+    "doc_38903.txt",
+    "doc_17896.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Besides Jack Paar, who are two other actors featured in “Footlight Varieties”?",
+  "response": [
+    "doc_14153.txt",
+    "doc_31832.txt",
+    "doc_21985.txt",
+    "doc_14157.txt",
+    "doc_14158.txt"
+  ]
+}

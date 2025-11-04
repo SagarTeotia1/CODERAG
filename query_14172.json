@@ -1,0 +1,10 @@
+{
+  "query": "On which island is Doris Duke’s estate, Shangri La, located?",
+  "response": [
+    "doc_25485.txt",
+    "doc_25486.txt",
+    "doc_25487.txt",
+    "doc_25489.txt",
+    "doc_25490.txt"
+  ]
+}

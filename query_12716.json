@@ -1,0 +1,10 @@
+{
+  "query": "Which branches of the U.S. military are included among the groups that Navy Federal Credit Union has expanded membership to include?",
+  "response": [
+    "doc_21970.txt",
+    "doc_21974.txt",
+    "doc_21975.txt",
+    "doc_21973.txt",
+    "doc_21971.txt"
+  ]
+}

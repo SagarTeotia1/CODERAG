@@ -1,0 +1,10 @@
+{
+  "query": "Which advertising firm designed the slogan “We Bring Good Things to Life”?",
+  "response": [
+    "doc_38198.txt",
+    "doc_38192.txt",
+    "doc_38196.txt",
+    "doc_38194.txt",
+    "doc_38193.txt"
+  ]
+}

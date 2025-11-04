@@ -1,0 +1,10 @@
+{
+  "query": "Who directed “Mr. Saturday Night”?",
+  "response": [
+    "doc_37076.txt",
+    "doc_37075.txt",
+    "doc_37074.txt",
+    "doc_37077.txt",
+    "doc_23273.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What type of trees are prominent in Redwood Regional Park?",
+  "response": [
+    "doc_1776.txt",
+    "doc_8073.txt",
+    "doc_1775.txt",
+    "doc_27559.txt",
+    "doc_8074.txt"
+  ]
+}

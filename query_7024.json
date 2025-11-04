@@ -1,0 +1,10 @@
+{
+  "query": "What is the premise of the *Alex Cross* series?",
+  "response": [
+    "doc_7913.txt",
+    "doc_7912.txt",
+    "doc_14857.txt",
+    "doc_14858.txt",
+    "doc_14860.txt"
+  ]
+}

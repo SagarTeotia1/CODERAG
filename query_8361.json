@@ -1,0 +1,10 @@
+{
+  "query": "Where is the city of Erode located, and what historical empires have ruled over it?",
+  "response": [
+    "doc_9315.txt",
+    "doc_25202.txt",
+    "doc_9318.txt",
+    "doc_25203.txt",
+    "doc_9316.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is Paul Ridker’s profession and what diseases does he specialize in treating?",
+  "response": [
+    "doc_13664.txt",
+    "doc_18472.txt",
+    "doc_222.txt",
+    "doc_18473.txt",
+    "doc_13657.txt"
+  ]
+}

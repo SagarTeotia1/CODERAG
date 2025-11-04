@@ -1,0 +1,9 @@
+{
+  "query": "What landmark is associated with Longfellow’s Wayside Inn?",
+  "response": [
+    "doc_24466.txt",
+    "doc_24465.txt",
+    "doc_24467.txt",
+    "doc_24464.txt"
+  ]
+}

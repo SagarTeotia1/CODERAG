@@ -1,0 +1,10 @@
+{
+  "query": "Which Scottish punk band released the album “Punks Not Dead”?",
+  "response": [
+    "doc_36253.txt",
+    "doc_36252.txt",
+    "doc_20516.txt",
+    "doc_11792.txt",
+    "doc_17897.txt"
+  ]
+}

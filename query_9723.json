@@ -1,0 +1,10 @@
+{
+  "query": "What is the current employment rate for women in Italy, according to the passage?",
+  "response": [
+    "doc_14496.txt",
+    "doc_22001.txt",
+    "doc_4490.txt",
+    "doc_19404.txt",
+    "doc_7532.txt"
+  ]
+}

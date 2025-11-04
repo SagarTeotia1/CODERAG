@@ -1,0 +1,10 @@
+{
+  "query": "Which college team did a player on the passage play for, and how many consecutive NCAA Division I Women's Soccer Championship titles did they win?",
+  "response": [
+    "doc_17823.txt",
+    "doc_17822.txt",
+    "doc_17825.txt",
+    "doc_17824.txt",
+    "doc_17831.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "If the United Kingdom has an opt-out, what is the legal basis for it?",
+  "response": [
+    "doc_32289.txt",
+    "doc_39575.txt",
+    "doc_927.txt",
+    "doc_30209.txt",
+    "doc_25973.txt"
+  ]
+}

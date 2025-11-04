@@ -1,0 +1,10 @@
+{
+  "query": "What percentage of Auckland children aged 6-23 months were found to be iron deficient?",
+  "response": [
+    "doc_34846.txt",
+    "doc_38259.txt",
+    "doc_14149.txt",
+    "doc_363.txt",
+    "doc_1663.txt"
+  ]
+}

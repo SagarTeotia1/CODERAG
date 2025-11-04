@@ -1,0 +1,10 @@
+{
+  "query": "What types of exploitation are specifically covered by the new EU law regarding human trafficking?",
+  "response": [
+    "doc_32327.txt",
+    "doc_18806.txt",
+    "doc_5219.txt",
+    "doc_27784.txt",
+    "doc_32328.txt"
+  ]
+}

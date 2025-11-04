@@ -1,0 +1,10 @@
+{
+  "query": "In what year was “The Thrifty Pig” released as part of a series promoting war bonds?",
+  "response": [
+    "doc_17038.txt",
+    "doc_22398.txt",
+    "doc_5852.txt",
+    "doc_5851.txt",
+    "doc_39112.txt"
+  ]
+}

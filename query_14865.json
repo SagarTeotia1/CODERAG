@@ -1,0 +1,10 @@
+{
+  "query": "What options are available to the President of the European Parliament when requesting access to documents covered by this agreement?",
+  "response": [
+    "doc_2663.txt",
+    "doc_29370.txt",
+    "doc_29371.txt",
+    "doc_39009.txt",
+    "doc_29397.txt"
+  ]
+}

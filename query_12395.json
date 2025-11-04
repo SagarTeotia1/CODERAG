@@ -1,0 +1,10 @@
+{
+  "query": "What trade did a post establish on Resurrection Bay?",
+  "response": [
+    "doc_27416.txt",
+    "doc_21932.txt",
+    "doc_27417.txt",
+    "doc_23094.txt",
+    "doc_26715.txt"
+  ]
+}

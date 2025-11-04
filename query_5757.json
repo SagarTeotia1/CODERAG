@@ -1,0 +1,10 @@
+{
+  "query": "With which three countries has the EU already signed bilateral aviation safety agreements regarding pilot licence recognition?",
+  "response": [
+    "doc_4772.txt",
+    "doc_39001.txt",
+    "doc_19958.txt",
+    "doc_19957.txt",
+    "doc_24333.txt"
+  ]
+}

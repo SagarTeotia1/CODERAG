@@ -1,0 +1,10 @@
+{
+  "query": "In 2006, what percentage of food waste generated in Europe was disposed of to landfills?",
+  "response": [
+    "doc_9304.txt",
+    "doc_9633.txt",
+    "doc_40133.txt",
+    "doc_5494.txt",
+    "doc_12633.txt"
+  ]
+}

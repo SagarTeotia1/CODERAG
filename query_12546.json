@@ -1,0 +1,10 @@
+{
+  "query": "When did Alice Brown serve as the first Scottish Public Services Ombudsman?",
+  "response": [
+    "doc_22186.txt",
+    "doc_22189.txt",
+    "doc_22190.txt",
+    "doc_32948.txt",
+    "doc_22187.txt"
+  ]
+}

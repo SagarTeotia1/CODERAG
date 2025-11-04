@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the album “London” released, and through which record label?",
+  "response": [
+    "doc_6730.txt",
+    "doc_14597.txt",
+    "doc_39067.txt",
+    "doc_34447.txt",
+    "doc_34448.txt"
+  ]
+}

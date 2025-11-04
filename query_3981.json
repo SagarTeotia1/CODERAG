@@ -1,0 +1,10 @@
+{
+  "query": "Which composer’s father did Cornelius Gurlitt study with for six years?",
+  "response": [
+    "doc_15957.txt",
+    "doc_15959.txt",
+    "doc_4157.txt",
+    "doc_15956.txt",
+    "doc_36651.txt"
+  ]
+}

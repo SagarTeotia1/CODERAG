@@ -1,0 +1,10 @@
+{
+  "query": "What 1990s sitcom did Ann Morgan Guilbert play the character Yetta Rosenberg on?",
+  "response": [
+    "doc_232.txt",
+    "doc_237.txt",
+    "doc_233.txt",
+    "doc_236.txt",
+    "doc_234.txt"
+  ]
+}

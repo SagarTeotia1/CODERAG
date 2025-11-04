@@ -1,0 +1,10 @@
+{
+  "query": "Which films did Robert L. Surtees win Academy Awards for?",
+  "response": [
+    "doc_36344.txt",
+    "doc_17862.txt",
+    "doc_11255.txt",
+    "doc_27329.txt",
+    "doc_29974.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "In what year was the first NFL championship game played in January?",
+  "response": [
+    "doc_4272.txt",
+    "doc_32929.txt",
+    "doc_12458.txt",
+    "doc_12466.txt",
+    "doc_38738.txt"
+  ]
+}

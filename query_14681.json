@@ -1,0 +1,10 @@
+{
+  "query": "What task was the Little Red Hen ultimately responsible for completing?",
+  "response": [
+    "doc_26792.txt",
+    "doc_23877.txt",
+    "doc_26793.txt",
+    "doc_28858.txt",
+    "doc_17471.txt"
+  ]
+}

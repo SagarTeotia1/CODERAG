@@ -1,0 +1,10 @@
+{
+  "query": "In what years did the Vertigo Tour take place?",
+  "response": [
+    "doc_13409.txt",
+    "doc_27703.txt",
+    "doc_34299.txt",
+    "doc_13407.txt",
+    "doc_37162.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What are the five areas recognized by the Heinz Awards?",
+  "response": [
+    "doc_40030.txt",
+    "doc_23138.txt",
+    "doc_40032.txt",
+    "doc_23140.txt",
+    "doc_36933.txt"
+  ]
+}

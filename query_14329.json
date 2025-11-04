@@ -1,0 +1,10 @@
+{
+  "query": "According to the CDC, what is the recommended interval for receiving a booster shot to maintain protection against tetanus and diphtheria?",
+  "response": [
+    "doc_25900.txt",
+    "doc_25902.txt",
+    "doc_25904.txt",
+    "doc_25905.txt",
+    "doc_25901.txt"
+  ]
+}

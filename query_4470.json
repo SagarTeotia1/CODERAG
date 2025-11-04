@@ -1,0 +1,10 @@
+{
+  "query": "What sport does Lauren Barwick participate in, and in which Paralympic Games did she compete?",
+  "response": [
+    "doc_31479.txt",
+    "doc_31478.txt",
+    "doc_16067.txt",
+    "doc_5496.txt",
+    "doc_11354.txt"
+  ]
+}

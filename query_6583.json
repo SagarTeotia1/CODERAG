@@ -1,0 +1,10 @@
+{
+  "query": "What was Dario Hübner's age when he won the Serie A Top-scorer award?",
+  "response": [
+    "doc_6874.txt",
+    "doc_23918.txt",
+    "doc_23919.txt",
+    "doc_30894.txt",
+    "doc_30897.txt"
+  ]
+}

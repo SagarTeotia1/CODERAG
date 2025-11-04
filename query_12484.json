@@ -1,0 +1,10 @@
+{
+  "query": "What year was Everclear’s album “Welcome to the Drama Club” released?",
+  "response": [
+    "doc_33753.txt",
+    "doc_33757.txt",
+    "doc_33754.txt",
+    "doc_33759.txt",
+    "doc_36809.txt"
+  ]
+}

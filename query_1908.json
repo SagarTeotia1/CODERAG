@@ -1,0 +1,10 @@
+{
+  "query": "What did Granacci remove from a panel created by a young artist?",
+  "response": [
+    "doc_5861.txt",
+    "doc_27996.txt",
+    "doc_5860.txt",
+    "doc_38481.txt",
+    "doc_5858.txt"
+  ]
+}

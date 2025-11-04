@@ -1,0 +1,10 @@
+{
+  "query": "What year was Arla Foods formed as a result of a merger?",
+  "response": [
+    "doc_6988.txt",
+    "doc_29661.txt",
+    "doc_20077.txt",
+    "doc_4936.txt",
+    "doc_20082.txt"
+  ]
+}

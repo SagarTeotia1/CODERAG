@@ -1,0 +1,10 @@
+{
+  "query": "Which films did Mike Binder direct and write?",
+  "response": [
+    "doc_6416.txt",
+    "doc_2970.txt",
+    "doc_18858.txt",
+    "doc_18859.txt",
+    "doc_6417.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What type of case is Frank Galvin asked to handle in *The Verdict*?",
+  "response": [
+    "doc_8496.txt",
+    "doc_8497.txt",
+    "doc_8498.txt",
+    "doc_34404.txt",
+    "doc_34403.txt"
+  ]
+}

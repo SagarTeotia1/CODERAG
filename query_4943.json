@@ -1,0 +1,10 @@
+{
+  "query": "What genre is “The Big Sleep” described as?",
+  "response": [
+    "doc_39217.txt",
+    "doc_39230.txt",
+    "doc_39218.txt",
+    "doc_39222.txt",
+    "doc_39229.txt"
+  ]
+}

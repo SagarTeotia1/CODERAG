@@ -1,0 +1,10 @@
+{
+  "query": "What type of object is described as being in the Yaroslavl Museum?",
+  "response": [
+    "doc_11851.txt",
+    "doc_25033.txt",
+    "doc_31295.txt",
+    "doc_12126.txt",
+    "doc_34534.txt"
+  ]
+}

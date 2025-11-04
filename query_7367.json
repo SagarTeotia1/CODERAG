@@ -1,0 +1,10 @@
+{
+  "query": "What was the subject of the film presented by Dr. Rob Cliver, and what historical event did it depict?",
+  "response": [
+    "doc_23455.txt",
+    "doc_23454.txt",
+    "doc_5101.txt",
+    "doc_23452.txt",
+    "doc_5100.txt"
+  ]
+}

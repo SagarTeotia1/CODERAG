@@ -1,0 +1,10 @@
+{
+  "query": "Name three issues discussed at the upcoming ACP-EU meeting.",
+  "response": [
+    "doc_24242.txt",
+    "doc_34224.txt",
+    "doc_14061.txt",
+    "doc_34515.txt",
+    "doc_22232.txt"
+  ]
+}

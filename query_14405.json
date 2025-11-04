@@ -1,0 +1,10 @@
+{
+  "query": "In what Siberian language are snakes referred to as “ground”?",
+  "response": [
+    "doc_26122.txt",
+    "doc_26113.txt",
+    "doc_26121.txt",
+    "doc_26116.txt",
+    "doc_26115.txt"
+  ]
+}

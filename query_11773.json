@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what are the three main areas covered by the CBRN Action Plan?",
+  "response": [
+    "doc_19654.txt",
+    "doc_24686.txt",
+    "doc_9908.txt",
+    "doc_2185.txt",
+    "doc_16166.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided links, what happened in 1984 that is associated with the Hail Mary?",
+  "response": [
+    "doc_33046.txt",
+    "doc_33041.txt",
+    "doc_33040.txt",
+    "doc_33047.txt",
+    "doc_33045.txt"
+  ]
+}

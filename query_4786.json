@@ -1,0 +1,10 @@
+{
+  "query": "In what region of the United States is the Big Thicket located?",
+  "response": [
+    "doc_38841.txt",
+    "doc_20463.txt",
+    "doc_20461.txt",
+    "doc_20462.txt",
+    "doc_20458.txt"
+  ]
+}

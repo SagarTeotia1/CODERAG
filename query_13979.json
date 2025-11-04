@@ -1,0 +1,10 @@
+{
+  "query": "Who dedicated his Eroica Symphony to the First Consul?",
+  "response": [
+    "doc_25025.txt",
+    "doc_25026.txt",
+    "doc_25023.txt",
+    "doc_25022.txt",
+    "doc_25024.txt"
+  ]
+}

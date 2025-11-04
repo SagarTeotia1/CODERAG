@@ -1,0 +1,10 @@
+{
+  "query": "On what chart did “Pour Some Sugar on Me” by Def Leppard reach number 2?",
+  "response": [
+    "doc_1448.txt",
+    "doc_29931.txt",
+    "doc_29935.txt",
+    "doc_29932.txt",
+    "doc_29930.txt"
+  ]
+}

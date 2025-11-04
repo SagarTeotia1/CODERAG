@@ -1,0 +1,10 @@
+{
+  "query": "When did John B. Stetson return to Philadelphia to begin his hat-making business?",
+  "response": [
+    "doc_24273.txt",
+    "doc_24274.txt",
+    "doc_14492.txt",
+    "doc_24278.txt",
+    "doc_24275.txt"
+  ]
+}

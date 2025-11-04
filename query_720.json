@@ -1,0 +1,10 @@
+{
+  "query": "What color does the album “Indigo Algorithm” revolve around?",
+  "response": [
+    "doc_33448.txt",
+    "doc_33443.txt",
+    "doc_33447.txt",
+    "doc_33446.txt",
+    "doc_31362.txt"
+  ]
+}

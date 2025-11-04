@@ -1,0 +1,10 @@
+{
+  "query": "What literary award did John Corey Whaley receive for his novel \"Where Things Come Back\"?",
+  "response": [
+    "doc_4303.txt",
+    "doc_4302.txt",
+    "doc_4307.txt",
+    "doc_4304.txt",
+    "doc_11562.txt"
+  ]
+}

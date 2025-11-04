@@ -1,0 +1,10 @@
+{
+  "query": "What specific Nike shoe technologies were developed, such as Nike Air, Nike Air Max, Nike Air Zoom, and Nike Shox?",
+  "response": [
+    "doc_24823.txt",
+    "doc_24826.txt",
+    "doc_24825.txt",
+    "doc_24828.txt",
+    "doc_24827.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What is the approximate value of the Boden company as of 2014?",
+  "response": [
+    "doc_26537.txt",
+    "doc_26536.txt",
+    "doc_20714.txt",
+    "doc_37673.txt",
+    "doc_37672.txt"
+  ]
+}

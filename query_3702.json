@@ -1,0 +1,10 @@
+{
+  "query": "Which musical did Jacques Demy direct in 1964 and 1967?",
+  "response": [
+    "doc_23970.txt",
+    "doc_23968.txt",
+    "doc_5736.txt",
+    "doc_23971.txt",
+    "doc_23966.txt"
+  ]
+}

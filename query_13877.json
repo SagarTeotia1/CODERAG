@@ -1,0 +1,10 @@
+{
+  "query": "What is the sulphur content of pet coke used by the Terra Ltd. factory, and how does this contribute to atmospheric pollution?",
+  "response": [
+    "doc_38372.txt",
+    "doc_38370.txt",
+    "doc_10420.txt",
+    "doc_33906.txt",
+    "doc_7863.txt"
+  ]
+}

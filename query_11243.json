@@ -1,0 +1,10 @@
+{
+  "query": "Who is guarding the Holy Grail in the Grail Castle?",
+  "response": [
+    "doc_135.txt",
+    "doc_134.txt",
+    "doc_136.txt",
+    "doc_5870.txt",
+    "doc_743.txt"
+  ]
+}

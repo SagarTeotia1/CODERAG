@@ -1,0 +1,10 @@
+{
+  "query": "What was the title of the book chosen for Oprah’s Book Club in April 2002, marking the fourth Morrison title selected?",
+  "response": [
+    "doc_5712.txt",
+    "doc_5713.txt",
+    "doc_28538.txt",
+    "doc_5711.txt",
+    "doc_28535.txt"
+  ]
+}

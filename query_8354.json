@@ -1,0 +1,10 @@
+{
+  "query": "According to one source, what was the initial message Professor Lindenbrook sent after arriving in an unknown region?",
+  "response": [
+    "doc_7024.txt",
+    "doc_38677.txt",
+    "doc_9147.txt",
+    "doc_38683.txt",
+    "doc_6450.txt"
+  ]
+}

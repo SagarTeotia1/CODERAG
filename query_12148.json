@@ -1,0 +1,10 @@
+{
+  "query": "What has Trenitalia and the Italian Government decided regarding funding for rail infrastructure?",
+  "response": [
+    "doc_20528.txt",
+    "doc_37996.txt",
+    "doc_18302.txt",
+    "doc_29754.txt",
+    "doc_12501.txt"
+  ]
+}

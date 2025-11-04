@@ -1,0 +1,10 @@
+{
+  "query": "In what year was Birmingham City Football Club founded as Small Heath Alliance?",
+  "response": [
+    "doc_40151.txt",
+    "doc_16759.txt",
+    "doc_15784.txt",
+    "doc_16760.txt",
+    "doc_31200.txt"
+  ]
+}

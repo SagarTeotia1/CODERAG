@@ -1,0 +1,10 @@
+{
+  "query": "Which organizations financially support the Committee on Missing Persons in Cyprus?",
+  "response": [
+    "doc_20473.txt",
+    "doc_17198.txt",
+    "doc_5499.txt",
+    "doc_13951.txt",
+    "doc_26458.txt"
+  ]
+}

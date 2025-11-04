@@ -1,0 +1,10 @@
+{
+  "query": "In what centuries did printing become more prevalent in Krakow?",
+  "response": [
+    "doc_6967.txt",
+    "doc_6973.txt",
+    "doc_6971.txt",
+    "doc_6968.txt",
+    "doc_6970.txt"
+  ]
+}

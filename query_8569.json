@@ -1,0 +1,10 @@
+{
+  "query": "Which newspapers are mentioned as being part of the “Groupe Moniteur”?",
+  "response": [
+    "doc_11770.txt",
+    "doc_11768.txt",
+    "doc_11767.txt",
+    "doc_11771.txt",
+    "doc_11769.txt"
+  ]
+}

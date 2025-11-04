@@ -1,0 +1,10 @@
+{
+  "query": "What years did Jimmy McNatt win consecutive AAU national championships?",
+  "response": [
+    "doc_17722.txt",
+    "doc_17723.txt",
+    "doc_32599.txt",
+    "doc_8521.txt",
+    "doc_8520.txt"
+  ]
+}

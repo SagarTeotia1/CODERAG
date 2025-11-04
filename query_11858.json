@@ -1,0 +1,10 @@
+{
+  "query": "When was “Sgt. Pepper’s Lonely Hearts Club Band” released?",
+  "response": [
+    "doc_19895.txt",
+    "doc_21876.txt",
+    "doc_21870.txt",
+    "doc_27006.txt",
+    "doc_39161.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "What skin problems does Dr. Prasad treat?",
+  "response": [
+    "doc_18471.txt",
+    "doc_18470.txt",
+    "doc_18473.txt",
+    "doc_18472.txt",
+    "doc_18469.txt"
+  ]
+}

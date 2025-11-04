@@ -1,0 +1,10 @@
+{
+  "query": "Who is the President of European Agricultural Machinery (CEMA) - session 2?",
+  "response": [
+    "doc_12690.txt",
+    "doc_13670.txt",
+    "doc_17199.txt",
+    "doc_13671.txt",
+    "doc_20838.txt"
+  ]
+}

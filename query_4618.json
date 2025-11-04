@@ -1,0 +1,10 @@
+{
+  "query": "Is the Council aware of this case involving the export of lethal injection drugs?",
+  "response": [
+    "doc_38492.txt",
+    "doc_5287.txt",
+    "doc_5404.txt",
+    "doc_3620.txt",
+    "doc_16809.txt"
+  ]
+}

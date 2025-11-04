@@ -1,0 +1,9 @@
+{
+  "query": "What was Dr. Strangelove’s role as an advisor?",
+  "response": [
+    "doc_23536.txt",
+    "doc_23538.txt",
+    "doc_23537.txt",
+    "doc_23539.txt"
+  ]
+}

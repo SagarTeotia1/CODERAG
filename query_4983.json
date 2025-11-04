@@ -1,0 +1,10 @@
+{
+  "query": "What is the title of the Chief Medical Officer at the MSU Student Health Service?",
+  "response": [
+    "doc_39290.txt",
+    "doc_39296.txt",
+    "doc_39292.txt",
+    "doc_39294.txt",
+    "doc_39291.txt"
+  ]
+}

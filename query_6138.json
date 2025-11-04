@@ -1,0 +1,10 @@
+{
+  "query": "Which airport is located three miles southeast of the town center of Nantucket?",
+  "response": [
+    "doc_5708.txt",
+    "doc_17789.txt",
+    "doc_5707.txt",
+    "doc_25978.txt",
+    "doc_17790.txt"
+  ]
+}

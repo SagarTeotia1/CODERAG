@@ -1,0 +1,10 @@
+{
+  "query": "What degrees did Jan Burnswoods earn from universities?",
+  "response": [
+    "doc_34662.txt",
+    "doc_19592.txt",
+    "doc_22375.txt",
+    "doc_19590.txt",
+    "doc_22376.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "How many decisions were taken by the Council in 2006?",
+  "response": [
+    "doc_19868.txt",
+    "doc_3616.txt",
+    "doc_31333.txt",
+    "doc_15051.txt",
+    "doc_8606.txt"
+  ]
+}

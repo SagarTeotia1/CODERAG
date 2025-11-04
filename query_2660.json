@@ -1,0 +1,10 @@
+{
+  "query": "For which city does the first season of the documentary podcast *Crimetown* focus?",
+  "response": [
+    "doc_33857.txt",
+    "doc_6252.txt",
+    "doc_17671.txt",
+    "doc_34913.txt",
+    "doc_6070.txt"
+  ]
+}

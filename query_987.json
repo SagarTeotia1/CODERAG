@@ -1,0 +1,10 @@
+{
+  "query": "In 1995, during a performance of “Carmen”, what did Fabio Armiliato yell?",
+  "response": [
+    "doc_29755.txt",
+    "doc_35019.txt",
+    "doc_35018.txt",
+    "doc_37933.txt",
+    "doc_35020.txt"
+  ]
+}

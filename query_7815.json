@@ -1,0 +1,10 @@
+{
+  "query": "In what year did the Belarusian Association of Journalists operate?",
+  "response": [
+    "doc_17509.txt",
+    "doc_17507.txt",
+    "doc_17508.txt",
+    "doc_17506.txt",
+    "doc_17505.txt"
+  ]
+}

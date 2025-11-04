@@ -1,0 +1,10 @@
+{
+  "query": "What type of checks are outlined in the Schengen Borders Code regarding passenger travel on ferry connections?",
+  "response": [
+    "doc_20370.txt",
+    "doc_14588.txt",
+    "doc_21756.txt",
+    "doc_14589.txt",
+    "doc_17117.txt"
+  ]
+}

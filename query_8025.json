@@ -1,0 +1,10 @@
+{
+  "query": "What is the approximate size of the galaxy that contains the Big Dipper?",
+  "response": [
+    "doc_10472.txt",
+    "doc_10469.txt",
+    "doc_10468.txt",
+    "doc_21088.txt",
+    "doc_10470.txt"
+  ]
+}

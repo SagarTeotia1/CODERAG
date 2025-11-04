@@ -1,0 +1,10 @@
+{
+  "query": "What year was Poppermost founded?",
+  "response": [
+    "doc_14281.txt",
+    "doc_14283.txt",
+    "doc_14280.txt",
+    "doc_14279.txt",
+    "doc_25210.txt"
+  ]
+}

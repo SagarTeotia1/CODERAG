@@ -1,0 +1,10 @@
+{
+  "query": "What is the name of the improvisational comedy show founded by Jay Painter and Eric Robinson?",
+  "response": [
+    "doc_802.txt",
+    "doc_39015.txt",
+    "doc_7365.txt",
+    "doc_37212.txt",
+    "doc_37218.txt"
+  ]
+}

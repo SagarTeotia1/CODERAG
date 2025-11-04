@@ -1,0 +1,10 @@
+{
+  "query": "Which album released in 1975 featured bassist Lamar Williams and pianist Chuck Leavell?",
+  "response": [
+    "doc_33024.txt",
+    "doc_33023.txt",
+    "doc_35311.txt",
+    "doc_33025.txt",
+    "doc_3349.txt"
+  ]
+}

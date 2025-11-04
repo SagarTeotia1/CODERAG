@@ -1,0 +1,10 @@
+{
+  "query": "What is the song “Good Friend and a Glass of Wine” associated with, and when was it released?",
+  "response": [
+    "doc_37849.txt",
+    "doc_37845.txt",
+    "doc_13768.txt",
+    "doc_19182.txt",
+    "doc_37853.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which Vangelis album received a Grammy Award nomination for Best New Age Album?",
+  "response": [
+    "doc_38903.txt",
+    "doc_12917.txt",
+    "doc_12913.txt",
+    "doc_12915.txt",
+    "doc_12916.txt"
+  ]
+}

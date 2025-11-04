@@ -1,0 +1,10 @@
+{
+  "query": "What is the goal of SpaceX's efforts regarding rockets?",
+  "response": [
+    "doc_21629.txt",
+    "doc_32166.txt",
+    "doc_32164.txt",
+    "doc_32161.txt",
+    "doc_24123.txt"
+  ]
+}

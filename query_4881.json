@@ -1,0 +1,10 @@
+{
+  "query": "In what year did Venus and Serena Williams achieve the Career Doubles Golden Slam?",
+  "response": [
+    "doc_39093.txt",
+    "doc_1463.txt",
+    "doc_1466.txt",
+    "doc_1464.txt",
+    "doc_1470.txt"
+  ]
+}

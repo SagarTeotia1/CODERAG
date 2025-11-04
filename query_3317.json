@@ -1,0 +1,10 @@
+{
+  "query": "Which architect designed the Edifcio Copan and Edifcio Itlia?",
+  "response": [
+    "doc_35344.txt",
+    "doc_35340.txt",
+    "doc_35343.txt",
+    "doc_35342.txt",
+    "doc_35341.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Which composer's work at Cambridge University influenced English musical tastes?",
+  "response": [
+    "doc_15950.txt",
+    "doc_10221.txt",
+    "doc_35990.txt",
+    "doc_30503.txt",
+    "doc_3427.txt"
+  ]
+}

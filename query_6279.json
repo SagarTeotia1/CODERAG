@@ -1,0 +1,10 @@
+{
+  "query": "What organization prepared an assessment of the ELV Directive’s implementation for the Commission?",
+  "response": [
+    "doc_5992.txt",
+    "doc_21248.txt",
+    "doc_30576.txt",
+    "doc_26640.txt",
+    "doc_877.txt"
+  ]
+}

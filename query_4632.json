@@ -1,0 +1,10 @@
+{
+  "query": "What year was “Mean Girls” released?",
+  "response": [
+    "doc_38517.txt",
+    "doc_38516.txt",
+    "doc_22305.txt",
+    "doc_22296.txt",
+    "doc_22304.txt"
+  ]
+}

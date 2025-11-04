@@ -1,0 +1,10 @@
+{
+  "query": "According to Directive 1999/31/EC, what specific aspects of landfill management are covered, such as leachate management and gas control?",
+  "response": [
+    "doc_30597.txt",
+    "doc_33576.txt",
+    "doc_23559.txt",
+    "doc_36204.txt",
+    "doc_39890.txt"
+  ]
+}

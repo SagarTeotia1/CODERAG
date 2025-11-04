@@ -1,0 +1,10 @@
+{
+  "query": "What television show did Binnie Barnes sing the theme song for?",
+  "response": [
+    "doc_20758.txt",
+    "doc_20757.txt",
+    "doc_10279.txt",
+    "doc_9728.txt",
+    "doc_20756.txt"
+  ]
+}

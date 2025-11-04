@@ -1,0 +1,10 @@
+{
+  "query": "What specific dates are associated with celebrations in Greece, such as the day of Saint Magdeleni?",
+  "response": [
+    "doc_26054.txt",
+    "doc_26050.txt",
+    "doc_26049.txt",
+    "doc_26048.txt",
+    "doc_11241.txt"
+  ]
+}

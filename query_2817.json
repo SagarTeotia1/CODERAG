@@ -1,0 +1,10 @@
+{
+  "query": "What was the primary reason for the wrongful arrest and surrender of the man in Belgium?",
+  "response": [
+    "doc_34859.txt",
+    "doc_2835.txt",
+    "doc_36698.txt",
+    "doc_33674.txt",
+    "doc_23919.txt"
+  ]
+}

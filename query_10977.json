@@ -1,0 +1,10 @@
+{
+  "query": "What was the basis for Theodore Dreiser’s novel, *An American Tragedy*?",
+  "response": [
+    "doc_1738.txt",
+    "doc_1737.txt",
+    "doc_1735.txt",
+    "doc_1736.txt",
+    "doc_1743.txt"
+  ]
+}

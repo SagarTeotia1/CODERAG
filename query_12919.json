@@ -1,0 +1,10 @@
+{
+  "query": "What was the primary focus of Ms. Sheeran’s presentation?",
+  "response": [
+    "doc_20802.txt",
+    "doc_1633.txt",
+    "doc_18717.txt",
+    "doc_7232.txt",
+    "doc_16774.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided links, in what year did Faber-Castell merge with Sanford Corporation?",
+  "response": [
+    "doc_32193.txt",
+    "doc_32050.txt",
+    "doc_10766.txt",
+    "doc_4864.txt",
+    "doc_4858.txt"
+  ]
+}

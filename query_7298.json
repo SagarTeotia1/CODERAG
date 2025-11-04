@@ -1,0 +1,10 @@
+{
+  "query": "What film debuted to $57 million in 2000, marking a successful return for the “Mission Impossible” franchise?",
+  "response": [
+    "doc_8574.txt",
+    "doc_8575.txt",
+    "doc_8577.txt",
+    "doc_8578.txt",
+    "doc_8576.txt"
+  ]
+}

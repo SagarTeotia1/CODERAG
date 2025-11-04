@@ -1,0 +1,10 @@
+{
+  "query": "Approximately how many years have passed since Kermit the Frog hosted ‘Sam and Friends’?",
+  "response": [
+    "doc_35865.txt",
+    "doc_35869.txt",
+    "doc_35872.txt",
+    "doc_35873.txt",
+    "doc_35868.txt"
+  ]
+}

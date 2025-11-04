@@ -1,0 +1,10 @@
+{
+  "query": "What was Karl Theo Dussik’s profession, as mentioned in one of the articles?",
+  "response": [
+    "doc_23496.txt",
+    "doc_23497.txt",
+    "doc_23501.txt",
+    "doc_23499.txt",
+    "doc_23498.txt"
+  ]
+}

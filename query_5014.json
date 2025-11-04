@@ -1,0 +1,10 @@
+{
+  "query": "What song plays frequently during scenes in the film *Top Gun*?",
+  "response": [
+    "doc_3913.txt",
+    "doc_3914.txt",
+    "doc_3916.txt",
+    "doc_3917.txt",
+    "doc_3920.txt"
+  ]
+}

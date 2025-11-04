@@ -1,0 +1,10 @@
+{
+  "query": "Does the first line of “The Impossible Dream” begin with a specific word?",
+  "response": [
+    "doc_27878.txt",
+    "doc_27871.txt",
+    "doc_27876.txt",
+    "doc_27872.txt",
+    "doc_27873.txt"
+  ]
+}

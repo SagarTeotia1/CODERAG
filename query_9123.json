@@ -1,0 +1,10 @@
+{
+  "query": "In what year was Warren Woods State Park designated as a National Natural Landmark?",
+  "response": [
+    "doc_40201.txt",
+    "doc_40197.txt",
+    "doc_40196.txt",
+    "doc_40205.txt",
+    "doc_40199.txt"
+  ]
+}

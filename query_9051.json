@@ -1,0 +1,10 @@
+{
+  "query": "What was Italy’s annual inflation rate in February?",
+  "response": [
+    "doc_27147.txt",
+    "doc_34984.txt",
+    "doc_27150.txt",
+    "doc_4955.txt",
+    "doc_27146.txt"
+  ]
+}

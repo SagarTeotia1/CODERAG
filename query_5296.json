@@ -1,0 +1,10 @@
+{
+  "query": "According to the provided links, what happened to the Master in a specific Buffy the Vampire Slayer episode?",
+  "response": [
+    "doc_8274.txt",
+    "doc_8276.txt",
+    "doc_27229.txt",
+    "doc_22312.txt",
+    "doc_8275.txt"
+  ]
+}

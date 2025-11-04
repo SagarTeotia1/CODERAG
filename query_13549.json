@@ -1,0 +1,10 @@
+{
+  "query": "When did Carlos Barnard begin construction on Hotel El Mirador?",
+  "response": [
+    "doc_24009.txt",
+    "doc_9937.txt",
+    "doc_38081.txt",
+    "doc_9934.txt",
+    "doc_9936.txt"
+  ]
+}

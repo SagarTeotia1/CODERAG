@@ -1,0 +1,10 @@
+{
+  "query": "How many EU Member States have installed body scanners as a means of prevention of terrorist attacks or are planning to do so in the near future?",
+  "response": [
+    "doc_224.txt",
+    "doc_38241.txt",
+    "doc_15084.txt",
+    "doc_36849.txt",
+    "doc_5778.txt"
+  ]
+}

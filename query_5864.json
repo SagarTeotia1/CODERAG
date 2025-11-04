@@ -1,0 +1,10 @@
+{
+  "query": "What type of products does Cathay Industrial Biotech produce?",
+  "response": [
+    "doc_5034.txt",
+    "doc_3367.txt",
+    "doc_3369.txt",
+    "doc_7861.txt",
+    "doc_3368.txt"
+  ]
+}

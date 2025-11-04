@@ -1,0 +1,10 @@
+{
+  "query": "According to one source, what other book series did Ann M. Martin write besides “The Baby-Sitters Club”?",
+  "response": [
+    "doc_11010.txt",
+    "doc_11011.txt",
+    "doc_11009.txt",
+    "doc_11007.txt",
+    "doc_11008.txt"
+  ]
+}

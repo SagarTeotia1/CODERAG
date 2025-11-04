@@ -1,0 +1,10 @@
+{
+  "query": "What role did George Gordon, Marquess of Huntly, play in several historical plots?",
+  "response": [
+    "doc_14429.txt",
+    "doc_14428.txt",
+    "doc_14434.txt",
+    "doc_14435.txt",
+    "doc_14438.txt"
+  ]
+}

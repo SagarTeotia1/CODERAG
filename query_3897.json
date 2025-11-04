@@ -1,0 +1,10 @@
+{
+  "query": "What color is the ball used for the Scottish Premier League champions?",
+  "response": [
+    "doc_36670.txt",
+    "doc_36671.txt",
+    "doc_40151.txt",
+    "doc_22125.txt",
+    "doc_16759.txt"
+  ]
+}

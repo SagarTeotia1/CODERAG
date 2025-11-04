@@ -1,0 +1,10 @@
+{
+  "query": "What is the Shahnameh primarily about?",
+  "response": [
+    "doc_28356.txt",
+    "doc_13682.txt",
+    "doc_13684.txt",
+    "doc_28357.txt",
+    "doc_13681.txt"
+  ]
+}

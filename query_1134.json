@@ -1,0 +1,10 @@
+{
+  "query": "What was the subject of “Bang the Drum Slowly”?",
+  "response": [
+    "doc_17630.txt",
+    "doc_17626.txt",
+    "doc_17625.txt",
+    "doc_17631.txt",
+    "doc_17629.txt"
+  ]
+}

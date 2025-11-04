@@ -1,0 +1,10 @@
+{
+  "query": "Which Motown record label released the song “Just a Little Misunderstanding”?",
+  "response": [
+    "doc_18293.txt",
+    "doc_3348.txt",
+    "doc_3349.txt",
+    "doc_21175.txt",
+    "doc_21172.txt"
+  ]
+}

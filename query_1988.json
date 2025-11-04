@@ -1,0 +1,10 @@
+{
+  "query": "How does Blue Origin’s New Shepard vehicle perform its landing?",
+  "response": [
+    "doc_32164.txt",
+    "doc_32166.txt",
+    "doc_32162.txt",
+    "doc_32163.txt",
+    "doc_32169.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Who visited Ahmed Mohamed?",
+  "response": [
+    "doc_22854.txt",
+    "doc_38218.txt",
+    "doc_39910.txt",
+    "doc_39914.txt",
+    "doc_39904.txt"
+  ]
+}

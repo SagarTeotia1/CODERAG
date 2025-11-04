@@ -1,0 +1,10 @@
+{
+  "query": "What is the capital and largest city of Eritrea?",
+  "response": [
+    "doc_9318.txt",
+    "doc_9313.txt",
+    "doc_9317.txt",
+    "doc_9315.txt",
+    "doc_9316.txt"
+  ]
+}

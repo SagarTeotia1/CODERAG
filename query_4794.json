@@ -1,0 +1,10 @@
+{
+  "query": "What role did Phil Woolas hold within the Home Office?",
+  "response": [
+    "doc_7800.txt",
+    "doc_7801.txt",
+    "doc_36369.txt",
+    "doc_36367.txt",
+    "doc_36368.txt"
+  ]
+}

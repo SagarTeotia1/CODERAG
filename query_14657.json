@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what color is Ellen Casper’s skin?",
+  "response": [
+    "doc_26731.txt",
+    "doc_26732.txt",
+    "doc_26736.txt",
+    "doc_26733.txt",
+    "doc_9203.txt"
+  ]
+}

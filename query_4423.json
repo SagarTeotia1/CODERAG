@@ -1,0 +1,10 @@
+{
+  "query": "What rule was invoked to request an urgent procedure regarding a proposal for restrictive measures concerning the International Criminal Tribunal for the former Yugoslavia?",
+  "response": [
+    "doc_2624.txt",
+    "doc_2621.txt",
+    "doc_2610.txt",
+    "doc_27681.txt",
+    "doc_16476.txt"
+  ]
+}

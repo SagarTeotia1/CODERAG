@@ -1,0 +1,10 @@
+{
+  "query": "How many miles long is the Grand Canyon Railway?",
+  "response": [
+    "doc_8552.txt",
+    "doc_8553.txt",
+    "doc_21733.txt",
+    "doc_8551.txt",
+    "doc_8547.txt"
+  ]
+}

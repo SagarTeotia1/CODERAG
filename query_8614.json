@@ -1,0 +1,9 @@
+{
+  "query": "According to the provided links, in what city is the Brewers Hill neighborhood located?",
+  "response": [
+    "doc_11879.txt",
+    "doc_11880.txt",
+    "doc_11877.txt",
+    "doc_11878.txt"
+  ]
+}

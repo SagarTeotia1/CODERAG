@@ -1,0 +1,10 @@
+{
+  "query": "What was the initial title of the movie “A Little Sex,” before it was retitled?",
+  "response": [
+    "doc_35454.txt",
+    "doc_35456.txt",
+    "doc_11454.txt",
+    "doc_35455.txt",
+    "doc_22361.txt"
+  ]
+}

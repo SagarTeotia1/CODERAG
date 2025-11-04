@@ -1,0 +1,10 @@
+{
+  "query": "When did The Three Tenors’ first concert occur?",
+  "response": [
+    "doc_35018.txt",
+    "doc_35020.txt",
+    "doc_1492.txt",
+    "doc_35019.txt",
+    "doc_16333.txt"
+  ]
+}

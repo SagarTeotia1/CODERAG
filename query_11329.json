@@ -1,0 +1,10 @@
+{
+  "query": "Which pharaoh reigned during the time the London and New York obelisks were originally made?",
+  "response": [
+    "doc_24751.txt",
+    "doc_24755.txt",
+    "doc_24752.txt",
+    "doc_24746.txt",
+    "doc_33883.txt"
+  ]
+}

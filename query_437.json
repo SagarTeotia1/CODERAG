@@ -1,0 +1,10 @@
+{
+  "query": "What is the current sentence length Mr. Nicolaos Amarantides is serving?",
+  "response": [
+    "doc_28301.txt",
+    "doc_37558.txt",
+    "doc_38731.txt",
+    "doc_10394.txt",
+    "doc_22761.txt"
+  ]
+}

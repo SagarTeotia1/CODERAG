@@ -1,0 +1,10 @@
+{
+  "query": "Who is responsible for direct taxation within the EU?",
+  "response": [
+    "doc_31625.txt",
+    "doc_19610.txt",
+    "doc_40133.txt",
+    "doc_20030.txt",
+    "doc_35985.txt"
+  ]
+}

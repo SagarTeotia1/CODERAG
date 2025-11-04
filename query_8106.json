@@ -1,0 +1,10 @@
+{
+  "query": "Besides guitar, what other instruments does Jonny Greenwood play?",
+  "response": [
+    "doc_37167.txt",
+    "doc_19882.txt",
+    "doc_39900.txt",
+    "doc_2987.txt",
+    "doc_33025.txt"
+  ]
+}

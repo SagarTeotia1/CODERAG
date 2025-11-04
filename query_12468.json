@@ -1,0 +1,10 @@
+{
+  "query": "What target for renewable energies did the European Parliament call for in 2020?",
+  "response": [
+    "doc_21383.txt",
+    "doc_21244.txt",
+    "doc_25653.txt",
+    "doc_5280.txt",
+    "doc_18748.txt"
+  ]
+}

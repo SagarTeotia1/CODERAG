@@ -1,0 +1,10 @@
+{
+  "query": "According to the article about Coursera, what is expected of users when entering a code?",
+  "response": [
+    "doc_32111.txt",
+    "doc_32113.txt",
+    "doc_32119.txt",
+    "doc_32115.txt",
+    "doc_10204.txt"
+  ]
+}

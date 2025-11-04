@@ -1,0 +1,10 @@
+{
+  "query": "What was the European Parliament’s final decision regarding Elmar Brok’s immunity?",
+  "response": [
+    "doc_34860.txt",
+    "doc_34855.txt",
+    "doc_34856.txt",
+    "doc_34859.txt",
+    "doc_30018.txt"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "query": "According to the passage, what famous poem is the opening poem in *Mountain Interval*?",
+  "response": [
+    "doc_31559.txt",
+    "doc_31561.txt",
+    "doc_31560.txt",
+    "doc_31562.txt",
+    "doc_22611.txt"
+  ]
+}
